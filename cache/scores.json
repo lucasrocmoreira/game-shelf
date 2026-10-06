@@ -1,0 +1,1158 @@
+{
+ "igdb:1051": {
+  "checked": "2026-10-06T21:18:51+00:00",
+  "metacritic": 81,
+  "metacritic_slug": "mirrors-edge-2008",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 88,
+  "steam_reviews": 39435
+ },
+ "igdb:1062": {
+  "checked": "2026-10-06T21:19:56+00:00",
+  "metacritic": 83,
+  "metacritic_slug": "alan-wake",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 90,
+  "steam_reviews": 60227
+ },
+ "igdb:109": {
+  "checked": "2026-10-06T21:19:58+00:00",
+  "metacritic": 83,
+  "metacritic_slug": "la-noire-the-complete-edition",
+  "steam_genres": [
+   "Adventure",
+   "Strategy"
+  ],
+  "steam_pct": 86,
+  "steam_reviews": 37020
+ },
+ "igdb:116": {
+  "checked": "2026-10-06T21:19:10+00:00",
+  "metacritic": 94,
+  "metacritic_slug": "star-wars-knights-of-the-old-republic",
+  "steam_genres": [
+   "Adventure",
+   "RPG"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 34069
+ },
+ "igdb:1161": {
+  "checked": "2026-10-06T21:18:11+00:00",
+  "metacritic": 82,
+  "metacritic_slug": "tomb-raider-legend",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 88,
+  "steam_reviews": 6169
+ },
+ "igdb:1164": {
+  "checked": "2026-10-06T21:20:08+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "tomb-raider",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 270961
+ },
+ "igdb:117717": {
+  "checked": "2026-10-06T21:22:09+00:00",
+  "metacritic": 81,
+  "metacritic_slug": "planet-zoo",
+  "steam_genres": [
+   "Casual",
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 97998
+ },
+ "igdb:11800": {
+  "checked": "2026-10-06T21:21:45+00:00",
+  "metacritic": 93,
+  "metacritic_slug": "divinity-original-sin-ii",
+  "steam_genres": [
+   "Adventure",
+   "RPG",
+   "Strategy"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 206592
+ },
+ "igdb:122": {
+  "checked": "2026-10-06T21:17:30+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "left-4-dead",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 68392
+ },
+ "igdb:124": {
+  "checked": "2026-10-06T21:17:33+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "left-4-dead-2",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 98,
+  "steam_reviews": 1062239
+ },
+ "igdb:124954": {
+  "checked": "2026-10-06T21:22:29+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "crusader-kings-iii",
+  "steam_genres": [
+   "RPG",
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 90,
+  "steam_reviews": 142404
+ },
+ "igdb:13": {
+  "checked": "2026-10-06T21:19:23+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "fallout",
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 25289
+ },
+ "igdb:1318": {
+  "checked": "2026-10-06T21:20:04+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "xcom-enemy-unknown",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 58775
+ },
+ "igdb:1331": {
+  "checked": "2026-10-06T21:19:45+00:00",
+  "metacritic": 88,
+  "metacritic_slug": "limbo",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Indie"
+  ],
+  "steam_pct": 92,
+  "steam_reviews": 62214
+ },
+ "igdb:14": {
+  "checked": "2026-10-06T21:19:26+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "fallout-2",
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 17543
+ },
+ "igdb:14177": {
+  "checked": "2026-10-06T21:21:25+00:00",
+  "metacritic": 94,
+  "metacritic_slug": "divinity-original-sin-enhanced-edition",
+  "steam_genres": [
+   "Adventure",
+   "Indie",
+   "RPG",
+   "Strategy"
+  ],
+  "steam_pct": 89,
+  "steam_reviews": 33243
+ },
+ "igdb:142": {
+  "checked": "2026-10-06T21:18:02+00:00",
+  "metacritic": 78,
+  "metacritic_slug": "star-wars-battlefront-ii",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 54339
+ },
+ "igdb:143114": {
+  "checked": "2026-10-06T21:22:26+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "total-war-warhammer-iii",
+  "steam_genres": [
+   "Action",
+   "Strategy"
+  ],
+  "steam_pct": 72,
+  "steam_reviews": 149986
+ },
+ "igdb:145004": {
+  "checked": "2026-10-06T21:22:20+00:00",
+  "metacritic": 75,
+  "metacritic_slug": "total-war-rome-remastered",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 77,
+  "steam_reviews": 13831
+ },
+ "igdb:152": {
+  "checked": "2026-10-06T21:17:59+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "star-wars-jedi-knight-ii-jedi-outcast",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 4975
+ },
+ "igdb:158983": {
+  "checked": "2026-10-06T21:22:35+00:00",
+  "metacritic": 85,
+  "metacritic_slug": null,
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": 92,
+  "steam_reviews": 3085
+ },
+ "igdb:17": {
+  "checked": "2026-10-06T21:19:29+00:00",
+  "metacritic": 82,
+  "metacritic_slug": "fallout-tactics-brotherhood-of-steel",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 79,
+  "steam_reviews": 2957
+ },
+ "igdb:17032": {
+  "checked": "2026-10-06T21:20:59+00:00",
+  "metacritic": 80,
+  "metacritic_slug": "darkwood",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "RPG",
+   "Strategy"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 25085
+ },
+ "igdb:178351": {
+  "checked": "2026-10-06T21:22:41+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "crab-game",
+  "steam_genres": [
+   "Action",
+   "Casual",
+   "Free To Play",
+   "Indie",
+   "Racing"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 150989
+ },
+ "igdb:18": {
+  "checked": "2026-10-06T21:18:34+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "max-payne",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 89,
+  "steam_reviews": 15915
+ },
+ "igdb:186725": {
+  "checked": "2026-10-06T21:23:09+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "vampire-survivors"
+ },
+ "igdb:1871": {
+  "checked": "2026-10-06T21:20:11+00:00",
+  "metacritic": 82,
+  "metacritic_slug": "the-walking-dead-episode-1---a-new-day",
+  "steam_genres": [
+   "Adventure"
+  ],
+  "steam_pct": 97,
+  "steam_reviews": 80762
+ },
+ "igdb:1876": {
+  "checked": "2026-10-06T21:18:47+00:00",
+  "metacritic": 84,
+  "metacritic_slug": "spore",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Casual",
+   "RPG",
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 72916
+ },
+ "igdb:18918": {
+  "checked": "2026-10-06T21:21:49+00:00",
+  "metacritic": 81,
+  "metacritic_slug": "northgard",
+  "steam_genres": [
+   "Adventure",
+   "Indie",
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 85,
+  "steam_reviews": 68809
+ },
+ "igdb:18967": {
+  "checked": "2026-10-06T21:21:09+00:00",
+  "metacritic": 84,
+  "metacritic_slug": "valkyria-chronicles-remastered",
+  "steam_genres": [
+   "Action",
+   "RPG",
+   "Strategy"
+  ],
+  "steam_pct": 90,
+  "steam_reviews": 13333
+ },
+ "igdb:19": {
+  "checked": "2026-10-06T21:18:38+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "max-payne-2-the-fall-of-max-payne",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 14820
+ },
+ "igdb:191406": {
+  "checked": "2026-10-06T21:23:01+00:00",
+  "metacritic": 95,
+  "metacritic_slug": "portal-companion-collection"
+ },
+ "igdb:19348": {
+  "checked": "2026-10-06T21:17:28+00:00",
+  "metacritic": 97,
+  "metacritic_slug": "half-life-deathmatch-source",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 76,
+  "steam_reviews": 5604
+ },
+ "igdb:19456": {
+  "checked": "2026-10-06T21:23:06+00:00",
+  "metacritic": 88,
+  "metacritic_slug": "ori-and-the-blind-forest-definitive-edition"
+ },
+ "igdb:20": {
+  "checked": "2026-10-06T21:18:14+00:00",
+  "metacritic": 96,
+  "metacritic_slug": "bioshock",
+  "steam_genres": [
+   "Action",
+   "RPG"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 32249
+ },
+ "igdb:2003": {
+  "checked": "2026-10-06T21:20:14+00:00",
+  "metacritic": 74,
+  "metacritic_slug": "batman-arkham-origins",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 90,
+  "steam_reviews": 65764
+ },
+ "igdb:206320": {
+  "checked": "2026-10-06T21:22:01+00:00",
+  "metacritic": 92,
+  "metacritic_slug": null,
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": 88,
+  "steam_reviews": 13635
+ },
+ "igdb:207021": {
+  "checked": "2026-10-06T21:23:14+00:00",
+  "metacritic": 92,
+  "metacritic_slug": null
+ },
+ "igdb:21": {
+  "checked": "2026-10-06T21:18:18+00:00",
+  "metacritic": 88,
+  "metacritic_slug": "bioshock-2",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 89,
+  "steam_reviews": 14998
+ },
+ "igdb:21704": {
+  "checked": "2026-10-06T21:20:02+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "batman-arkham-city",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 78610
+ },
+ "igdb:21892": {
+  "checked": "2026-10-06T21:19:03+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "fallout-3",
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": 82,
+  "steam_reviews": 56294
+ },
+ "igdb:22": {
+  "checked": "2026-10-06T21:20:37+00:00",
+  "metacritic": 92,
+  "metacritic_slug": "system-shock-2",
+  "steam_genres": [
+   "Action",
+   "RPG"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 7850
+ },
+ "igdb:222803": {
+  "checked": "2026-10-06T21:22:44+00:00",
+  "metacritic": 83,
+  "metacritic_slug": "age-of-mythology-retold",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 90,
+  "steam_reviews": 23653
+ },
+ "igdb:22344": {
+  "checked": "2026-10-06T21:21:05+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "rise-of-nations",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 15925
+ },
+ "igdb:231": {
+  "checked": "2026-10-06T21:17:17+00:00",
+  "metacritic": 96,
+  "metacritic_slug": "half-life",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 164695
+ },
+ "igdb:23248": {
+  "checked": "2026-10-06T21:21:15+00:00",
+  "metacritic": 84,
+  "metacritic_slug": "frostpunk",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 137851
+ },
+ "igdb:233": {
+  "checked": "2026-10-06T21:17:20+00:00",
+  "metacritic": 96,
+  "metacritic_slug": "half-life-2",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 98,
+  "steam_reviews": 280413
+ },
+ "igdb:2354": {
+  "checked": "2026-10-06T21:20:17+00:00",
+  "metacritic": 78,
+  "metacritic_slug": "deadlight",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Indie"
+  ],
+  "steam_pct": 79,
+  "steam_reviews": 12779
+ },
+ "igdb:241954": {
+  "checked": "2026-10-06T21:22:50+00:00",
+  "metacritic": 60,
+  "metacritic_slug": null,
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Indie"
+  ],
+  "steam_pct": 89,
+  "steam_reviews": 816
+ },
+ "igdb:25009": {
+  "checked": "2026-10-06T21:21:12+00:00",
+  "metacritic": 61,
+  "metacritic_slug": "fahrenheit-indigo-prophecy-remastered",
+  "steam_genres": [
+   "Adventure",
+   "RPG"
+  ],
+  "steam_pct": 79,
+  "steam_reviews": 8947
+ },
+ "igdb:25358": {
+  "checked": "2026-10-06T21:18:05+00:00",
+  "metacritic": 90,
+  "metacritic_slug": "deus-ex",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 15718
+ },
+ "igdb:253646": {
+  "checked": "2026-10-06T21:23:04+00:00",
+  "metacritic": 79,
+  "metacritic_slug": "the-lara-croft-collection"
+ },
+ "igdb:260": {
+  "checked": "2026-10-06T21:19:42+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "the-sims-3",
+  "steam_genres": [
+   "Simulation"
+  ],
+  "steam_pct": 86,
+  "steam_reviews": 34407
+ },
+ "igdb:27827": {
+  "checked": "2026-10-06T21:18:44+00:00",
+  "metacritic": 79,
+  "metacritic_slug": "assassins-creed-directors-cut-edition",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 81,
+  "steam_reviews": 25513
+ },
+ "igdb:27862": {
+  "checked": "2026-10-06T21:19:20+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "batman-arkham-asylum",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 88070
+ },
+ "igdb:27911": {
+  "checked": "2026-10-06T21:19:39+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "dragon-age-origins",
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": 86,
+  "steam_reviews": 31537
+ },
+ "igdb:28028": {
+  "checked": "2026-10-06T21:21:55+00:00",
+  "metacritic": 87,
+  "metacritic_slug": "total-war-warhammer-ii",
+  "steam_genres": [
+   "Action",
+   "Strategy"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 121476
+ },
+ "igdb:28723": {
+  "checked": "2026-10-06T21:19:52+00:00",
+  "metacritic": 81,
+  "metacritic_slug": "age-of-empires-iii",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 32264
+ },
+ "igdb:28981": {
+  "checked": "2026-10-06T21:17:46+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "warhammer-40000-dawn-of-war",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 11966
+ },
+ "igdb:2950": {
+  "checked": "2026-10-06T21:20:24+00:00",
+  "metacritic": 68,
+  "metacritic_slug": "age-of-empires-ii-hd-edition",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 102897
+ },
+ "igdb:2963": {
+  "checked": "2026-10-06T21:17:36+00:00",
+  "metacritic": 90,
+  "metacritic_slug": "dota-2",
+  "steam_genres": [
+   "Action",
+   "Strategy",
+   "Free To Play"
+  ],
+  "steam_pct": 80,
+  "steam_reviews": 2792140
+ },
+ "igdb:2993": {
+  "checked": "2026-10-06T21:20:46+00:00",
+  "metacritic": 85,
+  "metacritic_slug": "the-wolf-among-us-episode-1---faith",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Casual"
+  ],
+  "steam_pct": 98,
+  "steam_reviews": 40338
+ },
+ "igdb:306148": {
+  "checked": "2026-10-06T21:23:16+00:00",
+  "metacritic": 82,
+  "metacritic_slug": "super-mario-party-jamboree"
+ },
+ "igdb:34293": {
+  "checked": "2026-10-06T21:21:39+00:00",
+  "metacritic": 80,
+  "metacritic_slug": "bioshock-the-collection",
+  "steam_genres": [
+   "Action",
+   "RPG"
+  ],
+  "steam_pct": 83,
+  "steam_reviews": 65319
+ },
+ "igdb:34294": {
+  "checked": "2026-10-06T21:21:42+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "bioshock-2-remastered",
+  "steam_genres": [
+   "Action",
+   "RPG"
+  ],
+  "steam_pct": 72,
+  "steam_reviews": 30433
+ },
+ "igdb:349524": {
+  "checked": "2026-10-06T21:22:54+00:00",
+  "metacritic": 82,
+  "metacritic_slug": null,
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Indie"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 377784
+ },
+ "igdb:38": {
+  "checked": "2026-10-06T21:19:36+00:00",
+  "metacritic": 87,
+  "metacritic_slug": "dead-space-2",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 30130
+ },
+ "igdb:40477": {
+  "checked": "2026-10-06T21:22:04+00:00",
+  "metacritic": 89,
+  "metacritic_slug": "slay-the-spire",
+  "steam_genres": [
+   "Indie",
+   "Strategy"
+  ],
+  "steam_pct": 97,
+  "steam_reviews": 219177
+ },
+ "igdb:405028": {
+  "checked": "2026-10-06T21:22:59+00:00",
+  "metacritic": 86,
+  "metacritic_slug": null,
+  "steam_genres": [
+   "Casual"
+  ],
+  "steam_pct": 88,
+  "steam_reviews": 90398
+ },
+ "igdb:42": {
+  "checked": "2026-10-06T21:18:08+00:00",
+  "metacritic": 80,
+  "metacritic_slug": "deus-ex-invisible-war",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 58,
+  "steam_reviews": 2514
+ },
+ "igdb:438": {
+  "checked": "2026-10-06T21:17:52+00:00",
+  "metacritic": 92,
+  "metacritic_slug": "rome-total-war",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 16760
+ },
+ "igdb:446": {
+  "checked": "2026-10-06T21:17:55+00:00",
+  "metacritic": 79,
+  "metacritic_slug": "rome-total-war-alexander",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 76,
+  "steam_reviews": 933
+ },
+ "igdb:465": {
+  "checked": "2026-10-06T21:18:28+00:00",
+  "metacritic": 85,
+  "metacritic_slug": "warhammer-40-000-dawn-of-war-winter-assault",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 88,
+  "steam_reviews": 2544
+ },
+ "igdb:467": {
+  "checked": "2026-10-06T21:17:49+00:00",
+  "metacritic": 87,
+  "metacritic_slug": "warhammer-40000-dawn-of-war---dark-crusade",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 9552
+ },
+ "igdb:468": {
+  "checked": "2026-10-06T21:18:32+00:00",
+  "metacritic": 73,
+  "metacritic_slug": "warhammer-40-000-dawn-of-war-soulstorm",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 18545
+ },
+ "igdb:47400": {
+  "checked": "2026-10-06T21:19:49+00:00",
+  "metacritic": 96,
+  "metacritic_slug": "dead-island-game-of-the-year-edition",
+  "steam_genres": [],
+  "steam_pct": 87,
+  "steam_reviews": 20533
+ },
+ "igdb:5082": {
+  "checked": "2026-10-06T21:20:30+00:00",
+  "metacritic": 87,
+  "metacritic_slug": "divinity-original-sin",
+  "steam_genres": [
+   "Adventure",
+   "Indie",
+   "RPG",
+   "Strategy"
+  ],
+  "steam_pct": 92,
+  "steam_reviews": 11917
+ },
+ "igdb:517": {
+  "checked": "2026-10-06T21:18:54+00:00",
+  "metacritic": 88,
+  "metacritic_slug": "fear",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 19628
+ },
+ "igdb:518": {
+  "checked": "2026-10-06T21:18:57+00:00",
+  "metacritic": 88,
+  "metacritic_slug": "fear",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 87,
+  "steam_reviews": 1887
+ },
+ "igdb:519": {
+  "checked": "2026-10-06T21:19:01+00:00",
+  "metacritic": 88,
+  "metacritic_slug": "fear",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 86,
+  "steam_reviews": 1398
+ },
+ "igdb:529": {
+  "checked": "2026-10-06T21:20:20+00:00",
+  "metacritic": 88,
+  "metacritic_slug": "far-cry-3",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 88,
+  "steam_reviews": 134728
+ },
+ "igdb:538": {
+  "checked": "2026-10-06T21:18:21+00:00",
+  "metacritic": 94,
+  "metacritic_slug": "bioshock-infinite",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 145874
+ },
+ "igdb:54996": {
+  "checked": "2026-10-06T21:22:06+00:00",
+  "metacritic": 69,
+  "metacritic_slug": "jurassic-world-evolution",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 87,
+  "steam_reviews": 55330
+ },
+ "igdb:55029": {
+  "checked": "2026-10-06T21:22:38+00:00",
+  "metacritic": 81,
+  "metacritic_slug": "age-of-empires-iv",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 86,
+  "steam_reviews": 96007
+ },
+ "igdb:55056": {
+  "checked": "2026-10-06T21:22:16+00:00",
+  "metacritic": 84,
+  "metacritic_slug": "age-of-empires-ii-definitive-edition",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 183099
+ },
+ "igdb:5591": {
+  "checked": "2026-10-06T21:20:52+00:00",
+  "metacritic": 45,
+  "metacritic_slug": "deus-ex-the-fall",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "RPG"
+  ],
+  "steam_pct": 37,
+  "steam_reviews": 4668
+ },
+ "igdb:6044": {
+  "checked": "2026-10-06T21:20:43+00:00",
+  "metacritic": 82,
+  "metacritic_slug": "invisible-inc",
+  "steam_genres": [
+   "Action",
+   "Indie",
+   "Strategy"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 5793
+ },
+ "igdb:65": {
+  "checked": "2026-10-06T21:19:06+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "the-secret-of-monkey-island-special-edition",
+  "steam_genres": [
+   "Adventure"
+  ],
+  "steam_pct": 95,
+  "steam_reviews": 6258
+ },
+ "igdb:654": {
+  "checked": "2026-10-06T21:20:27+00:00",
+  "metacritic": 93,
+  "metacritic_slug": "company-of-heroes",
+  "steam_genres": [
+   "Action",
+   "Strategy"
+  ],
+  "steam_pct": 94,
+  "steam_reviews": 18842
+ },
+ "igdb:72": {
+  "checked": "2026-10-06T21:17:39+00:00",
+  "metacritic": 95,
+  "metacritic_slug": "portal-2",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 99,
+  "steam_reviews": 467822
+ },
+ "igdb:731": {
+  "checked": "2026-10-06T21:18:41+00:00",
+  "metacritic": 90,
+  "metacritic_slug": "grand-theft-auto-iv",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 83,
+  "steam_reviews": 205633
+ },
+ "igdb:7348": {
+  "checked": "2026-10-06T21:22:24+00:00",
+  "metacritic": 85,
+  "metacritic_slug": "halo-the-master-chief-collection",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 92,
+  "steam_reviews": 263081
+ },
+ "igdb:7504": {
+  "checked": "2026-10-06T21:20:40+00:00",
+  "metacritic": 83,
+  "metacritic_slug": "the-forest",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Simulation"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 684020
+ },
+ "igdb:769": {
+  "checked": "2026-10-06T21:19:17+00:00",
+  "metacritic": 82,
+  "metacritic_slug": "lara-croft-and-the-guardian-of-light",
+  "steam_genres": [
+   "Action",
+   "Adventure"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 4804
+ },
+ "igdb:79653": {
+  "checked": "2026-10-06T21:21:37+00:00",
+  "metacritic": null,
+  "metacritic_slug": null,
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "RPG"
+  ],
+  "steam_pct": 98,
+  "steam_reviews": 940
+ },
+ "igdb:80961": {
+  "checked": "2026-10-06T21:22:13+00:00",
+  "metacritic": 85,
+  "metacritic_slug": "total-war-three-kingdoms",
+  "steam_genres": [
+   "Action",
+   "Strategy"
+  ],
+  "steam_pct": 82,
+  "steam_reviews": 93875
+ },
+ "igdb:82117": {
+  "checked": "2026-10-06T21:21:52+00:00",
+  "metacritic": 83,
+  "metacritic_slug": "two-point-hospital",
+  "steam_genres": [
+   "Indie",
+   "Simulation"
+  ],
+  "steam_pct": 92,
+  "steam_reviews": 35014
+ },
+ "igdb:8351": {
+  "checked": "2026-10-06T21:21:03+00:00",
+  "metacritic": 87,
+  "metacritic_slug": "tabletop-simulator",
+  "steam_genres": [
+   "Casual",
+   "Indie",
+   "RPG",
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 74682
+ },
+ "igdb:84532": {
+  "checked": "2026-10-06T21:17:43+00:00",
+  "metacritic": 93,
+  "metacritic_slug": "company-of-heroes",
+  "steam_genres": [
+   "Action",
+   "Strategy"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 7304
+ },
+ "igdb:8515": {
+  "checked": "2026-10-06T21:21:32+00:00",
+  "metacritic": null,
+  "metacritic_slug": null,
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "RPG"
+  ],
+  "steam_pct": 88,
+  "steam_reviews": 456
+ },
+ "igdb:866": {
+  "checked": "2026-10-06T21:18:26+00:00",
+  "metacritic": 90,
+  "metacritic_slug": "sid-meiers-civilization-v",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 211023
+ },
+ "igdb:86652": {
+  "checked": "2026-10-06T21:19:33+00:00",
+  "metacritic": 81,
+  "metacritic_slug": "stronghold",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 96,
+  "steam_reviews": 10460
+ },
+ "igdb:9066": {
+  "checked": "2026-10-06T21:20:49+00:00",
+  "metacritic": 85,
+  "metacritic_slug": "cities-skylines",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 291181
+ },
+ "igdb:93832": {
+  "checked": "2026-10-06T21:19:14+00:00",
+  "metacritic": 96,
+  "metacritic_slug": "star-wars-empire-at-war-gold-pack",
+  "steam_genres": [
+   "Strategy"
+  ],
+  "steam_pct": 98,
+  "steam_reviews": 43285
+ },
+ "igdb:9471": {
+  "checked": "2026-10-06T21:17:24+00:00",
+  "metacritic": 97,
+  "metacritic_slug": "half-life-2-deathmatch",
+  "steam_genres": [
+   "Action"
+  ],
+  "steam_pct": 91,
+  "steam_reviews": 15404
+ },
+ "igdb:9498": {
+  "checked": "2026-10-06T21:21:18+00:00",
+  "metacritic": 83,
+  "metacritic_slug": "deus-ex-mankind-divided",
+  "steam_genres": [
+   "Action",
+   "RPG"
+  ],
+  "steam_pct": 76,
+  "steam_reviews": 42373
+ },
+ "igdb:9740": {
+  "checked": "2026-10-06T21:20:33+00:00",
+  "metacritic": 91,
+  "metacritic_slug": "deus-ex-human-revolution---directors-cut",
+  "steam_genres": [
+   "Action",
+   "RPG"
+  ],
+  "steam_pct": 92,
+  "steam_reviews": 30061
+ },
+ "igdb:9898": {
+  "checked": "2026-10-06T21:21:22+00:00",
+  "metacritic": 86,
+  "metacritic_slug": "total-war-warhammer",
+  "steam_genres": [
+   "Action",
+   "Strategy"
+  ],
+  "steam_pct": 79,
+  "steam_reviews": 52351
+ },
+ "igdb:9902": {
+  "checked": "2026-10-06T21:20:56+00:00",
+  "metacritic": 66,
+  "metacritic_slug": "age-of-mythology-extended-edition",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_pct": 93,
+  "steam_reviews": 36316
+ },
+ "title:dragon quest": {
+  "checked": "2026-10-06T21:23:09+00:00",
+  "metacritic": 63,
+  "metacritic_slug": null
+ }
+}

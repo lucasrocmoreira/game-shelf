@@ -1,0 +1,887 @@
+{
+ "manual": [],
+ "nintendo_eshop": [
+  {
+   "format": "digital",
+   "last_played": null,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "eshop:Portal: Companion Collection",
+   "title": "Portal: Companion Collection"
+  },
+  {
+   "format": "digital",
+   "last_played": null,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "eshop:The Lara Croft Collection",
+   "title": "The Lara Croft Collection"
+  },
+  {
+   "format": "digital",
+   "last_played": null,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "eshop:Ori and the Blind Forest: Definitive Edition",
+   "title": "Ori and the Blind Forest: Definitive Edition"
+  },
+  {
+   "format": "digital",
+   "last_played": null,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "eshop:Vampire Survivors",
+   "title": "Vampire Survivors"
+  },
+  {
+   "format": "digital",
+   "last_played": null,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "eshop:DRAGON QUEST",
+   "title": "DRAGON QUEST"
+  },
+  {
+   "format": "digital",
+   "last_played": null,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "eshop:FINAL FANTASY VII",
+   "title": "FINAL FANTASY VII"
+  },
+  {
+   "format": "digital",
+   "last_played": null,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "eshop:Super Mario Party™ Jamboree",
+   "title": "Super Mario Party™ Jamboree"
+  }
+ ],
+ "steam": [
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.2,
+   "source_id": "70",
+   "steam_appid": 70,
+   "title": "Half-Life"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "220",
+   "steam_appid": 220,
+   "title": "Half-Life 2"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "320",
+   "steam_appid": 320,
+   "title": "Half-Life 2: Deathmatch"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "360",
+   "steam_appid": 360,
+   "title": "Half-Life Deathmatch: Source"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "500",
+   "steam_appid": 500,
+   "title": "Left 4 Dead"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "550",
+   "steam_appid": 550,
+   "title": "Left 4 Dead 2"
+  },
+  {
+   "last_played": "2014-06-13",
+   "platform": "Steam",
+   "playtime_hours": 0.6,
+   "source_id": "570",
+   "steam_appid": 570,
+   "title": "Dota 2"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.1,
+   "source_id": "620",
+   "steam_appid": 620,
+   "title": "Portal 2"
+  },
+  {
+   "last_played": "2020-03-20",
+   "platform": "Steam",
+   "playtime_hours": 0.5,
+   "source_id": "4560",
+   "steam_appid": 4560,
+   "title": "Company of Heroes - Legacy Edition"
+  },
+  {
+   "last_played": "2024-12-19",
+   "platform": "Steam",
+   "playtime_hours": 0.1,
+   "source_id": "4570",
+   "steam_appid": 4570,
+   "title": "Warhammer 40,000: Dawn of War - Anniversary Edition "
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "4580",
+   "steam_appid": 4580,
+   "title": "Warhammer 40,000: Dawn of War - Dark Crusade"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "4760",
+   "steam_appid": 4760,
+   "title": "Rome: Total War"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "4770",
+   "steam_appid": 4770,
+   "title": "Rome: Total War - Alexander"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "6030",
+   "steam_appid": 6030,
+   "title": "STAR WARS™ Jedi Knight II: Jedi Outcast™"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 1.8,
+   "source_id": "6060",
+   "steam_appid": 6060,
+   "title": "Star Wars: Battlefront 2 (Classic, 2005)"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.2,
+   "source_id": "6910",
+   "steam_appid": 6910,
+   "title": "Deus Ex: Game of the Year Edition"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "6920",
+   "steam_appid": 6920,
+   "title": "Deus Ex: Invisible War"
+  },
+  {
+   "last_played": "2025-06-14",
+   "platform": "Steam",
+   "playtime_hours": 2.7,
+   "source_id": "7000",
+   "steam_appid": 7000,
+   "title": "Tomb Raider: Legend"
+  },
+  {
+   "last_played": "2014-07-12",
+   "platform": "Steam",
+   "playtime_hours": 17.1,
+   "source_id": "7670",
+   "steam_appid": 7670,
+   "title": "BioShock"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "8850",
+   "steam_appid": 8850,
+   "title": "BioShock 2"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "8870",
+   "steam_appid": 8870,
+   "title": "BioShock Infinite"
+  },
+  {
+   "last_played": "2024-12-09",
+   "platform": "Steam",
+   "playtime_hours": 3.9,
+   "source_id": "8930",
+   "steam_appid": 8930,
+   "title": "Sid Meier's Civilization V"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "9310",
+   "steam_appid": 9310,
+   "title": "Warhammer 40,000: Dawn of War - Winter Assault"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "9450",
+   "steam_appid": 9450,
+   "title": "Warhammer 40,000: Dawn of War - Soulstorm"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "12140",
+   "steam_appid": 12140,
+   "title": "Max Payne"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "12150",
+   "steam_appid": 12150,
+   "title": "Max Payne 2: The Fall of Max Payne"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "12210",
+   "steam_appid": 12210,
+   "title": "Grand Theft Auto IV: The Complete Edition"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 1.1,
+   "source_id": "15100",
+   "steam_appid": 15100,
+   "title": "Assassin's Creed"
+  },
+  {
+   "last_played": "2025-12-28",
+   "platform": "Steam",
+   "playtime_hours": 0.1,
+   "source_id": "17390",
+   "steam_appid": 17390,
+   "title": "Spore"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "17410",
+   "steam_appid": 17410,
+   "title": "Mirror's Edge"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.7,
+   "source_id": "21090",
+   "steam_appid": 21090,
+   "title": "F.E.A.R."
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "21110",
+   "steam_appid": 21110,
+   "title": "F.E.A.R.: Extraction Point"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "21120",
+   "steam_appid": 21120,
+   "title": "F.E.A.R.: Perseus Mandate"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "22370",
+   "steam_appid": 22370,
+   "title": "Fallout 3 - Game of the Year Edition"
+  },
+  {
+   "last_played": "2026-10-02",
+   "platform": "Steam",
+   "playtime_hours": 0.1,
+   "source_id": "32360",
+   "steam_appid": 32360,
+   "title": "The Secret of Monkey Island: Special Edition"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.2,
+   "source_id": "32370",
+   "steam_appid": 32370,
+   "title": "STAR WARS™ Knights of the Old Republic™"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 3.2,
+   "source_id": "32470",
+   "steam_appid": 32470,
+   "title": "STAR WARS™ Empire at War: Gold Pack"
+  },
+  {
+   "last_played": "2023-04-20",
+   "platform": "Steam",
+   "playtime_hours": 0.1,
+   "source_id": "35130",
+   "steam_appid": 35130,
+   "title": "Lara Croft and the Guardian of Light"
+  },
+  {
+   "last_played": "2015-08-06",
+   "platform": "Steam",
+   "playtime_hours": 1.1,
+   "source_id": "35140",
+   "steam_appid": 35140,
+   "title": "Batman: Arkham Asylum GOTY Edition"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 2.7,
+   "source_id": "38400",
+   "steam_appid": 38400,
+   "title": "Fallout"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "38410",
+   "steam_appid": 38410,
+   "title": "Fallout 2"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "38420",
+   "steam_appid": 38420,
+   "title": "Fallout Tactics"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "40950",
+   "steam_appid": 40950,
+   "title": "Stronghold HD"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "47780",
+   "steam_appid": 47780,
+   "title": "Dead Space 2"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "47810",
+   "steam_appid": 47810,
+   "title": "Dragon Age: Origins - Ultimate Edition"
+  },
+  {
+   "last_played": "2026-10-06",
+   "platform": "Steam",
+   "playtime_hours": 531.0,
+   "source_id": "47890",
+   "steam_appid": 47890,
+   "title": "The Sims™ 3"
+  },
+  {
+   "last_played": "2026-03-09",
+   "platform": "Steam",
+   "playtime_hours": 9.2,
+   "source_id": "48000",
+   "steam_appid": 48000,
+   "title": "LIMBO"
+  },
+  {
+   "last_played": "2024-12-04",
+   "platform": "Steam",
+   "playtime_hours": 0.3,
+   "source_id": "91310",
+   "steam_appid": 91310,
+   "title": "Dead Island"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "105450",
+   "steam_appid": 105450,
+   "title": "Age of Empires® III (2007)"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "108710",
+   "steam_appid": 108710,
+   "title": "Alan Wake"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "110800",
+   "steam_appid": 110800,
+   "title": "L.A. Noire"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "200260",
+   "steam_appid": 200260,
+   "title": "Batman: Arkham City GOTY"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 74.5,
+   "source_id": "200510",
+   "steam_appid": 200510,
+   "title": "XCOM: Enemy Unknown"
+  },
+  {
+   "last_played": "2014-07-13",
+   "platform": "Steam",
+   "playtime_hours": 26.1,
+   "source_id": "203160",
+   "steam_appid": 203160,
+   "title": "Tomb Raider"
+  },
+  {
+   "last_played": "2015-06-27",
+   "platform": "Steam",
+   "playtime_hours": 0.9,
+   "source_id": "207610",
+   "steam_appid": 207610,
+   "title": "The Walking Dead"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "209000",
+   "steam_appid": 209000,
+   "title": "Batman™: Arkham Origins"
+  },
+  {
+   "last_played": "2014-06-20",
+   "platform": "Steam",
+   "playtime_hours": 0.6,
+   "source_id": "211400",
+   "steam_appid": 211400,
+   "title": "Deadlight"
+  },
+  {
+   "last_played": "2015-06-24",
+   "platform": "Steam",
+   "playtime_hours": 3.3,
+   "source_id": "220240",
+   "steam_appid": 220240,
+   "title": "Far Cry® 3"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 4.7,
+   "source_id": "221380",
+   "steam_appid": 221380,
+   "title": "Age of Empires II (2013)"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "228200",
+   "steam_appid": 228200,
+   "title": "Company of Heroes "
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "230230",
+   "steam_appid": 230230,
+   "title": "Divinity: Original Sin (Classic)"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "238010",
+   "steam_appid": 238010,
+   "title": "Deus Ex: Human Revolution - Director's Cut"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "238210",
+   "steam_appid": 238210,
+   "title": "System Shock® 2 (1999)"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "242760",
+   "steam_appid": 242760,
+   "title": "The Forest"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "243970",
+   "steam_appid": 243970,
+   "title": "Invisible, Inc."
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "250320",
+   "steam_appid": 250320,
+   "title": "The Wolf Among Us"
+  },
+  {
+   "last_played": "2025-11-26",
+   "platform": "Steam",
+   "playtime_hours": 1.8,
+   "source_id": "255710",
+   "steam_appid": 255710,
+   "title": "Cities: Skylines"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "258180",
+   "steam_appid": 258180,
+   "title": "Deus Ex: The Fall"
+  },
+  {
+   "last_played": "2024-01-30",
+   "platform": "Steam",
+   "playtime_hours": 18.9,
+   "source_id": "266840",
+   "steam_appid": 266840,
+   "title": "Age of Mythology: Extended Edition"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "274520",
+   "steam_appid": 274520,
+   "title": "Darkwood"
+  },
+  {
+   "last_played": "2020-06-25",
+   "platform": "Steam",
+   "playtime_hours": 40.4,
+   "source_id": "286160",
+   "steam_appid": 286160,
+   "title": "Tabletop Simulator"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "287450",
+   "steam_appid": 287450,
+   "title": "Rise of Nations: Extended Edition"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "294860",
+   "steam_appid": 294860,
+   "title": "Valkyria Chronicles™"
+  },
+  {
+   "last_played": "2026-10-02",
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "312840",
+   "steam_appid": 312840,
+   "title": "Fahrenheit: Indigo Prophecy Remastered"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "323190",
+   "steam_appid": 323190,
+   "title": "Frostpunk"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "337000",
+   "steam_appid": 337000,
+   "title": "Deus Ex: Mankind Divided™"
+  },
+  {
+   "last_played": "2025-12-03",
+   "platform": "Steam",
+   "playtime_hours": 0.1,
+   "source_id": "364360",
+   "steam_appid": 364360,
+   "title": "Total War: WARHAMMER"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.2,
+   "source_id": "373420",
+   "steam_appid": 373420,
+   "title": "Divinity: Original Sin Enhanced Edition"
+  },
+  {
+   "last_played": "2025-12-03",
+   "platform": "Steam",
+   "playtime_hours": 0.9,
+   "source_id": "397330",
+   "steam_appid": 397330,
+   "title": "Little Big Adventure"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "398000",
+   "steam_appid": 398000,
+   "title": "Little Big Adventure 2"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "409710",
+   "steam_appid": 409710,
+   "title": "BioShock Remastered"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "409720",
+   "steam_appid": 409720,
+   "title": "BioShock 2 Remastered"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "435150",
+   "steam_appid": 435150,
+   "title": "Divinity: Original Sin 2"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "466560",
+   "steam_appid": 466560,
+   "title": "Northgard: Definitive Edition"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "535930",
+   "steam_appid": 535930,
+   "title": "Two Point Hospital"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "594570",
+   "steam_appid": 594570,
+   "title": "Total War: WARHAMMER II"
+  },
+  {
+   "last_played": "2022-02-09",
+   "platform": "Steam",
+   "playtime_hours": 15.4,
+   "source_id": "613830",
+   "steam_appid": 613830,
+   "title": "CHRONO TRIGGER"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "646570",
+   "steam_appid": 646570,
+   "title": "Slay the Spire"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.5,
+   "source_id": "648350",
+   "steam_appid": 648350,
+   "title": "Jurassic World Evolution"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.2,
+   "source_id": "703080",
+   "steam_appid": 703080,
+   "title": "Planet Zoo"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "779340",
+   "steam_appid": 779340,
+   "title": "Total War: THREE KINGDOMS"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "813780",
+   "steam_appid": 813780,
+   "title": "Age of Empires II: Definitive Edition"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "885970",
+   "steam_appid": 885970,
+   "title": "Total War: ROME REMASTERED"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 2.1,
+   "source_id": "976730",
+   "steam_appid": 976730,
+   "title": "Halo: The Master Chief Collection"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "1142710",
+   "steam_appid": 1142710,
+   "title": "Total War: WARHAMMER III"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "1158310",
+   "steam_appid": 1158310,
+   "title": "Crusader Kings III"
+  },
+  {
+   "last_played": "2026-10-03",
+   "platform": "Steam",
+   "playtime_hours": 0.1,
+   "source_id": "1173800",
+   "steam_appid": 1173800,
+   "title": "FINAL FANTASY IV"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "1466860",
+   "steam_appid": 1466860,
+   "title": "Age of Empires IV: Anniversary Edition"
+  },
+  {
+   "last_played": "2022-03-05",
+   "platform": "Steam",
+   "playtime_hours": 0.5,
+   "source_id": "1782210",
+   "steam_appid": 1782210,
+   "title": "Crab Game"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "1934680",
+   "steam_appid": 1934680,
+   "title": "Age of Mythology: Retold"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "2318070",
+   "steam_appid": 2318070,
+   "title": "Little Big Adventure – Twinsen’s Quest"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "3527290",
+   "steam_appid": 3527290,
+   "title": "PEAK"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "4704690",
+   "steam_appid": 4704690,
+   "title": "MECCHA CHAMELEON"
+  }
+ ]
+}
