@@ -1,0 +1,45 @@
+name: Add or hide a game
+description: Add a game to your shelf (physical copies, anything not picked up automatically) or hide one.
+title: "Library edit"
+labels: ["library-edit"]
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: Action
+      options:
+        - Add
+        - Hide
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Game title
+      placeholder: "The Legend of Zelda: Tears of the Kingdom"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Only used when adding.
+      options:
+        - Switch
+        - Switch 2
+        - PS5
+        - PS4
+        - Steam
+        - Other
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      options:
+        - Physical
+        - Digital
+  - type: input
+    id: hours
+    attributes:
+      label: Hours played (optional)
+      placeholder: "25"
