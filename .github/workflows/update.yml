@@ -51,10 +51,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cache site/data.json
-          git diff --cached --quiet || git commit -m "Daily update [skip ci]"
-          git pull --rebase --autostash || true
-          git push
+          # These files are generated, so this run's copy always wins; everything else comes from GitHub.
+          mkdir -p /tmp/out && cp -r cache /tmp/out/ && cp site/data.json /tmp/out/ 2>/dev/null || true
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp -r /tmp/out/cache . && cp /tmp/out/data.json site/ 2>/dev/null || true
+            git add cache site/data.json
+            git diff --cached --quiet && break
+            git commit -m "Daily update [skip ci]"
+            git push origin HEAD:main && break
+            sleep 5
+          done
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
