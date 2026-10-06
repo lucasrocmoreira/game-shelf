@@ -134,8 +134,10 @@ def merge(entries, match_ids, igdb_games, overrides):
                 "steam_appid": None,
                 "igdb": g,
                 "cover": None,
+                "ps_plus": True,
             },
         )
+        row["ps_plus"] = row["ps_plus"] and bool(e.get("ps_plus"))
         if e["platform"] not in row["platforms"]:
             row["platforms"].append(e["platform"])
         row["playtime_hours"] = round(row["playtime_hours"] + (e.get("playtime_hours") or 0), 1)
@@ -202,11 +204,28 @@ def refresh_scores(merged, overrides, offline=False):
         bl = scores.backloggd(g.get("slug"))
         if bl is not None:
             c["backloggd"] = bl
+        c["bl_v"] = scores.BACKLOGGD_PARSER_VERSION
 
         c["checked"] = now_iso()
         cache[row["key"]] = c
         if i % 25 == 0:
             save_json(CACHE_DIR / "scores.json", cache)  # checkpoint for long first runs
+
+    # Retry Backloggd alone for games scored with an older parser (cheap: one request per game).
+    done = {r["key"] for r in stale[:MAX_SCORE_LOOKUPS]}
+    retry = [
+        r for r in merged.values()
+        if r["key"] not in done and r["key"] in cache and (r["igdb"] or {}).get("slug")
+        and cache[r["key"]].get("bl_v") != scores.BACKLOGGD_PARSER_VERSION
+    ]
+    if retry and not offline:
+        log(f"Backloggd: retrying {len(retry)} games with the updated parser")
+        for row in retry[:MAX_SCORE_LOOKUPS]:
+            c = cache[row["key"]]
+            bl = scores.backloggd(row["igdb"]["slug"])
+            if bl is not None:
+                c["backloggd"] = bl
+            c["bl_v"] = scores.BACKLOGGD_PARSER_VERSION
 
     save_json(CACHE_DIR / "scores.json", cache)
     return cache
@@ -264,6 +283,7 @@ def to_site_row(row, sc):
             "steam": sc.get("steam_pct"),
         },
         "backloggd_stars": bl,
+        "ps_plus": row["ps_plus"],
         "links": links,
     }
 

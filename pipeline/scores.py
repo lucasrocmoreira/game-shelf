@@ -133,10 +133,13 @@ class OpenCritic:
 
 
 # ---------------------------------------------------------------- Backloggd
+BACKLOGGD_PARSER_VERSION = 2  # bump when the parser changes, so missing scores get retried
+
+_BL_LABEL = r"(?:Avg\.?|Average)\s*Rating"
 _BL_PATTERNS = [
-    # Rating rendered as a standalone number in a heading (e.g. <h1 ...>4.3</h1>) near "Average".
-    re.compile(r"Average\s*Rating.{0,400}?>\s*([0-5](?:\.\d)?)\s*<", re.I | re.S),
-    re.compile(r">\s*([0-5]\.\d)\s*<.{0,400}?Average\s*Rating", re.I | re.S),
+    # The page shows a label "Avg Rating" next to a heading with the number, e.g. <h1>4.4</h1>.
+    re.compile(_BL_LABEL + r".{0,600}?>\s*([0-5](?:\.\d{1,2})?)\s*<", re.I | re.S),
+    re.compile(r">\s*([0-5]\.\d{1,2})\s*<.{0,600}?" + _BL_LABEL, re.I | re.S),
     re.compile(r'"(?:average_?rating|avg_?rating|rating_avg)"\s*:\s*"?([0-5](?:\.\d+)?)', re.I),
     re.compile(r'data-(?:avg|average|rating)="([0-5](?:\.\d+)?)"', re.I),
 ]
@@ -152,6 +155,7 @@ def backloggd(igdb_slug):
         return None
     r = polite_get(f"https://backloggd.com/games/{igdb_slug}/", host_delay=2.5)
     if r is None or r.status_code != 200:
+        log(f"    Backloggd: HTTP {getattr(r, 'status_code', 'no response')} for {igdb_slug}")
         return None
     ld = _ld_json_rating(r.text)
     if ld and ld[0] <= 5:
@@ -162,4 +166,7 @@ def backloggd(igdb_slug):
             v = float(m.group(1))
             if 0 < v <= 5:
                 return round(v, 2)
+    if not getattr(backloggd, "_warned", False):
+        backloggd._warned = True
+        log(f"    Backloggd: page loaded but no rating found for {igdb_slug} (layout may have changed)")
     return None

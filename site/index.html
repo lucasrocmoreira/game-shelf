@@ -110,9 +110,10 @@ footer{margin-top:32px;color:var(--muted);font-size:13px}
     </div>
     <div class="row">
       <details class="sources">
-        <summary>Scores that count toward the average</summary>
+        <summary>Scores in the average and other options</summary>
         <div id="srcBoxes"></div>
         <label><input type="checkbox" id="hideUnscored"> Hide games with no score</label>
+        <label><input type="checkbox" id="hidePlus"> Hide unplayed PS Plus claims</label>
       </details>
     </div>
   </div>
@@ -139,9 +140,9 @@ const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"
 const prefs = (()=>{try{return JSON.parse(localStorage.getItem("shelf-prefs")||"{}")}catch{return {}}})();
 const state = {
   q:"", sort:prefs.sort||"avg", genre:"", platforms:new Set(), byGenre:!!prefs.byGenre,
-  hideUnscored:!!prefs.hideUnscored, srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
+  hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){try{localStorage.setItem("shelf-prefs",JSON.stringify({sort:state.sort,byGenre:state.byGenre,hideUnscored:state.hideUnscored,srcOn:[...state.srcOn]}))}catch{}}
+function savePrefs(){try{localStorage.setItem("shelf-prefs",JSON.stringify({sort:state.sort,byGenre:state.byGenre,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,srcOn:[...state.srcOn]}))}catch{}}
 
 let DATA = {games:[]};
 const $ = id => document.getElementById(id);
@@ -176,7 +177,8 @@ function filtered(){
     (!q || g.title.toLowerCase().includes(q)) &&
     (!state.platforms.size || g.platforms.some(p=>state.platforms.has(p))) &&
     (!state.genre || g.genres.includes(state.genre)) &&
-    (!state.hideUnscored || avg(g)!=null));
+    (!state.hideUnscored || avg(g)!=null) &&
+    (!state.hidePlus || !g.ps_plus || g.playtime>0));
 }
 function shown(g){
   const k=state.sort;
@@ -190,7 +192,7 @@ function gameRow(g,i){
   const s = shown(g);
   const id = g.title+"|"+g.platforms.join();
   const open = state.open.has(id);
-  const subs = [g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join(""),
+  const subs = [g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")+(g.ps_plus?`<span class="pill">PS Plus</span>`:""),
     esc(g.genres.slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" ");
   const breakdown = Object.entries(SOURCES).map(([k,v])=>{
     const val=g.scores[k];
@@ -255,12 +257,14 @@ function setup(){
   $("srcBoxes").innerHTML = Object.entries(SOURCES).map(([k,v])=>`<label><input type="checkbox" data-src="${k}" ${state.srcOn.has(k)?"checked":""}> ${v.label}</label>`).join("");
   $("byGenre").setAttribute("aria-pressed",state.byGenre);
   $("hideUnscored").checked = state.hideUnscored;
+  $("hidePlus").checked = state.hidePlus;
 
   $("q").oninput = e=>{state.q=e.target.value;render()};
   $("sort").onchange = e=>{state.sort=e.target.value;render()};
   $("genre").onchange = e=>{state.genre=e.target.value;render()};
   $("byGenre").onclick = e=>{state.byGenre=!state.byGenre;e.currentTarget.setAttribute("aria-pressed",state.byGenre);render()};
   $("hideUnscored").onchange = e=>{state.hideUnscored=e.target.checked;render()};
+  $("hidePlus").onchange = e=>{state.hidePlus=e.target.checked;render()};
   $("platforms").onclick = e=>{const b=e.target.closest("[data-p]"); if(!b) return;
     const p=b.dataset.p; state.platforms.has(p)?state.platforms.delete(p):state.platforms.add(p);
     b.setAttribute("aria-pressed",state.platforms.has(p)); render()};

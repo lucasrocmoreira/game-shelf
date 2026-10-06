@@ -70,39 +70,94 @@ def _platform_from_category(cat) -> str:
     return "PlayStation"
 
 
-def fetch_psn(npsso: str):
-    """Games played on the account (PS4/PS5), via PlayStation's title stats.
+def _entitlement_platform(ent) -> str:
+    plats = {str(a.get("platformId", "")).lower() for a in ent.get("entitlementAttributes") or []}
+    pkg = str((ent.get("gameMeta") or {}).get("packageType", "")).upper()
+    if "ps5" in plats or pkg == "PSGD":
+        return "PS5"
+    if "ps4" in plats or pkg == "PS4GD":
+        return "PS4"
+    return "PlayStation"
 
-    Note: PSN only exposes games that have been launched at least once.
+
+def _is_ps_plus(ent) -> bool:
+    reward = ent.get("rewardMeta") or {}
+    return bool(ent.get("isSubscription") or reward.get("rewardServiceType"))
+
+
+def fetch_psn(npsso: str):
+    """PS4/PS5 games on the account.
+
+    Combines two PlayStation sources:
+      - title stats: every game launched at least once, with playtime
+      - entitlements: every game owned digitally, including PS Plus monthly claims, played or not
+    Physical discs only appear once they have been played.
     """
     from psnawp_api import PSNAWP  # imported lazily so the rest works without it
 
     psn = PSNAWP(npsso)
     me = psn.me()
+
+    by_id = {}
     try:
         stats = me.title_stats(limit=None)
     except TypeError:
         stats = me.title_stats()
-
-    out = []
     for t in stats:
         name = getattr(t, "name", None) or getattr(t, "title_name", None)
         if not name:
             continue
         dur = getattr(t, "play_duration", None)
-        hours = round(dur.total_seconds() / 3600, 1) if dur else 0.0
         last = getattr(t, "last_played_date_time", None)
-        out.append(
-            {
-                "platform": _platform_from_category(getattr(t, "category", "")),
-                "source_id": str(getattr(t, "title_id", name)),
+        tid = str(getattr(t, "title_id", None) or name)
+        by_id[tid] = {
+            "platform": _platform_from_category(getattr(t, "category", "")),
+            "source_id": tid,
+            "title": name,
+            "playtime_hours": round(dur.total_seconds() / 3600, 1) if dur else 0.0,
+            "last_played": last.date().isoformat() if last else None,
+            "cover": getattr(t, "image_url", None),
+            "ps_plus": False,
+        }
+    played = len(by_id)
+
+    owned_only = 0
+    try:
+        for ent in me.game_entitlements(page_size=200):
+            if ent.get("isGame") is False or ent.get("isBeta") or ent.get("activeFlag") is False:
+                continue
+            title_meta = ent.get("titleMeta") or {}
+            concept = ent.get("conceptMeta") or {}
+            name = concept.get("name") or title_meta.get("name") or (ent.get("gameMeta") or {}).get("name")
+            tid = title_meta.get("titleId") or ent.get("productId") or name
+            if not name:
+                continue
+            plus = _is_ps_plus(ent)
+            if tid in by_id:
+                by_id[tid]["ps_plus"] = by_id[tid]["ps_plus"] or plus
+                continue
+            by_id[tid] = {
+                "platform": _entitlement_platform(ent),
+                "source_id": tid,
                 "title": name,
-                "playtime_hours": hours,
-                "last_played": last.date().isoformat() if last else None,
-                "cover": getattr(t, "image_url", None),
+                "playtime_hours": 0.0,
+                "last_played": None,
+                "cover": title_meta.get("imageUrl") or concept.get("iconUrl"),
+                "ps_plus": plus,
             }
-        )
-    log(f"PlayStation: {len(out)} games")
+            owned_only += 1
+    except Exception as e:  # owned list is a bonus; never lose the played list over it
+        log(f"  PlayStation owned-games list unavailable ({type(e).__name__}: {e}); using played games only")
+
+    # The same game can show up once per platform version; keep one entry per platform and name.
+    out, seen = [], set()
+    for g in sorted(by_id.values(), key=lambda g: -g["playtime_hours"]):
+        k = (g["platform"], g["title"].lower())
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(g)
+    log(f"PlayStation: {len(out)} games ({played} played, {owned_only} owned but never launched)")
     return out
 
 
