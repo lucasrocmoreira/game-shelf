@@ -1,0 +1,19 @@
+# Fixes for the rare game that gets matched or scored wrong. Keys are game titles as they
+# appear in your library (case and punctuation don't matter).
+
+# Hide things that aren't really games (demos, betas, apps, tools).
+exclude:
+  # - Steamworks Common Redistributables
+  # - Spacewar
+
+# Force a specific IGDB entry. The slug is the last part of the igdb.com/games/<slug> URL.
+igdb:
+  # "NieR Replicant ver.1.22474487139...": nier-replicant-ver-dot-1-dot-22474487139
+
+# Force a specific Metacritic page. The slug is the last part of metacritic.com/game/<slug>/
+metacritic:
+  # "Final Fantasy VII Remake Intergrade": final-fantasy-vii-remake-intergrade
+
+# Change the displayed title.
+rename:
+  # "DOOM": Doom (2016)

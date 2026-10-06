@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Game Shelf</title>
+<meta name="theme-color" content="#E7E9EE" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#151821" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#E7E9EE; --panel:#F6F7F9; --ink:#1B2130; --muted:#5D6578; --line:#CDD2DC;
+  --accent:#3550E6; --accent-ink:#fff;
+  --hi:#1F8A5B; --mid:#B88A12; --lo:#C0453B; --none:#9AA1B0;
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#151821; --panel:#1E2230; --ink:#E9ECF3; --muted:#9AA2B6; --line:#2E3447;
+  --accent:#7D92FF; --accent-ink:#0F1220; --hi:#3CC487; --mid:#E0B341; --lo:#F07467; --none:#5D6578;
+}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.5 var(--body)}
+a{color:inherit}
+button,select,input{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 64px}
+
+/* Hero: the current number one */
+.hero{display:grid;grid-template-columns:132px 1fr;gap:18px;align-items:end;margin:8px 0 26px}
+.hero img{width:132px;aspect-ratio:3/4;object-fit:cover;border-radius:10px;background:var(--line);box-shadow:0 10px 30px -12px rgba(20,25,45,.55)}
+.hero .lead{color:var(--muted);margin:0 0 4px;font-size:14px}
+.hero h1{font:800 clamp(30px,7vw,52px)/.95 var(--display);font-stretch:78%;letter-spacing:-.01em;margin:0 0 10px}
+.hero .big{font:800 clamp(56px,14vw,96px)/.8 var(--display);font-stretch:75%;display:block}
+.hero .meta{color:var(--muted);font-size:14px;margin-top:8px}
+
+.status{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--mid);border-radius:8px;padding:10px 12px;margin:0 0 18px;font-size:14px}
+.status p{margin:2px 0}
+
+/* Controls */
+.controls{background:var(--bg);padding:10px 0 12px;margin:0 -16px 6px;padding-inline:16px;border-bottom:1px solid var(--line)}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.row+.row{margin-top:8px}
+.search{flex:1 1 180px;min-width:0;padding:9px 12px;border:1px solid var(--line);border-radius:999px;background:var(--panel)}
+select{padding:8px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel);max-width:100%}
+.chip{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:14px}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.count{color:var(--muted);font-size:13px;margin-left:auto}
+details.sources{font-size:14px;color:var(--muted)}
+details.sources summary{cursor:pointer}
+details.sources label{display:inline-flex;gap:6px;align-items:center;margin:6px 12px 0 0;color:var(--ink)}
+
+/* List */
+ol.list{list-style:none;margin:0;padding:0}
+.game{display:grid;grid-template-columns:34px 48px 1fr auto;gap:12px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+.rank{font:700 18px/1 var(--display);color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
+.game img{width:48px;aspect-ratio:3/4;object-fit:cover;border-radius:5px;background:var(--line)}
+.game .t{font:650 17px/1.2 var(--display);margin:0;overflow-wrap:anywhere}
+.game .sub{color:var(--muted);font-size:13px;margin-top:3px}
+.pill{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:4px;padding:0 5px;margin-right:4px;color:var(--ink)}
+.score{font:800 28px/1 var(--display);font-stretch:80%;text-align:right;min-width:52px;font-variant-numeric:tabular-nums}
+.hi{color:var(--hi)} .mid{color:var(--mid)} .lo{color:var(--lo)} .na{color:var(--none)}
+.game summary{list-style:none;cursor:pointer;display:contents}
+.game summary::-webkit-details-marker{display:none}
+.breakdown{grid-column:3/5;display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:6px 14px;font-size:13px;padding-top:4px}
+.breakdown div{display:flex;justify-content:space-between;border-bottom:1px dotted var(--line);padding:2px 0}
+.breakdown b{font-variant-numeric:tabular-nums}
+.links{grid-column:3/5;font-size:13px;color:var(--muted)}
+.links a{margin-right:12px}
+
+/* Genre view */
+section.genre{margin-top:26px}
+section.genre h2{font:750 24px/1.1 var(--display);font-stretch:85%;margin:0 0 4px;display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+section.genre h2 small{font:400 13px var(--body);color:var(--muted)}
+.more{margin-top:10px;background:none;border:0;color:var(--accent);cursor:pointer;padding:4px 0;font-weight:600}
+
+.empty{padding:40px 0;color:var(--muted);text-align:center}
+footer{margin-top:32px;color:var(--muted);font-size:13px}
+@media (min-width:700px){.controls{position:sticky;top:0;z-index:5}}
+@media (max-width:520px){
+  .hero{grid-template-columns:96px 1fr;gap:14px}
+  .hero img{width:96px}
+  .game{grid-template-columns:26px 40px 1fr auto;gap:10px}
+  .game img{width:40px}
+  .breakdown,.links{grid-column:2/5}
+}
+@media (prefers-reduced-motion:no-preference){
+  .hero img{animation:lift .6s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes lift{from{opacity:0;transform:translateY(14px) rotate(-2deg)}to{opacity:1;transform:none}}
+}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header class="hero" id="hero" aria-live="polite"></header>
+  <div id="status"></div>
+
+  <div class="controls">
+    <div class="row">
+      <input class="search" id="q" type="search" placeholder="Search your games" aria-label="Search your games">
+      <select id="sort" aria-label="Rank by"></select>
+    </div>
+    <div class="row" id="platforms" role="group" aria-label="Platforms"></div>
+    <div class="row">
+      <select id="genre" aria-label="Genre"></select>
+      <button class="chip" id="byGenre" aria-pressed="false">Rank within each genre</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="row">
+      <details class="sources">
+        <summary>Scores that count toward the average</summary>
+        <div id="srcBoxes"></div>
+        <label><input type="checkbox" id="hideUnscored"> Hide games with no score</label>
+      </details>
+    </div>
+  </div>
+
+  <div id="out"></div>
+  <footer id="foot"></footer>
+</main>
+
+<script>
+const SOURCES = {
+  metacritic:  {label:"Metacritic"},
+  opencritic:  {label:"OpenCritic"},
+  backloggd:   {label:"Backloggd"},
+  igdb_critic: {label:"IGDB critics"},
+  igdb_user:   {label:"IGDB players"},
+  steam:       {label:"Steam reviews"},
+};
+const SORTS = [
+  ["avg","Average score"], ...Object.entries(SOURCES).map(([k,v])=>[k,v.label]),
+  ["playtime","Most played"], ["recent","Recently played"], ["year","Newest release"], ["title","Title A to Z"],
+];
+const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"Backloggd",igdb:"IGDB",steam:"Steam"};
+
+const prefs = (()=>{try{return JSON.parse(localStorage.getItem("shelf-prefs")||"{}")}catch{return {}}})();
+const state = {
+  q:"", sort:prefs.sort||"avg", genre:"", platforms:new Set(), byGenre:!!prefs.byGenre,
+  hideUnscored:!!prefs.hideUnscored, srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
+};
+function savePrefs(){try{localStorage.setItem("shelf-prefs",JSON.stringify({sort:state.sort,byGenre:state.byGenre,hideUnscored:state.hideUnscored,srcOn:[...state.srcOn]}))}catch{}}
+
+let DATA = {games:[]};
+const $ = id => document.getElementById(id);
+const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const tone = v => v==null?"na":v>=80?"hi":v>=65?"mid":"lo";
+
+function avg(g){
+  const vals = [...state.srcOn].map(k=>g.scores[k]).filter(v=>typeof v==="number");
+  return vals.length ? Math.round(vals.reduce((a,b)=>a+b,0)/vals.length) : null;
+}
+function value(g,key){
+  if(key==="avg") return avg(g);
+  if(key in SOURCES) return g.scores[key];
+  if(key==="playtime") return g.playtime||null;
+  if(key==="recent") return g.last_played?Date.parse(g.last_played):null;
+  if(key==="year") return g.year;
+  return null;
+}
+function sorted(list){
+  const k = state.sort;
+  if(k==="title") return [...list].sort((a,b)=>a.title.localeCompare(b.title));
+  return [...list].sort((a,b)=>{
+    const va=value(a,k), vb=value(b,k);
+    if(va==null&&vb==null) return a.title.localeCompare(b.title);
+    if(va==null) return 1; if(vb==null) return -1;
+    return vb-va || (avg(b)??-1)-(avg(a)??-1) || a.title.localeCompare(b.title);
+  });
+}
+function filtered(){
+  const q = state.q.trim().toLowerCase();
+  return DATA.games.filter(g=>
+    (!q || g.title.toLowerCase().includes(q)) &&
+    (!state.platforms.size || g.platforms.some(p=>state.platforms.has(p))) &&
+    (!state.genre || g.genres.includes(state.genre)) &&
+    (!state.hideUnscored || avg(g)!=null));
+}
+function shown(g){
+  const k=state.sort;
+  if(k==="playtime") return {v:g.playtime?Math.round(g.playtime):null, unit:"h", cls:""};
+  if(k==="year") return {v:g.year, unit:"", cls:""};
+  if(k==="recent"||k==="title") { const a=avg(g); return {v:a,unit:"",cls:tone(a)}; }
+  const v=value(g,k); return {v, unit:"", cls:tone(v)};
+}
+
+function gameRow(g,i){
+  const s = shown(g);
+  const id = g.title+"|"+g.platforms.join();
+  const open = state.open.has(id);
+  const subs = [g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join(""),
+    esc(g.genres.slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" ");
+  const breakdown = Object.entries(SOURCES).map(([k,v])=>{
+    const val=g.scores[k];
+    const extra = k==="backloggd"&&g.backloggd_stars!=null?` <span class="na">(${g.backloggd_stars}★)</span>`:"";
+    return `<div><span>${v.label}</span><b class="${tone(val)}">${val??"–"}${extra}</b></div>`;
+  }).join("") + (g.playtime?`<div><span>Played</span><b>${g.playtime} h</b></div>`:"");
+  const links = Object.entries(g.links||{}).map(([k,u])=>`<a href="${esc(u)}" target="_blank" rel="noopener">${LINK_LABELS[k]||k}</a>`).join("");
+  return `<li class="game" data-id="${esc(id)}">
+    <span class="rank">${i+1}</span>
+    ${g.cover?`<img src="${esc(g.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
+    <button class="title-btn" aria-expanded="${open}" style="all:unset;cursor:pointer;min-width:0">
+      <p class="t">${esc(g.title)}</p><div class="sub">${subs}</div>
+    </button>
+    <span class="score ${s.cls}" aria-label="score">${s.v??"–"}${s.v!=null?s.unit:""}</span>
+    ${open?`<div class="breakdown">${breakdown}</div>${links?`<div class="links">${links}</div>`:""}`:""}
+  </li>`;
+}
+
+function renderHero(){
+  const k = state.sort in SOURCES || state.sort==="avg" ? state.sort : "avg";
+  const ranked = [...DATA.games].filter(g=>value(g,k)!=null).sort((a,b)=>value(b,k)-value(a,k));
+  const g = ranked[0];
+  if(!g){ $("hero").innerHTML = `<div></div><div><h1>Your game shelf</h1><p class="meta">Scores appear after the first daily update finishes.</p></div>`; return; }
+  const v = value(g,k);
+  const label = k==="avg"?"average score":SOURCES[k].label+" score";
+  $("hero").innerHTML = `${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<div></div>`}
+    <div><p class="lead">Best in your library by ${esc(label)}</p>
+    <h1>${esc(g.title)}</h1>
+    <span class="big ${tone(v)}">${v}</span>
+    <p class="meta">${DATA.games.length} games across ${new Set(DATA.games.flatMap(x=>x.platforms)).size} platforms</p></div>`;
+}
+
+function render(){
+  savePrefs();
+  renderHero();
+  const list = filtered();
+  $("count").textContent = `${list.length} ${list.length===1?"game":"games"}`;
+  if(!list.length){ $("out").innerHTML = `<p class="empty">No games match these filters. Clear the search or pick another platform.</p>`; return; }
+  if(!state.byGenre){
+    $("out").innerHTML = `<ol class="list">${sorted(list).map(gameRow).join("")}</ol>`;
+    return;
+  }
+  const by = new Map();
+  for(const g of list) for(const ge of (g.genres.length?g.genres:["No genre"])){ if(!by.has(ge)) by.set(ge,[]); by.get(ge).push(g); }
+  const genres = [...by.entries()].sort((a,b)=>b[1].length-a[1].length);
+  $("out").innerHTML = genres.map(([ge,gs])=>{
+    const all = state.open.has("genre:"+ge);
+    const s = sorted(gs);
+    return `<section class="genre"><h2>${esc(ge)} <small>${gs.length}</small></h2>
+      <ol class="list">${(all?s:s.slice(0,5)).map(gameRow).join("")}</ol>
+      ${s.length>5?`<button class="more" data-genre="${esc(ge)}">${all?"Show top 5":`Show all ${s.length}`}</button>`:""}</section>`;
+  }).join("");
+}
+
+function setup(){
+  $("sort").innerHTML = SORTS.map(([k,l])=>`<option value="${k}">Rank by ${l.toLowerCase()}</option>`).join("");
+  $("sort").value = state.sort;
+  const plats = [...new Set(DATA.games.flatMap(g=>g.platforms))].sort();
+  $("platforms").innerHTML = plats.map(p=>`<button class="chip" aria-pressed="false" data-p="${esc(p)}">${esc(p)}</button>`).join("");
+  const genres = [...new Set(DATA.games.flatMap(g=>g.genres))].sort();
+  $("genre").innerHTML = `<option value="">All genres</option>`+genres.map(g=>`<option>${esc(g)}</option>`).join("");
+  $("srcBoxes").innerHTML = Object.entries(SOURCES).map(([k,v])=>`<label><input type="checkbox" data-src="${k}" ${state.srcOn.has(k)?"checked":""}> ${v.label}</label>`).join("");
+  $("byGenre").setAttribute("aria-pressed",state.byGenre);
+  $("hideUnscored").checked = state.hideUnscored;
+
+  $("q").oninput = e=>{state.q=e.target.value;render()};
+  $("sort").onchange = e=>{state.sort=e.target.value;render()};
+  $("genre").onchange = e=>{state.genre=e.target.value;render()};
+  $("byGenre").onclick = e=>{state.byGenre=!state.byGenre;e.currentTarget.setAttribute("aria-pressed",state.byGenre);render()};
+  $("hideUnscored").onchange = e=>{state.hideUnscored=e.target.checked;render()};
+  $("platforms").onclick = e=>{const b=e.target.closest("[data-p]"); if(!b) return;
+    const p=b.dataset.p; state.platforms.has(p)?state.platforms.delete(p):state.platforms.add(p);
+    b.setAttribute("aria-pressed",state.platforms.has(p)); render()};
+  $("srcBoxes").onchange = e=>{const k=e.target.dataset.src; e.target.checked?state.srcOn.add(k):state.srcOn.delete(k); render()};
+  $("out").onclick = e=>{
+    const more=e.target.closest(".more");
+    if(more){const k="genre:"+more.dataset.genre; state.open.has(k)?state.open.delete(k):state.open.add(k); render(); return;}
+    const btn=e.target.closest(".title-btn"); if(!btn) return;
+    const id=btn.closest(".game").dataset.id; state.open.has(id)?state.open.delete(id):state.open.add(id); render();
+  };
+
+  const bad = Object.entries(DATA.status||{}).filter(([,v])=>v!=="ok"&&v!=="not configured");
+  const names = {steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB"};
+  $("status").innerHTML = bad.length ? `<div class="status">${bad.map(([k,v])=>`<p><b>${names[k]||k}:</b> ${esc(v)}${k==="playstation"?". Your PlayStation sign-in token has probably expired; generate a new one and update the PSN_NPSSO secret.":k==="nintendo_eshop"?". Check that the GMAIL_APP_PASSWORD secret is still valid.":""}</p>`).join("")}</div>` : "";
+  const when = DATA.generated ? new Date(DATA.generated).toLocaleString([], {dateStyle:"medium",timeStyle:"short"}) : "never";
+  $("foot").textContent = `Last updated ${when}. Updates daily.`;
+}
+
+fetch("data.json",{cache:"no-store"}).then(r=>r.ok?r.json():{games:[]}).catch(()=>({games:[]}))
+  .then(d=>{DATA=d; setup(); render();});
+</script>
+</body>
+</html>

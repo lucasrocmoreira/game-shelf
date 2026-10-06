@@ -1,0 +1,16 @@
+# Nintendo has no library API, so Switch games live in this list.
+# Edit it right on GitHub (works from the phone app too); saving it triggers an update.
+#
+# One game per line. Put the title in quotes if it contains a colon.
+#   - "The Legend of Zelda: Tears of the Kingdom"
+#   - Super Mario Odyssey
+#
+# Optional details:
+#   - title: "Metroid Dread"
+#     hours: 12
+#     platform: Switch 2     # defaults to Switch
+#     format: physical
+
+games:
+  # - "The Legend of Zelda: Tears of the Kingdom"
+  # - Super Mario Odyssey
