@@ -2671,7 +2671,12 @@
   "checked": "2026-10-07T01:58:19+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "borderlands-3"
+  "metacritic_slug": "borderlands-3",
+  "oc_checked": "2026-10-07T02:54:00+00:00",
+  "opencritic": 80,
+  "opencritic_id": 7656,
+  "opencritic_pct": 78,
+  "opencritic_tier": "Strong"
  },
  "igdb:19245": {
   "backloggd": 4.2,
