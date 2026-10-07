@@ -231,6 +231,13 @@
    "format": "digital",
    "added": "2026-10-07",
    "igdb": "new-super-mario-bros"
+  },
+  {
+   "title": "Mario Kart DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mario-kart-ds"
   }
  ],
  "match": {
