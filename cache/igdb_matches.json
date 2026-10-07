@@ -6995,6 +6995,17 @@
   "v": 2,
   "via": "search"
  },
+ "PS5:manual:Cyberpunk 2077": {
+  "candidates": 9,
+  "checked": "2026-10-07T05:51:31+00:00",
+  "conf": "high",
+  "id": 1877,
+  "score": 1.15,
+  "slug": null,
+  "title": "Cyberpunk 2077",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:manual:Elden ring": {
   "candidates": 23,
   "checked": "2026-10-07T04:28:30+00:00",

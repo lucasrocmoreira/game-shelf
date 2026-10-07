@@ -8,6 +8,15 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Elden ring",
    "title": "Elden ring"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Cyberpunk 2077",
+   "title": "Cyberpunk 2077"
   }
  ],
  "nintendo_eshop": [
