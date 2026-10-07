@@ -1054,6 +1054,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 9594
  },
+ "kirby-mass-attack": {
+  "checked": "2026-10-07T21:30:37+00:00"
+ },
  "knack": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 301
@@ -1141,9 +1144,18 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11003
  },
+ "mario-kart-ds": {
+  "checked": "2026-10-07T21:30:37+00:00"
+ },
  "mario-kart-world": {
   "checked": "2026-10-07T06:01:50+00:00",
   "opencritic_id": 18333
+ },
+ "mario-luigi-bowser-s-inside-story": {
+  "checked": "2026-10-07T21:30:37+00:00"
+ },
+ "mario-luigi-partners-in-time": {
+  "checked": "2026-10-07T21:30:37+00:00"
  },
  "marvel-rivals": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1988,6 +2000,9 @@
  "the-legend-of-zelda-breath-of-the-wild": {
   "checked": "2026-10-07T05:58:30+00:00",
   "opencritic_id": 1548
+ },
+ "the-legend-of-zelda-phantom-hourglass": {
+  "checked": "2026-10-07T21:30:37+00:00"
  },
  "the-lord-of-the-rings-return-to-moria": {
   "checked": "2026-10-07T01:52:06+00:00",

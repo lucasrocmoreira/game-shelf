@@ -175,6 +175,50 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Kirby Mass Attack": {
+  "candidates": null,
+  "checked": "2026-10-07T21:30:34+00:00",
+  "conf": "manual",
+  "id": 3724,
+  "score": null,
+  "slug": "kirby-mass-attack",
+  "title": "Kirby Mass Attack",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Mario & Luigi: Bowser's Inside Story": {
+  "candidates": null,
+  "checked": "2026-10-07T21:30:34+00:00",
+  "conf": "manual",
+  "id": 3363,
+  "score": null,
+  "slug": "mario-luigi-bowser-s-inside-story",
+  "title": "Mario & Luigi: Bowser's Inside Story",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Mario & Luigi: Partners in Time": {
+  "candidates": null,
+  "checked": "2026-10-07T21:30:34+00:00",
+  "conf": "manual",
+  "id": 3364,
+  "score": null,
+  "slug": "mario-luigi-partners-in-time",
+  "title": "Mario & Luigi: Partners in Time",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Mario Kart DS": {
+  "candidates": null,
+  "checked": "2026-10-07T21:30:33+00:00",
+  "conf": "manual",
+  "id": 2345,
+  "score": null,
+  "slug": "mario-kart-ds",
+  "title": "Mario Kart DS",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:New Super Mario Bros.": {
   "candidates": null,
   "checked": "2026-10-07T21:28:50+00:00",
@@ -295,6 +339,17 @@
   "title": "Super Mario 64 DS",
   "v": 4,
   "via": "search"
+ },
+ "DS:manual:The Legend of Zelda: Phantom Hourglass": {
+  "candidates": null,
+  "checked": "2026-10-07T21:30:34+00:00",
+  "conf": "manual",
+  "id": 1037,
+  "score": null,
+  "slug": "the-legend-of-zelda-phantom-hourglass",
+  "title": "The Legend of Zelda: Phantom Hourglass",
+  "v": 4,
+  "via": "fix"
  },
  "DS:manual:The World Ends with You": {
   "candidates": 24,

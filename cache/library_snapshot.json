@@ -299,6 +299,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:New Super Mario Bros.",
    "title": "New Super Mario Bros."
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-kart-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Kart DS",
+   "title": "Mario Kart DS"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-luigi-partners-in-time",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario & Luigi: Partners in Time",
+   "title": "Mario & Luigi: Partners in Time"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-luigi-bowser-s-inside-story",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario & Luigi: Bowser's Inside Story",
+   "title": "Mario & Luigi: Bowser's Inside Story"
+  },
+  {
+   "format": "digital",
+   "igdb": "the-legend-of-zelda-phantom-hourglass",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: Phantom Hourglass",
+   "title": "The Legend of Zelda: Phantom Hourglass"
+  },
+  {
+   "format": "digital",
+   "igdb": "kirby-mass-attack",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby Mass Attack",
+   "title": "Kirby Mass Attack"
   }
  ],
  "nintendo_eshop": [
