@@ -347,6 +347,13 @@
    "format": "physical",
    "added": "2026-10-07",
    "hours": 45
+  },
+  {
+   "title": "Castlevania: Dawn of Sorrow",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "castlevania-dawn-of-sorrow"
   }
  ],
  "match": {
