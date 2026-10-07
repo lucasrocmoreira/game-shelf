@@ -582,6 +582,14 @@
   "opencritic_pct": 91,
   "opencritic_tier": "Mighty"
  },
+ "igdb:1136": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:40:16+00:00",
+  "mc_v": 2,
+  "metacritic": 89,
+  "metacritic_slug": "castlevania-dawn-of-sorrow"
+ },
  "igdb:11397": {
   "backloggd": 4.4,
   "bl_v": 2,
@@ -2440,6 +2448,22 @@
   "opencritic_pct": 87,
   "opencritic_tier": "Mighty"
  },
+ "igdb:1693": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:40:20+00:00",
+  "mc_v": 2,
+  "metacritic": 90,
+  "metacritic_slug": "advance-wars-dual-strike"
+ },
+ "igdb:1694": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:40:18+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "advance-wars-days-of-ruin"
+ },
  "igdb:17": {
   "backloggd": 2.7,
   "bl_v": 2,
@@ -3289,7 +3313,7 @@
  "igdb:20398": {
   "backloggd": 4.5,
   "bl_v": 2,
-  "checked": "2026-10-07T21:38:42+00:00",
+  "checked": "2026-10-07T21:40:13+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "chrono-trigger"

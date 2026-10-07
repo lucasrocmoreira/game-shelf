@@ -469,6 +469,36 @@
    "playtime_hours": 45.0,
    "source_id": "manual:Chrono Trigger (2008)",
    "title": "Chrono Trigger (2008)"
+  },
+  {
+   "format": "digital",
+   "igdb": "castlevania-dawn-of-sorrow",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Castlevania: Dawn of Sorrow",
+   "title": "Castlevania: Dawn of Sorrow"
+  },
+  {
+   "format": "digital",
+   "igdb": "advance-wars-days-of-ruin",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Advance Wars: Days of Ruin",
+   "title": "Advance Wars: Days of Ruin"
+  },
+  {
+   "format": "digital",
+   "igdb": "advance-wars-dual-strike",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Advance Wars: Dual Strike",
+   "title": "Advance Wars: Dual Strike"
   }
  ],
  "nintendo_eshop": [

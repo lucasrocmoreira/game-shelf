@@ -175,9 +175,42 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Advance Wars: Days of Ruin": {
+  "candidates": null,
+  "checked": "2026-10-07T21:40:05+00:00",
+  "conf": "manual",
+  "id": 1694,
+  "score": null,
+  "slug": "advance-wars-days-of-ruin",
+  "title": "Advance Wars: Days of Ruin",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Advance Wars: Dual Strike": {
+  "candidates": null,
+  "checked": "2026-10-07T21:40:06+00:00",
+  "conf": "manual",
+  "id": 1693,
+  "score": null,
+  "slug": "advance-wars-dual-strike",
+  "title": "Advance Wars: Dual Strike",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Castlevania: Dawn of Sorrow": {
+  "candidates": null,
+  "checked": "2026-10-07T21:40:05+00:00",
+  "conf": "manual",
+  "id": 1136,
+  "score": null,
+  "slug": "castlevania-dawn-of-sorrow",
+  "title": "Castlevania: Dawn of Sorrow",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Chrono Trigger (2008)": {
   "candidates": 17,
-  "checked": "2026-10-07T21:38:36+00:00",
+  "checked": "2026-10-07T21:40:08+00:00",
   "conf": "high",
   "id": 20398,
   "score": 1.158,
