@@ -175,9 +175,53 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Dragon Quest IV: Chapters of the Chosen": {
+  "candidates": 2,
+  "checked": "2026-10-07T21:34:34+00:00",
+  "conf": "high",
+  "id": 1815,
+  "score": 1.136,
+  "slug": null,
+  "title": "Dragon Quest IV: Chapters of the Chosen",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:Fire Emblem: Shadow Dragon": {
+  "candidates": null,
+  "checked": "2026-10-07T21:34:31+00:00",
+  "conf": "manual",
+  "id": 1444,
+  "score": null,
+  "slug": "fire-emblem-shadow-dragon",
+  "title": "Fire Emblem: Shadow Dragon",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Ghost Trick: Phantom Detective": {
+  "candidates": null,
+  "checked": "2026-10-07T21:34:31+00:00",
+  "conf": "manual",
+  "id": 1348,
+  "score": null,
+  "slug": "ghost-trick-phantom-detective",
+  "title": "Ghost Trick: Phantom Detective",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Harvest Moon DS": {
+  "candidates": null,
+  "checked": "2026-10-07T21:34:31+00:00",
+  "conf": "manual",
+  "id": 3385,
+  "score": null,
+  "slug": "harvest-moon-ds",
+  "title": "Harvest Moon DS",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Kingdom Hearts 358/2 Days": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:41+00:00",
+  "checked": "2026-10-07T21:34:31+00:00",
   "conf": "manual",
   "id": 1223,
   "score": null,
@@ -188,7 +232,7 @@
  },
  "DS:manual:Kirby Mass Attack": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:40+00:00",
+  "checked": "2026-10-07T21:30:34+00:00",
   "conf": "manual",
   "id": 3724,
   "score": null,
@@ -199,7 +243,7 @@
  },
  "DS:manual:Kirby Super Star Ultra": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:41+00:00",
+  "checked": "2026-10-07T21:34:30+00:00",
   "conf": "manual",
   "id": 2647,
   "score": null,
@@ -210,7 +254,7 @@
  },
  "DS:manual:Kirby: Canvas Curse": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:40+00:00",
+  "checked": "2026-10-07T21:34:30+00:00",
   "conf": "manual",
   "id": 3722,
   "score": null,
@@ -221,7 +265,7 @@
  },
  "DS:manual:Mario & Luigi: Bowser's Inside Story": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:39+00:00",
+  "checked": "2026-10-07T21:30:34+00:00",
   "conf": "manual",
   "id": 3363,
   "score": null,
@@ -232,7 +276,7 @@
  },
  "DS:manual:Mario & Luigi: Partners in Time": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:39+00:00",
+  "checked": "2026-10-07T21:30:34+00:00",
   "conf": "manual",
   "id": 3364,
   "score": null,
@@ -243,7 +287,7 @@
  },
  "DS:manual:Mario Kart DS": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:39+00:00",
+  "checked": "2026-10-07T21:30:33+00:00",
   "conf": "manual",
   "id": 2345,
   "score": null,
@@ -375,7 +419,7 @@
  },
  "DS:manual:The Legend of Zelda: Phantom Hourglass": {
   "candidates": null,
-  "checked": "2026-10-07T21:32:40+00:00",
+  "checked": "2026-10-07T21:30:34+00:00",
   "conf": "manual",
   "id": 1037,
   "score": null,

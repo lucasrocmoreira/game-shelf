@@ -379,6 +379,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Kingdom Hearts 358/2 Days",
    "title": "Kingdom Hearts 358/2 Days"
+  },
+  {
+   "format": "digital",
+   "igdb": "harvest-moon-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Harvest Moon DS",
+   "title": "Harvest Moon DS"
+  },
+  {
+   "format": "digital",
+   "igdb": "ghost-trick-phantom-detective",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ghost Trick: Phantom Detective",
+   "title": "Ghost Trick: Phantom Detective"
+  },
+  {
+   "format": "digital",
+   "igdb": "fire-emblem-shadow-dragon",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Fire Emblem: Shadow Dragon",
+   "title": "Fire Emblem: Shadow Dragon"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest IV: Chapters of the Chosen",
+   "title": "Dragon Quest IV: Chapters of the Chosen"
   }
  ],
  "nintendo_eshop": [

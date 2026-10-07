@@ -197,7 +197,7 @@
  "igdb:1037": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-07T21:33:04+00:00",
+  "checked": "2026-10-07T21:30:50+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "the-legend-of-zelda-phantom-hourglass"
@@ -1033,7 +1033,7 @@
  "igdb:1223": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-07T21:33:14+00:00",
+  "checked": "2026-10-07T21:34:43+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "kingdom-hearts-358-2-days"
@@ -1512,6 +1512,14 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "star-wars-squadrons"
+ },
+ "igdb:1348": {
+  "backloggd": 4.4,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:34:48+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "ghost-trick-phantom-detective"
  },
  "igdb:134822": {
   "backloggd": 3.4,
@@ -2014,6 +2022,14 @@
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "aliens-fireteam-elite"
+ },
+ "igdb:1444": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:34:50+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "fire-emblem-shadow-dragon"
  },
  "igdb:145004": {
   "backloggd": 3.6,
@@ -2578,6 +2594,14 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
+ },
+ "igdb:1815": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:34:53+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "dragon-quest-iv-chapters-of-the-chosen"
  },
  "igdb:18167": {
   "backloggd": 2.2,
@@ -3811,7 +3835,7 @@
  "igdb:2345": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-07T21:32:56+00:00",
+  "checked": "2026-10-07T21:30:40+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "mario-kart-ds"
@@ -4286,7 +4310,7 @@
  "igdb:2647": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-07T21:33:12+00:00",
+  "checked": "2026-10-07T21:34:40+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "kirby-super-star-ultra"
@@ -4880,7 +4904,7 @@
  "igdb:3363": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-07T21:33:02+00:00",
+  "checked": "2026-10-07T21:30:47+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "mario-luigi-bowsers-inside-story"
@@ -4888,7 +4912,7 @@
  "igdb:3364": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-07T21:32:58+00:00",
+  "checked": "2026-10-07T21:30:43+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "mario-luigi-partners-in-time"
@@ -4913,6 +4937,14 @@
   "opencritic_id": 18341,
   "opencritic_pct": 93,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:3385": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:34:45+00:00",
+  "mc_v": 2,
+  "metacritic": 67,
+  "metacritic_slug": "harvest-moon-ds"
  },
  "igdb:34293": {
   "backloggd": 4.1,
@@ -5143,7 +5175,7 @@
  "igdb:3722": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-07T21:33:09+00:00",
+  "checked": "2026-10-07T21:34:38+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "kirby-canvas-curse"
@@ -5151,7 +5183,7 @@
  "igdb:3724": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-07T21:33:07+00:00",
+  "checked": "2026-10-07T21:30:53+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "kirby-mass-attack"
