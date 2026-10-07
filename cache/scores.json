@@ -479,6 +479,14 @@
   "opencritic_pct": 94,
   "opencritic_tier": "Mighty"
  },
+ "igdb:11208": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T05:55:31+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "nier-automata"
+ },
  "igdb:112875": {
   "backloggd": 4.3,
   "bl_v": 2,
@@ -575,7 +583,7 @@
  "igdb:115060": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-07T05:54:03+00:00",
+  "checked": "2026-10-07T05:55:26+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "dragons-dogma-ii"
@@ -3913,6 +3921,14 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "prince-of-persia-the-lost-crown"
+ },
+ "igdb:252647": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T05:55:28+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "persona-3-reload"
  },
  "igdb:252836": {
   "backloggd": 3.6,

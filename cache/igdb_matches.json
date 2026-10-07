@@ -7008,7 +7008,7 @@
  },
  "PS5:manual:Dragon’s Dogma 2": {
   "candidates": 7,
-  "checked": "2026-10-07T05:53:59+00:00",
+  "checked": "2026-10-07T05:55:21+00:00",
   "conf": "high",
   "id": 115060,
   "score": 1.14,
@@ -7025,6 +7025,28 @@
   "score": 1.15,
   "slug": null,
   "title": "Elden ring",
+  "v": 4,
+  "via": "search"
+ },
+ "PS5:manual:Nier Automata": {
+  "candidates": 11,
+  "checked": "2026-10-07T05:55:23+00:00",
+  "conf": "high",
+  "id": 11208,
+  "score": 1.04,
+  "slug": null,
+  "title": "Nier Automata",
+  "v": 4,
+  "via": "search"
+ },
+ "PS5:manual:Persona 3 Reload": {
+  "candidates": 20,
+  "checked": "2026-10-07T05:55:22+00:00",
+  "conf": "high",
+  "id": 252647,
+  "score": 1.141,
+  "slug": null,
+  "title": "Persona 3 Reload",
   "v": 4,
   "via": "search"
  },

@@ -26,6 +26,24 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Dragon’s Dogma 2",
    "title": "Dragon’s Dogma 2"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Persona 3 Reload",
+   "title": "Persona 3 Reload"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Nier Automata",
+   "title": "Nier Automata"
   }
  ],
  "nintendo_eshop": [
