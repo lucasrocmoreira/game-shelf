@@ -175,6 +175,13 @@
    "platform": "DS",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Professor Layton and the Unwound Future",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "professor-layton-and-the-unwound-future"
   }
  ],
  "match": {
