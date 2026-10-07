@@ -175,6 +175,61 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Solatorobo: Red The Hunter": {
+  "candidates": 2,
+  "checked": "2026-10-07T21:10:54+00:00",
+  "conf": "high",
+  "id": 9597,
+  "score": 1.133,
+  "slug": null,
+  "title": "Solatorobo: Red The Hunter",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:Sonic Classic Collection DS": {
+  "candidates": null,
+  "checked": "2026-10-07T21:10:51+00:00",
+  "conf": "manual",
+  "id": 20502,
+  "score": null,
+  "slug": "sonic-classic-collection",
+  "title": "Sonic Classic Collection DS",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Super Mario 64 DS": {
+  "candidates": 7,
+  "checked": "2026-10-07T21:10:53+00:00",
+  "conf": "high",
+  "id": 22301,
+  "score": 1.143,
+  "slug": null,
+  "title": "Super Mario 64 DS",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:The World Ends with You": {
+  "candidates": 24,
+  "checked": "2026-10-07T21:10:53+00:00",
+  "conf": "high",
+  "id": 1343,
+  "score": 1.14,
+  "slug": null,
+  "title": "The World Ends with You",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:Yoshi's Island DS": {
+  "candidates": 2,
+  "checked": "2026-10-07T21:10:52+00:00",
+  "conf": "high",
+  "id": 20601,
+  "score": 1.136,
+  "slug": null,
+  "title": "Yoshi's Island DS",
+  "v": 4,
+  "via": "search"
+ },
  "Other:manual:Solatorobo: Red The Hunter": {
   "candidates": 2,
   "checked": "2026-10-07T21:04:04+00:00",

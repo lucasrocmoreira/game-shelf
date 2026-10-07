@@ -2,6 +2,7 @@
  "manual": [
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "PS5",
@@ -11,6 +12,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "PS5",
@@ -20,6 +22,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "PS5",
@@ -29,6 +32,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "PS5",
@@ -38,6 +42,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "PS5",
@@ -47,6 +52,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "PS4",
@@ -56,6 +62,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch",
@@ -65,6 +72,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch",
@@ -74,6 +82,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch",
@@ -83,6 +92,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch",
@@ -92,6 +102,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch",
@@ -101,6 +112,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch",
@@ -110,6 +122,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch 2",
@@ -119,6 +132,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch 2",
@@ -128,6 +142,7 @@
   },
   {
    "format": "physical",
+   "igdb": null,
    "last_played": null,
    "manual": true,
    "platform": "Switch 2",
@@ -137,45 +152,50 @@
   },
   {
    "format": "digital",
+   "igdb": null,
    "last_played": null,
    "manual": true,
-   "platform": "Other",
+   "platform": "DS",
    "playtime_hours": 0.0,
    "source_id": "manual:Yoshi's Island DS",
    "title": "Yoshi's Island DS"
   },
   {
    "format": "digital",
+   "igdb": null,
    "last_played": null,
    "manual": true,
-   "platform": "Other",
+   "platform": "DS",
    "playtime_hours": 0.0,
    "source_id": "manual:The World Ends with You",
    "title": "The World Ends with You"
   },
   {
    "format": "digital",
+   "igdb": null,
    "last_played": null,
    "manual": true,
-   "platform": "Other",
+   "platform": "DS",
    "playtime_hours": 0.0,
    "source_id": "manual:Super Mario 64 DS",
    "title": "Super Mario 64 DS"
   },
   {
    "format": "digital",
+   "igdb": null,
    "last_played": null,
    "manual": true,
-   "platform": "Other",
+   "platform": "DS",
    "playtime_hours": 0.0,
    "source_id": "manual:Sonic Classic Collection DS",
    "title": "Sonic Classic Collection DS"
   },
   {
    "format": "digital",
+   "igdb": null,
    "last_played": null,
    "manual": true,
-   "platform": "Other",
+   "platform": "DS",
    "playtime_hours": 0.0,
    "source_id": "manual:Solatorobo: Red The Hunter",
    "title": "Solatorobo: Red The Hunter"
@@ -486,7 +506,7 @@
    "title": "Marvel's Spider-Man"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2921/a213c057a3adc5c341911157e461954a97500126e4e2acef.png",
    "last_played": "2026-09-30",
    "platform": "PS5",
    "playtime_hours": 61.4,
