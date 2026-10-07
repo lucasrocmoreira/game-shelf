@@ -97,15 +97,17 @@ def match_to_igdb(entries, igdb, overrides):
             return not m or m.get("via") != "fix" or m.get("slug") != fix
         if not m or m.get("v") != MATCHER_VERSION or m.get("via") == "fix":
             return True
+        if m.get("via") == "search" and m.get("id") is None and not m.get("candidates"):
+            return True  # IGDB returned nothing at all: treat as "not checked yet", never as "no match"
         return m.get("id") is None and days_since(m.get("checked")) >= UNMATCHED_RETRY_DAYS
 
     todo = [e for e in entries if needs(e)]
     log(f"IGDB matching: {len(todo)} entries to (re)match")
 
-    def record(e, gid, via, score=None, conf=None, slug=None):
+    def record(e, gid, via, score=None, conf=None, slug=None, candidates=None):
         matches[ekey(e)] = {
             "id": gid, "via": via, "v": MATCHER_VERSION, "checked": now_iso(),
-            "score": score, "conf": conf, "slug": slug, "title": e["title"],
+            "score": score, "conf": conf, "slug": slug, "title": e["title"], "candidates": candidates,
         }
 
     # 1) Fixes made in the app (or config/overrides.yml) win over everything.
@@ -148,12 +150,12 @@ def match_to_igdb(entries, igdb, overrides):
         groups.setdefault(edits.source_key(e["title"]), []).append(e)
 
     log(f"  searching IGDB for {len(groups)} distinct titles")
-    failures = 0
+    failures = empties = done = 0
     for i, group in enumerate(groups.values(), 1):
         title = group[0]["title"]
         platforms = {e["platform"] for e in group}
         try:
-            g, score, conf = igdb.best_match(title, platforms)
+            g, score, conf, n = igdb.best_match(title, platforms)
         except Exception as e2:  # not cached: retried on the next run
             failures += 1
             log(f"  IGDB search failed for {title!r}: {str(e2)[:160]}")
@@ -161,10 +163,18 @@ def match_to_igdb(entries, igdb, overrides):
                 log("  Too many IGDB errors; stopping matching for this run")
                 break
             continue
+        done += 1
+        if n == 0:
+            empties += 1
+            log(f"  IGDB returned nothing for {title!r}; will retry next run")
+            if done >= 20 and empties == done:
+                save_json(CACHE_DIR / "igdb_matches.json", matches)
+                raise RuntimeError("IGDB search returned no results for the first 20 titles; search looks broken")
+            continue
         for e in group:
-            record(e, g["id"] if g else None, "search", score, conf)
+            record(e, g["id"] if g else None, "search", score, conf, candidates=n)
         if not g:
-            log(f"  no confident match: {title!r} (best {score})")
+            log(f"  no confident match: {title!r} (best {score} of {n} candidates)")
         if i % 50 == 0:
             save_json(CACHE_DIR / "igdb_matches.json", matches)
 

@@ -4,7 +4,7 @@ Matching strategy, best evidence first:
   1. Manual fixes from the app ("Wrong match?") or config/overrides.yml
   2. Steam app id -> IGDB through IGDB's external_games table (exact)
   3. Title search: several cleaned variants of the store title, IGDB's search, exact-name
-     and alternative-name lookups, all in one multiquery call. Every candidate is scored on
+     and alternative-name lookups (stopping early once a match is clear). Every candidate is scored on
      name similarity, platform (a PS5 game must exist on PS5), game type (no DLC/packs),
      year hints and popularity. Weak matches are rejected rather than guessed.
 """
@@ -164,32 +164,42 @@ class IGDB:
         return out
 
     # -------------------------------------------------------------- matching
-    def candidates(self, title: str):
+    def _games(self, where_or_search: str, limit: int):
+        return self._with_field_fallback(
+            lambda: self.query("games", f"{where_or_search} fields id,{self._fields()}; limit {limit};")
+        )
+
+    def best_match(self, title: str, platforms: set, year: int | None = None):
+        """Returns (game, score, confidence, n_candidates).
+
+        Tries the most faithful search first and stops as soon as a confident match turns up,
+        so most games cost one or two requests."""
         variants = titles.search_variants(title)
-        parts = []
+        found = {}
+
+        def add(items):
+            for g in items or []:
+                if isinstance(g, dict) and g.get("id") is not None:
+                    found[g["id"]] = g
+
+        best = (None, 0.0, None)
         for i, (v, _) in enumerate(variants[:6]):
-            parts.append(f'query games "s{i}" {{ search "{_q(v)}"; fields {self._fields()}; limit 25; }};')
-        for i, (v, _) in enumerate(variants[:2]):
-            parts.append(f'query games "n{i}" {{ fields {self._fields()}; where name ~ "{_q(v)}"; limit 10; }};')
-            parts.append(f'query alternative_names "a{i}" {{ fields game; where name ~ "{_q(v)}"; limit 10; }};')
-        res = self._with_field_fallback(lambda: self.query("multiquery", "\n".join(parts[:10])))
-        found, alt_ids = {}, set()
-        for block in res or []:
-            for item in block.get("result") or []:
-                if block.get("name", "").startswith("a"):
-                    if item.get("game"):
-                        alt_ids.add(item["game"])
-                elif "id" in item:
-                    found[item["id"]] = item
+            add(self._games(f'search "{_q(v)}";', 25))
+            if i == 0:
+                add(self._games(f'where name ~ "{_q(v)}";', 10))
+            best = pick(title, list(found.values()), variants, platforms, year)
+            if best[2] == "high":
+                return (*best, len(found))
+        # Still unsure: IGDB's alternative names (regional titles, old names).
+        alt_ids = set()
+        for v, _ in variants[:2]:
+            rows = self.query("alternative_names", f'fields game; where name ~ "{_q(v)}"; limit 10;')
+            alt_ids |= {r["game"] for r in rows or [] if r.get("game")}
         missing = alt_ids - set(found)
         if missing:
             found.update(self.games_by_ids(missing))
-        return list(found.values()), variants
-
-    def best_match(self, title: str, platforms: set, year: int | None = None):
-        """Returns (game, score, confidence) or (None, best_score, None)."""
-        cands, variants = self.candidates(title)
-        return pick(title, cands, variants, platforms, year)
+            best = pick(title, list(found.values()), variants, platforms, year)
+        return (*best, len(found))
 
 
 def _year(g):
