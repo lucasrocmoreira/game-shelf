@@ -482,7 +482,7 @@
  "igdb:11208": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-07T05:55:31+00:00",
+  "checked": "2026-10-07T05:57:02+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "nier-automata"
@@ -583,7 +583,7 @@
  "igdb:115060": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-07T05:55:26+00:00",
+  "checked": "2026-10-07T05:54:03+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "dragons-dogma-ii"
@@ -1625,6 +1625,14 @@
   "metacritic": 79,
   "metacritic_slug": "conscript"
  },
+ "igdb:138225": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-07T06:00:22+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "super-mario-3d-all-stars"
+ },
  "igdb:138590": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -1846,7 +1854,7 @@
  "igdb:143610": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-07T05:58:45+00:00",
+  "checked": "2026-10-07T06:00:15+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "triangle-strategy"
@@ -3461,6 +3469,14 @@
   "metacritic": 84,
   "metacritic_slug": "borderlands"
  },
+ "igdb:217909": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T06:00:19+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "suikoden-i-ii-hd-remaster-gate-rune-and-dunan-unification-wars"
+ },
  "igdb:218744": {
   "backloggd": 2.3,
   "bl_v": 2,
@@ -3933,7 +3949,7 @@
  "igdb:252647": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-07T05:55:28+00:00",
+  "checked": "2026-10-07T05:57:00+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "persona-3-reload"
@@ -4032,7 +4048,7 @@
  "igdb:260735": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-07T05:58:35+00:00",
+  "checked": "2026-10-07T05:57:05+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -4166,7 +4182,7 @@
  "igdb:26845": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-07T05:58:42+00:00",
+  "checked": "2026-10-07T06:00:12+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "fire-emblem-three-houses"
@@ -4724,6 +4740,14 @@
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "pga-tour-2k25"
+ },
+ "igdb:338067": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-07T06:00:24+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "mario-kart-world"
  },
  "igdb:338084": {
   "backloggd": 3.8,
@@ -5667,7 +5691,7 @@
  "igdb:7346": {
   "backloggd": 4.5,
   "bl_v": 2,
-  "checked": "2026-10-07T05:58:40+00:00",
+  "checked": "2026-10-07T06:00:10+00:00",
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "the-legend-of-zelda-breath-of-the-wild"
@@ -5848,7 +5872,7 @@
  "igdb:78497": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-07T05:58:37+00:00",
+  "checked": "2026-10-07T05:57:09+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "catherine-full-body"

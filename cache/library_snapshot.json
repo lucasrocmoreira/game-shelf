@@ -89,6 +89,33 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Triangle Strategy",
    "title": "Triangle Strategy"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Suikoden I&II: HD Remaster",
+   "title": "Suikoden I&II: HD Remaster"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Mario 3D All-Star",
+   "title": "Super Mario 3D All-Star"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch 2",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Kart World",
+   "title": "Mario Kart World"
   }
  ],
  "nintendo_eshop": [

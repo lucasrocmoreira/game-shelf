@@ -4236,7 +4236,7 @@
  },
  "PS4:manual:Red Dead Redemption": {
   "candidates": 17,
-  "checked": "2026-10-07T05:58:26+00:00",
+  "checked": "2026-10-07T05:56:55+00:00",
   "conf": "high",
   "id": 260735,
   "score": 1.138,
@@ -7019,7 +7019,7 @@
  },
  "PS5:manual:Dragon’s Dogma 2": {
   "candidates": 7,
-  "checked": "2026-10-07T05:55:21+00:00",
+  "checked": "2026-10-07T05:53:59+00:00",
   "conf": "high",
   "id": 115060,
   "score": 1.14,
@@ -7041,7 +7041,7 @@
  },
  "PS5:manual:Nier Automata": {
   "candidates": 11,
-  "checked": "2026-10-07T05:55:23+00:00",
+  "checked": "2026-10-07T05:56:54+00:00",
   "conf": "high",
   "id": 11208,
   "score": 1.04,
@@ -7052,7 +7052,7 @@
  },
  "PS5:manual:Persona 3 Reload": {
   "candidates": 20,
-  "checked": "2026-10-07T05:55:22+00:00",
+  "checked": "2026-10-07T05:56:54+00:00",
   "conf": "high",
   "id": 252647,
   "score": 1.141,
@@ -8355,6 +8355,17 @@
   "v": 2,
   "via": "steam"
  },
+ "Switch 2:manual:Mario Kart World": {
+  "candidates": 1,
+  "checked": "2026-10-07T06:00:03+00:00",
+  "conf": "high",
+  "id": 338067,
+  "score": 1.141,
+  "slug": null,
+  "title": "Mario Kart World",
+  "v": 4,
+  "via": "search"
+ },
  "Switch:eshop:DRAGON QUEST": {
   "candidates": 26,
   "checked": "2026-10-07T01:51:58+00:00",
@@ -8434,7 +8445,7 @@
  },
  "Switch:manual:Catherine Full Body": {
   "candidates": 5,
-  "checked": "2026-10-07T05:58:26+00:00",
+  "checked": "2026-10-07T05:56:56+00:00",
   "conf": "high",
   "id": 78497,
   "score": 1.136,
@@ -8445,7 +8456,7 @@
  },
  "Switch:manual:Fire Emblem: Three Houses": {
   "candidates": 9,
-  "checked": "2026-10-07T05:58:28+00:00",
+  "checked": "2026-10-07T05:59:59+00:00",
   "conf": "high",
   "id": 26845,
   "score": 1.145,
@@ -8454,9 +8465,31 @@
   "v": 4,
   "via": "search"
  },
+ "Switch:manual:Suikoden I&II: HD Remaster": {
+  "candidates": 1,
+  "checked": "2026-10-07T06:00:01+00:00",
+  "conf": "high",
+  "id": 217909,
+  "score": 1.048,
+  "slug": null,
+  "title": "Suikoden I&II: HD Remaster",
+  "v": 4,
+  "via": "search"
+ },
+ "Switch:manual:Super Mario 3D All-Star": {
+  "candidates": 2,
+  "checked": "2026-10-07T06:00:02+00:00",
+  "conf": "high",
+  "id": 138225,
+  "score": 0.998,
+  "slug": null,
+  "title": "Super Mario 3D All-Star",
+  "v": 4,
+  "via": "search"
+ },
  "Switch:manual:The Legend of Zelda: Breath of the Wild": {
   "candidates": 22,
-  "checked": "2026-10-07T05:58:27+00:00",
+  "checked": "2026-10-07T05:59:58+00:00",
   "conf": "high",
   "id": 7346,
   "score": 1.15,
@@ -8467,7 +8500,7 @@
  },
  "Switch:manual:Triangle Strategy": {
   "candidates": 3,
-  "checked": "2026-10-07T05:58:29+00:00",
+  "checked": "2026-10-07T06:00:00+00:00",
   "conf": "high",
   "id": 143610,
   "score": 1.137,

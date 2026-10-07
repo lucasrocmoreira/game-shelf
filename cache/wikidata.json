@@ -317,7 +317,7 @@
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "catherine-full-body": {
-  "checked": "2026-10-07T05:58:30+00:00",
+  "checked": "2026-10-07T05:56:58+00:00",
   "opencritic_id": 7771
  },
  "celeste": {
@@ -577,7 +577,7 @@
   "checked": "2026-10-07T01:52:06+00:00"
  },
  "dragons-dogma-ii": {
-  "checked": "2026-10-07T05:55:24+00:00",
+  "checked": "2026-10-07T05:54:00+00:00",
   "opencritic_id": 16051
  },
  "dreams": {
@@ -731,7 +731,7 @@
   "opencritic_id": 1512
  },
  "fire-emblem-three-houses": {
-  "checked": "2026-10-07T05:58:30+00:00",
+  "checked": "2026-10-07T06:00:08+00:00",
   "opencritic_id": 7401
  },
  "firewall-zero-hour": {
@@ -1133,6 +1133,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11003
  },
+ "mario-kart-world": {
+  "checked": "2026-10-07T06:00:08+00:00",
+  "opencritic_id": 18333
+ },
  "marvel-rivals": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 17210
@@ -1311,7 +1315,7 @@
   "opencritic_id": 15730
  },
  "nier-automata": {
-  "checked": "2026-10-07T05:55:24+00:00",
+  "checked": "2026-10-07T05:56:58+00:00",
   "opencritic_id": 6310
  },
  "nine-sols": {
@@ -1393,7 +1397,7 @@
   "opencritic_id": 18750
  },
  "persona-3-reload": {
-  "checked": "2026-10-07T05:55:24+00:00",
+  "checked": "2026-10-07T05:56:58+00:00",
   "opencritic_id": 16094
  },
  "persona-5": {
@@ -1509,7 +1513,7 @@
   "opencritic_id": 288
  },
  "red-dead-redemption--1": {
-  "checked": "2026-10-07T05:58:30+00:00"
+  "checked": "2026-10-07T05:56:58+00:00"
  },
  "red-dead-redemption-2": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1794,6 +1798,14 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 11360
  },
+ "suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars": {
+  "checked": "2026-10-07T06:00:08+00:00",
+  "opencritic_id": 18206
+ },
+ "super-mario-3d-all-stars": {
+  "checked": "2026-10-07T06:00:08+00:00",
+  "opencritic_id": 10104
+ },
  "super-mario-3d-land": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
@@ -1930,7 +1942,7 @@
   "checked": "2026-10-07T01:52:06+00:00"
  },
  "the-legend-of-zelda-breath-of-the-wild": {
-  "checked": "2026-10-07T05:58:30+00:00",
+  "checked": "2026-10-07T06:00:08+00:00",
   "opencritic_id": 1548
  },
  "the-lord-of-the-rings-return-to-moria": {
@@ -2056,7 +2068,7 @@
   "opencritic_id": 13107
  },
  "triangle-strategy": {
-  "checked": "2026-10-07T05:58:30+00:00",
+  "checked": "2026-10-07T06:00:08+00:00",
   "opencritic_id": 12840
  },
  "tribes-of-midgard": {
