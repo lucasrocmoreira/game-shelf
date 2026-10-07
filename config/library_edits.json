@@ -287,6 +287,13 @@
    "format": "physical",
    "added": "2026-10-07",
    "igdb": "kingdom-hearts-358-2-days"
+  },
+  {
+   "title": "Harvest Moon DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "harvest-moon-ds"
   }
  ],
  "match": {
