@@ -419,6 +419,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Dragon Quest IV: Chapters of the Chosen",
    "title": "Dragon Quest IV: Chapters of the Chosen"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest VI: Realms of Revelation",
+   "title": "Dragon Quest VI: Realms of Revelation"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest V: Hand of the Heavenly Bride",
+   "title": "Dragon Quest V: Hand of the Heavenly Bride"
+  },
+  {
+   "format": "digital",
+   "igdb": "dementium-the-ward",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dementium: The Ward",
+   "title": "Dementium: The Ward"
+  },
+  {
+   "format": "digital",
+   "igdb": "crash-of-the-titans",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Crash of the Titans",
+   "title": "Crash of the Titans"
   }
  ],
  "nintendo_eshop": [

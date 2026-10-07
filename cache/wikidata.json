@@ -389,6 +389,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4131
  },
+ "crash-of-the-titans": {
+  "checked": "2026-10-07T21:36:14+00:00"
+ },
  "crosscode": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 6635
@@ -460,6 +463,9 @@
  "deep-rock-galactic": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 9436
+ },
+ "dementium-the-ward": {
+  "checked": "2026-10-07T21:36:14+00:00"
  },
  "demons-souls": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -581,7 +587,13 @@
   "opencritic_id": 19041
  },
  "dragon-quest-iv-chapters-of-the-chosen": {
-  "checked": "2026-10-07T21:34:36+00:00"
+  "checked": "2026-10-07T21:36:14+00:00"
+ },
+ "dragon-quest-v-hand-of-the-heavenly-bride": {
+  "checked": "2026-10-07T21:36:14+00:00"
+ },
+ "dragon-quest-vi-realms-of-revelation": {
+  "checked": "2026-10-07T21:36:14+00:00"
  },
  "dragons-dogma-ii": {
   "checked": "2026-10-07T05:55:24+00:00",
@@ -742,7 +754,7 @@
   "opencritic_id": 20819
  },
  "fire-emblem-shadow-dragon": {
-  "checked": "2026-10-07T21:34:36+00:00"
+  "checked": "2026-10-07T21:36:14+00:00"
  },
  "fire-emblem-three-houses": {
   "checked": "2026-10-07T05:58:30+00:00",
@@ -808,7 +820,7 @@
   "opencritic_id": 14478
  },
  "ghost-trick-phantom-detective": {
-  "checked": "2026-10-07T21:34:36+00:00",
+  "checked": "2026-10-07T21:36:14+00:00",
   "opencritic_id": 15156
  },
  "ghostrunner": {
@@ -901,7 +913,7 @@
   "opencritic_id": 838
  },
  "harvest-moon-ds": {
-  "checked": "2026-10-07T21:34:36+00:00"
+  "checked": "2026-10-07T21:36:14+00:00"
  },
  "heavenly-bodies": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1049,7 +1061,7 @@
   "opencritic_id": 17486
  },
  "kingdom-hearts-358-2-days": {
-  "checked": "2026-10-07T21:34:36+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1071,13 +1083,13 @@
   "opencritic_id": 9594
  },
  "kirby-canvas-curse": {
-  "checked": "2026-10-07T21:34:36+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "kirby-mass-attack": {
-  "checked": "2026-10-07T21:30:37+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "kirby-super-star-ultra": {
-  "checked": "2026-10-07T21:34:36+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "knack": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1167,17 +1179,17 @@
   "opencritic_id": 11003
  },
  "mario-kart-ds": {
-  "checked": "2026-10-07T21:30:37+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "mario-kart-world": {
   "checked": "2026-10-07T06:01:50+00:00",
   "opencritic_id": 18333
  },
  "mario-luigi-bowser-s-inside-story": {
-  "checked": "2026-10-07T21:30:37+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "mario-luigi-partners-in-time": {
-  "checked": "2026-10-07T21:30:37+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "marvel-rivals": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -2024,7 +2036,7 @@
   "opencritic_id": 1548
  },
  "the-legend-of-zelda-phantom-hourglass": {
-  "checked": "2026-10-07T21:30:37+00:00"
+  "checked": "2026-10-07T21:32:53+00:00"
  },
  "the-lord-of-the-rings-return-to-moria": {
   "checked": "2026-10-07T01:52:06+00:00",

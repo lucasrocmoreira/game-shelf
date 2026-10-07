@@ -197,7 +197,7 @@
  "igdb:1037": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-07T21:30:50+00:00",
+  "checked": "2026-10-07T21:33:04+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "the-legend-of-zelda-phantom-hourglass"
@@ -805,6 +805,14 @@
   "metacritic": 56,
   "metacritic_slug": "predator-hunting-grounds"
  },
+ "igdb:1190": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:36:33+00:00",
+  "mc_v": 2,
+  "metacritic": 65,
+  "metacritic_slug": "crash-of-the-titans"
+ },
  "igdb:119133": {
   "backloggd": 4.5,
   "bl_v": 2,
@@ -1033,7 +1041,7 @@
  "igdb:1223": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-07T21:34:43+00:00",
+  "checked": "2026-10-07T21:33:14+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "kingdom-hearts-358-2-days"
@@ -1516,7 +1524,7 @@
  "igdb:1348": {
   "backloggd": 4.4,
   "bl_v": 2,
-  "checked": "2026-10-07T21:34:48+00:00",
+  "checked": "2026-10-07T21:36:18+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "ghost-trick-phantom-detective"
@@ -2026,7 +2034,7 @@
  "igdb:1444": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-07T21:34:50+00:00",
+  "checked": "2026-10-07T21:36:21+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "fire-emblem-shadow-dragon"
@@ -2380,6 +2388,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:16585": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:36:28+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "dragon-quest-v-hand-of-the-heavenly-bride"
+ },
  "igdb:16618": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -2598,7 +2614,7 @@
  "igdb:1815": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-07T21:34:53+00:00",
+  "checked": "2026-10-07T21:36:25+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "dragon-quest-iv-chapters-of-the-chosen"
@@ -2610,6 +2626,14 @@
   "mc_v": 2,
   "metacritic": 38,
   "metacritic_slug": "hello-neighbor"
+ },
+ "igdb:1817": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:36:26+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "dragon-quest-vi-realms-of-revelation"
  },
  "igdb:18303": {
   "backloggd": 3.0,
@@ -3503,6 +3527,14 @@
   "metacritic": 31,
   "metacritic_slug": "dayz"
  },
+ "igdb:21238": {
+  "backloggd": 2.8,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:36:31+00:00",
+  "mc_v": 2,
+  "metacritic": 72,
+  "metacritic_slug": "dementium-the-ward"
+ },
  "igdb:212710": {
   "backloggd": 2.6,
   "bl_v": 2,
@@ -3835,7 +3867,7 @@
  "igdb:2345": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-07T21:30:40+00:00",
+  "checked": "2026-10-07T21:32:56+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "mario-kart-ds"
@@ -4310,7 +4342,7 @@
  "igdb:2647": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-07T21:34:40+00:00",
+  "checked": "2026-10-07T21:33:12+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "kirby-super-star-ultra"
@@ -4904,7 +4936,7 @@
  "igdb:3363": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-07T21:30:47+00:00",
+  "checked": "2026-10-07T21:33:02+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "mario-luigi-bowsers-inside-story"
@@ -4912,7 +4944,7 @@
  "igdb:3364": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-07T21:30:43+00:00",
+  "checked": "2026-10-07T21:32:58+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "mario-luigi-partners-in-time"
@@ -4941,7 +4973,7 @@
  "igdb:3385": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-07T21:34:45+00:00",
+  "checked": "2026-10-07T21:36:16+00:00",
   "mc_v": 2,
   "metacritic": 67,
   "metacritic_slug": "harvest-moon-ds"
@@ -5175,7 +5207,7 @@
  "igdb:3722": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-07T21:34:38+00:00",
+  "checked": "2026-10-07T21:33:09+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "kirby-canvas-curse"
@@ -5183,7 +5215,7 @@
  "igdb:3724": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-07T21:30:53+00:00",
+  "checked": "2026-10-07T21:33:07+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "kirby-mass-attack"
