@@ -280,6 +280,13 @@
    "format": "digital",
    "added": "2026-10-07",
    "igdb": "kirby-super-star-ultra"
+  },
+  {
+   "title": "Kingdom Hearts 358/2 Days",
+   "platform": "DS",
+   "format": "physical",
+   "added": "2026-10-07",
+   "igdb": "kingdom-hearts-358-2-days"
   }
  ],
  "match": {
