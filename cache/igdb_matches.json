@@ -175,6 +175,17 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Chrono Trigger (2008)": {
+  "candidates": 17,
+  "checked": "2026-10-07T21:38:36+00:00",
+  "conf": "high",
+  "id": 20398,
+  "score": 1.158,
+  "slug": null,
+  "title": "Chrono Trigger (2008)",
+  "v": 4,
+  "via": "search"
+ },
  "DS:manual:Crash of the Titans": {
   "candidates": null,
   "checked": "2026-10-07T21:36:09+00:00",

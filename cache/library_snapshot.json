@@ -459,6 +459,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Crash of the Titans",
    "title": "Crash of the Titans"
+  },
+  {
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 45.0,
+   "source_id": "manual:Chrono Trigger (2008)",
+   "title": "Chrono Trigger (2008)"
   }
  ],
  "nintendo_eshop": [
