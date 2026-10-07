@@ -175,9 +175,53 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Picross DS": {
+  "candidates": null,
+  "checked": "2026-10-07T21:27:08+00:00",
+  "conf": "manual",
+  "id": 10617,
+  "score": null,
+  "slug": "picross-ds",
+  "title": "Picross DS",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Pokémon Platinum": {
+  "candidates": null,
+  "checked": "2026-10-07T21:27:08+00:00",
+  "conf": "manual",
+  "id": 1519,
+  "score": null,
+  "slug": "pokemon-platinum-version",
+  "title": "Pokémon Platinum",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Pokémon SoulSilver": {
+  "candidates": null,
+  "checked": "2026-10-07T21:27:08+00:00",
+  "conf": "manual",
+  "id": 1520,
+  "score": null,
+  "slug": "pokemon-soulsilver-version",
+  "title": "Pokémon SoulSilver",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Professor Layton and the Curious Village": {
+  "candidates": null,
+  "checked": "2026-10-07T21:27:08+00:00",
+  "conf": "manual",
+  "id": 1397,
+  "score": null,
+  "slug": "professor-layton-and-the-curious-village",
+  "title": "Professor Layton and the Curious Village",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Professor Layton and the Diabolical Box": {
   "candidates": null,
-  "checked": "2026-10-07T21:25:42+00:00",
+  "checked": "2026-10-07T21:27:07+00:00",
   "conf": "manual",
   "id": 1398,
   "score": null,
@@ -188,7 +232,7 @@
  },
  "DS:manual:Professor Layton and the Unwound Future": {
   "candidates": null,
-  "checked": "2026-10-07T21:25:41+00:00",
+  "checked": "2026-10-07T21:27:07+00:00",
   "conf": "manual",
   "id": 1399,
   "score": null,
@@ -262,6 +306,17 @@
   "title": "Yoshi's Island DS",
   "v": 4,
   "via": "search"
+ },
+ "DS:manual:Ōkamiden": {
+  "candidates": null,
+  "checked": "2026-10-07T21:27:09+00:00",
+  "conf": "manual",
+  "id": 16618,
+  "score": null,
+  "slug": "okamiden",
+  "title": "Ōkamiden",
+  "v": 4,
+  "via": "fix"
  },
  "Other:manual:Solatorobo: Red The Hunter": {
   "candidates": 2,

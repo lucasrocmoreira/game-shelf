@@ -1354,6 +1354,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11152
  },
+ "okamiden": {
+  "checked": "2026-10-07T21:27:12+00:00"
+ },
  "olliolli-world": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 12617
@@ -1436,6 +1439,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 7083
  },
+ "picross-ds": {
+  "checked": "2026-10-07T21:27:12+00:00"
+ },
  "pistol-whip": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 8550
@@ -1458,6 +1464,12 @@
  "plants-vs-zombies-garden-warfare-2e561d33-2b92-408a-92f2-ec79ddcc6c2b": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 227
+ },
+ "pokemon-platinum-version": {
+  "checked": "2026-10-07T21:27:12+00:00"
+ },
+ "pokemon-soulsilver-version": {
+  "checked": "2026-10-07T21:27:12+00:00"
  },
  "pokemon-yellow-version-special-pikachu-edition": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -1485,11 +1497,14 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 15867
  },
+ "professor-layton-and-the-curious-village": {
+  "checked": "2026-10-07T21:27:12+00:00"
+ },
  "professor-layton-and-the-diabolical-box": {
-  "checked": "2026-10-07T21:25:44+00:00"
+  "checked": "2026-10-07T21:27:12+00:00"
  },
  "professor-layton-and-the-unwound-future": {
-  "checked": "2026-10-07T21:25:44+00:00"
+  "checked": "2026-10-07T21:27:12+00:00"
  },
  "psychonauts": {
   "checked": "2026-10-07T01:52:04+00:00",
