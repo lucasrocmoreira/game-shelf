@@ -203,6 +203,13 @@
    "format": "digital",
    "added": "2026-10-07",
    "igdb": "pokemon-soulsilver-version"
+  },
+  {
+   "title": "Pokémon Platinum",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "pokemon-platinum-version"
   }
  ],
  "match": {
