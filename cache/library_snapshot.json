@@ -134,6 +134,15 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Fire Emblem: Fortune’s Weave",
    "title": "Fire Emblem: Fortune’s Weave"
+  },
+  {
+   "format": "digital",
+   "last_played": null,
+   "manual": true,
+   "platform": "Other",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Yoshi's Island DS",
+   "title": "Yoshi's Island DS"
   }
  ],
  "nintendo_eshop": [
