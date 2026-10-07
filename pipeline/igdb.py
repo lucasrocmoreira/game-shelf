@@ -217,19 +217,23 @@ def _game_type(g):
 
 
 def score_candidate(title, g, variants, platforms, year=None):
+    """Returns (score, name_similarity, platform_ok, matched_by_prefix)."""
     names = [g.get("name") or ""] + [a.get("name") for a in g.get("alternative_names") or [] if a.get("name")]
-    best = 0.0
+    best, by_prefix = 0.0, False
     for v, pen in [(titles.clean(title, strip_edition=False), 0.0)] + list(variants):
         kv = titles.key(v)
-        for n in names:
-            s = titles.similarity(v, n)
-            if ":" in n:  # IGDB "Dying Light 2: Stay Human" vs store "Dying Light 2"
-                s = max(s, titles.similarity(v, n.split(":")[0]) - 0.03)
+        loose = pen >= titles.SUBTITLE_DROP  # store subtitle was cut off: only a plain name match counts
+        for j, n in enumerate(names[:1] if loose else names):
+            s, pref = titles.similarity(v, n), False
+            if not loose and ":" in n:  # IGDB "Dying Light 2: Stay Human" vs store "Dying Light 2"
+                sp = titles.similarity(v, n.split(":")[0]) - 0.03
+                if sp > s:
+                    s, pref = sp, True
             kn = titles.key(n)
-            if kn and len(kn.split()) >= 3 and set(kn.split()) <= set(kv.split()):
+            if not loose and kn and len(kn.split()) >= 3 and set(kn.split()) <= set(kv.split()):
                 s = max(s, 0.9)  # store title adds words: "Tomb Raider I-III Remastered Starring Lara Croft"
-            best = max(best, s - pen)
-
+            if s - pen > best:
+                best, by_prefix = s - pen, pref
     score = best
     if any(titles.key(n) == titles.key(titles.clean(title)) for n in names):
         score += 0.04  # an exact name beats a subtitle match ("Ghost of Tsushima" vs "...: Director's Cut")
@@ -264,16 +268,18 @@ def score_candidate(title, g, variants, platforms, year=None):
         score += 0.06 if abs(gy - year) <= 1 else -0.15
 
     score += 0.03 * min(1.0, math.log10(1 + (g.get("total_rating_count") or 0)) / 3)
-    return score, best, plat_ok
+    return score, best, plat_ok, by_prefix
 
 
 def pick(title, cands, variants, platforms, year=None):
     if year is None:
         year = titles.year_hint(title)
-    scored = []
+    scored, prefix_hits = [], set()
     for g in cands:
-        s, name_sim, plat_ok = score_candidate(title, g, variants, platforms, year)
+        s, name_sim, plat_ok, by_prefix = score_candidate(title, g, variants, platforms, year)
         scored.append((s, name_sim, plat_ok, g))
+        if by_prefix and name_sim >= 0.95 and plat_ok is not False and _game_type(g) not in BAD_TYPES | {4}:
+            prefix_hits.add(g.get("parent_game") or g.get("version_parent") or g["id"])
     if not scored:
         return None, 0.0, None
     # If no well-named candidate is listed for the owned platform (retro re-releases, Virtual Console,
@@ -284,6 +290,10 @@ def pick(title, cands, variants, platforms, year=None):
     scored.sort(key=lambda x: -x[0])
     s, name_sim, plat_ok, g = scored[0]
     if s < ACCEPT or name_sim < 0.8:
+        return None, round(s, 3), None
+    exact = any(titles.key(n) == titles.key(titles.clean(title)) for n in [g.get("name") or ""])
+    if not exact and len(prefix_hits) >= 2:
+        # A short store title ("Batman") fits several "Batman: ..." games on this platform: don't guess.
         return None, round(s, 3), None
     conf = "high" if s >= HIGH and name_sim >= 0.95 and plat_ok is not False else "medium"
     return g, round(s, 3), conf

@@ -16,7 +16,7 @@ from . import edits, scores, sources, titles, wikidata
 from .igdb import IGDB, genres_of, metadata_of
 from .util import CACHE_DIR, CONFIG_DIR, SITE_DIR, days_since, load_json, log, now_iso, save_json
 
-MATCHER_VERSION = 2          # bump to re-match every game with an improved matcher
+MATCHER_VERSION = 3          # bump to re-match games with an improved matcher (high-confidence ones are kept)
 METACRITIC_VERSION = 2       # bump to re-check every Metacritic score
 SCORE_REFRESH_DAYS = int(os.environ.get("SCORE_REFRESH_DAYS", "30"))
 MAX_SCORE_LOOKUPS = int(os.environ.get("MAX_SCORE_LOOKUPS", "250"))
@@ -95,8 +95,11 @@ def match_to_igdb(entries, igdb, overrides):
         fix = fix_for(e)
         if fix:
             return not m or m.get("via") != "fix" or m.get("slug") != fix
-        if not m or m.get("v") != MATCHER_VERSION or m.get("via") == "fix":
+        if not m or m.get("via") == "fix":
             return True
+        if m.get("v") != MATCHER_VERSION:
+            # v2 matches that were confident (or exact Steam ids) stay; close calls and misses are redone.
+            return not (m.get("v") == 2 and m.get("conf") in ("high", "exact"))
         if m.get("via") == "search" and m.get("id") is None and not m.get("candidates"):
             return True  # IGDB returned nothing at all: treat as "not checked yet", never as "no match"
         return m.get("id") is None and days_since(m.get("checked")) >= UNMATCHED_RETRY_DAYS

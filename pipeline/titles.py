@@ -83,6 +83,9 @@ def similarity(a: str, b: str) -> float:
     return difflib.SequenceMatcher(None, ka, kb).ratio()
 
 
+SUBTITLE_DROP = 0.2  # penalty for matching after cutting the store title's subtitle
+
+
 def search_variants(title: str) -> list[tuple[str, float]]:
     """(query, penalty) pairs, most faithful first. A match found through a looser variant
     scores slightly lower, so "Mass Effect Legendary Edition" beats plain "Mass Effect"."""
@@ -103,9 +106,9 @@ def search_variants(title: str) -> list[tuple[str, float]]:
     no_remaster = re.sub(r"[\s:\-–]*\b(?:remastered|remaster|hd remaster|hd|remake|redux|reloaded)\b\s*$", "", no_vr, flags=re.I)
     out.append((no_remaster, 0.07))
     if ":" in spaced:
-        out.append((spaced.split(":")[0], 0.12))  # "Fall Guys: Ultimate Knockout" -> "Fall Guys"
+        out.append((spaced.split(":")[0], SUBTITLE_DROP))  # "Fall Guys: Ultimate Knockout" -> "Fall Guys"
     if " - " in spaced:
-        out.append((spaced.split(" - ")[0], 0.12))
+        out.append((spaced.split(" - ")[0], SUBTITLE_DROP))
     seen, res = set(), []
     for v, pen in out:
         v = re.sub(r"\s+", " ", v).strip(" -:")
