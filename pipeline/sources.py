@@ -162,41 +162,34 @@ def fetch_psn(npsso: str):
 
 
 # ---------------------------------------------------------------- Manual lists
-def _entries(path):
-    if not path.exists():
-        return []
-    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
-    return data.get("games") or data.get("added") or []
-
-
 def load_manual():
-    """Games from config/nintendo.yml plus anything added with the 'Add or hide a game' issue form."""
+    """Games from config/nintendo.yml plus anything added in the app or with the issue form."""
+    from . import edits
+
+    raw = []
+    path = CONFIG_DIR / "nintendo.yml"
+    if path.exists():
+        raw += (yaml.safe_load(path.read_text(encoding="utf-8")) or {}).get("games") or []
+    raw += edits.load()["added"]
     out = []
-    for path in (CONFIG_DIR / "nintendo.yml", CONFIG_DIR / "library_edits.yml"):
-        for e in _entries(path):
-            if isinstance(e, str):
-                e = {"title": e}
-            if not e.get("title"):
-                continue
-            out.append(
-                {
-                    "platform": e.get("platform", "Switch"),
-                    "source_id": f"manual:{e['title']}",
-                    "title": str(e["title"]),
-                    "playtime_hours": float(e.get("hours") or 0),
-                    "last_played": None,
-                    "format": e.get("format"),
-                }
-            )
+    for e in raw:
+        if isinstance(e, str):
+            e = {"title": e}
+        if not isinstance(e, dict) or not e.get("title"):
+            continue
+        out.append(
+            {
+                "platform": e.get("platform", "Switch"),
+                "source_id": f"manual:{e['title']}",
+                "title": str(e["title"]),
+                "playtime_hours": float(e.get("hours") or 0),
+                "last_played": None,
+                "format": e.get("format"),
+                "manual": True,
+            }
+        )
     log(f"Manual list: {len(out)} games")
     return out
-
-
-def hidden_titles():
-    path = CONFIG_DIR / "library_edits.yml"
-    if not path.exists():
-        return []
-    return (yaml.safe_load(path.read_text(encoding="utf-8")) or {}).get("hidden") or []
 
 
 def load_nintendo_receipts(address, app_password):

@@ -1,12 +1,8 @@
-"""Apply an 'Add or hide a game' issue form to config/library_edits.yml."""
+"""Apply an 'Add or hide a game' issue form to config/library_edits.json."""
 import os
 import re
 
-import yaml
-
-from .util import CONFIG_DIR, norm
-
-PATH = CONFIG_DIR / "library_edits.yml"
+from . import edits, titles
 
 
 def parse_form(body: str) -> dict:
@@ -19,37 +15,23 @@ def parse_form(body: str) -> dict:
 
 
 def apply(fields: dict) -> str:
-    data = (yaml.safe_load(PATH.read_text(encoding="utf-8")) if PATH.exists() else None) or {}
-    added = data.get("added") or []
-    hidden = data.get("hidden") or []
+    data = edits.load()
     title = fields.get("game title", "").strip()
     if not title:
         return "No game title found, nothing changed"
     action = fields.get("action", "Add").lower()
 
     if action.startswith("hide"):
-        added = [g for g in added if norm(g["title"]) != norm(title)]
-        if norm(title) not in {norm(h) for h in hidden}:
-            hidden.append(title)
+        # Hide by title; the build also matches this against IGDB names.
+        edits.hide(data, "t:" + titles.key(titles.clean(title)), title)
+        data["added"] = [g for g in data["added"] if titles.key(g.get("title", "")) != titles.key(title)]
         result = f"Hid {title}"
     else:
-        hidden = [h for h in hidden if norm(h) != norm(title)]
         platform = fields.get("platform") or "Switch"
-        entry = {"title": title, "platform": platform}
-        if fields.get("format"):
-            entry["format"] = fields["format"].lower()
         hours = re.sub(r"[^\d.]", "", fields.get("hours played (optional)", ""))
-        if hours:
-            entry["hours"] = float(hours)
-        added = [g for g in added if not (norm(g["title"]) == norm(title) and g.get("platform") == platform)]
-        added.append(entry)
+        edits.add(data, title, platform, (fields.get("format") or "").lower() or None, float(hours) if hours else None)
         result = f"Added {title} ({platform})"
-
-    header = "# Managed by the 'Add or hide a game' issue form. You can also edit it by hand.\n"
-    PATH.write_text(
-        header + yaml.safe_dump({"added": added, "hidden": hidden}, sort_keys=False, allow_unicode=True),
-        encoding="utf-8",
-    )
+    edits.save(data)
     return result
 
 

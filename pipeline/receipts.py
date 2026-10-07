@@ -11,8 +11,10 @@ from email.header import decode_header, make_header
 from .util import log
 
 SENDER = "no-reply@accounts.nintendo.com"
-SUBJECT = "Confirmation of digital purchase"
-GMAIL_QUERY = f"from:{SENDER} subject:(confirmation digital purchase)"
+# Subjects seen so far: "Confirmation of digital purchase from Nintendo" (2023+) and
+# "Digital Purchase Confirmation from Nintendo" (older 3DS / Wii U era).
+SUBJECT_WORDS = ("digital", "purchase")
+GMAIL_QUERY = f"from:{SENDER} subject:(digital purchase)"
 
 # Purchases that are add-ons rather than games. Anything else can be hidden with the issue form.
 _ADDON = re.compile(
@@ -38,8 +40,17 @@ def _text_body(msg) -> str:
 def parse_receipt(text: str) -> list[dict]:
     """Extract purchased games from one receipt body."""
     device = re.search(r"Device Type:\s*(.+)", text)
-    device = device.group(1).strip() if device else "Nintendo Switch"
-    platform = "Switch 2" if "switch 2" in device.lower() else "Switch"
+    device = device.group(1).strip().lower() if device else ""
+    if "switch 2" in device:
+        platform = "Switch 2"
+    elif "switch" in device:
+        platform = "Switch"
+    elif "wii u" in device:
+        platform = "Wii U"
+    elif "3ds" in device or re.search(r"Serial Number:", text):
+        platform = "3DS"  # old 3DS/Wii U eShop receipts have a serial number and no device type
+    else:
+        platform = "Switch"
     date = re.search(r"Transaction Date:\s*(\d{1,2})/(\d{1,2})/(\d{4})", text)
     iso = f"{date.group(3)}-{int(date.group(1)):02d}-{int(date.group(2)):02d}" if date else None
     txn = re.search(r"Transaction ID:\s*(\d+)", text)
@@ -86,7 +97,7 @@ def fetch_receipts(address: str, app_password: str) -> list[dict]:
                     continue
                 msg = email.message_from_bytes(part[1])
                 subject = str(make_header(decode_header(msg.get("Subject", ""))))
-                if SUBJECT.lower() not in subject.lower():
+                if not all(w in subject.lower() for w in SUBJECT_WORDS):
                     continue
                 games.extend(parse_receipt(_text_body(msg)))
     finally:

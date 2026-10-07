@@ -6,6 +6,7 @@
 <title>Game Shelf</title>
 <meta name="theme-color" content="#E7E9EE" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#151821" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -28,6 +29,10 @@ button,select,input{font:inherit;color:inherit}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .wrap{max-width:860px;margin:0 auto;padding:20px 16px 64px}
 
+.topbar{display:flex;justify-content:flex-end;gap:8px;margin-bottom:4px}
+.iconbtn{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:14px}
+.iconbtn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+
 /* Hero: the current number one */
 .hero{display:grid;grid-template-columns:132px 1fr;gap:18px;align-items:end;margin:8px 0 26px}
 .hero img{width:132px;aspect-ratio:3/4;object-fit:cover;border-radius:10px;background:var(--line);box-shadow:0 10px 30px -12px rgba(20,25,45,.55)}
@@ -40,51 +45,85 @@ button,select,input{font:inherit;color:inherit}
 .status p{margin:2px 0}
 
 /* Controls */
-.controls{background:var(--bg);padding:10px 0 12px;margin:0 -16px 6px;padding-inline:16px;border-bottom:1px solid var(--line)}
+.controls{background:var(--bg);padding:10px 16px 12px;margin:0 -16px 6px;border-bottom:1px solid var(--line)}
 .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.row+.row{margin-top:8px}
+.row+.row,.row+details,details+.row{margin-top:8px}
 .search{flex:1 1 180px;min-width:0;padding:9px 12px;border:1px solid var(--line);border-radius:999px;background:var(--panel)}
 select{padding:8px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel);max-width:100%}
 .chip{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:14px}
 .chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.seg button{border:0;background:var(--panel);padding:6px 12px;font-size:14px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 .count{color:var(--muted);font-size:13px;margin-left:auto}
-details.sources{font-size:14px;color:var(--muted)}
-details.sources summary{cursor:pointer}
-details.sources label{display:inline-flex;gap:6px;align-items:center;margin:6px 12px 0 0;color:var(--ink)}
+details.opts{font-size:14px;color:var(--muted)}
+details.opts summary{cursor:pointer}
+details.opts .grid{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+details.opts label{display:inline-flex;gap:6px;align-items:center;margin:6px 12px 0 0;color:var(--ink)}
+.active{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.active:empty{display:none}
+.tagchip{border:1px solid var(--accent);color:var(--accent);background:transparent;border-radius:999px;padding:2px 10px;font-size:13px;cursor:pointer}
 
 /* List */
 ol.list{list-style:none;margin:0;padding:0}
-.game{display:grid;grid-template-columns:34px 48px 1fr auto;gap:12px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+.game{display:grid;grid-template-columns:34px 48px 1fr auto;gap:4px 12px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+.game.is-hidden{opacity:.55}
 .rank{font:700 18px/1 var(--display);color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
-.game img{width:48px;aspect-ratio:3/4;object-fit:cover;border-radius:5px;background:var(--line)}
+.game img.cover{width:48px;aspect-ratio:3/4;object-fit:cover;border-radius:5px;background:var(--line)}
+.title-btn{all:unset;cursor:pointer;min-width:0;display:block}
 .game .t{font:650 17px/1.2 var(--display);margin:0;overflow-wrap:anywhere}
 .game .sub{color:var(--muted);font-size:13px;margin-top:3px}
 .pill{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:4px;padding:0 5px;margin-right:4px;color:var(--ink)}
+.pill.played{border-color:var(--hi);color:var(--hi)}
+.pill.warn{border-color:var(--mid);color:var(--mid)}
 .score{font:800 28px/1 var(--display);font-stretch:80%;text-align:right;min-width:52px;font-variant-numeric:tabular-nums}
 .hi{color:var(--hi)} .mid{color:var(--mid)} .lo{color:var(--lo)} .na{color:var(--none)}
-.game summary{list-style:none;cursor:pointer;display:contents}
-.game summary::-webkit-details-marker{display:none}
-.breakdown{grid-column:3/5;display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:6px 14px;font-size:13px;padding-top:4px}
+
+.detail{grid-column:3/5;padding-top:8px;display:grid;gap:10px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+.actions button{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 12px;font-size:14px;cursor:pointer}
+.actions button.on{background:var(--hi);border-color:var(--hi);color:#fff}
+.breakdown{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:6px 14px;font-size:13px}
 .breakdown div{display:flex;justify-content:space-between;border-bottom:1px dotted var(--line);padding:2px 0}
 .breakdown b{font-variant-numeric:tabular-nums}
-.links{grid-column:3/5;font-size:13px;color:var(--muted)}
+.summary{font-size:14px;color:var(--ink);margin:0;max-width:68ch}
+.facts{font-size:13px;color:var(--muted);display:grid;gap:4px}
+.facts .tags{display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.facts .tags span.k{min-width:86px;color:var(--muted)}
+.tag{border:1px solid var(--line);background:transparent;border-radius:999px;padding:0 8px;font-size:12px;cursor:pointer;color:var(--ink)}
+.links{font-size:13px;color:var(--muted)}
 .links a{margin-right:12px}
+.note{font-size:13px;color:var(--mid)}
 
-/* Genre view */
-section.genre{margin-top:26px}
-section.genre h2{font:750 24px/1.1 var(--display);font-stretch:85%;margin:0 0 4px;display:flex;justify-content:space-between;align-items:baseline;gap:12px}
-section.genre h2 small{font:400 13px var(--body);color:var(--muted)}
+section.group{margin-top:26px}
+section.group h2{font:750 24px/1.1 var(--display);font-stretch:85%;margin:0 0 4px;display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+section.group h2 small{font:400 13px var(--body);color:var(--muted)}
 .more{margin-top:10px;background:none;border:0;color:var(--accent);cursor:pointer;padding:4px 0;font-weight:600}
 
 .empty{padding:40px 0;color:var(--muted);text-align:center}
 footer{margin-top:32px;color:var(--muted);font-size:13px}
+
+/* Sheets (settings, add game, fix match) */
+dialog{border:0;padding:0;background:transparent;max-width:min(560px,100vw);width:100%;margin:auto auto 0}
+dialog::backdrop{background:rgba(10,12,20,.45)}
+.sheet{background:var(--panel);color:var(--ink);border-radius:16px 16px 0 0;padding:20px 16px calc(20px + env(safe-area-inset-bottom));display:grid;gap:12px}
+@media (min-width:600px){dialog{margin:auto}.sheet{border-radius:16px}}
+.sheet h2{font:750 24px/1.1 var(--display);font-stretch:85%;margin:0}
+.sheet p{margin:0;font-size:14px;color:var(--muted)}
+.sheet label{display:grid;gap:4px;font-size:14px}
+.sheet input,.sheet select{padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);width:100%}
+.sheet .btns{display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap}
+.sheet ol{margin:0;padding-left:20px;font-size:14px;color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;z-index:50;max-width:calc(100vw - 32px)}
+.toast[hidden]{display:none}
+
 @media (min-width:700px){.controls{position:sticky;top:0;z-index:5}}
 @media (max-width:520px){
   .hero{grid-template-columns:96px 1fr;gap:14px}
   .hero img{width:96px}
-  .game{grid-template-columns:26px 40px 1fr auto;gap:10px}
-  .game img{width:40px}
-  .breakdown,.links{grid-column:2/5}
+  .game{grid-template-columns:26px 40px 1fr auto;gap:4px 10px}
+  .game img.cover{width:40px}
+  .detail{grid-column:1/5}
 }
 @media (prefers-reduced-motion:no-preference){
   .hero img{animation:lift .6s cubic-bezier(.2,.8,.2,1) both}
@@ -94,33 +133,54 @@ footer{margin-top:32px;color:var(--muted);font-size:13px}
 </head>
 <body>
 <main class="wrap">
+  <div class="topbar">
+    <button class="iconbtn" id="addBtn">Add a game</button>
+    <button class="iconbtn" id="settingsBtn" aria-label="Settings">Settings</button>
+  </div>
   <header class="hero" id="hero" aria-live="polite"></header>
   <div id="status"></div>
 
   <div class="controls">
     <div class="row">
-      <input class="search" id="q" type="search" placeholder="Search your games" aria-label="Search your games">
+      <input class="search" id="q" type="search" placeholder="Search titles, series, studios, keywords" aria-label="Search">
       <select id="sort" aria-label="Rank by"></select>
     </div>
     <div class="row" id="platforms" role="group" aria-label="Platforms"></div>
     <div class="row">
-      <select id="genre" aria-label="Genre"></select>
-      <button class="chip" id="byGenre" aria-pressed="false">Rank within each genre</button>
+      <div class="seg" id="playedSeg" role="group" aria-label="Played status">
+        <button data-v="all" aria-pressed="true">All</button>
+        <button data-v="played" aria-pressed="false">Played</button>
+        <button data-v="unplayed" aria-pressed="false">Not played</button>
+      </div>
+      <select id="group" aria-label="Group by"></select>
       <span class="count" id="count"></span>
     </div>
-    <div class="row">
-      <details class="sources">
-        <summary>Scores in the average and other options</summary>
-        <div id="srcBoxes"></div>
-        <label><input type="checkbox" id="hideUnscored"> Hide games with no score</label>
-        <label><input type="checkbox" id="hidePlus"> Hide unplayed PS Plus claims</label>
-      </details>
-    </div>
+    <details class="opts" id="filtersBox">
+      <summary>Filter by genre, theme, franchise, mode</summary>
+      <div class="grid">
+        <select id="f_genres" aria-label="Genre"></select>
+        <select id="f_themes" aria-label="Theme"></select>
+        <select id="f_franchises" aria-label="Franchise"></select>
+        <select id="f_modes" aria-label="Mode"></select>
+        <select id="f_perspectives" aria-label="Perspective"></select>
+      </div>
+    </details>
+    <details class="opts">
+      <summary>Scores in the average and other options</summary>
+      <div id="srcBoxes"></div>
+      <label><input type="checkbox" id="hideUnscored"> Hide games with no score</label>
+      <label><input type="checkbox" id="hidePlus"> Hide unplayed PS Plus claims</label>
+      <label><input type="checkbox" id="showHidden"> Show hidden games and apps</label>
+    </details>
+    <div class="active" id="active"></div>
   </div>
 
   <div id="out"></div>
   <footer id="foot"></footer>
 </main>
+
+<dialog id="dlg"><form method="dialog" class="sheet" id="sheet"></form></dialog>
+<div class="toast" id="toast" role="status" hidden></div>
 
 <script>
 const SOURCES = {
@@ -135,20 +195,110 @@ const SORTS = [
   ["avg","Average score"], ...Object.entries(SOURCES).map(([k,v])=>[k,v.label]),
   ["playtime","Most played"], ["recent","Recently played"], ["year","Newest release"], ["title","Title A to Z"],
 ];
+const GROUPS = [["","No grouping"],["genres","Group by genre"],["themes","Group by theme"],["franchises","Group by franchise"],
+  ["platforms","Group by platform"],["developers","Group by developer"],["modes","Group by mode"]];
+const FILTERS = {genres:"All genres", themes:"All themes", franchises:"All franchises", modes:"All modes", perspectives:"All perspectives"};
 const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"Backloggd",igdb:"IGDB",steam:"Steam"};
+const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","3DS","Wii U","Other"];
+const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, added:[], match:{}});
 
-const prefs = (()=>{try{return JSON.parse(localStorage.getItem("shelf-prefs")||"{}")}catch{return {}}})();
-const state = {
-  q:"", sort:prefs.sort||"avg", genre:"", platforms:new Set(), byGenre:!!prefs.byGenre,
-  hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch{ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch{} },
+  del(k){ try{ localStorage.removeItem(k); }catch{} },
 };
-function savePrefs(){try{localStorage.setItem("shelf-prefs",JSON.stringify({sort:state.sort,byGenre:state.byGenre,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,srcOn:[...state.srcOn]}))}catch{}}
+const prefs = store.get("shelf-prefs", {});
+const state = {
+  q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
+  filters:{}, tags:[], hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, showHidden:false,
+  srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
+};
+function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,srcOn:[...state.srcOn]}); }
+
+// Which repository this site belongs to: <owner>.github.io/<repo>/
+const REPO = store.get("shelf-repo", null) || (()=>{
+  const owner = location.hostname.endsWith(".github.io") ? location.hostname.split(".")[0] : "";
+  const repo = location.pathname.split("/").filter(Boolean)[0] || "";
+  return owner && repo ? {owner, repo} : null;
+})();
+const EDITS_PATH = "config/library_edits.json";
 
 let DATA = {games:[]};
+let EDITS = EMPTY_EDITS();
+let liveEdits = false;
 const $ = id => document.getElementById(id);
 const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const tone = v => v==null?"na":v>=80?"hi":v>=65?"mid":"lo";
+const today = () => new Date().toLocaleDateString("en-CA");  // local date, YYYY-MM-DD
 
+/* ---------------- GitHub storage for your edits ---------------- */
+const token = () => store.get("shelf-gh-token", "");
+function b64encode(str){ return btoa(unescape(encodeURIComponent(str))); }
+function b64decode(b64){ return decodeURIComponent(escape(atob(b64.replace(/\s/g,"")))); }
+async function gh(path, opts={}){
+  const headers = {"Accept":"application/vnd.github+json", ...(opts.headers||{})};
+  if(token()) headers.Authorization = "Bearer " + token();
+  return fetch(`https://api.github.com/repos/${REPO.owner}/${REPO.repo}/${path}`, {...opts, headers, cache:"no-store"});
+}
+async function readEdits(){
+  if(!REPO) return null;
+  const r = await gh(`contents/${EDITS_PATH}`);
+  if(r.status === 404) return {data:EMPTY_EDITS(), sha:null};
+  if(!r.ok) throw new Error(`GitHub said ${r.status}`);
+  const j = await r.json();
+  return {data:{...EMPTY_EDITS(), ...JSON.parse(b64decode(j.content))}, sha:j.sha};
+}
+async function writeEdits(mutate, message, rebuild){
+  if(!REPO) throw new Error("Can't tell which GitHub repository this site belongs to.");
+  if(!token()) { openSettings("Connect GitHub to save changes. It takes about two minutes, once per device."); throw new Error("not-connected"); }
+  for(let attempt=0; attempt<3; attempt++){
+    const cur = await readEdits();
+    const data = cur.data; mutate(data);
+    const body = {message: message + (rebuild ? "" : " [skip ci]"), content: b64encode(JSON.stringify(data, null, 1) + "\n")};
+    if(cur.sha) body.sha = cur.sha;
+    const r = await gh(`contents/${EDITS_PATH}`, {method:"PUT", body:JSON.stringify(body), headers:{"Content-Type":"application/json"}});
+    if(r.ok){ EDITS = data; liveEdits = true; return; }
+    if(r.status === 409 || r.status === 422) continue;  // someone else saved first; retry on top of it
+    if(r.status === 401) throw new Error("GitHub rejected the token. Create a new one in Settings.");
+    if(r.status === 403 || r.status === 404) throw new Error("The token can't write to this repository. Check it has Contents: Read and write.");
+    throw new Error(`GitHub said ${r.status}`);
+  }
+  throw new Error("Couldn't save after several tries. Try again.");
+}
+async function act(mutate, message, okText, rebuild=false){
+  try{
+    await writeEdits(mutate, message, rebuild);
+    applyEdits(); render(); toast(okText);
+  }catch(e){ if(e.message !== "not-connected") toast(e.message); }
+}
+
+/* ---------------- Edits overlay ---------------- */
+function keysOf(g){ return [g.key, ...(g.src||[]).map(s=>"t:"+s), ...(g.pending_key?[g.pending_key]:[])]; }
+function applyEdits(){
+  for(const g of DATA.games){
+    if(!liveEdits){ g._hidden = g.hidden; g._played = g.played; continue; }
+    const ks = keysOf(g);
+    if(ks.some(k=>k in EDITS.unhidden)) g._hidden = null;
+    else if(ks.some(k=>k in EDITS.hidden)) g._hidden = "you";
+    else g._hidden = g.hidden === "auto" ? "auto" : null;
+    const p = ks.find(k=>k in EDITS.played);
+    g._played = p ? EDITS.played[p] : null;
+  }
+}
+function togglePlayed(g){
+  const on = !g._played;
+  act(d=>{ for(const k of keysOf(g)) delete d.played[k]; if(on) d.played[g.key] = today(); },
+      `${on?"Played":"Not played"}: ${g.title}`, on ? `Marked ${g.title} as played` : `Unmarked ${g.title}`);
+}
+function toggleHidden(g){
+  const hide = !g._hidden;
+  act(d=>{
+    for(const k of keysOf(g)){ delete d.hidden[k]; delete d.unhidden[k]; }
+    if(hide) d.hidden[g.key] = g.title; else if(g.hidden === "auto") d.unhidden[g.key] = g.title;
+  }, `${hide?"Hide":"Unhide"}: ${g.title}`, hide ? `Hid ${g.title}` : `${g.title} is back on your shelf`);
+}
+
+/* ---------------- Scores, sorting, filtering ---------------- */
 function avg(g){
   const vals = [...state.srcOn].map(k=>g.scores[k]).filter(v=>typeof v==="number");
   return vals.length ? Math.round(vals.reduce((a,b)=>a+b,0)/vals.length) : null;
@@ -171,14 +321,22 @@ function sorted(list){
     return vb-va || (avg(b)??-1)-(avg(a)??-1) || a.title.localeCompare(b.title);
   });
 }
+function haystack(g){
+  if(!g._hay) g._hay = [g.title, ...(g.franchises||[]), ...(g.series||[]), ...(g.developers||[]), ...(g.publishers||[]),
+    ...(g.keywords||[]), ...(g.themes||[]), ...(g.genres||[])].join(" | ").toLowerCase();
+  return g._hay;
+}
 function filtered(){
   const q = state.q.trim().toLowerCase();
   return DATA.games.filter(g=>
-    (!q || g.title.toLowerCase().includes(q)) &&
+    (state.showHidden || !g._hidden) &&
+    (!q || haystack(g).includes(q)) &&
     (!state.platforms.size || g.platforms.some(p=>state.platforms.has(p))) &&
-    (!state.genre || g.genres.includes(state.genre)) &&
+    Object.entries(state.filters).every(([f,v])=>!v || (g[f]||[]).includes(v)) &&
+    state.tags.every(t=>(g[t.field]||[]).includes(t.value)) &&
+    (state.played==="all" || (state.played==="played" ? !!g._played : !g._played)) &&
     (!state.hideUnscored || avg(g)!=null) &&
-    (!state.hidePlus || !g.ps_plus || g.playtime>0));
+    (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played));
 }
 function shown(g){
   const k=state.sort;
@@ -188,103 +346,252 @@ function shown(g){
   const v=value(g,k); return {v, unit:"", cls:tone(v)};
 }
 
-function gameRow(g,i){
-  const s = shown(g);
-  const id = g.title+"|"+g.platforms.join();
-  const open = state.open.has(id);
-  const subs = [g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")+(g.ps_plus?`<span class="pill">PS Plus</span>`:""),
-    esc(g.genres.slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" ");
+/* ---------------- Rendering ---------------- */
+function tagList(label, field, items){
+  if(!items || !items.length) return "";
+  return `<div class="tags"><span class="k">${label}</span>${items.map(v=>`<button type="button" class="tag" data-field="${field}" data-value="${esc(v)}">${esc(v)}</button>`).join("")}</div>`;
+}
+function detail(g){
   const breakdown = Object.entries(SOURCES).map(([k,v])=>{
     const val=g.scores[k];
-    const extra = k==="backloggd"&&g.backloggd_stars!=null?` <span class="na">(${g.backloggd_stars}★)</span>`:"";
+    let extra = "";
+    if(k==="backloggd" && g.backloggd_stars!=null) extra = ` <span class="na">(${g.backloggd_stars}★)</span>`;
+    if(k==="opencritic" && g.opencritic_tier) extra = ` <span class="na">(${esc(g.opencritic_tier)})</span>`;
     return `<div><span>${v.label}</span><b class="${tone(val)}">${val??"–"}${extra}</b></div>`;
   }).join("") + (g.playtime?`<div><span>Played</span><b>${g.playtime} h</b></div>`:"");
   const links = Object.entries(g.links||{}).map(([k,u])=>`<a href="${esc(u)}" target="_blank" rel="noopener">${LINK_LABELS[k]||k}</a>`).join("");
-  return `<li class="game" data-id="${esc(id)}">
+  const people = [g.developers?.length ? `Developed by ${g.developers.map(esc).join(", ")}` : "",
+                  g.publishers?.length && g.publishers.join()!==(g.developers||[]).join() ? `published by ${g.publishers.map(esc).join(", ")}` : ""].filter(Boolean).join(", ");
+  let note = "";
+  if(!g.matched) note = `<p class="note">Not found on IGDB, so genres and some scores are missing. Use “Wrong match?” to link it.</p>`;
+  else if(g.match==="medium") note = `<p class="note">This match was a close call. If it's the wrong game, use “Wrong match?”.</p>`;
+  return `<div class="detail">
+    <div class="actions">
+      <button type="button" data-act="played" class="${g._played?"on":""}">${g._played?"Played ✓":"Mark as played"}</button>
+      <button type="button" data-act="hide">${g._hidden?"Unhide":"Hide"}</button>
+      <button type="button" data-act="fix">Wrong match?</button>
+    </div>
+    ${note}
+    ${g.summary?`<p class="summary">${esc(g.summary)}</p>`:""}
+    <div class="breakdown">${breakdown}</div>
+    <div class="facts">
+      ${people?`<div>${people}</div>`:""}
+      ${tagList("Franchise","franchises",g.franchises)}
+      ${tagList("Series","series",g.series)}
+      ${tagList("Themes","themes",g.themes)}
+      ${tagList("Modes","modes",g.modes)}
+      ${tagList("Perspective","perspectives",g.perspectives)}
+      ${tagList("Keywords","keywords",g.keywords)}
+    </div>
+    ${links?`<div class="links">${links}</div>`:""}
+  </div>`;
+}
+function gameRow(g,i){
+  const s = shown(g);
+  const open = state.open.has(g.key);
+  const pills = g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")
+    + (g.ps_plus?`<span class="pill">PS Plus</span>`:"")
+    + (g._played?`<span class="pill played">Played</span>`:"")
+    + (g._hidden?`<span class="pill">${g._hidden==="auto"?"App, hidden":"Hidden"}</span>`:"")
+    + (!g.matched?`<span class="pill warn">Not on IGDB</span>`:"");
+  const subs = [pills, esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" ");
+  return `<li class="game${g._hidden?" is-hidden":""}" data-key="${esc(g.key)}">
     <span class="rank">${i+1}</span>
-    ${g.cover?`<img src="${esc(g.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
-    <button class="title-btn" aria-expanded="${open}" style="all:unset;cursor:pointer;min-width:0">
-      <p class="t">${esc(g.title)}</p><div class="sub">${subs}</div>
-    </button>
-    <span class="score ${s.cls}" aria-label="score">${s.v??"–"}${s.v!=null?s.unit:""}</span>
-    ${open?`<div class="breakdown">${breakdown}</div>${links?`<div class="links">${links}</div>`:""}`:""}
+    ${g.cover?`<img class="cover" src="${esc(g.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img class="cover" alt="">`}
+    <button type="button" class="title-btn" aria-expanded="${open}"><p class="t">${esc(g.title)}</p><div class="sub">${subs}</div></button>
+    <span class="score ${s.cls}">${s.v??"–"}${s.v!=null?s.unit:""}</span>
+    ${open?detail(g):""}
   </li>`;
 }
-
 function renderHero(){
   const k = state.sort in SOURCES || state.sort==="avg" ? state.sort : "avg";
-  const ranked = [...DATA.games].filter(g=>value(g,k)!=null).sort((a,b)=>value(b,k)-value(a,k));
-  const g = ranked[0];
+  const pool = DATA.games.filter(g=>!g._hidden);
+  const g = pool.filter(x=>value(x,k)!=null).sort((a,b)=>value(b,k)-value(a,k))[0];
   if(!g){ $("hero").innerHTML = `<div></div><div><h1>Your game shelf</h1><p class="meta">Scores appear after the first daily update finishes.</p></div>`; return; }
   const v = value(g,k);
   const label = k==="avg"?"average score":SOURCES[k].label+" score";
+  const played = pool.filter(x=>x._played).length;
   $("hero").innerHTML = `${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<div></div>`}
     <div><p class="lead">Best in your library by ${esc(label)}</p>
     <h1>${esc(g.title)}</h1>
     <span class="big ${tone(v)}">${v}</span>
-    <p class="meta">${DATA.games.length} games across ${new Set(DATA.games.flatMap(x=>x.platforms)).size} platforms</p></div>`;
+    <p class="meta">${pool.length} games, ${played} played</p></div>`;
 }
-
+function renderActive(){
+  const parts = [];
+  for(const [f,v] of Object.entries(state.filters)) if(v) parts.push(`<button type="button" class="tagchip" data-clear-filter="${f}">${esc(v)} ✕</button>`);
+  state.tags.forEach((t,i)=>parts.push(`<button type="button" class="tagchip" data-clear-tag="${i}">${esc(t.value)} ✕</button>`));
+  $("active").innerHTML = parts.join("");
+}
 function render(){
-  savePrefs();
-  renderHero();
+  savePrefs(); renderHero(); renderActive();
   const list = filtered();
   $("count").textContent = `${list.length} ${list.length===1?"game":"games"}`;
-  if(!list.length){ $("out").innerHTML = `<p class="empty">No games match these filters. Clear the search or pick another platform.</p>`; return; }
-  if(!state.byGenre){
-    $("out").innerHTML = `<ol class="list">${sorted(list).map(gameRow).join("")}</ol>`;
-    return;
-  }
-  const by = new Map();
-  for(const g of list) for(const ge of (g.genres.length?g.genres:["No genre"])){ if(!by.has(ge)) by.set(ge,[]); by.get(ge).push(g); }
-  const genres = [...by.entries()].sort((a,b)=>b[1].length-a[1].length);
-  $("out").innerHTML = genres.map(([ge,gs])=>{
-    const all = state.open.has("genre:"+ge);
-    const s = sorted(gs);
-    return `<section class="genre"><h2>${esc(ge)} <small>${gs.length}</small></h2>
+  if(!list.length){ $("out").innerHTML = `<p class="empty">No games match these filters. Clear a filter or the search to see more.</p>`; return; }
+  if(!state.group){ $("out").innerHTML = `<ol class="list">${sorted(list).map(gameRow).join("")}</ol>`; return; }
+  const field = state.group, by = new Map();
+  for(const g of list) for(const v of ((g[field]||[]).length ? g[field] : ["None listed"])){ if(!by.has(v)) by.set(v,[]); by.get(v).push(g); }
+  const groups = [...by.entries()].sort((a,b)=>(a[0]==="None listed")-(b[0]==="None listed") || b[1].length-a[1].length || a[0].localeCompare(b[0]));
+  $("out").innerHTML = groups.map(([name,gs])=>{
+    const all = state.open.has("group:"+name), s = sorted(gs);
+    return `<section class="group"><h2>${esc(name)} <small>${gs.length}</small></h2>
       <ol class="list">${(all?s:s.slice(0,5)).map(gameRow).join("")}</ol>
-      ${s.length>5?`<button class="more" data-genre="${esc(ge)}">${all?"Show top 5":`Show all ${s.length}`}</button>`:""}</section>`;
+      ${s.length>5?`<button type="button" class="more" data-group="${esc(name)}">${all?"Show top 5":`Show all ${s.length}`}</button>`:""}</section>`;
   }).join("");
 }
 
+/* ---------------- Sheets ---------------- */
+function sheet(html){ $("sheet").innerHTML = html; if(!$("dlg").open) $("dlg").showModal(); }
+function closeSheet(){ if($("dlg").open) $("dlg").close(); }
+function toast(msg){ const t=$("toast"); t.textContent=msg; t.hidden=false; clearTimeout(t._h); t._h=setTimeout(()=>t.hidden=true, 3800); }
+
+function openSettings(intro){
+  const connected = !!token();
+  const repo = REPO ? `${REPO.owner}/${REPO.repo}` : "unknown";
+  sheet(`<h2>Settings</h2>
+    ${intro?`<p>${esc(intro)}</p>`:""}
+    <p>${connected ? `Connected to GitHub. Changes you make here are saved to <b>${esc(repo)}</b>.` :
+      `To mark games as played, hide games or fix matches from this app, connect it to your GitHub repository <b>${esc(repo)}</b>. The token is stored only in this browser.`}</p>
+    <ol>
+      <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub's new fine-grained token page</a>.</li>
+      <li>Name it “Game Shelf”, pick an expiration (up to a year).</li>
+      <li>Under <b>Repository access</b>, choose <b>Only select repositories</b> and pick <b>${esc(REPO?REPO.repo:"your repository")}</b>.</li>
+      <li>Under <b>Permissions</b>, then <b>Repository permissions</b>, set <b>Contents</b> to <b>Read and write</b>.</li>
+      <li>Click <b>Generate token</b>, copy it and paste it below.</li>
+    </ol>
+    <label>GitHub token<input id="tokIn" type="password" autocomplete="off" placeholder="${connected?"Saved (paste a new one to replace it)":"github_pat_…"}"></label>
+    <div class="btns">
+      ${connected?`<button type="button" class="iconbtn" id="tokClear">Disconnect</button>`:""}
+      <button value="cancel" class="iconbtn">Close</button>
+      <button type="button" class="iconbtn primary" id="tokSave">Save token</button>
+    </div>`);
+  $("tokSave").onclick = async ()=>{
+    const v = $("tokIn").value.trim();
+    if(!v){ toast("Paste the token first"); return; }
+    try{
+      const r = await fetch(`https://api.github.com/repos/${REPO.owner}/${REPO.repo}`, {headers:{Authorization:"Bearer "+v, Accept:"application/vnd.github+json"}, cache:"no-store"});
+      if(r.status===401){ toast("GitHub rejected that token. Check you copied all of it."); return; }
+    }catch{ toast("Couldn't reach GitHub. Check your connection."); return; }
+    store.set("shelf-gh-token", v); closeSheet(); toast("Connected. Your changes now save to GitHub."); loadEdits();
+  };
+  const c = $("tokClear"); if(c) c.onclick = ()=>{ store.del("shelf-gh-token"); closeSheet(); toast("Disconnected on this device"); };
+}
+function openAdd(){
+  sheet(`<h2>Add a game</h2>
+    <p>For physical copies or anything the automatic import missed. It appears with scores after the next update, in about 5 to 10 minutes.</p>
+    <label>Title<input id="addTitle" required placeholder="The Legend of Zelda: Tears of the Kingdom"></label>
+    <label>Platform<select id="addPlat">${PLATFORM_CHOICES.map(p=>`<option>${p}</option>`).join("")}</select></label>
+    <label>Format<select id="addFmt"><option value="physical">Physical</option><option value="digital">Digital</option></select></label>
+    <label>Hours played (optional)<input id="addHours" inputmode="decimal" placeholder="25"></label>
+    <label style="display:flex;gap:8px;align-items:center"><input id="addPlayed" type="checkbox" style="width:auto"> I've played it</label>
+    <div class="btns"><button value="cancel" class="iconbtn">Cancel</button><button type="button" class="iconbtn primary" id="addSave">Add game</button></div>`);
+  $("addSave").onclick = ()=>{
+    const title = $("addTitle").value.trim(); if(!title){ toast("Enter a title"); return; }
+    const entry = {title, platform:$("addPlat").value, format:$("addFmt").value, added:today()};
+    const h = parseFloat($("addHours").value); if(h>0) entry.hours = h;
+    const played = $("addPlayed").checked;
+    closeSheet();
+    act(d=>{ d.added = d.added.filter(a=>!(a.title.toLowerCase()===title.toLowerCase() && a.platform===entry.platform)); d.added.push(entry);
+             if(played) d.played["pending:"+title.toLowerCase()] = today(); },
+        `Add game: ${title}`, `Added ${title}. It shows up after the next update (5 to 10 minutes).`, true);
+  };
+}
+function openFix(g){
+  const q = encodeURIComponent(g.title);
+  sheet(`<h2>Fix the match for ${esc(g.title)}</h2>
+    <p>${g.matched ? `Currently linked to <a href="${esc(g.links.igdb||"#")}" target="_blank" rel="noopener">${esc(g.title)}${g.year?` (${g.year})`:""}</a> on IGDB.` : "This game isn't linked to IGDB yet."}
+       Find the right game on IGDB, copy its page address and paste it here.</p>
+    <p><a href="https://www.igdb.com/search?q=${q}" target="_blank" rel="noopener">Search IGDB for “${esc(g.title)}”</a></p>
+    <label>IGDB page address<input id="fixUrl" placeholder="https://www.igdb.com/games/humanity--1" autocomplete="off"></label>
+    <div class="btns">
+      <button type="button" class="iconbtn" id="fixNone">It's not a game</button>
+      <button value="cancel" class="iconbtn">Cancel</button>
+      <button type="button" class="iconbtn primary" id="fixSave">Save match</button>
+    </div>`);
+  const srcs = g.src||[];
+  $("fixSave").onclick = ()=>{
+    const m = $("fixUrl").value.trim().match(/igdb\.com\/games\/([a-z0-9-]+)/i) || $("fixUrl").value.trim().match(/^([a-z0-9-]+)$/i);
+    if(!m){ toast("Paste an IGDB game page address, like igdb.com/games/name"); return; }
+    const slug = m[1].toLowerCase(); closeSheet();
+    act(d=>{ for(const s of srcs) d.match[s] = slug; }, `Fix match: ${g.title} -> ${slug}`,
+        "Saved. The corrected game appears after the next update (5 to 10 minutes).", true);
+  };
+  $("fixNone").onclick = ()=>{ closeSheet();
+    act(d=>{ for(const k of keysOf(g)){ delete d.unhidden[k]; } d.hidden[g.key] = g.title; }, `Hide non-game: ${g.title}`, `Hid ${g.title}`);
+  };
+}
+
+/* ---------------- Setup ---------------- */
+function fillSelect(id, field, label){
+  const counts = new Map();
+  for(const g of DATA.games) if(!g._hidden) for(const v of g[field]||[]) counts.set(v,(counts.get(v)||0)+1);
+  const opts = [...counts.entries()].filter(([,n])=> field!=="franchises" || n>=2).sort((a,b)=>a[0].localeCompare(b[0]));
+  $(id).innerHTML = `<option value="">${label}</option>` + opts.map(([v,n])=>`<option value="${esc(v)}">${esc(v)} (${n})</option>`).join("");
+  $(id).value = state.filters[field]||"";
+}
 function setup(){
   $("sort").innerHTML = SORTS.map(([k,l])=>`<option value="${k}">Rank by ${l.toLowerCase()}</option>`).join("");
   $("sort").value = state.sort;
+  $("group").innerHTML = GROUPS.map(([k,l])=>`<option value="${k}">${l}</option>`).join("");
+  $("group").value = state.group;
   const plats = [...new Set(DATA.games.flatMap(g=>g.platforms))].sort();
-  $("platforms").innerHTML = plats.map(p=>`<button class="chip" aria-pressed="false" data-p="${esc(p)}">${esc(p)}</button>`).join("");
-  const genres = [...new Set(DATA.games.flatMap(g=>g.genres))].sort();
-  $("genre").innerHTML = `<option value="">All genres</option>`+genres.map(g=>`<option>${esc(g)}</option>`).join("");
+  $("platforms").innerHTML = plats.map(p=>`<button type="button" class="chip" aria-pressed="false" data-p="${esc(p)}">${esc(p)}</button>`).join("");
+  for(const [f,l] of Object.entries(FILTERS)) fillSelect("f_"+f, f, l);
   $("srcBoxes").innerHTML = Object.entries(SOURCES).map(([k,v])=>`<label><input type="checkbox" data-src="${k}" ${state.srcOn.has(k)?"checked":""}> ${v.label}</label>`).join("");
-  $("byGenre").setAttribute("aria-pressed",state.byGenre);
   $("hideUnscored").checked = state.hideUnscored;
   $("hidePlus").checked = state.hidePlus;
+  for(const b of $("playedSeg").querySelectorAll("button")) b.setAttribute("aria-pressed", b.dataset.v===state.played);
 
   $("q").oninput = e=>{state.q=e.target.value;render()};
   $("sort").onchange = e=>{state.sort=e.target.value;render()};
-  $("genre").onchange = e=>{state.genre=e.target.value;render()};
-  $("byGenre").onclick = e=>{state.byGenre=!state.byGenre;e.currentTarget.setAttribute("aria-pressed",state.byGenre);render()};
+  $("group").onchange = e=>{state.group=e.target.value;render()};
+  for(const f of Object.keys(FILTERS)) $("f_"+f).onchange = e=>{state.filters[f]=e.target.value;render()};
   $("hideUnscored").onchange = e=>{state.hideUnscored=e.target.checked;render()};
   $("hidePlus").onchange = e=>{state.hidePlus=e.target.checked;render()};
+  $("showHidden").onchange = e=>{state.showHidden=e.target.checked;render()};
+  $("playedSeg").onclick = e=>{const b=e.target.closest("button"); if(!b) return; state.played=b.dataset.v;
+    for(const x of $("playedSeg").querySelectorAll("button")) x.setAttribute("aria-pressed", x===b); render()};
   $("platforms").onclick = e=>{const b=e.target.closest("[data-p]"); if(!b) return;
     const p=b.dataset.p; state.platforms.has(p)?state.platforms.delete(p):state.platforms.add(p);
     b.setAttribute("aria-pressed",state.platforms.has(p)); render()};
   $("srcBoxes").onchange = e=>{const k=e.target.dataset.src; e.target.checked?state.srcOn.add(k):state.srcOn.delete(k); render()};
+  $("active").onclick = e=>{
+    const f = e.target.closest("[data-clear-filter]"), t = e.target.closest("[data-clear-tag]");
+    if(f){ state.filters[f.dataset.clearFilter]=""; $("f_"+f.dataset.clearFilter).value=""; }
+    if(t){ state.tags.splice(+t.dataset.clearTag,1); }
+    render();
+  };
+  $("addBtn").onclick = openAdd;
+  $("settingsBtn").onclick = ()=>openSettings();
   $("out").onclick = e=>{
     const more=e.target.closest(".more");
-    if(more){const k="genre:"+more.dataset.genre; state.open.has(k)?state.open.delete(k):state.open.add(k); render(); return;}
-    const btn=e.target.closest(".title-btn"); if(!btn) return;
-    const id=btn.closest(".game").dataset.id; state.open.has(id)?state.open.delete(id):state.open.add(id); render();
+    if(more){const k="group:"+more.dataset.group; state.open.has(k)?state.open.delete(k):state.open.add(k); render(); return;}
+    const tag=e.target.closest(".tag");
+    if(tag){ const t={field:tag.dataset.field, value:tag.dataset.value};
+      if(!state.tags.some(x=>x.field===t.field&&x.value===t.value)) state.tags.push(t);
+      window.scrollTo({top:$("out").offsetTop-120, behavior:"smooth"}); render(); return; }
+    const li=e.target.closest(".game"); if(!li) return;
+    const g = DATA.games.find(x=>x.key===li.dataset.key); if(!g) return;
+    const actBtn=e.target.closest("[data-act]");
+    if(actBtn){ const a=actBtn.dataset.act; if(a==="played") togglePlayed(g); if(a==="hide") toggleHidden(g); if(a==="fix") openFix(g); return; }
+    if(e.target.closest(".title-btn")){ state.open.has(g.key)?state.open.delete(g.key):state.open.add(g.key); render(); }
   };
 
   const bad = Object.entries(DATA.status||{}).filter(([,v])=>v!=="ok"&&v!=="not configured");
-  const names = {steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB"};
-  $("status").innerHTML = bad.length ? `<div class="status">${bad.map(([k,v])=>`<p><b>${names[k]||k}:</b> ${esc(v)}${k==="playstation"?". Your PlayStation sign-in token has probably expired; generate a new one and update the PSN_NPSSO secret.":k==="nintendo_eshop"?". Check that the GMAIL_APP_PASSWORD secret is still valid.":""}</p>`).join("")}</div>` : "";
+  const names = {steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB",opencritic:"OpenCritic"};
+  const hints = {playstation:". Your PlayStation sign-in token has probably expired; generate a new one and update the PSN_NPSSO secret.",
+                 nintendo_eshop:". Check that the GMAIL_APP_PASSWORD secret is still valid."};
+  $("status").innerHTML = bad.length ? `<div class="status">${bad.map(([k,v])=>`<p><b>${names[k]||k}:</b> ${esc(v)}${hints[k]||""}</p>`).join("")}</div>` : "";
   const when = DATA.generated ? new Date(DATA.generated).toLocaleString([], {dateStyle:"medium",timeStyle:"short"}) : "never";
   $("foot").textContent = `Last updated ${when}. Updates daily.`;
 }
+async function loadEdits(){
+  try{ const r = await readEdits(); if(r){ EDITS = r.data; liveEdits = true; applyEdits(); render(); } }
+  catch{ /* offline or rate-limited: fall back to the edits baked into data.json */ }
+}
 
 fetch("data.json",{cache:"no-store"}).then(r=>r.ok?r.json():{games:[]}).catch(()=>({games:[]}))
-  .then(d=>{DATA=d; setup(); render();});
+  .then(d=>{ DATA=d; applyEdits(); setup(); render(); loadEdits(); });
 </script>
 </body>
 </html>

@@ -6,6 +6,7 @@ import re
 
 from bs4 import BeautifulSoup
 
+from . import titles
 from .util import log, norm, polite_get, slugify
 
 
@@ -74,13 +75,32 @@ def steam_store(appid):
 _MC_TITLE = re.compile(r"Metascore\s+(\d{1,3})\s+out of 100", re.I)
 
 
-def metacritic(slug_or_title, is_slug=False):
+_MC_YEAR = [
+    re.compile(r'"datePublished"\s*:\s*"((?:19|20)\d\d)'),
+    re.compile(r"Released On:?\s*</?[^>]*>?\s*[A-Za-z]{3,9}\.? \d{1,2},? ((?:19|20)\d\d)", re.I),
+    re.compile(r"Release Date:?.{0,80}?((?:19|20)\d\d)", re.I | re.S),
+]
+
+
+def metacritic(slug_or_title, is_slug=False, expect_year=None):
+    """Metascore from a Metacritic game page. With expect_year, a page for a different game that
+    happens to share the name (e.g. a 2010 "Humanity" vs the 2023 one) is rejected."""
     slug = slug_or_title if is_slug else slugify(slug_or_title)
     if not slug:
         return None
     r = polite_get(f"https://www.metacritic.com/game/{slug}/", host_delay=2.0)
     if r is None or r.status_code != 200:
         return None
+    if expect_year:
+        page_year = None
+        for pat in _MC_YEAR:
+            m = pat.search(r.text)
+            if m:
+                page_year = int(m.group(1))
+                break
+        if page_year and abs(page_year - expect_year) > 1:
+            log(f"    Metacritic: /{slug}/ is a {page_year} game, expected {expect_year}; skipped")
+            return None
     m = _MC_TITLE.search(r.text)
     if m:
         return int(m.group(1))
@@ -90,46 +110,86 @@ def metacritic(slug_or_title, is_slug=False):
     return None
 
 
-# ---------------------------------------------------------------- OpenCritic (optional, RapidAPI)
+# ---------------------------------------------------------------- OpenCritic (RapidAPI, free tier)
 class OpenCritic:
+    """OpenCritic's API is only offered through RapidAPI. The free plan allows roughly
+    25 searches and 200 requests a day, so ids come from Wikidata whenever possible and
+    searches are rationed. Quota headers from RapidAPI are respected if present."""
+
     HOST = "opencritic-api.p.rapidapi.com"
 
-    def __init__(self, key, max_calls):
+    def __init__(self, key, max_requests=150, max_searches=20):
         self.key = key
-        self.calls_left = max_calls
+        self.requests_left = max_requests
+        self.searches_left = max_searches
+        self.exhausted = False
+
+    @property
+    def active(self):
+        return bool(self.key) and not self.exhausted and self.requests_left > 0
 
     def _get(self, path, **params):
-        if not self.key or self.calls_left <= 0:
+        if not self.active:
             return None
-        self.calls_left -= 1
+        self.requests_left -= 1
         r = polite_get(
             f"https://{self.HOST}{path}",
             host_delay=1.2,
+            retries=2,
             params=params,
             headers={"X-RapidAPI-Key": self.key, "X-RapidAPI-Host": self.HOST},
         )
-        if r is None or r.status_code != 200:
+        if r is None:
+            return None
+        for h in ("X-RateLimit-Requests-Remaining", "x-ratelimit-requests-remaining"):
+            if r.headers.get(h, "").isdigit() and int(r.headers[h]) <= 2:
+                self.exhausted = True
+        if r.status_code in (401, 403):
+            log(f"  OpenCritic: key rejected (HTTP {r.status_code}); check the OPENCRITIC_RAPIDAPI_KEY secret")
+            self.exhausted = True
+            return None
+        if r.status_code == 429:
+            log("  OpenCritic: daily quota used up; continuing tomorrow")
+            self.exhausted = True
+            return None
+        if r.status_code != 200:
             return None
         try:
             return r.json()
         except ValueError:
             return None
 
-    def lookup(self, title, known_id=None):
-        """Returns (opencritic_id, top_critic_score) or (known_id, None)."""
-        oc_id = known_id
-        if not oc_id:
-            hits = self._get("/game/search", criteria=title) or []
-            target = norm(title)
-            for h in hits:
-                if norm(h.get("name", "")) == target or (h.get("dist", 1) <= 0.1):
-                    oc_id = h["id"]
-                    break
-        if not oc_id:
-            return None, None
-        g = self._get(f"/game/{oc_id}") or {}
+    def find_id(self, title, year=None):
+        if self.searches_left <= 0:
+            return None
+        self.searches_left -= 1
+        hits = self._get("/game/search", criteria=titles.clean(title)) or []
+        best, best_s = None, 0.0
+        for h in hits if isinstance(hits, list) else []:
+            s = titles.similarity(title, h.get("name", ""))
+            if s > best_s:
+                best, best_s = h, s
+        return best["id"] if best and best_s >= 0.93 else None
+
+    def game(self, oc_id):
+        """Returns {"opencritic", "opencritic_pct", "opencritic_tier", "opencritic_year"} or None."""
+        g = self._get(f"/game/{oc_id}")
+        if not isinstance(g, dict) or not g:
+            return None
         score = g.get("topCriticScore")
-        return oc_id, (round(score) if isinstance(score, (int, float)) and score > 0 else None)
+        pct = g.get("percentRecommended")
+        year = None
+        if isinstance(g.get("firstReleaseDate"), str) and g["firstReleaseDate"][:4].isdigit():
+            year = int(g["firstReleaseDate"][:4])
+        tier = g.get("tier")
+        if isinstance(tier, dict):
+            tier = tier.get("name")
+        return {
+            "opencritic": round(score) if isinstance(score, (int, float)) and score > 0 else None,
+            "opencritic_pct": round(pct) if isinstance(pct, (int, float)) and pct >= 0 else None,
+            "opencritic_tier": tier if isinstance(tier, str) else None,
+            "opencritic_year": year,
+        }
 
 
 # ---------------------------------------------------------------- Backloggd
