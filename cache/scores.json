@@ -1789,6 +1789,14 @@
   "steam_pct": 94,
   "steam_reviews": 17543
  },
+ "igdb:1400": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:44:22+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:140839": {
   "backloggd": 4.6,
   "bl_v": 2,

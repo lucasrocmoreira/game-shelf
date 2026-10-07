@@ -428,6 +428,17 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Profeddor Layton and the Last Specter": {
+  "candidates": null,
+  "checked": "2026-10-07T21:44:17+00:00",
+  "conf": "manual",
+  "id": 1400,
+  "score": null,
+  "slug": "professor-layton-and-the-last-specter",
+  "title": "Profeddor Layton and the Last Specter",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Professor Layton and the Curious Village": {
   "candidates": null,
   "checked": "2026-10-07T21:28:49+00:00",
