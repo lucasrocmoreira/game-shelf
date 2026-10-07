@@ -210,6 +210,13 @@
    "format": "digital",
    "added": "2026-10-07",
    "igdb": "pokemon-platinum-version"
+  },
+  {
+   "title": "Picross DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "picross-ds"
   }
  ],
  "match": {
