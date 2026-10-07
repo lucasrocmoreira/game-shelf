@@ -175,9 +175,31 @@
   "v": 2,
   "via": "search"
  },
+ "Other:manual:Super Mario 64 DS": {
+  "candidates": 7,
+  "checked": "2026-10-07T21:00:20+00:00",
+  "conf": "high",
+  "id": 22301,
+  "score": 1.063,
+  "slug": null,
+  "title": "Super Mario 64 DS",
+  "v": 4,
+  "via": "search"
+ },
+ "Other:manual:The World Ends with You": {
+  "candidates": 24,
+  "checked": "2026-10-07T21:00:19+00:00",
+  "conf": "high",
+  "id": 1343,
+  "score": 1.06,
+  "slug": null,
+  "title": "The World Ends with You",
+  "v": 4,
+  "via": "search"
+ },
  "Other:manual:Yoshi's Island DS": {
   "candidates": 2,
-  "checked": "2026-10-07T20:58:54+00:00",
+  "checked": "2026-10-07T21:00:18+00:00",
   "conf": "high",
   "id": 20601,
   "score": 1.056,

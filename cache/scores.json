@@ -1370,6 +1370,14 @@
   "opencritic_pct": 46,
   "opencritic_tier": "Fair"
  },
+ "igdb:1343": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:00:31+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "the-world-ends-with-you"
+ },
  "igdb:134438": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -3251,7 +3259,7 @@
  "igdb:20601": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-07T20:58:58+00:00",
+  "checked": "2026-10-07T21:00:27+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "yoshis-island-ds"
@@ -3553,6 +3561,14 @@
   ],
   "steam_pct": 90,
   "steam_reviews": 23653
+ },
+ "igdb:22301": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:00:35+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "super-mario-64-ds"
  },
  "igdb:22344": {
   "backloggd": 3.9,
@@ -7901,6 +7917,13 @@
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "sniper-elite-vr"
+ },
+ "t:sonic classic collection ds": {
+  "bl_v": 2,
+  "checked": "2026-10-07T21:00:35+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "t:sonic forces": {
   "bl_v": 2,
