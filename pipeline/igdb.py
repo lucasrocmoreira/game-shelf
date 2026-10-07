@@ -53,6 +53,7 @@ GENRE_SHORT = {
 }
 
 ACCEPT = 0.86
+LOOSE_ACCEPT = 0.9
 HIGH = 0.95
 
 
@@ -217,15 +218,15 @@ def _game_type(g):
 
 
 def score_candidate(title, g, variants, platforms, year=None):
-    """Returns (score, name_similarity, platform_ok, matched_by_prefix)."""
+    """Returns (score, name_similarity, platform_ok, matched_by_prefix, loose)."""
     names = [g.get("name") or ""] + [a.get("name") for a in g.get("alternative_names") or [] if a.get("name")]
-    best, by_prefix = 0.0, False
+    best, by_prefix, via_loose = 0.0, False, False
     for v, pen in [(titles.clean(title, strip_edition=False), 0.0)] + list(variants):
         kv = titles.key(v)
         loose = pen >= titles.SUBTITLE_DROP  # store subtitle was cut off: only a plain name match counts
         for j, n in enumerate(names[:1] if loose else names):
             s, pref = titles.similarity(v, n), False
-            if not loose and ":" in n:  # IGDB "Dying Light 2: Stay Human" vs store "Dying Light 2"
+            if not loose and ":" in n and len(kv.split()) >= 2:  # "Dying Light 2" -> "Dying Light 2: Stay Human"; never for one-word titles like "Batman"
                 sp = titles.similarity(v, n.split(":")[0]) - 0.03
                 if sp > s:
                     s, pref = sp, True
@@ -233,7 +234,7 @@ def score_candidate(title, g, variants, platforms, year=None):
             if not loose and kn and len(kn.split()) >= 3 and set(kn.split()) <= set(kv.split()):
                 s = max(s, 0.9)  # store title adds words: "Tomb Raider I-III Remastered Starring Lara Croft"
             if s - pen > best:
-                best, by_prefix = s - pen, pref
+                best, by_prefix, via_loose = s - pen, pref, loose
     score = best
     if any(titles.key(n) == titles.key(titles.clean(title)) for n in names):
         score += 0.04  # an exact name beats a subtitle match ("Ghost of Tsushima" vs "...: Director's Cut")
@@ -268,16 +269,18 @@ def score_candidate(title, g, variants, platforms, year=None):
         score += 0.06 if abs(gy - year) <= 1 else -0.15
 
     score += 0.03 * min(1.0, math.log10(1 + (g.get("total_rating_count") or 0)) / 3)
-    return score, best, plat_ok, by_prefix
+    return score, best, plat_ok, by_prefix, via_loose
 
 
 def pick(title, cands, variants, platforms, year=None):
     if year is None:
         year = titles.year_hint(title)
-    scored, prefix_hits = [], set()
+    scored, prefix_hits, loose_ids = [], set(), set()
     for g in cands:
-        s, name_sim, plat_ok, by_prefix = score_candidate(title, g, variants, platforms, year)
+        s, name_sim, plat_ok, by_prefix, loose = score_candidate(title, g, variants, platforms, year)
         scored.append((s, name_sim, plat_ok, g))
+        if loose:
+            loose_ids.add(g["id"])
         if by_prefix and name_sim >= 0.95 and plat_ok is not False and _game_type(g) not in BAD_TYPES | {4}:
             prefix_hits.add(g.get("parent_game") or g.get("version_parent") or g["id"])
     if not scored:
@@ -286,10 +289,24 @@ def pick(title, cands, variants, platforms, year=None):
     # PS2 classics on PS4, incomplete IGDB platform data), the platform can't tell them apart, so the
     # mismatch penalty is mostly lifted instead of rejecting every candidate.
     if not any(ok for _, sim, ok, _ in scored if sim >= 0.9):
-        scored = [(s + 0.22 if ok is False else s, sim, ok, g) for s, sim, ok, g in scored]
+        exact_key = titles.key(titles.clean(title))
+        tight = {exact_key} | {titles.key(v) for v, pen in variants if pen < titles.SUBTITLE_DROP}
+        retro_ok = bool(set(platforms) & {"3DS", "Wii U", "Switch", "Switch 2"}) or len(exact_key.split()) >= 2
+
+        def lift(s, ok, g):
+            # Only an exact name earns the benefit of the doubt; one-word titles like "Batman" never do,
+            # except on Nintendo stores where Virtual Console re-releases are common.
+            if ok is False and retro_ok and titles.key(g.get("name") or "") in tight:
+                return s + 0.22
+            return s
+
+        scored = [(lift(s, ok, g), sim, ok, g) for s, sim, ok, g in scored]
     scored.sort(key=lambda x: -x[0])
     s, name_sim, plat_ok, g = scored[0]
     if s < ACCEPT or name_sim < 0.8:
+        return None, round(s, 3), None
+    if g["id"] in loose_ids and s < LOOSE_ACCEPT:
+        # Only matched after cutting the store title's subtitle ("Crow: The Legend" -> "Crow"): needs a clear win.
         return None, round(s, 3), None
     exact = any(titles.key(n) == titles.key(titles.clean(title)) for n in [g.get("name") or ""])
     if not exact and len(prefix_hits) >= 2:
