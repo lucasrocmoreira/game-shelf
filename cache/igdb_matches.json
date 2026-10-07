@@ -4236,7 +4236,7 @@
  },
  "PS4:manual:Red Dead Redemption": {
   "candidates": 17,
-  "checked": "2026-10-07T05:56:55+00:00",
+  "checked": "2026-10-07T05:58:26+00:00",
   "conf": "high",
   "id": 260735,
   "score": 1.138,
@@ -7019,7 +7019,7 @@
  },
  "PS5:manual:Dragon’s Dogma 2": {
   "candidates": 7,
-  "checked": "2026-10-07T05:53:59+00:00",
+  "checked": "2026-10-07T05:55:21+00:00",
   "conf": "high",
   "id": 115060,
   "score": 1.14,
@@ -7041,7 +7041,7 @@
  },
  "PS5:manual:Nier Automata": {
   "candidates": 11,
-  "checked": "2026-10-07T05:56:54+00:00",
+  "checked": "2026-10-07T05:55:23+00:00",
   "conf": "high",
   "id": 11208,
   "score": 1.04,
@@ -7052,7 +7052,7 @@
  },
  "PS5:manual:Persona 3 Reload": {
   "candidates": 20,
-  "checked": "2026-10-07T05:56:54+00:00",
+  "checked": "2026-10-07T05:55:22+00:00",
   "conf": "high",
   "id": 252647,
   "score": 1.141,
@@ -8434,12 +8434,45 @@
  },
  "Switch:manual:Catherine Full Body": {
   "candidates": 5,
-  "checked": "2026-10-07T05:56:56+00:00",
+  "checked": "2026-10-07T05:58:26+00:00",
   "conf": "high",
   "id": 78497,
   "score": 1.136,
   "slug": null,
   "title": "Catherine Full Body",
+  "v": 4,
+  "via": "search"
+ },
+ "Switch:manual:Fire Emblem: Three Houses": {
+  "candidates": 9,
+  "checked": "2026-10-07T05:58:28+00:00",
+  "conf": "high",
+  "id": 26845,
+  "score": 1.145,
+  "slug": null,
+  "title": "Fire Emblem: Three Houses",
+  "v": 4,
+  "via": "search"
+ },
+ "Switch:manual:The Legend of Zelda: Breath of the Wild": {
+  "candidates": 22,
+  "checked": "2026-10-07T05:58:27+00:00",
+  "conf": "high",
+  "id": 7346,
+  "score": 1.15,
+  "slug": null,
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "v": 4,
+  "via": "search"
+ },
+ "Switch:manual:Triangle Strategy": {
+  "candidates": 3,
+  "checked": "2026-10-07T05:58:29+00:00",
+  "conf": "high",
+  "id": 143610,
+  "score": 1.137,
+  "slug": null,
+  "title": "Triangle Strategy",
   "v": 4,
   "via": "search"
  }

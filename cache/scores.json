@@ -482,7 +482,7 @@
  "igdb:11208": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-07T05:57:02+00:00",
+  "checked": "2026-10-07T05:55:31+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "nier-automata"
@@ -583,7 +583,7 @@
  "igdb:115060": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-07T05:54:03+00:00",
+  "checked": "2026-10-07T05:55:26+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "dragons-dogma-ii"
@@ -1842,6 +1842,14 @@
   ],
   "steam_pct": 72,
   "steam_reviews": 149986
+ },
+ "igdb:143610": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-07T05:58:45+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "triangle-strategy"
  },
  "igdb:143612": {
   "backloggd": 4.0,
@@ -3925,7 +3933,7 @@
  "igdb:252647": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-07T05:57:00+00:00",
+  "checked": "2026-10-07T05:55:28+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "persona-3-reload"
@@ -4024,7 +4032,7 @@
  "igdb:260735": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-07T05:57:05+00:00",
+  "checked": "2026-10-07T05:58:35+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -4154,6 +4162,14 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
+ },
+ "igdb:26845": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-07T05:58:42+00:00",
+  "mc_v": 2,
+  "metacritic": 89,
+  "metacritic_slug": "fire-emblem-three-houses"
  },
  "igdb:26855": {
   "backloggd": 3.8,
@@ -5648,6 +5664,14 @@
   "opencritic_pct": 98,
   "opencritic_tier": "Mighty"
  },
+ "igdb:7346": {
+  "backloggd": 4.5,
+  "bl_v": 2,
+  "checked": "2026-10-07T05:58:40+00:00",
+  "mc_v": 2,
+  "metacritic": 97,
+  "metacritic_slug": "the-legend-of-zelda-breath-of-the-wild"
+ },
  "igdb:7348": {
   "backloggd": 4.2,
   "bl_v": 2,
@@ -5824,7 +5848,7 @@
  "igdb:78497": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-07T05:57:09+00:00",
+  "checked": "2026-10-07T05:58:37+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "catherine-full-body"
