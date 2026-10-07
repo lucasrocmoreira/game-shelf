@@ -242,13 +242,14 @@
   "via": "search"
  },
  "PS4:CUSA00131_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Hulu",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PS4:CUSA00132_00": {
@@ -363,13 +364,13 @@
  },
  "PS4:CUSA00341_00": {
   "candidates": 24,
-  "checked": "2026-10-07T01:45:42+00:00",
+  "checked": "2026-10-07T02:34:54+00:00",
   "conf": "medium",
   "id": 168670,
   "score": 0.98,
   "slug": null,
   "title": "UNCHARTED: Legacy of Thieves Collection",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA00359_00": {
@@ -803,13 +804,13 @@
  },
  "PS4:CUSA03856_00": {
   "candidates": 7,
-  "checked": "2026-10-07T01:49:22+00:00",
+  "checked": "2026-10-07T02:35:10+00:00",
   "conf": "medium",
   "id": 41858,
   "score": 1.006,
   "slug": null,
   "title": "Resident Evil 6",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA03880_00": {
@@ -924,13 +925,13 @@
  },
  "PS4:CUSA04437_00": {
   "candidates": 11,
-  "checked": "2026-10-07T01:45:43+00:00",
+  "checked": "2026-10-07T02:34:55+00:00",
   "conf": "medium",
   "id": 847,
   "score": 0.989,
   "slug": null,
   "title": "Resident Evil 5",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA04459_00": {
@@ -1056,13 +1057,13 @@
  },
  "PS4:CUSA05332_00": {
   "candidates": 33,
-  "checked": "2026-10-07T01:47:17+00:00",
+  "checked": "2026-10-07T02:35:02+00:00",
   "conf": "medium",
   "id": 91033,
   "score": 0.861,
   "slug": null,
   "title": "Batman",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA05333_00": {
@@ -1133,13 +1134,13 @@
  },
  "PS4:CUSA05725_00": {
   "candidates": 17,
-  "checked": "2026-10-07T01:45:22+00:00",
+  "checked": "2026-10-07T02:34:52+00:00",
   "conf": "medium",
   "id": 1942,
   "score": 1.04,
   "slug": null,
   "title": "The Witcher 3: Wild Hunt — Remastered",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA05770_00": {
@@ -1287,13 +1288,13 @@
  },
  "PS4:CUSA06548_00": {
   "candidates": 45,
-  "checked": "2026-10-07T01:46:55+00:00",
+  "checked": "2026-10-07T02:35:01+00:00",
   "conf": "medium",
   "id": 9066,
   "score": 0.989,
   "slug": null,
   "title": "Cities: Skylines",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA06623_00": {
@@ -2266,13 +2267,13 @@
  },
  "PS4:CUSA14043_00": {
   "candidates": 25,
-  "checked": "2026-10-07T01:47:36+00:00",
+  "checked": "2026-10-07T02:35:06+00:00",
   "conf": "medium",
   "id": 17848,
-  "score": 0.963,
+  "score": 0.883,
   "slug": null,
   "title": "Crow: The Legend",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA14046_00": {
@@ -2365,13 +2366,13 @@
  },
  "PS4:CUSA14546_00": {
   "candidates": 26,
-  "checked": "2026-10-07T01:46:36+00:00",
+  "checked": "2026-10-07T02:34:59+00:00",
   "conf": "medium",
-  "id": 19565,
-  "score": 0.99,
+  "id": 120445,
+  "score": 0.909,
   "slug": null,
   "title": "Spider-Man: Far From Home VR",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA14898_00": {
@@ -2431,13 +2432,13 @@
  },
  "PS4:CUSA15095_00": {
   "candidates": 24,
-  "checked": "2026-10-07T01:47:34+00:00",
-  "conf": "medium",
-  "id": 2933,
-  "score": 0.917,
+  "checked": "2026-10-07T02:35:05+00:00",
+  "conf": null,
+  "id": null,
+  "score": 0.837,
   "slug": null,
   "title": "KINGDOM HEARTS:VR Experience",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA15233_00": {
@@ -2507,13 +2508,14 @@
   "via": "search"
  },
  "PS4:CUSA15607_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Disney+",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PS4:CUSA15714_00": {
@@ -2990,13 +2992,14 @@
   "via": "search"
  },
  "PS4:CUSA20387_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Peacock",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PS4:CUSA20607_00": {
@@ -4046,13 +4049,13 @@
  },
  "PS4:CUSA43979_00": {
   "candidates": 26,
-  "checked": "2026-10-07T01:50:25+00:00",
+  "checked": "2026-10-07T02:35:12+00:00",
   "conf": "medium",
   "id": 7605,
   "score": 1.036,
   "slug": null,
   "title": "S.T.A.L.K.E.R.: Call of Prypiat",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS4:CUSA43981_00": {
@@ -5399,13 +5402,13 @@
  },
  "PS5:PPSA03972_00": {
   "candidates": 17,
-  "checked": "2026-10-07T01:45:22+00:00",
+  "checked": "2026-10-07T02:34:52+00:00",
   "conf": "medium",
   "id": 1942,
   "score": 1.04,
   "slug": null,
   "title": "The Witcher 3: Wild Hunt — Remastered",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS5:PPSA03974_00": {
@@ -5916,13 +5919,13 @@
  },
  "PS5:PPSA07680_00": {
   "candidates": 30,
-  "checked": "2026-10-07T01:49:21+00:00",
+  "checked": "2026-10-07T02:35:09+00:00",
   "conf": "medium",
-  "id": 262261,
-  "score": 0.939,
+  "id": 229123,
+  "score": 0.881,
   "slug": null,
   "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS5:PPSA07805_00": {
@@ -6323,13 +6326,13 @@
  },
  "PS5:PPSA13961_00": {
   "candidates": 25,
-  "checked": "2026-10-07T01:46:14+00:00",
+  "checked": "2026-10-07T02:34:56+00:00",
   "conf": "medium",
   "id": 202539,
   "score": 0.96,
   "slug": null,
   "title": "Drums Rock",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS5:PPSA14410_00": {
@@ -6532,13 +6535,13 @@
  },
  "PS5:PPSA17014_00": {
   "candidates": 3,
-  "checked": "2026-10-07T01:51:33+00:00",
+  "checked": "2026-10-07T02:35:13+00:00",
   "conf": "medium",
   "id": 251560,
   "score": 0.96,
   "slug": null,
   "title": "Ghost Signal: A Stellaris Game",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS5:PPSA17020_00": {
@@ -6807,13 +6810,13 @@
  },
  "PS5:PPSA24600_00": {
   "candidates": 26,
-  "checked": "2026-10-07T01:50:25+00:00",
+  "checked": "2026-10-07T02:35:12+00:00",
   "conf": "medium",
   "id": 7605,
   "score": 1.036,
   "slug": null,
   "title": "S.T.A.L.K.E.R.: Call of Prypiat",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PS5:PPSA24601_00": {
@@ -7015,23 +7018,25 @@
   "via": "search"
  },
  "PlayStation:CUSA00095_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Crunchyroll",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA00096_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Fandango at Home",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA00101_00": {
@@ -7046,53 +7051,58 @@
   "via": "search"
  },
  "PlayStation:CUSA00129_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Netflix",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA00130_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Prime Video",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA01015_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "YouTube",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA01780_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Spotify",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA02012_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Media Player",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA02188_00": {
@@ -7129,13 +7139,14 @@
   "via": "search"
  },
  "PlayStation:CUSA02573_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "VEVO",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA05488_00": {
@@ -7151,23 +7162,24 @@
  },
  "PlayStation:CUSA08926_00": {
   "candidates": 1,
-  "checked": "2026-10-07T01:46:31+00:00",
+  "checked": "2026-10-07T02:34:57+00:00",
   "conf": "medium",
   "id": 26231,
   "score": 0.963,
   "slug": null,
   "title": "StarBlood Arena",
-  "v": 2,
+  "v": 3,
   "via": "search"
  },
  "PlayStation:CUSA09142_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "PlayStation®VR Demo Disc",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:CUSA14274_00": {
@@ -7215,33 +7227,36 @@
   "via": "search"
  },
  "PlayStation:CUSA41487_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "HBO Max",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:PPSA01665_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "Twitch",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "PlayStation:PPSA18266_00": {
-  "checked": "2026-10-07T01:05:42+00:00",
+  "candidates": null,
+  "checked": "2026-10-07T02:34:50+00:00",
   "conf": null,
   "id": null,
   "score": null,
   "slug": null,
   "title": "SONY PICTURES CORE",
-  "v": 2,
+  "v": 3,
   "via": "non-game"
  },
  "Steam:105450": {
