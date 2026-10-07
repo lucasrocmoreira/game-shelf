@@ -736,6 +736,17 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA03262_00": {
+  "candidates": 2,
+  "checked": "2026-10-07T06:01:37+00:00",
+  "conf": "high",
+  "id": 10962,
+  "score": 1.145,
+  "slug": null,
+  "title": "Uncharted™: The Nathan Drake Collection",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA03293_00": {
   "candidates": 11,
   "checked": "2026-10-07T01:47:05+00:00",
@@ -4236,7 +4247,7 @@
  },
  "PS4:manual:Red Dead Redemption": {
   "candidates": 17,
-  "checked": "2026-10-07T05:56:55+00:00",
+  "checked": "2026-10-07T05:58:26+00:00",
   "conf": "high",
   "id": 260735,
   "score": 1.138,
@@ -7019,7 +7030,7 @@
  },
  "PS5:manual:Dragon’s Dogma 2": {
   "candidates": 7,
-  "checked": "2026-10-07T05:53:59+00:00",
+  "checked": "2026-10-07T05:55:21+00:00",
   "conf": "high",
   "id": 115060,
   "score": 1.14,
@@ -7041,7 +7052,7 @@
  },
  "PS5:manual:Nier Automata": {
   "candidates": 11,
-  "checked": "2026-10-07T05:56:54+00:00",
+  "checked": "2026-10-07T05:55:23+00:00",
   "conf": "high",
   "id": 11208,
   "score": 1.04,
@@ -7052,7 +7063,7 @@
  },
  "PS5:manual:Persona 3 Reload": {
   "candidates": 20,
-  "checked": "2026-10-07T05:56:54+00:00",
+  "checked": "2026-10-07T05:55:22+00:00",
   "conf": "high",
   "id": 252647,
   "score": 1.141,
@@ -8355,9 +8366,31 @@
   "v": 2,
   "via": "steam"
  },
+ "Switch 2:manual:Dragon Quest I&II HD-2D Remaster": {
+  "candidates": 1,
+  "checked": "2026-10-07T06:01:41+00:00",
+  "conf": "medium",
+  "id": 306144,
+  "score": 0.954,
+  "slug": null,
+  "title": "Dragon Quest I&II HD-2D Remaster",
+  "v": 4,
+  "via": "search"
+ },
+ "Switch 2:manual:Fire Emblem: Fortune’s Weave": {
+  "candidates": 2,
+  "checked": "2026-10-07T06:01:42+00:00",
+  "conf": "high",
+  "id": 366896,
+  "score": 1.125,
+  "slug": null,
+  "title": "Fire Emblem: Fortune’s Weave",
+  "v": 4,
+  "via": "search"
+ },
  "Switch 2:manual:Mario Kart World": {
   "candidates": 1,
-  "checked": "2026-10-07T06:00:03+00:00",
+  "checked": "2026-10-07T06:01:39+00:00",
   "conf": "high",
   "id": 338067,
   "score": 1.141,
@@ -8445,7 +8478,7 @@
  },
  "Switch:manual:Catherine Full Body": {
   "candidates": 5,
-  "checked": "2026-10-07T05:56:56+00:00",
+  "checked": "2026-10-07T05:58:26+00:00",
   "conf": "high",
   "id": 78497,
   "score": 1.136,
@@ -8456,7 +8489,7 @@
  },
  "Switch:manual:Fire Emblem: Three Houses": {
   "candidates": 9,
-  "checked": "2026-10-07T05:59:59+00:00",
+  "checked": "2026-10-07T05:58:28+00:00",
   "conf": "high",
   "id": 26845,
   "score": 1.145,
@@ -8467,7 +8500,7 @@
  },
  "Switch:manual:Suikoden I&II: HD Remaster": {
   "candidates": 1,
-  "checked": "2026-10-07T06:00:01+00:00",
+  "checked": "2026-10-07T06:01:37+00:00",
   "conf": "high",
   "id": 217909,
   "score": 1.048,
@@ -8478,7 +8511,7 @@
  },
  "Switch:manual:Super Mario 3D All-Star": {
   "candidates": 2,
-  "checked": "2026-10-07T06:00:02+00:00",
+  "checked": "2026-10-07T06:01:38+00:00",
   "conf": "high",
   "id": 138225,
   "score": 0.998,
@@ -8489,7 +8522,7 @@
  },
  "Switch:manual:The Legend of Zelda: Breath of the Wild": {
   "candidates": 22,
-  "checked": "2026-10-07T05:59:58+00:00",
+  "checked": "2026-10-07T05:58:27+00:00",
   "conf": "high",
   "id": 7346,
   "score": 1.15,
@@ -8500,7 +8533,7 @@
  },
  "Switch:manual:Triangle Strategy": {
   "candidates": 3,
-  "checked": "2026-10-07T06:00:00+00:00",
+  "checked": "2026-10-07T05:58:29+00:00",
   "conf": "high",
   "id": 143610,
   "score": 1.137,
