@@ -1,5 +1,15 @@
 {
- "manual": [],
+ "manual": [
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Elden ring",
+   "title": "Elden ring"
+  }
+ ],
  "nintendo_eshop": [
   {
    "format": "digital",

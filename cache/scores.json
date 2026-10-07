@@ -765,6 +765,19 @@
   "metacritic": 56,
   "metacritic_slug": "predator-hunting-grounds"
  },
+ "igdb:119133": {
+  "backloggd": 4.5,
+  "bl_v": 2,
+  "checked": "2026-10-07T04:28:34+00:00",
+  "mc_v": 2,
+  "metacritic": 96,
+  "metacritic_slug": "elden-ring",
+  "oc_checked": "2026-10-07T04:28:34+00:00",
+  "opencritic": 95,
+  "opencritic_id": 12090,
+  "opencritic_pct": 97,
+  "opencritic_tier": "Mighty"
+ },
  "igdb:119137": {
   "backloggd": 1.4,
   "bl_v": 2,

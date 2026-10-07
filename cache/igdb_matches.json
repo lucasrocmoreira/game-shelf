@@ -6995,6 +6995,17 @@
   "v": 2,
   "via": "search"
  },
+ "PS5:manual:Elden ring": {
+  "candidates": 23,
+  "checked": "2026-10-07T04:28:30+00:00",
+  "conf": "high",
+  "id": 119133,
+  "score": 1.15,
+  "slug": null,
+  "title": "Elden ring",
+  "v": 4,
+  "via": "search"
+ },
  "PlayStation:CUSA00001_00": {
   "candidates": 22,
   "checked": "2026-10-07T01:46:30+00:00",
