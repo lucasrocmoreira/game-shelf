@@ -403,19 +403,22 @@ function gameRow(g,i){
     ${open?detail(g):""}
   </li>`;
 }
-function renderHero(){
-  const k = state.sort in SOURCES || state.sort==="avg" ? state.sort : "avg";
-  const pool = DATA.games.filter(g=>!g._hidden);
-  const g = pool.filter(x=>value(x,k)!=null).sort((a,b)=>value(b,k)-value(a,k))[0];
-  if(!g){ $("hero").innerHTML = `<div></div><div><h1>Your game shelf</h1><p class="meta">Scores appear after the first daily update finishes.</p></div>`; return; }
-  const v = value(g,k);
-  const label = k==="avg"?"average score":SOURCES[k].label+" score";
-  const played = pool.filter(x=>x._played).length;
-  $("hero").innerHTML = `${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<div></div>`}
-    <div><p class="lead">Best in your library by ${esc(label)}</p>
-    <h1>${esc(g.title)}</h1>
-    <span class="big ${tone(v)}">${v}</span>
-    <p class="meta">${pool.length} games, ${played} played</p></div>`;
+function renderHero(list){
+  // The top spot follows what you're looking at: current search, filters and ranking.
+  const top = sorted(list)[0];
+  const all = DATA.games.filter(g=>!g._hidden);
+  const played = all.filter(x=>x._played).length;
+  const narrowed = list.length !== all.length;
+  if(!top){ $("hero").innerHTML = `<div></div><div><h1>Your game shelf</h1><p class="meta">${all.length} games, ${played} played</p></div>`; return; }
+  const sortLabel = (SORTS.find(([k])=>k===state.sort)||[,""])[1].toLowerCase();
+  const s = shown(top);
+  const big = state.sort==="recent" ? (top.last_played ? new Date(top.last_played+"T12:00").toLocaleDateString([], {month:"short", day:"numeric"}) : null)
+            : (s.v!=null ? s.v + (s.unit||"") : null);
+  $("hero").innerHTML = `${top.cover?`<img src="${esc(top.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<div></div>`}
+    <div><p class="lead">${narrowed ? "Top of this view" : "Top of your shelf"}, ranked by ${esc(sortLabel)}</p>
+    <h1>${esc(top.title)}</h1>
+    ${big!=null?`<span class="big ${s.cls}">${esc(big)}</span>`:""}
+    <p class="meta">${narrowed ? `${list.length} of ${all.length} games shown` : `${all.length} games, ${played} played`}</p></div>`;
 }
 function renderActive(){
   const parts = [];
@@ -424,8 +427,9 @@ function renderActive(){
   $("active").innerHTML = parts.join("");
 }
 function render(){
-  savePrefs(); renderHero(); renderActive();
+  savePrefs(); renderActive();
   const list = filtered();
+  renderHero(list);
   $("count").textContent = `${list.length} ${list.length===1?"game":"games"}`;
   if(!list.length){ $("out").innerHTML = `<p class="empty">No games match these filters. Clear a filter or the search to see more.</p>`; return; }
   if(!state.group){ $("out").innerHTML = `<ol class="list">${sorted(list).map(gameRow).join("")}</ol>`; return; }
