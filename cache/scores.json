@@ -1373,7 +1373,7 @@
  "igdb:1343": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-07T21:02:05+00:00",
+  "checked": "2026-10-07T21:00:31+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "the-world-ends-with-you"
@@ -3235,6 +3235,14 @@
   "metacritic": 80,
   "metacritic_slug": "wo-long-fallen-dynasty"
  },
+ "igdb:20502": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:04:09+00:00",
+  "mc_v": 2,
+  "metacritic": 70,
+  "metacritic_slug": "sonic-classic-collection"
+ },
  "igdb:205593": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -3259,7 +3267,7 @@
  "igdb:20601": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-07T20:58:58+00:00",
+  "checked": "2026-10-07T21:00:27+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "yoshis-island-ds"
@@ -3565,7 +3573,7 @@
  "igdb:22301": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-07T21:02:06+00:00",
+  "checked": "2026-10-07T21:00:35+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "super-mario-64-ds"
@@ -6365,7 +6373,7 @@
  "igdb:9597": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-07T21:02:13+00:00",
+  "checked": "2026-10-07T21:04:11+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "solatorobo-red-the-hunter"
@@ -7928,7 +7936,7 @@
  },
  "t:sonic classic collection ds": {
   "bl_v": 2,
-  "checked": "2026-10-07T21:02:07+00:00",
+  "checked": "2026-10-07T21:00:35+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
