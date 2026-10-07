@@ -175,6 +175,17 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Scribblenauts Collection": {
+  "candidates": 1,
+  "checked": "2026-10-07T21:24:21+00:00",
+  "conf": "high",
+  "id": 47914,
+  "score": 1.12,
+  "slug": null,
+  "title": "Scribblenauts Collection",
+  "v": 4,
+  "via": "search"
+ },
  "DS:manual:Solatorobo: Red The Hunter": {
   "candidates": 2,
   "checked": "2026-10-07T21:10:54+00:00",
