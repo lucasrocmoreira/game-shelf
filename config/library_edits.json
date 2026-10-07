@@ -133,6 +133,12 @@
    "platform": "Switch 2",
    "format": "physical",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Yoshi's Island DS",
+   "platform": "Other",
+   "format": "digital",
+   "added": "2026-10-07"
   }
  ],
  "match": {
