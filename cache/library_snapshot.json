@@ -492,7 +492,7 @@
    "playtime_hours": 40.1,
    "ps_plus": false,
    "source_id": "CUSA02320_00",
-   "title": "Uncharted: The Nathan Drake Collection™"
+   "title": "Uncharted™: The Nathan Drake Collection"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2517/xK2b8gY5A5oyYlc1pnUUVEm5.png",
@@ -531,7 +531,7 @@
    "title": "Mortal Kombat 11"
   },
   {
-   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07402_00/3/i_47c34c88118d43321fcfe620f2ca248c461abbaa972b9176ac22971e4202050a/i/icon0.png",
+   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07399_00/1/i_ad1b44b4dafe727193cf9003f7557081aa563f3f4198901dbb12592956003ec8/i/icon0.png",
    "last_played": "2024-03-02",
    "platform": "PS4",
    "playtime_hours": 30.2,
@@ -612,7 +612,7 @@
    "title": "It Takes Two  PS4™ & PS5™"
   },
   {
-   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03979_00/2/i_001dc6840592651af45f02312f1577964eacf959f82337314eb0e0398a66b002/i/icon0.png",
+   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03985_00/5/i_c2d46f13eb8b06dab285522426cc37d3b336bf1b6059321edf81d68d6a4123c1/i/icon0.png",
    "last_played": "2021-11-22",
    "platform": "PS4",
    "playtime_hours": 18.0,
@@ -936,15 +936,6 @@
    "title": "ASTRO's PLAYROOM"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
-   "last_played": "2015-10-13",
-   "platform": "PS4",
-   "playtime_hours": 1.9,
-   "ps_plus": false,
-   "source_id": "CUSA03262_00",
-   "title": "Uncharted™: The Nathan Drake Collection"
-  },
-  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0721/00dd43384a1ed60cd7453428dd5c6897b35b013d4b98965d.png",
    "last_played": "2024-03-03",
    "platform": "PS5",
@@ -1197,7 +1188,7 @@
    "title": "Megalith"
   },
   {
-   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00079_00/3/i_58300ebc7405fbc62ef201ebc9bc7eead00c2ab8babda5769b8b13a81ab2ca8c/i/icon0.png",
+   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00051_00/3/i_710458194e8e9c9c83b69e9adac49e253269dc550787e946ef25dc0030c89136/i/icon0.png",
    "last_played": "2015-01-21",
    "platform": "PS4",
    "playtime_hours": 0.4,
@@ -6491,9 +6482,9 @@
    "title": "Dragon Age: Origins - Ultimate Edition"
   },
   {
-   "last_played": "2026-10-06",
+   "last_played": "2026-10-07",
    "platform": "Steam",
-   "playtime_hours": 531.0,
+   "playtime_hours": 531.8,
    "source_id": "47890",
    "steam_appid": 47890,
    "title": "The Sims™ 3"
