@@ -104,6 +104,7 @@
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "alan-wake",
+  "oc_checked": "2026-10-07T01:20:43+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -223,6 +224,11 @@
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "star-wars-knights-of-the-old-republic",
+  "oc_checked": "2026-10-07T01:20:34+00:00",
+  "opencritic": 83,
+  "opencritic_id": 12313,
+  "opencritic_pct": 83,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Adventure",
    "RPG"
@@ -237,6 +243,7 @@
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "tomb-raider-legend",
+  "oc_checked": "2026-10-07T01:21:26+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -258,6 +265,11 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "tomb-raider",
+  "oc_checked": "2026-10-07T01:20:25+00:00",
+  "opencritic": 85,
+  "opencritic_id": 291,
+  "opencritic_pct": 86,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -293,6 +305,11 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "planet-zoo",
+  "oc_checked": "2026-10-07T01:20:36+00:00",
+  "opencritic": 81,
+  "opencritic_id": 7900,
+  "opencritic_pct": 88,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Casual",
    "Simulation",
@@ -308,6 +325,11 @@
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "divinity-original-sin-ii",
+  "oc_checked": "2026-10-07T01:20:47+00:00",
+  "opencritic": 93,
+  "opencritic_id": 3828,
+  "opencritic_pct": 99,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Adventure",
    "RPG",
@@ -445,6 +467,11 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "crusader-kings-iii",
+  "oc_checked": "2026-10-07T01:20:53+00:00",
+  "opencritic": 90,
+  "opencritic_id": 9593,
+  "opencritic_pct": 99,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "RPG",
    "Simulation",
@@ -509,6 +536,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:21:25+00:00",
   "steam_genres": [
    "RPG"
   ],
@@ -522,6 +550,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "xcom-enemy-unknown",
+  "oc_checked": "2026-10-07T01:21:12+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -556,6 +585,11 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "limbo",
+  "oc_checked": "2026-10-07T01:20:26+00:00",
+  "opencritic": null,
+  "opencritic_id": 19474,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -745,6 +779,11 @@
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "divinity-original-sin-enhanced-edition",
+  "oc_checked": "2026-10-07T01:20:35+00:00",
+  "opencritic": 88,
+  "opencritic_id": 1534,
+  "opencritic_pct": 92,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Adventure",
    "Indie",
@@ -761,6 +800,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:21:29+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -781,6 +821,11 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "total-war-warhammer-iii",
+  "oc_checked": "2026-10-07T01:21:06+00:00",
+  "opencritic": 86,
+  "opencritic_id": 12560,
+  "opencritic_pct": 94,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "Strategy"
@@ -864,6 +909,11 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "star-wars-jedi-knight-ii-jedi-outcast",
+  "oc_checked": "2026-10-07T01:20:49+00:00",
+  "opencritic": 62,
+  "opencritic_id": 8321,
+  "opencritic_pct": 22,
+  "opencritic_tier": "Weak",
   "steam_genres": [
    "Action"
   ],
@@ -919,6 +969,11 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:20:38+00:00",
+  "opencritic": 85,
+  "opencritic_id": 11936,
+  "opencritic_pct": 88,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "RPG"
   ],
@@ -973,6 +1028,11 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:21:01+00:00",
+  "opencritic": 77,
+  "opencritic_id": 4738,
+  "opencritic_pct": 77,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -996,6 +1056,11 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "crab-game",
+  "oc_checked": "2026-10-07T01:20:32+00:00",
+  "opencritic": null,
+  "opencritic_id": 12385,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "Action",
    "Casual",
@@ -1013,6 +1078,11 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "max-payne",
+  "oc_checked": "2026-10-07T01:20:41+00:00",
+  "opencritic": null,
+  "opencritic_id": 11670,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "Action"
   ],
@@ -1068,6 +1138,7 @@
   "mc_v": 2,
   "metacritic": 32,
   "metacritic_slug": "the-walking-dead",
+  "oc_checked": "2026-10-07T01:21:32+00:00",
   "steam_genres": [
    "Adventure"
   ],
@@ -1106,6 +1177,11 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "northgard",
+  "oc_checked": "2026-10-07T01:20:59+00:00",
+  "opencritic": 79,
+  "opencritic_id": 5704,
+  "opencritic_pct": 82,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Adventure",
    "Indie",
@@ -1137,6 +1213,11 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "max-payne-2-the-fall-of-max-payne",
+  "oc_checked": "2026-10-07T01:20:42+00:00",
+  "opencritic": null,
+  "opencritic_id": 11691,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "Action"
   ],
@@ -1287,6 +1368,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "bioshock",
+  "oc_checked": "2026-10-07T01:21:16+00:00",
   "steam_genres": [
    "Action",
    "RPG"
@@ -1322,6 +1404,11 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:21:18+00:00",
+  "opencritic": null,
+  "opencritic_id": 11868,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "RPG"
   ],
@@ -1424,6 +1511,11 @@
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "age-of-mythology-retold",
+  "oc_checked": "2026-10-07T01:21:10+00:00",
+  "opencritic": 83,
+  "opencritic_id": 17117,
+  "opencritic_pct": 86,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Strategy"
   ],
@@ -1471,6 +1563,11 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "frostpunk",
+  "oc_checked": "2026-10-07T01:20:48+00:00",
+  "opencritic": 85,
+  "opencritic_id": 5948,
+  "opencritic_pct": 92,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Simulation",
    "Strategy"
@@ -1512,6 +1609,7 @@
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "deadlight",
+  "oc_checked": "2026-10-07T01:21:36+00:00",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -1541,6 +1639,11 @@
   "mc_v": 2,
   "metacritic": 60,
   "metacritic_slug": "little-big-adventure-twinsens-quest",
+  "oc_checked": "2026-10-07T01:21:11+00:00",
+  "opencritic": 60,
+  "opencritic_id": 17683,
+  "opencritic_pct": 20,
+  "opencritic_tier": "Weak",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -1563,6 +1666,11 @@
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "fahrenheit-indigo-prophecy-remastered",
+  "oc_checked": "2026-10-07T01:21:02+00:00",
+  "opencritic": 68,
+  "opencritic_id": 2861,
+  "opencritic_pct": null,
+  "opencritic_tier": "Fair",
   "steam_genres": [
    "Adventure",
    "RPG"
@@ -1625,6 +1733,11 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "the-sims-3",
+  "oc_checked": "2026-10-07T01:20:25+00:00",
+  "opencritic": null,
+  "opencritic_id": 20587,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "Simulation"
   ],
@@ -1721,6 +1834,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "assassins-creed-directors-cut-edition",
+  "oc_checked": "2026-10-07T01:21:31+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -1735,6 +1849,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "batman-arkham-asylum-game-of-the-year-edition",
+  "oc_checked": "2026-10-07T01:21:30+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -1762,6 +1877,11 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "total-war-warhammer-ii",
+  "oc_checked": "2026-10-07T01:21:00+00:00",
+  "opencritic": 86,
+  "opencritic_id": 4520,
+  "opencritic_pct": 93,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "Strategy"
@@ -1831,6 +1951,7 @@
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "age-of-empires-ii-hd-edition",
+  "oc_checked": "2026-10-07T01:21:19+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -1851,6 +1972,11 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "dota-2",
+  "oc_checked": "2026-10-07T01:20:30+00:00",
+  "opencritic": 91,
+  "opencritic_id": 9753,
+  "opencritic_pct": 100,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "Strategy",
@@ -1930,6 +2056,11 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:20:50+00:00",
+  "opencritic": null,
+  "opencritic_id": 9556,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "Action",
    "RPG"
@@ -1965,6 +2096,11 @@
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "peak",
+  "oc_checked": "2026-10-07T01:20:56+00:00",
+  "opencritic": 83,
+  "opencritic_id": 18750,
+  "opencritic_pct": 100,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -2077,6 +2213,11 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "slay-the-spire",
+  "oc_checked": "2026-10-07T01:20:46+00:00",
+  "opencritic": 89,
+  "opencritic_id": 7207,
+  "opencritic_pct": 98,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Indie",
    "Strategy"
@@ -2091,6 +2232,11 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "meccha-chameleon",
+  "oc_checked": "2026-10-07T01:21:05+00:00",
+  "opencritic": null,
+  "opencritic_id": 20856,
+  "opencritic_pct": null,
+  "opencritic_tier": "",
   "steam_genres": [
    "Casual"
   ],
@@ -2194,6 +2340,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "dead-island-game-of-the-year-edition",
+  "oc_checked": "2026-10-07T01:21:38+00:00",
   "steam_genres": [],
   "steam_pct": 87,
   "steam_reviews": 20533
@@ -2212,6 +2359,11 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "divinity-original-sin",
+  "oc_checked": "2026-10-07T01:20:52+00:00",
+  "opencritic": 85,
+  "opencritic_id": 525,
+  "opencritic_pct": 83,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Adventure",
    "Indie",
@@ -2228,6 +2380,7 @@
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "f-e-a-r",
+  "oc_checked": "2026-10-07T01:21:35+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -2274,6 +2427,7 @@
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "far-cry-3",
+  "oc_checked": "2026-10-07T01:21:23+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -2308,6 +2462,11 @@
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "jurassic-world-evolution",
+  "oc_checked": "2026-10-07T01:20:31+00:00",
+  "opencritic": 71,
+  "opencritic_id": 6158,
+  "opencritic_pct": 41,
+  "opencritic_tier": "Fair",
   "steam_genres": [
    "Simulation",
    "Strategy"
@@ -2322,6 +2481,11 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "age-of-empires-iv",
+  "oc_checked": "2026-10-07T01:20:58+00:00",
+  "opencritic": 83,
+  "opencritic_id": 11623,
+  "opencritic_pct": 82,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Strategy"
   ],
@@ -2342,6 +2506,11 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "age-of-empires-ii-definitive-edition",
+  "oc_checked": "2026-10-07T01:20:54+00:00",
+  "opencritic": 85,
+  "opencritic_id": 8450,
+  "opencritic_pct": 92,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Strategy"
   ],
@@ -2362,6 +2531,11 @@
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "deus-ex-the-fall",
+  "oc_checked": "2026-10-07T01:21:08+00:00",
+  "opencritic": 47,
+  "opencritic_id": 996,
+  "opencritic_pct": 8,
+  "opencritic_tier": "Weak",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -2384,6 +2558,11 @@
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "invisible-inc",
+  "oc_checked": "2026-10-07T01:21:04+00:00",
+  "opencritic": 83,
+  "opencritic_id": 1253,
+  "opencritic_pct": 83,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Action",
    "Indie",
@@ -2454,6 +2633,11 @@
   "mc_v": 2,
   "metacritic": 98,
   "metacritic_slug": "grand-theft-auto-iv",
+  "oc_checked": "2026-10-07T01:20:40+00:00",
+  "opencritic": 95,
+  "opencritic_id": 16209,
+  "opencritic_pct": 100,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -2496,6 +2680,11 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "halo-the-master-chief-collection",
+  "oc_checked": "2026-10-07T01:20:28+00:00",
+  "opencritic": 87,
+  "opencritic_id": 838,
+  "opencritic_pct": 88,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action"
   ],
@@ -2596,6 +2785,11 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "total-war-three-kingdoms",
+  "oc_checked": "2026-10-07T01:21:07+00:00",
+  "opencritic": 85,
+  "opencritic_id": 7088,
+  "opencritic_pct": 93,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "Strategy"
@@ -2617,6 +2811,11 @@
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "two-point-hospital",
+  "oc_checked": "2026-10-07T01:20:55+00:00",
+  "opencritic": 84,
+  "opencritic_id": 6530,
+  "opencritic_pct": 92,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Indie",
    "Simulation"
@@ -2638,6 +2837,7 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "tabletop-simulator",
+  "oc_checked": "2026-10-07T01:21:13+00:00",
   "steam_genres": [
    "Casual",
    "Indie",
@@ -2669,6 +2869,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:21:37+00:00",
   "steam_genres": [
    "Action",
    "Strategy"
@@ -2690,6 +2891,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-07T01:21:34+00:00",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -2705,6 +2907,7 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "sid-meiers-civilization-v",
+  "oc_checked": "2026-10-07T01:21:22+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -2767,6 +2970,11 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "cities-skylines",
+  "oc_checked": "2026-10-07T01:20:29+00:00",
+  "opencritic": 83,
+  "opencritic_id": 1260,
+  "opencritic_pct": 83,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Simulation",
    "Strategy"
@@ -2788,6 +2996,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "star-wars-empire-at-war-gold-pack",
+  "oc_checked": "2026-10-07T01:21:24+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -2814,6 +3023,11 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "deus-ex-mankind-divided",
+  "oc_checked": "2026-10-07T01:20:44+00:00",
+  "opencritic": 81,
+  "opencritic_id": 1812,
+  "opencritic_pct": 81,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Action",
    "RPG"
@@ -2856,6 +3070,11 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "total-war-warhammer",
+  "oc_checked": "2026-10-07T01:20:37+00:00",
+  "opencritic": 86,
+  "opencritic_id": 1710,
+  "opencritic_pct": 87,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "Strategy"
@@ -2870,6 +3089,7 @@
   "mc_v": 2,
   "metacritic": 66,
   "metacritic_slug": "age-of-mythology-extended-edition",
+  "oc_checked": "2026-10-07T01:21:15+00:00",
   "steam_genres": [
    "Simulation",
    "Strategy"
@@ -2886,1750 +3106,1750 @@
  },
  "t:a plague tale innocence": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:59+00:00",
+  "checked": "2026-10-07T01:13:16+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "a-plague-tale-innocence"
  },
  "t:a way out": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:35+00:00",
+  "checked": "2026-10-07T01:09:20+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "a-way-out"
  },
  "t:alan wake remastered": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:07+00:00",
+  "checked": "2026-10-07T01:15:25+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "alan-wake-remastered"
  },
  "t:alien isolation": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:29+00:00",
+  "checked": "2026-10-07T01:08:13+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "alien-isolation"
  },
  "t:arcadegeddon": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:01+00:00",
+  "checked": "2026-10-07T01:14:19+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "arcadegeddon"
  },
  "t:ark survival evolved": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:41+00:00",
+  "checked": "2026-10-07T01:13:58+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "ark-survival-evolved"
  },
  "t:assassins creed 3 remastered": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:49+00:00",
+  "checked": "2026-10-07T01:16:10+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "assassins-creed-iii-remastered"
  },
  "t:assassins creed odyssey": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:51+00:00",
+  "checked": "2026-10-07T01:16:11+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "assassins-creed-odyssey"
  },
  "t:assassins creed origins": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:53+00:00",
+  "checked": "2026-10-07T01:16:13+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "assassins-creed-origins"
  },
  "t:assassins creed rogue remastered": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:55+00:00",
+  "checked": "2026-10-07T01:16:15+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "assassins-creed-rogue-remastered"
  },
  "t:assassins creed syndicate": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:47+00:00",
+  "checked": "2026-10-07T01:16:07+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "assassins-creed-syndicate"
  },
  "t:assassins creed the ezio collection": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:26+00:00",
+  "checked": "2026-10-07T01:15:45+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "assassins-creed-the-ezio-collection"
  },
  "t:assassins creed unity": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:57+00:00",
+  "checked": "2026-10-07T01:16:16+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "assassins-creed-unity"
  },
  "t:astro bot rescue mission": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:33+00:00",
+  "checked": "2026-10-07T01:09:17+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "astro-bot-rescue-mission"
  },
  "t:astros playroom": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:11+00:00",
+  "checked": "2026-10-07T01:09:57+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "astros-playroom"
  },
  "t:axiom verge 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:30+00:00",
+  "checked": "2026-10-07T01:14:46+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "axiom-verge-2"
  },
  "t:back 4 blood": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:15+00:00",
+  "checked": "2026-10-07T01:10:00+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "back-4-blood"
  },
  "t:batman": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:27+00:00",
+  "checked": "2026-10-07T01:12:44+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:batman arkham knight": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:29+00:00",
+  "checked": "2026-10-07T01:11:43+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "batman-arkham-knight"
  },
  "t:batman return to arkham": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:19+00:00",
+  "checked": "2026-10-07T01:11:33+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "batman-return-to-arkham"
  },
  "t:battlefield 1": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:09+00:00",
+  "checked": "2026-10-07T01:12:25+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "battlefield-1"
  },
  "t:battlefield 2042": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:41+00:00",
+  "checked": "2026-10-07T01:14:58+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "battlefield-2042"
  },
  "t:battlefield 5": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:47+00:00",
+  "checked": "2026-10-07T01:13:04+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "battlefield-v"
  },
  "t:battlefield 6": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:00+00:00",
+  "checked": "2026-10-07T01:09:46+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "battlefield-6"
  },
  "t:beat saber": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:40+00:00",
+  "checked": "2026-10-07T01:09:25+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "beat-saber"
  },
  "t:biomutant": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:06+00:00",
+  "checked": "2026-10-07T01:11:19+00:00",
   "mc_v": 2,
   "metacritic": 66,
   "metacritic_slug": "biomutant"
  },
  "t:bioshock infinite the": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:07+00:00",
+  "checked": "2026-10-07T01:11:21+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:bioshock the collection": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:15+00:00",
+  "checked": "2026-10-07T01:09:00+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "bioshock-the-collection"
  },
  "t:bloodborne": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:36+00:00",
+  "checked": "2026-10-07T01:08:21+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "bloodborne"
  },
  "t:bramble the mountain king": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:39+00:00",
+  "checked": "2026-10-07T01:14:56+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "bramble-the-mountain-king"
  },
  "t:bugsnax": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:05+00:00",
+  "checked": "2026-10-07T01:12:20+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "bugsnax"
  },
  "t:call of duty black ops 3": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:32+00:00",
+  "checked": "2026-10-07T01:14:48+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "call-of-duty-black-ops-iii"
  },
  "t:call of duty black ops 4": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:01+00:00",
+  "checked": "2026-10-07T01:13:18+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "call-of-duty-black-ops-4"
  },
  "t:call of duty black ops cold war": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:09+00:00",
+  "checked": "2026-10-07T01:15:27+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "call-of-duty-black-ops-cold-war"
  },
  "t:call of duty modern warfare 2 campaign remastered": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:43+00:00",
+  "checked": "2026-10-07T01:11:58+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "call-of-duty-modern-warfare-2-campaign-remastered"
  },
  "t:call of duty wwii": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:35+00:00",
+  "checked": "2026-10-07T01:11:51+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "call-of-duty-wwii"
  },
  "t:celeste": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:27+00:00",
+  "checked": "2026-10-07T01:15:46+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "celeste"
  },
  "t:chivalry 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:55+00:00",
+  "checked": "2026-10-07T01:15:12+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "chivalry-2"
  },
  "t:cities skylines": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:32+00:00",
+  "checked": "2026-10-07T01:11:46+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "cities-skylines"
  },
  "t:code vein": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:45+00:00",
+  "checked": "2026-10-07T01:15:02+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "code-vein"
  },
  "t:concrete genie": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:35+00:00",
+  "checked": "2026-10-07T01:12:52+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "concrete-genie"
  },
  "t:control": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:32+00:00",
+  "checked": "2026-10-07T01:12:48+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "control"
  },
  "t:crash bandicoot 4 its about time": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:01+00:00",
+  "checked": "2026-10-07T01:08:46+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "crash-bandicoot-4-its-about-time"
  },
  "t:crash bandicoot n sane trilogy": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:58+00:00",
+  "checked": "2026-10-07T01:08:43+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "crash-bandicoot-n-sane-trilogy"
  },
  "t:crow the legend": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:12+00:00",
+  "checked": "2026-10-07T01:13:28+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "crow-the-legend"
  },
  "t:curse of the dead gods": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:55+00:00",
+  "checked": "2026-10-07T01:14:12+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "curse-of-the-dead-gods"
  },
  "t:cyberpunk 2077": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:32+00:00",
+  "checked": "2026-10-07T01:10:18+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "cyberpunk-2077"
  },
  "t:dark pictures anthology little hope": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:13+00:00",
+  "checked": "2026-10-07T01:14:28+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "the-dark-pictures-anthology-little-hope"
  },
  "t:dark pictures anthology man of medan": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:00+00:00",
+  "checked": "2026-10-07T01:14:16+00:00",
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "the-dark-pictures-anthology-man-of-medan"
  },
  "t:dark souls remastered": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:59+00:00",
+  "checked": "2026-10-07T01:11:12+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "dark-souls-remastered"
  },
  "t:days gone": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:13+00:00",
+  "checked": "2026-10-07T01:12:29+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "days-gone"
  },
  "t:death stranding": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:59+00:00",
+  "checked": "2026-10-07T01:16:21+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "death-stranding"
  },
  "t:deathloop": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:31+00:00",
+  "checked": "2026-10-07T01:08:15+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "deathloop"
  },
  "t:deep rock galactic": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:50+00:00",
+  "checked": "2026-10-07T01:09:37+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "deep-rock-galactic"
  },
  "t:demons souls": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:42+00:00",
+  "checked": "2026-10-07T01:08:28+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "demons-souls"
  },
  "t:descenders": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:57+00:00",
+  "checked": "2026-10-07T01:15:16+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "descenders"
  },
  "t:destruction allstars": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:34+00:00",
+  "checked": "2026-10-07T01:12:50+00:00",
   "mc_v": 2,
   "metacritic": 62,
   "metacritic_slug": "destruction-allstars"
  },
  "t:detroit become human": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:20+00:00",
+  "checked": "2026-10-07T01:09:06+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "detroit-become-human"
  },
  "t:dino frontier": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:21+00:00",
+  "checked": "2026-10-07T01:10:06+00:00",
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "dino-frontier"
  },
  "t:dirt 5": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:33+00:00",
+  "checked": "2026-10-07T01:13:50+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "dirt-5"
  },
  "t:disco elysium the final cut": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:44+00:00",
+  "checked": "2026-10-07T01:08:29+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "disco-elysium-the-final-cut"
  },
  "t:dishonored 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:33+00:00",
+  "checked": "2026-10-07T01:15:52+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "dishonored-2"
  },
  "t:divine knockout dko": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:23+00:00",
+  "checked": "2026-10-07T01:14:40+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:doom eternal": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:19+00:00",
+  "checked": "2026-10-07T01:15:38+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "doom-eternal"
  },
  "t:driveclub": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:39+00:00",
+  "checked": "2026-10-07T01:10:25+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "driveclub"
  },
  "t:drums rock": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:22+00:00",
+  "checked": "2026-10-07T01:10:09+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "drums-rock"
  },
  "t:ea sports fifa 23": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:05+00:00",
+  "checked": "2026-10-07T01:09:50+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:ea sports ufc 4": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:35+00:00",
+  "checked": "2026-10-07T01:13:52+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "ea-sports-ufc-4"
  },
  "t:elder scrolls 5 skyrim": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:17+00:00",
+  "checked": "2026-10-07T01:15:36+00:00",
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "the-elder-scrolls-v-skyrim"
  },
  "t:elder scrolls 5 skyrim vr": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:46+00:00",
+  "checked": "2026-10-07T01:10:59+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "the-elder-scrolls-v-skyrim-vr"
  },
  "t:endling extinction is forever": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:11+00:00",
+  "checked": "2026-10-07T01:15:31+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "endling-extinction-is-forever"
  },
  "t:erica": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:42+00:00",
+  "checked": "2026-10-07T01:11:56+00:00",
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "erica"
  },
  "t:evil dead the game": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:33+00:00",
+  "checked": "2026-10-07T01:14:50+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "evil-dead-the-game"
  },
  "t:evil within": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:38+00:00",
+  "checked": "2026-10-07T01:08:24+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "the-evil-within"
  },
  "t:evil within 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:15+00:00",
+  "checked": "2026-10-07T01:14:32+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "the-evil-within-2"
  },
  "t:fall guys": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:56+00:00",
+  "checked": "2026-10-07T01:09:42+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "fall-guys"
  },
  "t:fall guys ultimate knockout": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:37+00:00",
+  "checked": "2026-10-07T01:09:22+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "fall-guys-ultimate-knockout"
  },
  "t:fallout 4": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:59+00:00",
+  "checked": "2026-10-07T01:13:13+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "fallout-4"
  },
  "t:fallout 76": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:28+00:00",
+  "checked": "2026-10-07T01:14:45+00:00",
   "mc_v": 2,
   "metacritic": 52,
   "metacritic_slug": "fallout-76"
  },
  "t:far cry 3": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:01:03+00:00",
+  "checked": "2026-10-07T01:16:23+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "far-cry-3"
  },
  "t:far cry 6": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:29+00:00",
+  "checked": "2026-10-07T01:15:48+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:far cry new dawn": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:45+00:00",
+  "checked": "2026-10-07T01:16:05+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "far-cry-new-dawn"
  },
  "t:far cry primal": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:43+00:00",
+  "checked": "2026-10-07T01:16:03+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "far-cry-primal"
  },
  "t:farming simulator 19": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:34+00:00",
+  "checked": "2026-10-07T01:11:49+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "farming-simulator-19"
  },
  "t:final fantasy 15": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:19+00:00",
+  "checked": "2026-10-07T01:12:34+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "final-fantasy-xv"
  },
  "t:final fantasy 7 remake": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:39+00:00",
+  "checked": "2026-10-07T01:12:56+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "final-fantasy-vii-remake"
  },
  "t:firewall zero hour": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:52+00:00",
+  "checked": "2026-10-07T01:11:04+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "firewall-zero-hour"
  },
  "t:first class trouble": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:22+00:00",
+  "checked": "2026-10-07T01:13:38+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "first-class-trouble"
  },
  "t:fortnite": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:19+00:00",
+  "checked": "2026-10-07T01:10:32+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "fortnite"
  },
  "t:friday the 13 th the game": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:27+00:00",
+  "checked": "2026-10-07T01:10:12+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "friday-the-13th-the-game"
  },
  "t:ghost of tsushima": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:01:01+00:00",
+  "checked": "2026-10-07T01:16:22+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "ghost-of-tsushima"
  },
  "t:ghostrunner": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:45+00:00",
+  "checked": "2026-10-07T01:14:02+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "ghostrunner"
  },
  "t:god of war": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:32+00:00",
+  "checked": "2026-10-07T01:08:18+00:00",
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "god-of-war"
  },
  "t:god of war ragnarok": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:22+00:00",
+  "checked": "2026-10-07T01:08:07+00:00",
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "god-of-war-ragnarok"
  },
  "t:godfall": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:26+00:00",
+  "checked": "2026-10-07T01:13:42+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "godfall"
  },
  "t:gran turismo 7": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:28+00:00",
+  "checked": "2026-10-07T01:10:14+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "gran-turismo-7"
  },
  "t:grand theft auto 3 the": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:43+00:00",
+  "checked": "2026-10-07T01:10:56+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:grand theft auto 5": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:47+00:00",
+  "checked": "2026-10-07T01:14:04+00:00",
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "grand-theft-auto-v"
  },
  "t:greedfall": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:23+00:00",
+  "checked": "2026-10-07T01:12:38+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "greedfall"
  },
  "t:grid legends": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:53+00:00",
+  "checked": "2026-10-07T01:15:11+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "grid-legends"
  },
  "t:guitar hero live": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:13+00:00",
+  "checked": "2026-10-07T01:09:59+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "guitar-hero-live"
  },
  "t:heavenly bodies": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:22+00:00",
+  "checked": "2026-10-07T01:14:39+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "heavenly-bodies"
  },
  "t:hell let loose": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:18+00:00",
+  "checked": "2026-10-07T01:13:34+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "hell-let-loose"
  },
  "t:hitman 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:13+00:00",
+  "checked": "2026-10-07T01:13:30+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "hitman-2"
  },
  "t:hollow knight": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:01+00:00",
+  "checked": "2026-10-07T01:12:16+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "hollow-knight"
  },
  "t:hood outlaws and legends": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:49+00:00",
+  "checked": "2026-10-07T01:14:06+00:00",
   "mc_v": 2,
   "metacritic": 63,
   "metacritic_slug": "hood-outlaws-legends"
  },
  "t:horizon zero dawn": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:18+00:00",
+  "checked": "2026-10-07T01:08:04+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "horizon-zero-dawn"
  },
  "t:hot wheels unleashed": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:21+00:00",
+  "checked": "2026-10-07T01:10:36+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "hot-wheels-unleashed"
  },
  "t:humanity": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:36+00:00",
+  "checked": "2026-10-07T01:15:54+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "humanity"
  },
  "t:hunters arena legends": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:07+00:00",
+  "checked": "2026-10-07T01:13:24+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "hunters-arena-legends"
  },
  "t:immortals fenyx rising": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:41+00:00",
+  "checked": "2026-10-07T01:16:02+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "immortals-fenyx-rising"
  },
  "t:infamous second son": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:15+00:00",
+  "checked": "2026-10-07T01:12:30+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "infamous-second-son"
  },
  "t:injustice 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:36+00:00",
+  "checked": "2026-10-07T01:10:23+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "injustice-2"
  },
  "t:injustice gods among us": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:27+00:00",
+  "checked": "2026-10-07T01:10:41+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "injustice-gods-among-us"
  },
  "t:it takes two": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:12+00:00",
+  "checked": "2026-10-07T01:08:57+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "it-takes-two"
  },
  "t:job simulator": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:46+00:00",
+  "checked": "2026-10-07T01:09:33+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "job-simulator"
  },
  "t:journey": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:03+00:00",
+  "checked": "2026-10-07T01:09:49+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "journey"
  },
  "t:jurassic world evolution 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:06+00:00",
+  "checked": "2026-10-07T01:15:23+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "jurassic-world-evolution-2"
  },
  "t:just dance 2020": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:39+00:00",
+  "checked": "2026-10-07T01:09:24+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "just-dance-2020"
  },
  "t:killzone shadow fall": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:11+00:00",
+  "checked": "2026-10-07T01:11:25+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "killzone-shadow-fall"
  },
  "t:kingdom hearts 3": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:52+00:00",
+  "checked": "2026-10-07T01:12:06+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "kingdom-hearts-iii"
  },
  "t:kingdom hearts hd 1 5 plus 2 5 remix": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:24+00:00",
+  "checked": "2026-10-07T01:08:10+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:kingdom hearts hd 2 8 final chapter prologue": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:50+00:00",
+  "checked": "2026-10-07T01:12:04+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "kingdom-hearts-hd-28-final-chapter-prologue"
  },
  "t:kingdom hearts vr experience": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:09+00:00",
+  "checked": "2026-10-07T01:13:27+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "kingdom-hearts-vr-experience"
  },
  "t:kingdoms of amalur re reckoning": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:23+00:00",
+  "checked": "2026-10-07T01:13:41+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "kingdoms-of-amalur-re-reckoning"
  },
  "t:knack": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:26+00:00",
+  "checked": "2026-10-07T01:08:12+00:00",
   "mc_v": 2,
   "metacritic": 54,
   "metacritic_slug": "knack"
  },
  "t:knockout city": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:19+00:00",
+  "checked": "2026-10-07T01:13:36+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "knockout-city"
  },
  "t:last guardian": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:11+00:00",
+  "checked": "2026-10-07T01:12:26+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "the-last-guardian"
  },
  "t:last of us part 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:46+00:00",
+  "checked": "2026-10-07T01:08:31+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "the-last-of-us-part-ii"
  },
  "t:last of us remastered": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:44+00:00",
+  "checked": "2026-10-07T01:09:32+00:00",
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "the-last-of-us-remastered"
  },
  "t:lego dc super villains": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:28+00:00",
+  "checked": "2026-10-07T01:13:45+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "lego-dc-super-villains"
  },
  "t:lego harry potter collection": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:17+00:00",
+  "checked": "2026-10-07T01:14:34+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "lego-harry-potter-collection"
  },
  "t:life is strange": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:30+00:00",
+  "checked": "2026-10-07T01:12:47+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "life-is-strange"
  },
  "t:little nightmares": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:07+00:00",
+  "checked": "2026-10-07T01:14:25+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "little-nightmares"
  },
  "t:littlebigplanet 3": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:25+00:00",
+  "checked": "2026-10-07T01:11:39+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:mafia": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:35+00:00",
+  "checked": "2026-10-07T01:14:52+00:00",
   "mc_v": 2,
   "metacritic": 66,
   "metacritic_slug": "mafia"
  },
  "t:maneater": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:26+00:00",
+  "checked": "2026-10-07T01:12:41+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "maneater"
  },
  "t:maquette": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:37+00:00",
+  "checked": "2026-10-07T01:12:54+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "maquette"
  },
  "t:marvel rivals": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:24+00:00",
+  "checked": "2026-10-07T01:10:11+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "marvel-rivals"
  },
  "t:marvel tokon fighting souls": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:34+00:00",
+  "checked": "2026-10-07T01:10:21+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "marvel-tokon-fighting-souls"
  },
  "t:marvels guardians of the galaxy": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:15+00:00",
+  "checked": "2026-10-07T01:15:34+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "marvels-guardians-of-the-galaxy"
  },
  "t:marvels spider man": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:40+00:00",
+  "checked": "2026-10-07T01:08:25+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "marvels-spider-man"
  },
  "t:marvels spider man miles morales": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:02+00:00",
+  "checked": "2026-10-07T01:08:48+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "marvels-spider-man-miles-morales"
  },
  "t:mass effect legendary edition": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:52+00:00",
+  "checked": "2026-10-07T01:08:38+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "mass-effect-legendary-edition"
  },
  "t:matrix awakens an unreal engine 5 experience": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:32+00:00",
+  "checked": "2026-10-07T01:10:45+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "the-matrix-awakens-an-unreal-engine-5-experience"
  },
  "t:meet your maker": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:48+00:00",
+  "checked": "2026-10-07T01:15:04+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "meet-your-maker"
  },
  "t:megalith": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:25+00:00",
+  "checked": "2026-10-07T01:10:38+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "megalith"
  },
  "t:middle earth shadow of mordor": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:55+00:00",
+  "checked": "2026-10-07T01:09:40+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "middle-earth-shadow-of-mordor"
  },
  "t:middle earth shadow of war": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:59+00:00",
+  "checked": "2026-10-07T01:12:14+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "middle-earth-shadow-of-war"
  },
  "t:minecraft dungeons": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:44+00:00",
+  "checked": "2026-10-07T01:15:00+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "minecraft-dungeons"
  },
  "t:monster boy and the cursed kingdom": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:38+00:00",
+  "checked": "2026-10-07T01:15:56+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "monster-boy-and-the-cursed-kingdom"
  },
  "t:monster hunter world": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:00+00:00",
+  "checked": "2026-10-07T01:15:17+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "monster-hunter-world"
  },
  "t:mortal kombat 10": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:16+00:00",
+  "checked": "2026-10-07T01:10:03+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "mortal-kombat-x"
  },
  "t:mortal kombat 11": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:56+00:00",
+  "checked": "2026-10-07T01:08:41+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "mortal-kombat-11"
  },
  "t:mortal shell": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:30+00:00",
+  "checked": "2026-10-07T01:13:46+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "mortal-shell"
  },
  "t:moss vr": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:48+00:00",
+  "checked": "2026-10-07T01:09:34+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:naruto shippuden ultimate ninja storm 4": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:30+00:00",
+  "checked": "2026-10-07T01:10:17+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "naruto-shippuden-ultimate-ninja-storm-4"
  },
  "t:nba 2 k 23": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:03+00:00",
+  "checked": "2026-10-07T01:15:21+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "nba-2k23"
  },
  "t:need for speed heat": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:09+00:00",
+  "checked": "2026-10-07T01:14:27+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "need-for-speed-heat"
  },
  "t:need for speed payback": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:55+00:00",
+  "checked": "2026-10-07T01:12:11+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "need-for-speed-payback"
  },
  "t:never alone": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:10+00:00",
+  "checked": "2026-10-07T01:11:24+00:00",
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "never-alone"
  },
  "t:nickelodeon all star brawl": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:58+00:00",
+  "checked": "2026-10-07T01:14:15+00:00",
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "nickelodeon-all-star-brawl"
  },
  "t:nioh": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:01:08+00:00",
+  "checked": "2026-10-07T01:16:27+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "nioh"
  },
  "t:nioh 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:20+00:00",
+  "checked": "2026-10-07T01:14:36+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "nioh-2"
  },
  "t:no mans sky": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:48+00:00",
+  "checked": "2026-10-07T01:11:00+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "no-mans-sky"
  },
  "t:oddworld soulstorm": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:43+00:00",
+  "checked": "2026-10-07T01:13:00+00:00",
   "mc_v": 2,
   "metacritic": 67,
   "metacritic_slug": "oddworld-soulstorm"
  },
  "t:olliolli world": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:37+00:00",
+  "checked": "2026-10-07T01:14:55+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "olliolli-world"
  },
  "t:operation tango": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:54+00:00",
+  "checked": "2026-10-07T01:13:10+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "operation-tango"
  },
  "t:outlast": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:26+00:00",
+  "checked": "2026-10-07T01:14:42+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "outlast"
  },
  "t:outlast 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:27+00:00",
+  "checked": "2026-10-07T01:11:41+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "outlast-2"
  },
  "t:overcooked": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:52+00:00",
+  "checked": "2026-10-07T01:09:38+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "overcooked"
  },
  "t:overcooked 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:27+00:00",
+  "checked": "2026-10-07T01:09:11+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "overcooked-2"
  },
  "t:overcooked all you can eat": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:18+00:00",
+  "checked": "2026-10-07T01:11:31+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "overcooked-all-you-can-eat"
  },
  "t:overwatch": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:34+00:00",
+  "checked": "2026-10-07T01:08:20+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "overwatch"
  },
  "t:persistence": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:34+00:00",
+  "checked": "2026-10-07T01:10:46+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "the-persistence"
  },
  "t:persona 5": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:07+00:00",
+  "checked": "2026-10-07T01:12:22+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "persona-5"
  },
  "t:persona 5 strikers": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:33+00:00",
+  "checked": "2026-10-07T01:13:48+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:planet coaster": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:40+00:00",
+  "checked": "2026-10-07T01:13:56+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "planet-coaster"
  },
  "t:plants vs zombies battle for neighborville": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:18+00:00",
+  "checked": "2026-10-07T01:10:04+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "plants-vs-zombies-battle-for-neighborville"
  },
  "t:plants vs zombies garden warfare": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:55+00:00",
+  "checked": "2026-10-07T01:11:09+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "plants-vs-zombies-garden-warfare"
  },
  "t:playroom": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:37+00:00",
+  "checked": "2026-10-07T01:10:51+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "the-playroom"
  },
  "t:predator hunting grounds": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:16+00:00",
+  "checked": "2026-10-07T01:13:32+00:00",
   "mc_v": 2,
   "metacritic": 56,
   "metacritic_slug": "predator-hunting-grounds"
  },
  "t:quarry": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:24+00:00",
+  "checked": "2026-10-07T01:09:10+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "the-quarry"
  },
  "t:ratchet and clank": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:18+00:00",
+  "checked": "2026-10-07T01:12:34+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "ratchet-clank"
  },
  "t:ratchet and clank rift apart": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:23+00:00",
+  "checked": "2026-10-07T01:15:43+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "ratchet-clank-rift-apart"
  },
  "t:rayman legends": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:09+00:00",
+  "checked": "2026-10-07T01:09:54+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "rayman-legends"
  },
  "t:red dead redemption 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:37+00:00",
+  "checked": "2026-10-07T01:11:52+00:00",
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "red-dead-redemption-2"
  },
  "t:remnant from the ashes": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:41+00:00",
+  "checked": "2026-10-07T01:12:58+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "remnant-from-the-ashes"
  },
  "t:resident evil": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:54+00:00",
+  "checked": "2026-10-07T01:08:40+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "resident-evil"
  },
  "t:resident evil 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:04+00:00",
+  "checked": "2026-10-07T01:08:49+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "resident-evil-2"
  },
  "t:resident evil 3": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:28+00:00",
+  "checked": "2026-10-07T01:09:13+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "resident-evil-3"
  },
  "t:resident evil 4 2005": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:53+00:00",
+  "checked": "2026-10-07T01:12:08+00:00",
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "resident-evil-4-2005"
  },
  "t:resident evil 5": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:08+00:00",
+  "checked": "2026-10-07T01:08:53+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "resident-evil-5"
  },
  "t:resident evil 7 biohazard": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:13+00:00",
+  "checked": "2026-10-07T01:11:27+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "resident-evil-7-biohazard"
  },
  "t:resident evil revelations 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:22+00:00",
+  "checked": "2026-10-07T01:11:35+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "resident-evil-revelations-2"
  },
  "t:resident evil village": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:15+00:00",
+  "checked": "2026-10-07T01:10:29+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "resident-evil-village"
  },
  "t:returnal": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:14+00:00",
+  "checked": "2026-10-07T01:15:32+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "returnal"
  },
  "t:rise of the tomb raider": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:39+00:00",
+  "checked": "2026-10-07T01:11:54+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "rise-of-the-tomb-raider"
  },
  "t:rocket league": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:47+00:00",
+  "checked": "2026-10-07T01:12:03+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "rocket-league"
  },
  "t:sackboy a big adventure": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:50+00:00",
+  "checked": "2026-10-07T01:15:06+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "sackboy-a-big-adventure"
  },
  "t:shadow of the colossus": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:22+00:00",
+  "checked": "2026-10-07T01:09:07+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "shadow-of-the-colossus"
  },
  "t:shadow of the tomb raider": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:21+00:00",
+  "checked": "2026-10-07T01:12:37+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "shadow-of-the-tomb-raider"
  },
  "t:singstar": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:14+00:00",
+  "checked": "2026-10-07T01:10:27+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "singstar"
  },
  "t:slay the spire": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:15+00:00",
+  "checked": "2026-10-07T01:11:29+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "slay-the-spire"
  },
  "t:sniper elite vr": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:17+00:00",
+  "checked": "2026-10-07T01:10:31+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "sniper-elite-vr"
  },
  "t:sonic forces": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:53+00:00",
+  "checked": "2026-10-07T01:11:07+00:00",
   "mc_v": 2,
   "metacritic": 57,
   "metacritic_slug": "sonic-forces"
  },
  "t:south park the stick of truth": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:21+00:00",
+  "checked": "2026-10-07T01:15:41+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "south-park-the-stick-of-truth"
  },
  "t:spider man far from home vr": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:50+00:00",
+  "checked": "2026-10-07T01:11:03+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:spongebob squarepants battle for bikini bottom rehydrated": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:51+00:00",
+  "checked": "2026-10-07T01:14:09+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:sprint vector": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:23+00:00",
+  "checked": "2026-10-07T01:10:37+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "sprint-vector"
  },
  "t:spyro reignited trilogy": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:16+00:00",
+  "checked": "2026-10-07T01:09:02+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "spyro-reignited-trilogy"
  },
  "t:star wars battlefront": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:20+00:00",
+  "checked": "2026-10-07T01:08:06+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "star-wars-battlefront"
  },
  "t:star wars battlefront 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:30+00:00",
+  "checked": "2026-10-07T01:09:15+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "star-wars-battlefront-ii"
  },
  "t:star wars jedi fallen order": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:48+00:00",
+  "checked": "2026-10-07T01:08:34+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "star-wars-jedi-fallen-order"
  },
  "t:star wars squadrons": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:56+00:00",
+  "checked": "2026-10-07T01:13:13+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "star-wars-squadrons"
  },
  "t:starblood arena": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:40+00:00",
+  "checked": "2026-10-07T01:10:53+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "starblood-arena"
  },
  "t:stranded deep": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:49+00:00",
+  "checked": "2026-10-07T01:13:06+00:00",
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "stranded-deep"
  },
  "t:street fighter 5": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:45+00:00",
+  "checked": "2026-10-07T01:12:00+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "street-fighter-v"
  },
  "t:superhot": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:14+00:00",
+  "checked": "2026-10-07T01:14:30+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "superhot"
  },
  "t:superhot vr": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:59+00:00",
+  "checked": "2026-10-07T01:09:44+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "superhot-vr"
  },
  "t:tails of iron": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:52+00:00",
+  "checked": "2026-10-07T01:15:08+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "tails-of-iron"
  },
  "t:team sonic racing": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:43+00:00",
+  "checked": "2026-10-07T01:14:00+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "team-sonic-racing"
  },
  "t:thief": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:31+00:00",
+  "checked": "2026-10-07T01:15:50+00:00",
   "mc_v": 2,
   "metacritic": 67,
   "metacritic_slug": "thief"
  },
  "t:tiny tinas assault on dragon keep a wonderlands one shot adventure": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:38+00:00",
+  "checked": "2026-10-07T01:13:55+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure"
  },
  "t:tomb raider legend": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:03+00:00",
+  "checked": "2026-10-07T01:11:19+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "tomb-raider-legend"
  },
  "t:tony hawks pro skater 1 plus 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:05+00:00",
+  "checked": "2026-10-07T01:14:22+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
  },
  "t:trek to yomi": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:01+00:00",
+  "checked": "2026-10-07T01:15:19+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "trek-to-yomi"
  },
  "t:tribes of midgard": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:53+00:00",
+  "checked": "2026-10-07T01:14:09+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "tribes-of-midgard"
  },
  "t:uncharted legacy of thieves collection": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:06+00:00",
+  "checked": "2026-10-07T01:08:52+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "uncharted-legacy-of-thieves-collection"
  },
  "t:uncharted the nathan drake collection": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:51+00:00",
+  "checked": "2026-10-07T01:08:36+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "uncharted-the-nathan-drake-collection"
  },
  "t:until dawn": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:18+00:00",
+  "checked": "2026-10-07T01:09:03+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "until-dawn"
  },
  "t:until dawn rush of blood": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:42+00:00",
+  "checked": "2026-10-07T01:09:28+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "until-dawn-rush-of-blood"
  },
  "t:until you fall": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:35+00:00",
+  "checked": "2026-10-07T01:10:48+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "until-you-fall"
  },
  "t:untitled goose game": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:00:39+00:00",
+  "checked": "2026-10-07T01:15:58+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "untitled-goose-game"
  },
  "t:valiant hearts the great war": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:23+00:00",
+  "checked": "2026-10-07T01:11:37+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "valiant-hearts-the-great-war"
  },
  "t:vampyr": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:58+00:00",
+  "checked": "2026-10-07T01:12:12+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "vampyr"
  },
  "t:virtua fighter 5 ultimate showdown": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:03+00:00",
+  "checked": "2026-10-07T01:13:20+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "virtua-fighter-5-ultimate-showdown"
  },
  "t:walking dead saints and sinners": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:54:07+00:00",
+  "checked": "2026-10-07T01:09:53+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "the-walking-dead-saints-sinners"
  },
  "t:warframe": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:41+00:00",
+  "checked": "2026-10-07T01:10:55+00:00",
   "mc_v": 2,
   "metacritic": 64,
   "metacritic_slug": "warframe"
  },
  "t:wild arms": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:56:01+00:00",
+  "checked": "2026-10-07T01:11:14+00:00",
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "wild-arms"
  },
  "t:wipeout omega collection": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:30+00:00",
+  "checked": "2026-10-07T01:10:43+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "wipeout-omega-collection"
  },
  "t:witcher 3 wild hunt remastered": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:52:16+00:00",
+  "checked": "2026-10-07T01:08:01+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "the-witcher-3-wild-hunt-remastered"
  },
  "t:worms rumble": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:04+00:00",
+  "checked": "2026-10-07T01:12:19+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "worms-rumble"
  },
  "t:wreckfest": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:51+00:00",
+  "checked": "2026-10-07T01:13:08+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "wreckfest"
  },
  "t:wwe 2 k battlegrounds": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:58:05+00:00",
+  "checked": "2026-10-07T01:13:23+00:00",
   "mc_v": 2,
   "metacritic": 60,
   "metacritic_slug": "wwe-2k-battlegrounds"
  },
  "t:xcom 2": {
   "bl_v": 2,
-  "checked": "2026-10-07T01:01:05+00:00",
+  "checked": "2026-10-07T01:16:26+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "xcom-2"
  },
  "t:yakuza 0": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:55:57+00:00",
+  "checked": "2026-10-07T01:11:10+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "yakuza-0"
  },
  "t:yakuza 0 directors cut": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:53:11+00:00",
+  "checked": "2026-10-07T01:08:56+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "yakuza-0-directors-cut"
  },
  "t:yakuza like a dragon": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:59:03+00:00",
+  "checked": "2026-10-07T01:14:20+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "yakuza-like-a-dragon"
  },
  "t:zombie army 4 dead war": {
   "bl_v": 2,
-  "checked": "2026-10-07T00:57:45+00:00",
+  "checked": "2026-10-07T01:13:02+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "zombie-army-4-dead-war"
