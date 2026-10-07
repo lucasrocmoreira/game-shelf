@@ -175,6 +175,28 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:Professor Layton and the Diabolical Box": {
+  "candidates": null,
+  "checked": "2026-10-07T21:25:42+00:00",
+  "conf": "manual",
+  "id": 1398,
+  "score": null,
+  "slug": "professor-layton-and-the-diabolical-box",
+  "title": "Professor Layton and the Diabolical Box",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Professor Layton and the Unwound Future": {
+  "candidates": null,
+  "checked": "2026-10-07T21:25:41+00:00",
+  "conf": "manual",
+  "id": 1399,
+  "score": null,
+  "slug": "professor-layton-and-the-unwound-future",
+  "title": "Professor Layton and the Unwound Future",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Scribblenauts Collection": {
   "candidates": 1,
   "checked": "2026-10-07T21:24:21+00:00",

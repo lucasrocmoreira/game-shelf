@@ -1689,11 +1689,27 @@
   "metacritic": 75,
   "metacritic_slug": "need-for-speed-hot-pursuit-remastered"
  },
+ "igdb:1398": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:25:51+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:139896": {
   "backloggd": 4.4,
   "bl_v": 2,
   "checked": "2026-10-06T22:02:45+00:00",
   "metacritic": 91,
+  "metacritic_slug": null
+ },
+ "igdb:1399": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-07T21:25:49+00:00",
+  "mc_v": 2,
+  "metacritic": null,
   "metacritic_slug": null
  },
  "igdb:14": {
@@ -7780,6 +7796,13 @@
   "mc_v": 2,
   "metacritic": 56,
   "metacritic_slug": "predator-hunting-grounds"
+ },
+ "t:profeddor layton and the last specter": {
+  "bl_v": 2,
+  "checked": "2026-10-07T21:25:46+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "t:quarry": {
   "bl_v": 2,
