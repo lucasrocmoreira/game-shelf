@@ -175,9 +175,20 @@
   "v": 2,
   "via": "search"
  },
+ "DS:manual:New Super Mario Bros.": {
+  "candidates": null,
+  "checked": "2026-10-07T21:28:50+00:00",
+  "conf": "manual",
+  "id": 1076,
+  "score": null,
+  "slug": "new-super-mario-bros",
+  "title": "New Super Mario Bros.",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Picross DS": {
   "candidates": null,
-  "checked": "2026-10-07T21:27:08+00:00",
+  "checked": "2026-10-07T21:28:50+00:00",
   "conf": "manual",
   "id": 10617,
   "score": null,
@@ -188,7 +199,7 @@
  },
  "DS:manual:Pokémon Platinum": {
   "candidates": null,
-  "checked": "2026-10-07T21:27:08+00:00",
+  "checked": "2026-10-07T21:28:49+00:00",
   "conf": "manual",
   "id": 1519,
   "score": null,
@@ -199,7 +210,7 @@
  },
  "DS:manual:Pokémon SoulSilver": {
   "candidates": null,
-  "checked": "2026-10-07T21:27:08+00:00",
+  "checked": "2026-10-07T21:28:49+00:00",
   "conf": "manual",
   "id": 1520,
   "score": null,
@@ -210,7 +221,7 @@
  },
  "DS:manual:Professor Layton and the Curious Village": {
   "candidates": null,
-  "checked": "2026-10-07T21:27:08+00:00",
+  "checked": "2026-10-07T21:28:49+00:00",
   "conf": "manual",
   "id": 1397,
   "score": null,
@@ -221,7 +232,7 @@
  },
  "DS:manual:Professor Layton and the Diabolical Box": {
   "candidates": null,
-  "checked": "2026-10-07T21:27:07+00:00",
+  "checked": "2026-10-07T21:25:42+00:00",
   "conf": "manual",
   "id": 1398,
   "score": null,
@@ -232,7 +243,7 @@
  },
  "DS:manual:Professor Layton and the Unwound Future": {
   "candidates": null,
-  "checked": "2026-10-07T21:27:07+00:00",
+  "checked": "2026-10-07T21:25:41+00:00",
   "conf": "manual",
   "id": 1399,
   "score": null,
@@ -309,7 +320,7 @@
  },
  "DS:manual:Ōkamiden": {
   "candidates": null,
-  "checked": "2026-10-07T21:27:09+00:00",
+  "checked": "2026-10-07T21:28:50+00:00",
   "conf": "manual",
   "id": 16618,
   "score": null,
