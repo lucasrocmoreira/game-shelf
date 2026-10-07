@@ -44,6 +44,24 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Nier Automata",
    "title": "Nier Automata"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Red Dead Redemption",
+   "title": "Red Dead Redemption"
+  },
+  {
+   "format": "physical",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Catherine Full Body",
+   "title": "Catherine Full Body"
   }
  ],
  "nintendo_eshop": [
