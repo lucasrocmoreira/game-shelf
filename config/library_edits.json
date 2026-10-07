@@ -42,7 +42,14 @@
   "igdb:142": "2026-10-06",
   "igdb:8173": "2026-10-06"
  },
- "added": [],
+ "added": [
+  {
+   "title": "Elden ring",
+   "platform": "PS5",
+   "format": "physical",
+   "added": "2026-10-06"
+  }
+ ],
  "match": {
   "kingdom hearts vr experience": "kingdom-hearts-vr-experience",
   "batman": "batman-the-telltale-series"
