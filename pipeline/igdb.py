@@ -35,6 +35,15 @@ PLATFORMS = {
     "Switch": {130},
     "Switch 2": {508, 130},
     "3DS": {37, 137},
+    "DS": {20, 159},             # Nintendo DS, DSi
+    "GBA": {24},
+    "Game Boy": {33, 22},        # Game Boy, Game Boy Color
+    "Wii": {5},
+    "GameCube": {21},
+    "PSP": {38},
+    "PS Vita": {46},
+    "PS3": {9},
+    "Xbox": {11, 12, 49, 169},
     "Wii U": {41},
 }
 VR_PLATFORMS = {165, 390}        # PS VR, PS VR2
@@ -291,7 +300,7 @@ def pick(title, cands, variants, platforms, year=None):
     if not any(ok for _, sim, ok, _ in scored if sim >= 0.9):
         exact_key = titles.key(titles.clean(title))
         tight = {exact_key} | {titles.key(v) for v, pen in variants if pen < titles.SUBTITLE_DROP}
-        retro_ok = bool(set(platforms) & {"3DS", "Wii U", "Switch", "Switch 2"}) or len(exact_key.split()) >= 2
+        retro_ok = bool(set(platforms) & {"3DS", "Wii U", "Switch", "Switch 2", "Wii"}) or len(exact_key.split()) >= 2
 
         def lift(s, ok, g):
             # Only an exact name earns the benefit of the doubt; one-word titles like "Batman" never do,

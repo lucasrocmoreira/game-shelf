@@ -88,7 +88,7 @@ def match_to_igdb(entries, igdb, overrides):
     matches = load_json(CACHE_DIR / "igdb_matches.json", {})
 
     def fix_for(e):
-        return overrides["igdb"].get(edits.source_key(e["title"]))
+        return overrides["igdb"].get(edits.source_key(e["title"])) or e.get("igdb")
 
     def needs(e):
         m = matches.get(ekey(e))

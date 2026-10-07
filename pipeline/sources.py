@@ -186,6 +186,7 @@ def load_manual():
                 "last_played": None,
                 "format": e.get("format"),
                 "manual": True,
+                "igdb": e.get("igdb"),  # slug picked from the suggestions when adding in the app
             }
         )
     log(f"Manual list: {len(out)} games")

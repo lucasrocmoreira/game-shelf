@@ -114,6 +114,12 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
 .sheet input,.sheet select{padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);width:100%}
 .sheet .btns{display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap}
 .sheet ol{margin:0;padding-left:20px;font-size:14px;color:var(--muted)}
+.suggest{display:grid;gap:4px;max-height:240px;overflow:auto;margin-top:-4px}
+.suggest:empty{display:none}
+.suggest button{all:unset;cursor:pointer;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);font-size:14px}
+.suggest button:focus-visible{outline:2px solid var(--accent)}
+.suggest small{display:block;color:var(--muted);font-size:12px}
+.picked{font-size:13px;color:var(--hi)}
 .toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;z-index:50;max-width:calc(100vw - 32px)}
 .toast[hidden]{display:none}
 
@@ -199,7 +205,7 @@ const GROUPS = [["","No grouping"],["genres","Group by genre"],["themes","Group 
   ["platforms","Group by platform"],["developers","Group by developer"],["modes","Group by mode"]];
 const FILTERS = {genres:"All genres", themes:"All themes", franchises:"All franchises", modes:"All modes", perspectives:"All perspectives"};
 const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"Backloggd",igdb:"IGDB",steam:"Steam"};
-const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","3DS","Wii U","Other"];
+const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
 const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, added:[], match:{}});
 
 const store = {
@@ -480,18 +486,58 @@ function openSettings(intro){
   };
   const c = $("tokClear"); if(c) c.onclick = ()=>{ store.del("shelf-gh-token"); closeSheet(); toast("Disconnected on this device"); };
 }
+/* Game suggestions come from Wikidata, which works from the browser without a key and records each
+   game's IGDB id, so picking one links the game to the exact IGDB entry. */
+async function wikidataGames(q){
+  const api = "https://www.wikidata.org/w/api.php?format=json&origin=*&";
+  const r1 = await fetch(api + new URLSearchParams({action:"wbsearchentities", search:q, language:"en", uselang:"en", type:"item", limit:"20"}));
+  const ids = ((await r1.json()).search||[]).map(x=>x.id);
+  if(!ids.length) return [];
+  const r2 = await fetch(api + new URLSearchParams({action:"wbgetentities", ids:ids.join("|"), props:"labels|descriptions|claims", languages:"en"}));
+  const ents = (await r2.json()).entities || {};
+  const out = [];
+  for(const id of ids){
+    const e = ents[id]; if(!e) continue;
+    const slug = e.claims?.P5794?.[0]?.mainsnak?.datavalue?.value;
+    if(!slug) continue;  // not a video game with an IGDB entry
+    const years = (e.claims?.P577||[]).map(c=>c.mainsnak?.datavalue?.value?.time).filter(Boolean).map(t=>+t.slice(1,5)).filter(Boolean);
+    out.push({label:e.labels?.en?.value||slug, slug, year: years.length?Math.min(...years):null, desc:e.descriptions?.en?.value||""});
+  }
+  return out;
+}
 function openAdd(){
   sheet(`<h2>Add a game</h2>
-    <p>For physical copies or anything the automatic import missed. It appears with scores after the next update, in about 5 to 10 minutes.</p>
-    <label>Title<input id="addTitle" required placeholder="The Legend of Zelda: Tears of the Kingdom"></label>
+    <p>For physical copies or anything the automatic import missed. Start typing and pick the game from the list so it links to the right IGDB entry. It appears with scores after the next update, in about 5 to 10 minutes.</p>
+    <label>Title<input id="addTitle" required autocomplete="off" placeholder="Start typing a game's name"></label>
+    <div class="suggest" id="addSuggest" role="listbox" aria-label="Matching games"></div>
+    <p class="picked" id="addPicked" hidden></p>
     <label>Platform<select id="addPlat">${PLATFORM_CHOICES.map(p=>`<option>${p}</option>`).join("")}</select></label>
     <label>Format<select id="addFmt"><option value="physical">Physical</option><option value="digital">Digital</option></select></label>
     <label>Hours played (optional)<input id="addHours" inputmode="decimal" placeholder="25"></label>
     <label style="display:flex;gap:8px;align-items:center"><input id="addPlayed" type="checkbox" style="width:auto"> I've played it</label>
     <div class="btns"><button value="cancel" class="iconbtn">Cancel</button><button type="button" class="iconbtn primary" id="addSave">Add game</button></div>`);
+  let picked = null, timer = null, seq = 0;
+  const showPicked = ()=>{ const el=$("addPicked"); el.hidden=!picked; if(picked) el.textContent = `Linked to IGDB: ${picked.label}${picked.year?` (${picked.year})`:""}`; };
+  $("addTitle").oninput = e=>{
+    picked = null; showPicked();
+    const q = e.target.value.trim(); clearTimeout(timer);
+    if(q.length < 2){ $("addSuggest").innerHTML = ""; return; }
+    timer = setTimeout(async ()=>{
+      const my = ++seq;
+      try{
+        const res = await wikidataGames(q);
+        if(my !== seq) return;
+        $("addSuggest").innerHTML = res.length ? res.slice(0,8).map((r,i)=>`<button type="button" role="option" data-i="${i}">${esc(r.label)}${r.year?` (${r.year})`:""}<small>${esc(r.desc)}</small></button>`).join("")
+          : `<p>No match in the list. You can still add it by name; the next update will look it up on IGDB.</p>`;
+        $("addSuggest").onclick = ev=>{ const b=ev.target.closest("button[data-i]"); if(!b) return;
+          picked = res[+b.dataset.i]; $("addTitle").value = picked.label; $("addSuggest").innerHTML = ""; showPicked(); };
+      }catch{ if(my===seq) $("addSuggest").innerHTML = ""; }
+    }, 300);
+  };
   $("addSave").onclick = ()=>{
     const title = $("addTitle").value.trim(); if(!title){ toast("Enter a title"); return; }
     const entry = {title, platform:$("addPlat").value, format:$("addFmt").value, added:today()};
+    if(picked && picked.label === title) entry.igdb = picked.slug;
     const h = parseFloat($("addHours").value); if(h>0) entry.hours = h;
     const played = $("addPlayed").checked;
     closeSheet();

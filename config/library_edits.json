@@ -1,173 +1,173 @@
 {
- "hidden": {},
- "unhidden": {},
- "played": {
-  "igdb:6036": "2026-10-06",
-  "igdb:19560": "2026-10-06",
-  "igdb:112875": "2026-10-06",
-  "igdb:1942": "2026-10-06",
-  "igdb:7334": "2026-10-06",
-  "igdb:141540": "2026-10-06",
-  "igdb:26192": "2026-10-06",
-  "igdb:20": "2026-10-06",
-  "igdb:19686": "2026-10-06",
-  "igdb:37094": "2026-10-06",
-  "igdb:135243": "2026-10-06",
-  "igdb:134606": "2026-10-06",
-  "igdb:1352": "2026-10-06",
-  "igdb:19565": "2026-10-06",
-  "igdb:206320": "2026-10-06",
-  "igdb:204350": "2026-10-06",
-  "igdb:10962": "2026-10-06",
-  "igdb:11156": "2026-10-06",
-  "igdb:21": "2026-10-06",
-  "igdb:358": "2026-10-06",
-  "igdb:34293": "2026-10-06",
-  "igdb:135254": "2026-10-06",
-  "igdb:113598": "2026-10-06",
-  "igdb:134581": "2026-10-06",
-  "igdb:8254": "2026-10-06",
-  "igdb:4754": "2026-10-06",
-  "igdb:1512": "2026-10-06",
-  "igdb:37095": "2026-10-06",
-  "igdb:26196": "2026-10-06",
-  "igdb:14362": "2026-10-06",
-  "igdb:36897": "2026-10-06",
-  "igdb:115115": "2026-10-06",
-  "igdb:194404": "2026-10-06",
-  "igdb:847": "2026-10-06",
-  "igdb:4786": "2026-10-06",
-  "igdb:1318": "2026-10-06",
-  "igdb:1164": "2026-10-06",
-  "igdb:142": "2026-10-06",
-  "igdb:8173": "2026-10-06",
-  "igdb:338067": "2026-10-07"
- },
  "added": [
   {
-   "title": "Elden ring",
-   "platform": "PS5",
+   "added": "2026-10-06",
    "format": "physical",
-   "added": "2026-10-06"
+   "platform": "PS5",
+   "title": "Elden ring"
   },
   {
-   "title": "Cyberpunk 2077",
-   "platform": "PS5",
+   "added": "2026-10-07",
    "format": "physical",
-   "added": "2026-10-07"
+   "platform": "PS5",
+   "title": "Cyberpunk 2077"
   },
   {
-   "title": "Dragon’s Dogma 2",
-   "platform": "PS5",
+   "added": "2026-10-07",
    "format": "physical",
-   "added": "2026-10-07"
+   "platform": "PS5",
+   "title": "Dragon’s Dogma 2"
   },
   {
-   "title": "Persona 3 Reload",
-   "platform": "PS5",
+   "added": "2026-10-07",
    "format": "physical",
-   "added": "2026-10-07"
+   "platform": "PS5",
+   "title": "Persona 3 Reload"
   },
   {
-   "title": "Nier Automata",
-   "platform": "PS5",
+   "added": "2026-10-07",
    "format": "physical",
-   "added": "2026-10-07"
+   "platform": "PS5",
+   "title": "Nier Automata"
   },
   {
-   "title": "Red Dead Redemption",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "PS4",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Red Dead Redemption"
   },
   {
-   "title": "Catherine Full Body",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Catherine Full Body"
   },
   {
-   "title": "The Legend of Zelda: Breath of the Wild",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "The Legend of Zelda: Breath of the Wild"
   },
   {
-   "title": "Fire Emblem: Three Houses",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Fire Emblem: Three Houses"
   },
   {
-   "title": "Triangle Strategy",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Triangle Strategy"
   },
   {
-   "title": "Suikoden I&II: HD Remaster",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Suikoden I&II: HD Remaster"
   },
   {
-   "title": "Super Mario 3D All-Star",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Super Mario 3D All-Star"
   },
   {
-   "title": "Mario Kart World",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch 2",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Mario Kart World"
   },
   {
-   "title": "Dragon Quest I&II HD-2D Remaster",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch 2",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Dragon Quest I&II HD-2D Remaster"
   },
   {
-   "title": "Fire Emblem: Fortune’s Weave",
+   "added": "2026-10-07",
+   "format": "physical",
    "platform": "Switch 2",
-   "format": "physical",
-   "added": "2026-10-07"
+   "title": "Fire Emblem: Fortune’s Weave"
   },
   {
-   "title": "Yoshi's Island DS",
-   "platform": "Other",
+   "added": "2026-10-07",
    "format": "digital",
-   "added": "2026-10-07"
+   "platform": "DS",
+   "title": "Yoshi's Island DS"
   },
   {
-   "title": "The World Ends with You",
-   "platform": "Other",
+   "added": "2026-10-07",
    "format": "digital",
-   "added": "2026-10-07"
+   "platform": "DS",
+   "title": "The World Ends with You"
   },
   {
-   "title": "Super Mario 64 DS",
-   "platform": "Other",
+   "added": "2026-10-07",
    "format": "digital",
-   "added": "2026-10-07"
+   "platform": "DS",
+   "title": "Super Mario 64 DS"
   },
   {
-   "title": "Sonic Classic Collection DS",
-   "platform": "Other",
+   "added": "2026-10-07",
    "format": "digital",
-   "added": "2026-10-07"
+   "platform": "DS",
+   "title": "Sonic Classic Collection DS"
   },
   {
-   "title": "Solatorobo: Red The Hunter",
-   "platform": "Other",
+   "added": "2026-10-07",
    "format": "digital",
-   "added": "2026-10-07"
+   "platform": "DS",
+   "title": "Solatorobo: Red The Hunter"
   }
  ],
+ "hidden": {},
  "match": {
-  "kingdom hearts vr experience": "kingdom-hearts-vr-experience",
   "batman": "batman-the-telltale-series",
+  "kingdom hearts vr experience": "kingdom-hearts-vr-experience",
   "sonic classic collection ds": "sonic-classic-collection"
- }
+ },
+ "played": {
+  "igdb:10962": "2026-10-06",
+  "igdb:11156": "2026-10-06",
+  "igdb:112875": "2026-10-06",
+  "igdb:113598": "2026-10-06",
+  "igdb:115115": "2026-10-06",
+  "igdb:1164": "2026-10-06",
+  "igdb:1318": "2026-10-06",
+  "igdb:134581": "2026-10-06",
+  "igdb:134606": "2026-10-06",
+  "igdb:1352": "2026-10-06",
+  "igdb:135243": "2026-10-06",
+  "igdb:135254": "2026-10-06",
+  "igdb:141540": "2026-10-06",
+  "igdb:142": "2026-10-06",
+  "igdb:14362": "2026-10-06",
+  "igdb:1512": "2026-10-06",
+  "igdb:1942": "2026-10-06",
+  "igdb:194404": "2026-10-06",
+  "igdb:19560": "2026-10-06",
+  "igdb:19565": "2026-10-06",
+  "igdb:19686": "2026-10-06",
+  "igdb:20": "2026-10-06",
+  "igdb:204350": "2026-10-06",
+  "igdb:206320": "2026-10-06",
+  "igdb:21": "2026-10-06",
+  "igdb:26192": "2026-10-06",
+  "igdb:26196": "2026-10-06",
+  "igdb:338067": "2026-10-07",
+  "igdb:34293": "2026-10-06",
+  "igdb:358": "2026-10-06",
+  "igdb:36897": "2026-10-06",
+  "igdb:37094": "2026-10-06",
+  "igdb:37095": "2026-10-06",
+  "igdb:4754": "2026-10-06",
+  "igdb:4786": "2026-10-06",
+  "igdb:6036": "2026-10-06",
+  "igdb:7334": "2026-10-06",
+  "igdb:8173": "2026-10-06",
+  "igdb:8254": "2026-10-06",
+  "igdb:847": "2026-10-06"
+ },
+ "unhidden": {}
 }
