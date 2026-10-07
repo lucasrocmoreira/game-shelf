@@ -2431,15 +2431,15 @@
   "via": "search"
  },
  "PS4:CUSA15095_00": {
-  "candidates": 24,
-  "checked": "2026-10-07T02:53:50+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.837,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-07T04:21:23+00:00",
+  "conf": "manual",
+  "id": 109275,
+  "score": null,
+  "slug": "kingdom-hearts-vr-experience",
   "title": "KINGDOM HEARTS:VR Experience",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS4:CUSA15233_00": {
   "candidates": 10,
