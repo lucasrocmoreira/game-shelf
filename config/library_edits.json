@@ -1145,6 +1145,13 @@
    "platform": "PSP",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Lego Pirates of the Caribbean",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "lego-pirates-of-the-caribbean-the-video-game"
   }
  ],
  "match": {
