@@ -1572,6 +1572,13 @@
    "platform": "PS Vita",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Stardew Valley",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "stardew-valley"
   }
  ],
  "match": {
