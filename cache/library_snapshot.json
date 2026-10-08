@@ -127,16 +127,6 @@
    "manual": true,
    "platform": "Switch 2",
    "playtime_hours": 0.0,
-   "source_id": "manual:Mario Kart World",
-   "title": "Mario Kart World"
-  },
-  {
-   "format": "physical",
-   "igdb": null,
-   "last_played": null,
-   "manual": true,
-   "platform": "Switch 2",
-   "playtime_hours": 0.0,
    "source_id": "manual:Dragon Quest I&II HD-2D Remaster",
    "title": "Dragon Quest I&II HD-2D Remaster"
   },
@@ -2349,6 +2339,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Metal Gear Solid 2: Sons of Liberty",
    "title": "Metal Gear Solid 2: Sons of Liberty"
+  },
+  {
+   "format": "physical",
+   "igdb": "mario-kart-world",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch 2",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Kart World",
+   "title": "Mario Kart World"
   }
  ],
  "nintendo_eshop": [

@@ -10875,15 +10875,15 @@
   "via": "search"
  },
  "Switch 2:manual:Mario Kart World": {
-  "candidates": 1,
-  "checked": "2026-10-07T06:01:39+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-10-08T04:14:52+00:00",
+  "conf": "manual",
   "id": 338067,
-  "score": 1.141,
-  "slug": null,
+  "score": null,
+  "slug": "mario-kart-world",
   "title": "Mario Kart World",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "Switch:eshop:DRAGON QUEST": {
   "candidates": 26,
