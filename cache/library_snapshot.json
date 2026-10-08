@@ -929,6 +929,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Monster Hunter Stories",
    "title": "Monster Hunter Stories"
+  },
+  {
+   "format": "digital",
+   "igdb": "mighty-switch-force",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mighty Switch Force!",
+   "title": "Mighty Switch Force!"
+  },
+  {
+   "format": "digital",
+   "igdb": "new-super-mario-bros-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:New Super Mario Bros. 2",
+   "title": "New Super Mario Bros. 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "metal-gear-solid-snake-eater-3d",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metal Gear Solid: Snake Eater 3D",
+   "title": "Metal Gear Solid: Snake Eater 3D"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:3d classics: kirby's adventure",
+   "title": "3d classics: kirby's adventure"
+  },
+  {
+   "format": "digital",
+   "igdb": "apollo-justice-ace-attorney",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Apollo Justice: Ace Attorney",
+   "title": "Apollo Justice: Ace Attorney"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:3d classics: kid icterus",
+   "title": "3d classics: kid icterus"
+  },
+  {
+   "format": "digital",
+   "igdb": "attack-of-the-friday-monsters-a-tokyo-tale",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Attack of the Friday Monsters! A Tokyo Tale",
+   "title": "Attack of the Friday Monsters! A Tokyo Tale"
   }
  ],
  "nintendo_eshop": [
@@ -1200,7 +1270,7 @@
    "title": "God of War"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2921/a213c057a3adc5c341911157e461954a97500126e4e2acef.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
    "last_played": "2022-05-26",
    "platform": "PS4",
    "playtime_hours": 68.2,
@@ -1236,7 +1306,7 @@
    "title": "Marvel's Spider-Man"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2921/a213c057a3adc5c341911157e461954a97500126e4e2acef.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
    "last_played": "2026-09-30",
    "platform": "PS5",
    "playtime_hours": 61.4,

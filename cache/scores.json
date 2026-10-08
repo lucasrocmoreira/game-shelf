@@ -341,6 +341,14 @@
   "metacritic": 90,
   "metacritic_slug": "super-mario-3d-land"
  },
+ "igdb:1080": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:06:43+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "new-super-mario-bros-2"
+ },
  "igdb:1081": {
   "backloggd": 2.9,
   "bl_v": 2,
@@ -3798,6 +3806,14 @@
   "metacritic": 91,
   "metacritic_slug": null
  },
+ "igdb:21073": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:06:45+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:2113": {
   "backloggd": 3.0,
   "bl_v": 2,
@@ -6875,6 +6891,22 @@
   ],
   "steam_pct": 93,
   "steam_reviews": 7304
+ },
+ "igdb:84616": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:06:50+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "3d-classics-kid-icarus"
+ },
+ "igdb:84617": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:06:48+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "3d-classics-kirbys-adventure"
  },
  "igdb:84656": {
   "backloggd": 3.3,

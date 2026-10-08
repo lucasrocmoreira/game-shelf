@@ -186,6 +186,28 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:3d classics: kid icterus": {
+  "candidates": 20,
+  "checked": "2026-10-08T03:06:39+00:00",
+  "conf": "medium",
+  "id": 84616,
+  "score": 1.021,
+  "slug": null,
+  "title": "3d classics: kid icterus",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:3d classics: kirby's adventure": {
+  "candidates": 1,
+  "checked": "2026-10-08T03:06:37+00:00",
+  "conf": "high",
+  "id": 84617,
+  "score": 1.129,
+  "slug": null,
+  "title": "3d classics: kirby's adventure",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Animal Crossing: New Leaf": {
   "candidates": null,
   "checked": "2026-10-08T02:55:38+00:00",
@@ -194,6 +216,28 @@
   "score": null,
   "slug": "animal-crossing-new-leaf",
   "title": "Animal Crossing: New Leaf",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Apollo Justice: Ace Attorney": {
+  "candidates": null,
+  "checked": "2026-10-08T03:06:36+00:00",
+  "conf": "manual",
+  "id": 1429,
+  "score": null,
+  "slug": "apollo-justice-ace-attorney",
+  "title": "Apollo Justice: Ace Attorney",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Attack of the Friday Monsters! A Tokyo Tale": {
+  "candidates": null,
+  "checked": "2026-10-08T03:06:36+00:00",
+  "conf": "manual",
+  "id": 19923,
+  "score": null,
+  "slug": "attack-of-the-friday-monsters-a-tokyo-tale",
+  "title": "Attack of the Friday Monsters! A Tokyo Tale",
   "v": 4,
   "via": "fix"
  },
@@ -395,6 +439,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Metal Gear Solid: Snake Eater 3D": {
+  "candidates": null,
+  "checked": "2026-10-08T03:06:36+00:00",
+  "conf": "manual",
+  "id": 21073,
+  "score": null,
+  "slug": "metal-gear-solid-snake-eater-3d",
+  "title": "Metal Gear Solid: Snake Eater 3D",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Metroid: Samus Returns": {
   "candidates": null,
   "checked": "2026-10-08T02:55:40+00:00",
@@ -403,6 +458,17 @@
   "score": null,
   "slug": "metroid-samus-returns",
   "title": "Metroid: Samus Returns",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Mighty Switch Force!": {
+  "candidates": null,
+  "checked": "2026-10-08T03:06:35+00:00",
+  "conf": "manual",
+  "id": 22919,
+  "score": null,
+  "slug": "mighty-switch-force",
+  "title": "Mighty Switch Force!",
   "v": 4,
   "via": "fix"
  },
@@ -425,6 +491,17 @@
   "score": null,
   "slug": "monster-hunter-stories",
   "title": "Monster Hunter Stories",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:New Super Mario Bros. 2": {
+  "candidates": null,
+  "checked": "2026-10-08T03:06:35+00:00",
+  "conf": "manual",
+  "id": 1080,
+  "score": null,
+  "slug": "new-super-mario-bros-2",
+  "title": "New Super Mario Bros. 2",
   "v": 4,
   "via": "fix"
  },
