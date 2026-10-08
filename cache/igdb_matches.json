@@ -208,6 +208,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Bye-Bye BoxBoy!": {
+  "candidates": null,
+  "checked": "2026-10-08T02:58:38+00:00",
+  "conf": "manual",
+  "id": 26350,
+  "score": null,
+  "slug": "bye-bye-boxboy",
+  "title": "Bye-Bye BoxBoy!",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Crashmo": {
   "candidates": null,
   "checked": "2026-10-08T02:55:39+00:00",
@@ -221,7 +232,7 @@
  },
  "3DS:manual:Donkey Kong Country Returns 3D": {
   "candidates": 1,
-  "checked": "2026-10-08T02:56:55+00:00",
+  "checked": "2026-10-08T02:58:40+00:00",
   "conf": "high",
   "id": 20110,
   "score": 1.136,
@@ -243,7 +254,7 @@
  },
  "3DS:manual:Etrian Odyssey IV: Legends of the Titan": {
   "candidates": 1,
-  "checked": "2026-10-08T02:56:54+00:00",
+  "checked": "2026-10-08T02:58:39+00:00",
   "conf": "high",
   "id": 6767,
   "score": 1.133,
@@ -265,7 +276,7 @@
  },
  "3DS:manual:Kid Icarus: Uprising": {
   "candidates": null,
-  "checked": "2026-10-08T02:56:53+00:00",
+  "checked": "2026-10-08T02:58:37+00:00",
   "conf": "manual",
   "id": 3665,
   "score": null,
@@ -329,9 +340,20 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Pocket Card Jockey": {
+  "candidates": null,
+  "checked": "2026-10-08T02:58:38+00:00",
+  "conf": "manual",
+  "id": 18196,
+  "score": null,
+  "slug": "pocket-card-jockey",
+  "title": "Pocket Card Jockey",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Pokémon Omega Ruby": {
   "candidates": null,
-  "checked": "2026-10-08T02:56:53+00:00",
+  "checked": "2026-10-08T02:58:37+00:00",
   "conf": "manual",
   "id": 6897,
   "score": null,
@@ -362,6 +384,28 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Rhythm Heaven Megamix": {
+  "candidates": null,
+  "checked": "2026-10-08T02:58:38+00:00",
+  "conf": "manual",
+  "id": 18220,
+  "score": null,
+  "slug": "rhythm-heaven-megamix",
+  "title": "Rhythm Heaven Megamix",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Shin Megami Tensei IV": {
+  "candidates": null,
+  "checked": "2026-10-08T02:58:37+00:00",
+  "conf": "manual",
+  "id": 6886,
+  "score": null,
+  "slug": "shin-megami-tensei-iv",
+  "title": "Shin Megami Tensei IV",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Shovel Knight": {
   "candidates": 22,
   "checked": "2026-10-08T02:52:24+00:00",
@@ -381,6 +425,17 @@
   "score": null,
   "slug": "steamworld-heist",
   "title": "SteamWorld Heist",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Stretchmo": {
+  "candidates": null,
+  "checked": "2026-10-08T02:58:38+00:00",
+  "conf": "manual",
+  "id": 19984,
+  "score": null,
+  "slug": "stretchmo",
+  "title": "Stretchmo",
   "v": 4,
   "via": "fix"
  },

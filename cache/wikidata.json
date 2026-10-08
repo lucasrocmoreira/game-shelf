@@ -306,6 +306,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10498
  },
+ "bye-bye-boxboy": {
+  "checked": "2026-10-08T02:58:42+00:00",
+  "opencritic_id": 4096
+ },
  "call-of-duty-black-ops-4": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 6018
@@ -591,7 +595,7 @@
   "opencritic_id": 14107
  },
  "donkey-kong-country-returns-3d": {
-  "checked": "2026-10-08T02:57:00+00:00"
+  "checked": "2026-10-08T02:58:42+00:00"
  },
  "doom-eternal": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -689,7 +693,7 @@
   "opencritic_id": 8152
  },
  "etrian-odyssey-iv-legends-of-the-titan": {
-  "checked": "2026-10-08T02:57:00+00:00"
+  "checked": "2026-10-08T02:58:42+00:00"
  },
  "evil-dead-the-game--1": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1088,7 +1092,7 @@
   "opencritic_id": 8486
  },
  "kid-icarus-uprising": {
-  "checked": "2026-10-08T02:57:00+00:00"
+  "checked": "2026-10-08T02:58:42+00:00"
  },
  "killzone-shadow-fall": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1566,8 +1570,12 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 227
  },
+ "pocket-card-jockey": {
+  "checked": "2026-10-08T02:58:42+00:00",
+  "opencritic_id": 2689
+ },
  "pokemon-omega-ruby": {
-  "checked": "2026-10-08T02:57:00+00:00",
+  "checked": "2026-10-08T02:58:42+00:00",
   "opencritic_id": 2346
  },
  "pokemon-platinum-version": {
@@ -1710,6 +1718,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11173
  },
+ "rhythm-heaven-megamix": {
+  "checked": "2026-10-08T02:58:42+00:00"
+ },
  "rise-of-nations-extended-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -1780,6 +1791,9 @@
  },
  "shenmue": {
   "checked": "2026-10-07T01:52:04+00:00"
+ },
+ "shin-megami-tensei-iv": {
+  "checked": "2026-10-08T02:58:42+00:00"
  },
  "shovel-knight": {
   "checked": "2026-10-08T02:52:26+00:00",
@@ -1947,6 +1961,9 @@
  "streets-of-rage-4": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 9380
+ },
+ "stretchmo": {
+  "checked": "2026-10-08T02:58:42+00:00"
  },
  "stronghold-hd": {
   "checked": "2026-10-07T01:08:00+00:00"

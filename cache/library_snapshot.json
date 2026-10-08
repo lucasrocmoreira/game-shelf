@@ -719,6 +719,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Kid Icarus: Uprising",
    "title": "Kid Icarus: Uprising"
+  },
+  {
+   "format": "digital",
+   "igdb": "shin-megami-tensei-iv",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Shin Megami Tensei IV",
+   "title": "Shin Megami Tensei IV"
+  },
+  {
+   "format": "digital",
+   "igdb": "stretchmo",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Stretchmo",
+   "title": "Stretchmo"
+  },
+  {
+   "format": "digital",
+   "igdb": "bye-bye-boxboy",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Bye-Bye BoxBoy!",
+   "title": "Bye-Bye BoxBoy!"
+  },
+  {
+   "format": "digital",
+   "igdb": "rhythm-heaven-megamix",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rhythm Heaven Megamix",
+   "title": "Rhythm Heaven Megamix"
+  },
+  {
+   "format": "digital",
+   "igdb": "pocket-card-jockey",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pocket Card Jockey",
+   "title": "Pocket Card Jockey"
   }
  ],
  "nintendo_eshop": [
