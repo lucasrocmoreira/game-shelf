@@ -1363,6 +1363,39 @@
   "v": 4,
   "via": "search"
  },
+ "PS Vita:manual:Limbo": {
+  "candidates": null,
+  "checked": "2026-10-08T03:33:40+00:00",
+  "conf": "manual",
+  "id": 1331,
+  "score": null,
+  "slug": "limbo",
+  "title": "Limbo",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Odin Sphere Leifthrasir": {
+  "candidates": null,
+  "checked": "2026-10-08T03:33:40+00:00",
+  "conf": "manual",
+  "id": 15709,
+  "score": null,
+  "slug": "odin-sphere-leifthrasir",
+  "title": "Odin Sphere Leifthrasir",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Persona 4: Golden": {
+  "candidates": null,
+  "checked": "2026-10-08T03:33:40+00:00",
+  "conf": "manual",
+  "id": 2985,
+  "score": null,
+  "slug": "persona-4-golden",
+  "title": "Persona 4: Golden",
+  "v": 4,
+  "via": "fix"
+ },
  "PS4:CUSA00068_00": {
   "candidates": 10,
   "checked": "2026-10-07T01:45:26+00:00",
@@ -8284,11 +8317,11 @@
  },
  "PSP:manual:Dante's Inferno": {
   "candidates": null,
-  "checked": "2026-10-08T03:28:04+00:00",
+  "checked": "2026-10-08T03:33:39+00:00",
   "conf": "manual",
-  "id": 28854,
+  "id": 6958,
   "score": null,
-  "slug": "dantes-inferno",
+  "slug": "dante-s-inferno",
   "title": "Dante's Inferno",
   "v": 4,
   "via": "fix"
@@ -8400,6 +8433,17 @@
   "score": null,
   "slug": "lego-batman-the-videogame",
   "title": "Lego Batman: The Videogame",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Lego Harry Potter: Years 1–4": {
+  "candidates": null,
+  "checked": "2026-10-08T03:33:39+00:00",
+  "conf": "manual",
+  "id": 3149,
+  "score": null,
+  "slug": "lego-harry-potter-years-1-4",
+  "title": "Lego Harry Potter: Years 1–4",
   "v": 4,
   "via": "fix"
  },

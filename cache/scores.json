@@ -2666,6 +2666,14 @@
   "metacritic": 80,
   "metacritic_slug": "soulcalibur-broken-destiny"
  },
+ "igdb:15709": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:33:54+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "odin-sphere-leifthrasir"
+ },
  "igdb:158983": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -5528,6 +5536,14 @@
   "metacritic": 80,
   "metacritic_slug": "the-rogue-prince-of-persia"
  },
+ "igdb:2985": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:33:52+00:00",
+  "mc_v": 2,
+  "metacritic": 93,
+  "metacritic_slug": "persona-4-golden"
+ },
  "igdb:298526": {
   "backloggd": 4.5,
   "bl_v": 2,
@@ -5658,6 +5674,14 @@
   "opencritic_id": 227,
   "opencritic_pct": 62,
   "opencritic_tier": "Strong"
+ },
+ "igdb:3149": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:33:49+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "lego-harry-potter-years-1-4"
  },
  "igdb:317407": {
   "backloggd": 3.5,
@@ -6861,6 +6885,14 @@
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "pokemon-omega-ruby"
+ },
+ "igdb:6958": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:33:47+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "dantes-inferno"
  },
  "igdb:70828": {
   "backloggd": 2.9,

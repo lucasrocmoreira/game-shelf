@@ -1729,6 +1729,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Tales of Eternia",
    "title": "Tales of Eternia"
+  },
+  {
+   "format": "digital",
+   "igdb": "lego-harry-potter-years-1-4",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Lego Harry Potter: Years 1–4",
+   "title": "Lego Harry Potter: Years 1–4"
+  },
+  {
+   "format": "digital",
+   "igdb": "persona-4-golden",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Persona 4: Golden",
+   "title": "Persona 4: Golden"
+  },
+  {
+   "format": "digital",
+   "igdb": "odin-sphere-leifthrasir",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Odin Sphere Leifthrasir",
+   "title": "Odin Sphere Leifthrasir"
+  },
+  {
+   "format": "digital",
+   "igdb": "limbo",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Limbo",
+   "title": "Limbo"
   }
  ],
  "nintendo_eshop": [
