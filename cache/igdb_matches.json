@@ -219,6 +219,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Donkey Kong Country Returns 3D": {
+  "candidates": 1,
+  "checked": "2026-10-08T02:56:55+00:00",
+  "conf": "high",
+  "id": 20110,
+  "score": 1.136,
+  "slug": null,
+  "title": "Donkey Kong Country Returns 3D",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Dragon Quest VIII: Journey of the Cursed King": {
   "candidates": 4,
   "checked": "2026-10-08T02:55:41+00:00",
@@ -230,6 +241,17 @@
   "v": 4,
   "via": "search"
  },
+ "3DS:manual:Etrian Odyssey IV: Legends of the Titan": {
+  "candidates": 1,
+  "checked": "2026-10-08T02:56:54+00:00",
+  "conf": "high",
+  "id": 6767,
+  "score": 1.133,
+  "slug": null,
+  "title": "Etrian Odyssey IV: Legends of the Titan",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Fire Emblem Awakening": {
   "candidates": null,
   "checked": "2026-10-08T02:52:20+00:00",
@@ -238,6 +260,17 @@
   "score": null,
   "slug": "fire-emblem-awakening",
   "title": "Fire Emblem Awakening",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Kid Icarus: Uprising": {
+  "candidates": null,
+  "checked": "2026-10-08T02:56:53+00:00",
+  "conf": "manual",
+  "id": 3665,
+  "score": null,
+  "slug": "kid-icarus-uprising",
+  "title": "Kid Icarus: Uprising",
   "v": 4,
   "via": "fix"
  },
@@ -293,6 +326,17 @@
   "score": null,
   "slug": "metroid-samus-returns",
   "title": "Metroid: Samus Returns",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Pokémon Omega Ruby": {
+  "candidates": null,
+  "checked": "2026-10-08T02:56:53+00:00",
+  "conf": "manual",
+  "id": 6897,
+  "score": null,
+  "slug": "pokemon-omega-ruby",
+  "title": "Pokémon Omega Ruby",
   "v": 4,
   "via": "fix"
  },

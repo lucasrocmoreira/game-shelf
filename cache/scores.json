@@ -3456,6 +3456,14 @@
   "metacritic": 78,
   "metacritic_slug": "another-crabs-treasure"
  },
+ "igdb:20110": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T02:57:05+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:202539": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -5391,6 +5399,14 @@
   "metacritic": 90,
   "metacritic_slug": null
  },
+ "igdb:3665": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T02:57:19+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "kid-icarus-uprising"
+ },
  "igdb:36662": {
   "backloggd": 2.9,
   "bl_v": 2,
@@ -6174,6 +6190,22 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "zero-escape-virtues-last-reward"
+ },
+ "igdb:6767": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T02:57:03+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "etrian-odyssey-iv-legends-of-the-titan"
+ },
+ "igdb:6897": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T02:57:14+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "pokemon-omega-ruby"
  },
  "igdb:70828": {
   "backloggd": 2.9,
