@@ -2669,7 +2669,7 @@
  "igdb:15709": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:33:54+00:00",
+  "checked": "2026-10-08T03:35:23+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "odin-sphere-leifthrasir"
@@ -5539,7 +5539,7 @@
  "igdb:2985": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:33:52+00:00",
+  "checked": "2026-10-08T03:35:21+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "persona-4-golden"
@@ -5600,6 +5600,14 @@
   "opencritic_id": 201,
   "opencritic_pct": 88,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:3029": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:35:26+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "spelunky"
  },
  "igdb:3042": {
   "backloggd": 3.8,
@@ -5678,7 +5686,7 @@
  "igdb:3149": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-08T03:33:49+00:00",
+  "checked": "2026-10-08T03:35:18+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "lego-harry-potter-years-1-4"
@@ -6787,6 +6795,14 @@
   "metacritic": 64,
   "metacritic_slug": "the-delusions-of-von-sottendorff-and-his-squared-mind"
  },
+ "igdb:6363": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:35:28+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "tearaway"
+ },
  "igdb:65": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -6889,7 +6905,7 @@
  "igdb:6958": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-08T03:33:47+00:00",
+  "checked": "2026-10-08T03:35:16+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "dantes-inferno"
@@ -7617,6 +7633,14 @@
   "opencritic_pct": 85,
   "opencritic_tier": "Strong"
  },
+ "igdb:8862": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:35:31+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "guacamelee-super-turbo-championship-edition"
+ },
  "igdb:8875": {
   "backloggd": 2.8,
   "bl_v": 2,
@@ -8180,6 +8204,13 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "cities-skylines"
+ },
+ "t:code realize guardian of rebirth": {
+  "bl_v": 2,
+  "checked": "2026-10-08T03:35:31+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "t:code vein": {
   "bl_v": 2,

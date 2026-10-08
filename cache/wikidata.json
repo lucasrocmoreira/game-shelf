@@ -472,7 +472,7 @@
   "opencritic_id": 8525
  },
  "dante-s-inferno": {
-  "checked": "2026-10-08T03:33:43+00:00"
+  "checked": "2026-10-08T03:35:12+00:00"
  },
  "dantes-inferno": {
   "checked": "2026-10-08T03:28:11+00:00"
@@ -1013,6 +1013,10 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 13730
  },
+ "guacamelee-super-turbo-championship-edition": {
+  "checked": "2026-10-08T03:35:12+00:00",
+  "opencritic_id": 241
+ },
  "guitar-hero-live": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1544
@@ -1277,7 +1281,7 @@
   "opencritic_id": 3396
  },
  "lego-harry-potter-years-1-4": {
-  "checked": "2026-10-08T03:33:43+00:00"
+  "checked": "2026-10-08T03:35:12+00:00"
  },
  "lego-horizon-adventures": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1639,7 +1643,7 @@
   "opencritic_id": 11152
  },
  "odin-sphere-leifthrasir": {
-  "checked": "2026-10-08T03:33:43+00:00",
+  "checked": "2026-10-08T03:35:12+00:00",
   "opencritic_id": 1643
  },
  "okamiden": {
@@ -1713,7 +1717,7 @@
   "opencritic_id": 16094
  },
  "persona-4-golden": {
-  "checked": "2026-10-08T03:33:43+00:00"
+  "checked": "2026-10-08T03:35:12+00:00"
  },
  "persona-5": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2108,6 +2112,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 537
  },
+ "spelunky": {
+  "checked": "2026-10-08T03:35:12+00:00",
+  "opencritic_id": 11875
+ },
  "spider-man-far-from-home-virtual-reality-experience": {
   "checked": "2026-10-07T02:35:15+00:00"
  },
@@ -2277,6 +2285,10 @@
  "team-sonic-racing": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 7124
+ },
+ "tearaway": {
+  "checked": "2026-10-08T03:35:12+00:00",
+  "opencritic_id": 2432
  },
  "teenage-mutant-ninja-turtles-the-cowabunga-collection": {
   "checked": "2026-10-07T01:52:04+00:00",

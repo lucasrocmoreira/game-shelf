@@ -1769,6 +1769,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Limbo",
    "title": "Limbo"
+  },
+  {
+   "format": "digital",
+   "igdb": "spelunky",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:spelunky",
+   "title": "spelunky"
+  },
+  {
+   "format": "digital",
+   "igdb": "rayman-origins",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rayman Origins",
+   "title": "Rayman Origins"
+  },
+  {
+   "format": "digital",
+   "igdb": "tearaway",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Tearaway",
+   "title": "Tearaway"
+  },
+  {
+   "format": "digital",
+   "igdb": "guacamelee-super-turbo-championship-edition",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Guacamelee!",
+   "title": "Guacamelee!"
+  },
+  {
+   "format": "digital",
+   "igdb": "code-realize-~guardian-of-rebirth~",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Code: Realize − Guardian of Rebirth",
+   "title": "Code: Realize − Guardian of Rebirth"
   }
  ],
  "nintendo_eshop": [
