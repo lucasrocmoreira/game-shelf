@@ -1339,6 +1339,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Crisis Core: Final Fantasy VII",
    "title": "Crisis Core: Final Fantasy VII"
+  },
+  {
+   "format": "digital",
+   "igdb": "crush",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Crush",
+   "title": "Crush"
+  },
+  {
+   "format": "digital",
+   "igdb": "locoroco",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:LocoRoco",
+   "title": "LocoRoco"
+  },
+  {
+   "format": "digital",
+   "igdb": "kingdom-hearts-birth-by-sleep",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kingdom Hearts: Birth by Sleep",
+   "title": "Kingdom Hearts: Birth by Sleep"
+  },
+  {
+   "format": "digital",
+   "igdb": "mega-man-powered-up",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mega Man Powered Up",
+   "title": "Mega Man Powered Up"
+  },
+  {
+   "format": "digital",
+   "igdb": "patapon-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Patapon 2",
+   "title": "Patapon 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "ys-the-oath-in-felghana",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:ys-the-oath-in-felghana",
+   "title": "ys-the-oath-in-felghana"
   }
  ],
  "nintendo_eshop": [

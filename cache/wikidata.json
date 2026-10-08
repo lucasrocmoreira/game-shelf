@@ -456,6 +456,9 @@
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 9593
  },
+ "crush": {
+  "checked": "2026-10-08T03:21:16+00:00"
+ },
  "culdcept-revolt": {
   "checked": "2026-10-08T03:08:11+00:00",
   "opencritic_id": 4913
@@ -1182,6 +1185,9 @@
  "kingdom-hearts-358-2-days": {
   "checked": "2026-10-07T21:32:53+00:00"
  },
+ "kingdom-hearts-birth-by-sleep": {
+  "checked": "2026-10-08T03:21:16+00:00"
+ },
  "kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 3602
@@ -1282,6 +1288,9 @@
  "littlebigplanet-3": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 162
+ },
+ "locoroco": {
+  "checked": "2026-10-08T03:21:16+00:00"
  },
  "locoroco-2": {
   "checked": "2026-10-08T03:19:30+00:00"
@@ -1387,6 +1396,9 @@
  "mega-man-legacy-collection": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 1837
+ },
+ "mega-man-powered-up": {
+  "checked": "2026-10-08T03:21:16+00:00"
  },
  "megalith": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1621,6 +1633,9 @@
  },
  "patapon": {
   "checked": "2026-10-08T03:19:30+00:00"
+ },
+ "patapon-2": {
+  "checked": "2026-10-08T03:21:16+00:00"
  },
  "pathfinder-wrath-of-the-righteous": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2620,6 +2635,9 @@
  },
  "yoshis-island-ds": {
   "checked": "2026-10-07T21:00:23+00:00"
+ },
+ "ys-the-oath-in-felghana": {
+  "checked": "2026-10-08T03:21:16+00:00"
  },
  "zero-escape-virtue-s-last-reward": {
   "checked": "2026-10-08T02:52:26+00:00"

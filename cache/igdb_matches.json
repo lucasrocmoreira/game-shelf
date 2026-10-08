@@ -8271,6 +8271,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Crush": {
+  "candidates": null,
+  "checked": "2026-10-08T03:21:11+00:00",
+  "conf": "manual",
+  "id": 6753,
+  "score": null,
+  "slug": "crush",
+  "title": "Crush",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Daxter": {
   "candidates": null,
   "checked": "2026-10-08T03:19:28+00:00",
@@ -8315,6 +8326,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Kingdom Hearts: Birth by Sleep": {
+  "candidates": null,
+  "checked": "2026-10-08T03:21:12+00:00",
+  "conf": "manual",
+  "id": 1224,
+  "score": null,
+  "slug": "kingdom-hearts-birth-by-sleep",
+  "title": "Kingdom Hearts: Birth by Sleep",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:LittleBigPlanet": {
   "candidates": null,
   "checked": "2026-10-08T03:19:27+00:00",
@@ -8326,6 +8348,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:LocoRoco": {
+  "candidates": null,
+  "checked": "2026-10-08T03:21:11+00:00",
+  "conf": "manual",
+  "id": 1459,
+  "score": null,
+  "slug": "locoroco",
+  "title": "LocoRoco",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:LocoRoco 2": {
   "candidates": null,
   "checked": "2026-10-08T03:19:28+00:00",
@@ -8334,6 +8367,17 @@
   "score": null,
   "slug": "locoroco-2",
   "title": "LocoRoco 2",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Mega Man Powered Up": {
+  "candidates": null,
+  "checked": "2026-10-08T03:21:12+00:00",
+  "conf": "manual",
+  "id": 12937,
+  "score": null,
+  "slug": "mega-man-powered-up",
+  "title": "Mega Man Powered Up",
   "v": 4,
   "via": "fix"
  },
@@ -8367,6 +8411,17 @@
   "score": null,
   "slug": "patapon",
   "title": "Patapon",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Patapon 2": {
+  "candidates": null,
+  "checked": "2026-10-08T03:21:12+00:00",
+  "conf": "manual",
+  "id": 7813,
+  "score": null,
+  "slug": "patapon-2",
+  "title": "Patapon 2",
   "v": 4,
   "via": "fix"
  },
@@ -8435,6 +8490,17 @@
   "title": "tactics ogre: let us cling together",
   "v": 4,
   "via": "search"
+ },
+ "PSP:manual:ys-the-oath-in-felghana": {
+  "candidates": null,
+  "checked": "2026-10-08T03:21:12+00:00",
+  "conf": "manual",
+  "id": 15455,
+  "score": null,
+  "slug": "ys-the-oath-in-felghana",
+  "title": "ys-the-oath-in-felghana",
+  "v": 4,
+  "via": "fix"
  },
  "PlayStation:CUSA00001_00": {
   "candidates": 22,
