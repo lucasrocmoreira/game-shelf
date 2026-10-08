@@ -2258,6 +2258,14 @@
   "metacritic": 70,
   "metacritic_slug": "undisputed"
  },
+ "igdb:14709": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:01:01+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "etrian-odyssey-2-untold-the-fafnir-knight"
+ },
  "igdb:14741": {
   "backloggd": 4.2,
   "bl_v": 2,
@@ -2822,7 +2830,7 @@
  "igdb:18196": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-08T02:59:05+00:00",
+  "checked": "2026-10-08T03:00:59+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -2830,7 +2838,7 @@
  "igdb:18220": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T02:59:01+00:00",
+  "checked": "2026-10-08T03:00:57+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "rhythm-heaven-megamix"
@@ -3422,7 +3430,7 @@
  "igdb:19984": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T02:58:57+00:00",
+  "checked": "2026-10-08T03:00:51+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "stretchmo"
@@ -3483,7 +3491,7 @@
  "igdb:20110": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-08T02:58:46+00:00",
+  "checked": "2026-10-08T02:57:05+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -4614,7 +4622,7 @@
  "igdb:26350": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-08T02:58:59+00:00",
+  "checked": "2026-10-08T03:00:54+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "bye-bye-boxboy"
@@ -5434,7 +5442,7 @@
  "igdb:3665": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T02:58:51+00:00",
+  "checked": "2026-10-08T02:57:19+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "kid-icarus-uprising"
@@ -5566,6 +5574,14 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "metroid-samus-returns"
+ },
+ "igdb:37151": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:01:05+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:3722": {
   "backloggd": 3.2,
@@ -6226,7 +6242,7 @@
  "igdb:6767": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T02:58:45+00:00",
+  "checked": "2026-10-08T02:57:03+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "etrian-odyssey-iv-legends-of-the-titan"
@@ -6234,7 +6250,7 @@
  "igdb:6886": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T02:58:54+00:00",
+  "checked": "2026-10-08T03:00:49+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "shin-megami-tensei-iv"
@@ -6242,7 +6258,7 @@
  "igdb:6897": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T02:58:50+00:00",
+  "checked": "2026-10-08T02:57:14+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "pokemon-omega-ruby"

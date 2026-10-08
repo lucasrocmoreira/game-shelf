@@ -210,7 +210,7 @@
  },
  "3DS:manual:Bye-Bye BoxBoy!": {
   "candidates": null,
-  "checked": "2026-10-08T02:58:38+00:00",
+  "checked": "2026-10-08T03:00:28+00:00",
   "conf": "manual",
   "id": 26350,
   "score": null,
@@ -232,7 +232,7 @@
  },
  "3DS:manual:Donkey Kong Country Returns 3D": {
   "candidates": 1,
-  "checked": "2026-10-08T02:58:40+00:00",
+  "checked": "2026-10-08T02:56:55+00:00",
   "conf": "high",
   "id": 20110,
   "score": 1.136,
@@ -252,9 +252,20 @@
   "v": 4,
   "via": "search"
  },
+ "3DS:manual:Etrian Odyssey 2 Untold: The Fafnir Knight": {
+  "candidates": null,
+  "checked": "2026-10-08T03:00:28+00:00",
+  "conf": "manual",
+  "id": 14709,
+  "score": null,
+  "slug": "etrian-odyssey-2-untold-the-fafnir-knight",
+  "title": "Etrian Odyssey 2 Untold: The Fafnir Knight",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Etrian Odyssey IV: Legends of the Titan": {
   "candidates": 1,
-  "checked": "2026-10-08T02:58:39+00:00",
+  "checked": "2026-10-08T02:56:54+00:00",
   "conf": "high",
   "id": 6767,
   "score": 1.133,
@@ -276,7 +287,7 @@
  },
  "3DS:manual:Kid Icarus: Uprising": {
   "candidates": null,
-  "checked": "2026-10-08T02:58:37+00:00",
+  "checked": "2026-10-08T02:56:53+00:00",
   "conf": "manual",
   "id": 3665,
   "score": null,
@@ -318,6 +329,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Mario & Luigi: Superstar Saga + Bowser's Minions": {
+  "candidates": null,
+  "checked": "2026-10-08T03:00:30+00:00",
+  "conf": "manual",
+  "id": 37151,
+  "score": null,
+  "slug": "mario-and-luigi-superstar-saga-plus-bowsers-minions",
+  "title": "Mario & Luigi: Superstar Saga + Bowser's Minions",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Mario Kart 7": {
   "candidates": null,
   "checked": "2026-10-08T02:55:39+00:00",
@@ -342,7 +364,7 @@
  },
  "3DS:manual:Pocket Card Jockey": {
   "candidates": null,
-  "checked": "2026-10-08T02:58:38+00:00",
+  "checked": "2026-10-08T03:00:28+00:00",
   "conf": "manual",
   "id": 18196,
   "score": null,
@@ -353,7 +375,7 @@
  },
  "3DS:manual:Pokémon Omega Ruby": {
   "candidates": null,
-  "checked": "2026-10-08T02:58:37+00:00",
+  "checked": "2026-10-08T02:56:53+00:00",
   "conf": "manual",
   "id": 6897,
   "score": null,
@@ -384,9 +406,20 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Resident Evil: Revelations": {
+  "candidates": null,
+  "checked": "2026-10-08T03:00:29+00:00",
+  "conf": "manual",
+  "id": 978,
+  "score": null,
+  "slug": "resident-evil-revelations",
+  "title": "Resident Evil: Revelations",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Rhythm Heaven Megamix": {
   "candidates": null,
-  "checked": "2026-10-08T02:58:38+00:00",
+  "checked": "2026-10-08T03:00:28+00:00",
   "conf": "manual",
   "id": 18220,
   "score": null,
@@ -395,9 +428,20 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Shantae and the Pirate's Curse": {
+  "candidates": null,
+  "checked": "2026-10-08T03:00:29+00:00",
+  "conf": "manual",
+  "id": 8430,
+  "score": null,
+  "slug": "shantae-and-the-pirates-curse",
+  "title": "Shantae and the Pirate's Curse",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Shin Megami Tensei IV": {
   "candidates": null,
-  "checked": "2026-10-08T02:58:37+00:00",
+  "checked": "2026-10-08T03:00:27+00:00",
   "conf": "manual",
   "id": 6886,
   "score": null,
@@ -417,6 +461,17 @@
   "v": 4,
   "via": "search"
  },
+ "3DS:manual:SteamWorld Dig": {
+  "candidates": null,
+  "checked": "2026-10-08T03:00:30+00:00",
+  "conf": "manual",
+  "id": 5772,
+  "score": null,
+  "slug": "steamworld-dig",
+  "title": "SteamWorld Dig",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:SteamWorld Heist": {
   "candidates": null,
   "checked": "2026-10-08T02:55:39+00:00",
@@ -430,7 +485,7 @@
  },
  "3DS:manual:Stretchmo": {
   "candidates": null,
-  "checked": "2026-10-08T02:58:38+00:00",
+  "checked": "2026-10-08T03:00:27+00:00",
   "conf": "manual",
   "id": 19984,
   "score": null,
