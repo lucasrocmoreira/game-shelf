@@ -1015,6 +1015,13 @@
    "platform": "PSP",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Rock Band Unplugged",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "rock-band-unplugged"
   }
  ],
  "match": {
