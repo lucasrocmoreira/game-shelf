@@ -1363,9 +1363,20 @@
   "v": 4,
   "via": "search"
  },
+ "PS Vita:manual:Axiom Verge": {
+  "candidates": null,
+  "checked": "2026-10-08T03:45:51+00:00",
+  "conf": "manual",
+  "id": 8652,
+  "score": null,
+  "slug": "axiom-verge",
+  "title": "Axiom Verge",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Child of Light": {
   "candidates": null,
-  "checked": "2026-10-08T03:40:19+00:00",
+  "checked": "2026-10-08T03:38:27+00:00",
   "conf": "manual",
   "id": 4756,
   "score": null,
@@ -1387,7 +1398,7 @@
  },
  "PS Vita:manual:Danganronpa 2: Goodbye Despair": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:56+00:00",
+  "checked": "2026-10-08T03:42:06+00:00",
   "conf": "manual",
   "id": 9694,
   "score": null,
@@ -1398,7 +1409,7 @@
  },
  "PS Vita:manual:Danganronpa V3: Killing Harmony": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:56+00:00",
+  "checked": "2026-10-08T03:45:49+00:00",
   "conf": "manual",
   "id": 12579,
   "score": null,
@@ -1409,7 +1420,7 @@
  },
  "PS Vita:manual:Danganronpa: Trigger Happy Havoc": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:57+00:00",
+  "checked": "2026-10-08T03:45:49+00:00",
   "conf": "manual",
   "id": 7842,
   "score": null,
@@ -1420,7 +1431,7 @@
  },
  "PS Vita:manual:Day of the Tentacle Remastered": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:55+00:00",
+  "checked": "2026-10-08T03:42:06+00:00",
   "conf": "manual",
   "id": 15862,
   "score": null,
@@ -1431,7 +1442,7 @@
  },
  "PS Vita:manual:Final Fantasy X/X-2 HD Remaster": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:48+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 14144,
   "score": null,
@@ -1442,7 +1453,7 @@
  },
  "PS Vita:manual:Gravity Rush": {
   "candidates": null,
-  "checked": "2026-10-08T03:40:19+00:00",
+  "checked": "2026-10-08T03:38:27+00:00",
   "conf": "manual",
   "id": 11701,
   "score": null,
@@ -1453,7 +1464,7 @@
  },
  "PS Vita:manual:Grim Fandango Remastered": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:49+00:00",
+  "checked": "2026-10-08T03:38:27+00:00",
   "conf": "manual",
   "id": 8682,
   "score": null,
@@ -1475,7 +1486,7 @@
  },
  "PS Vita:manual:Hotline Miami": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:48+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 1384,
   "score": null,
@@ -1486,7 +1497,7 @@
  },
  "PS Vita:manual:Killzone: Mercenary": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:58+00:00",
+  "checked": "2026-10-08T03:45:50+00:00",
   "conf": "manual",
   "id": 1869,
   "score": null,
@@ -1508,7 +1519,7 @@
  },
  "PS Vita:manual:Metal Gear Solid HD Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:56+00:00",
+  "checked": "2026-10-08T03:42:06+00:00",
   "conf": "manual",
   "id": 20741,
   "score": null,
@@ -1519,7 +1530,7 @@
  },
  "PS Vita:manual:Mortal Kombat": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:48+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 119,
   "score": null,
@@ -1530,7 +1541,7 @@
  },
  "PS Vita:manual:Need for Speed: Most Wanted": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:57+00:00",
+  "checked": "2026-10-08T03:45:50+00:00",
   "conf": "manual",
   "id": 3193,
   "score": null,
@@ -1541,7 +1552,7 @@
  },
  "PS Vita:manual:Oddworld: New 'n' Tasty!": {
   "candidates": null,
-  "checked": "2026-10-08T03:40:20+00:00",
+  "checked": "2026-10-08T03:38:28+00:00",
   "conf": "manual",
   "id": 5552,
   "score": null,
@@ -1552,7 +1563,7 @@
  },
  "PS Vita:manual:Oddworld: Stranger's Wrath HD": {
   "candidates": null,
-  "checked": "2026-10-08T03:40:20+00:00",
+  "checked": "2026-10-08T03:42:05+00:00",
   "conf": "manual",
   "id": 21070,
   "score": null,
@@ -1574,7 +1585,7 @@
  },
  "PS Vita:manual:OlliOlli": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:58+00:00",
+  "checked": "2026-10-08T03:45:50+00:00",
   "conf": "manual",
   "id": 7768,
   "score": null,
@@ -1585,7 +1596,7 @@
  },
  "PS Vita:manual:OlliOlli2": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:49+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 9523,
   "score": null,
@@ -1605,6 +1616,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Ratchet & Clank Collection": {
+  "candidates": null,
+  "checked": "2026-10-08T03:45:51+00:00",
+  "conf": "manual",
+  "id": 19994,
+  "score": null,
+  "slug": "ratchet-and-clank-collection",
+  "title": "Ratchet & Clank Collection",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Rayman Origins": {
   "candidates": null,
   "checked": "2026-10-08T03:35:09+00:00",
@@ -1618,7 +1640,7 @@
  },
  "PS Vita:manual:Severed": {
   "candidates": null,
-  "checked": "2026-10-08T03:40:20+00:00",
+  "checked": "2026-10-08T03:42:05+00:00",
   "conf": "manual",
   "id": 6066,
   "score": null,
@@ -1629,7 +1651,7 @@
  },
  "PS Vita:manual:Shantae: Half-Genie Hero": {
   "candidates": null,
-  "checked": "2026-10-08T03:40:21+00:00",
+  "checked": "2026-10-08T03:42:05+00:00",
   "conf": "manual",
   "id": 11078,
   "score": null,
@@ -1651,7 +1673,7 @@
  },
  "PS Vita:manual:Uncharted: Golden Abyss": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:56+00:00",
+  "checked": "2026-10-08T03:42:07+00:00",
   "conf": "manual",
   "id": 998,
   "score": null,
@@ -1662,7 +1684,7 @@
  },
  "PS Vita:manual:Wipeout 2048": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:57+00:00",
+  "checked": "2026-10-08T03:45:49+00:00",
   "conf": "manual",
   "id": 1545,
   "score": null,
@@ -1673,7 +1695,7 @@
  },
  "PS Vita:manual:bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien": {
   "candidates": null,
-  "checked": "2026-10-08T03:40:20+00:00",
+  "checked": "2026-10-08T03:38:28+00:00",
   "conf": "manual",
   "id": 5592,
   "score": null,
@@ -1682,9 +1704,42 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:legend of heroes: trails of cold steel": {
+  "candidates": 25,
+  "checked": "2026-10-08T03:45:53+00:00",
+  "conf": "high",
+  "id": 13557,
+  "score": 1.138,
+  "slug": null,
+  "title": "legend of heroes: trails of cold steel",
+  "v": 4,
+  "via": "search"
+ },
+ "PS Vita:manual:muramasa rebirth": {
+  "candidates": 8,
+  "checked": "2026-10-08T03:45:52+00:00",
+  "conf": "high",
+  "id": 20008,
+  "score": 1.133,
+  "slug": null,
+  "title": "muramasa rebirth",
+  "v": 4,
+  "via": "search"
+ },
+ "PS Vita:manual:plants-vs-zombies": {
+  "candidates": null,
+  "checked": "2026-10-08T03:45:51+00:00",
+  "conf": "manual",
+  "id": 1277,
+  "score": null,
+  "slug": "plants-vs-zombies",
+  "title": "plants-vs-zombies",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:sly cooper collection": {
   "candidates": 1,
-  "checked": "2026-10-08T03:43:59+00:00",
+  "checked": "2026-10-08T03:42:11+00:00",
   "conf": "high",
   "id": 7458,
   "score": 1.137,
@@ -1704,9 +1759,20 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:tales of hearts R": {
+  "candidates": 4,
+  "checked": "2026-10-08T03:45:54+00:00",
+  "conf": "high",
+  "id": 19797,
+  "score": 1.133,
+  "slug": null,
+  "title": "tales of hearts R",
+  "v": 4,
+  "via": "search"
+ },
  "PS Vita:manual:walking dead: a telltale game series - the complete first season": {
   "candidates": 24,
-  "checked": "2026-10-08T03:40:23+00:00",
+  "checked": "2026-10-08T03:42:09+00:00",
   "conf": "medium",
   "id": 1871,
   "score": 1.01,
@@ -1717,7 +1783,7 @@
  },
  "PS Vita:manual:xcom: enemy unkown plus": {
   "candidates": 24,
-  "checked": "2026-10-08T03:40:24+00:00",
+  "checked": "2026-10-08T03:42:10+00:00",
   "conf": "high",
   "id": 95365,
   "score": 0.958,
@@ -1728,7 +1794,7 @@
  },
  "PS Vita:manual:ys-memories-of-celceta": {
   "candidates": null,
-  "checked": "2026-10-08T03:43:55+00:00",
+  "checked": "2026-10-08T03:42:06+00:00",
   "conf": "manual",
   "id": 15457,
   "score": null,

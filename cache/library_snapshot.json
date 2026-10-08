@@ -2079,6 +2079,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Killzone: Mercenary",
    "title": "Killzone: Mercenary"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:muramasa rebirth",
+   "title": "muramasa rebirth"
+  },
+  {
+   "format": "digital",
+   "igdb": "axiom-verge",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Axiom Verge",
+   "title": "Axiom Verge"
+  },
+  {
+   "format": "digital",
+   "igdb": "plants-vs-zombies",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:plants-vs-zombies",
+   "title": "plants-vs-zombies"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:legend of heroes: trails of cold steel",
+   "title": "legend of heroes: trails of cold steel"
+  },
+  {
+   "format": "digital",
+   "igdb": "ratchet-and-clank-collection",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ratchet & Clank Collection",
+   "title": "Ratchet & Clank Collection"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:tales of hearts R",
+   "title": "tales of hearts R"
   }
  ],
  "nintendo_eshop": [

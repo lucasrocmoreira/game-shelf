@@ -500,7 +500,7 @@
  "igdb:11078": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-08T03:40:45+00:00",
+  "checked": "2026-10-08T03:42:22+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "shantae-half-genie-hero"
@@ -897,7 +897,7 @@
  "igdb:11701": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-08T03:40:29+00:00",
+  "checked": "2026-10-08T03:38:47+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "gravity-rush"
@@ -969,7 +969,7 @@
  "igdb:119": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:36:58+00:00",
+  "checked": "2026-10-08T03:38:37+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -1349,7 +1349,7 @@
  "igdb:12579": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:19+00:00",
+  "checked": "2026-10-08T03:46:00+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "danganronpa-v3-killing-harmony"
@@ -1437,6 +1437,14 @@
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "godfall"
+ },
+ "igdb:1277": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:46:22+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "plants-vs-zombies"
  },
  "igdb:127842": {
   "backloggd": 3.3,
@@ -1829,6 +1837,14 @@
   "metacritic": 70,
   "metacritic_slug": "worms-rumble"
  },
+ "igdb:13557": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:46:24+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:135915": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -1941,7 +1957,7 @@
  "igdb:1384": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:37:01+00:00",
+  "checked": "2026-10-08T03:38:40+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "hotline-miami"
@@ -2077,7 +2093,7 @@
  "igdb:14144": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:36:56+00:00",
+  "checked": "2026-10-08T03:38:35+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "final-fantasy-x-x-2-hd-remaster"
@@ -2661,7 +2677,7 @@
  "igdb:1545": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:24+00:00",
+  "checked": "2026-10-08T03:46:05+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "wipeout-2048"
@@ -2677,7 +2693,7 @@
  "igdb:15457": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:05+00:00",
+  "checked": "2026-10-08T03:42:27+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "ys-memories-of-celceta"
@@ -2741,7 +2757,7 @@
  "igdb:15862": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:03+00:00",
+  "checked": "2026-10-08T03:42:24+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "day-of-the-tentacle-remastered"
@@ -3202,7 +3218,7 @@
  "igdb:1869": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:33+00:00",
+  "checked": "2026-10-08T03:46:13+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "killzone-mercenary"
@@ -3697,6 +3713,14 @@
   "metacritic": 79,
   "metacritic_slug": null
  },
+ "igdb:19797": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:46:29+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "tales-of-hearts-r"
+ },
  "igdb:19839": {
   "backloggd": 4.3,
   "bl_v": 2,
@@ -3755,6 +3779,14 @@
   "metacritic": 83,
   "metacritic_slug": "stretchmo"
  },
+ "igdb:19994": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:46:26+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "ratchet-and-clank-collection"
+ },
  "igdb:20": {
   "backloggd": 4.1,
   "bl_v": 2,
@@ -3769,6 +3801,14 @@
   ],
   "steam_pct": 94,
   "steam_reviews": 32249
+ },
+ "igdb:20008": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:46:16+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:2003": {
   "backloggd": 3.6,
@@ -4056,7 +4096,7 @@
  "igdb:20741": {
   "backloggd": 4.5,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:08+00:00",
+  "checked": "2026-10-08T03:42:30+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "metal-gear-solid-hd-collection"
@@ -4130,7 +4170,7 @@
  "igdb:21070": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-08T03:40:37+00:00",
+  "checked": "2026-10-08T03:42:15+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -5811,7 +5851,7 @@
  "igdb:3193": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:27+00:00",
+  "checked": "2026-10-08T03:46:09+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "need-for-speed-most-wanted"
@@ -6804,7 +6844,7 @@
  "igdb:5552": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:40:35+00:00",
+  "checked": "2026-10-08T03:38:54+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "oddworld-new-n-tasty"
@@ -6832,7 +6872,7 @@
  "igdb:5592": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:40:32+00:00",
+  "checked": "2026-10-08T03:38:50+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -6902,7 +6942,7 @@
  "igdb:6066": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-08T03:40:40+00:00",
+  "checked": "2026-10-08T03:42:17+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "severed"
@@ -7220,7 +7260,7 @@
  "igdb:7458": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:15+00:00",
+  "checked": "2026-10-08T03:42:39+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "the-sly-collection"
@@ -7383,7 +7423,7 @@
  "igdb:7768": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:30+00:00",
+  "checked": "2026-10-08T03:46:11+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "olliolli"
@@ -7407,7 +7447,7 @@
  "igdb:7842": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:22+00:00",
+  "checked": "2026-10-08T03:46:03+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -7715,6 +7755,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:8652": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:46:18+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "axiom-verge"
+ },
  "igdb:866": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -7746,7 +7794,7 @@
  "igdb:8682": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:37:06+00:00",
+  "checked": "2026-10-08T03:38:45+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "grim-fandango-remastered"
@@ -7950,7 +7998,7 @@
  "igdb:9523": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-08T03:37:03+00:00",
+  "checked": "2026-10-08T03:38:42+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "olliolli2-welcome-to-olliwood"
@@ -7958,7 +8006,7 @@
  "igdb:95365": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:40:42+00:00",
+  "checked": "2026-10-08T03:42:19+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -7995,7 +8043,7 @@
  "igdb:9694": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:11+00:00",
+  "checked": "2026-10-08T03:42:32+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -8119,7 +8167,7 @@
  "igdb:998": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:44:13+00:00",
+  "checked": "2026-10-08T03:42:35+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "uncharted-golden-abyss"
