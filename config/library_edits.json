@@ -810,6 +810,13 @@
    "platform": "3DS",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Rayman 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "rayman-3d"
   }
  ],
  "match": {
