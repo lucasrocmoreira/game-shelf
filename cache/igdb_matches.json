@@ -331,7 +331,7 @@
  },
  "3DS:manual:Dillon's Rolling Western: The Last Ranger": {
   "candidates": null,
-  "checked": "2026-10-08T03:09:53+00:00",
+  "checked": "2026-10-08T03:11:31+00:00",
   "conf": "manual",
   "id": 24294,
   "score": null,
@@ -397,7 +397,7 @@
  },
  "3DS:manual:Fantasy Life": {
   "candidates": null,
-  "checked": "2026-10-08T03:09:52+00:00",
+  "checked": "2026-10-08T03:11:30+00:00",
   "conf": "manual",
   "id": 6770,
   "score": null,
@@ -419,7 +419,7 @@
  },
  "3DS:manual:HarmoKnight": {
   "candidates": null,
-  "checked": "2026-10-08T03:09:53+00:00",
+  "checked": "2026-10-08T03:11:31+00:00",
   "conf": "manual",
   "id": 18156,
   "score": null,
@@ -485,7 +485,7 @@
  },
  "3DS:manual:Liberation Maiden": {
   "candidates": null,
-  "checked": "2026-10-08T03:09:53+00:00",
+  "checked": "2026-10-08T03:11:31+00:00",
   "conf": "manual",
   "id": 21007,
   "score": null,
@@ -560,6 +560,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Michael Jackson: The Experience": {
+  "candidates": null,
+  "checked": "2026-10-08T03:11:32+00:00",
+  "conf": "manual",
+  "id": 5006,
+  "score": null,
+  "slug": "michael-jackson-the-experience",
+  "title": "Michael Jackson: The Experience",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Mighty Switch Force!": {
   "candidates": null,
   "checked": "2026-10-08T03:06:35+00:00",
@@ -573,7 +584,7 @@
  },
  "3DS:manual:Mighty Switch Force! 2": {
   "candidates": null,
-  "checked": "2026-10-08T03:09:52+00:00",
+  "checked": "2026-10-08T03:11:30+00:00",
   "conf": "manual",
   "id": 20081,
   "score": null,
@@ -692,9 +703,20 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Rayman 3D": {
+  "candidates": null,
+  "checked": "2026-10-08T03:11:32+00:00",
+  "conf": "manual",
+  "id": 20585,
+  "score": null,
+  "slug": "rayman-3d",
+  "title": "Rayman 3D",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Rayman Origins": {
   "candidates": null,
-  "checked": "2026-10-08T03:09:53+00:00",
+  "checked": "2026-10-08T03:11:31+00:00",
   "conf": "manual",
   "id": 981,
   "score": null,
@@ -837,7 +859,7 @@
  },
  "3DS:manual:Yo-kai Watch 2": {
   "candidates": null,
-  "checked": "2026-10-08T03:09:52+00:00",
+  "checked": "2026-10-08T03:11:30+00:00",
   "conf": "manual",
   "id": null,
   "score": null,
@@ -857,6 +879,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:delusions of von sottendorff and his squared mind": {
+  "candidates": 1,
+  "checked": "2026-10-08T03:11:33+00:00",
+  "conf": "high",
+  "id": 63520,
+  "score": 1.125,
+  "slug": null,
+  "title": "delusions of von sottendorff and his squared mind",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:dragon-quest-vii-fragments-of-the-forgotten-past": {
   "candidates": null,
   "checked": "2026-10-08T03:04:40+00:00",
@@ -867,6 +900,28 @@
   "title": "dragon-quest-vii-fragments-of-the-forgotten-past",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:ironfall invasion": {
+  "candidates": 2,
+  "checked": "2026-10-08T03:11:35+00:00",
+  "conf": "high",
+  "id": 8610,
+  "score": 1.128,
+  "slug": null,
+  "title": "ironfall invasion",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:starship damrey": {
+  "candidates": 1,
+  "checked": "2026-10-08T03:11:34+00:00",
+  "conf": "high",
+  "id": 20853,
+  "score": 1.125,
+  "slug": null,
+  "title": "starship damrey",
+  "v": 4,
+  "via": "search"
  },
  "DS:manual:Advance Wars: Days of Ruin": {
   "candidates": null,

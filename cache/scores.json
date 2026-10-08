@@ -2846,7 +2846,7 @@
  "igdb:18156": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:10:07+00:00",
+  "checked": "2026-10-08T03:11:43+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "harmoknight"
@@ -3716,6 +3716,14 @@
   "opencritic_pct": 61,
   "opencritic_tier": "Strong"
  },
+ "igdb:20585": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:11:57+00:00",
+  "mc_v": 2,
+  "metacritic": 61,
+  "metacritic_slug": "rayman-3d"
+ },
  "igdb:20601": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -3797,6 +3805,14 @@
   "metacritic": 76,
   "metacritic_slug": "crimson-shroud"
  },
+ "igdb:20853": {
+  "backloggd": 2.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:12:01+00:00",
+  "mc_v": 2,
+  "metacritic": 58,
+  "metacritic_slug": "the-starship-damrey"
+ },
  "igdb:20863": {
   "backloggd": 4.2,
   "bl_v": 2,
@@ -3821,7 +3837,7 @@
  "igdb:21007": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:10:15+00:00",
+  "checked": "2026-10-08T03:11:48+00:00",
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "liberation-maiden"
@@ -4348,7 +4364,7 @@
  "igdb:24294": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:10:17+00:00",
+  "checked": "2026-10-08T03:11:51+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "dillons-rolling-western-the-last-ranger"
@@ -6022,6 +6038,14 @@
   "opencritic_pct": 49,
   "opencritic_tier": "Fair"
  },
+ "igdb:5006": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:11:58+00:00",
+  "mc_v": 2,
+  "metacritic": 56,
+  "metacritic_slug": "michael-jackson-the-experience"
+ },
  "igdb:5082": {
   "backloggd": 3.6,
   "bl_v": 2,
@@ -6324,6 +6348,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:63520": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:11:53+00:00",
+  "mc_v": 2,
+  "metacritic": 64,
+  "metacritic_slug": "the-delusions-of-von-sottendorff-and-his-squared-mind"
+ },
  "igdb:65": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -6386,7 +6418,7 @@
  "igdb:6770": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:10:04+00:00",
+  "checked": "2026-10-08T03:11:42+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -7036,6 +7068,14 @@
   "metacritic": 89,
   "metacritic_slug": "the-legend-of-zelda-majoras-mask-3d"
  },
+ "igdb:8610": {
+  "backloggd": 2.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:12:13+00:00",
+  "mc_v": 2,
+  "metacritic": 48,
+  "metacritic_slug": "ironfall-invasion"
+ },
  "igdb:86389": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -7345,7 +7385,7 @@
  "igdb:981": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:10:12+00:00",
+  "checked": "2026-10-08T03:11:46+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "rayman-origins"
@@ -9156,7 +9196,7 @@
  },
  "t:yo kai watch 2": {
   "bl_v": 2,
-  "checked": "2026-10-08T03:09:58+00:00",
+  "checked": "2026-10-08T03:11:38+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null

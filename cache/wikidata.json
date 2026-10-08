@@ -582,7 +582,7 @@
   "opencritic_id": 5346
  },
  "dillons-rolling-western-the-last-ranger": {
-  "checked": "2026-10-08T03:09:56+00:00"
+  "checked": "2026-10-08T03:11:36+00:00"
  },
  "dino-crisis--2": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -784,7 +784,7 @@
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "fantasy-life": {
-  "checked": "2026-10-08T03:09:56+00:00"
+  "checked": "2026-10-08T03:11:36+00:00"
  },
  "far-cry-3": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -998,7 +998,7 @@
   "opencritic_id": 838
  },
  "harmoknight": {
-  "checked": "2026-10-08T03:09:56+00:00"
+  "checked": "2026-10-08T03:11:36+00:00"
  },
  "harvest-moon-ds": {
   "checked": "2026-10-07T21:36:14+00:00"
@@ -1107,6 +1107,10 @@
  "invisible-inc": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 1253
+ },
+ "ironfall-invasion": {
+  "checked": "2026-10-08T03:11:36+00:00",
+  "opencritic_id": 17854
  },
  "it-takes-two": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1227,7 +1231,7 @@
   "opencritic_id": 9901
  },
  "liberation-maiden": {
-  "checked": "2026-10-08T03:09:56+00:00"
+  "checked": "2026-10-08T03:11:36+00:00"
  },
  "lies-of-p": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1372,6 +1376,9 @@
  "metroid-samus-returns": {
   "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 4498
+ },
+ "michael-jackson-the-experience": {
+  "checked": "2026-10-08T03:11:36+00:00"
  },
  "middle-earth-shadow-of-mordor": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1736,12 +1743,15 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10994
  },
+ "rayman-3d": {
+  "checked": "2026-10-08T03:11:36+00:00"
+ },
  "rayman-legends": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 288
  },
  "rayman-origins": {
-  "checked": "2026-10-08T03:09:56+00:00"
+  "checked": "2026-10-08T03:11:36+00:00"
  },
  "red-dead-redemption--1": {
   "checked": "2026-10-07T05:58:30+00:00"
@@ -2151,6 +2161,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 14446
  },
+ "the-delusions-of-von-sottendorff-and-his-squared-mind": {
+  "checked": "2026-10-08T03:11:36+00:00"
+ },
  "the-elder-scrolls-online": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 2212
@@ -2259,6 +2272,9 @@
  "the-stanley-parable-ultra-deluxe": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13083
+ },
+ "the-starship-damrey": {
+  "checked": "2026-10-08T03:11:36+00:00"
  },
  "the-texas-chain-saw-massacre": {
   "checked": "2026-10-07T01:52:04+00:00",

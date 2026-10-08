@@ -1129,6 +1129,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Dillon's Rolling Western: The Last Ranger",
    "title": "Dillon's Rolling Western: The Last Ranger"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:delusions of von sottendorff and his squared mind",
+   "title": "delusions of von sottendorff and his squared mind"
+  },
+  {
+   "format": "digital",
+   "igdb": "rayman-3d",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rayman 3D",
+   "title": "Rayman 3D"
+  },
+  {
+   "format": "digital",
+   "igdb": "michael-jackson-the-experience",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Michael Jackson: The Experience",
+   "title": "Michael Jackson: The Experience"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:starship damrey",
+   "title": "starship damrey"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:ironfall invasion",
+   "title": "ironfall invasion"
   }
  ],
  "nintendo_eshop": [
