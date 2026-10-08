@@ -1909,6 +1909,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Oddworld: New 'n' Tasty!",
    "title": "Oddworld: New 'n' Tasty!"
+  },
+  {
+   "format": "digital",
+   "igdb": "oddworld-strangers-wrath-hd",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Oddworld: Stranger's Wrath HD",
+   "title": "Oddworld: Stranger's Wrath HD"
+  },
+  {
+   "format": "digital",
+   "igdb": "severed",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Severed",
+   "title": "Severed"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:walking dead: a telltale game series - the complete first season",
+   "title": "walking dead: a telltale game series - the complete first season"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:xcom: enemy unkown plus",
+   "title": "xcom: enemy unkown plus"
+  },
+  {
+   "format": "digital",
+   "igdb": "shantae-half-genie-hero",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Shantae: Half-Genie Hero",
+   "title": "Shantae: Half-Genie Hero"
   }
  ],
  "nintendo_eshop": [

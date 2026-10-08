@@ -274,7 +274,7 @@
   "opencritic_id": 2975
  },
  "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:40:26+00:00",
   "opencritic_id": 16402
  },
  "black-desert": {
@@ -853,7 +853,7 @@
   "opencritic_id": 8586
  },
  "final-fantasy-x-slash-x-2-hd-remaster": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:36:51+00:00",
   "opencritic_id": 21
  },
  "final-fantasy-xv": {
@@ -1002,7 +1002,7 @@
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "gravity-rush": {
-  "checked": "2026-10-08T03:38:30+00:00"
+  "checked": "2026-10-08T03:40:26+00:00"
  },
  "greedfall": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1017,7 +1017,7 @@
   "opencritic_id": 12803
  },
  "grim-fandango-remastered": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:36:51+00:00",
   "opencritic_id": 124
  },
  "gris": {
@@ -1124,7 +1124,7 @@
   "opencritic_id": 15394
  },
  "hotline-miami": {
-  "checked": "2026-10-08T03:38:30+00:00"
+  "checked": "2026-10-08T03:36:51+00:00"
  },
  "humanity": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1535,7 +1535,7 @@
   "opencritic_id": 9508
  },
  "mortal-kombat": {
-  "checked": "2026-10-08T03:38:30+00:00"
+  "checked": "2026-10-08T03:36:51+00:00"
  },
  "mortal-kombat-1--1": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1660,12 +1660,15 @@
   "opencritic_id": 5704
  },
  "oddworld-new-n-tasty": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:40:26+00:00",
   "opencritic_id": 235
  },
  "oddworld-soulstorm": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11152
+ },
+ "oddworld-strangers-wrath-hd": {
+  "checked": "2026-10-08T03:40:26+00:00"
  },
  "odin-sphere-leifthrasir": {
   "checked": "2026-10-08T03:35:12+00:00",
@@ -1679,7 +1682,7 @@
   "opencritic_id": 12617
  },
  "olliolli2-welcome-to-olliwood": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:36:51+00:00",
   "opencritic_id": 94
  },
  "operation-tango": {
@@ -2030,6 +2033,10 @@
  "scribblenauts-collection": {
   "checked": "2026-10-07T21:24:23+00:00"
  },
+ "severed": {
+  "checked": "2026-10-08T03:40:26+00:00",
+  "opencritic_id": 2585
+ },
  "shadow-of-the-colossus--1": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 5118
@@ -2045,6 +2052,10 @@
  "shantae-and-the-pirates-curse": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 2440
+ },
+ "shantae-half-genie-hero": {
+  "checked": "2026-10-08T03:40:26+00:00",
+  "opencritic_id": 3126
  },
  "shenmue": {
   "checked": "2026-10-07T01:52:04+00:00"
@@ -2754,6 +2765,10 @@
  },
  "xcom-enemy-unknown": {
   "checked": "2026-10-07T01:08:00+00:00"
+ },
+ "xcom-enemy-unknown-plus": {
+  "checked": "2026-10-08T03:40:26+00:00",
+  "opencritic_id": 2527
  },
  "yakuza-0": {
   "checked": "2026-10-07T01:52:01+00:00",

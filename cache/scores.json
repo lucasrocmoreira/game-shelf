@@ -497,6 +497,14 @@
   "opencritic_pct": 92,
   "opencritic_tier": "Mighty"
  },
+ "igdb:11078": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:40:45+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "shantae-half-genie-hero"
+ },
  "igdb:110851": {
   "backloggd": 2.0,
   "bl_v": 2,
@@ -889,7 +897,7 @@
  "igdb:11701": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:47+00:00",
+  "checked": "2026-10-08T03:40:29+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "gravity-rush"
@@ -961,7 +969,7 @@
  "igdb:119": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:37+00:00",
+  "checked": "2026-10-08T03:36:58+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -1925,7 +1933,7 @@
  "igdb:1384": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:40+00:00",
+  "checked": "2026-10-08T03:37:01+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "hotline-miami"
@@ -2061,7 +2069,7 @@
  "igdb:14144": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:35+00:00",
+  "checked": "2026-10-08T03:36:56+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "final-fantasy-x-x-2-hd-remaster"
@@ -4070,6 +4078,14 @@
   "opencritic_id": 4793,
   "opencritic_pct": 13,
   "opencritic_tier": "Weak"
+ },
+ "igdb:21070": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:40:37+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:210710": {
   "backloggd": 3.2,
@@ -6732,7 +6748,7 @@
  "igdb:5552": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:54+00:00",
+  "checked": "2026-10-08T03:40:35+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "oddworld-new-n-tasty"
@@ -6760,7 +6776,7 @@
  "igdb:5592": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:50+00:00",
+  "checked": "2026-10-08T03:40:32+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -6826,6 +6842,14 @@
   ],
   "steam_pct": 91,
   "steam_reviews": 5793
+ },
+ "igdb:6066": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:40:40+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "severed"
  },
  "igdb:6292": {
   "backloggd": 2.4,
@@ -7642,7 +7666,7 @@
  "igdb:8682": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:45+00:00",
+  "checked": "2026-10-08T03:37:06+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "grim-fandango-remastered"
@@ -7846,10 +7870,18 @@
  "igdb:9523": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-08T03:38:42+00:00",
+  "checked": "2026-10-08T03:37:03+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "olliolli2-welcome-to-olliwood"
+ },
+ "igdb:95365": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:40:42+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:9597": {
   "backloggd": 4.1,

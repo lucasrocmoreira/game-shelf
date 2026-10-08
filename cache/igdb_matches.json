@@ -1365,7 +1365,7 @@
  },
  "PS Vita:manual:Child of Light": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:27+00:00",
+  "checked": "2026-10-08T03:40:19+00:00",
   "conf": "manual",
   "id": 4756,
   "score": null,
@@ -1387,7 +1387,7 @@
  },
  "PS Vita:manual:Final Fantasy X/X-2 HD Remaster": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:26+00:00",
+  "checked": "2026-10-08T03:36:48+00:00",
   "conf": "manual",
   "id": 14144,
   "score": null,
@@ -1398,7 +1398,7 @@
  },
  "PS Vita:manual:Gravity Rush": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:27+00:00",
+  "checked": "2026-10-08T03:40:19+00:00",
   "conf": "manual",
   "id": 11701,
   "score": null,
@@ -1409,7 +1409,7 @@
  },
  "PS Vita:manual:Grim Fandango Remastered": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:27+00:00",
+  "checked": "2026-10-08T03:36:49+00:00",
   "conf": "manual",
   "id": 8682,
   "score": null,
@@ -1431,7 +1431,7 @@
  },
  "PS Vita:manual:Hotline Miami": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:26+00:00",
+  "checked": "2026-10-08T03:36:48+00:00",
   "conf": "manual",
   "id": 1384,
   "score": null,
@@ -1453,7 +1453,7 @@
  },
  "PS Vita:manual:Mortal Kombat": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:26+00:00",
+  "checked": "2026-10-08T03:36:48+00:00",
   "conf": "manual",
   "id": 119,
   "score": null,
@@ -1464,12 +1464,23 @@
  },
  "PS Vita:manual:Oddworld: New 'n' Tasty!": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:28+00:00",
+  "checked": "2026-10-08T03:40:20+00:00",
   "conf": "manual",
   "id": 5552,
   "score": null,
   "slug": "oddworld-new-n-tasty",
   "title": "Oddworld: New 'n' Tasty!",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Oddworld: Stranger's Wrath HD": {
+  "candidates": null,
+  "checked": "2026-10-08T03:40:20+00:00",
+  "conf": "manual",
+  "id": 21070,
+  "score": null,
+  "slug": "oddworld-strangers-wrath-hd",
+  "title": "Oddworld: Stranger's Wrath HD",
   "v": 4,
   "via": "fix"
  },
@@ -1486,7 +1497,7 @@
  },
  "PS Vita:manual:OlliOlli2": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:26+00:00",
+  "checked": "2026-10-08T03:36:49+00:00",
   "conf": "manual",
   "id": 9523,
   "score": null,
@@ -1517,6 +1528,28 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Severed": {
+  "candidates": null,
+  "checked": "2026-10-08T03:40:20+00:00",
+  "conf": "manual",
+  "id": 6066,
+  "score": null,
+  "slug": "severed",
+  "title": "Severed",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Shantae: Half-Genie Hero": {
+  "candidates": null,
+  "checked": "2026-10-08T03:40:21+00:00",
+  "conf": "manual",
+  "id": 11078,
+  "score": null,
+  "slug": "shantae-half-genie-hero",
+  "title": "Shantae: Half-Genie Hero",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Tearaway": {
   "candidates": null,
   "checked": "2026-10-08T03:35:09+00:00",
@@ -1530,7 +1563,7 @@
  },
  "PS Vita:manual:bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien": {
   "candidates": null,
-  "checked": "2026-10-08T03:38:28+00:00",
+  "checked": "2026-10-08T03:40:20+00:00",
   "conf": "manual",
   "id": 5592,
   "score": null,
@@ -1549,6 +1582,28 @@
   "title": "spelunky",
   "v": 4,
   "via": "fix"
+ },
+ "PS Vita:manual:walking dead: a telltale game series - the complete first season": {
+  "candidates": 24,
+  "checked": "2026-10-08T03:40:23+00:00",
+  "conf": "medium",
+  "id": 1871,
+  "score": 1.01,
+  "slug": null,
+  "title": "walking dead: a telltale game series - the complete first season",
+  "v": 4,
+  "via": "search"
+ },
+ "PS Vita:manual:xcom: enemy unkown plus": {
+  "candidates": 24,
+  "checked": "2026-10-08T03:40:24+00:00",
+  "conf": "high",
+  "id": 95365,
+  "score": 0.958,
+  "slug": null,
+  "title": "xcom: enemy unkown plus",
+  "v": 4,
+  "via": "search"
  },
  "PS4:CUSA00068_00": {
   "candidates": 10,
