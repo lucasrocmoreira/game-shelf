@@ -8271,6 +8271,28 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Jeanne d'Arc": {
+  "candidates": null,
+  "checked": "2026-10-08T03:17:48+00:00",
+  "conf": "manual",
+  "id": 11326,
+  "score": null,
+  "slug": "jeanne-darc",
+  "title": "Jeanne d'Arc",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Metal Gear Solid: Peace Walker": {
+  "candidates": null,
+  "checked": "2026-10-08T03:17:47+00:00",
+  "conf": "manual",
+  "id": 382,
+  "score": null,
+  "slug": "metal-gear-solid-peace-walker",
+  "title": "Metal Gear Solid: Peace Walker",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Persona 3 Portable": {
   "candidates": null,
   "checked": "2026-10-08T03:15:46+00:00",
@@ -8282,6 +8304,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Ridge Racer": {
+  "candidates": 23,
+  "checked": "2026-10-08T03:17:48+00:00",
+  "conf": "high",
+  "id": 18787,
+  "score": 1.13,
+  "slug": null,
+  "title": "Ridge Racer",
+  "v": 4,
+  "via": "search"
+ },
  "PSP:manual:grand-theft-auto-chinatown-wars": {
   "candidates": null,
   "checked": "2026-10-08T03:15:46+00:00",
@@ -8292,6 +8325,28 @@
   "title": "grand-theft-auto-chinatown-wars",
   "v": 4,
   "via": "fix"
+ },
+ "PSP:manual:grand-theft-auto-liberty-city-stories": {
+  "candidates": null,
+  "checked": "2026-10-08T03:17:47+00:00",
+  "conf": "manual",
+  "id": 3263,
+  "score": null,
+  "slug": "grand-theft-auto-liberty-city-stories",
+  "title": "grand-theft-auto-liberty-city-stories",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:tactics ogre: let us cling together": {
+  "candidates": 3,
+  "checked": "2026-10-08T03:17:49+00:00",
+  "conf": "high",
+  "id": 132992,
+  "score": 1.131,
+  "slug": null,
+  "title": "tactics ogre: let us cling together",
+  "v": 4,
+  "via": "search"
  },
  "PlayStation:CUSA00001_00": {
   "candidates": 22,

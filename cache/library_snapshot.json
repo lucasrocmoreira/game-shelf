@@ -1209,6 +1209,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Persona 3 Portable",
    "title": "Persona 3 Portable"
+  },
+  {
+   "format": "digital",
+   "igdb": "metal-gear-solid-peace-walker",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metal Gear Solid: Peace Walker",
+   "title": "Metal Gear Solid: Peace Walker"
+  },
+  {
+   "format": "digital",
+   "igdb": "grand-theft-auto-liberty-city-stories",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:grand-theft-auto-liberty-city-stories",
+   "title": "grand-theft-auto-liberty-city-stories"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ridge Racer",
+   "title": "Ridge Racer"
+  },
+  {
+   "format": "digital",
+   "igdb": "jeanne-darc",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Jeanne d'Arc",
+   "title": "Jeanne d'Arc"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:tactics ogre: let us cling together",
+   "title": "tactics ogre: let us cling together"
   }
  ],
  "nintendo_eshop": [

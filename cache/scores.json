@@ -653,6 +653,14 @@
   "metacritic": 90,
   "metacritic_slug": "the-stanley-parable-ultra-deluxe"
  },
+ "igdb:11326": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:18:03+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "jeanne-darc"
+ },
  "igdb:113598": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -1445,6 +1453,14 @@
   "mc_v": 2,
   "metacritic": 60,
   "metacritic_slug": "wwe-2k-battlegrounds"
+ },
+ "igdb:132992": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:18:09+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "tactics-ogre-let-us-cling-together"
  },
  "igdb:133004": {
   "backloggd": 2.8,
@@ -3035,6 +3051,14 @@
   "opencritic_id": 8525,
   "opencritic_pct": 66,
   "opencritic_tier": "Strong"
+ },
+ "igdb:18787": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:17:59+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "ridge-racer"
  },
  "igdb:18822": {
   "backloggd": 4.0,
@@ -5430,6 +5454,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:3263": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:17:57+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "grand-theft-auto-liberty-city-stories"
+ },
  "igdb:3270": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -5814,6 +5846,14 @@
   ],
   "steam_pct": 94,
   "steam_reviews": 30130
+ },
+ "igdb:382": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:17:54+00:00",
+  "mc_v": 2,
+  "metacritic": 89,
+  "metacritic_slug": "metal-gear-solid-peace-walker"
  },
  "igdb:4": {
   "backloggd": 2.5,
