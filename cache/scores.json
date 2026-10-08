@@ -31,7 +31,7 @@
  "igdb:1011": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:58+00:00",
+  "checked": "2026-10-08T03:51:27+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "borderlands-2"
@@ -432,7 +432,7 @@
  "igdb:10949": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:53:17+00:00",
+  "checked": "2026-10-08T03:51:46+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -2765,7 +2765,7 @@
  "igdb:15705": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-08T03:53:10+00:00",
+  "checked": "2026-10-08T03:51:36+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "digimon-story-cyber-sleuth"
@@ -2871,7 +2871,7 @@
  "igdb:167039": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:50:03+00:00",
+  "checked": "2026-10-08T03:51:32+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "velocity-2x-critical-mass-edition"
@@ -3078,7 +3078,7 @@
  "igdb:1801": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:39+00:00",
+  "checked": "2026-10-08T03:47:55+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "sly-cooper-thieves-in-time"
@@ -3605,7 +3605,7 @@
  "igdb:19475": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:53:07+00:00",
+  "checked": "2026-10-08T03:54:39+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -3798,7 +3798,7 @@
  "igdb:19907": {
   "backloggd": 2.6,
   "bl_v": 2,
-  "checked": "2026-10-08T03:50:00+00:00",
+  "checked": "2026-10-08T03:51:30+00:00",
   "mc_v": 2,
   "metacritic": 60,
   "metacritic_slug": "resistance-burning-skies"
@@ -3915,10 +3915,18 @@
  "igdb:20113": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:53+00:00",
+  "checked": "2026-10-08T03:48:10+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "jak-and-daxter-collection"
+ },
+ "igdb:20152": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:54:44+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:202539": {
   "backloggd": 3.5,
@@ -4079,7 +4087,7 @@
  "igdb:20579": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:41+00:00",
+  "checked": "2026-10-08T03:47:57+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "god-of-war-origins-collection"
@@ -4294,7 +4302,7 @@
  "igdb:2126": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:55+00:00",
+  "checked": "2026-10-08T03:51:25+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "hotline-miami-2-wrong-number"
@@ -4334,7 +4342,7 @@
  "igdb:21569": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:45+00:00",
+  "checked": "2026-10-08T03:48:02+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "ninja-gaiden-sigma-plus"
@@ -4366,7 +4374,7 @@
  "igdb:21662": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:53:15+00:00",
+  "checked": "2026-10-08T03:51:43+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "dont-starve-giant-edition"
@@ -5410,7 +5418,7 @@
  "igdb:27304": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:53:20+00:00",
+  "checked": "2026-10-08T03:51:48+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "ys-viii-lacrimosa-of-dana"
@@ -5703,7 +5711,7 @@
  "igdb:2935": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:53:12+00:00",
+  "checked": "2026-10-08T03:51:42+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "papers-please"
@@ -6741,7 +6749,7 @@
  "igdb:51329": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:48+00:00",
+  "checked": "2026-10-08T03:48:04+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -7062,7 +7070,7 @@
  "igdb:6060": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:44+00:00",
+  "checked": "2026-10-08T03:48:00+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "freedom-wars"
@@ -8179,7 +8187,7 @@
  "igdb:9708": {
   "backloggd": 2.6,
   "bl_v": 2,
-  "checked": "2026-10-08T03:49:50+00:00",
+  "checked": "2026-10-08T03:48:07+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "danganronpa-another-episode-ultra-despair-girls"
@@ -8506,7 +8514,7 @@
  },
  "t:bit trip limited edition": {
   "bl_v": 2,
-  "checked": "2026-10-08T03:50:04+00:00",
+  "checked": "2026-10-08T03:51:33+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null

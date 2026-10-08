@@ -302,7 +302,7 @@
   "opencritic_id": 15377
  },
  "borderlands-2": {
-  "checked": "2026-10-08T03:49:35+00:00",
+  "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 9755
  },
  "borderlands-3": {
@@ -401,7 +401,7 @@
   "opencritic_id": 15580
  },
  "code-realize-guardian-of-rebirth": {
-  "checked": "2026-10-08T03:53:06+00:00",
+  "checked": "2026-10-08T03:54:37+00:00",
   "opencritic_id": 9010
  },
  "code-vein": {
@@ -492,7 +492,7 @@
   "opencritic_id": 2606
  },
  "danganronpa-another-episode-ultra-despair-girls": {
-  "checked": "2026-10-08T03:49:35+00:00",
+  "checked": "2026-10-08T03:47:52+00:00",
   "opencritic_id": 2426
  },
  "danganronpa-trigger-happy-havoc": {
@@ -628,7 +628,7 @@
   "opencritic_id": 14353
  },
  "digimon-story-cyber-sleuth": {
-  "checked": "2026-10-08T03:53:06+00:00",
+  "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 2237
  },
  "digimon-story-cyber-sleuth-hackers-memory": {
@@ -682,7 +682,7 @@
   "checked": "2026-10-08T02:58:42+00:00"
  },
  "dont-starve-giant-edition": {
-  "checked": "2026-10-08T03:53:06+00:00",
+  "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 1456
  },
  "doom-eternal": {
@@ -949,7 +949,7 @@
   "opencritic_id": 11828
  },
  "freedom-wars": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:47:52+00:00"
  },
  "friday-the-13th-the-game": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1006,7 +1006,7 @@
   "checked": "2026-10-08T03:19:30+00:00"
  },
  "god-of-war-origins-collection": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:47:52+00:00"
  },
  "god-of-war-ragnarok": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1172,7 +1172,7 @@
   "checked": "2026-10-08T03:38:30+00:00"
  },
  "hotline-miami-2-wrong-number": {
-  "checked": "2026-10-08T03:49:35+00:00",
+  "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 87
  },
  "humanity": {
@@ -1230,7 +1230,7 @@
   "opencritic_id": 10974
  },
  "jak-and-daxter-collection": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:47:52+00:00"
  },
  "jak-and-daxter-the-lost-frontier": {
   "checked": "2026-10-08T03:28:11+00:00"
@@ -1704,7 +1704,7 @@
   "opencritic_id": 16798
  },
  "ninja-gaiden-sigma-plus": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:47:52+00:00"
  },
  "nioh": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -1727,7 +1727,7 @@
   "opencritic_id": 5704
  },
  "oddworld-munchs-oddysee-hd": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:47:52+00:00"
  },
  "oddworld-new-n-tasty": {
   "checked": "2026-10-08T03:38:30+00:00",
@@ -1794,7 +1794,7 @@
   "opencritic_id": 13448
  },
  "papers-please": {
-  "checked": "2026-10-08T03:53:06+00:00",
+  "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 17092
  },
  "patapon": {
@@ -2050,7 +2050,7 @@
   "opencritic_id": 10995
  },
  "resistance-burning-skies": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:51:23+00:00"
  },
  "return-to-monkey-island": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2200,7 +2200,7 @@
   "opencritic_id": 13750
  },
  "sly-cooper-thieves-in-time": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:47:52+00:00"
  },
  "sniper-elite-5": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2438,6 +2438,9 @@
  },
  "the-7th-guest-vr": {
   "checked": "2026-10-07T01:52:06+00:00"
+ },
+ "the-bit-dot-trip": {
+  "checked": "2026-10-08T03:54:37+00:00"
  },
  "the-callisto-protocol": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2775,7 +2778,7 @@
   "opencritic_id": 6160
  },
  "velocity-2x-critical-mass-edition": {
-  "checked": "2026-10-08T03:49:35+00:00"
+  "checked": "2026-10-08T03:51:23+00:00"
  },
  "viewfinder": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -2915,7 +2918,7 @@
   "opencritic_id": 6407
  },
  "ys-origin": {
-  "checked": "2026-10-08T03:53:06+00:00",
+  "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 3978
  },
  "ys-seven": {
@@ -2926,7 +2929,7 @@
   "checked": "2026-10-08T03:21:16+00:00"
  },
  "ys-viii-lacrimosa-of-dana": {
-  "checked": "2026-10-08T03:53:06+00:00",
+  "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 4757
  },
  "zero-escape-virtue-s-last-reward": {

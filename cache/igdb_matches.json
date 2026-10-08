@@ -1376,7 +1376,7 @@
  },
  "PS Vita:manual:Borderlands 2": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:30+00:00",
+  "checked": "2026-10-08T03:51:17+00:00",
   "conf": "manual",
   "id": 1011,
   "score": null,
@@ -1398,7 +1398,7 @@
  },
  "PS Vita:manual:Code: Realize − Guardian of Rebirth": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:00+00:00",
+  "checked": "2026-10-08T03:54:34+00:00",
   "conf": "manual",
   "id": 19475,
   "score": null,
@@ -1420,7 +1420,7 @@
  },
  "PS Vita:manual:Danganronpa Another Episode: Ultra Despair Girls": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 9708,
   "score": null,
@@ -1464,7 +1464,7 @@
  },
  "PS Vita:manual:Digimon Story: Cyber Sleuth": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:01+00:00",
+  "checked": "2026-10-08T03:51:18+00:00",
   "conf": "manual",
   "id": 15705,
   "score": null,
@@ -1475,7 +1475,7 @@
  },
  "PS Vita:manual:Don't Starve: Giant Edition": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:01+00:00",
+  "checked": "2026-10-08T03:51:19+00:00",
   "conf": "manual",
   "id": 21662,
   "score": null,
@@ -1497,7 +1497,7 @@
  },
  "PS Vita:manual:Freedom Wars": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 6060,
   "score": null,
@@ -1508,7 +1508,7 @@
  },
  "PS Vita:manual:God of War Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:28+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 20579,
   "score": null,
@@ -1563,7 +1563,7 @@
  },
  "PS Vita:manual:Hotline Miami 2: Wrong Number": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:30+00:00",
+  "checked": "2026-10-08T03:51:17+00:00",
   "conf": "manual",
   "id": 2126,
   "score": null,
@@ -1574,7 +1574,7 @@
  },
  "PS Vita:manual:Injustice: Gods Among Us Ultimate Edition": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:02+00:00",
+  "checked": "2026-10-08T03:51:19+00:00",
   "conf": "manual",
   "id": 23354,
   "score": null,
@@ -1585,7 +1585,7 @@
  },
  "PS Vita:manual:Jak and Daxter Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:49+00:00",
   "conf": "manual",
   "id": 20113,
   "score": null,
@@ -1651,7 +1651,7 @@
  },
  "PS Vita:manual:Ninja Gaiden Sigma Plus": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 21569,
   "score": null,
@@ -1662,7 +1662,7 @@
  },
  "PS Vita:manual:Oddworld: Munch's Oddysee hd": {
   "candidates": 1,
-  "checked": "2026-10-08T03:49:31+00:00",
+  "checked": "2026-10-08T03:47:50+00:00",
   "conf": "high",
   "id": 51329,
   "score": 1.125,
@@ -1728,7 +1728,7 @@
  },
  "PS Vita:manual:Papers, Please": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:01+00:00",
+  "checked": "2026-10-08T03:51:18+00:00",
   "conf": "manual",
   "id": 2935,
   "score": null,
@@ -1772,7 +1772,7 @@
  },
  "PS Vita:manual:Resistance: Burning Skies": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:30+00:00",
+  "checked": "2026-10-08T03:51:18+00:00",
   "conf": "manual",
   "id": 19907,
   "score": null,
@@ -1805,7 +1805,7 @@
  },
  "PS Vita:manual:Sly Cooper: Thieves in Time": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:28+00:00",
+  "checked": "2026-10-08T03:47:47+00:00",
   "conf": "manual",
   "id": 1801,
   "score": null,
@@ -1816,7 +1816,7 @@
  },
  "PS Vita:manual:Stardew Valley": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:00+00:00",
+  "checked": "2026-10-08T03:51:18+00:00",
   "conf": "manual",
   "id": 17000,
   "score": null,
@@ -1866,6 +1866,17 @@
   "score": null,
   "slug": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
   "title": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:bit.trip limited edition": {
+  "candidates": null,
+  "checked": "2026-10-08T03:54:34+00:00",
+  "conf": "manual",
+  "id": 20152,
+  "score": null,
+  "slug": "the-bit-dot-trip",
+  "title": "bit.trip limited edition",
   "v": 4,
   "via": "fix"
  },
@@ -1937,7 +1948,7 @@
  },
  "PS Vita:manual:velocity 2x: critical mass edition": {
   "candidates": 1,
-  "checked": "2026-10-08T03:49:32+00:00",
+  "checked": "2026-10-08T03:51:20+00:00",
   "conf": "high",
   "id": 167039,
   "score": 1.02,
@@ -1981,7 +1992,7 @@
  },
  "PS Vita:manual:ys-origin": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:02+00:00",
+  "checked": "2026-10-08T03:51:19+00:00",
   "conf": "manual",
   "id": 10949,
   "score": null,
@@ -1992,7 +2003,7 @@
  },
  "PS Vita:manual:ys-viii-lacrimosa-of-dana": {
   "candidates": null,
-  "checked": "2026-10-08T03:53:02+00:00",
+  "checked": "2026-10-08T03:51:20+00:00",
   "conf": "manual",
   "id": 27304,
   "score": null,
