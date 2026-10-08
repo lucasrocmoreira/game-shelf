@@ -3043,6 +3043,14 @@
   "steam_pct": 89,
   "steam_reviews": 15915
  },
+ "igdb:1801": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:47:55+00:00",
+  "mc_v": 2,
+  "metacritic": 75,
+  "metacritic_slug": "sly-cooper-thieves-in-time"
+ },
  "igdb:180298": {
   "backloggd": 3.0,
   "bl_v": 2,
@@ -3856,6 +3864,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:20113": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:48:10+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "jak-and-daxter-collection"
+ },
  "igdb:202539": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -4011,6 +4027,14 @@
   "opencritic_id": 13725,
   "opencritic_pct": 61,
   "opencritic_tier": "Strong"
+ },
+ "igdb:20579": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:47:57+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "god-of-war-origins-collection"
  },
  "igdb:20585": {
   "backloggd": 3.1,
@@ -4250,6 +4274,14 @@
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "assassins-creed-mirage"
+ },
+ "igdb:21569": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:48:02+00:00",
+  "mc_v": 2,
+  "metacritic": 72,
+  "metacritic_slug": "ninja-gaiden-sigma-plus"
  },
  "igdb:21593": {
   "backloggd": 2.9,
@@ -6626,6 +6658,14 @@
   "steam_pct": 92,
   "steam_reviews": 11917
  },
+ "igdb:51329": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:48:04+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:517": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -6938,6 +6978,14 @@
   ],
   "steam_pct": 91,
   "steam_reviews": 5793
+ },
+ "igdb:6060": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:48:00+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "freedom-wars"
  },
  "igdb:6066": {
   "backloggd": 3.6,
@@ -8047,6 +8095,14 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
+ },
+ "igdb:9708": {
+  "backloggd": 2.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:48:07+00:00",
+  "mc_v": 2,
+  "metacritic": 72,
+  "metacritic_slug": "danganronpa-another-episode-ultra-despair-girls"
  },
  "igdb:9727": {
   "backloggd": 4.1,

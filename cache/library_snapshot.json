@@ -2139,6 +2139,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:tales of hearts R",
    "title": "tales of hearts R"
+  },
+  {
+   "format": "digital",
+   "igdb": "sly-cooper-thieves-in-time",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Sly Cooper: Thieves in Time",
+   "title": "Sly Cooper: Thieves in Time"
+  },
+  {
+   "format": "digital",
+   "igdb": "god-of-war-origins-collection",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:God of War Collection",
+   "title": "God of War Collection"
+  },
+  {
+   "format": "digital",
+   "igdb": "freedom-wars",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Freedom Wars",
+   "title": "Freedom Wars"
+  },
+  {
+   "format": "digital",
+   "igdb": "ninja-gaiden-sigma-plus",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ninja Gaiden Sigma Plus",
+   "title": "Ninja Gaiden Sigma Plus"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Oddworld: Munch's Oddysee hd",
+   "title": "Oddworld: Munch's Oddysee hd"
+  },
+  {
+   "format": "digital",
+   "igdb": "danganronpa-another-episode-ultra-despair-girls",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Danganronpa Another Episode: Ultra Despair Girls",
+   "title": "Danganronpa Another Episode: Ultra Despair Girls"
+  },
+  {
+   "format": "digital",
+   "igdb": "jak-and-daxter-collection",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Jak and Daxter Collection",
+   "title": "Jak and Daxter Collection"
   }
  ],
  "nintendo_eshop": [

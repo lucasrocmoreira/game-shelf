@@ -1407,6 +1407,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Danganronpa Another Episode: Ultra Despair Girls": {
+  "candidates": null,
+  "checked": "2026-10-08T03:47:48+00:00",
+  "conf": "manual",
+  "id": 9708,
+  "score": null,
+  "slug": "danganronpa-another-episode-ultra-despair-girls",
+  "title": "Danganronpa Another Episode: Ultra Despair Girls",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Danganronpa V3: Killing Harmony": {
   "candidates": null,
   "checked": "2026-10-08T03:45:49+00:00",
@@ -1451,6 +1462,28 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Freedom Wars": {
+  "candidates": null,
+  "checked": "2026-10-08T03:47:48+00:00",
+  "conf": "manual",
+  "id": 6060,
+  "score": null,
+  "slug": "freedom-wars",
+  "title": "Freedom Wars",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:God of War Collection": {
+  "candidates": null,
+  "checked": "2026-10-08T03:47:48+00:00",
+  "conf": "manual",
+  "id": 20579,
+  "score": null,
+  "slug": "god-of-war-origins-collection",
+  "title": "God of War Collection",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Gravity Rush": {
   "candidates": null,
   "checked": "2026-10-08T03:38:27+00:00",
@@ -1492,6 +1525,17 @@
   "score": null,
   "slug": "hotline-miami",
   "title": "Hotline Miami",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Jak and Daxter Collection": {
+  "candidates": null,
+  "checked": "2026-10-08T03:47:49+00:00",
+  "conf": "manual",
+  "id": 20113,
+  "score": null,
+  "slug": "jak-and-daxter-collection",
+  "title": "Jak and Daxter Collection",
   "v": 4,
   "via": "fix"
  },
@@ -1549,6 +1593,28 @@
   "title": "Need for Speed: Most Wanted",
   "v": 4,
   "via": "fix"
+ },
+ "PS Vita:manual:Ninja Gaiden Sigma Plus": {
+  "candidates": null,
+  "checked": "2026-10-08T03:47:48+00:00",
+  "conf": "manual",
+  "id": 21569,
+  "score": null,
+  "slug": "ninja-gaiden-sigma-plus",
+  "title": "Ninja Gaiden Sigma Plus",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Oddworld: Munch's Oddysee hd": {
+  "candidates": 1,
+  "checked": "2026-10-08T03:47:50+00:00",
+  "conf": "high",
+  "id": 51329,
+  "score": 1.125,
+  "slug": null,
+  "title": "Oddworld: Munch's Oddysee hd",
+  "v": 4,
+  "via": "search"
  },
  "PS Vita:manual:Oddworld: New 'n' Tasty!": {
   "candidates": null,
@@ -1657,6 +1723,17 @@
   "score": null,
   "slug": "shantae-half-genie-hero",
   "title": "Shantae: Half-Genie Hero",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Sly Cooper: Thieves in Time": {
+  "candidates": null,
+  "checked": "2026-10-08T03:47:47+00:00",
+  "conf": "manual",
+  "id": 1801,
+  "score": null,
+  "slug": "sly-cooper-thieves-in-time",
+  "title": "Sly Cooper: Thieves in Time",
   "v": 4,
   "via": "fix"
  },
