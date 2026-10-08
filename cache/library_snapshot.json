@@ -849,6 +849,86 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Phoenix Wright: Ace Attorney – Spirit of Justice",
    "title": "Phoenix Wright: Ace Attorney – Spirit of Justice"
+  },
+  {
+   "format": "digital",
+   "igdb": "dragon-quest-vii-fragments-of-the-forgotten-past",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:dragon-quest-vii-fragments-of-the-forgotten-past",
+   "title": "dragon-quest-vii-fragments-of-the-forgotten-past"
+  },
+  {
+   "format": "digital",
+   "igdb": "star-fox-64-3d",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Star Fox 64 3D",
+   "title": "Star Fox 64 3D"
+  },
+  {
+   "format": "digital",
+   "igdb": "kirby-triple-deluxe",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby: Triple Deluxe",
+   "title": "Kirby: Triple Deluxe"
+  },
+  {
+   "format": "digital",
+   "igdb": "boxboxboy",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:BoxBoxBoy!",
+   "title": "BoxBoxBoy!"
+  },
+  {
+   "format": "digital",
+   "igdb": "boxboy",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:BoxBoy!",
+   "title": "BoxBoy!"
+  },
+  {
+   "format": "digital",
+   "igdb": "professor-layton-vs-phoenix-wright-ace-attorney",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Professor Layton vs. Ace Attorney",
+   "title": "Professor Layton vs. Ace Attorney"
+  },
+  {
+   "format": "digital",
+   "igdb": "monster-hunter-3-ultimate",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Monster Hunter 3 Ultimate",
+   "title": "Monster Hunter 3 Ultimate"
+  },
+  {
+   "format": "digital",
+   "igdb": "monster-hunter-stories",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Monster Hunter Stories",
+   "title": "Monster Hunter Stories"
   }
  ],
  "nintendo_eshop": [

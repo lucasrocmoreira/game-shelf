@@ -294,6 +294,14 @@
  "borderlands-game-of-the-year-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
+ "boxboxboy": {
+  "checked": "2026-10-08T03:04:44+00:00",
+  "opencritic_id": 2944
+ },
+ "boxboy": {
+  "checked": "2026-10-08T03:04:44+00:00",
+  "opencritic_id": 2276
+ },
  "bramble-the-mountain-king": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 14848
@@ -627,6 +635,10 @@
  },
  "dragon-quest-vi-realms-of-revelation": {
   "checked": "2026-10-07T21:36:14+00:00"
+ },
+ "dragon-quest-vii-fragments-of-the-forgotten-past": {
+  "checked": "2026-10-08T03:04:44+00:00",
+  "opencritic_id": 3271
  },
  "dragon-quest-viii-journey-of-the-cursed-king--1": {
   "checked": "2026-10-08T02:55:43+00:00",
@@ -1145,6 +1157,10 @@
  "kirby-super-star-ultra": {
   "checked": "2026-10-07T21:32:53+00:00"
  },
+ "kirby-triple-deluxe": {
+  "checked": "2026-10-08T03:04:44+00:00",
+  "opencritic_id": 2359
+ },
  "knack": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 301
@@ -1348,9 +1364,16 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 1752
  },
+ "monster-hunter-3-ultimate": {
+  "checked": "2026-10-08T03:04:44+00:00"
+ },
  "monster-hunter-rise": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 10841
+ },
+ "monster-hunter-stories": {
+  "checked": "2026-10-08T03:04:44+00:00",
+  "opencritic_id": 4774
  },
  "monster-hunter-world": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1634,6 +1657,10 @@
  "professor-layton-and-the-unwound-future": {
   "checked": "2026-10-07T21:25:44+00:00"
  },
+ "professor-layton-vs-phoenix-wright-ace-attorney": {
+  "checked": "2026-10-08T03:04:44+00:00",
+  "opencritic_id": 2365
+ },
  "psychonauts": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 11382
@@ -1908,6 +1935,9 @@
  "spyro-reignited-trilogy": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 6016
+ },
+ "star-fox-64-3d": {
+  "checked": "2026-10-08T03:04:44+00:00"
  },
  "star-wars-battlefront--1": {
   "checked": "2026-10-07T01:52:01+00:00",

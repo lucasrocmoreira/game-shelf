@@ -1910,6 +1910,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:1402": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:05:03+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:140839": {
   "backloggd": 4.6,
   "bl_v": 2,
@@ -2505,6 +2513,14 @@
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "nickelodeon-all-star-brawl"
+ },
+ "igdb:15654": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:05:00+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "boxboy"
  },
  "igdb:158983": {
   "backloggd": 3.8,
@@ -3344,6 +3360,14 @@
   "opencritic_pct": 95,
   "opencritic_tier": "Mighty"
  },
+ "igdb:19598": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:04:54+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "boxboxboy"
+ },
  "igdb:1968": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -4009,6 +4033,14 @@
   "metacritic": 64,
   "metacritic_slug": "the-dark-pictures-switchback-vr"
  },
+ "igdb:2271": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:05:11+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:228531": {
   "backloggd": 2.6,
   "bl_v": 2,
@@ -4186,6 +4218,14 @@
   "backloggd": 4.1,
   "bl_v": 2,
   "checked": "2026-10-07T01:56:25+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
+ "igdb:23913": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:04:47+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -5999,6 +6039,14 @@
   "steam_pct": 93,
   "steam_reviews": 145874
  },
+ "igdb:5440": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:04:52+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "kirby-triple-deluxe"
+ },
  "igdb:54842": {
   "backloggd": 2.2,
   "bl_v": 2,
@@ -6262,6 +6310,14 @@
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "shin-megami-tensei-iv"
+ },
+ "igdb:6890": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:04:49+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "star-fox-64-3d"
  },
  "igdb:6897": {
   "backloggd": 3.9,
@@ -7104,6 +7160,14 @@
   "opencritic_id": 1508,
   "opencritic_pct": 88,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:9692": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:05:13+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:9727": {
   "backloggd": 4.1,

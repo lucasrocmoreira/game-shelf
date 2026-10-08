@@ -197,6 +197,28 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:BoxBoxBoy!": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:41+00:00",
+  "conf": "manual",
+  "id": 19598,
+  "score": null,
+  "slug": "boxboxboy",
+  "title": "BoxBoxBoy!",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:BoxBoy!": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:41+00:00",
+  "conf": "manual",
+  "id": 15654,
+  "score": null,
+  "slug": "boxboy",
+  "title": "BoxBoy!",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Bravely Default": {
   "candidates": null,
   "checked": "2026-10-08T02:55:40+00:00",
@@ -307,6 +329,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Kirby: Triple Deluxe": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:40+00:00",
+  "conf": "manual",
+  "id": 5440,
+  "score": null,
+  "slug": "kirby-triple-deluxe",
+  "title": "Kirby: Triple Deluxe",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Legend of Zelda: Majora's Mask 3D": {
   "candidates": 4,
   "checked": "2026-10-08T02:52:24+00:00",
@@ -373,6 +406,28 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Monster Hunter 3 Ultimate": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:42+00:00",
+  "conf": "manual",
+  "id": 2271,
+  "score": null,
+  "slug": "monster-hunter-3-ultimate",
+  "title": "Monster Hunter 3 Ultimate",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Monster Hunter Stories": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:42+00:00",
+  "conf": "manual",
+  "id": 9692,
+  "score": null,
+  "slug": "monster-hunter-stories",
+  "title": "Monster Hunter Stories",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Phoenix Wright: Ace Attorney Trilogy": {
   "candidates": null,
   "checked": "2026-10-08T03:02:22+00:00",
@@ -414,6 +469,17 @@
   "score": null,
   "slug": "pokemon-omega-ruby",
   "title": "Pokémon Omega Ruby",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Professor Layton vs. Ace Attorney": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:41+00:00",
+  "conf": "manual",
+  "id": 1402,
+  "score": null,
+  "slug": "professor-layton-vs-phoenix-wright-ace-attorney",
+  "title": "Professor Layton vs. Ace Attorney",
   "v": 4,
   "via": "fix"
  },
@@ -494,6 +560,17 @@
   "v": 4,
   "via": "search"
  },
+ "3DS:manual:Star Fox 64 3D": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:40+00:00",
+  "conf": "manual",
+  "id": 6890,
+  "score": null,
+  "slug": "star-fox-64-3d",
+  "title": "Star Fox 64 3D",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:SteamWorld Dig": {
   "candidates": null,
   "checked": "2026-10-08T03:02:20+00:00",
@@ -557,6 +634,17 @@
   "score": null,
   "slug": "zero-escape-virtue-s-last-reward",
   "title": "Zero Escape: Virtue's Last Reward",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:dragon-quest-vii-fragments-of-the-forgotten-past": {
+  "candidates": null,
+  "checked": "2026-10-08T03:04:40+00:00",
+  "conf": "manual",
+  "id": 23913,
+  "score": null,
+  "slug": "dragon-quest-vii-fragments-of-the-forgotten-past",
+  "title": "dragon-quest-vii-fragments-of-the-forgotten-past",
   "v": 4,
   "via": "fix"
  },
