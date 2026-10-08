@@ -809,6 +809,14 @@
   "metacritic": 77,
   "metacritic_slug": "sniper-elite-5"
  },
+ "igdb:11639": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:26:37+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "need-for-speed-carbon-own-the-city"
+ },
  "igdb:1164": {
   "backloggd": 3.7,
   "bl_v": 2,
@@ -3008,6 +3016,14 @@
   "metacritic": 67,
   "metacritic_slug": "oddworld-soulstorm"
  },
+ "igdb:18373": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:26:27+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "patapon-3"
+ },
  "igdb:18433": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -4241,6 +4257,14 @@
   "metacritic": 64,
   "metacritic_slug": "the-dark-pictures-switchback-vr"
  },
+ "igdb:22509": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:26:32+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "need-for-speed-underground-rivals"
+ },
  "igdb:2271": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -4504,6 +4528,22 @@
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "dillons-rolling-western-the-last-ranger"
+ },
+ "igdb:24299": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:26:21+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "star-ocean-first-departure"
+ },
+ "igdb:243129": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:26:25+00:00",
+  "mc_v": 2,
+  "metacritic": 70,
+  "metacritic_slug": "prince-of-persia-rival-swords"
  },
  "igdb:24470": {
   "backloggd": 4.1,
@@ -5057,6 +5097,14 @@
   "checked": "2026-10-06T22:05:40+00:00",
   "metacritic": 95,
   "metacritic_slug": "never-alone"
+ },
+ "igdb:2738": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:26:35+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "lego-batman-the-videogame"
  },
  "igdb:27421": {
   "backloggd": 3.7,
@@ -6084,6 +6132,14 @@
   ],
   "steam_pct": 58,
   "steam_reviews": 2514
+ },
+ "igdb:42887": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:26:30+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "harvest-moon-hero-of-leaf-valley"
  },
  "igdb:438": {
   "backloggd": 4.0,
