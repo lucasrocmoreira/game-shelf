@@ -175,9 +175,31 @@
   "v": 2,
   "via": "search"
  },
+ "3DS:manual:Fire Emblem Awakening": {
+  "candidates": null,
+  "checked": "2026-10-08T02:52:20+00:00",
+  "conf": "manual",
+  "id": 1443,
+  "score": null,
+  "slug": "fire-emblem-awakening",
+  "title": "Fire Emblem Awakening",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Legend of Zelda: Majora's Mask 3D": {
+  "candidates": 4,
+  "checked": "2026-10-08T02:52:24+00:00",
+  "conf": "high",
+  "id": 8593,
+  "score": 1.143,
+  "slug": null,
+  "title": "Legend of Zelda: Majora's Mask 3D",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Legend of Zelda: Ocarina of Time": {
   "candidates": 45,
-  "checked": "2026-10-08T02:48:31+00:00",
+  "checked": "2026-10-08T02:52:23+00:00",
   "conf": "medium",
   "id": 1039,
   "score": 1.047,
@@ -185,6 +207,61 @@
   "title": "Legend of Zelda: Ocarina of Time",
   "v": 4,
   "via": "search"
+ },
+ "3DS:manual:Pushmo": {
+  "candidates": null,
+  "checked": "2026-10-08T02:52:21+00:00",
+  "conf": "manual",
+  "id": 22921,
+  "score": null,
+  "slug": "pushmo",
+  "title": "Pushmo",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Shovel Knight": {
+  "candidates": 22,
+  "checked": "2026-10-08T02:52:24+00:00",
+  "conf": "high",
+  "id": 7444,
+  "score": 1.147,
+  "slug": null,
+  "title": "Shovel Knight",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Super Mario 3D Land": {
+  "candidates": null,
+  "checked": "2026-10-08T02:52:21+00:00",
+  "conf": "manual",
+  "id": 1079,
+  "score": null,
+  "slug": "super-mario-3d-land",
+  "title": "Super Mario 3D Land",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:The Legend of Zelda: A Link Between Worlds": {
+  "candidates": null,
+  "checked": "2026-10-08T02:52:20+00:00",
+  "conf": "manual",
+  "id": 2909,
+  "score": null,
+  "slug": "the-legend-of-zelda-a-link-between-worlds",
+  "title": "The Legend of Zelda: A Link Between Worlds",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Zero Escape: Virtue's Last Reward": {
+  "candidates": null,
+  "checked": "2026-10-08T02:52:21+00:00",
+  "conf": "manual",
+  "id": 6614,
+  "score": null,
+  "slug": "zero-escape-virtue-s-last-reward",
+  "title": "Zero Escape: Virtue's Last Reward",
+  "v": 4,
+  "via": "fix"
  },
  "DS:manual:Advance Wars: Days of Ruin": {
   "candidates": null,

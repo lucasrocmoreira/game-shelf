@@ -761,6 +761,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 1512
  },
+ "fire-emblem-awakening": {
+  "checked": "2026-10-08T02:52:26+00:00"
+ },
  "fire-emblem-fortunes-weave": {
   "checked": "2026-10-07T06:01:50+00:00",
   "opencritic_id": 20819
@@ -1734,6 +1737,10 @@
  "shenmue": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
+ "shovel-knight": {
+  "checked": "2026-10-08T02:52:26+00:00",
+  "opencritic_id": 33
+ },
  "sid-meier-s-civilization-v": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -2046,12 +2053,20 @@
  "the-legend-of-zelda": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
+ "the-legend-of-zelda-a-link-between-worlds": {
+  "checked": "2026-10-08T02:52:26+00:00",
+  "opencritic_id": 2405
+ },
  "the-legend-of-zelda-breath-of-the-wild": {
   "checked": "2026-10-07T05:58:30+00:00",
   "opencritic_id": 1548
  },
+ "the-legend-of-zelda-majoras-mask-3d": {
+  "checked": "2026-10-08T02:52:26+00:00",
+  "opencritic_id": 2284
+ },
  "the-legend-of-zelda-ocarina-of-time-3d": {
-  "checked": "2026-10-08T02:48:34+00:00",
+  "checked": "2026-10-08T02:52:26+00:00",
   "opencritic_id": 17714
  },
  "the-legend-of-zelda-phantom-hourglass": {
@@ -2381,6 +2396,9 @@
  },
  "yoshis-island-ds": {
   "checked": "2026-10-07T21:00:23+00:00"
+ },
+ "zero-escape-virtue-s-last-reward": {
+  "checked": "2026-10-08T02:52:26+00:00"
  },
  "zombie-army-4-dead-war": {
   "checked": "2026-10-07T01:52:02+00:00",

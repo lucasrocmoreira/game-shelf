@@ -509,6 +509,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Legend of Zelda: Ocarina of Time",
    "title": "Legend of Zelda: Ocarina of Time"
+  },
+  {
+   "format": "digital",
+   "igdb": "fire-emblem-awakening",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Fire Emblem Awakening",
+   "title": "Fire Emblem Awakening"
+  },
+  {
+   "format": "digital",
+   "igdb": "the-legend-of-zelda-a-link-between-worlds",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: A Link Between Worlds",
+   "title": "The Legend of Zelda: A Link Between Worlds"
+  },
+  {
+   "format": "digital",
+   "igdb": "super-mario-3d-land",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Mario 3D Land",
+   "title": "Super Mario 3D Land"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Shovel Knight",
+   "title": "Shovel Knight"
+  },
+  {
+   "format": "digital",
+   "igdb": "pushmo",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pushmo",
+   "title": "Pushmo"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Legend of Zelda: Majora's Mask 3D",
+   "title": "Legend of Zelda: Majora's Mask 3D"
+  },
+  {
+   "format": "digital",
+   "igdb": "zero-escape-virtue-s-last-reward",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Zero Escape: Virtue's Last Reward",
+   "title": "Zero Escape: Virtue's Last Reward"
   }
  ],
  "nintendo_eshop": [
@@ -816,7 +886,7 @@
    "title": "Marvel's Spider-Man"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2921/a213c057a3adc5c341911157e461954a97500126e4e2acef.png",
    "last_played": "2026-09-30",
    "platform": "PS5",
    "playtime_hours": 61.4,
