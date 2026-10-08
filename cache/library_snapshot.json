@@ -1959,6 +1959,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Shantae: Half-Genie Hero",
    "title": "Shantae: Half-Genie Hero"
+  },
+  {
+   "format": "digital",
+   "igdb": "day-of-the-tentacle-remastered",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Day of the Tentacle Remastered",
+   "title": "Day of the Tentacle Remastered"
+  },
+  {
+   "format": "digital",
+   "igdb": "ys-memories-of-celceta",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:ys-memories-of-celceta",
+   "title": "ys-memories-of-celceta"
+  },
+  {
+   "format": "digital",
+   "igdb": "metal-gear-solid-hd-collection",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metal Gear Solid HD Collection",
+   "title": "Metal Gear Solid HD Collection"
+  },
+  {
+   "format": "digital",
+   "igdb": "danganronpa-2-goodbye-despair",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Danganronpa 2: Goodbye Despair",
+   "title": "Danganronpa 2: Goodbye Despair"
+  },
+  {
+   "format": "digital",
+   "igdb": "uncharted-golden-abyss",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Uncharted: Golden Abyss",
+   "title": "Uncharted: Golden Abyss"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:sly cooper collection",
+   "title": "sly cooper collection"
   }
  ],
  "nintendo_eshop": [
