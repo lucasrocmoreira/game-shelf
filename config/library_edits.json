@@ -1196,6 +1196,13 @@
    "platform": "PSP",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Need for Speed: ProStreet",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "need-for-speed-prostreet"
   }
  ],
  "match": {
