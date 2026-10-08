@@ -397,6 +397,14 @@
   "metacritic": 92,
   "metacritic_slug": "kingdom-hearts-vr-experience"
  },
+ "igdb:10948": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:23:03+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "ys-seven"
+ },
  "igdb:109532": {
   "backloggd": 3.4,
   "bl_v": 2,
@@ -2610,6 +2618,14 @@
   "metacritic": 80,
   "metacritic_slug": "boxboy"
  },
+ "igdb:1568": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:22:58+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "soulcalibur-broken-destiny"
+ },
  "igdb:158983": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -4081,6 +4097,14 @@
   "metacritic": 81,
   "metacritic_slug": "suikoden-i-ii-hd-remaster-gate-rune-and-dunan-unification-wars"
  },
+ "igdb:21842": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:23:10+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "shin-megami-tensei-persona"
+ },
  "igdb:21843": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -4966,6 +4990,14 @@
   "opencritic_id": 9436,
   "opencritic_pct": 97,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:2721": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:23:08+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "rock-band-unplugged"
  },
  "igdb:27258": {
   "backloggd": 3.6,
@@ -5934,6 +5966,14 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "metal-gear-solid-peace-walker"
+ },
+ "igdb:391": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:23:00+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "dissidia-final-fantasy"
  },
  "igdb:4": {
   "backloggd": 2.5,
@@ -7351,6 +7391,14 @@
   "bl_v": 2,
   "checked": "2026-10-06T22:04:58+00:00",
   "metacritic": 91,
+  "metacritic_slug": null
+ },
+ "igdb:8986": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:23:05+00:00",
+  "mc_v": 2,
+  "metacritic": null,
   "metacritic_slug": null
  },
  "igdb:90109": {

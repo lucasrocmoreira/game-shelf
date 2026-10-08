@@ -614,6 +614,9 @@
  "dishonored-definitive-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
+ "dissidia-final-fantasy": {
+  "checked": "2026-10-08T03:22:55+00:00"
+ },
  "divinity-original-sin": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 525
@@ -1886,6 +1889,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 15763
  },
+ "rock-band-unplugged": {
+  "checked": "2026-10-08T03:22:55+00:00"
+ },
  "rocket-league": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1055
@@ -1948,6 +1954,9 @@
  },
  "shin-megami-tensei-iv": {
   "checked": "2026-10-08T02:58:42+00:00"
+ },
+ "shin-megami-tensei-persona": {
+  "checked": "2026-10-08T03:22:55+00:00"
  },
  "shovel-knight": {
   "checked": "2026-10-08T02:52:26+00:00",
@@ -2020,6 +2029,9 @@
  "sonic-forces": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4793
+ },
+ "soulcalibur-broken-destiny": {
+  "checked": "2026-10-08T03:22:55+00:00"
  },
  "south-park-the-fractured-but-whole": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2277,6 +2289,10 @@
  "the-last-of-us-remastered": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 234
+ },
+ "the-legend-of-heroes-trails-in-the-sky": {
+  "checked": "2026-10-08T03:22:55+00:00",
+  "opencritic_id": 522
  },
  "the-legend-of-zelda": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -2635,6 +2651,10 @@
  },
  "yoshis-island-ds": {
   "checked": "2026-10-07T21:00:23+00:00"
+ },
+ "ys-seven": {
+  "checked": "2026-10-08T03:22:55+00:00",
+  "opencritic_id": 4716
  },
  "ys-the-oath-in-felghana": {
   "checked": "2026-10-08T03:21:16+00:00"

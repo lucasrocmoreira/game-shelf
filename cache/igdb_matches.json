@@ -8293,6 +8293,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Dissidia Final Fantasy": {
+  "candidates": null,
+  "checked": "2026-10-08T03:22:52+00:00",
+  "conf": "manual",
+  "id": 391,
+  "score": null,
+  "slug": "dissidia-final-fantasy",
+  "title": "Dissidia Final Fantasy",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:God of War: Chains of Olympus": {
   "candidates": null,
   "checked": "2026-10-08T03:15:46+00:00",
@@ -8447,6 +8458,39 @@
   "v": 4,
   "via": "search"
  },
+ "PSP:manual:Rock Band Unplugged": {
+  "candidates": null,
+  "checked": "2026-10-08T03:22:52+00:00",
+  "conf": "manual",
+  "id": 2721,
+  "score": null,
+  "slug": "rock-band-unplugged",
+  "title": "Rock Band Unplugged",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Shin Megami Tensei: Persona": {
+  "candidates": null,
+  "checked": "2026-10-08T03:22:52+00:00",
+  "conf": "manual",
+  "id": 21842,
+  "score": null,
+  "slug": "shin-megami-tensei-persona",
+  "title": "Shin Megami Tensei: Persona",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Soulcalibur: Broken Destiny": {
+  "candidates": null,
+  "checked": "2026-10-08T03:22:52+00:00",
+  "conf": "manual",
+  "id": 1568,
+  "score": null,
+  "slug": "soulcalibur-broken-destiny",
+  "title": "Soulcalibur: Broken Destiny",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:grand-theft-auto-chinatown-wars": {
   "candidates": null,
   "checked": "2026-10-08T03:15:46+00:00",
@@ -8480,6 +8524,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:legend of heroes: trails in the sky": {
+  "candidates": 6,
+  "checked": "2026-10-08T03:22:53+00:00",
+  "conf": "high",
+  "id": 8986,
+  "score": 1.139,
+  "slug": null,
+  "title": "legend of heroes: trails in the sky",
+  "v": 4,
+  "via": "search"
+ },
  "PSP:manual:tactics ogre: let us cling together": {
   "candidates": 3,
   "checked": "2026-10-08T03:17:49+00:00",
@@ -8490,6 +8545,17 @@
   "title": "tactics ogre: let us cling together",
   "v": 4,
   "via": "search"
+ },
+ "PSP:manual:ys-seven": {
+  "candidates": null,
+  "checked": "2026-10-08T03:22:52+00:00",
+  "conf": "manual",
+  "id": 10948,
+  "score": null,
+  "slug": "ys-seven",
+  "title": "ys-seven",
+  "v": 4,
+  "via": "fix"
  },
  "PSP:manual:ys-the-oath-in-felghana": {
   "candidates": null,

@@ -1399,6 +1399,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:ys-the-oath-in-felghana",
    "title": "ys-the-oath-in-felghana"
+  },
+  {
+   "format": "digital",
+   "igdb": "soulcalibur-broken-destiny",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Soulcalibur: Broken Destiny",
+   "title": "Soulcalibur: Broken Destiny"
+  },
+  {
+   "format": "digital",
+   "igdb": "dissidia-final-fantasy",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dissidia Final Fantasy",
+   "title": "Dissidia Final Fantasy"
+  },
+  {
+   "format": "digital",
+   "igdb": "ys-seven",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:ys-seven",
+   "title": "ys-seven"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:legend of heroes: trails in the sky",
+   "title": "legend of heroes: trails in the sky"
+  },
+  {
+   "format": "digital",
+   "igdb": "rock-band-unplugged",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rock Band Unplugged",
+   "title": "Rock Band Unplugged"
+  },
+  {
+   "format": "digital",
+   "igdb": "shin-megami-tensei-persona",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Shin Megami Tensei: Persona",
+   "title": "Shin Megami Tensei: Persona"
   }
  ],
  "nintendo_eshop": [
