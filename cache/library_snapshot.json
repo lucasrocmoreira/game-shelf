@@ -579,6 +579,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Zero Escape: Virtue's Last Reward",
    "title": "Zero Escape: Virtue's Last Reward"
+  },
+  {
+   "format": "digital",
+   "igdb": "animal-crossing-new-leaf",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Animal Crossing: New Leaf",
+   "title": "Animal Crossing: New Leaf"
+  },
+  {
+   "format": "digital",
+   "igdb": "3d-sonic-the-hedgehog",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:3D Sonic the Hedgehog",
+   "title": "3D Sonic the Hedgehog"
+  },
+  {
+   "format": "digital",
+   "igdb": "luigi-s-mansion-dark-moon",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Luigi's Mansion: Dark Moon",
+   "title": "Luigi's Mansion: Dark Moon"
+  },
+  {
+   "format": "digital",
+   "igdb": "steamworld-heist",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:SteamWorld Heist",
+   "title": "SteamWorld Heist"
+  },
+  {
+   "format": "digital",
+   "igdb": "crashmo",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Crashmo",
+   "title": "Crashmo"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-kart-7",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Kart 7",
+   "title": "Mario Kart 7"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest VIII: Journey of the Cursed King",
+   "title": "Dragon Quest VIII: Journey of the Cursed King"
   }
  ],
  "nintendo_eshop": [

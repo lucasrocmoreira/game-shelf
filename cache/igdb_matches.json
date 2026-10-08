@@ -175,6 +175,50 @@
   "v": 2,
   "via": "search"
  },
+ "3DS:manual:3D Sonic the Hedgehog": {
+  "candidates": null,
+  "checked": "2026-10-08T02:54:27+00:00",
+  "conf": "manual",
+  "id": 84656,
+  "score": null,
+  "slug": "3d-sonic-the-hedgehog",
+  "title": "3D Sonic the Hedgehog",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Animal Crossing: New Leaf": {
+  "candidates": null,
+  "checked": "2026-10-08T02:54:27+00:00",
+  "conf": "manual",
+  "id": 2687,
+  "score": null,
+  "slug": "animal-crossing-new-leaf",
+  "title": "Animal Crossing: New Leaf",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Crashmo": {
+  "candidates": null,
+  "checked": "2026-10-08T02:54:28+00:00",
+  "conf": "manual",
+  "id": 19928,
+  "score": null,
+  "slug": "crashmo",
+  "title": "Crashmo",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Dragon Quest VIII: Journey of the Cursed King": {
+  "candidates": 4,
+  "checked": "2026-10-08T02:54:29+00:00",
+  "conf": "high",
+  "id": 145528,
+  "score": 1.133,
+  "slug": null,
+  "title": "Dragon Quest VIII: Journey of the Cursed King",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Fire Emblem Awakening": {
   "candidates": null,
   "checked": "2026-10-08T02:52:20+00:00",
@@ -208,6 +252,28 @@
   "v": 4,
   "via": "search"
  },
+ "3DS:manual:Luigi's Mansion: Dark Moon": {
+  "candidates": null,
+  "checked": "2026-10-08T02:54:27+00:00",
+  "conf": "manual",
+  "id": 2476,
+  "score": null,
+  "slug": "luigi-s-mansion-dark-moon",
+  "title": "Luigi's Mansion: Dark Moon",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Mario Kart 7": {
+  "candidates": null,
+  "checked": "2026-10-08T02:54:28+00:00",
+  "conf": "manual",
+  "id": 2349,
+  "score": null,
+  "slug": "mario-kart-7",
+  "title": "Mario Kart 7",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Pushmo": {
   "candidates": null,
   "checked": "2026-10-08T02:52:21+00:00",
@@ -229,6 +295,17 @@
   "title": "Shovel Knight",
   "v": 4,
   "via": "search"
+ },
+ "3DS:manual:SteamWorld Heist": {
+  "candidates": null,
+  "checked": "2026-10-08T02:54:27+00:00",
+  "conf": "manual",
+  "id": 15167,
+  "score": null,
+  "slug": "steamworld-heist",
+  "title": "SteamWorld Heist",
+  "v": 4,
+  "via": "fix"
  },
  "3DS:manual:Super Mario 3D Land": {
   "candidates": null,

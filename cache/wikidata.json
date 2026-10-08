@@ -1,4 +1,7 @@
 {
+ "3d-sonic-the-hedgehog": {
+  "checked": "2026-10-08T02:54:30+00:00"
+ },
  "3d-sonic-the-hedgehog-2": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
@@ -87,6 +90,10 @@
  "among-us": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 10238
+ },
+ "animal-crossing-new-leaf": {
+  "checked": "2026-10-08T02:54:30+00:00",
+  "opencritic_id": 7228
  },
  "anno-1800-console-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
@@ -404,6 +411,9 @@
  "crash-of-the-titans": {
   "checked": "2026-10-07T21:36:14+00:00"
  },
+ "crashmo": {
+  "checked": "2026-10-08T02:54:30+00:00"
+ },
  "crosscode": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 6635
@@ -606,6 +616,10 @@
  },
  "dragon-quest-vi-realms-of-revelation": {
   "checked": "2026-10-07T21:36:14+00:00"
+ },
+ "dragon-quest-viii-journey-of-the-cursed-king--1": {
+  "checked": "2026-10-08T02:54:30+00:00",
+  "opencritic_id": 3777
  },
  "dragons-dogma-ii": {
   "checked": "2026-10-07T05:55:24+00:00",
@@ -1173,6 +1187,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 11918
  },
+ "luigi-s-mansion-dark-moon": {
+  "checked": "2026-10-08T02:54:30+00:00"
+ },
  "mad-max": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 1518
@@ -1192,6 +1209,9 @@
  "maquette": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11003
+ },
+ "mario-kart-7": {
+  "checked": "2026-10-08T02:54:30+00:00"
  },
  "mario-kart-ds": {
   "checked": "2026-10-07T21:32:53+00:00"
@@ -1880,6 +1900,10 @@
  "steamworld-dig": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 280
+ },
+ "steamworld-heist": {
+  "checked": "2026-10-08T02:54:30+00:00",
+  "opencritic_id": 1571
  },
  "stellaris-console-edition": {
   "checked": "2026-10-07T01:52:06+00:00"
