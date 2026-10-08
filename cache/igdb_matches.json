@@ -8260,6 +8260,28 @@
   "v": 4,
   "via": "search"
  },
+ "PSP:manual:Crisis Core: Final Fantasy VII": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:28+00:00",
+  "conf": "manual",
+  "id": 2407,
+  "score": null,
+  "slug": "crisis-core-final-fantasy-vii",
+  "title": "Crisis Core: Final Fantasy VII",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Daxter": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:28+00:00",
+  "conf": "manual",
+  "id": 1533,
+  "score": null,
+  "slug": "daxter",
+  "title": "Daxter",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:God of War: Chains of Olympus": {
   "candidates": null,
   "checked": "2026-10-08T03:15:46+00:00",
@@ -8268,6 +8290,17 @@
   "score": null,
   "slug": "god-of-war-chains-of-olympus",
   "title": "God of War: Chains of Olympus",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:God of War: Ghost of Sparta": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:27+00:00",
+  "conf": "manual",
+  "id": 550,
+  "score": null,
+  "slug": "god-of-war-ghost-of-sparta",
+  "title": "God of War: Ghost of Sparta",
   "v": 4,
   "via": "fix"
  },
@@ -8282,6 +8315,28 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:LittleBigPlanet": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:27+00:00",
+  "conf": "manual",
+  "id": 21911,
+  "score": null,
+  "slug": "littlebigplanet--1",
+  "title": "LittleBigPlanet",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:LocoRoco 2": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:28+00:00",
+  "conf": "manual",
+  "id": 1461,
+  "score": null,
+  "slug": "locoroco-2",
+  "title": "LocoRoco 2",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Metal Gear Solid: Peace Walker": {
   "candidates": null,
   "checked": "2026-10-08T03:17:47+00:00",
@@ -8290,6 +8345,28 @@
   "score": null,
   "slug": "metal-gear-solid-peace-walker",
   "title": "Metal Gear Solid: Peace Walker",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Metal Gear Solid: Portable Ops": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:27+00:00",
+  "conf": "manual",
+  "id": 381,
+  "score": null,
+  "slug": "metal-gear-solid-portable-ops",
+  "title": "Metal Gear Solid: Portable Ops",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Patapon": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:28+00:00",
+  "conf": "manual",
+  "id": 7812,
+  "score": null,
+  "slug": "patapon",
+  "title": "Patapon",
   "v": 4,
   "via": "fix"
  },
@@ -8334,6 +8411,17 @@
   "score": null,
   "slug": "grand-theft-auto-liberty-city-stories",
   "title": "grand-theft-auto-liberty-city-stories",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:grand-theft-auto-vice-city-stories": {
+  "candidates": null,
+  "checked": "2026-10-08T03:19:27+00:00",
+  "conf": "manual",
+  "id": 3262,
+  "score": null,
+  "slug": "grand-theft-auto-vice-city-stories",
+  "title": "grand-theft-auto-vice-city-stories",
   "v": 4,
   "via": "fix"
  },

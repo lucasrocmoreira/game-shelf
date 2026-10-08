@@ -2290,6 +2290,14 @@
   "opencritic_pct": 97,
   "opencritic_tier": "Mighty"
  },
+ "igdb:1461": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:50+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "locoroco-2"
+ },
  "igdb:146112": {
   "backloggd": 3.0,
   "bl_v": 2,
@@ -2521,6 +2529,14 @@
   "opencritic_id": 12246,
   "opencritic_pct": 20,
   "opencritic_tier": "Weak"
+ },
+ "igdb:1533": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:48+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "daxter"
  },
  "igdb:154775": {
   "backloggd": 3.4,
@@ -4062,6 +4078,14 @@
   "steam_pct": 82,
   "steam_reviews": 56294
  },
+ "igdb:21911": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:38+00:00",
+  "mc_v": 2,
+  "metacritic": 95,
+  "metacritic_slug": "littlebigplanet"
+ },
  "igdb:219442": {
   "backloggd": 3.0,
   "bl_v": 2,
@@ -4365,6 +4389,14 @@
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "f1-23"
+ },
+ "igdb:2407": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:53+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "crisis-core-final-fantasy-vii"
  },
  "igdb:241492": {
   "backloggd": 3.7,
@@ -5454,6 +5486,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:3262": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:43+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "grand-theft-auto-vice-city-stories"
+ },
  "igdb:3263": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -5846,6 +5886,14 @@
   ],
   "steam_pct": 94,
   "steam_reviews": 30130
+ },
+ "igdb:381": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:33+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "metal-gear-solid-portable-ops"
  },
  "igdb:382": {
   "backloggd": 3.7,
@@ -6246,6 +6294,14 @@
   ],
   "steam_pct": 87,
   "steam_reviews": 55330
+ },
+ "igdb:550": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:40+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "god-of-war-ghost-of-sparta"
  },
  "igdb:55029": {
   "backloggd": 3.5,
@@ -6852,6 +6908,14 @@
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "resident-evil-revelations-2"
+ },
+ "igdb:7812": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:19:45+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "patapon"
  },
  "igdb:78497": {
   "backloggd": 3.9,

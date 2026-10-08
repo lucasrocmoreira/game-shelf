@@ -442,6 +442,9 @@
  "crimson-shroud": {
   "checked": "2026-10-08T03:08:11+00:00"
  },
+ "crisis-core-final-fantasy-vii": {
+  "checked": "2026-10-08T03:19:30+00:00"
+ },
  "crosscode": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 6635
@@ -472,6 +475,9 @@
  "darkwood": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 4738
+ },
+ "daxter": {
+  "checked": "2026-10-08T03:19:30+00:00"
  },
  "days-gone": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -931,6 +937,9 @@
  "god-of-war-chains-of-olympus": {
   "checked": "2026-10-08T03:15:47+00:00"
  },
+ "god-of-war-ghost-of-sparta": {
+  "checked": "2026-10-08T03:19:30+00:00"
+ },
  "god-of-war-ragnarok": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 12919
@@ -962,6 +971,9 @@
  "grand-theft-auto-v": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 163
+ },
+ "grand-theft-auto-vice-city-stories": {
+  "checked": "2026-10-08T03:19:30+00:00"
  },
  "grand-theft-auto-vice-city-the-definitive-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
@@ -1264,9 +1276,15 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 4206
  },
+ "littlebigplanet--1": {
+  "checked": "2026-10-08T03:19:30+00:00"
+ },
  "littlebigplanet-3": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 162
+ },
+ "locoroco-2": {
+  "checked": "2026-10-08T03:19:30+00:00"
  },
  "lords-of-the-fallen--2": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1376,6 +1394,9 @@
  },
  "metal-gear-solid-peace-walker": {
   "checked": "2026-10-08T03:17:52+00:00"
+ },
+ "metal-gear-solid-portable-ops": {
+  "checked": "2026-10-08T03:19:30+00:00"
  },
  "metal-gear-solid-snake-eater-3d": {
   "checked": "2026-10-08T03:06:40+00:00"
@@ -1597,6 +1618,9 @@
  "pac-man-world-re-pac": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13448
+ },
+ "patapon": {
+  "checked": "2026-10-08T03:19:30+00:00"
  },
  "pathfinder-wrath-of-the-righteous": {
   "checked": "2026-10-07T01:52:04+00:00",

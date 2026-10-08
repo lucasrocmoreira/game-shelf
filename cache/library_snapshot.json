@@ -1259,6 +1259,86 @@
    "playtime_hours": 0.0,
    "source_id": "manual:tactics ogre: let us cling together",
    "title": "tactics ogre: let us cling together"
+  },
+  {
+   "format": "digital",
+   "igdb": "metal-gear-solid-portable-ops",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metal Gear Solid: Portable Ops",
+   "title": "Metal Gear Solid: Portable Ops"
+  },
+  {
+   "format": "digital",
+   "igdb": "littlebigplanet--1",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:LittleBigPlanet",
+   "title": "LittleBigPlanet"
+  },
+  {
+   "format": "digital",
+   "igdb": "god-of-war-ghost-of-sparta",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:God of War: Ghost of Sparta",
+   "title": "God of War: Ghost of Sparta"
+  },
+  {
+   "format": "digital",
+   "igdb": "grand-theft-auto-vice-city-stories",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:grand-theft-auto-vice-city-stories",
+   "title": "grand-theft-auto-vice-city-stories"
+  },
+  {
+   "format": "digital",
+   "igdb": "patapon",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Patapon",
+   "title": "Patapon"
+  },
+  {
+   "format": "digital",
+   "igdb": "daxter",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Daxter",
+   "title": "Daxter"
+  },
+  {
+   "format": "digital",
+   "igdb": "locoroco-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:LocoRoco 2",
+   "title": "LocoRoco 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "crisis-core-final-fantasy-vii",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Crisis Core: Final Fantasy VII",
+   "title": "Crisis Core: Final Fantasy VII"
   }
  ],
  "nintendo_eshop": [
