@@ -8260,6 +8260,39 @@
   "v": 4,
   "via": "search"
  },
+ "PSP:manual:God of War: Chains of Olympus": {
+  "candidates": null,
+  "checked": "2026-10-08T03:15:46+00:00",
+  "conf": "manual",
+  "id": 552,
+  "score": null,
+  "slug": "god-of-war-chains-of-olympus",
+  "title": "God of War: Chains of Olympus",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Persona 3 Portable": {
+  "candidates": null,
+  "checked": "2026-10-08T03:15:46+00:00",
+  "conf": "manual",
+  "id": 11416,
+  "score": null,
+  "slug": "persona-3-portable",
+  "title": "Persona 3 Portable",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:grand-theft-auto-chinatown-wars": {
+  "candidates": null,
+  "checked": "2026-10-08T03:15:46+00:00",
+  "conf": "manual",
+  "id": 3270,
+  "score": null,
+  "slug": "grand-theft-auto-chinatown-wars",
+  "title": "grand-theft-auto-chinatown-wars",
+  "v": 4,
+  "via": "fix"
+ },
  "PlayStation:CUSA00001_00": {
   "candidates": 22,
   "checked": "2026-10-07T01:46:30+00:00",

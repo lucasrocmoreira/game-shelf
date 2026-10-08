@@ -1179,6 +1179,36 @@
    "playtime_hours": 0.0,
    "source_id": "manual:ironfall invasion",
    "title": "ironfall invasion"
+  },
+  {
+   "format": "digital",
+   "igdb": "god-of-war-chains-of-olympus",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:God of War: Chains of Olympus",
+   "title": "God of War: Chains of Olympus"
+  },
+  {
+   "format": "digital",
+   "igdb": "grand-theft-auto-chinatown-wars",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:grand-theft-auto-chinatown-wars",
+   "title": "grand-theft-auto-chinatown-wars"
+  },
+  {
+   "format": "digital",
+   "igdb": "persona-3-portable",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Persona 3 Portable",
+   "title": "Persona 3 Portable"
   }
  ],
  "nintendo_eshop": [
