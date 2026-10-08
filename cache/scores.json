@@ -957,7 +957,7 @@
  "igdb:117882": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T04:08:44+00:00",
+  "checked": "2026-10-08T04:10:15+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -3838,7 +3838,7 @@
  "igdb:19959": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-08T04:08:41+00:00",
+  "checked": "2026-10-08T04:10:12+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "god-of-war-iii-remastered"
@@ -6394,6 +6394,14 @@
   "opencritic_id": 6402,
   "opencritic_pct": 71,
   "opencritic_tier": "Strong"
+ },
+ "igdb:376": {
+  "backloggd": 4.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T04:10:18+00:00",
+  "mc_v": 2,
+  "metacritic": 96,
+  "metacritic_slug": "metal-gear-solid-2-sons-of-liberty"
  },
  "igdb:3772": {
   "backloggd": 3.4,

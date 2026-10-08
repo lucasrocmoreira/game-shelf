@@ -2339,6 +2339,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:God of War II HD",
    "title": "God of War II HD"
+  },
+  {
+   "format": "digital",
+   "igdb": "metal-gear-solid-2-sons-of-liberty",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS3",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metal Gear Solid 2: Sons of Liberty",
+   "title": "Metal Gear Solid 2: Sons of Liberty"
   }
  ],
  "nintendo_eshop": [
