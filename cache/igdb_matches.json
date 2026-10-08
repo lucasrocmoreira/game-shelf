@@ -175,6 +175,17 @@
   "v": 2,
   "via": "search"
  },
+ "3DS:manual:Legend of Zelda: Ocarina of Time": {
+  "candidates": 45,
+  "checked": "2026-10-08T02:48:31+00:00",
+  "conf": "medium",
+  "id": 1039,
+  "score": 1.047,
+  "slug": null,
+  "title": "Legend of Zelda: Ocarina of Time",
+  "v": 4,
+  "via": "search"
+ },
  "DS:manual:Advance Wars: Days of Ruin": {
   "candidates": null,
   "checked": "2026-10-07T21:40:05+00:00",
