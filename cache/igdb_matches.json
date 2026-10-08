@@ -1363,6 +1363,17 @@
   "v": 4,
   "via": "search"
  },
+ "PS Vita:manual:Child of Light": {
+  "candidates": null,
+  "checked": "2026-10-08T03:38:27+00:00",
+  "conf": "manual",
+  "id": 4756,
+  "score": null,
+  "slug": "child-of-light",
+  "title": "Child of Light",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Code: Realize − Guardian of Rebirth": {
   "candidates": null,
   "checked": "2026-10-08T03:35:09+00:00",
@@ -1376,7 +1387,7 @@
  },
  "PS Vita:manual:Final Fantasy X/X-2 HD Remaster": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:48+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 14144,
   "score": null,
@@ -1385,9 +1396,20 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Gravity Rush": {
+  "candidates": null,
+  "checked": "2026-10-08T03:38:27+00:00",
+  "conf": "manual",
+  "id": 11701,
+  "score": null,
+  "slug": "gravity-rush",
+  "title": "Gravity Rush",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Grim Fandango Remastered": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:49+00:00",
+  "checked": "2026-10-08T03:38:27+00:00",
   "conf": "manual",
   "id": 8682,
   "score": null,
@@ -1409,7 +1431,7 @@
  },
  "PS Vita:manual:Hotline Miami": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:48+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 1384,
   "score": null,
@@ -1431,12 +1453,23 @@
  },
  "PS Vita:manual:Mortal Kombat": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:48+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 119,
   "score": null,
   "slug": "mortal-kombat",
   "title": "Mortal Kombat",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Oddworld: New 'n' Tasty!": {
+  "candidates": null,
+  "checked": "2026-10-08T03:38:28+00:00",
+  "conf": "manual",
+  "id": 5552,
+  "score": null,
+  "slug": "oddworld-new-n-tasty",
+  "title": "Oddworld: New 'n' Tasty!",
   "v": 4,
   "via": "fix"
  },
@@ -1453,7 +1486,7 @@
  },
  "PS Vita:manual:OlliOlli2": {
   "candidates": null,
-  "checked": "2026-10-08T03:36:49+00:00",
+  "checked": "2026-10-08T03:38:26+00:00",
   "conf": "manual",
   "id": 9523,
   "score": null,
@@ -1492,6 +1525,17 @@
   "score": null,
   "slug": "tearaway",
   "title": "Tearaway",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien": {
+  "candidates": null,
+  "checked": "2026-10-08T03:38:28+00:00",
+  "conf": "manual",
+  "id": 5592,
+  "score": null,
+  "slug": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
+  "title": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
   "v": 4,
   "via": "fix"
  },

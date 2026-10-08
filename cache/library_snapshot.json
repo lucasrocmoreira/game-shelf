@@ -1869,6 +1869,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Grim Fandango Remastered",
    "title": "Grim Fandango Remastered"
+  },
+  {
+   "format": "digital",
+   "igdb": "child-of-light",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Child of Light",
+   "title": "Child of Light"
+  },
+  {
+   "format": "digital",
+   "igdb": "gravity-rush",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Gravity Rush",
+   "title": "Gravity Rush"
+  },
+  {
+   "format": "digital",
+   "igdb": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
+   "title": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien"
+  },
+  {
+   "format": "digital",
+   "igdb": "oddworld-new-n-tasty",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Oddworld: New 'n' Tasty!",
+   "title": "Oddworld: New 'n' Tasty!"
   }
  ],
  "nintendo_eshop": [
