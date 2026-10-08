@@ -1458,6 +1458,13 @@
    "platform": "PS Vita",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Axiom Verge",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "axiom-verge"
   }
  ],
  "match": {
