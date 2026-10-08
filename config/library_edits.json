@@ -877,6 +877,13 @@
    "platform": "PSP",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Jeanne d'Arc",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "jeanne-darc"
   }
  ],
  "match": {
