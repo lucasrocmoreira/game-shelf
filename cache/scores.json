@@ -2846,7 +2846,7 @@
  "igdb:18156": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:43+00:00",
+  "checked": "2026-10-08T03:10:07+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "harmoknight"
@@ -3719,7 +3719,7 @@
  "igdb:20585": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:57+00:00",
+  "checked": "2026-10-08T03:13:44+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "rayman-3d"
@@ -3808,7 +3808,7 @@
  "igdb:20853": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-08T03:12:01+00:00",
+  "checked": "2026-10-08T03:13:49+00:00",
   "mc_v": 2,
   "metacritic": 58,
   "metacritic_slug": "the-starship-damrey"
@@ -3837,7 +3837,7 @@
  "igdb:21007": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:48+00:00",
+  "checked": "2026-10-08T03:10:15+00:00",
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "liberation-maiden"
@@ -4364,10 +4364,18 @@
  "igdb:24294": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:51+00:00",
+  "checked": "2026-10-08T03:10:17+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "dillons-rolling-western-the-last-ranger"
+ },
+ "igdb:24470": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:13:39+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:2476": {
   "backloggd": 3.5,
@@ -6041,7 +6049,7 @@
  "igdb:5006": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:58+00:00",
+  "checked": "2026-10-08T03:13:47+00:00",
   "mc_v": 2,
   "metacritic": 56,
   "metacritic_slug": "michael-jackson-the-experience"
@@ -6351,7 +6359,7 @@
  "igdb:63520": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:53+00:00",
+  "checked": "2026-10-08T03:13:42+00:00",
   "mc_v": 2,
   "metacritic": 64,
   "metacritic_slug": "the-delusions-of-von-sottendorff-and-his-squared-mind"
@@ -6418,7 +6426,7 @@
  "igdb:6770": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:42+00:00",
+  "checked": "2026-10-08T03:10:04+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -7071,7 +7079,7 @@
  "igdb:8610": {
   "backloggd": 2.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:12:13+00:00",
+  "checked": "2026-10-08T03:13:52+00:00",
   "mc_v": 2,
   "metacritic": 48,
   "metacritic_slug": "ironfall-invasion"
@@ -7385,7 +7393,7 @@
  "igdb:981": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:46+00:00",
+  "checked": "2026-10-08T03:10:12+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "rayman-origins"
@@ -9196,7 +9204,7 @@
  },
  "t:yo kai watch 2": {
   "bl_v": 2,
-  "checked": "2026-10-08T03:11:38+00:00",
+  "checked": "2026-10-08T03:09:58+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
