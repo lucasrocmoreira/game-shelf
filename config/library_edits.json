@@ -125,12 +125,6 @@
    "added": "2026-10-07",
    "format": "physical",
    "platform": "Switch 2",
-   "title": "Mario Kart World"
-  },
-  {
-   "added": "2026-10-07",
-   "format": "physical",
-   "platform": "Switch 2",
    "title": "Dragon Quest I&II HD-2D Remaster"
   },
   {
@@ -1636,6 +1630,13 @@
    "format": "digital",
    "added": "2026-10-07",
    "igdb": "metal-gear-solid-2-sons-of-liberty"
+  },
+  {
+   "title": "Mario Kart World",
+   "platform": "Switch 2",
+   "format": "physical",
+   "added": "2026-10-07",
+   "igdb": "mario-kart-world"
   }
  ],
  "match": {
