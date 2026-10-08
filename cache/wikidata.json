@@ -274,7 +274,7 @@
   "opencritic_id": 2975
  },
  "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:40:26+00:00",
   "opencritic_id": 16402
  },
  "black-desert": {
@@ -476,8 +476,15 @@
   "opencritic_id": 8525
  },
  "danganronpa-2-goodbye-despair": {
-  "checked": "2026-10-08T03:42:12+00:00",
+  "checked": "2026-10-08T03:44:01+00:00",
   "opencritic_id": 2606
+ },
+ "danganronpa-trigger-happy-havoc": {
+  "checked": "2026-10-08T03:44:01+00:00"
+ },
+ "danganronpa-v3-killing-harmony--1": {
+  "checked": "2026-10-08T03:44:01+00:00",
+  "opencritic_id": 4511
  },
  "dante-s-inferno": {
   "checked": "2026-10-08T03:35:12+00:00"
@@ -497,7 +504,7 @@
   "checked": "2026-10-08T03:19:30+00:00"
  },
  "day-of-the-tentacle-remastered": {
-  "checked": "2026-10-08T03:42:12+00:00",
+  "checked": "2026-10-08T03:44:01+00:00",
   "opencritic_id": 2455
  },
  "days-gone": {
@@ -861,7 +868,7 @@
   "opencritic_id": 8586
  },
  "final-fantasy-x-slash-x-2-hd-remaster": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:36:51+00:00",
   "opencritic_id": 21
  },
  "final-fantasy-xv": {
@@ -1010,7 +1017,7 @@
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "gravity-rush": {
-  "checked": "2026-10-08T03:38:30+00:00"
+  "checked": "2026-10-08T03:40:26+00:00"
  },
  "greedfall": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1025,7 +1032,7 @@
   "opencritic_id": 12803
  },
  "grim-fandango-remastered": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:36:51+00:00",
   "opencritic_id": 124
  },
  "gris": {
@@ -1132,7 +1139,7 @@
   "opencritic_id": 15394
  },
  "hotline-miami": {
-  "checked": "2026-10-08T03:38:30+00:00"
+  "checked": "2026-10-08T03:36:51+00:00"
  },
  "humanity": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1220,6 +1227,9 @@
  },
  "kid-icarus-uprising": {
   "checked": "2026-10-08T02:58:42+00:00"
+ },
+ "killzone-mercenary": {
+  "checked": "2026-10-08T03:44:01+00:00"
  },
  "killzone-shadow-fall": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1468,7 +1478,7 @@
   "opencritic_id": 7152
  },
  "metal-gear-solid-hd-collection": {
-  "checked": "2026-10-08T03:42:12+00:00"
+  "checked": "2026-10-08T03:44:01+00:00"
  },
  "metal-gear-solid-peace-walker": {
   "checked": "2026-10-08T03:17:52+00:00"
@@ -1546,7 +1556,7 @@
   "opencritic_id": 9508
  },
  "mortal-kombat": {
-  "checked": "2026-10-08T03:38:30+00:00"
+  "checked": "2026-10-08T03:36:51+00:00"
  },
  "mortal-kombat-1--1": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1594,6 +1604,9 @@
  "need-for-speed-hot-pursuit-remastered": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 10292
+ },
+ "need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467": {
+  "checked": "2026-10-08T03:44:01+00:00"
  },
  "need-for-speed-payback": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1671,7 +1684,7 @@
   "opencritic_id": 5704
  },
  "oddworld-new-n-tasty": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:40:26+00:00",
   "opencritic_id": 235
  },
  "oddworld-soulstorm": {
@@ -1679,7 +1692,7 @@
   "opencritic_id": 11152
  },
  "oddworld-strangers-wrath-hd": {
-  "checked": "2026-10-08T03:42:12+00:00"
+  "checked": "2026-10-08T03:40:26+00:00"
  },
  "odin-sphere-leifthrasir": {
   "checked": "2026-10-08T03:35:12+00:00",
@@ -1688,12 +1701,16 @@
  "okamiden": {
   "checked": "2026-10-07T21:28:53+00:00"
  },
+ "olliolli": {
+  "checked": "2026-10-08T03:44:01+00:00",
+  "opencritic_id": 1069
+ },
  "olliolli-world": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 12617
  },
  "olliolli2-welcome-to-olliwood": {
-  "checked": "2026-10-08T03:38:30+00:00",
+  "checked": "2026-10-08T03:36:51+00:00",
   "opencritic_id": 94
  },
  "operation-tango": {
@@ -2045,7 +2062,7 @@
   "checked": "2026-10-07T21:24:23+00:00"
  },
  "severed": {
-  "checked": "2026-10-08T03:42:12+00:00",
+  "checked": "2026-10-08T03:40:26+00:00",
   "opencritic_id": 2585
  },
  "shadow-of-the-colossus--1": {
@@ -2065,7 +2082,7 @@
   "opencritic_id": 2440
  },
  "shantae-half-genie-hero": {
-  "checked": "2026-10-08T03:42:12+00:00",
+  "checked": "2026-10-08T03:40:26+00:00",
   "opencritic_id": 3126
  },
  "shenmue": {
@@ -2499,7 +2516,7 @@
   "opencritic_id": 20587
  },
  "the-sly-collection": {
-  "checked": "2026-10-08T03:42:12+00:00"
+  "checked": "2026-10-08T03:44:01+00:00"
  },
  "the-stanley-parable-ultra-deluxe": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2634,7 +2651,7 @@
   "opencritic_id": 16286
  },
  "uncharted-golden-abyss": {
-  "checked": "2026-10-08T03:42:12+00:00"
+  "checked": "2026-10-08T03:44:01+00:00"
  },
  "uncharted-legacy-of-thieves-collection": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -2733,6 +2750,9 @@
  "wild-arms--1": {
   "checked": "2026-10-07T01:52:01+00:00"
  },
+ "wipeout-2048": {
+  "checked": "2026-10-08T03:44:01+00:00"
+ },
  "wipeout-omega-collection": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4404
@@ -2784,7 +2804,7 @@
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "xcom-enemy-unknown-plus": {
-  "checked": "2026-10-08T03:42:12+00:00",
+  "checked": "2026-10-08T03:40:26+00:00",
   "opencritic_id": 2527
  },
  "yakuza-0": {
@@ -2818,7 +2838,7 @@
   "checked": "2026-10-08T03:31:49+00:00"
  },
  "ys-memories-of-celceta": {
-  "checked": "2026-10-08T03:42:12+00:00",
+  "checked": "2026-10-08T03:44:01+00:00",
   "opencritic_id": 6407
  },
  "ys-seven": {

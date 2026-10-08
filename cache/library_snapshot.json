@@ -2019,6 +2019,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:sly cooper collection",
    "title": "sly cooper collection"
+  },
+  {
+   "format": "digital",
+   "igdb": "danganronpa-v3-killing-harmony--1",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Danganronpa V3: Killing Harmony",
+   "title": "Danganronpa V3: Killing Harmony"
+  },
+  {
+   "format": "digital",
+   "igdb": "danganronpa-trigger-happy-havoc",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Danganronpa: Trigger Happy Havoc",
+   "title": "Danganronpa: Trigger Happy Havoc"
+  },
+  {
+   "format": "digital",
+   "igdb": "wipeout-2048",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Wipeout 2048",
+   "title": "Wipeout 2048"
+  },
+  {
+   "format": "digital",
+   "igdb": "need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Need for Speed: Most Wanted",
+   "title": "Need for Speed: Most Wanted"
+  },
+  {
+   "format": "digital",
+   "igdb": "olliolli",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:OlliOlli",
+   "title": "OlliOlli"
+  },
+  {
+   "format": "digital",
+   "igdb": "killzone-mercenary",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Killzone: Mercenary",
+   "title": "Killzone: Mercenary"
   }
  ],
  "nintendo_eshop": [
