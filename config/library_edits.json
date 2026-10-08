@@ -505,6 +505,13 @@
    "platform": "3DS",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Pokémon Omega Ruby",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "pokemon-omega-ruby"
   }
  ],
  "match": {
