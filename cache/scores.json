@@ -28,6 +28,14 @@
   "metacritic": 78,
   "metacritic_slug": "green-hell"
  },
+ "igdb:102": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:30:02+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "need-for-speed-shift"
+ },
  "igdb:1020": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -3256,6 +3264,14 @@
   "metacritic": 95,
   "metacritic_slug": "portal-companion-collection"
  },
+ "igdb:19159": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:30:11+00:00",
+  "mc_v": 2,
+  "metacritic": 66,
+  "metacritic_slug": "tales-of-the-world-radiant-mythology"
+ },
  "igdb:19164": {
   "backloggd": 3.2,
   "bl_v": 2,
@@ -4265,6 +4281,14 @@
   "metacritic": 64,
   "metacritic_slug": "the-dark-pictures-switchback-vr"
  },
+ "igdb:22458": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:30:19+00:00",
+  "mc_v": 2,
+  "metacritic": 64,
+  "metacritic_slug": "the-lord-of-the-rings-tactics"
+ },
  "igdb:22509": {
   "backloggd": 3.1,
   "bl_v": 2,
@@ -4272,6 +4296,14 @@
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "need-for-speed-underground-rivals"
+ },
+ "igdb:22565": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:30:14+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "prince-of-persia-revelations"
  },
  "igdb:2271": {
   "backloggd": 3.9,
@@ -4561,6 +4593,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:2468": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:30:16+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "prince-of-persia-the-forgotten-sands"
+ },
  "igdb:2476": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -4568,6 +4608,14 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "luigis-mansion-dark-moon"
+ },
+ "igdb:248535": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:30:06+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "tomb-raider-legend"
  },
  "igdb:24869": {
   "backloggd": 4.3,
@@ -6437,6 +6485,14 @@
   ],
   "steam_pct": 93,
   "steam_reviews": 145874
+ },
+ "igdb:542": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:30:09+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "lego-pirates-of-the-caribbean-the-video-game"
  },
  "igdb:5440": {
   "backloggd": 3.7,

@@ -1609,6 +1609,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Star Wars: Battlefront II",
    "title": "Star Wars: Battlefront II"
+  },
+  {
+   "format": "digital",
+   "igdb": "need-for-speed-shift",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Need for Speed: Shift",
+   "title": "Need for Speed: Shift"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:tomb raider: legend",
+   "title": "tomb raider: legend"
+  },
+  {
+   "format": "digital",
+   "igdb": "lego-pirates-of-the-caribbean-the-video-game",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Lego Pirates of the Caribbean",
+   "title": "Lego Pirates of the Caribbean"
+  },
+  {
+   "format": "digital",
+   "igdb": "tales-of-the-world-radiant-mythology",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Tales of the World: Radiant Mythology",
+   "title": "Tales of the World: Radiant Mythology"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:prince of persia revelations",
+   "title": "prince of persia revelations"
+  },
+  {
+   "format": "digital",
+   "igdb": "prince-of-persia-the-forgotten-sands",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Prince of Persia: The Forgotten Sands",
+   "title": "Prince of Persia: The Forgotten Sands"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:lord of the rings: tactics",
+   "title": "lord of the rings: tactics"
   }
  ],
  "nintendo_eshop": [
@@ -1880,7 +1950,7 @@
    "title": "God of War"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2921/a213c057a3adc5c341911157e461954a97500126e4e2acef.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
    "last_played": "2022-05-26",
    "platform": "PS4",
    "playtime_hours": 68.2,

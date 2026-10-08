@@ -8414,6 +8414,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Lego Pirates of the Caribbean": {
+  "candidates": null,
+  "checked": "2026-10-08T03:29:55+00:00",
+  "conf": "manual",
+  "id": 542,
+  "score": null,
+  "slug": "lego-pirates-of-the-caribbean-the-video-game",
+  "title": "Lego Pirates of the Caribbean",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:LittleBigPlanet": {
   "candidates": null,
   "checked": "2026-10-08T03:19:27+00:00",
@@ -8502,6 +8513,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Need for Speed: Shift": {
+  "candidates": null,
+  "checked": "2026-10-08T03:29:55+00:00",
+  "conf": "manual",
+  "id": 102,
+  "score": null,
+  "slug": "need-for-speed-shift",
+  "title": "Need for Speed: Shift",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Need for Speed: Underground Rivals": {
   "candidates": null,
   "checked": "2026-10-08T03:28:03+00:00",
@@ -8554,6 +8576,17 @@
   "score": null,
   "slug": "persona-3-portable",
   "title": "Persona 3 Portable",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Prince of Persia: The Forgotten Sands": {
+  "candidates": null,
+  "checked": "2026-10-08T03:29:56+00:00",
+  "conf": "manual",
+  "id": 2468,
+  "score": null,
+  "slug": "prince-of-persia-the-forgotten-sands",
+  "title": "Prince of Persia: The Forgotten Sands",
   "v": 4,
   "via": "fix"
  },
@@ -8634,6 +8667,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Tales of the World: Radiant Mythology": {
+  "candidates": null,
+  "checked": "2026-10-08T03:29:56+00:00",
+  "conf": "manual",
+  "id": 19159,
+  "score": null,
+  "slug": "tales-of-the-world-radiant-mythology",
+  "title": "Tales of the World: Radiant Mythology",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:grand-theft-auto-chinatown-wars": {
   "candidates": null,
   "checked": "2026-10-08T03:15:46+00:00",
@@ -8678,6 +8722,28 @@
   "v": 4,
   "via": "search"
  },
+ "PSP:manual:lord of the rings: tactics": {
+  "candidates": 1,
+  "checked": "2026-10-08T03:29:58+00:00",
+  "conf": "high",
+  "id": 22458,
+  "score": 1.131,
+  "slug": null,
+  "title": "lord of the rings: tactics",
+  "v": 4,
+  "via": "search"
+ },
+ "PSP:manual:prince of persia revelations": {
+  "candidates": 2,
+  "checked": "2026-10-08T03:29:58+00:00",
+  "conf": "high",
+  "id": 22565,
+  "score": 1.133,
+  "slug": null,
+  "title": "prince of persia revelations",
+  "v": 4,
+  "via": "search"
+ },
  "PSP:manual:prince of persia: rival swords": {
   "candidates": 4,
   "checked": "2026-10-08T03:28:05+00:00",
@@ -8708,6 +8774,17 @@
   "score": 1.131,
   "slug": null,
   "title": "tactics ogre: let us cling together",
+  "v": 4,
+  "via": "search"
+ },
+ "PSP:manual:tomb raider: legend": {
+  "candidates": 9,
+  "checked": "2026-10-08T03:29:57+00:00",
+  "conf": "high",
+  "id": 248535,
+  "score": 1.123,
+  "slug": null,
+  "title": "tomb raider: legend",
   "v": 4,
   "via": "search"
  },

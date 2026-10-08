@@ -1277,6 +1277,9 @@
  "lego-indiana-jones-the-original-adventures": {
   "checked": "2026-10-08T03:24:34+00:00"
  },
+ "lego-pirates-of-the-caribbean-the-video-game": {
+  "checked": "2026-10-08T03:30:00+00:00"
+ },
  "lego-star-wars-the-skywalker-saga": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 9901
@@ -1551,6 +1554,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4506
  },
+ "need-for-speed-shift": {
+  "checked": "2026-10-08T03:30:00+00:00"
+ },
  "need-for-speed-unbound": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 13962
@@ -1780,8 +1786,14 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 3589
  },
+ "prince-of-persia-revelations": {
+  "checked": "2026-10-08T03:30:00+00:00"
+ },
  "prince-of-persia-rival-swords--1": {
   "checked": "2026-10-08T03:28:11+00:00"
+ },
+ "prince-of-persia-the-forgotten-sands": {
+  "checked": "2026-10-08T03:30:00+00:00"
  },
  "prince-of-persia-the-lost-crown": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2237,6 +2249,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11963
  },
+ "tales-of-the-world-radiant-mythology": {
+  "checked": "2026-10-08T03:30:00+00:00"
+ },
  "team-sonic-racing": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 7124
@@ -2363,6 +2378,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15718
  },
+ "the-lord-of-the-rings-tactics": {
+  "checked": "2026-10-08T03:30:00+00:00"
+ },
  "the-matrix-awakens-an-unreal-engine-5-experience": {
   "checked": "2026-10-07T01:52:01+00:00"
  },
@@ -2452,6 +2470,9 @@
  },
  "tomb-raider-legend": {
   "checked": "2026-10-07T01:08:00+00:00"
+ },
+ "tomb-raider-legend--4": {
+  "checked": "2026-10-08T03:30:00+00:00"
  },
  "tomb-raider-legend--6": {
   "checked": "2026-10-07T01:52:01+00:00"
