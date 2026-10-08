@@ -418,6 +418,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 12920
  },
+ "corpse-party": {
+  "checked": "2026-10-08T03:08:11+00:00"
+ },
  "crab-game": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 12385
@@ -436,6 +439,9 @@
  "crashmo": {
   "checked": "2026-10-08T02:55:43+00:00"
  },
+ "crimson-shroud": {
+  "checked": "2026-10-08T03:08:11+00:00"
+ },
  "crosscode": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 6635
@@ -446,6 +452,10 @@
  "crusader-kings-iii": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 9593
+ },
+ "culdcept-revolt": {
+  "checked": "2026-10-08T03:08:11+00:00",
+  "opencritic_id": 4913
  },
  "curse-of-the-dead-gods": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -716,6 +726,10 @@
  },
  "etrian-odyssey-iv-legends-of-the-titan": {
   "checked": "2026-10-08T02:58:42+00:00"
+ },
+ "ever-oasis": {
+  "checked": "2026-10-08T03:08:11+00:00",
+  "opencritic_id": 4488
  },
  "evil-dead-the-game--1": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1236,6 +1250,9 @@
  },
  "luigi-s-mansion-dark-moon": {
   "checked": "2026-10-08T02:55:43+00:00"
+ },
+ "luigis-mansion": {
+  "checked": "2026-10-08T03:08:11+00:00"
  },
  "mad-max": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2512,6 +2529,10 @@
  "yakuza-like-a-dragon": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 8628
+ },
+ "yo-kai-watch": {
+  "checked": "2026-10-08T03:08:11+00:00",
+  "opencritic_id": 2267
  },
  "yoshis-island-ds": {
   "checked": "2026-10-07T21:00:23+00:00"

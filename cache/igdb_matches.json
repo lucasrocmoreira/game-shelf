@@ -285,6 +285,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Corpse Party": {
+  "candidates": null,
+  "checked": "2026-10-08T03:08:08+00:00",
+  "conf": "manual",
+  "id": 21843,
+  "score": null,
+  "slug": "corpse-party",
+  "title": "Corpse Party",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Crashmo": {
   "candidates": null,
   "checked": "2026-10-08T02:55:39+00:00",
@@ -293,6 +304,28 @@
   "score": null,
   "slug": "crashmo",
   "title": "Crashmo",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Crimson Shroud": {
+  "candidates": null,
+  "checked": "2026-10-08T03:08:08+00:00",
+  "conf": "manual",
+  "id": 20839,
+  "score": null,
+  "slug": "crimson-shroud",
+  "title": "Crimson Shroud",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Culdcept Revolt": {
+  "candidates": null,
+  "checked": "2026-10-08T03:08:09+00:00",
+  "conf": "manual",
+  "id": 27258,
+  "score": null,
+  "slug": "culdcept-revolt",
+  "title": "Culdcept Revolt",
   "v": 4,
   "via": "fix"
  },
@@ -339,6 +372,17 @@
   "title": "Etrian Odyssey IV: Legends of the Titan",
   "v": 4,
   "via": "search"
+ },
+ "3DS:manual:Ever Oasis": {
+  "candidates": null,
+  "checked": "2026-10-08T03:08:08+00:00",
+  "conf": "manual",
+  "id": 19596,
+  "score": null,
+  "slug": "ever-oasis",
+  "title": "Ever Oasis",
+  "v": 4,
+  "via": "fix"
  },
  "3DS:manual:Fire Emblem Awakening": {
   "candidates": null,
@@ -405,6 +449,17 @@
   "title": "Legend of Zelda: Ocarina of Time",
   "v": 4,
   "via": "search"
+ },
+ "3DS:manual:Luigi's Mansion": {
+  "candidates": null,
+  "checked": "2026-10-08T03:08:09+00:00",
+  "conf": "manual",
+  "id": 90109,
+  "score": null,
+  "slug": "luigis-mansion",
+  "title": "Luigi's Mansion",
+  "v": 4,
+  "via": "fix"
  },
  "3DS:manual:Luigi's Mansion: Dark Moon": {
   "candidates": null,
@@ -700,6 +755,17 @@
   "score": null,
   "slug": "the-legend-of-zelda-a-link-between-worlds",
   "title": "The Legend of Zelda: A Link Between Worlds",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Yo-kai Watch": {
+  "candidates": null,
+  "checked": "2026-10-08T03:08:08+00:00",
+  "conf": "manual",
+  "id": 11197,
+  "score": null,
+  "slug": "yo-kai-watch",
+  "title": "Yo-kai Watch",
   "v": 4,
   "via": "fix"
  },

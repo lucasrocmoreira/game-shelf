@@ -561,6 +561,14 @@
   "opencritic_pct": 95,
   "opencritic_tier": "Mighty"
  },
+ "igdb:11197": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:08:18+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:11198": {
   "backloggd": 3.2,
   "bl_v": 2,
@@ -3368,6 +3376,14 @@
   "opencritic_pct": 95,
   "opencritic_tier": "Mighty"
  },
+ "igdb:19596": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:08:24+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "ever-oasis"
+ },
  "igdb:19598": {
   "backloggd": 3.6,
   "bl_v": 2,
@@ -3765,6 +3781,14 @@
   "metacritic": 78,
   "metacritic_slug": "nba-2k23"
  },
+ "igdb:20839": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:08:21+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "crimson-shroud"
+ },
  "igdb:20863": {
   "backloggd": 4.2,
   "bl_v": 2,
@@ -3944,6 +3968,14 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "suikoden-i-ii-hd-remaster-gate-rune-and-dunan-unification-wars"
+ },
+ "igdb:21843": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:08:13+00:00",
+  "mc_v": 2,
+  "metacritic": 71,
+  "metacritic_slug": "corpse-party"
  },
  "igdb:218744": {
   "backloggd": 2.3,
@@ -4790,6 +4822,14 @@
   "opencritic_id": 9436,
   "opencritic_pct": 97,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:27258": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:08:29+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "culdcept-revolt"
  },
  "igdb:27270": {
   "backloggd": 2.2,
@@ -7056,6 +7096,14 @@
   "checked": "2026-10-06T22:04:58+00:00",
   "metacritic": 91,
   "metacritic_slug": null
+ },
+ "igdb:90109": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:08:26+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "luigis-mansion"
  },
  "igdb:90628": {
   "backloggd": 3.8,
