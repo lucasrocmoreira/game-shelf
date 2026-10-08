@@ -486,6 +486,13 @@
    "format": "digital",
    "added": "2026-10-07",
    "igdb": "bravely-default"
+  },
+  {
+   "title": "Metroid: Samus Returns",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metroid-samus-returns"
   }
  ],
  "match": {
