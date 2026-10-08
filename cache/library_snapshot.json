@@ -2209,6 +2209,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Jak and Daxter Collection",
    "title": "Jak and Daxter Collection"
+  },
+  {
+   "format": "digital",
+   "igdb": "hotline-miami-2-wrong-number",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Hotline Miami 2: Wrong Number",
+   "title": "Hotline Miami 2: Wrong Number"
+  },
+  {
+   "format": "digital",
+   "igdb": "borderlands-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Borderlands 2",
+   "title": "Borderlands 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "resistance-burning-skies",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Resistance: Burning Skies",
+   "title": "Resistance: Burning Skies"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:velocity 2x: critical mass edition",
+   "title": "velocity 2x: critical mass edition"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:bit.trip limited edition",
+   "title": "bit.trip limited edition"
   }
  ],
  "nintendo_eshop": [

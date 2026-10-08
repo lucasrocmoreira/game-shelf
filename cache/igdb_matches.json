@@ -1374,6 +1374,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Borderlands 2": {
+  "candidates": null,
+  "checked": "2026-10-08T03:49:30+00:00",
+  "conf": "manual",
+  "id": 1011,
+  "score": null,
+  "slug": "borderlands-2",
+  "title": "Borderlands 2",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Child of Light": {
   "candidates": null,
   "checked": "2026-10-08T03:38:27+00:00",
@@ -1409,7 +1420,7 @@
  },
  "PS Vita:manual:Danganronpa Another Episode: Ultra Despair Girls": {
   "candidates": null,
-  "checked": "2026-10-08T03:47:48+00:00",
+  "checked": "2026-10-08T03:49:29+00:00",
   "conf": "manual",
   "id": 9708,
   "score": null,
@@ -1464,7 +1475,7 @@
  },
  "PS Vita:manual:Freedom Wars": {
   "candidates": null,
-  "checked": "2026-10-08T03:47:48+00:00",
+  "checked": "2026-10-08T03:49:29+00:00",
   "conf": "manual",
   "id": 6060,
   "score": null,
@@ -1475,7 +1486,7 @@
  },
  "PS Vita:manual:God of War Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:47:48+00:00",
+  "checked": "2026-10-08T03:49:28+00:00",
   "conf": "manual",
   "id": 20579,
   "score": null,
@@ -1528,9 +1539,20 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Hotline Miami 2: Wrong Number": {
+  "candidates": null,
+  "checked": "2026-10-08T03:49:30+00:00",
+  "conf": "manual",
+  "id": 2126,
+  "score": null,
+  "slug": "hotline-miami-2-wrong-number",
+  "title": "Hotline Miami 2: Wrong Number",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Jak and Daxter Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:47:49+00:00",
+  "checked": "2026-10-08T03:49:29+00:00",
   "conf": "manual",
   "id": 20113,
   "score": null,
@@ -1596,7 +1618,7 @@
  },
  "PS Vita:manual:Ninja Gaiden Sigma Plus": {
   "candidates": null,
-  "checked": "2026-10-08T03:47:48+00:00",
+  "checked": "2026-10-08T03:49:29+00:00",
   "conf": "manual",
   "id": 21569,
   "score": null,
@@ -1607,7 +1629,7 @@
  },
  "PS Vita:manual:Oddworld: Munch's Oddysee hd": {
   "candidates": 1,
-  "checked": "2026-10-08T03:47:50+00:00",
+  "checked": "2026-10-08T03:49:31+00:00",
   "conf": "high",
   "id": 51329,
   "score": 1.125,
@@ -1704,6 +1726,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Resistance: Burning Skies": {
+  "candidates": null,
+  "checked": "2026-10-08T03:49:30+00:00",
+  "conf": "manual",
+  "id": 19907,
+  "score": null,
+  "slug": "resistance-burning-skies",
+  "title": "Resistance: Burning Skies",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Severed": {
   "candidates": null,
   "checked": "2026-10-08T03:42:05+00:00",
@@ -1728,7 +1761,7 @@
  },
  "PS Vita:manual:Sly Cooper: Thieves in Time": {
   "candidates": null,
-  "checked": "2026-10-08T03:47:47+00:00",
+  "checked": "2026-10-08T03:49:28+00:00",
   "conf": "manual",
   "id": 1801,
   "score": null,
@@ -1844,6 +1877,17 @@
   "score": 1.133,
   "slug": null,
   "title": "tales of hearts R",
+  "v": 4,
+  "via": "search"
+ },
+ "PS Vita:manual:velocity 2x: critical mass edition": {
+  "candidates": 1,
+  "checked": "2026-10-08T03:49:32+00:00",
+  "conf": "high",
+  "id": 167039,
+  "score": 1.02,
+  "slug": null,
+  "title": "velocity 2x: critical mass edition",
   "v": 4,
   "via": "search"
  },
