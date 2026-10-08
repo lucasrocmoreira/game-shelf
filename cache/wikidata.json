@@ -1,6 +1,6 @@
 {
  "3d-sonic-the-hedgehog": {
-  "checked": "2026-10-08T02:54:30+00:00"
+  "checked": "2026-10-08T02:55:43+00:00"
  },
  "3d-sonic-the-hedgehog-2": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -92,7 +92,7 @@
   "opencritic_id": 10238
  },
  "animal-crossing-new-leaf": {
-  "checked": "2026-10-08T02:54:30+00:00",
+  "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 7228
  },
  "anno-1800-console-edition": {
@@ -298,6 +298,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 14848
  },
+ "bravely-default": {
+  "checked": "2026-10-08T02:55:43+00:00",
+  "opencritic_id": 2369
+ },
  "bugsnax": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10498
@@ -412,7 +416,7 @@
   "checked": "2026-10-07T21:36:14+00:00"
  },
  "crashmo": {
-  "checked": "2026-10-08T02:54:30+00:00"
+  "checked": "2026-10-08T02:55:43+00:00"
  },
  "crosscode": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -618,7 +622,7 @@
   "checked": "2026-10-07T21:36:14+00:00"
  },
  "dragon-quest-viii-journey-of-the-cursed-king--1": {
-  "checked": "2026-10-08T02:54:30+00:00",
+  "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 3777
  },
  "dragons-dogma-ii": {
@@ -1188,7 +1192,7 @@
   "opencritic_id": 11918
  },
  "luigi-s-mansion-dark-moon": {
-  "checked": "2026-10-08T02:54:30+00:00"
+  "checked": "2026-10-08T02:55:43+00:00"
  },
  "mad-max": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -1211,7 +1215,7 @@
   "opencritic_id": 11003
  },
  "mario-kart-7": {
-  "checked": "2026-10-08T02:54:30+00:00"
+  "checked": "2026-10-08T02:55:43+00:00"
  },
  "mario-kart-ds": {
   "checked": "2026-10-07T21:32:53+00:00"
@@ -1285,6 +1289,10 @@
  "metro-exodus": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 6847
+ },
+ "metroid-samus-returns": {
+  "checked": "2026-10-08T02:55:43+00:00",
+  "opencritic_id": 4498
  },
  "middle-earth-shadow-of-mordor": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1608,6 +1616,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 4460
  },
+ "radiant-historia": {
+  "checked": "2026-10-08T02:55:43+00:00"
+ },
  "rain-world": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 4111
@@ -1902,7 +1913,7 @@
   "opencritic_id": 280
  },
  "steamworld-heist": {
-  "checked": "2026-10-08T02:54:30+00:00",
+  "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 1571
  },
  "stellaris-console-edition": {

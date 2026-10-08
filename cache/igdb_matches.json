@@ -177,7 +177,7 @@
  },
  "3DS:manual:3D Sonic the Hedgehog": {
   "candidates": null,
-  "checked": "2026-10-08T02:54:27+00:00",
+  "checked": "2026-10-08T02:55:38+00:00",
   "conf": "manual",
   "id": 84656,
   "score": null,
@@ -188,7 +188,7 @@
  },
  "3DS:manual:Animal Crossing: New Leaf": {
   "candidates": null,
-  "checked": "2026-10-08T02:54:27+00:00",
+  "checked": "2026-10-08T02:55:38+00:00",
   "conf": "manual",
   "id": 2687,
   "score": null,
@@ -197,9 +197,20 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Bravely Default": {
+  "candidates": null,
+  "checked": "2026-10-08T02:55:40+00:00",
+  "conf": "manual",
+  "id": 4700,
+  "score": null,
+  "slug": "bravely-default",
+  "title": "Bravely Default",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Crashmo": {
   "candidates": null,
-  "checked": "2026-10-08T02:54:28+00:00",
+  "checked": "2026-10-08T02:55:39+00:00",
   "conf": "manual",
   "id": 19928,
   "score": null,
@@ -210,7 +221,7 @@
  },
  "3DS:manual:Dragon Quest VIII: Journey of the Cursed King": {
   "candidates": 4,
-  "checked": "2026-10-08T02:54:29+00:00",
+  "checked": "2026-10-08T02:55:41+00:00",
   "conf": "high",
   "id": 145528,
   "score": 1.133,
@@ -254,7 +265,7 @@
  },
  "3DS:manual:Luigi's Mansion: Dark Moon": {
   "candidates": null,
-  "checked": "2026-10-08T02:54:27+00:00",
+  "checked": "2026-10-08T02:55:38+00:00",
   "conf": "manual",
   "id": 2476,
   "score": null,
@@ -265,12 +276,23 @@
  },
  "3DS:manual:Mario Kart 7": {
   "candidates": null,
-  "checked": "2026-10-08T02:54:28+00:00",
+  "checked": "2026-10-08T02:55:39+00:00",
   "conf": "manual",
   "id": 2349,
   "score": null,
   "slug": "mario-kart-7",
   "title": "Mario Kart 7",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Metroid: Samus Returns": {
+  "candidates": null,
+  "checked": "2026-10-08T02:55:40+00:00",
+  "conf": "manual",
+  "id": 37140,
+  "score": null,
+  "slug": "metroid-samus-returns",
+  "title": "Metroid: Samus Returns",
   "v": 4,
   "via": "fix"
  },
@@ -282,6 +304,17 @@
   "score": null,
   "slug": "pushmo",
   "title": "Pushmo",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Radiant Historia": {
+  "candidates": null,
+  "checked": "2026-10-08T02:55:39+00:00",
+  "conf": "manual",
+  "id": 6516,
+  "score": null,
+  "slug": "radiant-historia",
+  "title": "Radiant Historia",
   "v": 4,
   "via": "fix"
  },
@@ -298,7 +331,7 @@
  },
  "3DS:manual:SteamWorld Heist": {
   "candidates": null,
-  "checked": "2026-10-08T02:54:27+00:00",
+  "checked": "2026-10-08T02:55:39+00:00",
   "conf": "manual",
   "id": 15167,
   "score": null,

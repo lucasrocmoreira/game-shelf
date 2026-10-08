@@ -2216,7 +2216,7 @@
  "igdb:145528": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-08T02:54:50+00:00",
+  "checked": "2026-10-08T02:56:01+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -2346,7 +2346,7 @@
  "igdb:15167": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-08T02:54:42+00:00",
+  "checked": "2026-10-08T02:55:54+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "steamworld-heist"
@@ -3398,7 +3398,7 @@
  "igdb:19928": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T02:54:44+00:00",
+  "checked": "2026-10-08T02:55:56+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "crashmo"
@@ -4105,7 +4105,7 @@
  "igdb:2349": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-08T02:54:47+00:00",
+  "checked": "2026-10-08T02:55:58+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "mario-kart-7"
@@ -4196,7 +4196,7 @@
  "igdb:2476": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-08T02:54:39+00:00",
+  "checked": "2026-10-08T02:55:51+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "luigis-mansion-dark-moon"
@@ -4653,7 +4653,7 @@
  "igdb:2687": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-08T02:54:33+00:00",
+  "checked": "2026-10-08T02:55:45+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "animal-crossing-new-leaf"
@@ -5040,7 +5040,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "kingdom-come-deliverance-ii",
-  "oc_checked": "2026-10-08T02:54:50+00:00",
+  "oc_checked": "2026-10-08T02:56:09+00:00",
   "opencritic": 89,
   "opencritic_id": 17486,
   "opencritic_pct": 95,
@@ -5511,6 +5511,14 @@
   "opencritic_pct": 95,
   "opencritic_tier": "Mighty"
  },
+ "igdb:37140": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T02:56:09+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "metroid-samus-returns"
+ },
  "igdb:3722": {
   "backloggd": 3.2,
   "bl_v": 2,
@@ -5733,6 +5741,14 @@
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "maneater"
+ },
+ "igdb:4700": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-08T02:56:06+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "bravely-default"
  },
  "igdb:47400": {
   "backloggd": 3.4,
@@ -6120,6 +6136,14 @@
   ],
   "steam_pct": 95,
   "steam_reviews": 6258
+ },
+ "igdb:6516": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T02:56:04+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:654": {
   "backloggd": 3.7,
@@ -6703,7 +6727,7 @@
  "igdb:84656": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T02:54:36+00:00",
+  "checked": "2026-10-08T02:55:47+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
