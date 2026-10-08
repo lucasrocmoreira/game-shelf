@@ -8416,7 +8416,7 @@
  },
  "PSP:manual:Lego Pirates of the Caribbean": {
   "candidates": null,
-  "checked": "2026-10-08T03:29:55+00:00",
+  "checked": "2026-10-08T03:31:37+00:00",
   "conf": "manual",
   "id": 542,
   "score": null,
@@ -8513,9 +8513,20 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Need for Speed: ProStreet": {
+  "candidates": null,
+  "checked": "2026-10-08T03:31:38+00:00",
+  "conf": "manual",
+  "id": 100,
+  "score": null,
+  "slug": "need-for-speed-prostreet",
+  "title": "Need for Speed: ProStreet",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Need for Speed: Shift": {
   "candidates": null,
-  "checked": "2026-10-08T03:29:55+00:00",
+  "checked": "2026-10-08T03:31:37+00:00",
   "conf": "manual",
   "id": 102,
   "score": null,
@@ -8581,7 +8592,7 @@
  },
  "PSP:manual:Prince of Persia: The Forgotten Sands": {
   "candidates": null,
-  "checked": "2026-10-08T03:29:56+00:00",
+  "checked": "2026-10-08T03:31:38+00:00",
   "conf": "manual",
   "id": 2468,
   "score": null,
@@ -8667,9 +8678,20 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Tales of Eternia": {
+  "candidates": null,
+  "checked": "2026-10-08T03:31:38+00:00",
+  "conf": "manual",
+  "id": 1202,
+  "score": null,
+  "slug": "tales-of-destiny-ii",
+  "title": "Tales of Eternia",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Tales of the World: Radiant Mythology": {
   "candidates": null,
-  "checked": "2026-10-08T03:29:56+00:00",
+  "checked": "2026-10-08T03:31:37+00:00",
   "conf": "manual",
   "id": 19159,
   "score": null,
@@ -8711,6 +8733,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:harvest moon: boy & girl": {
+  "candidates": 2,
+  "checked": "2026-10-08T03:31:43+00:00",
+  "conf": "high",
+  "id": 42889,
+  "score": 1.128,
+  "slug": null,
+  "title": "harvest moon: boy & girl",
+  "v": 4,
+  "via": "search"
+ },
  "PSP:manual:legend of heroes: trails in the sky": {
   "candidates": 6,
   "checked": "2026-10-08T03:24:31+00:00",
@@ -8724,7 +8757,7 @@
  },
  "PSP:manual:lord of the rings: tactics": {
   "candidates": 1,
-  "checked": "2026-10-08T03:29:58+00:00",
+  "checked": "2026-10-08T03:31:41+00:00",
   "conf": "high",
   "id": 22458,
   "score": 1.131,
@@ -8735,7 +8768,7 @@
  },
  "PSP:manual:prince of persia revelations": {
   "candidates": 2,
-  "checked": "2026-10-08T03:29:58+00:00",
+  "checked": "2026-10-08T03:31:40+00:00",
   "conf": "high",
   "id": 22565,
   "score": 1.133,
@@ -8766,6 +8799,17 @@
   "v": 4,
   "via": "search"
  },
+ "PSP:manual:sims 2: castaway": {
+  "candidates": 3,
+  "checked": "2026-10-08T03:31:41+00:00",
+  "conf": "high",
+  "id": 192907,
+  "score": 1.128,
+  "slug": null,
+  "title": "sims 2: castaway",
+  "v": 4,
+  "via": "search"
+ },
  "PSP:manual:tactics ogre: let us cling together": {
   "candidates": 3,
   "checked": "2026-10-08T03:17:49+00:00",
@@ -8779,12 +8823,23 @@
  },
  "PSP:manual:tomb raider: legend": {
   "candidates": 9,
-  "checked": "2026-10-08T03:29:57+00:00",
+  "checked": "2026-10-08T03:31:39+00:00",
   "conf": "high",
   "id": 248535,
   "score": 1.123,
   "slug": null,
   "title": "tomb raider: legend",
+  "v": 4,
+  "via": "search"
+ },
+ "PSP:manual:ys i & ii chronicles": {
+  "candidates": 3,
+  "checked": "2026-10-08T03:31:42+00:00",
+  "conf": "high",
+  "id": 21020,
+  "score": 1.054,
+  "slug": null,
+  "title": "ys i & ii chronicles",
   "v": 4,
   "via": "search"
  },
