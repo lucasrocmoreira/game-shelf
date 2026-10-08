@@ -819,6 +819,36 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Mario & Luigi: Superstar Saga + Bowser's Minions",
    "title": "Mario & Luigi: Superstar Saga + Bowser's Minions"
+  },
+  {
+   "format": "digital",
+   "igdb": "kirby-planet-robobot",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby: Planet Robobot",
+   "title": "Kirby: Planet Robobot"
+  },
+  {
+   "format": "digital",
+   "igdb": "phoenix-wright-ace-attorney-trilogy",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Phoenix Wright: Ace Attorney Trilogy",
+   "title": "Phoenix Wright: Ace Attorney Trilogy"
+  },
+  {
+   "format": "digital",
+   "igdb": "phoenix-wright-ace-attorney-spirit-of-justice",
+   "last_played": null,
+   "manual": true,
+   "platform": "3DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Phoenix Wright: Ace Attorney – Spirit of Justice",
+   "title": "Phoenix Wright: Ace Attorney – Spirit of Justice"
   }
  ],
  "nintendo_eshop": [
