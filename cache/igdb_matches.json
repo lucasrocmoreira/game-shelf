@@ -1376,7 +1376,7 @@
  },
  "PS Vita:manual:Borderlands 2": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:30+00:00",
+  "checked": "2026-10-08T03:51:17+00:00",
   "conf": "manual",
   "id": 1011,
   "score": null,
@@ -1420,7 +1420,7 @@
  },
  "PS Vita:manual:Danganronpa Another Episode: Ultra Despair Girls": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 9708,
   "score": null,
@@ -1462,6 +1462,28 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Digimon Story: Cyber Sleuth": {
+  "candidates": null,
+  "checked": "2026-10-08T03:51:18+00:00",
+  "conf": "manual",
+  "id": 15705,
+  "score": null,
+  "slug": "digimon-story-cyber-sleuth",
+  "title": "Digimon Story: Cyber Sleuth",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Don't Starve: Giant Edition": {
+  "candidates": null,
+  "checked": "2026-10-08T03:51:19+00:00",
+  "conf": "manual",
+  "id": 21662,
+  "score": null,
+  "slug": "dont-starve-giant-edition",
+  "title": "Don't Starve: Giant Edition",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Final Fantasy X/X-2 HD Remaster": {
   "candidates": null,
   "checked": "2026-10-08T03:38:26+00:00",
@@ -1475,7 +1497,7 @@
  },
  "PS Vita:manual:Freedom Wars": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 6060,
   "score": null,
@@ -1486,7 +1508,7 @@
  },
  "PS Vita:manual:God of War Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:28+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 20579,
   "score": null,
@@ -1541,7 +1563,7 @@
  },
  "PS Vita:manual:Hotline Miami 2: Wrong Number": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:30+00:00",
+  "checked": "2026-10-08T03:51:17+00:00",
   "conf": "manual",
   "id": 2126,
   "score": null,
@@ -1550,9 +1572,20 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Injustice: Gods Among Us Ultimate Edition": {
+  "candidates": null,
+  "checked": "2026-10-08T03:51:19+00:00",
+  "conf": "manual",
+  "id": 23354,
+  "score": null,
+  "slug": "injustice-gods-among-us-ultimate-edition",
+  "title": "Injustice: Gods Among Us Ultimate Edition",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Jak and Daxter Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:49+00:00",
   "conf": "manual",
   "id": 20113,
   "score": null,
@@ -1618,7 +1651,7 @@
  },
  "PS Vita:manual:Ninja Gaiden Sigma Plus": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:29+00:00",
+  "checked": "2026-10-08T03:47:48+00:00",
   "conf": "manual",
   "id": 21569,
   "score": null,
@@ -1629,7 +1662,7 @@
  },
  "PS Vita:manual:Oddworld: Munch's Oddysee hd": {
   "candidates": 1,
-  "checked": "2026-10-08T03:49:31+00:00",
+  "checked": "2026-10-08T03:47:50+00:00",
   "conf": "high",
   "id": 51329,
   "score": 1.125,
@@ -1693,6 +1726,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Papers, Please": {
+  "candidates": null,
+  "checked": "2026-10-08T03:51:18+00:00",
+  "conf": "manual",
+  "id": 2935,
+  "score": null,
+  "slug": "papers-please",
+  "title": "Papers, Please",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Persona 4: Golden": {
   "candidates": null,
   "checked": "2026-10-08T03:35:07+00:00",
@@ -1728,7 +1772,7 @@
  },
  "PS Vita:manual:Resistance: Burning Skies": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:30+00:00",
+  "checked": "2026-10-08T03:51:18+00:00",
   "conf": "manual",
   "id": 19907,
   "score": null,
@@ -1761,12 +1805,23 @@
  },
  "PS Vita:manual:Sly Cooper: Thieves in Time": {
   "candidates": null,
-  "checked": "2026-10-08T03:49:28+00:00",
+  "checked": "2026-10-08T03:47:47+00:00",
   "conf": "manual",
   "id": 1801,
   "score": null,
   "slug": "sly-cooper-thieves-in-time",
   "title": "Sly Cooper: Thieves in Time",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Stardew Valley": {
+  "candidates": null,
+  "checked": "2026-10-08T03:51:18+00:00",
+  "conf": "manual",
+  "id": 17000,
+  "score": null,
+  "slug": "stardew-valley",
+  "title": "Stardew Valley",
   "v": 4,
   "via": "fix"
  },
@@ -1882,7 +1937,7 @@
  },
  "PS Vita:manual:velocity 2x: critical mass edition": {
   "candidates": 1,
-  "checked": "2026-10-08T03:49:32+00:00",
+  "checked": "2026-10-08T03:51:20+00:00",
   "conf": "high",
   "id": 167039,
   "score": 1.02,
@@ -1921,6 +1976,28 @@
   "score": null,
   "slug": "ys-memories-of-celceta",
   "title": "ys-memories-of-celceta",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:ys-origin": {
+  "candidates": null,
+  "checked": "2026-10-08T03:51:19+00:00",
+  "conf": "manual",
+  "id": 10949,
+  "score": null,
+  "slug": "ys-origin",
+  "title": "ys-origin",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:ys-viii-lacrimosa-of-dana": {
+  "candidates": null,
+  "checked": "2026-10-08T03:51:20+00:00",
+  "conf": "manual",
+  "id": 27304,
+  "score": null,
+  "slug": "ys-viii-lacrimosa-of-dana",
+  "title": "ys-viii-lacrimosa-of-dana",
   "v": 4,
   "via": "fix"
  },

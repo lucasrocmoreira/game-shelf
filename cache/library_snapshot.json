@@ -2259,6 +2259,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:bit.trip limited edition",
    "title": "bit.trip limited edition"
+  },
+  {
+   "format": "digital",
+   "igdb": "stardew-valley",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Stardew Valley",
+   "title": "Stardew Valley"
+  },
+  {
+   "format": "digital",
+   "igdb": "digimon-story-cyber-sleuth",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Digimon Story: Cyber Sleuth",
+   "title": "Digimon Story: Cyber Sleuth"
+  },
+  {
+   "format": "digital",
+   "igdb": "papers-please",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Papers, Please",
+   "title": "Papers, Please"
+  },
+  {
+   "format": "digital",
+   "igdb": "dont-starve-giant-edition",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Don't Starve: Giant Edition",
+   "title": "Don't Starve: Giant Edition"
+  },
+  {
+   "format": "digital",
+   "igdb": "injustice-gods-among-us-ultimate-edition",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Injustice: Gods Among Us Ultimate Edition",
+   "title": "Injustice: Gods Among Us Ultimate Edition"
+  },
+  {
+   "format": "digital",
+   "igdb": "ys-origin",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:ys-origin",
+   "title": "ys-origin"
+  },
+  {
+   "format": "digital",
+   "igdb": "ys-viii-lacrimosa-of-dana",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:ys-viii-lacrimosa-of-dana",
+   "title": "ys-viii-lacrimosa-of-dana"
   }
  ],
  "nintendo_eshop": [
@@ -2467,7 +2537,7 @@
    "title": "Horizon Zero Dawn™"
   },
   {
-   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00634_00/3/i_bd22c9c5ff495c10c426c43b96fdbaf5766a8c7cf9cb11996283ced3402d9292/i/icon0_01.png",
+   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00634_00/3/i_bd22c9c5ff495c10c426c43b96fdbaf5766a8c7cf9cb11996283ced3402d9292/i/icon0_21.png",
    "last_played": "2022-01-11",
    "platform": "PS4",
    "playtime_hours": 111.3,
@@ -3049,7 +3119,7 @@
    "playtime_hours": 2.1,
    "ps_plus": false,
    "source_id": "CUSA00069_00",
-   "title": "Rayman Legends"
+   "title": "Rayman® Legends"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/3d17c33239dab88c7e2f24af50140b3f6fa555e6030d5704.png",
