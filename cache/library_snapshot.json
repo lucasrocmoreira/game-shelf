@@ -1459,6 +1459,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Shin Megami Tensei: Persona",
    "title": "Shin Megami Tensei: Persona"
+  },
+  {
+   "format": "digital",
+   "igdb": "metal-slug-anthology",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metal Slug Anthology",
+   "title": "Metal Slug Anthology"
+  },
+  {
+   "format": "digital",
+   "igdb": "final-fantasy-iv-the-complete-collection",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Final Fantasy IV: The Complete Collection",
+   "title": "Final Fantasy IV: The Complete Collection"
+  },
+  {
+   "format": "digital",
+   "igdb": "lego-indiana-jones-the-original-adventures",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Lego Indiana Jones: The Original Adventures",
+   "title": "Lego Indiana Jones: The Original Adventures"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:shin megami tensei: persona 2 - innocent sin",
+   "title": "shin megami tensei: persona 2 - innocent sin"
   }
  ],
  "nintendo_eshop": [

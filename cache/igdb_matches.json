@@ -8295,12 +8295,23 @@
  },
  "PSP:manual:Dissidia Final Fantasy": {
   "candidates": null,
-  "checked": "2026-10-08T03:22:52+00:00",
+  "checked": "2026-10-08T03:24:29+00:00",
   "conf": "manual",
   "id": 391,
   "score": null,
   "slug": "dissidia-final-fantasy",
   "title": "Dissidia Final Fantasy",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Final Fantasy IV: The Complete Collection": {
+  "candidates": null,
+  "checked": "2026-10-08T03:24:30+00:00",
+  "conf": "manual",
+  "id": 21779,
+  "score": null,
+  "slug": "final-fantasy-iv-the-complete-collection",
+  "title": "Final Fantasy IV: The Complete Collection",
   "v": 4,
   "via": "fix"
  },
@@ -8345,6 +8356,17 @@
   "score": null,
   "slug": "kingdom-hearts-birth-by-sleep",
   "title": "Kingdom Hearts: Birth by Sleep",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Lego Indiana Jones: The Original Adventures": {
+  "candidates": null,
+  "checked": "2026-10-08T03:24:31+00:00",
+  "conf": "manual",
+  "id": 189,
+  "score": null,
+  "slug": "lego-indiana-jones-the-original-adventures",
+  "title": "Lego Indiana Jones: The Original Adventures",
   "v": 4,
   "via": "fix"
  },
@@ -8414,6 +8436,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Metal Slug Anthology": {
+  "candidates": null,
+  "checked": "2026-10-08T03:24:30+00:00",
+  "conf": "manual",
+  "id": 5004,
+  "score": null,
+  "slug": "metal-slug-anthology",
+  "title": "Metal Slug Anthology",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Patapon": {
   "candidates": null,
   "checked": "2026-10-08T03:19:28+00:00",
@@ -8460,7 +8493,7 @@
  },
  "PSP:manual:Rock Band Unplugged": {
   "candidates": null,
-  "checked": "2026-10-08T03:22:52+00:00",
+  "checked": "2026-10-08T03:24:29+00:00",
   "conf": "manual",
   "id": 2721,
   "score": null,
@@ -8471,7 +8504,7 @@
  },
  "PSP:manual:Shin Megami Tensei: Persona": {
   "candidates": null,
-  "checked": "2026-10-08T03:22:52+00:00",
+  "checked": "2026-10-08T03:24:30+00:00",
   "conf": "manual",
   "id": 21842,
   "score": null,
@@ -8482,7 +8515,7 @@
  },
  "PSP:manual:Soulcalibur: Broken Destiny": {
   "candidates": null,
-  "checked": "2026-10-08T03:22:52+00:00",
+  "checked": "2026-10-08T03:24:29+00:00",
   "conf": "manual",
   "id": 1568,
   "score": null,
@@ -8526,12 +8559,23 @@
  },
  "PSP:manual:legend of heroes: trails in the sky": {
   "candidates": 6,
-  "checked": "2026-10-08T03:22:53+00:00",
+  "checked": "2026-10-08T03:24:31+00:00",
   "conf": "high",
   "id": 8986,
   "score": 1.139,
   "slug": null,
   "title": "legend of heroes: trails in the sky",
+  "v": 4,
+  "via": "search"
+ },
+ "PSP:manual:shin megami tensei: persona 2 - innocent sin": {
+  "candidates": 2,
+  "checked": "2026-10-08T03:24:32+00:00",
+  "conf": "high",
+  "id": 250931,
+  "score": 1.128,
+  "slug": null,
+  "title": "shin megami tensei: persona 2 - innocent sin",
   "v": 4,
   "via": "search"
  },
@@ -8548,7 +8592,7 @@
  },
  "PSP:manual:ys-seven": {
   "candidates": null,
-  "checked": "2026-10-08T03:22:52+00:00",
+  "checked": "2026-10-08T03:24:29+00:00",
   "conf": "manual",
   "id": 10948,
   "score": null,

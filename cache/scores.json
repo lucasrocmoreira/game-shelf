@@ -400,7 +400,7 @@
  "igdb:10948": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-08T03:23:03+00:00",
+  "checked": "2026-10-08T03:24:41+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "ys-seven"
@@ -2621,7 +2621,7 @@
  "igdb:1568": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:22:58+00:00",
+  "checked": "2026-10-08T03:24:36+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "soulcalibur-broken-destiny"
@@ -3131,6 +3131,14 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "pyre"
+ },
+ "igdb:189": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:24:56+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "lego-indiana-jones-the-original-adventures"
  },
  "igdb:18918": {
   "backloggd": 3.3,
@@ -4089,6 +4097,14 @@
   "metacritic": 84,
   "metacritic_slug": "borderlands"
  },
+ "igdb:21779": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:24:53+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "final-fantasy-iv-the-complete-collection"
+ },
  "igdb:217909": {
   "backloggd": 4.3,
   "bl_v": 2,
@@ -4100,7 +4116,7 @@
  "igdb:21842": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:23:10+00:00",
+  "checked": "2026-10-08T03:24:48+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "shin-megami-tensei-persona"
@@ -4637,6 +4653,14 @@
   "metacritic": 73,
   "metacritic_slug": "lego-harry-potter-collection"
  },
+ "igdb:250931": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:24:58+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:251471": {
   "backloggd": 3.2,
   "bl_v": 2,
@@ -4994,7 +5018,7 @@
  "igdb:2721": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-08T03:23:08+00:00",
+  "checked": "2026-10-08T03:24:46+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "rock-band-unplugged"
@@ -5970,7 +5994,7 @@
  "igdb:391": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-08T03:23:00+00:00",
+  "checked": "2026-10-08T03:24:38+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "dissidia-final-fantasy"
@@ -6221,6 +6245,14 @@
   "opencritic_id": 1561,
   "opencritic_pct": 49,
   "opencritic_tier": "Fair"
+ },
+ "igdb:5004": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:24:51+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "metal-slug-anthology"
  },
  "igdb:5006": {
   "backloggd": 3.3,
@@ -7396,7 +7428,7 @@
  "igdb:8986": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-08T03:23:05+00:00",
+  "checked": "2026-10-08T03:24:43+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
