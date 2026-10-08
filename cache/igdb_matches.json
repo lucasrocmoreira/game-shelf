@@ -1374,6 +1374,28 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Final Fantasy X/X-2 HD Remaster": {
+  "candidates": null,
+  "checked": "2026-10-08T03:36:48+00:00",
+  "conf": "manual",
+  "id": 14144,
+  "score": null,
+  "slug": "final-fantasy-x-slash-x-2-hd-remaster",
+  "title": "Final Fantasy X/X-2 HD Remaster",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Grim Fandango Remastered": {
+  "candidates": null,
+  "checked": "2026-10-08T03:36:49+00:00",
+  "conf": "manual",
+  "id": 8682,
+  "score": null,
+  "slug": "grim-fandango-remastered",
+  "title": "Grim Fandango Remastered",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Guacamelee!": {
   "candidates": null,
   "checked": "2026-10-08T03:35:09+00:00",
@@ -1382,6 +1404,17 @@
   "score": null,
   "slug": "guacamelee-super-turbo-championship-edition",
   "title": "Guacamelee!",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:Hotline Miami": {
+  "candidates": null,
+  "checked": "2026-10-08T03:36:48+00:00",
+  "conf": "manual",
+  "id": 1384,
+  "score": null,
+  "slug": "hotline-miami",
+  "title": "Hotline Miami",
   "v": 4,
   "via": "fix"
  },
@@ -1396,6 +1429,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PS Vita:manual:Mortal Kombat": {
+  "candidates": null,
+  "checked": "2026-10-08T03:36:48+00:00",
+  "conf": "manual",
+  "id": 119,
+  "score": null,
+  "slug": "mortal-kombat",
+  "title": "Mortal Kombat",
+  "v": 4,
+  "via": "fix"
+ },
  "PS Vita:manual:Odin Sphere Leifthrasir": {
   "candidates": null,
   "checked": "2026-10-08T03:35:08+00:00",
@@ -1404,6 +1448,17 @@
   "score": null,
   "slug": "odin-sphere-leifthrasir",
   "title": "Odin Sphere Leifthrasir",
+  "v": 4,
+  "via": "fix"
+ },
+ "PS Vita:manual:OlliOlli2": {
+  "candidates": null,
+  "checked": "2026-10-08T03:36:49+00:00",
+  "conf": "manual",
+  "id": 9523,
+  "score": null,
+  "slug": "olliolli2-welcome-to-olliwood",
+  "title": "OlliOlli2",
   "v": 4,
   "via": "fix"
  },

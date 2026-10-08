@@ -950,6 +950,14 @@
   "metacritic": 56,
   "metacritic_slug": "predator-hunting-grounds"
  },
+ "igdb:119": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:36:58+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:1190": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -1906,6 +1914,14 @@
   "metacritic": 82,
   "metacritic_slug": "super-mario-3d-all-stars"
  },
+ "igdb:1384": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:37:01+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "hotline-miami"
+ },
  "igdb:138590": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -2033,6 +2049,14 @@
   "checked": "2026-10-06T22:01:09+00:00",
   "metacritic": 73,
   "metacritic_slug": "star-wars-battlefront"
+ },
+ "igdb:14144": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:36:56+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "final-fantasy-x-x-2-hd-remaster"
  },
  "igdb:141538": {
   "backloggd": 2.8,
@@ -7591,6 +7615,14 @@
   "steam_pct": 96,
   "steam_reviews": 10460
  },
+ "igdb:8682": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:37:06+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "grim-fandango-remastered"
+ },
  "igdb:87210": {
   "backloggd": 2.7,
   "bl_v": 2,
@@ -7786,6 +7818,14 @@
   "opencritic_id": 1514,
   "opencritic_pct": 69,
   "opencritic_tier": "Strong"
+ },
+ "igdb:9523": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:37:03+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "olliolli2-welcome-to-olliwood"
  },
  "igdb:9597": {
   "backloggd": 4.1,

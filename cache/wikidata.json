@@ -848,6 +848,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 8586
  },
+ "final-fantasy-x-slash-x-2-hd-remaster": {
+  "checked": "2026-10-08T03:36:51+00:00",
+  "opencritic_id": 21
+ },
  "final-fantasy-xv": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 1512
@@ -1005,6 +1009,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 12803
  },
+ "grim-fandango-remastered": {
+  "checked": "2026-10-08T03:36:51+00:00",
+  "opencritic_id": 124
+ },
  "gris": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 6890
@@ -1107,6 +1115,9 @@
  "hot-wheels-unleashed-2-turbocharged": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 15394
+ },
+ "hotline-miami": {
+  "checked": "2026-10-08T03:36:51+00:00"
  },
  "humanity": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1516,6 +1527,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 9508
  },
+ "mortal-kombat": {
+  "checked": "2026-10-08T03:36:51+00:00"
+ },
  "mortal-kombat-1--1": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15004
@@ -1652,6 +1666,10 @@
  "olliolli-world": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 12617
+ },
+ "olliolli2-welcome-to-olliwood": {
+  "checked": "2026-10-08T03:36:51+00:00",
+  "opencritic_id": 94
  },
  "operation-tango": {
   "checked": "2026-10-07T01:52:02+00:00"

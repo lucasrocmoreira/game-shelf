@@ -1819,6 +1819,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Code: Realize − Guardian of Rebirth",
    "title": "Code: Realize − Guardian of Rebirth"
+  },
+  {
+   "format": "digital",
+   "igdb": "final-fantasy-x-slash-x-2-hd-remaster",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Final Fantasy X/X-2 HD Remaster",
+   "title": "Final Fantasy X/X-2 HD Remaster"
+  },
+  {
+   "format": "digital",
+   "igdb": "mortal-kombat",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mortal Kombat",
+   "title": "Mortal Kombat"
+  },
+  {
+   "format": "digital",
+   "igdb": "hotline-miami",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Hotline Miami",
+   "title": "Hotline Miami"
+  },
+  {
+   "format": "digital",
+   "igdb": "olliolli2-welcome-to-olliwood",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:OlliOlli2",
+   "title": "OlliOlli2"
+  },
+  {
+   "format": "digital",
+   "igdb": "grim-fandango-remastered",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS Vita",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Grim Fandango Remastered",
+   "title": "Grim Fandango Remastered"
   }
  ],
  "nintendo_eshop": [
