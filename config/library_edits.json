@@ -472,6 +472,13 @@
    "platform": "3DS",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Radiant Historia",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "radiant-historia"
   }
  ],
  "match": {
