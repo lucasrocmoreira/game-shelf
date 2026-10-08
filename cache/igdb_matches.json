@@ -329,6 +329,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Dillon's Rolling Western: The Last Ranger": {
+  "candidates": null,
+  "checked": "2026-10-08T03:09:53+00:00",
+  "conf": "manual",
+  "id": 24294,
+  "score": null,
+  "slug": "dillons-rolling-western-the-last-ranger",
+  "title": "Dillon's Rolling Western: The Last Ranger",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Donkey Kong Country Returns 3D": {
   "candidates": 1,
   "checked": "2026-10-08T02:58:40+00:00",
@@ -384,6 +395,17 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Fantasy Life": {
+  "candidates": null,
+  "checked": "2026-10-08T03:09:52+00:00",
+  "conf": "manual",
+  "id": 6770,
+  "score": null,
+  "slug": "fantasy-life",
+  "title": "Fantasy Life",
+  "v": 4,
+  "via": "fix"
+ },
  "3DS:manual:Fire Emblem Awakening": {
   "candidates": null,
   "checked": "2026-10-08T02:52:20+00:00",
@@ -392,6 +414,17 @@
   "score": null,
   "slug": "fire-emblem-awakening",
   "title": "Fire Emblem Awakening",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:HarmoKnight": {
+  "candidates": null,
+  "checked": "2026-10-08T03:09:53+00:00",
+  "conf": "manual",
+  "id": 18156,
+  "score": null,
+  "slug": "harmoknight",
+  "title": "HarmoKnight",
   "v": 4,
   "via": "fix"
  },
@@ -449,6 +482,17 @@
   "title": "Legend of Zelda: Ocarina of Time",
   "v": 4,
   "via": "search"
+ },
+ "3DS:manual:Liberation Maiden": {
+  "candidates": null,
+  "checked": "2026-10-08T03:09:53+00:00",
+  "conf": "manual",
+  "id": 21007,
+  "score": null,
+  "slug": "liberation-maiden",
+  "title": "Liberation Maiden",
+  "v": 4,
+  "via": "fix"
  },
  "3DS:manual:Luigi's Mansion": {
   "candidates": null,
@@ -524,6 +568,17 @@
   "score": null,
   "slug": "mighty-switch-force",
   "title": "Mighty Switch Force!",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Mighty Switch Force! 2": {
+  "candidates": null,
+  "checked": "2026-10-08T03:09:52+00:00",
+  "conf": "manual",
+  "id": 20081,
+  "score": null,
+  "slug": "mighty-switch-force-2",
+  "title": "Mighty Switch Force! 2",
   "v": 4,
   "via": "fix"
  },
@@ -634,6 +689,17 @@
   "score": null,
   "slug": "radiant-historia",
   "title": "Radiant Historia",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Rayman Origins": {
+  "candidates": null,
+  "checked": "2026-10-08T03:09:53+00:00",
+  "conf": "manual",
+  "id": 981,
+  "score": null,
+  "slug": "rayman-origins",
+  "title": "Rayman Origins",
   "v": 4,
   "via": "fix"
  },
@@ -766,6 +832,17 @@
   "score": null,
   "slug": "yo-kai-watch",
   "title": "Yo-kai Watch",
+  "v": 4,
+  "via": "fix"
+ },
+ "3DS:manual:Yo-kai Watch 2": {
+  "candidates": null,
+  "checked": "2026-10-08T03:09:52+00:00",
+  "conf": "manual",
+  "id": null,
+  "score": null,
+  "slug": "yo-kai-watch-2-bony-spirits-slash-fleshy-souls",
+  "title": "Yo-kai Watch 2",
   "v": 4,
   "via": "fix"
  },

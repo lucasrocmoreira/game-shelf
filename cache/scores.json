@@ -2843,6 +2843,14 @@
   "metacritic": 80,
   "metacritic_slug": "dragon-quest-iv-chapters-of-the-chosen"
  },
+ "igdb:18156": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:10:07+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "harmoknight"
+ },
  "igdb:18167": {
   "backloggd": 2.2,
   "bl_v": 2,
@@ -3810,6 +3818,14 @@
   "steam_pct": 89,
   "steam_reviews": 14998
  },
+ "igdb:21007": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:10:15+00:00",
+  "mc_v": 2,
+  "metacritic": 69,
+  "metacritic_slug": "liberation-maiden"
+ },
  "igdb:21063": {
   "backloggd": 1.9,
   "bl_v": 2,
@@ -4328,6 +4344,14 @@
   ],
   "steam_pct": 89,
   "steam_reviews": 816
+ },
+ "igdb:24294": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:10:17+00:00",
+  "mc_v": 2,
+  "metacritic": 68,
+  "metacritic_slug": "dillons-rolling-western-the-last-ranger"
  },
  "igdb:2476": {
   "backloggd": 3.5,
@@ -6359,6 +6383,14 @@
   "metacritic": 84,
   "metacritic_slug": "etrian-odyssey-iv-legends-of-the-titan"
  },
+ "igdb:6770": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:10:04+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:6886": {
   "backloggd": 4.2,
   "bl_v": 2,
@@ -7309,6 +7341,14 @@
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "resident-evil-revelations"
+ },
+ "igdb:981": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:10:12+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "rayman-origins"
  },
  "igdb:9898": {
   "backloggd": 3.5,
@@ -9113,6 +9153,13 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "yakuza-like-a-dragon"
+ },
+ "t:yo kai watch 2": {
+  "bl_v": 2,
+  "checked": "2026-10-08T03:09:58+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "t:zombie army 4 dead war": {
   "bl_v": 2,
