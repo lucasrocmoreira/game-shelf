@@ -1165,6 +1165,13 @@
    "platform": "PSP",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Prince of Persia: The Forgotten Sands",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "prince-of-persia-the-forgotten-sands"
   }
  ],
  "match": {
