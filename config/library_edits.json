@@ -890,6 +890,13 @@
    "platform": "PSP",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Metal Gear Solid: Portable Ops",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metal-gear-solid-portable-ops"
   }
  ],
  "match": {
