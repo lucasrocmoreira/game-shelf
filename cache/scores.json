@@ -954,6 +954,14 @@
   "metacritic": 83,
   "metacritic_slug": "persona-5-strikers"
  },
+ "igdb:117882": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-08T04:08:44+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:11800": {
   "backloggd": 4.2,
   "bl_v": 2,
@@ -3826,6 +3834,14 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "crashmo"
+ },
+ "igdb:19959": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-08T04:08:41+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "god-of-war-iii-remastered"
  },
  "igdb:19984": {
   "backloggd": 3.3,

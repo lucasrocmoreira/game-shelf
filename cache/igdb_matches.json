@@ -2012,6 +2012,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PS3:manual:God of War II HD": {
+  "candidates": 9,
+  "checked": "2026-10-08T04:08:36+00:00",
+  "conf": "medium",
+  "id": 117882,
+  "score": 1.028,
+  "slug": null,
+  "title": "God of War II HD",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA00068_00": {
   "candidates": 10,
   "checked": "2026-10-07T01:45:26+00:00",
@@ -2439,6 +2450,17 @@
   "slug": null,
   "title": "Life Is Strange™",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA01623_00": {
+  "candidates": 1,
+  "checked": "2026-10-08T04:08:34+00:00",
+  "conf": "high",
+  "id": 19959,
+  "score": 1.143,
+  "slug": null,
+  "title": "God of War® III Remastered",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA01633_00": {
