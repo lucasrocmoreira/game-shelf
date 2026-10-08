@@ -812,7 +812,7 @@
  "igdb:11639": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:26:37+00:00",
+  "checked": "2026-10-08T03:28:29+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "need-for-speed-carbon-own-the-city"
@@ -2570,6 +2570,14 @@
   "opencritic_pct": 20,
   "opencritic_tier": "Weak"
  },
+ "igdb:1531": {
+  "backloggd": 2.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:28:32+00:00",
+  "mc_v": 2,
+  "metacritic": 71,
+  "metacritic_slug": "jak-and-daxter-the-lost-frontier"
+ },
  "igdb:1533": {
   "backloggd": 3.4,
   "bl_v": 2,
@@ -3019,7 +3027,7 @@
  "igdb:18373": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-08T03:26:27+00:00",
+  "checked": "2026-10-08T03:28:19+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "patapon-3"
@@ -4260,7 +4268,7 @@
  "igdb:22509": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-08T03:26:32+00:00",
+  "checked": "2026-10-08T03:28:25+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "need-for-speed-underground-rivals"
@@ -4532,7 +4540,7 @@
  "igdb:24299": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:26:21+00:00",
+  "checked": "2026-10-08T03:28:13+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "star-ocean-first-departure"
@@ -4540,7 +4548,7 @@
  "igdb:243129": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-08T03:26:25+00:00",
+  "checked": "2026-10-08T03:28:17+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "prince-of-persia-rival-swords"
@@ -5101,7 +5109,7 @@
  "igdb:2738": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-08T03:26:35+00:00",
+  "checked": "2026-10-08T03:28:27+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "lego-batman-the-videogame"
@@ -5309,6 +5317,13 @@
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "sword-art-online-fractured-daydream"
+ },
+ "igdb:28854": {
+  "bl_v": 2,
+  "checked": "2026-10-08T03:28:34+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:28981": {
   "backloggd": 3.9,
@@ -6136,7 +6151,7 @@
  "igdb:42887": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-08T03:26:30+00:00",
+  "checked": "2026-10-08T03:28:22+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "harvest-moon-hero-of-leaf-valley"
@@ -6233,6 +6248,14 @@
   "steam_genres": [],
   "steam_pct": 87,
   "steam_reviews": 20533
+ },
+ "igdb:475": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-08T03:28:37+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "star-wars-the-force-unleashed"
  },
  "igdb:4754": {
   "backloggd": 4.0,

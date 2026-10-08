@@ -8282,6 +8282,17 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Dante's Inferno": {
+  "candidates": null,
+  "checked": "2026-10-08T03:28:04+00:00",
+  "conf": "manual",
+  "id": 28854,
+  "score": null,
+  "slug": "dantes-inferno",
+  "title": "Dante's Inferno",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Daxter": {
   "candidates": null,
   "checked": "2026-10-08T03:19:28+00:00",
@@ -8339,12 +8350,23 @@
  },
  "PSP:manual:Harvest Moon: Hero of Leaf Valley": {
   "candidates": null,
-  "checked": "2026-10-08T03:26:15+00:00",
+  "checked": "2026-10-08T03:28:02+00:00",
   "conf": "manual",
   "id": 42887,
   "score": null,
   "slug": "harvest-moon-hero-of-leaf-valley",
   "title": "Harvest Moon: Hero of Leaf Valley",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Jak and Daxter: The Lost Frontier": {
+  "candidates": null,
+  "checked": "2026-10-08T03:28:04+00:00",
+  "conf": "manual",
+  "id": 1531,
+  "score": null,
+  "slug": "jak-and-daxter-the-lost-frontier",
+  "title": "Jak and Daxter: The Lost Frontier",
   "v": 4,
   "via": "fix"
  },
@@ -8372,7 +8394,7 @@
  },
  "PSP:manual:Lego Batman: The Videogame": {
   "candidates": null,
-  "checked": "2026-10-08T03:26:16+00:00",
+  "checked": "2026-10-08T03:28:03+00:00",
   "conf": "manual",
   "id": 2738,
   "score": null,
@@ -8471,7 +8493,7 @@
  },
  "PSP:manual:Need for Speed Carbon: Own the City": {
   "candidates": null,
-  "checked": "2026-10-08T03:26:16+00:00",
+  "checked": "2026-10-08T03:28:03+00:00",
   "conf": "manual",
   "id": 11639,
   "score": null,
@@ -8482,7 +8504,7 @@
  },
  "PSP:manual:Need for Speed: Underground Rivals": {
   "candidates": null,
-  "checked": "2026-10-08T03:26:15+00:00",
+  "checked": "2026-10-08T03:28:03+00:00",
   "conf": "manual",
   "id": 22509,
   "score": null,
@@ -8515,7 +8537,7 @@
  },
  "PSP:manual:Patapon 3": {
   "candidates": null,
-  "checked": "2026-10-08T03:26:15+00:00",
+  "checked": "2026-10-08T03:28:02+00:00",
   "conf": "manual",
   "id": 18373,
   "score": null,
@@ -8581,12 +8603,34 @@
  },
  "PSP:manual:Star Ocean: First Departure": {
   "candidates": null,
-  "checked": "2026-10-08T03:26:15+00:00",
+  "checked": "2026-10-08T03:28:02+00:00",
   "conf": "manual",
   "id": 24299,
   "score": null,
   "slug": "star-ocean-first-departure",
   "title": "Star Ocean: First Departure",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Star Wars: Battlefront II": {
+  "candidates": null,
+  "checked": "2026-10-08T03:28:04+00:00",
+  "conf": "manual",
+  "id": 142,
+  "score": null,
+  "slug": "star-wars-battlefront-ii",
+  "title": "Star Wars: Battlefront II",
+  "v": 4,
+  "via": "fix"
+ },
+ "PSP:manual:Star Wars: The Force Unleashed": {
+  "candidates": null,
+  "checked": "2026-10-08T03:28:04+00:00",
+  "conf": "manual",
+  "id": 475,
+  "score": null,
+  "slug": "star-wars-the-force-unleashed",
+  "title": "Star Wars: The Force Unleashed",
   "v": 4,
   "via": "fix"
  },
@@ -8636,7 +8680,7 @@
  },
  "PSP:manual:prince of persia: rival swords": {
   "candidates": 4,
-  "checked": "2026-10-08T03:26:17+00:00",
+  "checked": "2026-10-08T03:28:05+00:00",
   "conf": "high",
   "id": 243129,
   "score": 1.123,
