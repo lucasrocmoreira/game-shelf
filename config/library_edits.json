@@ -1478,6 +1478,13 @@
    "platform": "PS Vita",
    "format": "digital",
    "added": "2026-10-07"
+  },
+  {
+   "title": "Ratchet & Clank Collection",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ratchet-and-clank-collection"
   }
  ],
  "match": {
