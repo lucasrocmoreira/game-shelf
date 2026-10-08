@@ -1424,6 +1424,13 @@
    "format": "digital",
    "added": "2026-10-07",
    "igdb": "danganronpa-trigger-happy-havoc"
+  },
+  {
+   "title": "Wipeout 2048",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "wipeout-2048"
   }
  ],
  "match": {
