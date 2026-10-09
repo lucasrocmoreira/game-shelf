@@ -1938,7 +1938,7 @@
   "opencritic_id": 2689
  },
  "pokemon-mystery-dungeon-red-rescue-team": {
-  "checked": "2026-10-09T04:00:13+00:00"
+  "checked": "2026-10-09T04:01:45+00:00"
  },
  "pokemon-omega-ruby": {
   "checked": "2026-10-08T02:58:42+00:00",
@@ -2417,6 +2417,12 @@
  "super-mario-64-ds": {
   "checked": "2026-10-07T21:00:23+00:00"
  },
+ "super-mario-advance": {
+  "checked": "2026-10-09T04:01:45+00:00"
+ },
+ "super-mario-advance-4-super-mario-bros-3": {
+  "checked": "2026-10-09T04:01:45+00:00"
+ },
  "super-mario-all-stars": {
   "checked": "2026-10-09T03:45:18+00:00"
  },
@@ -2429,6 +2435,9 @@
  },
  "super-mario-world": {
   "checked": "2026-10-09T03:48:48+00:00"
+ },
+ "super-mario-world-super-mario-advance-2": {
+  "checked": "2026-10-09T04:01:45+00:00"
  },
  "super-punch-out": {
   "checked": "2026-10-09T03:48:48+00:00"

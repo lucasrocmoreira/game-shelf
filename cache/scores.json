@@ -3427,6 +3427,14 @@
   "metacritic": 84,
   "metacritic_slug": "dragon-quest-v-hand-of-the-heavenly-bride"
  },
+ "igdb:16617": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-09T04:01:54+00:00",
+  "mc_v": 2,
+  "metacritic": 92,
+  "metacritic_slug": "super-mario-world-super-mario-advance-2"
+ },
  "igdb:16618": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -3455,6 +3463,14 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "velocity-2x-critical-mass-edition"
+ },
+ "igdb:16748": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-09T04:02:00+00:00",
+  "mc_v": 2,
+  "metacritic": 94,
+  "metacritic_slug": "super-mario-advance-4-super-mario-bros-3"
  },
  "igdb:167611": {
   "backloggd": 3.5,
@@ -5400,7 +5416,7 @@
  "igdb:2319": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-09T04:00:16+00:00",
+  "checked": "2026-10-09T04:01:47+00:00",
   "mc_v": 2,
   "metacritic": 67,
   "metacritic_slug": "pokemon-mystery-dungeon-red-rescue-team"
@@ -8667,6 +8683,14 @@
   "opencritic_id": 5508,
   "opencritic_pct": 88,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:81197": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-09T04:01:56+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "super-mario-advance"
  },
  "igdb:81205": {
   "backloggd": 3.5,

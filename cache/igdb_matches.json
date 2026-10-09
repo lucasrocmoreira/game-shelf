@@ -1376,12 +1376,45 @@
  },
  "GBA:manual:Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team": {
   "candidates": null,
-  "checked": "2026-10-09T04:00:04+00:00",
+  "checked": "2026-10-09T04:01:34+00:00",
   "conf": "manual",
   "id": 2319,
   "score": null,
   "slug": "pokemon-mystery-dungeon-red-rescue-team",
   "title": "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:Super Mario Advance": {
+  "candidates": null,
+  "checked": "2026-10-09T04:01:35+00:00",
+  "conf": "manual",
+  "id": 81197,
+  "score": null,
+  "slug": "super-mario-advance",
+  "title": "Super Mario Advance",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:Super Mario Advance 4: Super Mario Bros. 3": {
+  "candidates": null,
+  "checked": "2026-10-09T04:01:35+00:00",
+  "conf": "manual",
+  "id": 16748,
+  "score": null,
+  "slug": "super-mario-advance-4-super-mario-bros-3",
+  "title": "Super Mario Advance 4: Super Mario Bros. 3",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:Super Mario World: Super Mario Advance 2": {
+  "candidates": null,
+  "checked": "2026-10-09T04:01:35+00:00",
+  "conf": "manual",
+  "id": 16617,
+  "score": null,
+  "slug": "super-mario-world-super-mario-advance-2",
+  "title": "Super Mario World: Super Mario Advance 2",
   "v": 4,
   "via": "fix"
  },
