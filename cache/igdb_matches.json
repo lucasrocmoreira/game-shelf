@@ -10887,7 +10887,7 @@
  },
  "Switch 2:manual:Claymates": {
   "candidates": null,
-  "checked": "2026-10-09T03:41:09+00:00",
+  "checked": "2026-10-09T03:42:04+00:00",
   "conf": "manual",
   "id": 42623,
   "score": null,
@@ -10898,12 +10898,34 @@
  },
  "Switch 2:manual:Donkey Kong Country": {
   "candidates": null,
-  "checked": "2026-10-09T03:41:09+00:00",
+  "checked": "2026-10-09T03:42:04+00:00",
   "conf": "manual",
   "id": 1090,
   "score": null,
   "slug": "donkey-kong-country",
   "title": "Donkey Kong Country",
+  "v": 4,
+  "via": "fix"
+ },
+ "Switch 2:manual:Donkey Kong Country 2: Diddy's Kong Quest": {
+  "candidates": null,
+  "checked": "2026-10-09T03:42:04+00:00",
+  "conf": "manual",
+  "id": 1092,
+  "score": null,
+  "slug": "donkey-kong-country-2-diddy-s-kong-quest",
+  "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+  "v": 4,
+  "via": "fix"
+ },
+ "Switch 2:manual:Donkey Kong Country 3: Dixie Kong's Double Trouble!": {
+  "candidates": null,
+  "checked": "2026-10-09T03:42:04+00:00",
+  "conf": "manual",
+  "id": 1094,
+  "score": null,
+  "slug": "donkey-kong-country-3-dixie-kong-s-double-trouble",
+  "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
   "v": 4,
   "via": "fix"
  },

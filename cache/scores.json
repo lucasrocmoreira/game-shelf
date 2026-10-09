@@ -458,7 +458,7 @@
  "igdb:1090": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-09T03:41:17+00:00",
+  "checked": "2026-10-09T03:42:11+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -476,6 +476,14 @@
   "opencritic_pct": 88,
   "opencritic_tier": "Mighty"
  },
+ "igdb:1092": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:42:15+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:109275": {
   "backloggd": 2.4,
   "bl_v": 2,
@@ -483,6 +491,14 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "kingdom-hearts-vr-experience"
+ },
+ "igdb:1094": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:42:19+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:10948": {
   "backloggd": 3.6,
@@ -1701,7 +1717,7 @@
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "skul-the-hero-slayer",
-  "oc_checked": "2026-10-09T03:41:17+00:00",
+  "oc_checked": "2026-10-09T03:42:19+00:00",
   "opencritic": 82,
   "opencritic_id": 9279,
   "opencritic_pct": 92,
@@ -7336,7 +7352,7 @@
  "igdb:42623": {
   "backloggd": 2.3,
   "bl_v": 2,
-  "checked": "2026-10-09T03:41:13+00:00",
+  "checked": "2026-10-09T03:42:09+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
