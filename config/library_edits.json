@@ -1692,6 +1692,13 @@
    "format": "digital",
    "added": "2026-10-08",
    "igdb": "super-mario-all-stars"
+  },
+  {
+   "title": "super-mario-world",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-mario-world"
   }
  ],
  "match": {
