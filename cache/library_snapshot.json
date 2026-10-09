@@ -2359,6 +2359,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:sly Cooper collection",
    "title": "sly Cooper collection"
+  },
+  {
+   "format": "digital",
+   "igdb": "breath-of-fire",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch 2",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Breath of Fire",
+   "title": "Breath of Fire"
   }
  ],
  "nintendo_eshop": [
@@ -2630,7 +2640,7 @@
    "title": "God of War"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2921/a213c057a3adc5c341911157e461954a97500126e4e2acef.png",
    "last_played": "2022-05-26",
    "platform": "PS4",
    "playtime_hours": 68.2,
@@ -2666,7 +2676,7 @@
    "title": "Marvel's Spider-Man"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2921/a213c057a3adc5c341911157e461954a97500126e4e2acef.png",
    "last_played": "2026-09-30",
    "platform": "PS5",
    "playtime_hours": 61.4,

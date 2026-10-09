@@ -10863,6 +10863,17 @@
   "v": 2,
   "via": "steam"
  },
+ "Switch 2:manual:Breath of Fire": {
+  "candidates": null,
+  "checked": "2026-10-09T03:37:06+00:00",
+  "conf": "manual",
+  "id": 11617,
+  "score": null,
+  "slug": "breath-of-fire",
+  "title": "Breath of Fire",
+  "v": 4,
+  "via": "fix"
+ },
  "Switch 2:manual:Dragon Quest I&II HD-2D Remaster": {
   "candidates": 1,
   "checked": "2026-10-07T06:01:41+00:00",
