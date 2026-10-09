@@ -1643,6 +1643,13 @@
    "platform": "PS3",
    "format": "digital",
    "added": "2026-10-08"
+  },
+  {
+   "title": "Breath of Fire",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "breath-of-fire"
   }
  ],
  "match": {
