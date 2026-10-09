@@ -1726,6 +1726,13 @@
    "format": "digital",
    "added": "2026-10-08",
    "igdb": "fire-emblem-the-sacred-stones"
+  },
+  {
+   "title": "Golden Sun",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "golden-sun"
   }
  ],
  "match": {
