@@ -365,6 +365,14 @@
   "steam_pct": 90,
   "steam_reviews": 60227
  },
+ "igdb:1070": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:46:49+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:107218": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -7641,7 +7649,7 @@
  "igdb:5199": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-09T03:45:22+00:00",
+  "checked": "2026-10-09T03:46:47+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -9034,6 +9042,14 @@
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "batman-the-enemy-within-episode-1-the-enigma"
+ },
+ "igdb:9151": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:46:52+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:9174": {
   "backloggd": 3.8,

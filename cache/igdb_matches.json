@@ -10964,12 +10964,34 @@
  },
  "Switch 2:manual:Super Mario All-Stars": {
   "candidates": null,
-  "checked": "2026-10-09T03:45:16+00:00",
+  "checked": "2026-10-09T03:46:41+00:00",
   "conf": "manual",
   "id": 5199,
   "score": null,
   "slug": "super-mario-all-stars",
   "title": "Super Mario All-Stars",
+  "v": 4,
+  "via": "fix"
+ },
+ "Switch 2:manual:Super Punch-Out!!": {
+  "candidates": null,
+  "checked": "2026-10-09T03:46:42+00:00",
+  "conf": "manual",
+  "id": 9151,
+  "score": null,
+  "slug": "super-punch-out",
+  "title": "Super Punch-Out!!",
+  "v": 4,
+  "via": "fix"
+ },
+ "Switch 2:manual:super-mario-world": {
+  "candidates": null,
+  "checked": "2026-10-09T03:46:41+00:00",
+  "conf": "manual",
+  "id": 1070,
+  "score": null,
+  "slug": "super-mario-world",
+  "title": "super-mario-world",
   "v": 4,
   "via": "fix"
  },
