@@ -1719,6 +1719,13 @@
    "platform": "GBA",
    "format": "digital",
    "added": "2026-10-08"
+  },
+  {
+   "title": "Fire Emblem: The Sacred Stones",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "fire-emblem-the-sacred-stones"
   }
  ],
  "match": {
