@@ -1768,6 +1768,13 @@
    "format": "digital",
    "added": "2026-10-08",
    "igdb": "super-mario-world-super-mario-advance-2"
+  },
+  {
+   "title": "Super Mario Advance",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-mario-advance"
   }
  ],
  "match": {
