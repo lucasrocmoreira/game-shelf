@@ -138,7 +138,7 @@
  "igdb:1026": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-09T03:48:59+00:00",
+  "checked": "2026-10-09T03:50:22+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -376,7 +376,7 @@
  "igdb:1070": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-09T03:48:50+00:00",
+  "checked": "2026-10-09T03:46:49+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -1073,6 +1073,14 @@
   "metacritic": 83,
   "metacritic_slug": "gravity-rush"
  },
+ "igdb:1172": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:50:29+00:00",
+  "mc_v": 2,
+  "metacritic": 91,
+  "metacritic_slug": "golden-sun"
+ },
  "igdb:117271": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -1080,6 +1088,14 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "chained-echoes"
+ },
+ "igdb:1173": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:50:31+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "golden-sun-the-lost-age"
  },
  "igdb:117717": {
   "backloggd": 3.6,
@@ -2725,6 +2741,14 @@
   "opencritic_pct": 19,
   "opencritic_tier": "Weak"
  },
+ "igdb:1439": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:50:24+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "fire-emblem"
+ },
  "igdb:14390": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -2737,6 +2761,14 @@
   "opencritic_id": 4124,
   "opencritic_pct": 60,
   "opencritic_tier": "Strong"
+ },
+ "igdb:1440": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:50:26+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "fire-emblem-the-sacred-stones"
  },
  "igdb:144022": {
   "backloggd": 3.9,
@@ -7657,7 +7689,7 @@
  "igdb:5199": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-09T03:45:22+00:00",
+  "checked": "2026-10-09T03:46:47+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -9054,7 +9086,7 @@
  "igdb:9151": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-09T03:48:53+00:00",
+  "checked": "2026-10-09T03:46:52+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null

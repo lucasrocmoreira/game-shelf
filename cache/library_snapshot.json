@@ -2459,6 +2459,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:The Legend of Zelda: A Link to the Past",
    "title": "The Legend of Zelda: A Link to the Past"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Fire emblem",
+   "title": "Fire emblem"
+  },
+  {
+   "format": "digital",
+   "igdb": "fire-emblem-the-sacred-stones",
+   "last_played": null,
+   "manual": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Fire Emblem: The Sacred Stones",
+   "title": "Fire Emblem: The Sacred Stones"
+  },
+  {
+   "format": "digital",
+   "igdb": "golden-sun",
+   "last_played": null,
+   "manual": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Golden Sun",
+   "title": "Golden Sun"
+  },
+  {
+   "format": "digital",
+   "igdb": "golden-sun-the-lost-age",
+   "last_played": null,
+   "manual": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Golden Sun: The Lost Age",
+   "title": "Golden Sun: The Lost Age"
   }
  ],
  "nintendo_eshop": [

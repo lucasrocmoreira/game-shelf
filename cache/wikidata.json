@@ -917,6 +917,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 1512
  },
+ "fire-emblem": {
+  "checked": "2026-10-09T03:50:19+00:00"
+ },
  "fire-emblem-awakening": {
   "checked": "2026-10-08T02:52:26+00:00"
  },
@@ -926,6 +929,9 @@
  },
  "fire-emblem-shadow-dragon": {
   "checked": "2026-10-07T21:36:14+00:00"
+ },
+ "fire-emblem-the-sacred-stones": {
+  "checked": "2026-10-09T03:50:19+00:00"
  },
  "fire-emblem-three-houses": {
   "checked": "2026-10-07T05:58:30+00:00",
@@ -1040,6 +1046,12 @@
  "godfall": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10488
+ },
+ "golden-sun": {
+  "checked": "2026-10-09T03:50:19+00:00"
+ },
+ "golden-sun-the-lost-age": {
+  "checked": "2026-10-09T03:50:19+00:00"
  },
  "gran-turismo-7": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -2397,7 +2409,7 @@
   "checked": "2026-10-07T21:00:23+00:00"
  },
  "super-mario-all-stars": {
-  "checked": "2026-10-09T03:45:18+00:00"
+  "checked": "2026-10-09T03:46:45+00:00"
  },
  "super-mario-bros": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -2407,10 +2419,10 @@
   "opencritic_id": 16873
  },
  "super-mario-world": {
-  "checked": "2026-10-09T03:48:48+00:00"
+  "checked": "2026-10-09T03:46:45+00:00"
  },
  "super-punch-out": {
-  "checked": "2026-10-09T03:48:48+00:00"
+  "checked": "2026-10-09T03:46:45+00:00"
  },
  "superhot": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2572,7 +2584,7 @@
   "opencritic_id": 2405
  },
  "the-legend-of-zelda-a-link-to-the-past": {
-  "checked": "2026-10-09T03:48:48+00:00",
+  "checked": "2026-10-09T03:50:19+00:00",
   "opencritic_id": 13013
  },
  "the-legend-of-zelda-breath-of-the-wild": {
