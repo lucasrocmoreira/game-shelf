@@ -2809,7 +2809,12 @@
   "checked": "2026-10-06T22:09:53+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "olliolli-world"
+  "metacritic_slug": "olliolli-world",
+  "oc_checked": "2026-10-09T03:40:21+00:00",
+  "opencritic": 86,
+  "opencritic_id": 12617,
+  "opencritic_pct": 96,
+  "opencritic_tier": "Mighty"
  },
  "igdb:1459": {
   "backloggd": 3.5,
@@ -7918,6 +7923,14 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-10-09T02:42:10+00:00"
+ },
+ "igdb:6337": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:40:20+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:63520": {
   "backloggd": 3.0,
