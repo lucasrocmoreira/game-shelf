@@ -455,6 +455,14 @@
   "steam_pct": 86,
   "steam_reviews": 37020
  },
+ "igdb:1090": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:41:17+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:10919": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -1692,7 +1700,12 @@
   "checked": "2026-10-07T01:57:48+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "skul-the-hero-slayer"
+  "metacritic_slug": "skul-the-hero-slayer",
+  "oc_checked": "2026-10-09T03:41:17+00:00",
+  "opencritic": 82,
+  "opencritic_id": 9279,
+  "opencritic_pct": 92,
+  "opencritic_tier": "Strong"
  },
  "igdb:1289": {
   "backloggd": 3.8,
@@ -7319,6 +7332,14 @@
   ],
   "steam_pct": 58,
   "steam_reviews": 2514
+ },
+ "igdb:42623": {
+  "backloggd": 2.3,
+  "bl_v": 2,
+  "checked": "2026-10-09T03:41:13+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:42887": {
   "backloggd": 3.3,

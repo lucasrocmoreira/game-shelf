@@ -2379,6 +2379,26 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Breath of Fire II",
    "title": "Breath of Fire II"
+  },
+  {
+   "format": "digital",
+   "igdb": "claymates",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch 2",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Claymates",
+   "title": "Claymates"
+  },
+  {
+   "format": "digital",
+   "igdb": "donkey-kong-country",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch 2",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Donkey Kong Country",
+   "title": "Donkey Kong Country"
   }
  ],
  "nintendo_eshop": [
