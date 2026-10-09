@@ -2419,6 +2419,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Donkey Kong Country 3: Dixie Kong's Double Trouble!",
    "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!"
+  },
+  {
+   "format": "digital",
+   "igdb": "super-mario-all-stars",
+   "last_played": null,
+   "manual": true,
+   "platform": "Switch 2",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Mario All-Stars",
+   "title": "Super Mario All-Stars"
   }
  ],
  "nintendo_eshop": [

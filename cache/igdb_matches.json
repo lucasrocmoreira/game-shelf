@@ -10962,6 +10962,17 @@
   "v": 4,
   "via": "fix"
  },
+ "Switch 2:manual:Super Mario All-Stars": {
+  "candidates": null,
+  "checked": "2026-10-09T03:45:16+00:00",
+  "conf": "manual",
+  "id": 5199,
+  "score": null,
+  "slug": "super-mario-all-stars",
+  "title": "Super Mario All-Stars",
+  "v": 4,
+  "via": "fix"
+ },
  "Switch:eshop:DRAGON QUEST": {
   "candidates": 26,
   "checked": "2026-10-07T01:51:58+00:00",
