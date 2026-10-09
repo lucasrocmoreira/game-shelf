@@ -1376,7 +1376,7 @@
  },
  "GBA:manual:Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team": {
   "candidates": null,
-  "checked": "2026-10-09T04:01:34+00:00",
+  "checked": "2026-10-09T04:00:04+00:00",
   "conf": "manual",
   "id": 2319,
   "score": null,
@@ -1387,7 +1387,7 @@
  },
  "GBA:manual:Super Mario Advance": {
   "candidates": null,
-  "checked": "2026-10-09T04:01:35+00:00",
+  "checked": "2026-10-09T04:03:39+00:00",
   "conf": "manual",
   "id": 81197,
   "score": null,
@@ -1398,7 +1398,7 @@
  },
  "GBA:manual:Super Mario Advance 4: Super Mario Bros. 3": {
   "candidates": null,
-  "checked": "2026-10-09T04:01:35+00:00",
+  "checked": "2026-10-09T04:03:39+00:00",
   "conf": "manual",
   "id": 16748,
   "score": null,
@@ -1409,12 +1409,56 @@
  },
  "GBA:manual:Super Mario World: Super Mario Advance 2": {
   "candidates": null,
-  "checked": "2026-10-09T04:01:35+00:00",
+  "checked": "2026-10-09T04:03:38+00:00",
   "conf": "manual",
   "id": 16617,
   "score": null,
   "slug": "super-mario-world-super-mario-advance-2",
   "title": "Super Mario World: Super Mario Advance 2",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:The Legend of Zelda: The Minish Cap": {
+  "candidates": null,
+  "checked": "2026-10-09T04:03:39+00:00",
+  "conf": "manual",
+  "id": 1035,
+  "score": null,
+  "slug": "the-legend-of-zelda-the-minish-cap",
+  "title": "The Legend of Zelda: The Minish Cap",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:Wario Land 4": {
+  "candidates": null,
+  "checked": "2026-10-09T04:03:39+00:00",
+  "conf": "manual",
+  "id": 1699,
+  "score": null,
+  "slug": "wario-land-4",
+  "title": "Wario Land 4",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:WarioWare, Inc.: Mega Microgames!": {
+  "candidates": null,
+  "checked": "2026-10-09T04:03:40+00:00",
+  "conf": "manual",
+  "id": 1703,
+  "score": null,
+  "slug": "warioware-inc-dot-mega-microgame$",
+  "title": "WarioWare, Inc.: Mega Microgames!",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:Yoshi's Island: Super Mario Advance 3": {
+  "candidates": null,
+  "checked": "2026-10-09T04:03:40+00:00",
+  "conf": "manual",
+  "id": 16747,
+  "score": null,
+  "slug": "yoshis-island-super-mario-advance-3",
+  "title": "Yoshi's Island: Super Mario Advance 3",
   "v": 4,
   "via": "fix"
  },
