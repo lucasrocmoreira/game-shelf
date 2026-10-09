@@ -2519,6 +2519,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Metroid: Zero Mission",
    "title": "Metroid: Zero Mission"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-mystery-dungeon-red-rescue-team",
+   "last_played": null,
+   "manual": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team",
+   "title": "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team"
   }
  ],
  "nintendo_eshop": [

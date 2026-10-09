@@ -1374,6 +1374,17 @@
   "v": 4,
   "via": "fix"
  },
+ "GBA:manual:Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team": {
+  "candidates": null,
+  "checked": "2026-10-09T04:00:04+00:00",
+  "conf": "manual",
+  "id": 2319,
+  "score": null,
+  "slug": "pokemon-mystery-dungeon-red-rescue-team",
+  "title": "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team",
+  "v": 4,
+  "via": "fix"
+ },
  "Other:manual:Solatorobo: Red The Hunter": {
   "candidates": 2,
   "checked": "2026-10-07T21:04:04+00:00",
