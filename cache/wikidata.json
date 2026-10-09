@@ -2397,7 +2397,7 @@
   "checked": "2026-10-07T21:00:23+00:00"
  },
  "super-mario-all-stars": {
-  "checked": "2026-10-09T03:46:45+00:00"
+  "checked": "2026-10-09T03:45:18+00:00"
  },
  "super-mario-bros": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -2407,10 +2407,10 @@
   "opencritic_id": 16873
  },
  "super-mario-world": {
-  "checked": "2026-10-09T03:46:45+00:00"
+  "checked": "2026-10-09T03:48:48+00:00"
  },
  "super-punch-out": {
-  "checked": "2026-10-09T03:46:45+00:00"
+  "checked": "2026-10-09T03:48:48+00:00"
  },
  "superhot": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2570,6 +2570,10 @@
  "the-legend-of-zelda-a-link-between-worlds": {
   "checked": "2026-10-08T02:52:26+00:00",
   "opencritic_id": 2405
+ },
+ "the-legend-of-zelda-a-link-to-the-past": {
+  "checked": "2026-10-09T03:48:48+00:00",
+  "opencritic_id": 13013
  },
  "the-legend-of-zelda-breath-of-the-wild": {
   "checked": "2026-10-07T05:58:30+00:00",

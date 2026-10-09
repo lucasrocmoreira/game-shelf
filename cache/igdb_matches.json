@@ -10964,7 +10964,7 @@
  },
  "Switch 2:manual:Super Mario All-Stars": {
   "candidates": null,
-  "checked": "2026-10-09T03:46:41+00:00",
+  "checked": "2026-10-09T03:45:16+00:00",
   "conf": "manual",
   "id": 5199,
   "score": null,
@@ -10975,7 +10975,7 @@
  },
  "Switch 2:manual:Super Punch-Out!!": {
   "candidates": null,
-  "checked": "2026-10-09T03:46:42+00:00",
+  "checked": "2026-10-09T03:48:45+00:00",
   "conf": "manual",
   "id": 9151,
   "score": null,
@@ -10984,9 +10984,20 @@
   "v": 4,
   "via": "fix"
  },
+ "Switch 2:manual:The Legend of Zelda: A Link to the Past": {
+  "candidates": null,
+  "checked": "2026-10-09T03:48:45+00:00",
+  "conf": "manual",
+  "id": 1026,
+  "score": null,
+  "slug": "the-legend-of-zelda-a-link-to-the-past",
+  "title": "The Legend of Zelda: A Link to the Past",
+  "v": 4,
+  "via": "fix"
+ },
  "Switch 2:manual:super-mario-world": {
   "candidates": null,
-  "checked": "2026-10-09T03:46:41+00:00",
+  "checked": "2026-10-09T03:48:45+00:00",
   "conf": "manual",
   "id": 1070,
   "score": null,
