@@ -1310,7 +1310,7 @@
  },
  "GBA:manual:Fire Emblem: The Sacred Stones": {
   "candidates": null,
-  "checked": "2026-10-09T03:50:15+00:00",
+  "checked": "2026-10-09T03:51:48+00:00",
   "conf": "manual",
   "id": 1440,
   "score": null,
@@ -1321,7 +1321,7 @@
  },
  "GBA:manual:Fire emblem": {
   "candidates": 25,
-  "checked": "2026-10-09T03:50:17+00:00",
+  "checked": "2026-10-09T03:51:50+00:00",
   "conf": "high",
   "id": 1439,
   "score": 1.142,
@@ -1332,7 +1332,7 @@
  },
  "GBA:manual:Golden Sun": {
   "candidates": null,
-  "checked": "2026-10-09T03:50:16+00:00",
+  "checked": "2026-10-09T03:51:48+00:00",
   "conf": "manual",
   "id": 1172,
   "score": null,
@@ -1343,12 +1343,34 @@
  },
  "GBA:manual:Golden Sun: The Lost Age": {
   "candidates": null,
-  "checked": "2026-10-09T03:50:16+00:00",
+  "checked": "2026-10-09T03:51:49+00:00",
   "conf": "manual",
   "id": 1173,
   "score": null,
   "slug": "golden-sun-the-lost-age",
   "title": "Golden Sun: The Lost Age",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:Klonoa: Empire of Dreams": {
+  "candidates": null,
+  "checked": "2026-10-09T03:51:49+00:00",
+  "conf": "manual",
+  "id": 6492,
+  "score": null,
+  "slug": "klonoa-empire-of-dreams",
+  "title": "Klonoa: Empire of Dreams",
+  "v": 4,
+  "via": "fix"
+ },
+ "GBA:manual:Metroid: Zero Mission": {
+  "candidates": null,
+  "checked": "2026-10-09T03:51:49+00:00",
+  "conf": "manual",
+  "id": 1107,
+  "score": null,
+  "slug": "metroid-zero-mission",
+  "title": "Metroid: Zero Mission",
   "v": 4,
   "via": "fix"
  },
@@ -11008,7 +11030,7 @@
  },
  "Switch 2:manual:Super Mario All-Stars": {
   "candidates": null,
-  "checked": "2026-10-09T03:46:41+00:00",
+  "checked": "2026-10-09T03:45:16+00:00",
   "conf": "manual",
   "id": 5199,
   "score": null,
@@ -11019,7 +11041,7 @@
  },
  "Switch 2:manual:Super Punch-Out!!": {
   "candidates": null,
-  "checked": "2026-10-09T03:46:42+00:00",
+  "checked": "2026-10-09T03:48:45+00:00",
   "conf": "manual",
   "id": 9151,
   "score": null,
@@ -11030,7 +11052,7 @@
  },
  "Switch 2:manual:The Legend of Zelda: A Link to the Past": {
   "candidates": null,
-  "checked": "2026-10-09T03:50:15+00:00",
+  "checked": "2026-10-09T03:48:45+00:00",
   "conf": "manual",
   "id": 1026,
   "score": null,
@@ -11041,7 +11063,7 @@
  },
  "Switch 2:manual:super-mario-world": {
   "candidates": null,
-  "checked": "2026-10-09T03:46:41+00:00",
+  "checked": "2026-10-09T03:48:45+00:00",
   "conf": "manual",
   "id": 1070,
   "score": null,
