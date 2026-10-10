@@ -13,7 +13,12 @@
   "checked": "2026-10-07T01:59:02+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "temtem"
+  "metacritic_slug": "temtem",
+  "oc_checked": "2026-10-10T15:54:24+00:00",
+  "opencritic": 75,
+  "opencritic_id": 10654,
+  "opencritic_pct": 63,
+  "opencritic_tier": "Strong"
  },
  "igdb:101006": {
   "backloggd": 3.9,
@@ -141,7 +146,8 @@
   "checked": "2026-10-09T03:48:59+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:53:54+00:00"
  },
  "igdb:103018": {
   "backloggd": 2.8,
@@ -214,7 +220,12 @@
   "checked": "2026-10-07T01:57:20+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "ghost-giant"
+  "metacritic_slug": "ghost-giant",
+  "oc_checked": "2026-10-10T15:55:39+00:00",
+  "opencritic": 82,
+  "opencritic_id": 7576,
+  "opencritic_pct": 83,
+  "opencritic_tier": "Strong"
  },
  "igdb:103298": {
   "backloggd": 4.2,
@@ -356,7 +367,12 @@
   "checked": "2026-10-06T22:10:34+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "endling-extinction-is-forever"
+  "metacritic_slug": "endling-extinction-is-forever",
+  "oc_checked": "2026-10-10T15:54:30+00:00",
+  "opencritic": 79,
+  "opencritic_id": 13393,
+  "opencritic_pct": 83,
+  "opencritic_tier": "Strong"
  },
  "igdb:10617": {
   "backloggd": 3.7,
@@ -530,7 +546,8 @@
   "checked": "2026-10-08T03:24:41+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "ys-seven"
+  "metacritic_slug": "ys-seven",
+  "oc_checked": "2026-10-10T15:53:55+00:00"
  },
  "igdb:10949": {
   "backloggd": 3.9,
@@ -820,7 +837,12 @@
   "checked": "2026-10-07T02:00:29+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "the-king-of-fighters-xv"
+  "metacritic_slug": "the-king-of-fighters-xv",
+  "oc_checked": "2026-10-10T15:55:03+00:00",
+  "opencritic": 80,
+  "opencritic_id": 12740,
+  "opencritic_pct": 82,
+  "opencritic_tier": "Strong"
  },
  "igdb:113111": {
   "backloggd": 2.6,
@@ -1103,7 +1125,12 @@
   "checked": "2026-10-07T02:36:24+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "chained-echoes"
+  "metacritic_slug": "chained-echoes",
+  "oc_checked": "2026-10-10T15:54:21+00:00",
+  "opencritic": 89,
+  "opencritic_id": 14102,
+  "opencritic_pct": 94,
+  "opencritic_tier": "Mighty"
  },
  "igdb:1173": {
   "backloggd": 4.2,
@@ -1180,7 +1207,12 @@
   "checked": "2026-10-06T22:08:19+00:00",
   "mc_v": 2,
   "metacritic": 56,
-  "metacritic_slug": "predator-hunting-grounds"
+  "metacritic_slug": "predator-hunting-grounds",
+  "oc_checked": "2026-10-10T15:54:49+00:00",
+  "opencritic": 58,
+  "opencritic_id": 9363,
+  "opencritic_pct": 20,
+  "opencritic_tier": "Weak"
  },
  "igdb:119": {
   "backloggd": 3.9,
@@ -1329,7 +1361,12 @@
   "checked": "2026-10-07T02:01:42+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "pistol-whip"
+  "metacritic_slug": "pistol-whip",
+  "oc_checked": "2026-10-10T15:54:47+00:00",
+  "opencritic": 88,
+  "opencritic_id": 8550,
+  "opencritic_pct": 97,
+  "opencritic_tier": "Mighty"
  },
  "igdb:119342": {
   "backloggd": 3.4,
@@ -1384,7 +1421,8 @@
   "checked": "2026-10-07T02:35:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:21+00:00"
  },
  "igdb:120619": {
   "backloggd": 2.8,
@@ -1392,7 +1430,12 @@
   "checked": "2026-10-06T22:09:04+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "tribes-of-midgard"
+  "metacritic_slug": "tribes-of-midgard",
+  "oc_checked": "2026-10-10T15:54:29+00:00",
+  "opencritic": 75,
+  "opencritic_id": 11725,
+  "opencritic_pct": 50,
+  "opencritic_tier": "Strong"
  },
  "igdb:12077": {
   "backloggd": 3.7,
@@ -1426,7 +1469,12 @@
   "checked": "2026-10-06T22:09:34+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "heavenly-bodies"
+  "metacritic_slug": "heavenly-bodies",
+  "oc_checked": "2026-10-10T15:54:58+00:00",
+  "opencritic": 73,
+  "opencritic_id": 12448,
+  "opencritic_pct": 64,
+  "opencritic_tier": "Fair"
  },
  "igdb:1217": {
   "backloggd": 3.9,
@@ -1455,7 +1503,12 @@
   "checked": "2026-10-06T22:08:27+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "first-class-trouble"
+  "metacritic_slug": "first-class-trouble",
+  "oc_checked": "2026-10-10T15:55:37+00:00",
+  "opencritic": null,
+  "opencritic_id": 12310,
+  "opencritic_pct": null,
+  "opencritic_tier": ""
  },
  "igdb:122": {
   "backloggd": 3.7,
@@ -1476,7 +1529,12 @@
   "checked": "2026-10-07T01:56:06+00:00",
   "mc_v": 2,
   "metacritic": 64,
-  "metacritic_slug": "resident-evil-resistance"
+  "metacritic_slug": "resident-evil-resistance",
+  "oc_checked": "2026-10-10T15:54:37+00:00",
+  "opencritic": 64,
+  "opencritic_id": 9266,
+  "opencritic_pct": 32,
+  "opencritic_tier": "Weak"
  },
  "igdb:122120": {
   "backloggd": 2.9,
@@ -1513,7 +1571,12 @@
   "checked": "2026-10-07T01:54:23+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "humanity"
+  "metacritic_slug": "humanity",
+  "oc_checked": "2026-10-10T15:54:09+00:00",
+  "opencritic": 86,
+  "opencritic_id": 14927,
+  "opencritic_pct": 95,
+  "opencritic_tier": "Mighty"
  },
  "igdb:122599": {
   "backloggd": 2.9,
@@ -1521,7 +1584,12 @@
   "checked": "2026-10-07T02:00:41+00:00",
   "mc_v": 2,
   "metacritic": 68,
-  "metacritic_slug": "my-hero-ones-justice-2"
+  "metacritic_slug": "my-hero-ones-justice-2",
+  "oc_checked": "2026-10-10T15:55:16+00:00",
+  "opencritic": 68,
+  "opencritic_id": 9159,
+  "opencritic_pct": 33,
+  "opencritic_tier": "Fair"
  },
  "igdb:124": {
   "backloggd": 4.0,
@@ -1627,7 +1695,8 @@
   "checked": "2026-10-06T22:08:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:55:42+00:00"
  },
  "igdb:12571": {
   "backloggd": 3.3,
@@ -1739,7 +1808,12 @@
   "checked": "2026-10-06T22:09:42+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "axiom-verge-2"
+  "metacritic_slug": "axiom-verge-2",
+  "oc_checked": "2026-10-10T15:54:45+00:00",
+  "opencritic": 78,
+  "opencritic_id": 11805,
+  "opencritic_pct": 75,
+  "opencritic_tier": "Strong"
  },
  "igdb:127343": {
   "backloggd": 2.0,
@@ -1747,7 +1821,12 @@
   "checked": "2026-10-06T22:08:31+00:00",
   "mc_v": 2,
   "metacritic": 61,
-  "metacritic_slug": "godfall"
+  "metacritic_slug": "godfall",
+  "oc_checked": "2026-10-10T15:54:41+00:00",
+  "opencritic": 60,
+  "opencritic_id": 10488,
+  "opencritic_pct": 10,
+  "opencritic_tier": "Weak"
  },
  "igdb:1277": {
   "backloggd": 3.9,
@@ -1805,7 +1884,12 @@
   "checked": "2026-10-07T02:02:07+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "skate-story"
+  "metacritic_slug": "skate-story",
+  "oc_checked": "2026-10-10T15:55:17+00:00",
+  "opencritic": 84,
+  "opencritic_id": 17790,
+  "opencritic_pct": 87,
+  "opencritic_tier": "Mighty"
  },
  "igdb:13": {
   "backloggd": 3.9,
@@ -1854,7 +1938,12 @@
   "checked": "2026-10-06T22:07:34+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "maquette"
+  "metacritic_slug": "maquette",
+  "oc_checked": "2026-10-10T15:54:03+00:00",
+  "opencritic": 70,
+  "opencritic_id": 11003,
+  "opencritic_pct": 41,
+  "opencritic_tier": "Fair"
  },
  "igdb:132050": {
   "backloggd": 2.5,
@@ -1875,7 +1964,12 @@
   "checked": "2026-10-06T22:08:07+00:00",
   "mc_v": 2,
   "metacritic": 60,
-  "metacritic_slug": "wwe-2k-battlegrounds"
+  "metacritic_slug": "wwe-2k-battlegrounds",
+  "oc_checked": "2026-10-10T15:54:57+00:00",
+  "opencritic": 58,
+  "opencritic_id": 9899,
+  "opencritic_pct": 13,
+  "opencritic_tier": "Weak"
  },
  "igdb:132992": {
   "backloggd": 4.2,
@@ -1937,7 +2031,12 @@
   "checked": "2026-10-07T02:36:27+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "wobbly-life"
+  "metacritic_slug": "wobbly-life",
+  "oc_checked": "2026-10-10T15:55:36+00:00",
+  "opencritic": null,
+  "opencritic_id": 18648,
+  "opencritic_pct": 43,
+  "opencritic_tier": ""
  },
  "igdb:133887": {
   "backloggd": 3.9,
@@ -2018,7 +2117,12 @@
   "checked": "2026-10-06T22:08:29+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "kingdoms-of-amalur-re-reckoning"
+  "metacritic_slug": "kingdoms-of-amalur-re-reckoning",
+  "oc_checked": "2026-10-10T15:54:27+00:00",
+  "opencritic": 72,
+  "opencritic_id": 9594,
+  "opencritic_pct": 56,
+  "opencritic_tier": "Fair"
  },
  "igdb:134560": {
   "backloggd": 3.6,
@@ -2091,7 +2195,12 @@
   "checked": "2026-10-06T22:07:29+00:00",
   "mc_v": 2,
   "metacritic": 62,
-  "metacritic_slug": "destruction-allstars"
+  "metacritic_slug": "destruction-allstars",
+  "oc_checked": "2026-10-10T15:55:00+00:00",
+  "opencritic": 62,
+  "opencritic_id": 10884,
+  "opencritic_pct": 10,
+  "opencritic_tier": "Weak"
  },
  "igdb:134597": {
   "backloggd": 3.9,
@@ -2203,7 +2312,12 @@
   "checked": "2026-10-06T22:06:47+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "worms-rumble"
+  "metacritic_slug": "worms-rumble",
+  "oc_checked": "2026-10-10T15:54:33+00:00",
+  "opencritic": 70,
+  "opencritic_id": 10616,
+  "opencritic_pct": 29,
+  "opencritic_tier": "Fair"
  },
  "igdb:13557": {
   "backloggd": 3.6,
@@ -2233,7 +2347,12 @@
   "checked": "2026-10-07T02:00:11+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "bomb-rush-cyberfunk"
+  "metacritic_slug": "bomb-rush-cyberfunk",
+  "oc_checked": "2026-10-10T15:54:06+00:00",
+  "opencritic": 78,
+  "opencritic_id": 15377,
+  "opencritic_pct": 82,
+  "opencritic_tier": "Strong"
  },
  "igdb:135991": {
   "backloggd": 2.1,
@@ -2241,7 +2360,12 @@
   "checked": "2026-10-07T01:57:38+00:00",
   "mc_v": 2,
   "metacritic": 59,
-  "metacritic_slug": "hello-neighbor-2"
+  "metacritic_slug": "hello-neighbor-2",
+  "oc_checked": "2026-10-10T15:55:10+00:00",
+  "opencritic": 54,
+  "opencritic_id": 13351,
+  "opencritic_pct": 22,
+  "opencritic_tier": "Weak"
  },
  "igdb:135998": {
   "backloggd": 3.5,
@@ -2283,7 +2407,12 @@
   "checked": "2026-10-06T22:08:57+00:00",
   "mc_v": 2,
   "metacritic": 63,
-  "metacritic_slug": "hood-outlaws-and-legends"
+  "metacritic_slug": "hood-outlaws-and-legends",
+  "oc_checked": "2026-10-10T15:55:12+00:00",
+  "opencritic": 65,
+  "opencritic_id": 10675,
+  "opencritic_pct": 23,
+  "opencritic_tier": "Weak"
  },
  "igdb:136560": {
   "backloggd": 2.9,
@@ -2291,7 +2420,12 @@
   "checked": "2026-10-07T01:54:00+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "ea-sports-ufc-4"
+  "metacritic_slug": "ea-sports-ufc-4",
+  "oc_checked": "2026-10-10T15:54:07+00:00",
+  "opencritic": 77,
+  "opencritic_id": 9792,
+  "opencritic_pct": 72,
+  "opencritic_tier": "Strong"
  },
  "igdb:136625": {
   "backloggd": 3.3,
@@ -2325,7 +2459,12 @@
   "checked": "2026-10-07T02:00:22+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "eiyuden-chronicle-hundred-heroes"
+  "metacritic_slug": "eiyuden-chronicle-hundred-heroes",
+  "oc_checked": "2026-10-10T15:55:06+00:00",
+  "opencritic": 75,
+  "opencritic_id": 16605,
+  "opencritic_pct": 67,
+  "opencritic_tier": "Strong"
  },
  "igdb:137619": {
   "backloggd": 3.6,
@@ -2333,7 +2472,12 @@
   "checked": "2026-10-07T02:00:58+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "conscript"
+  "metacritic_slug": "conscript",
+  "oc_checked": "2026-10-10T15:55:18+00:00",
+  "opencritic": 78,
+  "opencritic_id": 17011,
+  "opencritic_pct": 85,
+  "opencritic_tier": "Strong"
  },
  "igdb:138225": {
   "backloggd": 3.7,
@@ -2401,7 +2545,12 @@
   "checked": "2026-10-07T01:58:24+00:00",
   "mc_v": 2,
   "metacritic": 64,
-  "metacritic_slug": "five-nights-at-freddys-security-breach"
+  "metacritic_slug": "five-nights-at-freddys-security-breach",
+  "oc_checked": "2026-10-10T15:54:04+00:00",
+  "opencritic": 72,
+  "opencritic_id": 12312,
+  "opencritic_pct": 58,
+  "opencritic_tier": "Fair"
  },
  "igdb:138950": {
   "backloggd": 3.7,
@@ -2555,7 +2704,12 @@
   "checked": "2026-10-06T22:09:48+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "evil-dead-the-game"
+  "metacritic_slug": "evil-dead-the-game",
+  "oc_checked": "2026-10-10T15:54:46+00:00",
+  "opencritic": 74,
+  "opencritic_id": 12981,
+  "opencritic_pct": 54,
+  "opencritic_tier": "Fair"
  },
  "igdb:141547": {
   "backloggd": 3.0,
@@ -2886,7 +3040,12 @@
   "checked": "2026-10-07T02:00:19+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "fracked"
+  "metacritic_slug": "fracked",
+  "oc_checked": "2026-10-10T15:55:53+00:00",
+  "opencritic": 74,
+  "opencritic_id": 11828,
+  "opencritic_pct": 75,
+  "opencritic_tier": "Fair"
  },
  "igdb:145528": {
   "backloggd": 4.2,
@@ -2894,7 +3053,8 @@
   "checked": "2026-10-08T02:56:01+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:55:04+00:00"
  },
  "igdb:145782": {
   "backloggd": 3.5,
@@ -2944,7 +3104,12 @@
   "checked": "2026-10-07T01:55:50+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "farming-simulator-22"
+  "metacritic_slug": "farming-simulator-22",
+  "oc_checked": "2026-10-10T15:54:15+00:00",
+  "opencritic": 74,
+  "opencritic_id": 11764,
+  "opencritic_pct": 32,
+  "opencritic_tier": "Fair"
  },
  "igdb:146957": {
   "backloggd": 2.4,
@@ -2952,7 +3117,12 @@
   "checked": "2026-10-07T02:02:25+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "undisputed"
+  "metacritic_slug": "undisputed",
+  "oc_checked": "2026-10-10T15:55:23+00:00",
+  "opencritic": 73,
+  "opencritic_id": 17418,
+  "opencritic_pct": 36,
+  "opencritic_tier": "Fair"
  },
  "igdb:14709": {
   "backloggd": 4.0,
@@ -2960,7 +3130,12 @@
   "checked": "2026-10-08T03:02:47+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "etrian-odyssey-2-untold-the-fafnir-knight"
+  "metacritic_slug": "etrian-odyssey-2-untold-the-fafnir-knight",
+  "oc_checked": "2026-10-10T15:55:30+00:00",
+  "opencritic": 83,
+  "opencritic_id": 2271,
+  "opencritic_pct": 79,
+  "opencritic_tier": "Strong"
  },
  "igdb:14741": {
   "backloggd": 4.2,
@@ -3028,7 +3203,12 @@
   "checked": "2026-10-06T22:08:04+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "virtua-fighter-5-ultimate-showdown"
+  "metacritic_slug": "virtua-fighter-5-ultimate-showdown",
+  "oc_checked": "2026-10-10T15:55:33+00:00",
+  "opencritic": 78,
+  "opencritic_id": 11462,
+  "opencritic_pct": 77,
+  "opencritic_tier": "Strong"
  },
  "igdb:149657": {
   "backloggd": 4.0,
@@ -3049,7 +3229,12 @@
   "checked": "2026-10-07T01:59:30+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "sonic-colors-ultimate"
+  "metacritic_slug": "sonic-colors-ultimate",
+  "oc_checked": "2026-10-10T15:55:21+00:00",
+  "opencritic": 74,
+  "opencritic_id": 11618,
+  "opencritic_pct": 49,
+  "opencritic_tier": "Fair"
  },
  "igdb:150512": {
   "backloggd": 3.3,
@@ -3057,7 +3242,12 @@
   "checked": "2026-10-07T01:58:42+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "two-point-campus"
+  "metacritic_slug": "two-point-campus",
+  "oc_checked": "2026-10-10T15:54:05+00:00",
+  "opencritic": 83,
+  "opencritic_id": 12707,
+  "opencritic_pct": 89,
+  "opencritic_tier": "Strong"
  },
  "igdb:1512": {
   "backloggd": 3.7,
@@ -3196,7 +3386,8 @@
   "checked": "2026-10-07T02:02:58+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "slime-rancher-2"
+  "metacritic_slug": "slime-rancher-2",
+  "oc_checked": "2026-10-10T15:54:19+00:00"
  },
  "igdb:152249": {
   "backloggd": 3.8,
@@ -3279,7 +3470,12 @@
   "checked": "2026-10-07T01:56:43+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "moss-book-ii"
+  "metacritic_slug": "moss-book-ii",
+  "oc_checked": "2026-10-10T15:55:24+00:00",
+  "opencritic": 85,
+  "opencritic_id": 12965,
+  "opencritic_pct": 96,
+  "opencritic_tier": "Mighty"
  },
  "igdb:156151": {
   "backloggd": 2.3,
@@ -3287,7 +3483,12 @@
   "checked": "2026-10-06T22:09:09+00:00",
   "mc_v": 2,
   "metacritic": 65,
-  "metacritic_slug": "nickelodeon-all-star-brawl"
+  "metacritic_slug": "nickelodeon-all-star-brawl",
+  "oc_checked": "2026-10-10T15:54:12+00:00",
+  "opencritic": 64,
+  "opencritic_id": 12045,
+  "opencritic_pct": 26,
+  "opencritic_tier": "Weak"
  },
  "igdb:15654": {
   "backloggd": 3.4,
@@ -3295,7 +3496,12 @@
   "checked": "2026-10-08T03:05:00+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "boxboy"
+  "metacritic_slug": "boxboy",
+  "oc_checked": "2026-10-10T15:55:11+00:00",
+  "opencritic": 79,
+  "opencritic_id": 2276,
+  "opencritic_pct": 71,
+  "opencritic_tier": "Strong"
  },
  "igdb:1568": {
   "backloggd": 3.1,
@@ -3606,7 +3812,12 @@
   "checked": "2026-10-07T01:58:01+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "spongebob-squarepants-the-cosmic-shake"
+  "metacritic_slug": "spongebob-squarepants-the-cosmic-shake",
+  "oc_checked": "2026-10-10T15:53:59+00:00",
+  "opencritic": 70,
+  "opencritic_id": 14242,
+  "opencritic_pct": 44,
+  "opencritic_tier": "Fair"
  },
  "igdb:171225": {
   "backloggd": 3.4,
@@ -3640,7 +3851,8 @@
   "checked": "2026-10-06T22:05:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:19+00:00"
  },
  "igdb:178125": {
   "backloggd": 3.5,
@@ -3732,7 +3944,12 @@
   "checked": "2026-10-06T22:08:43+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure"
+  "metacritic_slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
+  "oc_checked": "2026-10-10T15:54:51+00:00",
+  "opencritic": null,
+  "opencritic_id": 12327,
+  "opencritic_pct": 60,
+  "opencritic_tier": ""
  },
  "igdb:1812": {
   "backloggd": 3.2,
@@ -3785,7 +4002,8 @@
   "checked": "2026-10-08T02:59:05+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:55:47+00:00"
  },
  "igdb:18220": {
   "backloggd": 4.0,
@@ -3814,7 +4032,12 @@
   "checked": "2026-10-07T02:01:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:54:17+00:00",
+  "opencritic": 63,
+  "opencritic_id": 1636,
+  "opencritic_pct": 37,
+  "opencritic_tier": "Weak"
  },
  "igdb:18320": {
   "backloggd": 3.7,
@@ -3835,7 +4058,12 @@
   "checked": "2026-10-06T22:07:41+00:00",
   "mc_v": 2,
   "metacritic": 67,
-  "metacritic_slug": "oddworld-soulstorm"
+  "metacritic_slug": "oddworld-soulstorm",
+  "oc_checked": "2026-10-10T15:54:34+00:00",
+  "opencritic": 71,
+  "opencritic_id": 11152,
+  "opencritic_pct": 45,
+  "opencritic_tier": "Fair"
  },
  "igdb:18373": {
   "backloggd": 3.8,
@@ -3864,7 +4092,12 @@
   "checked": "2026-10-07T01:59:43+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "the-texas-chain-saw-massacre"
+  "metacritic_slug": "the-texas-chain-saw-massacre",
+  "oc_checked": "2026-10-10T15:54:16+00:00",
+  "opencritic": 75,
+  "opencritic_id": 15357,
+  "opencritic_pct": 58,
+  "opencritic_tier": "Strong"
  },
  "igdb:185246": {
   "backloggd": 4.4,
@@ -3885,7 +4118,8 @@
   "checked": "2026-10-06T22:04:48+00:00",
   "mc_v": 2,
   "metacritic": 92,
-  "metacritic_slug": "the-matrix-awakens-an-unreal-engine-5-experience"
+  "metacritic_slug": "the-matrix-awakens-an-unreal-engine-5-experience",
+  "oc_checked": "2026-10-10T15:56:16+00:00"
  },
  "igdb:185252": {
   "backloggd": 3.8,
@@ -3942,6 +4176,7 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "spore",
+  "oc_checked": "2026-10-10T15:56:23+00:00",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -4090,7 +4325,12 @@
   "checked": "2026-10-06T21:23:01+00:00",
   "mc_v": 2,
   "metacritic": 95,
-  "metacritic_slug": "portal-companion-collection"
+  "metacritic_slug": "portal-companion-collection",
+  "oc_checked": "2026-10-10T15:56:01+00:00",
+  "opencritic": 92,
+  "opencritic_id": 13325,
+  "opencritic_pct": 100,
+  "opencritic_tier": "Mighty"
  },
  "igdb:19159": {
   "backloggd": 3.0,
@@ -4213,7 +4453,12 @@
   "checked": "2026-10-07T01:59:28+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "teenage-mutant-ninja-turtles-the-cowabunga-collection"
+  "metacritic_slug": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+  "oc_checked": "2026-10-10T15:55:01+00:00",
+  "opencritic": 81,
+  "opencritic_id": 13600,
+  "opencritic_pct": 86,
+  "opencritic_tier": "Strong"
  },
  "igdb:194404": {
   "backloggd": 3.2,
@@ -4281,7 +4526,12 @@
   "checked": "2026-10-08T03:54:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:55:31+00:00",
+  "opencritic": 82,
+  "opencritic_id": 9010,
+  "opencritic_pct": 75,
+  "opencritic_tier": "Strong"
  },
  "igdb:194821": {
   "backloggd": 4.2,
@@ -4393,7 +4643,12 @@
   "checked": "2026-10-08T03:08:24+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "ever-oasis"
+  "metacritic_slug": "ever-oasis",
+  "oc_checked": "2026-10-10T15:54:48+00:00",
+  "opencritic": 78,
+  "opencritic_id": 4488,
+  "opencritic_pct": 64,
+  "opencritic_tier": "Strong"
  },
  "igdb:19598": {
   "backloggd": 3.6,
@@ -4401,7 +4656,12 @@
   "checked": "2026-10-08T03:04:54+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "boxboxboy"
+  "metacritic_slug": "boxboxboy",
+  "oc_checked": "2026-10-10T15:55:40+00:00",
+  "opencritic": 79,
+  "opencritic_id": 2944,
+  "opencritic_pct": 65,
+  "opencritic_tier": "Strong"
  },
  "igdb:1968": {
   "backloggd": 4.0,
@@ -4697,7 +4957,8 @@
   "checked": "2026-10-07T21:40:13+00:00",
   "mc_v": 2,
   "metacritic": 92,
-  "metacritic_slug": "chrono-trigger"
+  "metacritic_slug": "chrono-trigger",
+  "oc_checked": "2026-10-10T15:56:06+00:00"
  },
  "igdb:204350": {
   "backloggd": 4.5,
@@ -4718,7 +4979,12 @@
   "checked": "2026-10-07T01:59:00+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "aliens-dark-descent"
+  "metacritic_slug": "aliens-dark-descent",
+  "oc_checked": "2026-10-10T15:54:43+00:00",
+  "opencritic": 75,
+  "opencritic_id": 15096,
+  "opencritic_pct": 62,
+  "opencritic_tier": "Strong"
  },
  "igdb:204360": {
   "backloggd": 3.3,
@@ -4739,7 +5005,12 @@
   "checked": "2026-10-07T01:54:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:55:19+00:00",
+  "opencritic": 72,
+  "opencritic_id": 14107,
+  "opencritic_pct": 33,
+  "opencritic_tier": "Fair"
  },
  "igdb:204460": {
   "backloggd": 2.9,
@@ -4747,7 +5018,12 @@
   "checked": "2026-10-07T02:03:17+00:00",
   "mc_v": 2,
   "metacritic": 59,
-  "metacritic_slug": "the-lord-of-the-rings-return-to-moria"
+  "metacritic_slug": "the-lord-of-the-rings-return-to-moria",
+  "oc_checked": "2026-10-10T15:54:10+00:00",
+  "opencritic": 60,
+  "opencritic_id": 15718,
+  "opencritic_pct": 30,
+  "opencritic_tier": "Weak"
  },
  "igdb:204618": {
   "backloggd": 3.1,
@@ -4768,7 +5044,12 @@
   "checked": "2026-10-07T01:57:45+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "minecraft-legends"
+  "metacritic_slug": "minecraft-legends",
+  "oc_checked": "2026-10-10T15:54:39+00:00",
+  "opencritic": 70,
+  "opencritic_id": 14349,
+  "opencritic_pct": 41,
+  "opencritic_tier": "Fair"
  },
  "igdb:204627": {
   "backloggd": 3.9,
@@ -4810,7 +5091,12 @@
   "checked": "2026-10-07T01:53:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:31+00:00",
+  "opencritic": null,
+  "opencritic_id": 13316,
+  "opencritic_pct": null,
+  "opencritic_tier": ""
  },
  "igdb:205780": {
   "backloggd": 2.8,
@@ -4855,7 +5141,12 @@
   "checked": "2026-10-07T01:57:53+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "construction-simulator"
+  "metacritic_slug": "construction-simulator",
+  "oc_checked": "2026-10-10T15:55:45+00:00",
+  "opencritic": 72,
+  "opencritic_id": 13734,
+  "opencritic_pct": 73,
+  "opencritic_tier": "Fair"
  },
  "igdb:206320": {
   "backloggd": 4.5,
@@ -4881,7 +5172,12 @@
   "checked": "2026-10-07T01:59:13+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "pac-man-world-re-pac"
+  "metacritic_slug": "pac-man-world-re-pac",
+  "oc_checked": "2026-10-10T15:54:59+00:00",
+  "opencritic": 71,
+  "opencritic_id": 13448,
+  "opencritic_pct": 48,
+  "opencritic_tier": "Fair"
  },
  "igdb:207021": {
   "backloggd": 4.3,
@@ -4913,7 +5209,12 @@
   "checked": "2026-10-06T22:10:26+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "nba-2k23"
+  "metacritic_slug": "nba-2k23",
+  "oc_checked": "2026-10-10T15:53:57+00:00",
+  "opencritic": 78,
+  "opencritic_id": 13375,
+  "opencritic_pct": 70,
+  "opencritic_tier": "Strong"
  },
  "igdb:20741": {
   "backloggd": 4.5,
@@ -5065,7 +5366,12 @@
   "checked": "2026-10-06T22:10:06+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "meet-your-maker"
+  "metacritic_slug": "meet-your-maker",
+  "oc_checked": "2026-10-10T15:55:58+00:00",
+  "opencritic": 75,
+  "opencritic_id": 14530,
+  "opencritic_pct": 65,
+  "opencritic_tier": "Strong"
  },
  "igdb:213237": {
   "backloggd": 3.0,
@@ -5086,7 +5392,12 @@
   "checked": "2026-10-07T01:55:35+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "pga-tour-2k23"
+  "metacritic_slug": "pga-tour-2k23",
+  "oc_checked": "2026-10-10T15:55:34+00:00",
+  "opencritic": 77,
+  "opencritic_id": 13805,
+  "opencritic_pct": 64,
+  "opencritic_tier": "Strong"
  },
  "igdb:215060": {
   "backloggd": 3.1,
@@ -5146,7 +5457,12 @@
   "checked": "2026-10-08T03:51:43+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "dont-starve-giant-edition"
+  "metacritic_slug": "dont-starve-giant-edition",
+  "oc_checked": "2026-10-10T15:55:48+00:00",
+  "opencritic": 76,
+  "opencritic_id": 1456,
+  "opencritic_pct": 56,
+  "opencritic_tier": "Strong"
  },
  "igdb:21704": {
   "backloggd": 4.3,
@@ -5168,7 +5484,12 @@
   "checked": "2026-10-07T02:35:51+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "for-the-king-ii"
+  "metacritic_slug": "for-the-king-ii",
+  "oc_checked": "2026-10-10T15:55:27+00:00",
+  "opencritic": 78,
+  "opencritic_id": 15791,
+  "opencritic_pct": 50,
+  "opencritic_tier": "Strong"
  },
  "igdb:217558": {
   "backloggd": 3.6,
@@ -5176,7 +5497,12 @@
   "checked": "2026-10-07T02:01:03+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "atelier-ryza-3-alchemist-of-the-end-the-secret-key"
+  "metacritic_slug": "atelier-ryza-3-alchemist-of-the-end-the-secret-key",
+  "oc_checked": "2026-10-10T15:55:22+00:00",
+  "opencritic": 83,
+  "opencritic_id": 14460,
+  "opencritic_pct": 88,
+  "opencritic_tier": "Strong"
  },
  "igdb:21758": {
   "backloggd": 3.4,
@@ -5200,7 +5526,12 @@
   "checked": "2026-10-07T06:01:54+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "suikoden-i-ii-hd-remaster-gate-rune-and-dunan-unification-wars"
+  "metacritic_slug": "suikoden-i-ii-hd-remaster-gate-rune-and-dunan-unification-wars",
+  "oc_checked": "2026-10-10T15:55:49+00:00",
+  "opencritic": 83,
+  "opencritic_id": 18206,
+  "opencritic_pct": 84,
+  "opencritic_tier": "Strong"
  },
  "igdb:21842": {
   "backloggd": 3.0,
@@ -5338,7 +5669,12 @@
   "checked": "2026-10-07T02:01:39+00:00",
   "mc_v": 2,
   "metacritic": 64,
-  "metacritic_slug": "the-dark-pictures-switchback-vr"
+  "metacritic_slug": "the-dark-pictures-switchback-vr",
+  "oc_checked": "2026-10-10T15:55:59+00:00",
+  "opencritic": 67,
+  "opencritic_id": 14446,
+  "opencritic_pct": 43,
+  "opencritic_tier": "Fair"
  },
  "igdb:22458": {
   "backloggd": 3.0,
@@ -5378,7 +5714,12 @@
   "checked": "2026-10-07T01:57:43+00:00",
   "mc_v": 2,
   "metacritic": 69,
-  "metacritic_slug": "immortals-of-aveum"
+  "metacritic_slug": "immortals-of-aveum",
+  "oc_checked": "2026-10-10T15:54:01+00:00",
+  "opencritic": 72,
+  "opencritic_id": 14987,
+  "opencritic_pct": 49,
+  "opencritic_tier": "Fair"
  },
  "igdb:229123": {
   "backloggd": 3.9,
@@ -5424,6 +5765,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "half-life",
+  "oc_checked": "2026-10-10T15:56:17+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -5479,6 +5821,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "half-life-2",
+  "oc_checked": "2026-10-10T15:56:34+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -5572,7 +5915,8 @@
   "checked": "2026-10-08T03:04:47+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:54:25+00:00"
  },
  "igdb:239392": {
   "backloggd": 3.2,
@@ -5678,7 +6022,8 @@
   "checked": "2026-10-08T03:13:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:55:51+00:00"
  },
  "igdb:2468": {
   "backloggd": 3.1,
@@ -5744,7 +6089,12 @@
   "checked": "2026-10-07T01:59:53+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "ark-survival-ascended"
+  "metacritic_slug": "ark-survival-ascended",
+  "oc_checked": "2026-10-10T15:54:28+00:00",
+  "opencritic": null,
+  "opencritic_id": 15987,
+  "opencritic_pct": null,
+  "opencritic_tier": ""
  },
  "igdb:250616": {
   "backloggd": 3.8,
@@ -5804,7 +6154,12 @@
   "checked": "2026-10-07T01:57:30+00:00",
   "mc_v": 2,
   "metacritic": 57,
-  "metacritic_slug": "foamstars"
+  "metacritic_slug": "foamstars",
+  "oc_checked": "2026-10-10T15:55:15+00:00",
+  "opencritic": 60,
+  "opencritic_id": 16271,
+  "opencritic_pct": 17,
+  "opencritic_tier": "Weak"
  },
  "igdb:250626": {
   "backloggd": 3.2,
@@ -5812,7 +6167,12 @@
   "checked": "2026-10-07T02:02:23+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "ultros"
+  "metacritic_slug": "ultros",
+  "oc_checked": "2026-10-10T15:55:25+00:00",
+  "opencritic": 79,
+  "opencritic_id": 16286,
+  "opencritic_pct": 76,
+  "opencritic_tier": "Strong"
  },
  "igdb:250627": {
   "backloggd": 3.6,
@@ -5849,7 +6209,12 @@
   "checked": "2026-10-07T01:54:10+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "lego-harry-potter-collection"
+  "metacritic_slug": "lego-harry-potter-collection",
+  "oc_checked": "2026-10-10T15:54:13+00:00",
+  "opencritic": 71,
+  "opencritic_id": 3396,
+  "opencritic_pct": 47,
+  "opencritic_tier": "Fair"
  },
  "igdb:250931": {
   "backloggd": 3.9,
@@ -5865,7 +6230,12 @@
   "checked": "2026-10-07T01:58:52+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "hot-wheels-unleashed-2-turbocharged"
+  "metacritic_slug": "hot-wheels-unleashed-2-turbocharged",
+  "oc_checked": "2026-10-10T15:55:05+00:00",
+  "opencritic": 77,
+  "opencritic_id": 15394,
+  "opencritic_pct": 62,
+  "opencritic_tier": "Strong"
  },
  "igdb:251560": {
   "backloggd": 3.5,
@@ -5873,7 +6243,12 @@
   "checked": "2026-10-07T02:36:01+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "ghost-signal-a-stellaris-game"
+  "metacritic_slug": "ghost-signal-a-stellaris-game",
+  "oc_checked": "2026-10-10T15:56:03+00:00",
+  "opencritic": null,
+  "opencritic_id": 14478,
+  "opencritic_pct": null,
+  "opencritic_tier": ""
  },
  "igdb:251565": {
   "backloggd": 3.7,
@@ -5942,6 +6317,7 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "deus-ex",
+  "oc_checked": "2026-10-10T15:56:18+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -5975,7 +6351,12 @@
   "checked": "2026-10-06T22:11:06+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "monster-boy-and-the-cursed-kingdom"
+  "metacritic_slug": "monster-boy-and-the-cursed-kingdom",
+  "oc_checked": "2026-10-10T15:54:11+00:00",
+  "opencritic": 86,
+  "opencritic_id": 1752,
+  "opencritic_pct": 92,
+  "opencritic_tier": "Mighty"
  },
  "igdb:25632": {
   "backloggd": 4.0,
@@ -6003,7 +6384,12 @@
   "checked": "2026-10-07T02:35:40+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "nickelodeon-all-star-brawl-2"
+  "metacritic_slug": "nickelodeon-all-star-brawl-2",
+  "oc_checked": "2026-10-10T15:55:28+00:00",
+  "opencritic": 71,
+  "opencritic_id": 15730,
+  "opencritic_pct": 63,
+  "opencritic_tier": "Fair"
  },
  "igdb:260": {
   "backloggd": 3.7,
@@ -6110,7 +6496,12 @@
   "checked": "2026-10-06T22:03:58+00:00",
   "mc_v": 2,
   "metacritic": 65,
-  "metacritic_slug": "dino-frontier"
+  "metacritic_slug": "dino-frontier",
+  "oc_checked": "2026-10-10T15:56:12+00:00",
+  "opencritic": 69,
+  "opencritic_id": 4678,
+  "opencritic_pct": 56,
+  "opencritic_tier": "Fair"
  },
  "igdb:26231": {
   "backloggd": 2.1,
@@ -6131,7 +6522,12 @@
   "checked": "2026-10-08T02:58:59+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "bye-bye-boxboy"
+  "metacritic_slug": "bye-bye-boxboy",
+  "oc_checked": "2026-10-10T15:55:46+00:00",
+  "opencritic": 83,
+  "opencritic_id": 4096,
+  "opencritic_pct": 91,
+  "opencritic_tier": "Strong"
  },
  "igdb:26401": {
   "backloggd": 3.5,
@@ -6152,7 +6548,12 @@
   "checked": "2026-10-07T02:01:26+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "ea-sports-wrc"
+  "metacritic_slug": "ea-sports-wrc",
+  "oc_checked": "2026-10-10T15:55:13+00:00",
+  "opencritic": 78,
+  "opencritic_id": 15766,
+  "opencritic_pct": 73,
+  "opencritic_tier": "Strong"
  },
  "igdb:2647": {
   "backloggd": 4.3,
@@ -6182,6 +6583,19 @@
   "opencritic": 75,
   "opencritic_id": 15618,
   "opencritic_pct": 57,
+  "opencritic_tier": "Strong"
+ },
+ "igdb:268010": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-10T15:53:53+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "earth-defense-force-world-brothers-2",
+  "oc_checked": "2026-10-10T15:55:55+00:00",
+  "opencritic": 78,
+  "opencritic_id": 17359,
+  "opencritic_pct": 82,
   "opencritic_tier": "Strong"
  },
  "igdb:26845": {
@@ -6259,7 +6673,12 @@
   "checked": "2026-10-08T03:08:29+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "culdcept-revolt"
+  "metacritic_slug": "culdcept-revolt",
+  "oc_checked": "2026-10-10T15:55:41+00:00",
+  "opencritic": 77,
+  "opencritic_id": 4913,
+  "opencritic_pct": 50,
+  "opencritic_tier": "Strong"
  },
  "igdb:27270": {
   "backloggd": 2.2,
@@ -6389,7 +6808,12 @@
   "checked": "2026-10-07T01:59:45+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "digimon-story-cyber-sleuth-hackers-memory"
+  "metacritic_slug": "digimon-story-cyber-sleuth-hackers-memory",
+  "oc_checked": "2026-10-10T15:54:40+00:00",
+  "opencritic": 72,
+  "opencritic_id": 5346,
+  "opencritic_pct": 27,
+  "opencritic_tier": "Fair"
  },
  "igdb:279624": {
   "backloggd": 4.3,
@@ -6397,7 +6821,12 @@
   "checked": "2026-10-07T02:35:59+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "big-walk"
+  "metacritic_slug": "big-walk",
+  "oc_checked": "2026-10-10T15:54:53+00:00",
+  "opencritic": 89,
+  "opencritic_id": 20855,
+  "opencritic_pct": 96,
+  "opencritic_tier": "Mighty"
  },
  "igdb:279635": {
   "backloggd": 2.5,
@@ -6518,7 +6947,12 @@
   "checked": "2026-10-07T02:02:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:54:52+00:00",
+  "opencritic": 77,
+  "opencritic_id": 17335,
+  "opencritic_pct": 68,
+  "opencritic_tier": "Strong"
  },
  "igdb:287852": {
   "backloggd": 2.8,
@@ -6526,7 +6960,12 @@
   "checked": "2026-10-07T02:03:10+00:00",
   "mc_v": 2,
   "metacritic": 68,
-  "metacritic_slug": "sword-art-online-fractured-daydream"
+  "metacritic_slug": "sword-art-online-fractured-daydream",
+  "oc_checked": "2026-10-10T15:56:00+00:00",
+  "opencritic": 70,
+  "opencritic_id": 17420,
+  "opencritic_pct": 34,
+  "opencritic_tier": "Fair"
  },
  "igdb:28854": {
   "bl_v": 2,
@@ -6542,6 +6981,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:29+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -6619,7 +7059,12 @@
   "checked": "2026-10-07T02:02:44+00:00",
   "mc_v": 2,
   "metacritic": 67,
-  "metacritic_slug": "a-quiet-place-the-road-ahead"
+  "metacritic_slug": "a-quiet-place-the-road-ahead",
+  "oc_checked": "2026-10-10T15:55:07+00:00",
+  "opencritic": 66,
+  "opencritic_id": 17489,
+  "opencritic_pct": 40,
+  "opencritic_tier": "Fair"
  },
  "igdb:2950": {
   "backloggd": 4.0,
@@ -6674,7 +7119,12 @@
   "checked": "2026-10-07T02:36:10+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "the-rogue-prince-of-persia"
+  "metacritic_slug": "the-rogue-prince-of-persia",
+  "oc_checked": "2026-10-10T15:54:54+00:00",
+  "opencritic": 81,
+  "opencritic_id": 16774,
+  "opencritic_pct": 77,
+  "opencritic_tier": "Strong"
  },
  "igdb:2985": {
   "backloggd": 4.3,
@@ -6718,7 +7168,12 @@
   "checked": "2026-10-07T02:01:34+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "alien-rogue-incursion"
+  "metacritic_slug": "alien-rogue-incursion",
+  "oc_checked": "2026-10-10T15:55:35+00:00",
+  "opencritic": 75,
+  "opencritic_id": 17874,
+  "opencritic_pct": 65,
+  "opencritic_tier": "Strong"
  },
  "igdb:30208": {
   "backloggd": 3.0,
@@ -6778,7 +7233,12 @@
   "checked": "2026-10-07T02:01:57+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "lego-horizon-adventures"
+  "metacritic_slug": "lego-horizon-adventures",
+  "oc_checked": "2026-10-10T15:54:18+00:00",
+  "opencritic": 71,
+  "opencritic_id": 17126,
+  "opencritic_pct": 53,
+  "opencritic_tier": "Fair"
  },
  "igdb:305560": {
   "backloggd": 3.7,
@@ -6786,7 +7246,8 @@
   "checked": "2026-10-07T01:53:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:33+00:00"
  },
  "igdb:306144": {
   "backloggd": 4.1,
@@ -6794,7 +7255,12 @@
   "checked": "2026-10-07T06:02:02+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "dragon-quest-i-and-ii-hd-2d-remake"
+  "metacritic_slug": "dragon-quest-i-and-ii-hd-2d-remake",
+  "oc_checked": "2026-10-10T15:55:29+00:00",
+  "opencritic": 85,
+  "opencritic_id": 19041,
+  "opencritic_pct": 94,
+  "opencritic_tier": "Mighty"
  },
  "igdb:306148": {
   "backloggd": 3.8,
@@ -6802,7 +7268,12 @@
   "checked": "2026-10-06T21:23:16+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "super-mario-party-jamboree"
+  "metacritic_slug": "super-mario-party-jamboree",
+  "oc_checked": "2026-10-10T15:54:22+00:00",
+  "opencritic": 81,
+  "opencritic_id": 16873,
+  "opencritic_pct": 87,
+  "opencritic_tier": "Strong"
  },
  "igdb:313595": {
   "backloggd": 3.9,
@@ -6810,7 +7281,12 @@
   "checked": "2026-10-07T02:36:12+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "two-point-museum"
+  "metacritic_slug": "two-point-museum",
+  "oc_checked": "2026-10-10T15:55:09+00:00",
+  "opencritic": 85,
+  "opencritic_id": 17484,
+  "opencritic_pct": 90,
+  "opencritic_tier": "Mighty"
  },
  "igdb:314238": {
   "backloggd": 3.0,
@@ -6818,7 +7294,12 @@
   "checked": "2026-10-07T02:36:22+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "sniper-elite-resistance"
+  "metacritic_slug": "sniper-elite-resistance",
+  "oc_checked": "2026-10-10T15:54:35+00:00",
+  "opencritic": 73,
+  "opencritic_id": 17739,
+  "opencritic_pct": 59,
+  "opencritic_tier": "Fair"
  },
  "igdb:3146": {
   "backloggd": 3.7,
@@ -6884,7 +7365,12 @@
   "checked": "2026-10-07T01:58:50+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "death-note-killer-within"
+  "metacritic_slug": "death-note-killer-within",
+  "oc_checked": "2026-10-10T15:55:44+00:00",
+  "opencritic": 64,
+  "opencritic_id": 17704,
+  "opencritic_pct": 17,
+  "opencritic_tier": "Weak"
  },
  "igdb:3225": {
   "backloggd": 3.4,
@@ -6942,7 +7428,12 @@
   "checked": "2026-10-07T02:02:59+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "pga-tour-2k25"
+  "metacritic_slug": "pga-tour-2k25",
+  "oc_checked": "2026-10-10T15:55:54+00:00",
+  "opencritic": 81,
+  "opencritic_id": 18046,
+  "opencritic_pct": 82,
+  "opencritic_tier": "Strong"
  },
  "igdb:3363": {
   "backloggd": 4.2,
@@ -6959,6 +7450,19 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "mario-luigi-partners-in-time"
+ },
+ "igdb:336964": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-10T15:53:50+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "f1-25",
+  "oc_checked": "2026-10-10T15:54:31+00:00",
+  "opencritic": 80,
+  "opencritic_id": 18323,
+  "opencritic_pct": 84,
+  "opencritic_tier": "Strong"
  },
  "igdb:338067": {
   "backloggd": 3.8,
@@ -7147,7 +7651,12 @@
   "checked": "2026-10-07T06:02:04+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "fire-emblem-fortunes-weave"
+  "metacritic_slug": "fire-emblem-fortunes-weave",
+  "oc_checked": "2026-10-10T15:55:57+00:00",
+  "opencritic": 90,
+  "opencritic_id": 20819,
+  "opencritic_pct": 99,
+  "opencritic_tier": "Mighty"
  },
  "igdb:36813": {
   "backloggd": 3.8,
@@ -7272,7 +7781,12 @@
   "checked": "2026-10-08T03:02:50+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:54:36+00:00",
+  "opencritic": 82,
+  "opencritic_id": 4959,
+  "opencritic_pct": 82,
+  "opencritic_tier": "Strong"
  },
  "igdb:3722": {
   "backloggd": 3.2,
@@ -7438,7 +7952,8 @@
   "checked": "2026-10-06T22:05:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:28+00:00"
  },
  "igdb:41858": {
   "backloggd": 2.8,
@@ -8016,7 +8531,8 @@
   "checked": "2026-10-07T01:53:10+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "the-playroom"
+  "metacritic_slug": "the-playroom",
+  "oc_checked": "2026-10-10T15:56:15+00:00"
  },
  "igdb:6036": {
   "backloggd": 4.4,
@@ -8125,6 +8641,7 @@
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "the-secret-of-monkey-island-special-edition",
+  "oc_checked": "2026-10-10T15:56:24+00:00",
   "steam_genres": [
    "Adventure"
   ],
@@ -8241,7 +8758,12 @@
   "checked": "2026-10-07T01:57:50+00:00",
   "mc_v": 2,
   "metacritic": 69,
-  "metacritic_slug": "raji-an-ancient-epic"
+  "metacritic_slug": "raji-an-ancient-epic",
+  "oc_checked": "2026-10-10T15:53:58+00:00",
+  "opencritic": 70,
+  "opencritic_id": 10040,
+  "opencritic_pct": 46,
+  "opencritic_tier": "Fair"
  },
  "igdb:72": {
   "backloggd": 4.5,
@@ -8250,6 +8772,7 @@
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "portal-2",
+  "oc_checked": "2026-10-10T15:56:22+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -8281,6 +8804,19 @@
   "opencritic": 80,
   "opencritic_id": 8308,
   "opencritic_pct": 82,
+  "opencritic_tier": "Strong"
+ },
+ "igdb:7291": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-10T15:53:48+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:53:54+00:00",
+  "opencritic": 78,
+  "opencritic_id": 8204,
+  "opencritic_pct": 66,
   "opencritic_tier": "Strong"
  },
  "igdb:7292": {
@@ -8574,6 +9110,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "lara-croft-and-the-guardian-of-light",
+  "oc_checked": "2026-10-10T15:56:25+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -8613,7 +9150,12 @@
   "checked": "2026-10-08T03:46:11+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "olliolli"
+  "metacritic_slug": "olliolli",
+  "oc_checked": "2026-10-10T15:54:23+00:00",
+  "opencritic": 76,
+  "opencritic_id": 1069,
+  "opencritic_pct": 67,
+  "opencritic_tier": "Strong"
  },
  "igdb:7812": {
   "backloggd": 3.6,
@@ -8654,7 +9196,12 @@
   "checked": "2026-10-07T01:56:00+00:00",
   "mc_v": 2,
   "metacritic": 60,
-  "metacritic_slug": "i-am-bread"
+  "metacritic_slug": "i-am-bread",
+  "oc_checked": "2026-10-10T15:54:42+00:00",
+  "opencritic": 57,
+  "opencritic_id": 1391,
+  "opencritic_pct": 19,
+  "opencritic_tier": "Weak"
  },
  "igdb:79653": {
   "backloggd": 4.2,
@@ -8770,7 +9317,8 @@
   "checked": "2026-10-07T01:52:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:07+00:00"
  },
  "igdb:8258": {
   "backloggd": 3.1,
@@ -8921,7 +9469,8 @@
   "checked": "2026-10-06T22:02:23+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "resident-evil-5"
+  "metacritic_slug": "resident-evil-5",
+  "oc_checked": "2026-10-10T15:56:10+00:00"
  },
  "igdb:8515": {
   "backloggd": 3.6,
@@ -8945,7 +9494,8 @@
   "checked": "2026-10-07T01:53:02+00:00",
   "mc_v": 2,
   "metacritic": 93,
-  "metacritic_slug": "singstar"
+  "metacritic_slug": "singstar",
+  "oc_checked": "2026-10-10T15:56:13+00:00"
  },
  "igdb:8593": {
   "backloggd": 4.3,
@@ -8966,7 +9516,12 @@
   "checked": "2026-10-08T03:13:52+00:00",
   "mc_v": 2,
   "metacritic": 48,
-  "metacritic_slug": "ironfall-invasion"
+  "metacritic_slug": "ironfall-invasion",
+  "oc_checked": "2026-10-10T15:55:52+00:00",
+  "opencritic": null,
+  "opencritic_id": 17854,
+  "opencritic_pct": null,
+  "opencritic_tier": ""
  },
  "igdb:86389": {
   "backloggd": 3.9,
@@ -9041,7 +9596,12 @@
   "checked": "2026-10-06T22:06:07+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "farming-simulator-19"
+  "metacritic_slug": "farming-simulator-19",
+  "oc_checked": "2026-10-10T15:54:00+00:00",
+  "opencritic": 70,
+  "opencritic_id": 6897,
+  "opencritic_pct": 50,
+  "opencritic_tier": "Fair"
  },
  "igdb:8729": {
   "backloggd": 3.0,
@@ -9275,7 +9835,12 @@
   "checked": "2026-10-08T03:42:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:56:04+00:00",
+  "opencritic": 84,
+  "opencritic_id": 2527,
+  "opencritic_pct": null,
+  "opencritic_tier": "Mighty"
  },
  "igdb:9597": {
   "backloggd": 4.1,
@@ -9304,7 +9869,12 @@
   "checked": "2026-10-08T03:05:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-10T15:54:55+00:00",
+  "opencritic": 79,
+  "opencritic_id": 4774,
+  "opencritic_pct": 71,
+  "opencritic_tier": "Strong"
  },
  "igdb:9694": {
   "backloggd": 4.0,

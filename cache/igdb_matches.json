@@ -2267,7 +2267,7 @@
  },
  "PS4:CUSA00131_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -4313,7 +4313,7 @@
  },
  "PS4:CUSA14043_00": {
   "candidates": 25,
-  "checked": "2026-10-07T02:53:51+00:00",
+  "checked": "2026-10-10T15:53:39+00:00",
   "conf": null,
   "id": null,
   "score": 0.883,
@@ -4555,7 +4555,7 @@
  },
  "PS4:CUSA15607_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -5039,7 +5039,7 @@
  },
  "PS4:CUSA20387_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -6058,6 +6058,17 @@
   "slug": null,
   "title": "Disney Epic Mickey: Rebrushed",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA42845_00": {
+  "candidates": 25,
+  "checked": "2026-10-10T15:53:42+00:00",
+  "conf": "high",
+  "id": 268010,
+  "score": 1.125,
+  "slug": null,
+  "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA43248_00": {
@@ -8491,6 +8502,17 @@
   "v": 2,
   "via": "search"
  },
+ "PS5:PPSA15927_00": {
+  "candidates": 25,
+  "checked": "2026-10-10T15:53:42+00:00",
+  "conf": "high",
+  "id": 268010,
+  "score": 1.125,
+  "slug": null,
+  "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:PPSA16163_00": {
   "candidates": 2,
   "checked": "2026-10-07T01:51:22+00:00",
@@ -8522,6 +8544,17 @@
   "slug": null,
   "title": "Ultros",
   "v": 2,
+  "via": "search"
+ },
+ "PS5:PPSA16358_00": {
+  "candidates": 19,
+  "checked": "2026-10-10T15:53:40+00:00",
+  "conf": "high",
+  "id": 7291,
+  "score": 1.142,
+  "slug": null,
+  "title": "HUNT: SHOWDOWN 1896",
+  "v": 4,
   "via": "search"
  },
  "PS5:PPSA16526_00": {
@@ -8896,6 +8929,17 @@
   "slug": null,
   "title": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
   "v": 2,
+  "via": "search"
+ },
+ "PS5:PPSA24662_00": {
+  "candidates": 4,
+  "checked": "2026-10-10T15:53:41+00:00",
+  "conf": "high",
+  "id": 336964,
+  "score": 1.135,
+  "slug": null,
+  "title": "F1® 25",
+  "v": 4,
   "via": "search"
  },
  "PS5:PPSA25009_00": {
@@ -9747,7 +9791,7 @@
  },
  "PlayStation:CUSA00095_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9758,7 +9802,7 @@
  },
  "PlayStation:CUSA00096_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9780,7 +9824,7 @@
  },
  "PlayStation:CUSA00129_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9791,7 +9835,7 @@
  },
  "PlayStation:CUSA00130_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9802,7 +9846,7 @@
  },
  "PlayStation:CUSA01015_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9813,7 +9857,7 @@
  },
  "PlayStation:CUSA01780_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9824,7 +9868,7 @@
  },
  "PlayStation:CUSA02012_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9868,7 +9912,7 @@
  },
  "PlayStation:CUSA02573_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9901,7 +9945,7 @@
  },
  "PlayStation:CUSA09142_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9956,7 +10000,7 @@
  },
  "PlayStation:CUSA41487_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9967,7 +10011,7 @@
  },
  "PlayStation:PPSA01665_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9978,7 +10022,7 @@
  },
  "PlayStation:PPSA18266_00": {
   "candidates": null,
-  "checked": "2026-10-07T02:53:35+00:00",
+  "checked": "2026-10-10T15:53:38+00:00",
   "conf": null,
   "id": null,
   "score": null,
