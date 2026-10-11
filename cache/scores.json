@@ -99,7 +99,8 @@
   "checked": "2026-10-07T02:36:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-11T16:21:14+00:00"
  },
  "igdb:102321": {
   "backloggd": 3.5,
@@ -341,6 +342,7 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "mirrors-edge",
+  "oc_checked": "2026-10-11T16:21:09+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -403,7 +405,8 @@
   "checked": "2026-10-09T03:48:50+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-11T16:20:57+00:00"
  },
  "igdb:107218": {
   "backloggd": 4.0,
@@ -488,6 +491,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "l-a-noire",
+  "oc_checked": "2026-10-11T16:21:07+00:00",
   "steam_genres": [
    "Adventure",
    "Strategy"
@@ -501,7 +505,8 @@
   "checked": "2026-10-09T03:42:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-11T16:21:15+00:00"
  },
  "igdb:10919": {
   "backloggd": 3.9,
@@ -522,7 +527,8 @@
   "checked": "2026-10-09T03:42:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-11T16:21:20+00:00"
  },
  "igdb:109275": {
   "backloggd": 2.4,
@@ -1517,6 +1523,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "left-4-dead",
+  "oc_checked": "2026-10-11T16:21:13+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -1598,6 +1605,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "left-4-dead-2",
+  "oc_checked": "2026-10-11T16:21:03+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -2498,7 +2506,8 @@
   "checked": "2026-10-08T03:38:40+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "hotline-miami"
+  "metacritic_slug": "hotline-miami",
+  "oc_checked": "2026-10-11T16:21:01+00:00"
  },
  "igdb:138590": {
   "backloggd": 3.5,
@@ -2616,6 +2625,7 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "fallout-2",
+  "oc_checked": "2026-10-11T16:21:10+00:00",
   "steam_genres": [
    "RPG"
   ],
@@ -3255,7 +3265,8 @@
   "checked": "2026-10-07T02:36:29+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-11T16:21:19+00:00"
  },
  "igdb:15167": {
   "backloggd": 3.7,
@@ -4839,6 +4850,7 @@
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "batman-arkham-origins",
+  "oc_checked": "2026-10-11T16:21:12+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -5255,6 +5267,7 @@
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "bioshock-2",
+  "oc_checked": "2026-10-11T16:21:04+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -7132,7 +7145,8 @@
   "checked": "2026-10-08T03:35:21+00:00",
   "mc_v": 2,
   "metacritic": 93,
-  "metacritic_slug": "persona-4-golden"
+  "metacritic_slug": "persona-4-golden",
+  "oc_checked": "2026-10-11T16:21:18+00:00"
  },
  "igdb:298526": {
   "backloggd": 4.5,
@@ -7154,6 +7168,7 @@
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "the-wolf-among-us",
+  "oc_checked": "2026-10-11T16:21:02+00:00",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -7589,7 +7604,8 @@
   "checked": "2026-10-07T02:36:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-11T16:21:00+00:00"
  },
  "igdb:359": {
   "backloggd": 3.5,
@@ -7823,7 +7839,8 @@
   "checked": "2026-10-08T04:10:18+00:00",
   "mc_v": 2,
   "metacritic": 96,
-  "metacritic_slug": "metal-gear-solid-2-sons-of-liberty"
+  "metacritic_slug": "metal-gear-solid-2-sons-of-liberty",
+  "oc_checked": "2026-10-11T16:21:08+00:00"
  },
  "igdb:3772": {
   "backloggd": 3.4,
@@ -7858,6 +7875,7 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "dead-space-2",
+  "oc_checked": "2026-10-11T16:21:06+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
@@ -8303,6 +8321,7 @@
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "bioshock-infinite",
+  "oc_checked": "2026-10-11T16:20:56+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -9067,7 +9086,8 @@
   "checked": "2026-10-06T22:07:24+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "life-is-strange"
+  "metacritic_slug": "life-is-strange",
+  "oc_checked": "2026-10-11T16:20:58+00:00"
  },
  "igdb:7605": {
   "backloggd": 4.0,
