@@ -299,7 +299,8 @@
   "checked": "2026-10-09T04:03:54+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "the-legend-of-zelda-the-minish-cap"
+  "metacritic_slug": "the-legend-of-zelda-the-minish-cap",
+  "oc_checked": "2026-10-12T19:50:08+00:00"
  },
  "igdb:1037": {
   "backloggd": 3.4,
@@ -453,7 +454,8 @@
   "checked": "2026-10-07T21:29:08+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "new-super-mario-bros"
+  "metacritic_slug": "new-super-mario-bros",
+  "oc_checked": "2026-10-12T19:50:12+00:00"
  },
  "igdb:1079": {
   "backloggd": 3.6,
@@ -461,7 +463,8 @@
   "checked": "2026-10-07T02:36:47+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "super-mario-3d-land"
+  "metacritic_slug": "super-mario-3d-land",
+  "oc_checked": "2026-10-12T19:50:20+00:00"
  },
  "igdb:1080": {
   "backloggd": 3.1,
@@ -656,7 +659,8 @@
   "checked": "2026-10-09T03:52:06+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "metroid-zero-mission"
+  "metacritic_slug": "metroid-zero-mission",
+  "oc_checked": "2026-10-12T19:50:29+00:00"
  },
  "igdb:11078": {
   "backloggd": 3.5,
@@ -1226,7 +1230,8 @@
   "checked": "2026-10-08T03:38:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-12T19:50:06+00:00"
  },
  "igdb:1190": {
   "backloggd": 3.3,
@@ -3166,7 +3171,8 @@
   "checked": "2026-10-07T04:25:25+00:00",
   "mc_v": 2,
   "metacritic": 64,
-  "metacritic_slug": "batman-the-telltale-series"
+  "metacritic_slug": "batman-the-telltale-series",
+  "oc_checked": "2026-10-12T19:50:15+00:00"
  },
  "igdb:14758": {
   "backloggd": 3.9,
@@ -3294,7 +3300,8 @@
   "checked": "2026-10-07T21:29:01+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "pokemon-platinum-version"
+  "metacritic_slug": "pokemon-platinum-version",
+  "oc_checked": "2026-10-12T19:50:09+00:00"
  },
  "igdb:152": {
   "backloggd": 3.8,
@@ -3320,7 +3327,8 @@
   "checked": "2026-10-07T21:28:58+00:00",
   "mc_v": 2,
   "metacritic": 87,
-  "metacritic_slug": "pokemon-soulsilver-version"
+  "metacritic_slug": "pokemon-soulsilver-version",
+  "oc_checked": "2026-10-12T19:50:19+00:00"
  },
  "igdb:152064": {
   "backloggd": 3.5,
@@ -4383,7 +4391,8 @@
   "checked": "2026-10-07T01:56:58+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "indigo-prophecy"
+  "metacritic_slug": "indigo-prophecy",
+  "oc_checked": "2026-10-12T19:50:11+00:00"
  },
  "igdb:192907": {
   "backloggd": 3.1,
@@ -4503,7 +4512,12 @@
   "checked": "2026-10-06T21:23:06+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "ori-and-the-blind-forest-definitive-edition"
+  "metacritic_slug": "ori-and-the-blind-forest-definitive-edition",
+  "oc_checked": "2026-10-12T19:50:26+00:00",
+  "opencritic": 88,
+  "opencritic_id": 1658,
+  "opencritic_pct": 93,
+  "opencritic_tier": "Mighty"
  },
  "igdb:19457": {
   "backloggd": 4.2,
@@ -5616,6 +5630,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "system-shock-2",
+  "oc_checked": "2026-10-12T19:50:21+00:00",
   "steam_genres": [
    "Action",
    "RPG"
@@ -5875,7 +5890,8 @@
   "checked": "2026-10-07T21:32:56+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "mario-kart-ds"
+  "metacritic_slug": "mario-kart-ds",
+  "oc_checked": "2026-10-12T19:50:13+00:00"
  },
  "igdb:2349": {
   "backloggd": 3.6,
@@ -6744,7 +6760,8 @@
   "checked": "2026-10-08T03:28:27+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "lego-batman-the-videogame"
+  "metacritic_slug": "lego-batman-the-videogame",
+  "oc_checked": "2026-10-12T19:50:30+00:00"
  },
  "igdb:27421": {
   "backloggd": 3.7,
@@ -7364,7 +7381,8 @@
   "checked": "2026-10-08T03:46:09+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "need-for-speed-most-wanted"
+  "metacritic_slug": "need-for-speed-most-wanted",
+  "oc_checked": "2026-10-12T19:50:07+00:00"
  },
  "igdb:320": {
   "backloggd": 3.9,
@@ -7372,7 +7390,8 @@
   "checked": "2026-10-07T02:00:09+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "s-t-a-l-k-e-r-shadow-of-chernobyl"
+  "metacritic_slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+  "oc_checked": "2026-10-12T19:50:05+00:00"
  },
  "igdb:320363": {
   "backloggd": 2.7,
@@ -8025,6 +8044,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "rome-total-war",
+  "oc_checked": "2026-10-12T19:50:27+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -8470,7 +8490,8 @@
   "checked": "2026-10-08T03:15:50+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "god-of-war-chains-of-olympus"
+  "metacritic_slug": "god-of-war-chains-of-olympus",
+  "oc_checked": "2026-10-12T19:50:24+00:00"
  },
  "igdb:5552": {
   "backloggd": 3.3,
@@ -9007,6 +9028,11 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-12T19:50:18+00:00",
+  "opencritic": 81,
+  "opencritic_id": 6029,
+  "opencritic_pct": 69,
+  "opencritic_tier": "Strong",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -9199,7 +9225,8 @@
   "checked": "2026-10-08T03:46:03+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-12T19:50:23+00:00"
  },
  "igdb:78497": {
   "backloggd": 3.9,
@@ -9989,7 +10016,8 @@
   "checked": "2026-10-08T03:10:12+00:00",
   "mc_v": 2,
   "metacritic": 87,
-  "metacritic_slug": "rayman-origins"
+  "metacritic_slug": "rayman-origins",
+  "oc_checked": "2026-10-12T19:50:14+00:00"
  },
  "igdb:9898": {
   "backloggd": 3.5,

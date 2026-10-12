@@ -3032,6 +3032,15 @@
    "title": "RESIDENT EVIL 2"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-10-12",
+   "platform": "PS5",
+   "playtime_hours": 25.8,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
    "last_played": "2021-09-14",
    "platform": "PS4",
@@ -3048,15 +3057,6 @@
    "ps_plus": false,
    "source_id": "CUSA04437_00",
    "title": "Resident Evil 5"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-09-30",
-   "platform": "PS5",
-   "playtime_hours": 24.3,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0105/nkAJcbaKJ1N0YP7JuRd3DdTc.png",
