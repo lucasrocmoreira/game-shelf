@@ -912,7 +912,8 @@
   "checked": "2026-10-07T21:40:16+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "castlevania-dawn-of-sorrow"
+  "metacritic_slug": "castlevania-dawn-of-sorrow",
+  "oc_checked": "2026-10-15T15:05:35+00:00"
  },
  "igdb:11397": {
   "backloggd": 4.4,
@@ -1124,7 +1125,8 @@
   "checked": "2026-10-08T03:38:47+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "gravity-rush"
+  "metacritic_slug": "gravity-rush",
+  "oc_checked": "2026-10-15T15:05:38+00:00"
  },
  "igdb:1172": {
   "backloggd": 3.9,
@@ -1154,7 +1156,8 @@
   "checked": "2026-10-09T03:52:01+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "golden-sun-the-lost-age"
+  "metacritic_slug": "golden-sun-the-lost-age",
+  "oc_checked": "2026-10-15T15:05:50+00:00"
  },
  "igdb:117717": {
   "backloggd": 3.6,
@@ -1245,7 +1248,8 @@
   "checked": "2026-10-07T21:36:33+00:00",
   "mc_v": 2,
   "metacritic": 65,
-  "metacritic_slug": "crash-of-the-titans"
+  "metacritic_slug": "crash-of-the-titans",
+  "oc_checked": "2026-10-15T15:05:34+00:00"
  },
  "igdb:119133": {
   "backloggd": 4.5,
@@ -2131,7 +2135,8 @@
   "checked": "2026-10-07T21:00:31+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "the-world-ends-with-you"
+  "metacritic_slug": "the-world-ends-with-you",
+  "oc_checked": "2026-10-15T15:05:42+00:00"
  },
  "igdb:134438": {
   "backloggd": 3.3,
@@ -2616,7 +2621,8 @@
   "checked": "2026-10-07T21:25:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-15T15:05:41+00:00"
  },
  "igdb:139896": {
   "backloggd": 4.4,
@@ -2631,7 +2637,8 @@
   "checked": "2026-10-07T21:25:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-15T15:05:46+00:00"
  },
  "igdb:14": {
   "backloggd": 4.1,
@@ -3790,6 +3797,7 @@
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "fallout-tactics-brotherhood-of-steel",
+  "oc_checked": "2026-10-15T15:05:44+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -3815,7 +3823,8 @@
   "checked": "2026-10-09T04:04:00+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "warioware-inc-mega-microgame"
+  "metacritic_slug": "warioware-inc-mega-microgame",
+  "oc_checked": "2026-10-15T15:05:37+00:00"
  },
  "igdb:17032": {
   "backloggd": 4.0,
@@ -3968,7 +3977,8 @@
   "checked": "2026-10-08T03:47:55+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "sly-cooper-thieves-in-time"
+  "metacritic_slug": "sly-cooper-thieves-in-time",
+  "oc_checked": "2026-10-15T15:05:47+00:00"
  },
  "igdb:180298": {
   "backloggd": 3.0,
@@ -5287,7 +5297,12 @@
   "checked": "2026-10-07T01:56:38+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "dishonored-definitive-edition"
+  "metacritic_slug": "dishonored-definitive-edition",
+  "oc_checked": "2026-10-15T15:05:30+00:00",
+  "opencritic": 78,
+  "opencritic_id": 1848,
+  "opencritic_pct": 74,
+  "opencritic_tier": "Strong"
  },
  "igdb:21": {
   "backloggd": 3.8,
@@ -5839,7 +5854,8 @@
   "checked": "2026-10-09T04:00:16+00:00",
   "mc_v": 2,
   "metacritic": 67,
-  "metacritic_slug": "pokemon-mystery-dungeon-red-rescue-team"
+  "metacritic_slug": "pokemon-mystery-dungeon-red-rescue-team",
+  "oc_checked": "2026-10-15T15:05:40+00:00"
  },
  "igdb:23248": {
   "backloggd": 3.8,
@@ -6089,7 +6105,8 @@
   "checked": "2026-10-08T02:55:51+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "luigis-mansion-dark-moon"
+  "metacritic_slug": "luigis-mansion-dark-moon",
+  "oc_checked": "2026-10-15T15:05:36+00:00"
  },
  "igdb:248535": {
   "backloggd": 3.2,
@@ -6611,7 +6628,8 @@
   "checked": "2026-10-07T21:33:12+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "kirby-super-star-ultra"
+  "metacritic_slug": "kirby-super-star-ultra",
+  "oc_checked": "2026-10-15T15:05:52+00:00"
  },
  "igdb:2651": {
   "backloggd": 3.3,
@@ -7697,7 +7715,8 @@
   "checked": "2026-10-08T02:58:51+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "kid-icarus-uprising"
+  "metacritic_slug": "kid-icarus-uprising",
+  "oc_checked": "2026-10-15T15:05:48+00:00"
  },
  "igdb:36662": {
   "backloggd": 2.9,
@@ -8040,6 +8059,7 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "deus-ex-invisible-war",
+  "oc_checked": "2026-10-15T15:05:31+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -8117,6 +8137,7 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "warhammer-40-000-dawn-of-war-dark-crusade",
+  "oc_checked": "2026-10-15T15:05:49+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -8318,6 +8339,7 @@
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "f-e-a-r-extraction-point",
+  "oc_checked": "2026-10-15T15:05:32+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -8331,6 +8353,7 @@
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "f-e-a-r-perseus-mandate",
+  "oc_checked": "2026-10-15T15:05:43+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -8800,7 +8823,8 @@
   "checked": "2026-10-08T02:58:54+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "shin-megami-tensei-iv"
+  "metacritic_slug": "shin-megami-tensei-iv",
+  "oc_checked": "2026-10-15T15:05:54+00:00"
  },
  "igdb:6890": {
   "backloggd": 3.7,
