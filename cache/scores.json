@@ -2660,7 +2660,8 @@
   "checked": "2026-10-07T21:44:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-16T04:52:18+00:00"
  },
  "igdb:1402": {
   "backloggd": 3.8,
@@ -3028,7 +3029,8 @@
   "checked": "2026-10-07T21:36:21+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "fire-emblem-shadow-dragon"
+  "metacritic_slug": "fire-emblem-shadow-dragon",
+  "oc_checked": "2026-10-16T04:52:05+00:00"
  },
  "igdb:145004": {
   "backloggd": 3.6,
@@ -3110,7 +3112,8 @@
   "checked": "2026-10-08T03:21:21+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "locoroco"
+  "metacritic_slug": "locoroco",
+  "oc_checked": "2026-10-16T04:52:13+00:00"
  },
  "igdb:14593": {
   "backloggd": 4.4,
@@ -3455,7 +3458,8 @@
   "checked": "2026-10-08T03:19:48+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "daxter"
+  "metacritic_slug": "daxter",
+  "oc_checked": "2026-10-16T04:52:01+00:00"
  },
  "igdb:1545": {
   "backloggd": 3.5,
@@ -3686,7 +3690,8 @@
   "checked": "2026-10-09T04:03:48+00:00",
   "mc_v": 2,
   "metacritic": 92,
-  "metacritic_slug": "super-mario-world-super-mario-advance-2"
+  "metacritic_slug": "super-mario-world-super-mario-advance-2",
+  "oc_checked": "2026-10-16T04:51:57+00:00"
  },
  "igdb:16618": {
   "backloggd": 3.5,
@@ -3772,7 +3777,8 @@
   "checked": "2026-10-07T21:40:20+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "advance-wars-dual-strike"
+  "metacritic_slug": "advance-wars-dual-strike",
+  "oc_checked": "2026-10-16T04:52:19+00:00"
  },
  "igdb:1694": {
   "backloggd": 3.7,
@@ -3788,7 +3794,8 @@
   "checked": "2026-10-09T04:03:56+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "wario-land-4"
+  "metacritic_slug": "wario-land-4",
+  "oc_checked": "2026-10-16T04:51:58+00:00"
  },
  "igdb:17": {
   "backloggd": 2.7,
@@ -3909,7 +3916,8 @@
   "checked": "2026-10-07T01:59:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-16T04:52:11+00:00"
  },
  "igdb:178351": {
   "backloggd": 2.4,
@@ -3999,7 +4007,8 @@
   "checked": "2026-10-07T02:37:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-16T04:52:00+00:00"
  },
  "igdb:1815": {
   "backloggd": 3.9,
@@ -5568,7 +5577,8 @@
   "checked": "2026-10-07T01:58:09+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "borderlands"
+  "metacritic_slug": "borderlands",
+  "oc_checked": "2026-10-16T04:52:14+00:00"
  },
  "igdb:21779": {
   "backloggd": 3.8,
@@ -5767,7 +5777,8 @@
   "checked": "2026-10-08T03:05:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-16T04:52:22+00:00"
  },
  "igdb:228531": {
   "backloggd": 2.6,
@@ -6482,7 +6493,12 @@
   "checked": "2026-10-07T05:58:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-16T04:52:17+00:00",
+  "opencritic": 79,
+  "opencritic_id": 15374,
+  "opencritic_pct": 75,
+  "opencritic_tier": "Strong"
  },
  "igdb:260780": {
   "backloggd": 2.4,
@@ -6865,6 +6881,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "dragon-age-origins-ultimate-edition",
+  "oc_checked": "2026-10-16T04:52:10+00:00",
   "steam_genres": [
    "RPG"
   ],
@@ -7959,7 +7976,8 @@
   "checked": "2026-10-08T03:19:33+00:00",
   "mc_v": 2,
   "metacritic": 87,
-  "metacritic_slug": "metal-gear-solid-portable-ops"
+  "metacritic_slug": "metal-gear-solid-portable-ops",
+  "oc_checked": "2026-10-16T04:52:12+00:00"
  },
  "igdb:382": {
   "backloggd": 3.7,
@@ -7976,7 +7994,8 @@
   "checked": "2026-10-08T03:24:38+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "dissidia-final-fantasy"
+  "metacritic_slug": "dissidia-final-fantasy",
+  "oc_checked": "2026-10-16T04:52:08+00:00"
  },
  "igdb:4": {
   "backloggd": 2.5,
@@ -8124,6 +8143,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "warhammer-40-000-dawn-of-war-winter-assault",
+  "oc_checked": "2026-10-16T04:51:59+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -8151,6 +8171,7 @@
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "warhammer-40-000-dawn-of-war-soulstorm",
+  "oc_checked": "2026-10-16T04:52:03+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -9274,7 +9295,8 @@
   "checked": "2026-10-08T03:19:45+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "patapon"
+  "metacritic_slug": "patapon",
+  "oc_checked": "2026-10-16T04:52:06+00:00"
  },
  "igdb:7813": {
   "backloggd": 4.1,
@@ -9841,7 +9863,8 @@
   "checked": "2026-10-09T03:48:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-16T04:52:23+00:00"
  },
  "igdb:9174": {
   "backloggd": 3.8,
@@ -9877,6 +9900,7 @@
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "half-life-2-deathmatch",
+  "oc_checked": "2026-10-16T04:52:04+00:00",
   "steam_genres": [
    "Action"
   ],
