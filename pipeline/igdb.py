@@ -155,6 +155,19 @@ class IGDB:
         )
         return res[0] if res else None
 
+    def time_to_beats(self, ids):
+        """IGDB's own time-to-beat data (hours), used where HowLongToBeat has nothing."""
+        ids = sorted({int(i) for i in ids if i})
+        out = {}
+        for i in range(0, len(ids), 400):
+            chunk = ",".join(map(str, ids[i : i + 400]))
+            rows = self.query("game_time_to_beats", f"fields game_id,hastily,normally,completely; where game_id = ({chunk}); limit 500;")
+            for r in rows or []:
+                h = {k: round(r[k] / 3600 * 2) / 2 for k in ("hastily", "normally", "completely") if isinstance(r.get(k), (int, float)) and r[k] > 0}
+                if h and r.get("game_id"):
+                    out[r["game_id"]] = h
+        return out
+
     def steam_appids_to_games(self, appids):
         """Map Steam app ids to IGDB game ids using IGDB's external_games table."""
         appids = [str(a) for a in appids]

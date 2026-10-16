@@ -66,7 +66,7 @@ details.opts label{display:inline-flex;gap:6px;align-items:center;margin:6px 12p
 
 /* List */
 ol.list{list-style:none;margin:0;padding:0}
-.game{display:grid;grid-template-columns:34px 48px 1fr auto;gap:4px 12px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+.game{display:grid;grid-template-columns:34px 48px minmax(0,1fr) auto;gap:4px 12px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
 .game.is-hidden{opacity:.55}
 .rank{font:700 18px/1 var(--display);color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
 .game img.cover{width:48px;aspect-ratio:3/4;object-fit:cover;border-radius:5px;background:var(--line)}
@@ -79,11 +79,12 @@ ol.list{list-style:none;margin:0;padding:0}
 .score{font:800 28px/1 var(--display);font-stretch:80%;text-align:right;min-width:52px;font-variant-numeric:tabular-nums}
 .hi{color:var(--hi)} .mid{color:var(--mid)} .lo{color:var(--lo)} .na{color:var(--none)}
 
-.detail{grid-column:3/5;padding-top:8px;display:grid;gap:10px}
+.detail{grid-column:3/5;padding-top:8px;display:grid;gap:10px;min-width:0}
+.detail > *{min-width:0}
 .actions{display:flex;flex-wrap:wrap;gap:8px}
 .actions button{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 12px;font-size:14px;cursor:pointer}
 .actions button.on{background:var(--hi);border-color:var(--hi);color:#fff}
-.breakdown{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:6px 14px;font-size:13px}
+.breakdown{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(130px,100%),1fr));gap:6px 14px;font-size:13px}
 .breakdown div{display:flex;justify-content:space-between;border-bottom:1px dotted var(--line);padding:2px 0}
 .breakdown b{font-variant-numeric:tabular-nums}
 .summary{font-size:14px;color:var(--ink);margin:0;max-width:68ch}
@@ -127,7 +128,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
 @media (max-width:520px){
   .hero{grid-template-columns:96px 1fr;gap:14px}
   .hero img{width:96px}
-  .game{grid-template-columns:26px 40px 1fr auto;gap:4px 10px}
+  .game{grid-template-columns:26px 40px minmax(0,1fr) auto;gap:4px 10px}
   .game img.cover{width:40px}
   .detail{grid-column:1/5}
 }
@@ -162,13 +163,14 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
       <span class="count" id="count"></span>
     </div>
     <details class="opts" id="filtersBox">
-      <summary>Filter by genre, theme, franchise, mode</summary>
+      <summary>Filter by genre, theme, franchise, mode, length</summary>
       <div class="grid">
         <select id="f_genres" aria-label="Genre"></select>
         <select id="f_themes" aria-label="Theme"></select>
         <select id="f_franchises" aria-label="Franchise"></select>
         <select id="f_modes" aria-label="Mode"></select>
         <select id="f_perspectives" aria-label="Perspective"></select>
+        <select id="f_length" aria-label="Length"></select>
       </div>
     </details>
     <details class="opts">
@@ -199,12 +201,15 @@ const SOURCES = {
 };
 const SORTS = [
   ["avg","Average score"], ...Object.entries(SOURCES).map(([k,v])=>[k,v.label]),
-  ["playtime","Most played"], ["recent","Recently played"], ["year","Newest release"], ["title","Title A to Z"],
+  ["ttb_short","Shortest to beat"], ["ttb_long","Longest to beat"], ["playtime","Most played"], ["recent","Recently played"], ["year","Newest release"], ["title","Title A to Z"],
 ];
 const GROUPS = [["","No grouping"],["genres","Group by genre"],["themes","Group by theme"],["franchises","Group by franchise"],
   ["platforms","Group by platform"],["developers","Group by developer"],["modes","Group by mode"]];
 const FILTERS = {genres:"All genres", themes:"All themes", franchises:"All franchises", modes:"All modes", perspectives:"All perspectives"};
-const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"Backloggd",igdb:"IGDB",steam:"Steam"};
+const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"Backloggd",igdb:"IGDB",steam:"Steam",hltb:"HowLongToBeat"};
+const LENGTHS = [["","Any length"],["0-10","Under 10 hours"],["10-30","10 to 30 hours"],["30-60","30 to 60 hours"],["60-9999","Over 60 hours"]];
+const beat = g => g.ttb ? (g.ttb.main ?? g.ttb.extra ?? g.ttb.complete ?? null) : null;  // hours for the main story
+const hrs = h => h==null ? "–" : (h<1 ? "<1h" : (Number.isInteger(h) ? h : h.toFixed(1)) + "h");
 const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
 const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, added:[], match:{}});
 
@@ -216,7 +221,7 @@ const store = {
 const prefs = store.get("shelf-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
-  filters:{}, tags:[], hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, showHidden:false,
+  filters:{}, tags:[], length:"", hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, showHidden:false,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
 function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,srcOn:[...state.srcOn]}); }
@@ -315,6 +320,7 @@ function value(g,key){
   if(key==="playtime") return g.playtime||null;
   if(key==="recent") return g.last_played?Date.parse(g.last_played):null;
   if(key==="year") return g.year;
+  if(key==="ttb_short"||key==="ttb_long") return beat(g);
   return null;
 }
 function sorted(list){
@@ -324,6 +330,7 @@ function sorted(list){
     const va=value(a,k), vb=value(b,k);
     if(va==null&&vb==null) return a.title.localeCompare(b.title);
     if(va==null) return 1; if(vb==null) return -1;
+    if(k==="ttb_short") return va-vb || (avg(b)??-1)-(avg(a)??-1) || a.title.localeCompare(b.title);
     return vb-va || (avg(b)??-1)-(avg(a)??-1) || a.title.localeCompare(b.title);
   });
 }
@@ -342,12 +349,14 @@ function filtered(){
     state.tags.every(t=>(g[t.field]||[]).includes(t.value)) &&
     (state.played==="all" || (state.played==="played" ? !!g._played : !g._played)) &&
     (!state.hideUnscored || avg(g)!=null) &&
+    (!state.length || (()=>{ const h=beat(g), [lo,hi]=state.length.split("-").map(Number); return h!=null && h>=lo && h<hi; })()) &&
     (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played));
 }
 function shown(g){
   const k=state.sort;
   if(k==="playtime") return {v:g.playtime?Math.round(g.playtime):null, unit:"h", cls:""};
   if(k==="year") return {v:g.year, unit:"", cls:""};
+  if(k==="ttb_short"||k==="ttb_long"){ const h=beat(g); return {v:h==null?null:(h<1?"<1":Math.round(h)), unit:"h", cls:""}; }
   if(k==="recent"||k==="title") { const a=avg(g); return {v:a,unit:"",cls:tone(a)}; }
   const v=value(g,k); return {v, unit:"", cls:tone(v)};
 }
@@ -380,6 +389,8 @@ function detail(g){
     ${note}
     ${g.summary?`<p class="summary">${esc(g.summary)}</p>`:""}
     <div class="breakdown">${breakdown}</div>
+    ${g.ttb?`<div class="facts"><div><b>Time to beat</b> <span class="na">(${esc(g.ttb.src)})</span></div>
+      <div class="breakdown"><div><span>Main story</span><b>${hrs(g.ttb.main)}</b></div><div><span>Main + extras</span><b>${hrs(g.ttb.extra)}</b></div><div><span>Completionist</span><b>${hrs(g.ttb.complete)}</b></div></div></div>`:""}
     <div class="facts">
       ${people?`<div>${people}</div>`:""}
       ${tagList("Franchise","franchises",g.franchises)}
@@ -400,7 +411,7 @@ function gameRow(g,i){
     + (g._played?`<span class="pill played">Played</span>`:"")
     + (g._hidden?`<span class="pill">${g._hidden==="auto"?"App, hidden":"Hidden"}</span>`:"")
     + (!g.matched?`<span class="pill warn">Not on IGDB</span>`:"");
-  const subs = [pills, esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" ");
+  const subs = [pills, esc((g.genres||[]).slice(0,2).join(", ")), g.year||"", beat(g)!=null?`· ${hrs(beat(g))} to beat`:""].filter(Boolean).join(" ");
   return `<li class="game${g._hidden?" is-hidden":""}" data-key="${esc(g.key)}">
     <span class="rank">${i+1}</span>
     ${g.cover?`<img class="cover" src="${esc(g.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img class="cover" alt="">`}
@@ -429,6 +440,7 @@ function renderHero(list){
 function renderActive(){
   const parts = [];
   for(const [f,v] of Object.entries(state.filters)) if(v) parts.push(`<button type="button" class="tagchip" data-clear-filter="${f}">${esc(v)} ✕</button>`);
+  if(state.length) parts.push(`<button type="button" class="tagchip" data-clear-length="1">${esc(LENGTHS.find(([v])=>v===state.length)[1])} ✕</button>`);
   state.tags.forEach((t,i)=>parts.push(`<button type="button" class="tagchip" data-clear-tag="${i}">${esc(t.value)} ✕</button>`));
   $("active").innerHTML = parts.join("");
 }
@@ -587,6 +599,8 @@ function setup(){
   const plats = [...new Set(DATA.games.flatMap(g=>g.platforms))].sort();
   $("platforms").innerHTML = plats.map(p=>`<button type="button" class="chip" aria-pressed="false" data-p="${esc(p)}">${esc(p)}</button>`).join("");
   for(const [f,l] of Object.entries(FILTERS)) fillSelect("f_"+f, f, l);
+  $("f_length").innerHTML = LENGTHS.map(([v,l])=>`<option value="${v}">${l}</option>`).join("");
+  $("f_length").onchange = e=>{ state.length = e.target.value; render(); };
   $("srcBoxes").innerHTML = Object.entries(SOURCES).map(([k,v])=>`<label><input type="checkbox" data-src="${k}" ${state.srcOn.has(k)?"checked":""}> ${v.label}</label>`).join("");
   $("hideUnscored").checked = state.hideUnscored;
   $("hidePlus").checked = state.hidePlus;
@@ -609,6 +623,7 @@ function setup(){
     const f = e.target.closest("[data-clear-filter]"), t = e.target.closest("[data-clear-tag]");
     if(f){ state.filters[f.dataset.clearFilter]=""; $("f_"+f.dataset.clearFilter).value=""; }
     if(t){ state.tags.splice(+t.dataset.clearTag,1); }
+    if(e.target.closest("[data-clear-length]")){ state.length=""; $("f_length").value=""; }
     render();
   };
   $("addBtn").onclick = openAdd;

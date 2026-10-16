@@ -12,7 +12,7 @@ import traceback
 
 import yaml
 
-from . import edits, scores, sources, titles, wikidata
+from . import edits, hltb, scores, sources, titles, wikidata
 from .igdb import IGDB, genres_of, metadata_of
 from .util import CACHE_DIR, CONFIG_DIR, SITE_DIR, days_since, load_json, log, now_iso, save_json
 
@@ -394,7 +394,17 @@ def refresh_opencritic(rows, cache, wd_cache):
 
 
 # ---------------------------------------------------------------- step 5: output
-def to_site_row(row, sc):
+def time_to_beat(row, hl):
+    """Hours: HowLongToBeat first, IGDB's time-to-beat data as a fallback."""
+    if hl.get("main") or hl.get("extra") or hl.get("complete"):
+        return {"main": hl.get("main"), "extra": hl.get("extra"), "complete": hl.get("complete"), "src": "HowLongToBeat"}
+    it = (row["igdb"] or {}).get("_ttb") or {}
+    if it:
+        return {"main": it.get("hastily") or it.get("normally"), "extra": it.get("normally"), "complete": it.get("completely"), "src": "IGDB"}
+    return None
+
+
+def to_site_row(row, sc, hl=None):
     g = row["igdb"] or {}
     cover = None
     if (g.get("cover") or {}).get("image_id"):
@@ -450,7 +460,10 @@ def to_site_row(row, sc):
         "opencritic_pct": sc.get("opencritic_pct"),
         "opencritic_tier": sc.get("opencritic_tier"),
         "links": links,
+        "ttb": time_to_beat(row, hl or {}),
     }
+    if (hl or {}).get("hltb_id"):
+        out["links"]["hltb"] = f"https://howlongtobeat.com/game/{hl['hltb_id']}"
     if g:
         out.update(metadata_of(g))
     return out
@@ -472,6 +485,12 @@ def main():
             igdb = IGDB(env("IGDB_CLIENT_ID"), env("IGDB_CLIENT_SECRET"))
             match_info = match_to_igdb(entries, igdb, overrides)
             igdb_games = igdb.games_by_ids(m.get("id") for m in match_info.values() if m.get("id"))
+            try:
+                for gid, t in igdb.time_to_beats(igdb_games.keys()).items():
+                    if gid in igdb_games:
+                        igdb_games[gid]["_ttb"] = t
+            except Exception as e2:
+                log(f"  IGDB time-to-beat lookup failed ({type(e2).__name__}); continuing without it")
             status["igdb"] = "ok"
         except Exception as e:
             log(f"!! IGDB failed: {e}")
@@ -494,7 +513,13 @@ def main():
     if env("OPENCRITIC_RAPIDAPI_KEY"):
         status["opencritic"] = "ok"
 
-    games = [to_site_row(r, cache.get(r["key"], {})) for r in merged.values()]
+    hl_cache = load_json(CACHE_DIR / "hltb.json", {})
+    if not offline:
+        visible = [(r["key"], r["title"], _year(r["igdb"])) for r in merged.values() if r["hidden"] is None]
+        status["hltb"] = hltb.refresh(visible, hl_cache, budget=int(os.environ.get("HLTB_MAX_LOOKUPS", "250")))
+        save_json(CACHE_DIR / "hltb.json", hl_cache)
+
+    games = [to_site_row(r, cache.get(r["key"], {}), hl_cache.get(r["key"])) for r in merged.values()]
     games.sort(key=lambda g: g["title"].lower())
     save_json(
         SITE_DIR / "data.json",
