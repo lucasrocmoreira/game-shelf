@@ -3023,6 +3023,15 @@
    "title": "Marvel's Spider-Man: Miles Morales"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-10-17",
+   "platform": "PS5",
+   "playtime_hours": 26.9,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png",
    "last_played": "2026-04-12",
    "platform": "PS5",
@@ -3030,15 +3039,6 @@
    "ps_plus": false,
    "source_id": "PPSA04288_00",
    "title": "RESIDENT EVIL 2"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-10-12",
-   "platform": "PS5",
-   "playtime_hours": 25.8,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
@@ -9216,6 +9216,14 @@
    "title": "Valkyria Chronicles™"
   },
   {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "307690",
+   "steam_appid": 307690,
+   "title": "Sleeping Dogs: Definitive Edition"
+  },
+  {
    "last_played": "2026-10-02",
    "platform": "Steam",
    "playtime_hours": 0.0,
@@ -9246,6 +9254,14 @@
    "source_id": "364360",
    "steam_appid": 364360,
    "title": "Total War: WARHAMMER"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "365360",
+   "steam_appid": 365360,
+   "title": "Battle Brothers"
   },
   {
    "last_played": "2026-10-03",
@@ -9406,6 +9422,14 @@
    "source_id": "1173800",
    "steam_appid": 1173800,
    "title": "FINAL FANTASY IV"
+  },
+  {
+   "last_played": null,
+   "platform": "Steam",
+   "playtime_hours": 0.0,
+   "source_id": "1336490",
+   "steam_appid": 1336490,
+   "title": "Against the Storm"
   },
   {
    "last_played": null,

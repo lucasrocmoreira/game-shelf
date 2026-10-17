@@ -2267,7 +2267,7 @@
  },
  "PS4:CUSA00131_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -4313,7 +4313,7 @@
  },
  "PS4:CUSA14043_00": {
   "candidates": 25,
-  "checked": "2026-10-13T17:37:33+00:00",
+  "checked": "2026-10-17T13:46:19+00:00",
   "conf": null,
   "id": null,
   "score": 0.883,
@@ -4555,7 +4555,7 @@
  },
  "PS4:CUSA15607_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -5039,7 +5039,7 @@
  },
  "PS4:CUSA20387_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9791,7 +9791,7 @@
  },
  "PlayStation:CUSA00095_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9802,7 +9802,7 @@
  },
  "PlayStation:CUSA00096_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9824,7 +9824,7 @@
  },
  "PlayStation:CUSA00129_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9835,7 +9835,7 @@
  },
  "PlayStation:CUSA00130_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9846,7 +9846,7 @@
  },
  "PlayStation:CUSA01015_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9857,7 +9857,7 @@
  },
  "PlayStation:CUSA01780_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9868,7 +9868,7 @@
  },
  "PlayStation:CUSA02012_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9912,7 +9912,7 @@
  },
  "PlayStation:CUSA02573_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -9945,7 +9945,7 @@
  },
  "PlayStation:CUSA09142_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -10000,7 +10000,7 @@
  },
  "PlayStation:CUSA41487_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -10011,7 +10011,7 @@
  },
  "PlayStation:PPSA01665_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -10022,7 +10022,7 @@
  },
  "PlayStation:PPSA18266_00": {
   "candidates": null,
-  "checked": "2026-10-13T17:37:31+00:00",
+  "checked": "2026-10-17T13:46:17+00:00",
   "conf": null,
   "id": null,
   "score": null,
@@ -10119,6 +10119,17 @@
   "slug": null,
   "title": "Grand Theft Auto IV: The Complete Edition",
   "v": 2,
+  "via": "steam"
+ },
+ "Steam:1336490": {
+  "candidates": null,
+  "checked": "2026-10-17T13:46:17+00:00",
+  "conf": "exact",
+  "id": 147519,
+  "score": null,
+  "slug": null,
+  "title": "Against the Storm",
+  "v": 4,
   "via": "steam"
  },
  "Steam:1466860": {
@@ -10461,6 +10472,17 @@
   "v": 2,
   "via": "steam"
  },
+ "Steam:307690": {
+  "candidates": null,
+  "checked": "2026-10-17T13:46:17+00:00",
+  "conf": "exact",
+  "id": 20228,
+  "score": null,
+  "slug": null,
+  "title": "Sleeping Dogs: Definitive Edition",
+  "v": 4,
+  "via": "steam"
+ },
  "Steam:312840": {
   "checked": "2026-10-07T01:05:42+00:00",
   "conf": "exact",
@@ -10579,6 +10601,17 @@
   "slug": null,
   "title": "Total War: WARHAMMER",
   "v": 2,
+  "via": "steam"
+ },
+ "Steam:365360": {
+  "candidates": null,
+  "checked": "2026-10-17T13:46:17+00:00",
+  "conf": "exact",
+  "id": 14394,
+  "score": null,
+  "slug": null,
+  "title": "Battle Brothers",
+  "v": 4,
   "via": "steam"
  },
  "Steam:373420": {

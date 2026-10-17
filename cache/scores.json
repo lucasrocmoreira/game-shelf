@@ -844,7 +844,8 @@
   "checked": "2026-10-07T02:02:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-17T13:46:50+00:00"
  },
  "igdb:113104": {
   "backloggd": 3.7,
@@ -1025,7 +1026,8 @@
   "checked": "2026-10-09T03:37:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-17T13:46:38+00:00"
  },
  "igdb:116200": {
   "backloggd": 2.4,
@@ -2967,6 +2969,24 @@
   "opencritic_pct": 60,
   "opencritic_tier": "Strong"
  },
+ "igdb:14394": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-17T13:46:29+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "battle-brothers",
+  "oc_checked": "2026-10-17T13:46:34+00:00",
+  "steam_genres": [
+   "RPG",
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_mc": 80,
+  "steam_mc_slug": "battle-brothers",
+  "steam_pct": 88,
+  "steam_reviews": 29053
+ },
  "igdb:1440": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -3197,6 +3217,27 @@
   "metacritic": 64,
   "metacritic_slug": "batman-the-telltale-series",
   "oc_checked": "2026-10-12T19:50:15+00:00"
+ },
+ "igdb:147519": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-17T13:46:33+00:00",
+  "mc_v": 2,
+  "metacritic": 91,
+  "metacritic_slug": "against-the-storm",
+  "oc_checked": "2026-10-17T13:46:36+00:00",
+  "opencritic": 89,
+  "opencritic_id": 13940,
+  "opencritic_pct": 91,
+  "opencritic_tier": "Mighty",
+  "steam_genres": [
+   "Simulation",
+   "Strategy"
+  ],
+  "steam_mc": 91,
+  "steam_mc_slug": "against-the-storm",
+  "steam_pct": 94,
+  "steam_reviews": 37765
  },
  "igdb:14758": {
   "backloggd": 3.9,
@@ -3729,7 +3770,8 @@
   "checked": "2026-10-09T04:04:02+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "yoshis-island-super-mario-advance-3"
+  "metacritic_slug": "yoshis-island-super-mario-advance-3",
+  "oc_checked": "2026-10-17T13:46:39+00:00"
  },
  "igdb:16748": {
   "backloggd": 4.0,
@@ -3788,7 +3830,8 @@
   "checked": "2026-10-07T21:40:18+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "advance-wars-days-of-ruin"
+  "metacritic_slug": "advance-wars-days-of-ruin",
+  "oc_checked": "2026-10-17T13:47:07+00:00"
  },
  "igdb:1699": {
   "backloggd": 4.1,
@@ -4019,7 +4062,8 @@
   "checked": "2026-10-07T21:36:25+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "dragon-quest-iv-chapters-of-the-chosen"
+  "metacritic_slug": "dragon-quest-iv-chapters-of-the-chosen",
+  "oc_checked": "2026-10-17T13:47:04+00:00"
  },
  "igdb:18156": {
   "backloggd": 3.2,
@@ -4207,7 +4251,8 @@
   "checked": "2026-10-08T03:46:13+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "killzone-mercenary"
+  "metacritic_slug": "killzone-mercenary",
+  "oc_checked": "2026-10-17T13:47:03+00:00"
  },
  "igdb:1871": {
   "backloggd": 4.2,
@@ -4313,6 +4358,11 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "valkyria-chronicles-remastered",
+  "oc_checked": "2026-10-17T13:46:42+00:00",
+  "opencritic": 86,
+  "opencritic_id": 2453,
+  "opencritic_pct": 88,
+  "opencritic_tier": "Mighty",
   "steam_genres": [
    "Action",
    "RPG",
@@ -4944,7 +4994,8 @@
   "checked": "2026-10-08T02:58:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-17T13:47:02+00:00"
  },
  "igdb:20113": {
   "backloggd": 4.1,
@@ -4961,6 +5012,28 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
+ },
+ "igdb:20228": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-17T13:46:26+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "sleeping-dogs-definitive-edition",
+  "oc_checked": "2026-10-17T13:46:34+00:00",
+  "opencritic": 77,
+  "opencritic_id": 189,
+  "opencritic_pct": 62,
+  "opencritic_tier": "Strong",
+  "steam_genres": [
+   "Action",
+   "Adventure",
+   "Racing"
+  ],
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": 94,
+  "steam_reviews": 80296
  },
  "igdb:202539": {
   "backloggd": 3.5,
@@ -5196,7 +5269,8 @@
   "checked": "2026-10-07T21:00:27+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "yoshis-island-ds"
+  "metacritic_slug": "yoshis-island-ds",
+  "oc_checked": "2026-10-17T13:47:00+00:00"
  },
  "igdb:206188": {
   "backloggd": 2.4,
@@ -5255,7 +5329,8 @@
   "checked": "2026-10-07T02:37:14+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-17T13:46:58+00:00"
  },
  "igdb:20734": {
   "backloggd": 3.9,
@@ -5610,7 +5685,8 @@
   "checked": "2026-10-08T03:24:48+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "shin-megami-tensei-persona"
+  "metacritic_slug": "shin-megami-tensei-persona",
+  "oc_checked": "2026-10-17T13:46:55+00:00"
  },
  "igdb:21843": {
   "backloggd": 3.3,
@@ -5618,7 +5694,8 @@
   "checked": "2026-10-08T03:08:13+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "corpse-party"
+  "metacritic_slug": "corpse-party",
+  "oc_checked": "2026-10-17T13:46:54+00:00"
  },
  "igdb:218744": {
   "backloggd": 2.3,
@@ -5653,7 +5730,8 @@
   "checked": "2026-10-08T03:19:38+00:00",
   "mc_v": 2,
   "metacritic": 95,
-  "metacritic_slug": "littlebigplanet"
+  "metacritic_slug": "littlebigplanet",
+  "oc_checked": "2026-10-17T13:46:52+00:00"
  },
  "igdb:219442": {
   "backloggd": 3.0,
@@ -7901,7 +7979,8 @@
   "checked": "2026-10-07T21:33:09+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "kirby-canvas-curse"
+  "metacritic_slug": "kirby-canvas-curse",
+  "oc_checked": "2026-10-17T13:46:46+00:00"
  },
  "igdb:3724": {
   "backloggd": 3.3,
@@ -8073,7 +8152,8 @@
   "checked": "2026-10-07T01:56:48+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-17T13:46:45+00:00"
  },
  "igdb:42": {
   "backloggd": 2.6,
@@ -8304,7 +8384,8 @@
   "checked": "2026-10-08T03:24:51+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "metal-slug-anthology"
+  "metacritic_slug": "metal-slug-anthology",
+  "oc_checked": "2026-10-17T13:46:48+00:00"
  },
  "igdb:5006": {
   "backloggd": 3.3,
@@ -8729,7 +8810,8 @@
   "checked": "2026-10-09T03:40:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-17T13:46:44+00:00"
  },
  "igdb:63520": {
   "backloggd": 3.0,
@@ -8841,7 +8923,8 @@
   "checked": "2026-10-08T03:10:04+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-17T13:47:06+00:00"
  },
  "igdb:6886": {
   "backloggd": 4.2,
@@ -9097,7 +9180,8 @@
   "checked": "2026-10-08T03:42:39+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "the-sly-collection"
+  "metacritic_slug": "the-sly-collection",
+  "oc_checked": "2026-10-17T13:46:56+00:00"
  },
  "igdb:74701": {
   "backloggd": 3.7,
@@ -9409,7 +9493,8 @@
   "checked": "2026-10-09T04:03:49+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "super-mario-advance"
+  "metacritic_slug": "super-mario-advance",
+  "oc_checked": "2026-10-17T13:46:49+00:00"
  },
  "igdb:81205": {
   "backloggd": 3.5,
