@@ -1061,7 +1061,8 @@
   "checked": "2026-10-08T03:28:29+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "need-for-speed-carbon-own-the-city"
+  "metacritic_slug": "need-for-speed-carbon-own-the-city",
+  "oc_checked": "2026-10-18T14:03:28+00:00"
  },
  "igdb:1164": {
   "backloggd": 3.7,
@@ -1437,7 +1438,8 @@
   "checked": "2026-10-08T03:32:24+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "tales-of-destiny-ii"
+  "metacritic_slug": "tales-of-destiny-ii",
+  "oc_checked": "2026-10-18T14:03:23+00:00"
  },
  "igdb:120445": {
   "backloggd": 2.3,
@@ -1892,7 +1894,8 @@
   "checked": "2026-10-08T03:21:26+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "mega-man-powered-up"
+  "metacritic_slug": "mega-man-powered-up",
+  "oc_checked": "2026-10-18T14:03:41+00:00"
  },
  "igdb:129483": {
   "backloggd": 3.6,
@@ -2299,7 +2302,12 @@
   "checked": "2026-10-06T22:07:54+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "operation-tango"
+  "metacritic_slug": "operation-tango",
+  "oc_checked": "2026-10-18T14:03:21+00:00",
+  "opencritic": 74,
+  "opencritic_id": 11456,
+  "opencritic_pct": 67,
+  "opencritic_tier": "Fair"
  },
  "igdb:1352": {
   "backloggd": 3.9,
@@ -3492,7 +3500,8 @@
   "checked": "2026-10-08T03:28:32+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "jak-and-daxter-the-lost-frontier"
+  "metacritic_slug": "jak-and-daxter-the-lost-frontier",
+  "oc_checked": "2026-10-18T14:03:25+00:00"
  },
  "igdb:1533": {
   "backloggd": 3.4,
@@ -3517,7 +3526,8 @@
   "checked": "2026-10-08T03:21:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-18T14:03:18+00:00"
  },
  "igdb:15457": {
   "backloggd": 3.4,
@@ -3724,7 +3734,8 @@
   "checked": "2026-10-07T21:36:28+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "dragon-quest-v-hand-of-the-heavenly-bride"
+  "metacritic_slug": "dragon-quest-v-hand-of-the-heavenly-bride",
+  "oc_checked": "2026-10-18T14:03:24+00:00"
  },
  "igdb:16617": {
   "backloggd": 4.1,
@@ -4092,7 +4103,8 @@
   "checked": "2026-10-07T21:36:26+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "dragon-quest-vi-realms-of-revelation"
+  "metacritic_slug": "dragon-quest-vi-realms-of-revelation",
+  "oc_checked": "2026-10-18T14:03:31+00:00"
  },
  "igdb:18196": {
   "backloggd": 3.8,
@@ -4109,7 +4121,12 @@
   "checked": "2026-10-08T02:59:01+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "rhythm-heaven-megamix"
+  "metacritic_slug": "rhythm-heaven-megamix",
+  "oc_checked": "2026-10-18T14:03:38+00:00",
+  "opencritic": 81,
+  "opencritic_id": 2925,
+  "opencritic_pct": 74,
+  "opencritic_tier": "Strong"
  },
  "igdb:18221": {
   "backloggd": 4.1,
@@ -4495,6 +4512,7 @@
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "half-life-deathmatch-source",
+  "oc_checked": "2026-10-18T14:03:34+00:00",
   "steam_genres": [
    "Action"
   ],
@@ -4918,7 +4936,8 @@
   "checked": "2026-10-08T03:46:26+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "ratchet-and-clank-collection"
+  "metacritic_slug": "ratchet-and-clank-collection",
+  "oc_checked": "2026-10-18T14:03:42+00:00"
  },
  "igdb:20": {
   "backloggd": 4.1,
@@ -5003,7 +5022,8 @@
   "checked": "2026-10-08T03:48:10+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "jak-and-daxter-collection"
+  "metacritic_slug": "jak-and-daxter-collection",
+  "oc_checked": "2026-10-18T14:03:43+00:00"
  },
  "igdb:20152": {
   "backloggd": 3.4,
@@ -5360,7 +5380,8 @@
   "checked": "2026-10-08T03:42:30+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "metal-gear-solid-hd-collection"
+  "metacritic_slug": "metal-gear-solid-hd-collection",
+  "oc_checked": "2026-10-18T14:03:27+00:00"
  },
  "igdb:20839": {
   "backloggd": 3.2,
@@ -5455,7 +5476,8 @@
   "checked": "2026-10-08T03:06:45+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-18T14:03:33+00:00"
  },
  "igdb:2113": {
   "backloggd": 3.0,
@@ -7988,7 +8010,8 @@
   "checked": "2026-10-07T21:33:07+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "kirby-mass-attack"
+  "metacritic_slug": "kirby-mass-attack",
+  "oc_checked": "2026-10-18T14:03:22+00:00"
  },
  "igdb:37282": {
   "backloggd": 2.6,
@@ -8214,6 +8237,7 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "rome-total-war-alexander",
+  "oc_checked": "2026-10-18T14:03:39+00:00",
   "steam_genres": [
    "Strategy"
   ],
@@ -9394,7 +9418,8 @@
   "checked": "2026-10-08T03:21:28+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "patapon-2"
+  "metacritic_slug": "patapon-2",
+  "oc_checked": "2026-10-18T14:03:40+00:00"
  },
  "igdb:7842": {
   "backloggd": 3.7,
@@ -9502,7 +9527,12 @@
   "checked": "2026-10-07T01:54:41+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "assassins-creed-rogue-remastered"
+  "metacritic_slug": "assassins-creed-rogue-remastered",
+  "oc_checked": "2026-10-18T14:03:30+00:00",
+  "opencritic": 71,
+  "opencritic_id": 5737,
+  "opencritic_pct": 36,
+  "opencritic_tier": "Fair"
  },
  "igdb:8173": {
   "backloggd": 3.3,
@@ -9795,6 +9825,7 @@
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "stronghold-hd",
+  "oc_checked": "2026-10-18T14:03:35+00:00",
   "steam_genres": [
    "Simulation",
    "Strategy"
@@ -9906,7 +9937,12 @@
   "checked": "2026-10-08T03:08:26+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "luigis-mansion"
+  "metacritic_slug": "luigis-mansion",
+  "oc_checked": "2026-10-18T14:03:17+00:00",
+  "opencritic": 75,
+  "opencritic_id": 6737,
+  "opencritic_pct": 53,
+  "opencritic_tier": "Strong"
  },
  "igdb:90628": {
   "backloggd": 3.8,
