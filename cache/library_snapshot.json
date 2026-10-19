@@ -3014,6 +3014,15 @@
    "title": "Crash Bandicoot™ 4: It’s About Time"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-10-18",
+   "platform": "PS5",
+   "playtime_hours": 27.9,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
    "last_played": "2023-12-22",
    "platform": "PS5",
@@ -3021,15 +3030,6 @@
    "ps_plus": false,
    "source_id": "PPSA01411_00",
    "title": "Marvel's Spider-Man: Miles Morales"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-10-17",
-   "platform": "PS5",
-   "playtime_hours": 26.9,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png",
@@ -3383,7 +3383,7 @@
    "title": "The Walking Dead: Saints & Sinners"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1516/bcea032f15bbac70cf83c611c87a911ceb9ebfe1cd430dd1.png",
+   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00031_00/1/i_de7f2d4471d56be1911987fdae0711e95cd6f21b0ae43c57c70d0bf785ae4acb/i/icon0.png",
    "last_played": "2022-05-26",
    "platform": "PS4",
    "playtime_hours": 2.1,
