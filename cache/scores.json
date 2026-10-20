@@ -386,7 +386,8 @@
   "checked": "2026-10-07T21:29:03+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "picross-ds"
+  "metacritic_slug": "picross-ds",
+  "oc_checked": "2026-10-20T15:08:52+00:00"
  },
  "igdb:1062": {
   "backloggd": 3.6,
@@ -591,7 +592,12 @@
   "checked": "2026-10-07T01:56:05+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "castlevania-requiem-symphony-of-the-night-rondo-of-blood"
+  "metacritic_slug": "castlevania-requiem-symphony-of-the-night-rondo-of-blood",
+  "oc_checked": "2026-10-20T15:08:45+00:00",
+  "opencritic": 75,
+  "opencritic_id": 6792,
+  "opencritic_pct": 49,
+  "opencritic_tier": "Strong"
  },
  "igdb:10962": {
   "backloggd": 4.2,
@@ -2010,7 +2016,8 @@
   "checked": "2026-10-08T03:18:09+00:00",
   "mc_v": 2,
   "metacritic": 87,
-  "metacritic_slug": "tactics-ogre-let-us-cling-together"
+  "metacritic_slug": "tactics-ogre-let-us-cling-together",
+  "oc_checked": "2026-10-20T15:09:07+00:00"
  },
  "igdb:133004": {
   "backloggd": 2.8,
@@ -3069,6 +3076,11 @@
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "total-war-rome-remastered",
+  "oc_checked": "2026-10-20T15:09:10+00:00",
+  "opencritic": 74,
+  "opencritic_id": 11153,
+  "opencritic_pct": 68,
+  "opencritic_tier": "Fair",
   "steam_genres": [
    "Strategy"
   ],
@@ -3424,7 +3436,8 @@
   "checked": "2026-10-07T01:55:05+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "world-war-z-aftermath"
+  "metacritic_slug": "world-war-z-aftermath",
+  "oc_checked": "2026-10-20T15:08:43+00:00"
  },
  "igdb:152124": {
   "backloggd": 3.6,
@@ -4087,7 +4100,8 @@
   "checked": "2026-10-08T03:10:07+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "harmoknight"
+  "metacritic_slug": "harmoknight",
+  "oc_checked": "2026-10-20T15:09:06+00:00"
  },
  "igdb:18167": {
   "backloggd": 2.2,
@@ -4894,7 +4908,8 @@
   "checked": "2026-10-08T03:51:30+00:00",
   "mc_v": 2,
   "metacritic": 60,
-  "metacritic_slug": "resistance-burning-skies"
+  "metacritic_slug": "resistance-burning-skies",
+  "oc_checked": "2026-10-20T15:08:42+00:00"
  },
  "igdb:199168": {
   "backloggd": 3.8,
@@ -4910,7 +4925,8 @@
   "checked": "2026-10-07T02:37:02+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "attack-of-the-friday-monsters-a-tokyo-tale"
+  "metacritic_slug": "attack-of-the-friday-monsters-a-tokyo-tale",
+  "oc_checked": "2026-10-20T15:09:00+00:00"
  },
  "igdb:19928": {
   "backloggd": 3.3,
@@ -4971,7 +4987,8 @@
   "checked": "2026-10-08T03:46:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-20T15:08:49+00:00"
  },
  "igdb:2003": {
   "backloggd": 3.6,
@@ -5250,7 +5267,8 @@
   "checked": "2026-10-07T21:04:09+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "sonic-classic-collection"
+  "metacritic_slug": "sonic-classic-collection",
+  "oc_checked": "2026-10-20T15:09:04+00:00"
  },
  "igdb:205593": {
   "backloggd": 3.9,
@@ -5474,7 +5492,12 @@
   "checked": "2026-10-08T03:42:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-20T15:08:48+00:00",
+  "opencritic": 73,
+  "opencritic_id": 8891,
+  "opencritic_pct": 40,
+  "opencritic_tier": "Fair"
  },
  "igdb:210710": {
   "backloggd": 3.2,
@@ -5524,7 +5547,8 @@
   "checked": "2026-10-07T21:36:31+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "dementium-the-ward"
+  "metacritic_slug": "dementium-the-ward",
+  "oc_checked": "2026-10-20T15:09:02+00:00"
  },
  "igdb:2126": {
   "backloggd": 4.0,
@@ -5699,7 +5723,8 @@
   "checked": "2026-10-08T03:24:53+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "final-fantasy-iv-the-complete-collection"
+  "metacritic_slug": "final-fantasy-iv-the-complete-collection",
+  "oc_checked": "2026-10-20T15:08:54+00:00"
  },
  "igdb:217909": {
   "backloggd": 4.3,
@@ -5870,7 +5895,8 @@
   "checked": "2026-10-08T03:32:07+00:00",
   "mc_v": 2,
   "metacritic": 64,
-  "metacritic_slug": "the-lord-of-the-rings-tactics"
+  "metacritic_slug": "the-lord-of-the-rings-tactics",
+  "oc_checked": "2026-10-20T15:09:08+00:00"
  },
  "igdb:22509": {
   "backloggd": 3.1,
@@ -5939,7 +5965,8 @@
   "checked": "2026-10-07T02:36:54+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "mighty-switch-force"
+  "metacritic_slug": "mighty-switch-force",
+  "oc_checked": "2026-10-20T15:09:12+00:00"
  },
  "igdb:22921": {
   "backloggd": 3.5,
@@ -6103,7 +6130,8 @@
   "checked": "2026-10-07T01:56:25+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-20T15:08:57+00:00"
  },
  "igdb:23913": {
   "backloggd": 3.7,
@@ -6871,7 +6899,8 @@
   "checked": "2026-10-08T03:24:46+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "rock-band-unplugged"
+  "metacritic_slug": "rock-band-unplugged",
+  "oc_checked": "2026-10-20T15:09:03+00:00"
  },
  "igdb:27258": {
   "backloggd": 3.6,
@@ -8437,7 +8466,8 @@
   "checked": "2026-10-08T03:13:47+00:00",
   "mc_v": 2,
   "metacritic": 56,
-  "metacritic_slug": "michael-jackson-the-experience"
+  "metacritic_slug": "michael-jackson-the-experience",
+  "oc_checked": "2026-10-20T15:08:58+00:00"
  },
  "igdb:5082": {
   "backloggd": 3.6,
@@ -8824,7 +8854,8 @@
   "checked": "2026-10-08T03:48:00+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "freedom-wars"
+  "metacritic_slug": "freedom-wars",
+  "oc_checked": "2026-10-20T15:08:50+00:00"
  },
  "igdb:6066": {
   "backloggd": 3.6,
@@ -9482,6 +9513,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
+  "oc_checked": "2026-10-20T15:08:55+00:00",
   "steam_genres": [
    "Action",
    "Adventure",
