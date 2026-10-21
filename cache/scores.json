@@ -1281,7 +1281,12 @@
   "checked": "2026-10-06T22:08:09+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "hunters-arena-legends"
+  "metacritic_slug": "hunters-arena-legends",
+  "oc_checked": "2026-10-21T15:19:40+00:00",
+  "opencritic": null,
+  "opencritic_id": 11789,
+  "opencritic_pct": 60,
+  "opencritic_tier": ""
  },
  "igdb:119161": {
   "backloggd": 3.2,
@@ -4343,7 +4348,8 @@
   "checked": "2026-10-08T03:17:59+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "ridge-racer"
+  "metacritic_slug": "ridge-racer",
+  "oc_checked": "2026-10-21T15:19:16+00:00"
  },
  "igdb:18822": {
   "backloggd": 4.0,
@@ -4480,7 +4486,8 @@
   "checked": "2026-10-08T03:32:00+00:00",
   "mc_v": 2,
   "metacritic": 66,
-  "metacritic_slug": "tales-of-the-world-radiant-mythology"
+  "metacritic_slug": "tales-of-the-world-radiant-mythology",
+  "oc_checked": "2026-10-21T15:19:31+00:00"
  },
  "igdb:19164": {
   "backloggd": 3.2,
@@ -4523,7 +4530,8 @@
   "checked": "2026-10-08T03:32:11+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "the-sims-2-castaway"
+  "metacritic_slug": "the-sims-2-castaway",
+  "oc_checked": "2026-10-21T15:19:44+00:00"
  },
  "igdb:19348": {
   "backloggd": 2.8,
@@ -4917,7 +4925,8 @@
   "checked": "2026-10-07T01:55:45+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "this-war-of-mine-final-cut"
+  "metacritic_slug": "this-war-of-mine-final-cut",
+  "oc_checked": "2026-10-21T15:19:28+00:00"
  },
  "igdb:19923": {
   "backloggd": 3.6,
@@ -4934,7 +4943,8 @@
   "checked": "2026-10-08T02:55:56+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "crashmo"
+  "metacritic_slug": "crashmo",
+  "oc_checked": "2026-10-21T15:19:41+00:00"
  },
  "igdb:19959": {
   "backloggd": 4.3,
@@ -4955,7 +4965,8 @@
   "checked": "2026-10-08T02:58:57+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "stretchmo"
+  "metacritic_slug": "stretchmo",
+  "oc_checked": "2026-10-21T15:19:16+00:00"
  },
  "igdb:19994": {
   "backloggd": 4.1,
@@ -5020,7 +5031,8 @@
   "checked": "2026-10-07T02:37:04+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "mighty-switch-force-2"
+  "metacritic_slug": "mighty-switch-force-2",
+  "oc_checked": "2026-10-21T15:19:35+00:00"
  },
  "igdb:200903": {
   "backloggd": 3.6,
@@ -5311,7 +5323,8 @@
   "checked": "2026-10-08T03:13:44+00:00",
   "mc_v": 2,
   "metacritic": 61,
-  "metacritic_slug": "rayman-3d"
+  "metacritic_slug": "rayman-3d",
+  "oc_checked": "2026-10-21T15:19:26+00:00"
  },
  "igdb:20601": {
   "backloggd": 3.3,
@@ -5419,7 +5432,8 @@
   "checked": "2026-10-08T03:08:21+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "crimson-shroud"
+  "metacritic_slug": "crimson-shroud",
+  "oc_checked": "2026-10-21T15:19:42+00:00"
  },
  "igdb:20853": {
   "backloggd": 2.8,
@@ -5462,7 +5476,8 @@
   "checked": "2026-10-08T03:10:15+00:00",
   "mc_v": 2,
   "metacritic": 69,
-  "metacritic_slug": "liberation-maiden"
+  "metacritic_slug": "liberation-maiden",
+  "oc_checked": "2026-10-21T15:19:24+00:00"
  },
  "igdb:21020": {
   "backloggd": 3.6,
@@ -6231,7 +6246,8 @@
   "checked": "2026-10-08T03:28:13+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "star-ocean-first-departure"
+  "metacritic_slug": "star-ocean-first-departure",
+  "oc_checked": "2026-10-21T15:19:20+00:00"
  },
  "igdb:243129": {
   "backloggd": 3.2,
@@ -6407,7 +6423,8 @@
   "checked": "2026-10-07T02:01:32+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "five-nights-at-freddys-help-wanted-2"
+  "metacritic_slug": "five-nights-at-freddys-help-wanted-2",
+  "oc_checked": "2026-10-21T15:19:34+00:00"
  },
  "igdb:25076": {
   "backloggd": 4.6,
@@ -6450,7 +6467,8 @@
   "checked": "2026-10-08T03:24:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-21T15:19:38+00:00"
  },
  "igdb:251471": {
   "backloggd": 3.2,
@@ -8247,7 +8265,8 @@
   "checked": "2026-10-09T03:42:09+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-21T15:19:32+00:00"
  },
  "igdb:42887": {
   "backloggd": 3.3,
@@ -8255,7 +8274,8 @@
   "checked": "2026-10-08T03:28:22+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "harvest-moon-hero-of-leaf-valley"
+  "metacritic_slug": "harvest-moon-hero-of-leaf-valley",
+  "oc_checked": "2026-10-21T15:19:21+00:00"
  },
  "igdb:42889": {
   "backloggd": 3.7,
@@ -8984,7 +9004,8 @@
   "checked": "2026-10-08T03:21:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-21T15:19:17+00:00"
  },
  "igdb:6767": {
   "backloggd": 3.9,
@@ -9755,7 +9776,8 @@
   "checked": "2026-10-08T03:06:48+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "3d-classics-kirbys-adventure"
+  "metacritic_slug": "3d-classics-kirbys-adventure",
+  "oc_checked": "2026-10-21T15:19:29+00:00"
  },
  "igdb:84656": {
   "backloggd": 3.3,
@@ -9771,7 +9793,8 @@
   "checked": "2026-10-07T02:37:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-21T15:19:36+00:00"
  },
  "igdb:847": {
   "backloggd": 3.3,
@@ -9968,7 +9991,12 @@
   "checked": "2026-10-07T01:55:58+00:00",
   "mc_v": 2,
   "metacritic": 56,
-  "metacritic_slug": "surgeon-simulator-anniversary-edition"
+  "metacritic_slug": "surgeon-simulator-anniversary-edition",
+  "oc_checked": "2026-10-21T15:19:23+00:00",
+  "opencritic": 61,
+  "opencritic_id": 230,
+  "opencritic_pct": 6,
+  "opencritic_tier": "Weak"
  },
  "igdb:89494": {
   "backloggd": 2.5,
