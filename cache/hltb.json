@@ -518,6 +518,14 @@
   "hltb_name": "NieR: Automata",
   "main": 21.5
  },
+ "igdb:112874": {
+  "checked": "2026-10-22T15:20:53+00:00",
+  "complete": 90.0,
+  "extra": 63.0,
+  "hltb_id": 79775,
+  "hltb_name": "Horizon Forbidden West",
+  "main": 28.5
+ },
  "igdb:112875": {
   "checked": "2026-10-16T04:55:59+00:00",
   "complete": 55.5,
@@ -4700,6 +4708,14 @@
   "hltb_name": "Sniper Elite: Resistance",
   "main": 9.0
  },
+ "igdb:314276": {
+  "checked": "2026-10-22T15:20:57+00:00",
+  "complete": 24.5,
+  "extra": 14.5,
+  "hltb_id": 155658,
+  "hltb_name": "Mafia: The Old Country",
+  "main": 12.0
+ },
  "igdb:3146": {
   "checked": "2026-10-16T04:58:57+00:00",
   "complete": 74.0,
@@ -4723,6 +4739,14 @@
   "hltb_id": 171520,
   "hltb_name": "Battlefield 6",
   "main": 6.0
+ },
+ "igdb:317621": {
+  "checked": "2026-10-22T15:20:54+00:00",
+  "complete": 7.5,
+  "extra": 6.0,
+  "hltb_id": 157305,
+  "hltb_name": "The Midnight Walk",
+  "main": 5.0
  },
  "igdb:317628": {
   "checked": "2026-10-17T13:48:04+00:00",

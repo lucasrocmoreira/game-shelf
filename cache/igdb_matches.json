@@ -5521,6 +5521,17 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA28561_00": {
+  "candidates": 8,
+  "checked": "2026-10-22T15:20:05+00:00",
+  "conf": "high",
+  "id": 112874,
+  "score": 1.146,
+  "slug": null,
+  "title": "Horizon Forbidden West",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA28764_00": {
   "candidates": 4,
   "checked": "2026-10-07T01:48:05+00:00",
@@ -7512,6 +7523,17 @@
   "v": 2,
   "via": "search"
  },
+ "PS5:PPSA04072_00": {
+  "candidates": 8,
+  "checked": "2026-10-22T15:20:05+00:00",
+  "conf": "high",
+  "id": 112874,
+  "score": 1.146,
+  "slug": null,
+  "title": "Horizon Forbidden West",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:PPSA04159_00": {
   "candidates": 13,
   "checked": "2026-10-07T01:50:46+00:00",
@@ -8403,6 +8425,17 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:PPSA14251_00": {
+  "candidates": 7,
+  "checked": "2026-10-22T15:20:07+00:00",
+  "conf": "high",
+  "id": 314276,
+  "score": 1.141,
+  "slug": null,
+  "title": "Mafia: The Old Country",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:PPSA14410_00": {
   "candidates": 25,
   "checked": "2026-10-07T01:50:09+00:00",
@@ -8939,6 +8972,17 @@
   "score": 1.135,
   "slug": null,
   "title": "F1® 25",
+  "v": 4,
+  "via": "search"
+ },
+ "PS5:PPSA24864_00": {
+  "candidates": 2,
+  "checked": "2026-10-22T15:20:06+00:00",
+  "conf": "high",
+  "id": 317621,
+  "score": 1.134,
+  "slug": null,
+  "title": "The Midnight Walk",
   "v": 4,
   "via": "search"
  },

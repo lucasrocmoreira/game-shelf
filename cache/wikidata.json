@@ -1209,6 +1209,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10675
  },
+ "horizon-forbidden-west": {
+  "checked": "2026-10-22T15:20:10+00:00",
+  "opencritic_id": 12361
+ },
  "horizon-zero-dawn": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 2862
@@ -1490,6 +1494,10 @@
  "mafia-ii-definitive-edition": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 9470
+ },
+ "mafia-the-old-country": {
+  "checked": "2026-10-22T15:20:10+00:00",
+  "opencritic_id": 18399
  },
  "maneater": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2656,6 +2664,10 @@
  },
  "the-matrix-awakens-an-unreal-engine-5-experience": {
   "checked": "2026-10-07T01:52:01+00:00"
+ },
+ "the-midnight-walk": {
+  "checked": "2026-10-22T15:20:10+00:00",
+  "opencritic_id": 18113
  },
  "the-outlast-trials": {
   "checked": "2026-10-07T01:52:06+00:00",

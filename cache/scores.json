@@ -544,7 +544,8 @@
   "checked": "2026-10-07T04:21:27+00:00",
   "mc_v": 2,
   "metacritic": 92,
-  "metacritic_slug": "kingdom-hearts-vr-experience"
+  "metacritic_slug": "kingdom-hearts-vr-experience",
+  "oc_checked": "2026-10-22T15:20:49+00:00"
  },
  "igdb:1094": {
   "backloggd": 3.8,
@@ -699,7 +700,8 @@
   "checked": "2026-10-07T02:01:52+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-22T15:20:33+00:00"
  },
  "igdb:11118": {
   "backloggd": 4.0,
@@ -816,6 +818,19 @@
   "opencritic": 92,
   "opencritic_id": 6310,
   "opencritic_pct": 89,
+  "opencritic_tier": "Mighty"
+ },
+ "igdb:112874": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-22T15:20:13+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "horizon-forbidden-west",
+  "oc_checked": "2026-10-22T15:20:20+00:00",
+  "opencritic": 88,
+  "opencritic_id": 12361,
+  "opencritic_pct": 96,
   "opencritic_tier": "Mighty"
  },
  "igdb:112875": {
@@ -2450,7 +2465,8 @@
   "checked": "2026-10-07T01:54:21+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "far-cry-6"
+  "metacritic_slug": "far-cry-6",
+  "oc_checked": "2026-10-22T15:20:50+00:00"
  },
  "igdb:136512": {
   "backloggd": 2.0,
@@ -3578,7 +3594,8 @@
   "checked": "2026-10-06T22:09:12+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "arcadegeddon"
+  "metacritic_slug": "arcadegeddon",
+  "oc_checked": "2026-10-22T15:20:31+00:00"
  },
  "igdb:154839": {
   "backloggd": 4.2,
@@ -5071,7 +5088,12 @@
   "checked": "2026-10-08T03:54:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-22T15:20:43+00:00",
+  "opencritic": 87,
+  "opencritic_id": 2084,
+  "opencritic_pct": null,
+  "opencritic_tier": "Mighty"
  },
  "igdb:20228": {
   "backloggd": 4.0,
@@ -5441,7 +5463,8 @@
   "checked": "2026-10-08T03:13:49+00:00",
   "mc_v": 2,
   "metacritic": 58,
-  "metacritic_slug": "the-starship-damrey"
+  "metacritic_slug": "the-starship-damrey",
+  "oc_checked": "2026-10-22T15:20:38+00:00"
  },
  "igdb:20863": {
   "backloggd": 4.2,
@@ -5636,7 +5659,8 @@
   "checked": "2026-10-08T03:48:02+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "ninja-gaiden-sigma-plus"
+  "metacritic_slug": "ninja-gaiden-sigma-plus",
+  "oc_checked": "2026-10-22T15:20:25+00:00"
  },
  "igdb:21593": {
   "backloggd": 2.9,
@@ -6019,7 +6043,8 @@
   "checked": "2026-10-07T01:58:12+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "anno-1800-console-edition"
+  "metacritic_slug": "anno-1800-console-edition",
+  "oc_checked": "2026-10-22T15:20:44+00:00"
  },
  "igdb:2319": {
   "backloggd": 3.8,
@@ -6238,7 +6263,8 @@
   "checked": "2026-10-08T03:10:17+00:00",
   "mc_v": 2,
   "metacritic": 68,
-  "metacritic_slug": "dillons-rolling-western-the-last-ranger"
+  "metacritic_slug": "dillons-rolling-western-the-last-ranger",
+  "oc_checked": "2026-10-22T15:20:45+00:00"
  },
  "igdb:24299": {
   "backloggd": 3.3,
@@ -6255,7 +6281,8 @@
   "checked": "2026-10-08T03:28:17+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "prince-of-persia-rival-swords"
+  "metacritic_slug": "prince-of-persia-rival-swords",
+  "oc_checked": "2026-10-22T15:20:46+00:00"
  },
  "igdb:24470": {
   "backloggd": 4.1,
@@ -6290,7 +6317,8 @@
   "checked": "2026-10-08T03:31:55+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "tomb-raider-legend"
+  "metacritic_slug": "tomb-raider-legend",
+  "oc_checked": "2026-10-22T15:20:48+00:00"
  },
  "igdb:24869": {
   "backloggd": 4.3,
@@ -6324,7 +6352,8 @@
   "checked": "2026-10-07T01:55:48+00:00",
   "mc_v": 2,
   "metacritic": 96,
-  "metacritic_slug": "weird-west-definitive-edition"
+  "metacritic_slug": "weird-west-definitive-edition",
+  "oc_checked": "2026-10-22T15:20:51+00:00"
  },
  "igdb:250509": {
   "backloggd": 3.0,
@@ -6502,7 +6531,8 @@
   "checked": "2026-10-07T02:01:30+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "the-7th-guest-vr"
+  "metacritic_slug": "the-7th-guest-vr",
+  "oc_checked": "2026-10-22T15:20:32+00:00"
  },
  "igdb:251833": {
   "backloggd": 4.2,
@@ -6576,7 +6606,12 @@
   "checked": "2026-10-06T21:23:04+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "the-lara-croft-collection"
+  "metacritic_slug": "the-lara-croft-collection",
+  "oc_checked": "2026-10-22T15:20:29+00:00",
+  "opencritic": 80,
+  "opencritic_id": 15143,
+  "opencritic_pct": 80,
+  "opencritic_tier": "Strong"
  },
  "igdb:2552": {
   "backloggd": 3.4,
@@ -7160,7 +7195,8 @@
   "checked": "2026-10-07T02:00:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-22T15:20:27+00:00"
  },
  "igdb:284721": {
   "backloggd": 3.7,
@@ -7559,6 +7595,19 @@
   "opencritic_pct": 59,
   "opencritic_tier": "Fair"
  },
+ "igdb:314276": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-22T15:20:20+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "mafia-the-old-country",
+  "oc_checked": "2026-10-22T15:20:21+00:00",
+  "opencritic": 74,
+  "opencritic_id": 18399,
+  "opencritic_pct": 67,
+  "opencritic_tier": "Fair"
+ },
  "igdb:3146": {
   "backloggd": 3.7,
   "bl_v": 2,
@@ -7592,6 +7641,19 @@
   "opencritic": 83,
   "opencritic_id": 19051,
   "opencritic_pct": 89,
+  "opencritic_tier": "Strong"
+ },
+ "igdb:317621": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-22T15:20:17+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "the-midnight-walk",
+  "oc_checked": "2026-10-22T15:20:22+00:00",
+  "opencritic": 80,
+  "opencritic_id": 18113,
+  "opencritic_pct": 81,
   "opencritic_tier": "Strong"
  },
  "igdb:317628": {
@@ -8283,7 +8345,8 @@
   "checked": "2026-10-08T03:32:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-22T15:20:24+00:00"
  },
  "igdb:438": {
   "backloggd": 4.0,
@@ -8516,7 +8579,8 @@
   "checked": "2026-10-08T03:48:04+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-22T15:20:40+00:00"
  },
  "igdb:517": {
   "backloggd": 3.9,
@@ -8914,7 +8978,12 @@
   "checked": "2026-10-08T03:13:42+00:00",
   "mc_v": 2,
   "metacritic": 64,
-  "metacritic_slug": "the-delusions-of-von-sottendorff-and-his-squared-mind"
+  "metacritic_slug": "the-delusions-of-von-sottendorff-and-his-squared-mind",
+  "oc_checked": "2026-10-22T15:20:37+00:00",
+  "opencritic": null,
+  "opencritic_id": 10012,
+  "opencritic_pct": null,
+  "opencritic_tier": ""
  },
  "igdb:6363": {
   "backloggd": 3.8,
@@ -9768,7 +9837,8 @@
   "checked": "2026-10-08T03:06:50+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "3d-classics-kid-icarus"
+  "metacritic_slug": "3d-classics-kid-icarus",
+  "oc_checked": "2026-10-22T15:20:34+00:00"
  },
  "igdb:84617": {
   "backloggd": 3.8,
@@ -9785,7 +9855,8 @@
   "checked": "2026-10-08T02:55:47+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-22T15:20:26+00:00"
  },
  "igdb:84657": {
   "backloggd": 3.7,
