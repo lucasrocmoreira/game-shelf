@@ -7626,6 +7626,14 @@
   "hltb_name": "Snow Bros. Wonderland",
   "main": 6.5
  },
+ "igdb:3103": {
+  "checked": "2026-10-28T11:52:32+00:00",
+  "complete": 36.0,
+  "extra": 35.0,
+  "hltb_id": 9314,
+  "hltb_name": "Summoner",
+  "main": 26.0
+ },
  "igdb:310545": {
   "checked": "2026-10-28T04:10:28+00:00",
   "complete": 98.5,
@@ -8087,7 +8095,7 @@
   "checked": "2026-10-28T05:17:47+00:00"
  },
  "igdb:350049": {
-  "checked": "2026-10-28T11:50:35+00:00",
+  "checked": "2026-10-28T11:52:26+00:00",
   "complete": 8.5,
   "extra": 6.5,
   "hltb_id": 11009,
@@ -8908,6 +8916,14 @@
   "hltb_id": 13788,
   "hltb_name": "Gravity Crash",
   "main": null
+ },
+ "igdb:42878": {
+  "checked": "2026-10-28T11:52:29+00:00",
+  "complete": 23.0,
+  "extra": 22.5,
+  "hltb_id": 5050,
+  "hltb_name": "Kingdom of Paradise",
+  "main": 20.0
  },
  "igdb:42887": {
   "checked": "2026-10-17T13:56:01+00:00",

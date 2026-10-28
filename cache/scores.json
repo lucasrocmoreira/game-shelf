@@ -11167,6 +11167,14 @@
   "metacritic": 70,
   "metacritic_slug": "snow-bros-wonderland"
  },
+ "igdb:3103": {
+  "backloggd": 2.7,
+  "bl_v": 2,
+  "checked": "2026-10-28T11:51:55+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "summoner"
+ },
  "igdb:310545": {
   "backloggd": 3.4,
   "bl_v": 2,
@@ -11825,7 +11833,7 @@
  "igdb:350049": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-28T11:50:03+00:00",
+  "checked": "2026-10-28T11:51:50+00:00",
   "mc_v": 2,
   "metacritic": 50,
   "metacritic_slug": "wall-e"
@@ -12871,6 +12879,14 @@
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "gravity-crash-portable"
+ },
+ "igdb:42878": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-28T11:51:52+00:00",
+  "mc_v": 2,
+  "metacritic": 72,
+  "metacritic_slug": "kingdom-of-paradise"
  },
  "igdb:42887": {
   "backloggd": 3.3,
