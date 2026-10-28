@@ -1,0 +1,36 @@
+503
+{'date': 'Wed, 28 Oct 2026 05:30:32 GMT', 'server': 'mw-api-ext.codfw.main-644ff49cd4-9vngk', 'last-modified': 'Wed, 08 Jul 2026 20:09:04 GMT', 'content-type': 'text/html', 'retry-after': '28', 'etag': 'W/"5bc-6561f14405800"', 'content-encoding': 'gzip', 'age': '0', 'x-cache': 'cp2045 miss, cp2045 miss', 'x-cache-status': 'miss', 'strict-transport-security': 'max-age=106384710; includeSubDomains; preload', 'report-to': '{ "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }', 'nel': '{ "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}', 'set-cookie': 'WMF-Last-Access=28-Oct-2026;Path=/;HttpOnly;secure;Expires=Sun, 29 Nov 2026 00:00:00 GMT, WMF-Last-Access-Global=28-Oct-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Sun, 29 Nov 2026 00:00:00 GMT, GeoIP=US:VA:Dulles:39.04:-77.42:v4; Path=/; secure; Domain=.wikipedia.org, NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600, WMF-Uniq=vzBX-YqEfr-k8aYvQAooVgQHAAAAAFvdQnqdu4CuVFWxDBStmNHC8fsv0rueDBe8;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Thu, 28 Oct 2027 00:00:00 GMT', 'x-client-ip': '20.84.47.44', 'vary': 'Accept-Encoding,User-Agent', 'content-length': '797', 'x-request-id': '4a721d1b-5214-42e2-a740-7c0e1404996a', 'x-analytics': '', 'server-timing': 'cache;desc="miss", host;desc="cp2045",co_id;desc="2917093066"'}
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em; max-width: 640px; }
+#logo { float: left; margin: 0 2em 2em 0; }
+a #logo { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645AD; text-decoration: none; }
+a:hover { text-decoration: underline; }
+@media (prefers-color-scheme: dark) {
+  body { background: transparent; color: #ccc; }
+  a { color: #9e9eff; }
+  #logo { filter: invert(1) hue-rotate(180deg); }
+}
+@media (max-width: 420px) {
+  #logoContainer { display: block }
+  #logo { display: block; margin: 0 auto; float: none; }
+  .content { text-align: center; }
+}
+</style>
+<meta name="color-scheme" content="light dark">
+<div class="content" role="main">
+<a id="logoContainer" href="https://www.wikimedia.org"><img id="logo" src="https://www.wikimedia.org/static/images/wmf.png" srcset="https://www.wikimedia.org/static/images/wmf-2x.png 2x" alt=Wikimedia width=135 height=135></a>
+<h1>Service Temporarily Unavailable</h1>
+<p>Our servers are currently under maintenance or experiencing a technical problem. Please <a href="" title="Reload this page" onclick="location.reload(false); return false">try again</a> in a few&nbsp;minutes.</p>
+</div>
+</html>
