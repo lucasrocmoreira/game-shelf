@@ -5,6 +5,7 @@ app (NES, SNES, Game Boy, Game Boy Advance, Nintendo 64, Sega Genesis, GameCube,
 is updated quickly when Nintendo adds games. The daily run reads it, so new additions appear and
 removed ones drop off. If the page can't be read, the last good list is kept.
 """
+import json
 import re
 import time
 
@@ -156,7 +157,19 @@ def fetch():
     enabled, apps = settings()
     if not enabled:
         return []
-    games = parse(_page_html())
+    try:
+        games = parse(_page_html())
+        source = "Wikipedia"
+    except Exception as e:
+        # Wikipedia often refuses requests from data centers like GitHub's. The web app fetches the
+        # same list from your own device and saves it to config/nso_list.json; use that instead.
+        saved = CONFIG_DIR / "nso_list.json"
+        if not saved.exists():
+            raise
+        data = json.loads(saved.read_text(encoding="utf-8"))
+        games = [(g["title"], g["tag"], g["console"]) for g in data.get("games", [])]
+        source = f"the list saved by the app on {data.get('fetched', '?')[:10]} (Wikipedia refused: {str(e)[:80]})"
+        log(f"  Switch Online: using {source}")
     games = [g for g in games if g[1] in apps]
     if len(games) < 50:
         raise RuntimeError(f"only {len(games)} games found on Wikipedia; the page layout may have changed")
@@ -177,5 +190,5 @@ def fetch():
                 "nso": True,
             }
         )
-    log(f"Switch Online: {len(out)} classics across {len({g['platform'] for g in out})} apps")
+    log(f"Switch Online: {len(out)} classics across {len({g['platform'] for g in out})} apps (from {source})")
     return out

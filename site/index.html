@@ -735,6 +735,79 @@ function setup(){
   const when = DATA.generated ? new Date(DATA.generated).toLocaleString([], {dateStyle:"medium",timeStyle:"short"}) : "never";
   $("foot").textContent = state.view==="psplus" ? `PS Plus catalog checked ${when}. Checked daily; Sony refreshes it every month.` : `Last updated ${when}. Updates daily.`;
 }
+/* ---------------- Switch Online classics list ----------------
+   Wikipedia often refuses requests from GitHub's servers, but not from your phone or computer.
+   About once a day the app reads the Nintendo Classics article here and, when the list changed,
+   saves it to config/nso_list.json; the daily update uses it whenever Wikipedia refuses. */
+const NSO_APPS = [["Game Boy Advance",["GBA","Switch"]],["Game Boy",["Game Boy","Switch"]],["Super NES",["SNES","Switch"]],
+  ["Super Nintendo",["SNES","Switch"]],["SNES",["SNES","Switch"]],["Nintendo Entertainment System",["NES","Switch"]],["NES",["NES","Switch"]],
+  ["Nintendo 64",["N64","Switch"]],["N64",["N64","Switch"]],["Genesis",["Genesis","Switch"]],["Mega Drive",["Genesis","Switch"]],
+  ["GameCube",["GameCube","Switch 2"]],["Virtual Boy",["Virtual Boy","Switch"]]];
+function nsoApp(text){ for(const [n,a] of NSO_APPS) if(new RegExp("\\b"+n.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\b","i").test(text)) return a; return null; }
+function tableGrid(table){
+  const grid = [], carry = {};
+  for(const tr of table.querySelectorAll("tr")){
+    const cells = [...tr.children].filter(c=>c.tagName==="TD"||c.tagName==="TH");
+    const row = []; let col = 0, i = 0;
+    while(i < cells.length || carry[col]){
+      if(carry[col]){ row.push(carry[col].text); if(--carry[col].left <= 0) delete carry[col]; col++; continue; }
+      const c = cells[i++]; c.querySelectorAll("sup").forEach(x=>x.remove());
+      const text = c.textContent.replace(/\s+/g," ").trim();
+      const span = +c.getAttribute("colspan")||1, rs = +c.getAttribute("rowspan")||1;
+      for(let k=0;k<span;k++){ row.push(text); if(rs>1) carry[col] = {text, left:rs-1}; col++; }
+    }
+    grid.push(row);
+  }
+  return grid;
+}
+function parseNsoHtml(html){
+  const doc = new DOMParser().parseFromString(html, "text/html");
+  const out = []; let current = null;
+  for(const el of doc.querySelectorAll("h2,h3,h4,table")){
+    if(el.tagName !== "TABLE"){ current = nsoApp(el.textContent) || current; continue; }
+    if(!el.classList.contains("wikitable")) continue;
+    const cap = el.querySelector("caption"); const app = (cap && nsoApp(cap.textContent)) || current;
+    if(!app) continue;
+    const grid = tableGrid(el); if(!grid.length) continue;
+    const header = grid[0].map(h=>h.toLowerCase());
+    const gi = header.findIndex(h=>["game","title","game title"].includes(h));
+    const ri = header.findIndex(h=>h.split(/[\/ ,]+/).includes("na") || h.includes("north america") || h==="us" || h==="americas");
+    if(gi < 0 || ri < 0) continue;  // no North America column: can't tell Japan-only games apart
+    for(const row of grid.slice(1)){
+      const title = (row[gi]||"").replace(/\s*\[[^\]]*\]$/,"").replace(/^[*†‡ ]+|[*†‡ ]+$/g,"").trim();
+      const avail = (row[ri]||"").trim().toLowerCase();
+      if(!title || ["game","title"].includes(title.toLowerCase())) continue;
+      if(!avail || avail.startsWith("no") || avail.startsWith("n/a") || ["—","–","-","✗","✘","×"].includes(avail)) continue;
+      if(/[\u3040-\u30ff\u4e00-\u9fff]/.test(title)) continue;
+      out.push({title, tag:app[0], console:app[1]});
+    }
+  }
+  const seen = new Set();
+  return out.filter(g=>{ const k=g.tag+"|"+g.title.toLowerCase(); if(seen.has(k)) return false; seen.add(k); return true; });
+}
+async function syncNsoList(){
+  if(!REPO || !token()) return;
+  const last = store.get("shelf-nso-checked", 0);
+  if(Date.now() - last < 20*3600e3) return;
+  try{
+    const r = await fetch("https://en.wikipedia.org/w/api.php?" + new URLSearchParams({action:"parse", page:"Nintendo_Classics", prop:"text", format:"json", formatversion:"2", redirects:"1", origin:"*"}));
+    if(!r.ok) return;
+    const games = parseNsoHtml((await r.json()).parse.text);
+    if(games.length < 50) return;  // page layout changed; keep the old list
+    const cur = await gh("contents/config/nso_list.json");
+    let sha = null, old = null;
+    if(cur.ok){ const j = await cur.json(); sha = j.sha; try{ old = JSON.parse(b64decode(j.content)).games; }catch{} }
+    const key = l => JSON.stringify((l||[]).map(g=>g.tag+"|"+g.title).sort());
+    if(key(old) !== key(games)){
+      const body = {message:`Update Switch Online classics list (${games.length} games)`,
+        content: b64encode(JSON.stringify({fetched:new Date().toISOString(), source:"Wikipedia: Nintendo Classics", games}, null, 1) + "\n")};
+      if(sha) body.sha = sha;
+      const w = await gh("contents/config/nso_list.json", {method:"PUT", body:JSON.stringify(body), headers:{"Content-Type":"application/json"}});
+      if(!w.ok) return;
+    }
+    store.set("shelf-nso-checked", Date.now());
+  }catch{ /* try again next time the app opens */ }
+}
 async function loadEdits(){
   try{ const r = await readEdits(); if(r){ EDITS = r.data; liveEdits = true; applyAll(); render(); } }
   catch{ /* offline or rate-limited: fall back to the edits baked into data.json */ }
@@ -770,7 +843,7 @@ $("tierSeg").onclick = e=>{ const b=e.target.closest("button"); if(!b) return; s
 $("hideOwned").checked = state.hideOwned;
 $("hideOwned").onchange = e=>{ state.hideOwned = e.target.checked; render(); };
 
-showView(state.view).then(()=>{ loadEdits(); return loadView(state.view==="psplus"?"library":"psplus"); }).then(()=>{ applyAll(); renderNow(); });
+showView(state.view).then(()=>{ loadEdits(); syncNsoList(); return loadView(state.view==="psplus"?"library":"psplus"); }).then(()=>{ applyAll(); renderNow(); });
 </script>
 </body>
 </html>
