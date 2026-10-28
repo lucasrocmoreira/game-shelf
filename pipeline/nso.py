@@ -6,11 +6,13 @@ is updated quickly when Nintendo adds games. The daily run reads it, so new addi
 removed ones drop off. If the page can't be read, the last good list is kept.
 """
 import re
+import time
 
 import yaml
+import requests
 from bs4 import BeautifulSoup
 
-from .util import CONFIG_DIR, log, session
+from .util import CONFIG_DIR, log
 
 API = "https://en.wikipedia.org/w/api.php"
 PAGE = "Nintendo_Classics"
@@ -119,18 +121,40 @@ def parse(html):
     return out
 
 
+# Wikimedia asks automated clients to identify themselves with a way to reach the operator.
+HEADERS = {"User-Agent": "GameShelf/1.0 (https://github.com/lucasrocmoreira/game-shelf; personal library site)",
+           "Api-User-Agent": "GameShelf/1.0 (https://github.com/lucasrocmoreira/game-shelf)"}
+
+
+def _page_html():
+    """The article's HTML, trying the Action API first and the REST API as a backup, with retries."""
+    attempts = [
+        (API, {"action": "parse", "page": PAGE, "prop": "text", "format": "json", "formatversion": 2, "redirects": 1}, "parse"),
+        (f"https://en.wikipedia.org/api/rest_v1/page/html/{PAGE}", None, "rest"),
+    ]
+    last = None
+    for url, params, kind in attempts:
+        for wait in (0, 10, 30):
+            if wait:
+                time.sleep(wait)
+            try:
+                r = requests.get(url, params=params, headers=HEADERS, timeout=60)
+            except requests.RequestException as e:
+                last = e
+                continue
+            if r.status_code in (429, 500, 502, 503, 504):
+                last = requests.HTTPError(f"{r.status_code} from Wikipedia ({kind})")
+                continue
+            r.raise_for_status()
+            return r.json()["parse"]["text"] if kind == "parse" else r.text
+    raise last or RuntimeError("Wikipedia unavailable")
+
+
 def fetch():
     enabled, apps = settings()
     if not enabled:
         return []
-    r = session.get(
-        API,
-        params={"action": "parse", "page": PAGE, "prop": "text", "format": "json", "formatversion": 2, "redirects": 1},
-        headers={"User-Agent": "game-shelf/1.0 (personal library site)"},
-        timeout=60,
-    )
-    r.raise_for_status()
-    games = parse(r.json()["parse"]["text"])
+    games = parse(_page_html())
     games = [g for g in games if g[1] in apps]
     if len(games) < 50:
         raise RuntimeError(f"only {len(games)} games found on Wikipedia; the page layout may have changed")
