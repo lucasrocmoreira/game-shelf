@@ -9,8 +9,9 @@ apps:
   - NES
   - SNES
   - Game Boy
-  - GBA
-  - N64
-  - Genesis
-  - GameCube
-  - Virtual Boy
+  # Expansion Pack only (add back if you upgrade):
+  # - GBA
+  # - N64
+  # - Genesis
+  # - GameCube
+  # - Virtual Boy
