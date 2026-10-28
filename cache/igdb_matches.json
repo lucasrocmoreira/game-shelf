@@ -6315,7 +6315,7 @@
  },
  "PS4:psplus:10000039": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:55+00:00",
+  "checked": "2026-10-28T03:45:12+00:00",
   "conf": "high",
   "id": 72813,
   "score": 1.144,
@@ -6325,11 +6325,14 @@
   "via": "search"
  },
  "PS4:psplus:10000350": {
-  "candidates": 4,
-  "checked": "2026-10-28T04:24:41+00:00",
-  "conf": "high",
-  "id": 132164,
-  "score": 1.139,
+  "candidates": 22,
+  "checked": "2026-10-28T04:58:36+00:00",
+  "conf": "medium",
+  "id": 296,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.039,
   "slug": null,
   "title": "Crysis Remastered",
   "v": 4,
@@ -6337,7 +6340,7 @@
  },
  "PS4:psplus:10000480": {
   "candidates": 6,
-  "checked": "2026-10-28T04:21:23+00:00",
+  "checked": "2026-10-28T03:42:44+00:00",
   "conf": "high",
   "id": 145017,
   "score": 1.134,
@@ -6348,7 +6351,7 @@
  },
  "PS4:psplus:10000598": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:57+00:00",
+  "checked": "2026-10-28T03:43:17+00:00",
   "conf": "high",
   "id": 105680,
   "score": 1.13,
@@ -6359,7 +6362,7 @@
  },
  "PS4:psplus:10000661": {
   "candidates": 2,
-  "checked": "2026-10-28T04:21:11+00:00",
+  "checked": "2026-10-28T03:42:33+00:00",
   "conf": "high",
   "id": 124131,
   "score": 1.132,
@@ -6370,7 +6373,7 @@
  },
  "PS4:psplus:10000873": {
   "candidates": 2,
-  "checked": "2026-10-28T04:21:58+00:00",
+  "checked": "2026-10-28T03:43:18+00:00",
   "conf": "high",
   "id": 121807,
   "score": 1.123,
@@ -6381,7 +6384,7 @@
  },
  "PS4:psplus:10001019": {
   "candidates": 24,
-  "checked": "2026-10-28T04:19:54+00:00",
+  "checked": "2026-10-28T03:41:17+00:00",
   "conf": "high",
   "id": 139067,
   "score": 1.126,
@@ -6392,7 +6395,7 @@
  },
  "PS4:psplus:10001263": {
   "candidates": 6,
-  "checked": "2026-10-28T04:22:31+00:00",
+  "checked": "2026-10-28T03:43:49+00:00",
   "conf": "high",
   "id": 143608,
   "score": 1.125,
@@ -6403,7 +6406,7 @@
  },
  "PS4:psplus:10001730": {
   "candidates": 2,
-  "checked": "2026-10-28T04:19:58+00:00",
+  "checked": "2026-10-28T03:41:21+00:00",
   "conf": "high",
   "id": 117312,
   "score": 1.132,
@@ -6414,7 +6417,7 @@
  },
  "PS4:psplus:10001738": {
   "candidates": 5,
-  "checked": "2026-10-28T04:22:32+00:00",
+  "checked": "2026-10-28T03:43:50+00:00",
   "conf": "high",
   "id": 103295,
   "score": 1.134,
@@ -6425,7 +6428,7 @@
  },
  "PS4:psplus:10002035": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:54+00:00",
+  "checked": "2026-10-28T03:44:12+00:00",
   "conf": "high",
   "id": 120300,
   "score": 1.132,
@@ -6436,7 +6439,7 @@
  },
  "PS4:psplus:10002216": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:26+00:00",
+  "checked": "2026-10-28T03:42:47+00:00",
   "conf": "high",
   "id": 178279,
   "score": 1.128,
@@ -6447,7 +6450,7 @@
  },
  "PS4:psplus:10002313": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:08+00:00",
+  "checked": "2026-10-28T03:44:24+00:00",
   "conf": "high",
   "id": 234256,
   "score": 1.137,
@@ -6458,7 +6461,7 @@
  },
  "PS4:psplus:10002576": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:11+00:00",
+  "checked": "2026-10-28T03:43:29+00:00",
   "conf": "high",
   "id": 201254,
   "score": 1.12,
@@ -6469,7 +6472,7 @@
  },
  "PS4:psplus:10002870": {
   "candidates": 3,
-  "checked": "2026-10-28T04:22:26+00:00",
+  "checked": "2026-10-28T03:43:44+00:00",
   "conf": "high",
   "id": 115278,
   "score": 1.133,
@@ -6480,7 +6483,7 @@
  },
  "PS4:psplus:10003254": {
   "candidates": 9,
-  "checked": "2026-10-28T04:22:55+00:00",
+  "checked": "2026-10-28T03:44:13+00:00",
   "conf": "high",
   "id": 140500,
   "score": 1.133,
@@ -6491,7 +6494,7 @@
  },
  "PS4:psplus:10003269": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:08+00:00",
+  "checked": "2026-10-28T03:41:31+00:00",
   "conf": "high",
   "id": 188063,
   "score": 1.09,
@@ -6502,7 +6505,7 @@
  },
  "PS4:psplus:10003316": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:44+00:00",
+  "checked": "2026-10-28T03:43:03+00:00",
   "conf": "high",
   "id": 119089,
   "score": 1.12,
@@ -6513,7 +6516,7 @@
  },
  "PS4:psplus:10007582": {
   "candidates": 25,
-  "checked": "2026-10-28T04:21:28+00:00",
+  "checked": "2026-10-28T03:42:48+00:00",
   "conf": "high",
   "id": 287848,
   "score": 1.13,
@@ -6524,7 +6527,7 @@
  },
  "PS4:psplus:10007583": {
   "candidates": 2,
-  "checked": "2026-10-28T04:21:29+00:00",
+  "checked": "2026-10-28T03:42:49+00:00",
   "conf": "high",
   "id": 138951,
   "score": 1.136,
@@ -6535,7 +6538,7 @@
  },
  "PS4:psplus:10008192": {
   "candidates": 6,
-  "checked": "2026-10-28T04:23:49+00:00",
+  "checked": "2026-10-28T03:45:06+00:00",
   "conf": "high",
   "id": 254354,
   "score": 1.123,
@@ -6546,9 +6549,12 @@
  },
  "PS4:psplus:200006": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:30+00:00",
+  "checked": "2026-10-28T04:58:25+00:00",
   "conf": "high",
   "id": 6063,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.137,
   "slug": null,
   "title": "Ape Escape™ 2",
@@ -6557,7 +6563,7 @@
  },
  "PS4:psplus:200088": {
   "candidates": 12,
-  "checked": "2026-10-28T04:18:33+00:00",
+  "checked": "2026-10-28T03:39:56+00:00",
   "conf": "high",
   "id": 5606,
   "score": 1.15,
@@ -6568,7 +6574,7 @@
  },
  "PS4:psplus:200089": {
   "candidates": 19,
-  "checked": "2026-10-28T04:18:38+00:00",
+  "checked": "2026-10-28T03:40:01+00:00",
   "conf": "high",
   "id": 1970,
   "score": 1.15,
@@ -6579,7 +6585,7 @@
  },
  "PS4:psplus:200098": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:35+00:00",
+  "checked": "2026-10-28T03:39:57+00:00",
   "conf": "high",
   "id": 3775,
   "score": 1.144,
@@ -6590,7 +6596,7 @@
  },
  "PS4:psplus:200102": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:37+00:00",
+  "checked": "2026-10-28T03:40:00+00:00",
   "conf": "high",
   "id": 8223,
   "score": 1.141,
@@ -6601,9 +6607,12 @@
  },
  "PS4:psplus:200308": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:31+00:00",
+  "checked": "2026-10-28T04:58:25+00:00",
   "conf": "high",
   "id": 21558,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.131,
   "slug": null,
   "title": "Arc The Lad: Twilight of the Spirits™",
@@ -6612,7 +6621,7 @@
  },
  "PS4:psplus:200520": {
   "candidates": 13,
-  "checked": "2026-10-28T04:18:54+00:00",
+  "checked": "2026-10-28T03:40:18+00:00",
   "conf": "high",
   "id": 7334,
   "score": 1.15,
@@ -6623,9 +6632,12 @@
  },
  "PS4:psplus:200599": {
   "candidates": 3,
-  "checked": "2026-10-28T04:24:37+00:00",
+  "checked": "2026-10-28T04:58:31+00:00",
   "conf": "high",
   "id": 1342,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.149,
   "slug": null,
   "title": "BEYOND: Two Souls™",
@@ -6634,7 +6646,7 @@
  },
  "PS4:psplus:200740": {
   "candidates": 8,
-  "checked": "2026-10-28T04:19:10+00:00",
+  "checked": "2026-10-28T03:40:33+00:00",
   "conf": "high",
   "id": 4756,
   "score": 1.146,
@@ -6645,7 +6657,7 @@
  },
  "PS4:psplus:200943": {
   "candidates": 10,
-  "checked": "2026-10-28T04:19:39+00:00",
+  "checked": "2026-10-28T03:41:02+00:00",
   "conf": "high",
   "id": 9498,
   "score": 1.148,
@@ -6656,7 +6668,7 @@
  },
  "PS4:psplus:200972": {
   "candidates": 2,
-  "checked": "2026-10-28T04:19:40+00:00",
+  "checked": "2026-10-28T03:41:03+00:00",
   "conf": "high",
   "id": 11594,
   "score": 1.134,
@@ -6667,7 +6679,7 @@
  },
  "PS4:psplus:201017": {
   "candidates": 5,
-  "checked": "2026-10-28T04:19:40+00:00",
+  "checked": "2026-10-28T03:41:03+00:00",
   "conf": "high",
   "id": 11118,
   "score": 1.149,
@@ -6678,7 +6690,7 @@
  },
  "PS4:psplus:201101": {
   "candidates": 29,
-  "checked": "2026-10-28T04:19:42+00:00",
+  "checked": "2026-10-28T03:41:05+00:00",
   "conf": "high",
   "id": 7351,
   "score": 1.15,
@@ -6689,7 +6701,7 @@
  },
  "PS4:psplus:201129": {
   "candidates": 24,
-  "checked": "2026-10-28T04:19:47+00:00",
+  "checked": "2026-10-28T03:41:10+00:00",
   "conf": "high",
   "id": 3042,
   "score": 1.15,
@@ -6700,9 +6712,12 @@
  },
  "PS4:psplus:201189": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:41+00:00",
+  "checked": "2026-10-28T04:58:37+00:00",
   "conf": "high",
   "id": 1214,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.139,
   "slug": null,
   "title": "Dark Cloud™",
@@ -6711,7 +6726,7 @@
  },
  "PS4:psplus:201386": {
   "candidates": 11,
-  "checked": "2026-10-28T04:20:02+00:00",
+  "checked": "2026-10-28T03:41:25+00:00",
   "conf": "high",
   "id": 7380,
   "score": 1.136,
@@ -6722,7 +6737,7 @@
  },
  "PS4:psplus:201415": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:51+00:00",
+  "checked": "2026-10-28T03:41:14+00:00",
   "conf": "high",
   "id": 11002,
   "score": 1.135,
@@ -6733,10 +6748,13 @@
  },
  "PS4:psplus:201538": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:58+00:00",
+  "checked": "2026-10-28T04:58:55+00:00",
   "conf": "high",
-  "id": 376693,
-  "score": 1.12,
+  "id": 10392,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.129,
   "slug": null,
   "title": "FantaVision™",
   "v": 4,
@@ -6744,7 +6762,7 @@
  },
  "PS4:psplus:201624": {
   "candidates": 17,
-  "checked": "2026-10-28T04:20:11+00:00",
+  "checked": "2026-10-28T03:41:34+00:00",
   "conf": "high",
   "id": 6801,
   "score": 1.15,
@@ -6755,7 +6773,7 @@
  },
  "PS4:psplus:201634": {
   "candidates": 7,
-  "checked": "2026-10-28T04:20:12+00:00",
+  "checked": "2026-10-28T03:41:35+00:00",
   "conf": "high",
   "id": 13182,
   "score": 1.147,
@@ -6766,7 +6784,7 @@
  },
  "PS4:psplus:201697": {
   "candidates": 12,
-  "checked": "2026-10-28T04:23:32+00:00",
+  "checked": "2026-10-28T03:44:48+00:00",
   "conf": "high",
   "id": 11171,
   "score": 1.145,
@@ -6777,9 +6795,12 @@
  },
  "PS4:psplus:201902": {
   "candidates": 6,
-  "checked": "2026-10-28T04:25:07+00:00",
+  "checked": "2026-10-28T04:59:06+00:00",
   "conf": "high",
   "id": 493,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.15,
   "slug": null,
   "title": "Heavy Rain",
@@ -6788,7 +6809,7 @@
  },
  "PS4:psplus:201954": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:34+00:00",
+  "checked": "2026-10-28T03:41:56+00:00",
   "conf": "high",
   "id": 11814,
   "score": 1.13,
@@ -6799,7 +6820,7 @@
  },
  "PS4:psplus:202132": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:50+00:00",
+  "checked": "2026-10-28T03:42:12+00:00",
   "conf": "high",
   "id": 7868,
   "score": 1.134,
@@ -6810,7 +6831,7 @@
  },
  "PS4:psplus:202140": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:54+00:00",
+  "checked": "2026-10-28T03:42:15+00:00",
   "conf": "high",
   "id": 7328,
   "score": 1.143,
@@ -6821,9 +6842,12 @@
  },
  "PS4:psplus:202184": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:11+00:00",
+  "checked": "2026-10-28T04:59:10+00:00",
   "conf": "high",
   "id": 1530,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.143,
   "slug": null,
   "title": "Jak 3",
@@ -6832,9 +6856,12 @@
  },
  "PS4:psplus:202185": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:14+00:00",
+  "checked": "2026-10-28T04:59:13+00:00",
   "conf": "high",
   "id": 1529,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.144,
   "slug": null,
   "title": "Jak II",
@@ -6843,7 +6870,7 @@
  },
  "PS4:psplus:202335": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:58+00:00",
+  "checked": "2026-10-28T03:42:19+00:00",
   "conf": "high",
   "id": 1937,
   "score": 1.142,
@@ -6854,7 +6881,7 @@
  },
  "PS4:psplus:202340": {
   "candidates": 10,
-  "checked": "2026-10-28T04:21:01+00:00",
+  "checked": "2026-10-28T03:42:22+00:00",
   "conf": "high",
   "id": 2957,
   "score": 1.14,
@@ -6865,9 +6892,12 @@
  },
  "PS4:psplus:202368": {
   "candidates": 1,
-  "checked": "2026-10-28T04:25:21+00:00",
+  "checked": "2026-10-28T04:59:20+00:00",
   "conf": "high",
   "id": 8236,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "Kinetica™",
@@ -6876,7 +6906,7 @@
  },
  "PS4:psplus:202450": {
   "candidates": 2,
-  "checked": "2026-10-28T04:21:06+00:00",
+  "checked": "2026-10-28T03:42:27+00:00",
   "conf": "high",
   "id": 9918,
   "score": 1.141,
@@ -6887,7 +6917,7 @@
  },
  "PS4:psplus:202454": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:08+00:00",
+  "checked": "2026-10-28T03:42:30+00:00",
   "conf": "high",
   "id": 4844,
   "score": 1.141,
@@ -6898,7 +6928,7 @@
  },
  "PS4:psplus:202494": {
   "candidates": 15,
-  "checked": "2026-10-28T04:21:07+00:00",
+  "checked": "2026-10-28T03:42:28+00:00",
   "conf": "high",
   "id": 11069,
   "score": 1.14,
@@ -6909,7 +6939,7 @@
  },
  "PS4:psplus:202496": {
   "candidates": 13,
-  "checked": "2026-10-28T04:21:02+00:00",
+  "checked": "2026-10-28T03:42:24+00:00",
   "conf": "high",
   "id": 7685,
   "score": 1.14,
@@ -6920,7 +6950,7 @@
  },
  "PS4:psplus:202508": {
   "candidates": 13,
-  "checked": "2026-10-28T04:21:09+00:00",
+  "checked": "2026-10-28T03:42:30+00:00",
   "conf": "high",
   "id": 10910,
   "score": 1.138,
@@ -6931,7 +6961,7 @@
  },
  "PS4:psplus:202615": {
   "candidates": 9,
-  "checked": "2026-10-28T04:21:14+00:00",
+  "checked": "2026-10-28T03:42:35+00:00",
   "conf": "high",
   "id": 9807,
   "score": 1.14,
@@ -6942,7 +6972,7 @@
  },
  "PS4:psplus:202663": {
   "candidates": 10,
-  "checked": "2026-10-28T04:21:22+00:00",
+  "checked": "2026-10-28T03:42:43+00:00",
   "conf": "high",
   "id": 9620,
   "score": 1.133,
@@ -6952,22 +6982,28 @@
   "via": "search"
  },
  "PS4:psplus:202806": {
-  "candidates": 3,
-  "checked": "2026-10-28T04:25:32+00:00",
-  "conf": "high",
+  "candidates": 26,
+  "checked": "2026-10-28T04:59:36+00:00",
+  "conf": "medium",
   "id": 6880,
-  "score": 1.062,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.902,
   "slug": null,
   "title": "Metro Redux",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:202807": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:25:31+00:00",
-  "conf": "high",
+  "candidates": 6,
+  "checked": "2026-10-28T04:59:34+00:00",
+  "conf": "medium",
   "id": 80853,
-  "score": 1.146,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.986,
   "slug": null,
   "title": "Metro 2033 Redux",
   "v": 4,
@@ -6975,9 +7011,12 @@
  },
  "PS4:psplus:203179": {
   "candidates": 1,
-  "checked": "2026-10-28T04:25:40+00:00",
+  "checked": "2026-10-28T04:59:45+00:00",
   "conf": "high",
   "id": 43614,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.13,
   "slug": null,
   "title": "OKAGE: Shadow King",
@@ -6986,7 +7025,7 @@
  },
  "PS4:psplus:203202": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:44+00:00",
+  "checked": "2026-10-28T03:43:04+00:00",
   "conf": "high",
   "id": 5552,
   "score": 1.139,
@@ -6997,7 +7036,7 @@
  },
  "PS4:psplus:203215": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:46+00:00",
+  "checked": "2026-10-28T03:43:06+00:00",
   "conf": "high",
   "id": 9907,
   "score": 1.13,
@@ -7008,9 +7047,12 @@
  },
  "PS4:psplus:203521": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:43+00:00",
+  "checked": "2026-10-28T04:59:48+00:00",
   "conf": "high",
   "id": 6082,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.132,
   "slug": null,
   "title": "PaRappa The Rapper 2™",
@@ -7019,7 +7061,7 @@
  },
  "PS4:psplus:203539": {
   "candidates": 4,
-  "checked": "2026-10-28T04:22:09+00:00",
+  "checked": "2026-10-28T03:43:28+00:00",
   "conf": "high",
   "id": 8409,
   "score": 1.131,
@@ -7030,9 +7072,12 @@
  },
  "PS4:psplus:203612": {
   "candidates": 24,
-  "checked": "2026-10-28T04:25:46+00:00",
+  "checked": "2026-10-28T04:59:54+00:00",
   "conf": "high",
   "id": 11789,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.134,
   "slug": null,
   "title": "Primal™",
@@ -7041,9 +7086,12 @@
  },
  "PS4:psplus:203623": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:49+00:00",
+  "checked": "2026-10-28T04:59:57+00:00",
   "conf": "high",
   "id": 17158,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.13,
   "slug": null,
   "title": "Q*Bert: Rebooted",
@@ -7052,7 +7100,7 @@
  },
  "PS4:psplus:203654": {
   "candidates": 3,
-  "checked": "2026-10-28T04:22:10+00:00",
+  "checked": "2026-10-28T03:43:28+00:00",
   "conf": "high",
   "id": 20308,
   "score": 1.053,
@@ -7063,7 +7111,7 @@
  },
  "PS4:psplus:203666": {
   "candidates": 5,
-  "checked": "2026-10-28T04:22:17+00:00",
+  "checked": "2026-10-28T03:43:35+00:00",
   "conf": "high",
   "id": 11719,
   "score": 1.136,
@@ -7074,9 +7122,12 @@
  },
  "PS4:psplus:203685": {
   "candidates": 1,
-  "checked": "2026-10-28T04:25:59+00:00",
+  "checked": "2026-10-28T05:00:09+00:00",
   "conf": "high",
   "id": 21557,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.123,
   "slug": null,
   "title": "Rise of the Kasai™",
@@ -7085,9 +7136,12 @@
  },
  "PS4:psplus:203705": {
   "candidates": 1,
-  "checked": "2026-10-28T04:26:01+00:00",
+  "checked": "2026-10-28T05:00:10+00:00",
   "conf": "high",
   "id": 11292,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.137,
   "slug": null,
   "title": "Rogue Galaxy™",
@@ -7096,7 +7150,7 @@
  },
  "PS4:psplus:203706": {
   "candidates": 3,
-  "checked": "2026-10-28T04:22:19+00:00",
+  "checked": "2026-10-28T03:43:37+00:00",
   "conf": "high",
   "id": 6007,
   "score": 1.14,
@@ -7107,9 +7161,12 @@
  },
  "PS4:psplus:203873": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:52+00:00",
+  "checked": "2026-10-28T04:59:59+00:00",
   "conf": "high",
   "id": 5026,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.133,
   "slug": null,
   "title": "Rainbow Moon",
@@ -7118,7 +7175,7 @@
  },
  "PS4:psplus:203902": {
   "candidates": 7,
-  "checked": "2026-10-28T04:22:15+00:00",
+  "checked": "2026-10-28T03:43:33+00:00",
   "conf": "high",
   "id": 1968,
   "score": 1.148,
@@ -7129,7 +7186,7 @@
  },
  "PS4:psplus:203938": {
   "candidates": 9,
-  "checked": "2026-10-28T04:23:42+00:00",
+  "checked": "2026-10-28T03:44:58+00:00",
   "conf": "high",
   "id": 3191,
   "score": 1.141,
@@ -7140,7 +7197,7 @@
  },
  "PS4:psplus:204156": {
   "candidates": 6,
-  "checked": "2026-10-28T04:22:34+00:00",
+  "checked": "2026-10-28T03:43:52+00:00",
   "conf": "high",
   "id": 11254,
   "score": 1.132,
@@ -7151,7 +7208,7 @@
  },
  "PS4:psplus:204162": {
   "candidates": 4,
-  "checked": "2026-10-28T04:22:45+00:00",
+  "checked": "2026-10-28T03:44:04+00:00",
   "conf": "high",
   "id": 1262,
   "score": 1.15,
@@ -7162,9 +7219,12 @@
  },
  "PS4:psplus:204227": {
   "candidates": 22,
-  "checked": "2026-10-28T04:26:14+00:00",
+  "checked": "2026-10-28T05:00:38+00:00",
   "conf": "high",
   "id": 5333,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.139,
   "slug": null,
   "title": "STRIDER",
@@ -7173,9 +7233,12 @@
  },
  "PS4:psplus:204268": {
   "candidates": 1,
-  "checked": "2026-10-28T04:26:13+00:00",
+  "checked": "2026-10-28T05:00:37+00:00",
   "conf": "high",
   "id": 19419,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.132,
   "slug": null,
   "title": "Star Wars™: Racer Revenge™",
@@ -7184,9 +7247,12 @@
  },
  "PS4:psplus:204269": {
   "candidates": 4,
-  "checked": "2026-10-28T04:26:11+00:00",
+  "checked": "2026-10-28T05:00:33+00:00",
   "conf": "high",
   "id": 4180,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.055,
   "slug": null,
   "title": "STAR WARS: Bounty Hunter (Classic, 2002)",
@@ -7195,9 +7261,12 @@
  },
  "PS4:psplus:204271": {
   "candidates": 1,
-  "checked": "2026-10-28T04:26:12+00:00",
+  "checked": "2026-10-28T05:00:35+00:00",
   "conf": "high",
   "id": 6160,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.134,
   "slug": null,
   "title": "STAR WARS: Jedi Starfighter",
@@ -7205,11 +7274,14 @@
   "via": "search"
  },
  "PS4:psplus:204506": {
-  "candidates": 4,
-  "checked": "2026-10-28T04:26:03+00:00",
-  "conf": "high",
+  "candidates": 5,
+  "checked": "2026-10-28T05:00:18+00:00",
+  "conf": "medium",
   "id": 141060,
-  "score": 1.128,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.968,
   "slug": null,
   "title": "Serious Sam Collection",
   "v": 4,
@@ -7217,7 +7289,7 @@
  },
  "PS4:psplus:204513": {
   "candidates": 10,
-  "checked": "2026-10-28T04:22:58+00:00",
+  "checked": "2026-10-28T03:44:16+00:00",
   "conf": "medium",
   "id": 8875,
   "score": 0.972,
@@ -7228,7 +7300,7 @@
  },
  "PS4:psplus:204538": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:28+00:00",
+  "checked": "2026-10-28T03:44:45+00:00",
   "conf": "high",
   "id": 4,
   "score": 1.146,
@@ -7239,7 +7311,7 @@
  },
  "PS4:psplus:204826": {
   "candidates": 14,
-  "checked": "2026-10-28T04:23:15+00:00",
+  "checked": "2026-10-28T03:44:32+00:00",
   "conf": "high",
   "id": 117,
   "score": 1.145,
@@ -7250,7 +7322,7 @@
  },
  "PS4:psplus:204861": {
   "candidates": 24,
-  "checked": "2026-10-28T04:23:10+00:00",
+  "checked": "2026-10-28T03:44:26+00:00",
   "conf": "high",
   "id": 1081,
   "score": 1.146,
@@ -7261,7 +7333,7 @@
  },
  "PS4:psplus:204880": {
   "candidates": 6,
-  "checked": "2026-10-28T04:23:18+00:00",
+  "checked": "2026-10-28T03:44:34+00:00",
   "conf": "high",
   "id": 4845,
   "score": 1.14,
@@ -7272,7 +7344,7 @@
  },
  "PS4:psplus:204941": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:36+00:00",
+  "checked": "2026-10-28T03:44:52+00:00",
   "conf": "high",
   "id": 2114,
   "score": 1.146,
@@ -7283,7 +7355,7 @@
  },
  "PS4:psplus:204990": {
   "candidates": 19,
-  "checked": "2026-10-28T04:23:46+00:00",
+  "checked": "2026-10-28T03:45:03+00:00",
   "conf": "high",
   "id": 3211,
   "score": 1.141,
@@ -7294,7 +7366,7 @@
  },
  "PS4:psplus:205023": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:39+00:00",
+  "checked": "2026-10-28T03:44:55+00:00",
   "conf": "high",
   "id": 11172,
   "score": 1.14,
@@ -7305,7 +7377,7 @@
  },
  "PS4:psplus:205080": {
   "candidates": 18,
-  "checked": "2026-10-28T04:23:04+00:00",
+  "checked": "2026-10-28T03:44:21+00:00",
   "conf": "high",
   "id": 1879,
   "score": 1.15,
@@ -7316,7 +7388,7 @@
  },
  "PS4:psplus:205194": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:56+00:00",
+  "checked": "2026-10-28T03:45:14+00:00",
   "conf": "high",
   "id": 7327,
   "score": 1.147,
@@ -7327,7 +7399,7 @@
  },
  "PS4:psplus:205200": {
   "candidates": 11,
-  "checked": "2026-10-28T04:23:58+00:00",
+  "checked": "2026-10-28T03:45:15+00:00",
   "conf": "high",
   "id": 8729,
   "score": 1.145,
@@ -7338,7 +7410,7 @@
  },
  "PS4:psplus:205264": {
   "candidates": 25,
-  "checked": "2026-10-28T04:24:05+00:00",
+  "checked": "2026-10-28T03:45:22+00:00",
   "conf": "high",
   "id": 1121,
   "score": 1.15,
@@ -7349,7 +7421,7 @@
  },
  "PS4:psplus:205292": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:10+00:00",
+  "checked": "2026-10-28T03:45:27+00:00",
   "conf": "high",
   "id": 2031,
   "score": 1.15,
@@ -7360,7 +7432,7 @@
  },
  "PS4:psplus:205293": {
   "candidates": 3,
-  "checked": "2026-10-28T04:24:11+00:00",
+  "checked": "2026-10-28T03:45:28+00:00",
   "conf": "high",
   "id": 9192,
   "score": 1.147,
@@ -7371,9 +7443,12 @@
  },
  "PS4:psplus:205307": {
   "candidates": 1,
-  "checked": "2026-10-28T04:26:41+00:00",
+  "checked": "2026-10-28T05:01:26+00:00",
   "conf": "high",
   "id": 1679,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.131,
   "slug": null,
   "title": "Wild Arms™ 3",
@@ -7382,10 +7457,13 @@
  },
  "PS4:psplus:205353": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:38+00:00",
-  "conf": "high",
+  "checked": "2026-10-28T05:01:19+00:00",
+  "conf": "medium",
   "id": 10962,
-  "score": 1.145,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.985,
   "slug": null,
   "title": "UNCHARTED™ The Nathan Drake Collection",
   "v": 4,
@@ -7393,7 +7471,7 @@
  },
  "PS4:psplus:205354": {
   "candidates": 6,
-  "checked": "2026-10-28T04:23:50+00:00",
+  "checked": "2026-10-28T03:45:07+00:00",
   "conf": "high",
   "id": 7331,
   "score": 1.15,
@@ -7404,7 +7482,7 @@
  },
  "PS4:psplus:205514": {
   "candidates": 25,
-  "checked": "2026-10-28T04:24:22+00:00",
+  "checked": "2026-10-28T03:45:39+00:00",
   "conf": "high",
   "id": 11491,
   "score": 1.138,
@@ -7415,7 +7493,7 @@
  },
  "PS4:psplus:205867": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:28+00:00",
+  "checked": "2026-10-28T03:39:51+00:00",
   "conf": "high",
   "id": 14902,
   "score": 1.139,
@@ -7426,7 +7504,7 @@
  },
  "PS4:psplus:206089": {
   "candidates": 25,
-  "checked": "2026-10-28T04:18:20+00:00",
+  "checked": "2026-10-28T03:39:43+00:00",
   "conf": "high",
   "id": 7600,
   "score": 1.137,
@@ -7437,7 +7515,7 @@
  },
  "PS4:psplus:206887": {
   "candidates": 28,
-  "checked": "2026-10-28T04:19:44+00:00",
+  "checked": "2026-10-28T03:41:08+00:00",
   "conf": "high",
   "id": 11155,
   "score": 1.136,
@@ -7448,9 +7526,12 @@
  },
  "PS4:psplus:206958": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:42+00:00",
+  "checked": "2026-10-28T04:58:37+00:00",
   "conf": "high",
   "id": 1215,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.137,
   "slug": null,
   "title": "Dark Cloud™ 2",
@@ -7459,9 +7540,12 @@
  },
  "PS4:psplus:207034": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:09+00:00",
+  "checked": "2026-10-28T04:59:08+00:00",
   "conf": "high",
   "id": 21537,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.13,
   "slug": null,
   "title": "Hot Shots® Tennis",
@@ -7470,9 +7554,12 @@
  },
  "PS4:psplus:208240": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:00+00:00",
+  "checked": "2026-10-28T04:58:57+00:00",
   "conf": "high",
   "id": 10605,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.138,
   "slug": null,
   "title": "GAROU: MARK OF THE WOLVES™",
@@ -7481,7 +7568,7 @@
  },
  "PS4:psplus:209065": {
   "candidates": 7,
-  "checked": "2026-10-28T04:20:04+00:00",
+  "checked": "2026-10-28T03:41:27+00:00",
   "conf": "high",
   "id": 28187,
   "score": 1.133,
@@ -7492,7 +7579,7 @@
  },
  "PS4:psplus:209441": {
   "candidates": 6,
-  "checked": "2026-10-28T04:22:17+00:00",
+  "checked": "2026-10-28T03:43:36+00:00",
   "conf": "high",
   "id": 25076,
   "score": 1.15,
@@ -7502,11 +7589,14 @@
   "via": "search"
  },
  "PS4:psplus:209608": {
-  "candidates": 3,
-  "checked": "2026-10-28T04:25:33+00:00",
-  "conf": "high",
+  "candidates": 11,
+  "checked": "2026-10-28T04:59:39+00:00",
+  "conf": "medium",
   "id": 2025,
-  "score": 1.146,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.986,
   "slug": null,
   "title": "Mount & Blade: Warband",
   "v": 4,
@@ -7514,7 +7604,7 @@
  },
  "PS4:psplus:210671": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:24+00:00",
+  "checked": "2026-10-28T03:43:42+00:00",
   "conf": "high",
   "id": 58036,
   "score": 1.123,
@@ -7525,9 +7615,12 @@
  },
  "PS4:psplus:211634": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:28+00:00",
+  "checked": "2026-10-28T05:01:03+00:00",
   "conf": "high",
   "id": 9120,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.133,
   "slug": null,
   "title": "The Mark of Kri™",
@@ -7536,7 +7629,7 @@
  },
  "PS4:psplus:212280": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:29+00:00",
+  "checked": "2026-10-28T03:39:52+00:00",
   "conf": "high",
   "id": 14903,
   "score": 1.139,
@@ -7547,7 +7640,7 @@
  },
  "PS4:psplus:212339": {
   "candidates": 16,
-  "checked": "2026-10-28T04:18:32+00:00",
+  "checked": "2026-10-28T03:39:55+00:00",
   "conf": "high",
   "id": 8263,
   "score": 1.149,
@@ -7558,7 +7651,7 @@
  },
  "PS4:psplus:212740": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:37+00:00",
+  "checked": "2026-10-28T03:44:53+00:00",
   "conf": "high",
   "id": 19965,
   "score": 1.102,
@@ -7569,7 +7662,7 @@
  },
  "PS4:psplus:213861": {
   "candidates": 22,
-  "checked": "2026-10-28T04:21:40+00:00",
+  "checked": "2026-10-28T03:43:00+00:00",
   "conf": "high",
   "id": 12571,
   "score": 1.143,
@@ -7580,7 +7673,7 @@
  },
  "PS4:psplus:214367": {
   "candidates": 25,
-  "checked": "2026-10-28T04:18:57+00:00",
+  "checked": "2026-10-28T03:40:20+00:00",
   "conf": "high",
   "id": 14790,
   "score": 1.138,
@@ -7591,7 +7684,7 @@
  },
  "PS4:psplus:215974": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:03+00:00",
+  "checked": "2026-10-28T03:44:20+00:00",
   "conf": "high",
   "id": 7606,
   "score": 1.137,
@@ -7602,7 +7695,7 @@
  },
  "PS4:psplus:216117": {
   "candidates": 11,
-  "checked": "2026-10-28T04:19:01+00:00",
+  "checked": "2026-10-28T03:40:24+00:00",
   "conf": "high",
   "id": 9176,
   "score": 1.142,
@@ -7613,7 +7706,7 @@
  },
  "PS4:psplus:216171": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:50+00:00",
+  "checked": "2026-10-28T03:41:13+00:00",
   "conf": "high",
   "id": 14765,
   "score": 1.13,
@@ -7624,7 +7717,7 @@
  },
  "PS4:psplus:216382": {
   "candidates": 1,
-  "checked": "2026-10-28T04:23:42+00:00",
+  "checked": "2026-10-28T03:44:59+00:00",
   "conf": "high",
   "id": 19553,
   "score": 1.135,
@@ -7635,7 +7728,7 @@
  },
  "PS4:psplus:216395": {
   "candidates": 15,
-  "checked": "2026-10-28T04:22:39+00:00",
+  "checked": "2026-10-28T03:43:58+00:00",
   "conf": "high",
   "id": 18366,
   "score": 1.143,
@@ -7646,10 +7739,13 @@
  },
  "PS4:psplus:216401": {
   "candidates": 3,
-  "checked": "2026-10-28T04:26:25+00:00",
-  "conf": "high",
+  "checked": "2026-10-28T05:00:55+00:00",
+  "conf": "medium",
   "id": 76045,
-  "score": 1.134,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.974,
   "slug": null,
   "title": "THE LAST BLADE 2",
   "v": 4,
@@ -7657,7 +7753,7 @@
  },
  "PS4:psplus:216489": {
   "candidates": 13,
-  "checked": "2026-10-28T04:22:44+00:00",
+  "checked": "2026-10-28T03:44:03+00:00",
   "conf": "high",
   "id": 11161,
   "score": 1.146,
@@ -7668,7 +7764,7 @@
  },
  "PS4:psplus:216542": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:23+00:00",
+  "checked": "2026-10-28T03:44:40+00:00",
   "conf": "high",
   "id": 11590,
   "score": 1.141,
@@ -7679,7 +7775,7 @@
  },
  "PS4:psplus:216605": {
   "candidates": 25,
-  "checked": "2026-10-28T04:22:08+00:00",
+  "checked": "2026-10-28T03:43:27+00:00",
   "conf": "high",
   "id": 1338,
   "score": 1.143,
@@ -7689,11 +7785,14 @@
   "via": "search"
  },
  "PS4:psplus:216665": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:25:28+00:00",
-  "conf": "high",
-  "id": 94970,
-  "score": 1.134,
+  "candidates": 23,
+  "checked": "2026-10-28T04:59:29+00:00",
+  "conf": "medium",
+  "id": 4689,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.025,
   "slug": null,
   "title": "LUMINES REMASTERED",
   "v": 4,
@@ -7701,7 +7800,7 @@
  },
  "PS4:psplus:216759": {
   "candidates": 14,
-  "checked": "2026-10-28T04:24:03+00:00",
+  "checked": "2026-10-28T03:45:21+00:00",
   "conf": "high",
   "id": 19441,
   "score": 1.149,
@@ -7712,7 +7811,7 @@
  },
  "PS4:psplus:216773": {
   "candidates": 11,
-  "checked": "2026-10-28T04:24:18+00:00",
+  "checked": "2026-10-28T03:45:35+00:00",
   "conf": "high",
   "id": 10919,
   "score": 1.147,
@@ -7723,7 +7822,7 @@
  },
  "PS4:psplus:216879": {
   "candidates": 5,
-  "checked": "2026-10-28T04:18:25+00:00",
+  "checked": "2026-10-28T03:39:48+00:00",
   "conf": "high",
   "id": 18853,
   "score": 1.14,
@@ -7734,7 +7833,7 @@
  },
  "PS4:psplus:217462": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:25+00:00",
+  "checked": "2026-10-28T03:44:42+00:00",
   "conf": "high",
   "id": 9919,
   "score": 1.137,
@@ -7745,7 +7844,7 @@
  },
  "PS4:psplus:218717": {
   "candidates": 33,
-  "checked": "2026-10-28T04:21:15+00:00",
+  "checked": "2026-10-28T03:42:35+00:00",
   "conf": "high",
   "id": 85683,
   "score": 1.125,
@@ -7756,7 +7855,7 @@
  },
  "PS4:psplus:219617": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:14+00:00",
+  "checked": "2026-10-28T03:45:31+00:00",
   "conf": "high",
   "id": 19696,
   "score": 1.139,
@@ -7767,7 +7866,7 @@
  },
  "PS4:psplus:220997": {
   "candidates": 6,
-  "checked": "2026-10-28T04:19:31+00:00",
+  "checked": "2026-10-28T03:40:54+00:00",
   "conf": "high",
   "id": 8211,
   "score": 1.138,
@@ -7778,7 +7877,7 @@
  },
  "PS4:psplus:221097": {
   "candidates": 6,
-  "checked": "2026-10-28T04:19:48+00:00",
+  "checked": "2026-10-28T03:41:12+00:00",
   "conf": "high",
   "id": 13669,
   "score": 1.134,
@@ -7789,7 +7888,7 @@
  },
  "PS4:psplus:221692": {
   "candidates": 17,
-  "checked": "2026-10-28T04:20:09+00:00",
+  "checked": "2026-10-28T03:41:32+00:00",
   "conf": "high",
   "id": 28552,
   "score": 1.149,
@@ -7800,7 +7899,7 @@
  },
  "PS4:psplus:221694": {
   "candidates": 25,
-  "checked": "2026-10-28T04:20:24+00:00",
+  "checked": "2026-10-28T03:41:46+00:00",
   "conf": "high",
   "id": 11162,
   "score": 1.145,
@@ -7811,7 +7910,7 @@
  },
  "PS4:psplus:221698": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:36+00:00",
+  "checked": "2026-10-28T03:41:58+00:00",
   "conf": "high",
   "id": 12528,
   "score": 1.14,
@@ -7822,9 +7921,12 @@
  },
  "PS4:psplus:221705": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:10+00:00",
+  "checked": "2026-10-28T04:59:10+00:00",
   "conf": "high",
   "id": 1928,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.146,
   "slug": null,
   "title": "INDIGO PROPHECY",
@@ -7833,7 +7935,7 @@
  },
  "PS4:psplus:221727": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:43+00:00",
+  "checked": "2026-10-28T03:42:05+00:00",
   "conf": "high",
   "id": 72870,
   "score": 1.003,
@@ -7844,7 +7946,7 @@
  },
  "PS4:psplus:221750": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:23+00:00",
+  "checked": "2026-10-28T03:43:41+00:00",
   "conf": "high",
   "id": 23331,
   "score": 1.041,
@@ -7855,7 +7957,7 @@
  },
  "PS4:psplus:221765": {
   "candidates": 17,
-  "checked": "2026-10-28T04:22:50+00:00",
+  "checked": "2026-10-28T03:44:08+00:00",
   "conf": "high",
   "id": 19554,
   "score": 1.142,
@@ -7866,7 +7968,7 @@
  },
  "PS4:psplus:221784": {
   "candidates": 6,
-  "checked": "2026-10-28T04:22:36+00:00",
+  "checked": "2026-10-28T03:43:55+00:00",
   "conf": "high",
   "id": 11064,
   "score": 1.142,
@@ -7877,7 +7979,7 @@
  },
  "PS4:psplus:221793": {
   "candidates": 3,
-  "checked": "2026-10-28T04:23:44+00:00",
+  "checked": "2026-10-28T03:45:00+00:00",
   "conf": "high",
   "id": 21623,
   "score": 1.139,
@@ -7888,7 +7990,7 @@
  },
  "PS4:psplus:221794": {
   "candidates": 6,
-  "checked": "2026-10-28T04:23:45+00:00",
+  "checked": "2026-10-28T03:45:02+00:00",
   "conf": "high",
   "id": 19978,
   "score": 1.131,
@@ -7899,7 +8001,7 @@
  },
  "PS4:psplus:221804": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:07+00:00",
+  "checked": "2026-10-28T03:45:24+00:00",
   "conf": "high",
   "id": 18399,
   "score": 1.018,
@@ -7910,7 +8012,7 @@
  },
  "PS4:psplus:221809": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:21+00:00",
+  "checked": "2026-10-28T03:45:38+00:00",
   "conf": "high",
   "id": 27304,
   "score": 1.14,
@@ -7921,7 +8023,7 @@
  },
  "PS4:psplus:221831": {
   "candidates": 4,
-  "checked": "2026-10-28T04:18:23+00:00",
+  "checked": "2026-10-28T03:39:45+00:00",
   "conf": "high",
   "id": 11092,
   "score": 1.136,
@@ -7932,7 +8034,7 @@
  },
  "PS4:psplus:221878": {
   "candidates": 2,
-  "checked": "2026-10-28T04:18:58+00:00",
+  "checked": "2026-10-28T03:40:22+00:00",
   "conf": "high",
   "id": 27419,
   "score": 1.131,
@@ -7943,7 +8045,7 @@
  },
  "PS4:psplus:221902": {
   "candidates": 8,
-  "checked": "2026-10-28T04:19:58+00:00",
+  "checked": "2026-10-28T03:41:20+00:00",
   "conf": "high",
   "id": 2955,
   "score": 1.143,
@@ -7954,7 +8056,7 @@
  },
  "PS4:psplus:221915": {
   "candidates": 14,
-  "checked": "2026-10-28T04:20:57+00:00",
+  "checked": "2026-10-28T03:42:18+00:00",
   "conf": "high",
   "id": 6748,
   "score": 1.143,
@@ -7965,7 +8067,7 @@
  },
  "PS4:psplus:222066": {
   "candidates": 14,
-  "checked": "2026-10-28T04:18:31+00:00",
+  "checked": "2026-10-28T03:39:53+00:00",
   "conf": "high",
   "id": 28540,
   "score": 1.15,
@@ -7976,7 +8078,7 @@
  },
  "PS4:psplus:222304": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:15+00:00",
+  "checked": "2026-10-28T03:42:36+00:00",
   "conf": "high",
   "id": 26499,
   "score": 1.126,
@@ -7987,7 +8089,7 @@
  },
  "PS4:psplus:222727": {
   "candidates": 4,
-  "checked": "2026-10-28T04:19:38+00:00",
+  "checked": "2026-10-28T03:41:01+00:00",
   "conf": "high",
   "id": 14362,
   "score": 1.15,
@@ -7998,10 +8100,13 @@
  },
  "PS4:psplus:222943": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:34+00:00",
-  "conf": "high",
+  "checked": "2026-10-28T04:58:28+00:00",
+  "conf": "medium",
   "id": 24891,
-  "score": 1.048,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.888,
   "slug": null,
   "title": "Atari Flashback Classics Vol. 1",
   "v": 4,
@@ -8009,10 +8114,13 @@
  },
  "PS4:psplus:222944": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:35+00:00",
-  "conf": "high",
+  "checked": "2026-10-28T04:58:29+00:00",
+  "conf": "medium",
   "id": 24962,
-  "score": 1.047,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.887,
   "slug": null,
   "title": "Atari Flashback Classics Vol. 2",
   "v": 4,
@@ -8020,7 +8128,7 @@
  },
  "PS4:psplus:222958": {
   "candidates": 2,
-  "checked": "2026-10-28T04:19:04+00:00",
+  "checked": "2026-10-28T03:40:28+00:00",
   "conf": "high",
   "id": 25795,
   "score": 1.131,
@@ -8031,7 +8139,7 @@
  },
  "PS4:psplus:222995": {
   "candidates": 20,
-  "checked": "2026-10-28T04:19:52+00:00",
+  "checked": "2026-10-28T03:41:15+00:00",
   "conf": "high",
   "id": 27283,
   "score": 1.134,
@@ -8042,7 +8150,7 @@
  },
  "PS4:psplus:224815": {
   "candidates": 2,
-  "checked": "2026-10-28T04:18:48+00:00",
+  "checked": "2026-10-28T03:40:12+00:00",
   "conf": "high",
   "id": 12511,
   "score": 1.139,
@@ -8053,7 +8161,7 @@
  },
  "PS4:psplus:224821": {
   "candidates": 45,
-  "checked": "2026-10-28T04:19:13+00:00",
+  "checked": "2026-10-28T03:40:37+00:00",
   "conf": "medium",
   "id": 9066,
   "score": 0.989,
@@ -8064,7 +8172,7 @@
  },
  "PS4:psplus:224875": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:03+00:00",
+  "checked": "2026-10-28T03:42:25+00:00",
   "conf": "high",
   "id": 343450,
   "score": 1.132,
@@ -8075,7 +8183,7 @@
  },
  "PS4:psplus:224903": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:20+00:00",
+  "checked": "2026-10-28T03:42:41+00:00",
   "conf": "high",
   "id": 14364,
   "score": 1.134,
@@ -8086,7 +8194,7 @@
  },
  "PS4:psplus:224919": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:47+00:00",
+  "checked": "2026-10-28T03:43:07+00:00",
   "conf": "high",
   "id": 14390,
   "score": 1.144,
@@ -8097,7 +8205,7 @@
  },
  "PS4:psplus:224929": {
   "candidates": 25,
-  "checked": "2026-10-28T04:22:07+00:00",
+  "checked": "2026-10-28T03:43:25+00:00",
   "conf": "high",
   "id": 19531,
   "score": 1.149,
@@ -8108,7 +8216,7 @@
  },
  "PS4:psplus:224994": {
   "candidates": 1,
-  "checked": "2026-10-28T04:23:59+00:00",
+  "checked": "2026-10-28T03:45:17+00:00",
   "conf": "high",
   "id": 21429,
   "score": 1.134,
@@ -8119,7 +8227,7 @@
  },
  "PS4:psplus:225235": {
   "candidates": 8,
-  "checked": "2026-10-28T04:21:42+00:00",
+  "checked": "2026-10-28T03:43:01+00:00",
   "conf": "high",
   "id": 28244,
   "score": 1.123,
@@ -8130,7 +8238,7 @@
  },
  "PS4:psplus:225519": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:39+00:00",
+  "checked": "2026-10-28T03:40:02+00:00",
   "conf": "high",
   "id": 23954,
   "score": 1.138,
@@ -8141,7 +8249,7 @@
  },
  "PS4:psplus:225783": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:09+00:00",
+  "checked": "2026-10-28T03:40:33+00:00",
   "conf": "high",
   "id": 31561,
   "score": 1.132,
@@ -8152,7 +8260,7 @@
  },
  "PS4:psplus:225857": {
   "candidates": 8,
-  "checked": "2026-10-28T04:22:35+00:00",
+  "checked": "2026-10-28T03:43:53+00:00",
   "conf": "high",
   "id": 37094,
   "score": 1.146,
@@ -8162,22 +8270,28 @@
   "via": "search"
  },
  "PS4:psplus:226357": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:25:06+00:00",
-  "conf": "high",
+  "candidates": 8,
+  "checked": "2026-10-28T04:59:05+00:00",
+  "conf": "medium",
   "id": 12529,
-  "score": 1.14,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.98,
   "slug": null,
   "title": "Gravity Rush™ Remastered",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:226459": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:25:33+00:00",
-  "conf": "high",
-  "id": 50199,
-  "score": 1.145,
+  "candidates": 30,
+  "checked": "2026-10-28T04:59:37+00:00",
+  "conf": "medium",
+  "id": 539,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.039,
   "slug": null,
   "title": "Metro: Last Light Redux",
   "v": 4,
@@ -8185,7 +8299,7 @@
  },
  "PS4:psplus:226877": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:27+00:00",
+  "checked": "2026-10-28T03:44:43+00:00",
   "conf": "high",
   "id": 19796,
   "score": 1.127,
@@ -8196,7 +8310,7 @@
  },
  "PS4:psplus:227128": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:26+00:00",
+  "checked": "2026-10-28T03:40:49+00:00",
   "conf": "high",
   "id": 25746,
   "score": 1.128,
@@ -8207,21 +8321,27 @@
  },
  "PS4:psplus:227162": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:25+00:00",
-  "conf": "high",
-  "id": 46557,
-  "score": 1.126,
+  "checked": "2026-10-28T04:59:24+00:00",
+  "conf": "medium",
+  "id": 18264,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.969,
   "slug": null,
   "title": "Lock's Quest",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:227430": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:25:42+00:00",
-  "conf": "high",
+  "candidates": 25,
+  "checked": "2026-10-28T04:59:47+00:00",
+  "conf": "medium",
   "id": 23175,
-  "score": 1.133,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.973,
   "slug": null,
   "title": "Outcast - Second Contact",
   "v": 4,
@@ -8229,7 +8349,7 @@
  },
  "PS4:psplus:227552": {
   "candidates": 23,
-  "checked": "2026-10-28T04:23:09+00:00",
+  "checked": "2026-10-28T03:44:25+00:00",
   "conf": "high",
   "id": 28856,
   "score": 1.101,
@@ -8240,7 +8360,7 @@
  },
  "PS4:psplus:227770": {
   "candidates": 25,
-  "checked": "2026-10-28T04:20:29+00:00",
+  "checked": "2026-10-28T03:41:52+00:00",
   "conf": "high",
   "id": 19560,
   "score": 1.15,
@@ -8250,33 +8370,42 @@
   "via": "search"
  },
  "PS4:psplus:227868": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:25:27+00:00",
-  "conf": "high",
-  "id": 26234,
-  "score": 1.128,
+  "candidates": 7,
+  "checked": "2026-10-28T04:59:28+00:00",
+  "conf": "medium",
+  "id": 1459,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.028,
   "slug": null,
   "title": "LocoRoco™ Remastered",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:227869": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:25:26+00:00",
-  "conf": "high",
-  "id": 37147,
-  "score": 1.125,
+  "candidates": 2,
+  "checked": "2026-10-28T04:59:26+00:00",
+  "conf": "medium",
+  "id": 1461,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.023,
   "slug": null,
   "title": "LocoRoco™ 2 Remastered",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:227969": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:25:45+00:00",
-  "conf": "high",
-  "id": 26233,
-  "score": 1.131,
+  "candidates": 12,
+  "checked": "2026-10-28T04:59:52+00:00",
+  "conf": "medium",
+  "id": 7812,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.029,
   "slug": null,
   "title": "Patapon™ Remastered",
   "v": 4,
@@ -8284,7 +8413,7 @@
  },
  "PS4:psplus:227988": {
   "candidates": 4,
-  "checked": "2026-10-28T04:22:47+00:00",
+  "checked": "2026-10-28T03:44:05+00:00",
   "conf": "high",
   "id": 95068,
   "score": 1.09,
@@ -8295,31 +8424,40 @@
  },
  "PS4:psplus:228538": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:46+00:00",
+  "checked": "2026-10-28T04:58:41+00:00",
   "conf": "high",
-  "id": 20863,
-  "score": 1.101,
+  "id": 41590,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.991,
   "slug": null,
   "title": "Dishonored® Definitive Edition",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:228618": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:25:02+00:00",
-  "conf": "high",
-  "id": 19959,
-  "score": 1.143,
+  "candidates": 6,
+  "checked": "2026-10-28T04:59:01+00:00",
+  "conf": "medium",
+  "id": 499,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.039,
   "slug": null,
   "title": "God of War III Remastered",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:228638": {
-  "candidates": 7,
-  "checked": "2026-10-28T04:26:27+00:00",
+  "candidates": 26,
+  "checked": "2026-10-28T05:01:01+00:00",
   "conf": "high",
-  "id": 6036,
+  "id": 1009,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.15,
   "slug": null,
   "title": "The Last Of Us™ Remastered ",
@@ -8328,10 +8466,13 @@
  },
  "PS4:psplus:228639": {
   "candidates": 25,
-  "checked": "2026-10-28T04:26:26+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.869,
+  "checked": "2026-10-28T05:00:56+00:00",
+  "conf": "high",
+  "id": 11790,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.145,
   "slug": null,
   "title": "The Last of Us: Left Behind Stand Alone",
   "v": 4,
@@ -8339,7 +8480,7 @@
  },
  "PS4:psplus:228744": {
   "candidates": 13,
-  "checked": "2026-10-28T04:20:18+00:00",
+  "checked": "2026-10-28T03:41:41+00:00",
   "conf": "high",
   "id": 11169,
   "score": 1.147,
@@ -8350,7 +8491,7 @@
  },
  "PS4:psplus:228782": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:07+00:00",
+  "checked": "2026-10-28T03:42:29+00:00",
   "conf": "high",
   "id": 52190,
   "score": 1.137,
@@ -8361,7 +8502,7 @@
  },
  "PS4:psplus:228851": {
   "candidates": 6,
-  "checked": "2026-10-28T04:23:43+00:00",
+  "checked": "2026-10-28T03:45:00+00:00",
   "conf": "high",
   "id": 103316,
   "score": 1.137,
@@ -8372,7 +8513,7 @@
  },
  "PS4:psplus:228861": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:12+00:00",
+  "checked": "2026-10-28T03:44:28+00:00",
   "conf": "high",
   "id": 36813,
   "score": 1.145,
@@ -8383,7 +8524,7 @@
  },
  "PS4:psplus:228868": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:28+00:00",
+  "checked": "2026-10-28T03:44:44+00:00",
   "conf": "high",
   "id": 26381,
   "score": 1.139,
@@ -8394,7 +8535,7 @@
  },
  "PS4:psplus:228887": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:52+00:00",
+  "checked": "2026-10-28T03:45:08+00:00",
   "conf": "high",
   "id": 12517,
   "score": 1.15,
@@ -8405,7 +8546,7 @@
  },
  "PS4:psplus:228903": {
   "candidates": 8,
-  "checked": "2026-10-28T04:18:14+00:00",
+  "checked": "2026-10-28T03:39:36+00:00",
   "conf": "high",
   "id": 6705,
   "score": 1.144,
@@ -8416,7 +8557,7 @@
  },
  "PS4:psplus:229001": {
   "candidates": 13,
-  "checked": "2026-10-28T04:19:49+00:00",
+  "checked": "2026-10-28T03:41:12+00:00",
   "conf": "high",
   "id": 26546,
   "score": 1.134,
@@ -8427,7 +8568,7 @@
  },
  "PS4:psplus:229018": {
   "candidates": 14,
-  "checked": "2026-10-28T04:19:29+00:00",
+  "checked": "2026-10-28T03:40:52+00:00",
   "conf": "high",
   "id": 19561,
   "score": 1.148,
@@ -8438,9 +8579,12 @@
  },
  "PS4:psplus:229131": {
   "candidates": 1,
-  "checked": "2026-10-28T04:25:15+00:00",
+  "checked": "2026-10-28T04:59:14+00:00",
   "conf": "high",
   "id": 1532,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.137,
   "slug": null,
   "title": "Jak X: Combat Racing",
@@ -8449,7 +8593,7 @@
  },
  "PS4:psplus:229323": {
   "candidates": 6,
-  "checked": "2026-10-28T04:22:29+00:00",
+  "checked": "2026-10-28T03:43:47+00:00",
   "conf": "high",
   "id": 36595,
   "score": 1.133,
@@ -8460,7 +8604,7 @@
  },
  "PS4:psplus:229453": {
   "candidates": 14,
-  "checked": "2026-10-28T04:19:05+00:00",
+  "checked": "2026-10-28T03:40:29+00:00",
   "conf": "high",
   "id": 36597,
   "score": 1.14,
@@ -8471,7 +8615,7 @@
  },
  "PS4:psplus:229481": {
   "candidates": 2,
-  "checked": "2026-10-28T04:19:41+00:00",
+  "checked": "2026-10-28T03:41:04+00:00",
   "conf": "high",
   "id": 37030,
   "score": 1.144,
@@ -8482,7 +8626,7 @@
  },
  "PS4:psplus:229520": {
   "candidates": 17,
-  "checked": "2026-10-28T04:23:41+00:00",
+  "checked": "2026-10-28T03:44:57+00:00",
   "conf": "high",
   "id": 37064,
   "score": 1.133,
@@ -8493,7 +8637,7 @@
  },
  "PS4:psplus:229531": {
   "candidates": 21,
-  "checked": "2026-10-28T04:24:08+00:00",
+  "checked": "2026-10-28T03:45:25+00:00",
   "conf": "high",
   "id": 119255,
   "score": 1.129,
@@ -8504,7 +8648,7 @@
  },
  "PS4:psplus:229533": {
   "candidates": 6,
-  "checked": "2026-10-28T04:24:13+00:00",
+  "checked": "2026-10-28T03:45:30+00:00",
   "conf": "high",
   "id": 36952,
   "score": 1.148,
@@ -8515,7 +8659,7 @@
  },
  "PS4:psplus:229601": {
   "candidates": 21,
-  "checked": "2026-10-28T04:18:36+00:00",
+  "checked": "2026-10-28T03:39:59+00:00",
   "conf": "high",
   "id": 103054,
   "score": 1.15,
@@ -8526,7 +8670,7 @@
  },
  "PS4:psplus:229756": {
   "candidates": 25,
-  "checked": "2026-10-28T04:18:50+00:00",
+  "checked": "2026-10-28T03:40:13+00:00",
   "conf": "high",
   "id": 71455,
   "score": 1.13,
@@ -8537,7 +8681,7 @@
  },
  "PS4:psplus:229817": {
   "candidates": 25,
-  "checked": "2026-10-28T04:21:33+00:00",
+  "checked": "2026-10-28T03:42:52+00:00",
   "conf": "high",
   "id": 27771,
   "score": 1.142,
@@ -8548,7 +8692,7 @@
  },
  "PS4:psplus:229997": {
   "candidates": 23,
-  "checked": "2026-10-28T04:22:12+00:00",
+  "checked": "2026-10-28T03:43:30+00:00",
   "conf": "high",
   "id": 101211,
   "score": 1.144,
@@ -8559,7 +8703,7 @@
  },
  "PS4:psplus:230059": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:45+00:00",
+  "checked": "2026-10-28T03:45:01+00:00",
   "conf": "high",
   "id": 110846,
   "score": 1.139,
@@ -8570,7 +8714,7 @@
  },
  "PS4:psplus:230079": {
   "candidates": 9,
-  "checked": "2026-10-28T04:23:16+00:00",
+  "checked": "2026-10-28T03:44:32+00:00",
   "conf": "high",
   "id": 26192,
   "score": 1.15,
@@ -8581,7 +8725,7 @@
  },
  "PS4:psplus:230095": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:32+00:00",
+  "checked": "2026-10-28T03:39:54+00:00",
   "conf": "high",
   "id": 81205,
   "score": 1.135,
@@ -8592,7 +8736,7 @@
  },
  "PS4:psplus:230658": {
   "candidates": 25,
-  "checked": "2026-10-28T04:24:14+00:00",
+  "checked": "2026-10-28T03:45:31+00:00",
   "conf": "high",
   "id": 20910,
   "score": 1.141,
@@ -8603,7 +8747,7 @@
  },
  "PS4:psplus:231064": {
   "candidates": 4,
-  "checked": "2026-10-28T04:18:45+00:00",
+  "checked": "2026-10-28T03:40:09+00:00",
   "conf": "high",
   "id": 78550,
   "score": 1.139,
@@ -8614,7 +8758,7 @@
  },
  "PS4:psplus:231069": {
   "candidates": 4,
-  "checked": "2026-10-28T04:19:11+00:00",
+  "checked": "2026-10-28T03:40:34+00:00",
   "conf": "high",
   "id": 36198,
   "score": 1.142,
@@ -8625,7 +8769,7 @@
  },
  "PS4:psplus:231088": {
   "candidates": 3,
-  "checked": "2026-10-28T04:21:00+00:00",
+  "checked": "2026-10-28T03:42:22+00:00",
   "conf": "high",
   "id": 24881,
   "score": 1.14,
@@ -8636,7 +8780,7 @@
  },
  "PS4:psplus:231136": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:56+00:00",
+  "checked": "2026-10-28T03:43:15+00:00",
   "conf": "high",
   "id": 89074,
   "score": 1.126,
@@ -8647,7 +8791,7 @@
  },
  "PS4:psplus:231261": {
   "candidates": 25,
-  "checked": "2026-10-28T04:19:17+00:00",
+  "checked": "2026-10-28T03:40:41+00:00",
   "conf": "high",
   "id": 16999,
   "score": 1.141,
@@ -8658,7 +8802,7 @@
  },
  "PS4:psplus:231468": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:19+00:00",
+  "checked": "2026-10-28T03:39:41+00:00",
   "conf": "high",
   "id": 78149,
   "score": 1.133,
@@ -8669,7 +8813,7 @@
  },
  "PS4:psplus:231477": {
   "candidates": 23,
-  "checked": "2026-10-28T04:19:07+00:00",
+  "checked": "2026-10-28T03:40:31+00:00",
   "conf": "high",
   "id": 26226,
   "score": 1.15,
@@ -8680,7 +8824,7 @@
  },
  "PS4:psplus:231486": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:11+00:00",
+  "checked": "2026-10-28T03:41:33+00:00",
   "conf": "high",
   "id": 86389,
   "score": 1.136,
@@ -8691,7 +8835,7 @@
  },
  "PS4:psplus:231727": {
   "candidates": 6,
-  "checked": "2026-10-28T04:19:36+00:00",
+  "checked": "2026-10-28T03:40:59+00:00",
   "conf": "high",
   "id": 107218,
   "score": 1.141,
@@ -8702,7 +8846,7 @@
  },
  "PS4:psplus:231804": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:06+00:00",
+  "checked": "2026-10-28T03:41:28+00:00",
   "conf": "high",
   "id": 76887,
   "score": 1.13,
@@ -8713,7 +8857,7 @@
  },
  "PS4:psplus:231844": {
   "candidates": 17,
-  "checked": "2026-10-28T04:22:35+00:00",
+  "checked": "2026-10-28T03:43:54+00:00",
   "conf": "high",
   "id": 37777,
   "score": 1.149,
@@ -8724,7 +8868,7 @@
  },
  "PS4:psplus:231856": {
   "candidates": 2,
-  "checked": "2026-10-28T04:18:30+00:00",
+  "checked": "2026-10-28T03:39:52+00:00",
   "conf": "high",
   "id": 109532,
   "score": 1.141,
@@ -8735,7 +8879,7 @@
  },
  "PS4:psplus:231863": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:47+00:00",
+  "checked": "2026-10-28T03:42:08+00:00",
   "conf": "high",
   "id": 131888,
   "score": 1.135,
@@ -8746,7 +8890,7 @@
  },
  "PS4:psplus:231944": {
   "candidates": 12,
-  "checked": "2026-10-28T04:21:04+00:00",
+  "checked": "2026-10-28T03:42:26+00:00",
   "conf": "high",
   "id": 102321,
   "score": 1.137,
@@ -8757,7 +8901,7 @@
  },
  "PS4:psplus:231957": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:49+00:00",
+  "checked": "2026-10-28T03:44:08+00:00",
   "conf": "high",
   "id": 246893,
   "score": 0.98,
@@ -8768,7 +8912,7 @@
  },
  "PS4:psplus:232043": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:52+00:00",
+  "checked": "2026-10-28T03:44:10+00:00",
   "conf": "high",
   "id": 65832,
   "score": 1.141,
@@ -8778,11 +8922,14 @@
   "via": "search"
  },
  "PS4:psplus:232046": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:26:29+00:00",
-  "conf": "high",
+  "candidates": 24,
+  "checked": "2026-10-28T05:01:07+00:00",
+  "conf": "medium",
   "id": 80944,
-  "score": 1.132,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.972,
   "slug": null,
   "title": "The Raven Remastered",
   "v": 4,
@@ -8790,7 +8937,7 @@
  },
  "PS4:psplus:232286": {
   "candidates": 3,
-  "checked": "2026-10-28T04:20:50+00:00",
+  "checked": "2026-10-28T03:42:11+00:00",
   "conf": "high",
   "id": 58597,
   "score": 1.133,
@@ -8801,7 +8948,7 @@
  },
  "PS4:psplus:232357": {
   "candidates": 9,
-  "checked": "2026-10-28T04:23:24+00:00",
+  "checked": "2026-10-28T03:44:40+00:00",
   "conf": "high",
   "id": 86477,
   "score": 1.138,
@@ -8812,7 +8959,7 @@
  },
  "PS4:psplus:232371": {
   "candidates": 25,
-  "checked": "2026-10-28T04:24:23+00:00",
+  "checked": "2026-10-28T03:45:40+00:00",
   "conf": "high",
   "id": 119234,
   "score": 1.137,
@@ -8823,7 +8970,7 @@
  },
  "PS4:psplus:232391": {
   "candidates": 21,
-  "checked": "2026-10-28T04:23:35+00:00",
+  "checked": "2026-10-28T03:44:51+00:00",
   "conf": "high",
   "id": 90099,
   "score": 1.145,
@@ -8834,7 +8981,7 @@
  },
  "PS4:psplus:232447": {
   "candidates": 7,
-  "checked": "2026-10-28T04:20:40+00:00",
+  "checked": "2026-10-28T03:42:02+00:00",
   "conf": "high",
   "id": 136625,
   "score": 1.148,
@@ -8845,7 +8992,7 @@
  },
  "PS4:psplus:232460": {
   "candidates": 2,
-  "checked": "2026-10-28T04:21:02+00:00",
+  "checked": "2026-10-28T03:42:23+00:00",
   "conf": "high",
   "id": 110788,
   "score": 1.12,
@@ -8856,7 +9003,7 @@
  },
  "PS4:psplus:232512": {
   "candidates": 26,
-  "checked": "2026-10-28T04:20:25+00:00",
+  "checked": "2026-10-28T03:41:47+00:00",
   "conf": "high",
   "id": 20331,
   "score": 1.139,
@@ -8867,7 +9014,7 @@
  },
  "PS4:psplus:232519": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:56+00:00",
+  "checked": "2026-10-28T03:44:14+00:00",
   "conf": "high",
   "id": 8751,
   "score": 1.138,
@@ -8878,7 +9025,7 @@
  },
  "PS4:psplus:232591": {
   "candidates": 4,
-  "checked": "2026-10-28T04:19:44+00:00",
+  "checked": "2026-10-28T03:41:07+00:00",
   "conf": "high",
   "id": 103334,
   "score": 1.126,
@@ -8889,7 +9036,7 @@
  },
  "PS4:psplus:232625": {
   "candidates": 24,
-  "checked": "2026-10-28T04:19:53+00:00",
+  "checked": "2026-10-28T03:41:16+00:00",
   "conf": "high",
   "id": 68286,
   "score": 1.132,
@@ -8900,7 +9047,7 @@
  },
  "PS4:psplus:232658": {
   "candidates": 7,
-  "checked": "2026-10-28T04:18:19+00:00",
+  "checked": "2026-10-28T03:39:42+00:00",
   "conf": "high",
   "id": 102057,
   "score": 1.136,
@@ -8911,7 +9058,7 @@
  },
  "PS4:psplus:232708": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:06+00:00",
+  "checked": "2026-10-28T03:44:22+00:00",
   "conf": "high",
   "id": 135999,
   "score": 1.14,
@@ -8922,7 +9069,7 @@
  },
  "PS4:psplus:232764": {
   "candidates": 19,
-  "checked": "2026-10-28T04:24:02+00:00",
+  "checked": "2026-10-28T03:45:19+00:00",
   "conf": "high",
   "id": 55189,
   "score": 1.142,
@@ -8932,19 +9079,20 @@
   "via": "search"
  },
  "PS4:psplus:232814": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:18:17+00:00",
-  "conf": "high",
-  "id": 69497,
-  "score": 1.12,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-28T04:58:16+00:00",
+  "conf": "manual",
+  "id": 10002,
+  "mp": null,
+  "score": null,
+  "slug": "the-train-giant",
   "title": "A-Train Express",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS4:psplus:232887": {
   "candidates": 3,
-  "checked": "2026-10-28T04:24:12+00:00",
+  "checked": "2026-10-28T03:45:29+00:00",
   "conf": "high",
   "id": 103301,
   "score": 1.143,
@@ -8955,7 +9103,7 @@
  },
  "PS4:psplus:232910": {
   "candidates": 9,
-  "checked": "2026-10-28T04:20:10+00:00",
+  "checked": "2026-10-28T03:41:32+00:00",
   "conf": "high",
   "id": 113111,
   "score": 1.144,
@@ -8966,7 +9114,7 @@
  },
  "PS4:psplus:232966": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:48+00:00",
+  "checked": "2026-10-28T03:44:06+00:00",
   "conf": "high",
   "id": 37080,
   "score": 1.12,
@@ -8977,7 +9125,7 @@
  },
  "PS4:psplus:233081": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:17+00:00",
+  "checked": "2026-10-28T03:41:40+00:00",
   "conf": "high",
   "id": 117855,
   "score": 1.13,
@@ -8988,10 +9136,13 @@
  },
  "PS4:psplus:233101": {
   "candidates": 1,
-  "checked": "2026-10-28T04:25:50+00:00",
-  "conf": "high",
+  "checked": "2026-10-28T04:59:58+00:00",
+  "conf": "medium",
   "id": 112105,
-  "score": 1.13,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.97,
   "slug": null,
   "title": "R-Type Dimensions EX",
   "v": 4,
@@ -8999,7 +9150,7 @@
  },
  "PS4:psplus:233112": {
   "candidates": 12,
-  "checked": "2026-10-28T04:23:33+00:00",
+  "checked": "2026-10-28T03:44:49+00:00",
   "conf": "high",
   "id": 118218,
   "score": 1.141,
@@ -9010,7 +9161,7 @@
  },
  "PS4:psplus:233200": {
   "candidates": 24,
-  "checked": "2026-10-28T04:19:03+00:00",
+  "checked": "2026-10-28T03:40:27+00:00",
   "conf": "high",
   "id": 115392,
   "score": 1.131,
@@ -9021,7 +9172,7 @@
  },
  "PS4:psplus:233219": {
   "candidates": 24,
-  "checked": "2026-10-28T04:19:03+00:00",
+  "checked": "2026-10-28T03:40:26+00:00",
   "conf": "high",
   "id": 128769,
   "score": 1.134,
@@ -9032,7 +9183,7 @@
  },
  "PS4:psplus:233226": {
   "candidates": 6,
-  "checked": "2026-10-28T04:24:01+00:00",
+  "checked": "2026-10-28T03:45:18+00:00",
   "conf": "high",
   "id": 103168,
   "score": 1.136,
@@ -9043,7 +9194,7 @@
  },
  "PS4:psplus:233283": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:55+00:00",
+  "checked": "2026-10-28T03:42:17+00:00",
   "conf": "high",
   "id": 119226,
   "score": 1.13,
@@ -9054,7 +9205,7 @@
  },
  "PS4:psplus:233432": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:24+00:00",
+  "checked": "2026-10-28T03:39:47+00:00",
   "conf": "high",
   "id": 125479,
   "score": 1.133,
@@ -9065,7 +9216,7 @@
  },
  "PS4:psplus:233468": {
   "candidates": 21,
-  "checked": "2026-10-28T04:22:06+00:00",
+  "checked": "2026-10-28T03:43:25+00:00",
   "conf": "high",
   "id": 114032,
   "score": 1.134,
@@ -9076,7 +9227,7 @@
  },
  "PS4:psplus:233628": {
   "candidates": 2,
-  "checked": "2026-10-28T04:19:18+00:00",
+  "checked": "2026-10-28T03:40:42+00:00",
   "conf": "high",
   "id": 75238,
   "score": 1.138,
@@ -9087,7 +9238,7 @@
  },
  "PS4:psplus:233719": {
   "candidates": 9,
-  "checked": "2026-10-28T04:21:49+00:00",
+  "checked": "2026-10-28T03:43:09+00:00",
   "conf": "high",
   "id": 117886,
   "score": 1.123,
@@ -9098,7 +9249,7 @@
  },
  "PS4:psplus:233784": {
   "candidates": 7,
-  "checked": "2026-10-28T04:22:59+00:00",
+  "checked": "2026-10-28T03:44:17+00:00",
   "conf": "high",
   "id": 123251,
   "score": 1.133,
@@ -9108,22 +9259,28 @@
   "via": "search"
  },
  "PS4:psplus:233883": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:24:52+00:00",
-  "conf": "high",
+  "candidates": 24,
+  "checked": "2026-10-28T04:58:49+00:00",
+  "conf": "medium",
   "id": 121503,
-  "score": 1.116,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.956,
   "slug": null,
   "title": "DOOM II (Classic)",
   "v": 4,
   "via": "search"
  },
  "PS4:psplus:233884": {
-  "candidates": 29,
-  "checked": "2026-10-28T04:24:50+00:00",
-  "conf": "high",
-  "id": 7351,
-  "score": 0.96,
+  "candidates": 31,
+  "checked": "2026-10-28T04:58:45+00:00",
+  "conf": "medium",
+  "id": 170995,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.941,
   "slug": null,
   "title": "DOOM (1993)",
   "v": 4,
@@ -9131,7 +9288,7 @@
  },
  "PS4:psplus:233889": {
   "candidates": 3,
-  "checked": "2026-10-28T04:18:49+00:00",
+  "checked": "2026-10-28T03:40:12+00:00",
   "conf": "high",
   "id": 106790,
   "score": 1.133,
@@ -9142,7 +9299,7 @@
  },
  "PS4:psplus:233992": {
   "candidates": 3,
-  "checked": "2026-10-28T04:23:38+00:00",
+  "checked": "2026-10-28T03:44:55+00:00",
   "conf": "high",
   "id": 115912,
   "score": 1.125,
@@ -9153,7 +9310,7 @@
  },
  "PS4:psplus:233993": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:26+00:00",
+  "checked": "2026-10-28T03:41:48+00:00",
   "conf": "high",
   "id": 117420,
   "score": 1.086,
@@ -9164,7 +9321,7 @@
  },
  "PS4:psplus:233994": {
   "candidates": 25,
-  "checked": "2026-10-28T04:24:20+00:00",
+  "checked": "2026-10-28T03:45:37+00:00",
   "conf": "high",
   "id": 113431,
   "score": 1.136,
@@ -9175,7 +9332,7 @@
  },
  "PS4:psplus:234277": {
   "candidates": 7,
-  "checked": "2026-10-28T04:20:21+00:00",
+  "checked": "2026-10-28T03:41:43+00:00",
   "conf": "high",
   "id": 115304,
   "score": 1.135,
@@ -9186,7 +9343,7 @@
  },
  "PS4:psplus:234278": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:27+00:00",
+  "checked": "2026-10-28T03:41:49+00:00",
   "conf": "high",
   "id": 112185,
   "score": 1.132,
@@ -9197,7 +9354,7 @@
  },
  "PS4:psplus:234290": {
   "candidates": 6,
-  "checked": "2026-10-28T04:21:12+00:00",
+  "checked": "2026-10-28T03:42:33+00:00",
   "conf": "high",
   "id": 29144,
   "score": 1.137,
@@ -9208,7 +9365,7 @@
  },
  "PS4:psplus:234315": {
   "candidates": 8,
-  "checked": "2026-10-28T04:24:07+00:00",
+  "checked": "2026-10-28T03:45:24+00:00",
   "conf": "high",
   "id": 125625,
   "score": 1.134,
@@ -9219,7 +9376,7 @@
  },
  "PS4:psplus:234411": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:22+00:00",
+  "checked": "2026-10-28T03:44:39+00:00",
   "conf": "high",
   "id": 107233,
   "score": 1.123,
@@ -9230,7 +9387,7 @@
  },
  "PS4:psplus:234427": {
   "candidates": 10,
-  "checked": "2026-10-28T04:21:21+00:00",
+  "checked": "2026-10-28T03:42:42+00:00",
   "conf": "high",
   "id": 76960,
   "score": 1.139,
@@ -9241,10 +9398,13 @@
  },
  "PS4:psplus:234453": {
   "candidates": 25,
-  "checked": "2026-10-28T04:24:51+00:00",
+  "checked": "2026-10-28T04:58:46+00:00",
   "conf": "high",
-  "id": 211243,
-  "score": 1.054,
+  "id": 260028,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "DOOM 3",
   "v": 4,
@@ -9252,10 +9412,13 @@
  },
  "PS4:psplus:234454": {
   "candidates": 11,
-  "checked": "2026-10-28T04:24:52+00:00",
-  "conf": "high",
-  "id": 224522,
-  "score": 1.137,
+  "checked": "2026-10-28T04:58:47+00:00",
+  "conf": "medium",
+  "id": 3471,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.98,
   "slug": null,
   "title": "DOOM 64",
   "v": 4,
@@ -9263,7 +9426,7 @@
  },
  "PS4:psplus:234529": {
   "candidates": 23,
-  "checked": "2026-10-28T04:21:56+00:00",
+  "checked": "2026-10-28T03:43:16+00:00",
   "conf": "high",
   "id": 114283,
   "score": 1.148,
@@ -9274,7 +9437,7 @@
  },
  "PS4:psplus:234544": {
   "candidates": 1,
-  "checked": "2026-10-28T04:19:21+00:00",
+  "checked": "2026-10-28T03:40:44+00:00",
   "conf": "high",
   "id": 119385,
   "score": 1.133,
@@ -9285,7 +9448,7 @@
  },
  "PS4:psplus:234578": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:06+00:00",
+  "checked": "2026-10-28T03:40:29+00:00",
   "conf": "high",
   "id": 101869,
   "score": 1.137,
@@ -9296,7 +9459,7 @@
  },
  "PS4:psplus:234585": {
   "candidates": 10,
-  "checked": "2026-10-28T04:19:34+00:00",
+  "checked": "2026-10-28T03:40:57+00:00",
   "conf": "high",
   "id": 19564,
   "score": 1.15,
@@ -9307,7 +9470,7 @@
  },
  "PS4:psplus:234646": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:29+00:00",
+  "checked": "2026-10-28T03:41:51+00:00",
   "conf": "high",
   "id": 129274,
   "score": 1.125,
@@ -9318,7 +9481,7 @@
  },
  "PS4:psplus:234650": {
   "candidates": 4,
-  "checked": "2026-10-28T04:20:37+00:00",
+  "checked": "2026-10-28T03:41:59+00:00",
   "conf": "high",
   "id": 22917,
   "score": 1.148,
@@ -9329,7 +9492,7 @@
  },
  "PS4:psplus:234774": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:16+00:00",
+  "checked": "2026-10-28T03:43:34+00:00",
   "conf": "high",
   "id": 116586,
   "score": 1.125,
@@ -9340,7 +9503,7 @@
  },
  "PS4:psplus:234806": {
   "candidates": 6,
-  "checked": "2026-10-28T04:20:03+00:00",
+  "checked": "2026-10-28T03:41:26+00:00",
   "conf": "high",
   "id": 75240,
   "score": 1.139,
@@ -9351,7 +9514,7 @@
  },
  "PS4:psplus:234969": {
   "candidates": 1,
-  "checked": "2026-10-28T04:23:48+00:00",
+  "checked": "2026-10-28T03:45:04+00:00",
   "conf": "high",
   "id": 142815,
   "score": 1.02,
@@ -9362,7 +9525,7 @@
  },
  "PS4:psplus:235061": {
   "candidates": 24,
-  "checked": "2026-10-28T04:20:31+00:00",
+  "checked": "2026-10-28T03:41:53+00:00",
   "conf": "high",
   "id": 24985,
   "score": 1.142,
@@ -9373,7 +9536,7 @@
  },
  "PS4:psplus:235085": {
   "candidates": 25,
-  "checked": "2026-10-28T04:19:59+00:00",
+  "checked": "2026-10-28T03:41:22+00:00",
   "conf": "high",
   "id": 119386,
   "score": 1.134,
@@ -9383,11 +9546,14 @@
   "via": "search"
  },
  "PS4:psplus:235243": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:25:43+00:00",
-  "conf": "high",
-  "id": 76961,
-  "score": 1.126,
+  "candidates": 4,
+  "checked": "2026-10-28T04:59:50+00:00",
+  "conf": "medium",
+  "id": 7813,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.024,
   "slug": null,
   "title": "Patapon 2 Remastered",
   "v": 4,
@@ -9395,7 +9561,7 @@
  },
  "PS4:psplus:235411": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:19+00:00",
+  "checked": "2026-10-28T03:45:36+00:00",
   "conf": "high",
   "id": 55468,
   "score": 1.127,
@@ -12288,7 +12454,7 @@
  },
  "PS5:psplus:10000176": {
   "candidates": 25,
-  "checked": "2026-10-28T04:22:20+00:00",
+  "checked": "2026-10-28T03:43:39+00:00",
   "conf": "high",
   "id": 134584,
   "score": 1.143,
@@ -12299,7 +12465,7 @@
  },
  "PS5:psplus:10000177": {
   "candidates": 8,
-  "checked": "2026-10-28T04:22:28+00:00",
+  "checked": "2026-10-28T03:43:47+00:00",
   "conf": "high",
   "id": 134585,
   "score": 1.14,
@@ -12310,7 +12476,7 @@
  },
  "PS5:psplus:10000237": {
   "candidates": 25,
-  "checked": "2026-10-28T04:18:34+00:00",
+  "checked": "2026-10-28T03:39:56+00:00",
   "conf": "high",
   "id": 133004,
   "score": 1.147,
@@ -12321,7 +12487,7 @@
  },
  "PS5:psplus:10000299": {
   "candidates": 4,
-  "checked": "2026-10-28T04:22:02+00:00",
+  "checked": "2026-10-28T03:43:22+00:00",
   "conf": "high",
   "id": 138204,
   "score": 1.12,
@@ -12332,7 +12498,7 @@
  },
  "PS5:psplus:10000346": {
   "candidates": 2,
-  "checked": "2026-10-28T04:21:32+00:00",
+  "checked": "2026-10-28T03:42:51+00:00",
   "conf": "high",
   "id": 132220,
   "score": 1.13,
@@ -12343,7 +12509,7 @@
  },
  "PS5:psplus:10000368": {
   "candidates": 8,
-  "checked": "2026-10-28T04:19:35+00:00",
+  "checked": "2026-10-28T03:40:58+00:00",
   "conf": "high",
   "id": 134606,
   "score": 1.144,
@@ -12354,7 +12520,7 @@
  },
  "PS5:psplus:10000393": {
   "candidates": 6,
-  "checked": "2026-10-28T04:23:37+00:00",
+  "checked": "2026-10-28T03:44:54+00:00",
   "conf": "high",
   "id": 114058,
   "score": 1.136,
@@ -12365,7 +12531,7 @@
  },
  "PS5:psplus:10000438": {
   "candidates": 25,
-  "checked": "2026-10-28T04:19:20+00:00",
+  "checked": "2026-10-28T03:40:43+00:00",
   "conf": "high",
   "id": 206188,
   "score": 1.129,
@@ -12376,7 +12542,7 @@
  },
  "PS5:psplus:10000459": {
   "candidates": 13,
-  "checked": "2026-10-28T04:22:21+00:00",
+  "checked": "2026-10-28T03:43:39+00:00",
   "conf": "high",
   "id": 138766,
   "score": 1.136,
@@ -12387,7 +12553,7 @@
  },
  "PS5:psplus:10000494": {
   "candidates": 6,
-  "checked": "2026-10-28T04:18:51+00:00",
+  "checked": "2026-10-28T03:40:15+00:00",
   "conf": "high",
   "id": 121247,
   "score": 1.135,
@@ -12398,7 +12564,7 @@
  },
  "PS5:psplus:10000649": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:19+00:00",
+  "checked": "2026-10-28T03:42:39+00:00",
   "conf": "high",
   "id": 134581,
   "score": 1.148,
@@ -12409,7 +12575,7 @@
  },
  "PS5:psplus:10000657": {
   "candidates": 9,
-  "checked": "2026-10-28T04:20:39+00:00",
+  "checked": "2026-10-28T03:42:01+00:00",
   "conf": "high",
   "id": 250616,
   "score": 1.145,
@@ -12420,7 +12586,7 @@
  },
  "PS5:psplus:10000663": {
   "candidates": 17,
-  "checked": "2026-10-28T04:22:03+00:00",
+  "checked": "2026-10-28T03:43:23+00:00",
   "conf": "high",
   "id": 152297,
   "score": 1.134,
@@ -12431,7 +12597,7 @@
  },
  "PS5:psplus:10000669": {
   "candidates": 3,
-  "checked": "2026-10-28T04:22:14+00:00",
+  "checked": "2026-10-28T03:43:32+00:00",
   "conf": "high",
   "id": 134582,
   "score": 1.145,
@@ -12442,7 +12608,7 @@
  },
  "PS5:psplus:10000762": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:18+00:00",
+  "checked": "2026-10-28T03:42:39+00:00",
   "conf": "high",
   "id": 138949,
   "score": 1.145,
@@ -12453,7 +12619,7 @@
  },
  "PS5:psplus:10000811": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:52+00:00",
+  "checked": "2026-10-28T03:43:12+00:00",
   "conf": "high",
   "id": 137276,
   "score": 1.128,
@@ -12464,7 +12630,7 @@
  },
  "PS5:psplus:10000875": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:13+00:00",
+  "checked": "2026-10-28T03:43:32+00:00",
   "conf": "high",
   "id": 70828,
   "score": 1.136,
@@ -12475,7 +12641,7 @@
  },
  "PS5:psplus:10000886": {
   "candidates": 8,
-  "checked": "2026-10-28T04:20:42+00:00",
+  "checked": "2026-10-28T03:42:04+00:00",
   "conf": "high",
   "id": 112874,
   "score": 1.146,
@@ -12486,7 +12652,7 @@
  },
  "PS5:psplus:10000899": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:48+00:00",
+  "checked": "2026-10-28T03:43:08+00:00",
   "conf": "high",
   "id": 135915,
   "score": 1.057,
@@ -12497,7 +12663,7 @@
  },
  "PS5:psplus:10000938": {
   "candidates": 5,
-  "checked": "2026-10-28T04:19:02+00:00",
+  "checked": "2026-10-28T03:40:25+00:00",
   "conf": "high",
   "id": 133306,
   "score": 1.141,
@@ -12508,7 +12674,7 @@
  },
  "PS5:psplus:10001119": {
   "candidates": 2,
-  "checked": "2026-10-28T04:18:22+00:00",
+  "checked": "2026-10-28T03:39:44+00:00",
   "conf": "high",
   "id": 106980,
   "score": 1.093,
@@ -12519,7 +12685,7 @@
  },
  "PS5:psplus:10001348": {
   "candidates": 3,
-  "checked": "2026-10-28T04:22:24+00:00",
+  "checked": "2026-10-28T03:43:43+00:00",
   "conf": "high",
   "id": 119249,
   "score": 1.132,
@@ -12530,7 +12696,7 @@
  },
  "PS5:psplus:10001404": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:01+00:00",
+  "checked": "2026-10-28T03:44:18+00:00",
   "conf": "high",
   "id": 121763,
   "score": 1.137,
@@ -12541,7 +12707,7 @@
  },
  "PS5:psplus:10001458": {
   "candidates": 7,
-  "checked": "2026-10-28T04:23:47+00:00",
+  "checked": "2026-10-28T03:45:04+00:00",
   "conf": "high",
   "id": 150512,
   "score": 1.136,
@@ -12552,7 +12718,7 @@
  },
  "PS5:psplus:10001519": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:43+00:00",
+  "checked": "2026-10-28T03:43:02+00:00",
   "conf": "high",
   "id": 132165,
   "score": 1.136,
@@ -12563,7 +12729,7 @@
  },
  "PS5:psplus:10001568": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:21+00:00",
+  "checked": "2026-10-28T03:44:37+00:00",
   "conf": "high",
   "id": 25837,
   "score": 1.138,
@@ -12574,7 +12740,7 @@
  },
  "PS5:psplus:10001697": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:31+00:00",
+  "checked": "2026-10-28T03:43:50+00:00",
   "conf": "high",
   "id": 141541,
   "score": 1.133,
@@ -12585,7 +12751,7 @@
  },
  "PS5:psplus:10001817": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:20+00:00",
+  "checked": "2026-10-28T03:45:37+00:00",
   "conf": "high",
   "id": 138884,
   "score": 1.131,
@@ -12596,7 +12762,7 @@
  },
  "PS5:psplus:10001850": {
   "candidates": 3,
-  "checked": "2026-10-28T04:20:30+00:00",
+  "checked": "2026-10-28T03:41:52+00:00",
   "conf": "high",
   "id": 112875,
   "score": 1.15,
@@ -12607,7 +12773,7 @@
  },
  "PS5:psplus:10001858": {
   "candidates": 22,
-  "checked": "2026-10-28T04:19:25+00:00",
+  "checked": "2026-10-28T03:40:48+00:00",
   "conf": "high",
   "id": 124954,
   "score": 1.143,
@@ -12618,7 +12784,7 @@
  },
  "PS5:psplus:10001866": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:53+00:00",
+  "checked": "2026-10-28T03:43:13+00:00",
   "conf": "high",
   "id": 152302,
   "score": 1.12,
@@ -12629,7 +12795,7 @@
  },
  "PS5:psplus:10001919": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:44+00:00",
+  "checked": "2026-10-28T03:42:06+00:00",
   "conf": "high",
   "id": 185966,
   "score": 1.12,
@@ -12640,7 +12806,7 @@
  },
  "PS5:psplus:10002038": {
   "candidates": 5,
-  "checked": "2026-10-28T04:20:36+00:00",
+  "checked": "2026-10-28T03:41:59+00:00",
   "conf": "high",
   "id": 101461,
   "score": 1.138,
@@ -12651,7 +12817,7 @@
  },
  "PS5:psplus:10002100": {
   "candidates": 9,
-  "checked": "2026-10-28T04:20:19+00:00",
+  "checked": "2026-10-28T03:41:42+00:00",
   "conf": "high",
   "id": 31551,
   "score": 1.144,
@@ -12662,7 +12828,7 @@
  },
  "PS5:psplus:10002162": {
   "candidates": 13,
-  "checked": "2026-10-28T04:20:00+00:00",
+  "checked": "2026-10-28T03:41:23+00:00",
   "conf": "high",
   "id": 109970,
   "score": 1.091,
@@ -12673,7 +12839,7 @@
  },
  "PS5:psplus:10002220": {
   "candidates": 3,
-  "checked": "2026-10-28T04:21:59+00:00",
+  "checked": "2026-10-28T03:43:19+00:00",
   "conf": "high",
   "id": 148527,
   "score": 1.12,
@@ -12684,7 +12850,7 @@
  },
  "PS5:psplus:10002456": {
   "candidates": 7,
-  "checked": "2026-10-28T04:21:19+00:00",
+  "checked": "2026-10-28T03:42:40+00:00",
   "conf": "high",
   "id": 127044,
   "score": 1.146,
@@ -12695,7 +12861,7 @@
  },
  "PS5:psplus:10002458": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:13+00:00",
+  "checked": "2026-10-28T03:44:29+00:00",
   "conf": "high",
   "id": 103320,
   "score": 1.142,
@@ -12706,7 +12872,7 @@
  },
  "PS5:psplus:10002494": {
   "candidates": 3,
-  "checked": "2026-10-28T04:23:31+00:00",
+  "checked": "2026-10-28T03:44:47+00:00",
   "conf": "high",
   "id": 111090,
   "score": 1.128,
@@ -12717,7 +12883,7 @@
  },
  "PS5:psplus:10002527": {
   "candidates": 15,
-  "checked": "2026-10-28T04:18:26+00:00",
+  "checked": "2026-10-28T03:39:49+00:00",
   "conf": "high",
   "id": 145319,
   "score": 1.134,
@@ -12728,7 +12894,7 @@
  },
  "PS5:psplus:10002535": {
   "candidates": 13,
-  "checked": "2026-10-28T04:22:46+00:00",
+  "checked": "2026-10-28T03:44:04+00:00",
   "conf": "high",
   "id": 3239,
   "score": 1.138,
@@ -12739,7 +12905,7 @@
  },
  "PS5:psplus:10002568": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:01+00:00",
+  "checked": "2026-10-28T03:44:19+00:00",
   "conf": "high",
   "id": 97257,
   "score": 1.135,
@@ -12750,7 +12916,7 @@
  },
  "PS5:psplus:10002570": {
   "candidates": 1,
-  "checked": "2026-10-28T04:19:57+00:00",
+  "checked": "2026-10-28T03:41:20+00:00",
   "conf": "high",
   "id": 116403,
   "score": 1.133,
@@ -12761,7 +12927,7 @@
  },
  "PS5:psplus:10002581": {
   "candidates": 3,
-  "checked": "2026-10-28T04:21:35+00:00",
+  "checked": "2026-10-28T03:42:54+00:00",
   "conf": "high",
   "id": 148289,
   "score": 1.134,
@@ -12772,7 +12938,7 @@
  },
  "PS5:psplus:10002601": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:47+00:00",
+  "checked": "2026-10-28T03:43:06+00:00",
   "conf": "high",
   "id": 121754,
   "score": 1.136,
@@ -12783,7 +12949,7 @@
  },
  "PS5:psplus:10002666": {
   "candidates": 24,
-  "checked": "2026-10-28T04:23:15+00:00",
+  "checked": "2026-10-28T03:44:31+00:00",
   "conf": "high",
   "id": 138906,
   "score": 1.14,
@@ -12794,7 +12960,7 @@
  },
  "PS5:psplus:10002689": {
   "candidates": 4,
-  "checked": "2026-10-28T04:18:43+00:00",
+  "checked": "2026-10-28T03:40:07+00:00",
   "conf": "medium",
   "id": 311747,
   "score": 0.928,
@@ -12805,7 +12971,7 @@
  },
  "PS5:psplus:10002694": {
   "candidates": 3,
-  "checked": "2026-10-28T04:23:17+00:00",
+  "checked": "2026-10-28T03:44:33+00:00",
   "conf": "high",
   "id": 204350,
   "score": 1.149,
@@ -12816,7 +12982,7 @@
  },
  "PS5:psplus:10002771": {
   "candidates": 23,
-  "checked": "2026-10-28T04:21:56+00:00",
+  "checked": "2026-10-28T03:43:16+00:00",
   "conf": "high",
   "id": 114283,
   "score": 1.148,
@@ -12827,7 +12993,7 @@
  },
  "PS5:psplus:10002789": {
   "candidates": 5,
-  "checked": "2026-10-28T04:18:27+00:00",
+  "checked": "2026-10-28T03:39:49+00:00",
   "conf": "high",
   "id": 118607,
   "score": 1.137,
@@ -12838,7 +13004,7 @@
  },
  "PS5:psplus:10002921": {
   "candidates": 10,
-  "checked": "2026-10-28T04:19:08+00:00",
+  "checked": "2026-10-28T03:40:32+00:00",
   "conf": "high",
   "id": 115054,
   "score": 1.097,
@@ -12849,7 +13015,7 @@
  },
  "PS5:psplus:10002934": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:13+00:00",
+  "checked": "2026-10-28T03:41:36+00:00",
   "conf": "high",
   "id": 152259,
   "score": 1.137,
@@ -12860,7 +13026,7 @@
  },
  "PS5:psplus:10003143": {
   "candidates": 23,
-  "checked": "2026-10-28T04:18:21+00:00",
+  "checked": "2026-10-28T03:39:43+00:00",
   "conf": "high",
   "id": 55036,
   "score": 1.142,
@@ -12871,7 +13037,7 @@
  },
  "PS5:psplus:10003231": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:30+00:00",
+  "checked": "2026-10-28T03:43:48+00:00",
   "conf": "high",
   "id": 152065,
   "score": 1.133,
@@ -12882,7 +13048,7 @@
  },
  "PS5:psplus:10003238": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:52+00:00",
+  "checked": "2026-10-28T03:43:12+00:00",
   "conf": "high",
   "id": 226521,
   "score": 1.06,
@@ -12893,7 +13059,7 @@
  },
  "PS5:psplus:10003330": {
   "candidates": 25,
-  "checked": "2026-10-28T04:24:00+00:00",
+  "checked": "2026-10-28T03:45:17+00:00",
   "conf": "high",
   "id": 185252,
   "score": 1.143,
@@ -12904,7 +13070,7 @@
  },
  "PS5:psplus:10003340": {
   "candidates": 5,
-  "checked": "2026-10-28T04:19:32+00:00",
+  "checked": "2026-10-28T03:40:55+00:00",
   "conf": "high",
   "id": 199178,
   "score": 1.125,
@@ -12915,7 +13081,7 @@
  },
  "PS5:psplus:10003386": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:22+00:00",
+  "checked": "2026-10-28T03:43:40+00:00",
   "conf": "high",
   "id": 217594,
   "score": 1.136,
@@ -12926,7 +13092,7 @@
  },
  "PS5:psplus:10003484": {
   "candidates": 8,
-  "checked": "2026-10-28T04:19:56+00:00",
+  "checked": "2026-10-28T03:41:19+00:00",
   "conf": "high",
   "id": 137451,
   "score": 1.133,
@@ -12937,7 +13103,7 @@
  },
  "PS5:psplus:10003699": {
   "candidates": 1,
-  "checked": "2026-10-28T04:23:29+00:00",
+  "checked": "2026-10-28T03:44:46+00:00",
   "conf": "high",
   "id": 199168,
   "score": 1.109,
@@ -12948,7 +13114,7 @@
  },
  "PS5:psplus:10003778": {
   "candidates": 3,
-  "checked": "2026-10-28T04:23:30+00:00",
+  "checked": "2026-10-28T03:44:46+00:00",
   "conf": "high",
   "id": 145028,
   "score": 1.137,
@@ -12959,7 +13125,7 @@
  },
  "PS5:psplus:10003910": {
   "candidates": 8,
-  "checked": "2026-10-28T04:23:05+00:00",
+  "checked": "2026-10-28T03:44:21+00:00",
   "conf": "high",
   "id": 135671,
   "score": 1.132,
@@ -12970,7 +13136,7 @@
  },
  "PS5:psplus:10003932": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:55+00:00",
+  "checked": "2026-10-28T03:43:15+00:00",
   "conf": "high",
   "id": 202417,
   "score": 1.128,
@@ -12981,7 +13147,7 @@
  },
  "PS5:psplus:10004116": {
   "candidates": 7,
-  "checked": "2026-10-28T04:24:09+00:00",
+  "checked": "2026-10-28T03:45:27+00:00",
   "conf": "high",
   "id": 204628,
   "score": 1.138,
@@ -12992,7 +13158,7 @@
  },
  "PS5:psplus:10004172": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:25+00:00",
+  "checked": "2026-10-28T03:44:41+00:00",
   "conf": "high",
   "id": 79864,
   "score": 1.138,
@@ -13003,7 +13169,7 @@
  },
  "PS5:psplus:10004240": {
   "candidates": 15,
-  "checked": "2026-10-28T04:22:33+00:00",
+  "checked": "2026-10-28T03:43:51+00:00",
   "conf": "high",
   "id": 75694,
   "score": 1.133,
@@ -13014,7 +13180,7 @@
  },
  "PS5:psplus:10004267": {
   "candidates": 24,
-  "checked": "2026-10-28T04:21:41+00:00",
+  "checked": "2026-10-28T03:43:00+00:00",
   "conf": "high",
   "id": 119387,
   "score": 1.135,
@@ -13025,7 +13191,7 @@
  },
  "PS5:psplus:10004309": {
   "candidates": 15,
-  "checked": "2026-10-28T04:20:49+00:00",
+  "checked": "2026-10-28T03:42:11+00:00",
   "conf": "high",
   "id": 121731,
   "score": 1.137,
@@ -13036,7 +13202,7 @@
  },
  "PS5:psplus:10004312": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:59+00:00",
+  "checked": "2026-10-28T03:45:16+00:00",
   "conf": "high",
   "id": 141704,
   "score": 1.138,
@@ -13047,10 +13213,13 @@
  },
  "PS5:psplus:10004394": {
   "candidates": 14,
-  "checked": "2026-10-28T04:24:28+00:00",
+  "checked": "2026-10-28T04:58:24+00:00",
   "conf": "high",
-  "id": 203212,
-  "score": 1.12,
+  "id": 3762,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.14,
   "slug": null,
   "title": "Ape Escape",
   "v": 4,
@@ -13058,10 +13227,13 @@
  },
  "PS5:psplus:10004395": {
   "candidates": 14,
-  "checked": "2026-10-28T04:26:17+00:00",
+  "checked": "2026-10-28T05:00:42+00:00",
   "conf": "high",
-  "id": 206307,
-  "score": 1.12,
+  "id": 4115,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.141,
   "slug": null,
   "title": "Syphon Filter",
   "v": 4,
@@ -13069,10 +13241,13 @@
  },
  "PS5:psplus:10004409": {
   "candidates": 11,
-  "checked": "2026-10-28T04:26:39+00:00",
+  "checked": "2026-10-28T05:01:23+00:00",
   "conf": "high",
-  "id": 205593,
-  "score": 1.12,
+  "id": 1677,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.136,
   "slug": null,
   "title": "Wild Arms",
   "v": 4,
@@ -13080,21 +13255,27 @@
  },
  "PS5:psplus:10004410": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:22+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.753,
+  "checked": "2026-10-28T04:59:20+00:00",
+  "conf": "high",
+  "id": 4126,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Kurushi",
   "v": 4,
   "via": "search"
  },
  "PS5:psplus:10004411": {
-  "candidates": 7,
-  "checked": "2026-10-28T04:20:04+00:00",
-  "conf": "high",
+  "candidates": 8,
+  "checked": "2026-10-28T04:58:53+00:00",
+  "conf": "medium",
   "id": 28187,
-  "score": 1.133,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.973,
   "slug": null,
   "title": "Everybody's Golf",
   "v": 4,
@@ -13102,9 +13283,12 @@
  },
  "PS5:psplus:10004412": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:22+00:00",
+  "checked": "2026-10-28T04:59:21+00:00",
   "conf": "high",
-  "id": 272549,
+  "id": 43868,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "Kurushi™ Final: Mental Blocks",
@@ -13113,10 +13297,13 @@
  },
  "PS5:psplus:10004413": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:18+00:00",
+  "checked": "2026-10-28T04:59:17+00:00",
   "conf": "high",
-  "id": 234733,
-  "score": 1.12,
+  "id": 7432,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.132,
   "slug": null,
   "title": "Jumping Flash!",
   "v": 4,
@@ -13124,7 +13311,7 @@
  },
  "PS5:psplus:10004424": {
   "candidates": 10,
-  "checked": "2026-10-28T04:19:23+00:00",
+  "checked": "2026-10-28T03:40:46+00:00",
   "conf": "high",
   "id": 228541,
   "score": 1.132,
@@ -13135,7 +13322,7 @@
  },
  "PS5:psplus:10004425": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:22+00:00",
+  "checked": "2026-10-28T03:41:45+00:00",
   "conf": "high",
   "id": 194436,
   "score": 1.135,
@@ -13146,7 +13333,7 @@
  },
  "PS5:psplus:10004427": {
   "candidates": 6,
-  "checked": "2026-10-28T04:21:33+00:00",
+  "checked": "2026-10-28T03:42:53+00:00",
   "conf": "high",
   "id": 27729,
   "score": 1.138,
@@ -13157,7 +13344,7 @@
  },
  "PS5:psplus:10004448": {
   "candidates": 5,
-  "checked": "2026-10-28T04:24:09+00:00",
+  "checked": "2026-10-28T03:45:26+00:00",
   "conf": "high",
   "id": 152204,
   "score": 1.132,
@@ -13168,7 +13355,7 @@
  },
  "PS5:psplus:10004462": {
   "candidates": 10,
-  "checked": "2026-10-28T04:21:11+00:00",
+  "checked": "2026-10-28T03:42:32+00:00",
   "conf": "high",
   "id": 217623,
   "score": 1.139,
@@ -13179,10 +13366,13 @@
  },
  "PS5:psplus:10004603": {
   "candidates": 3,
-  "checked": "2026-10-28T04:26:18+00:00",
+  "checked": "2026-10-28T05:00:44+00:00",
   "conf": "high",
-  "id": 218372,
-  "score": 1.12,
+  "id": 4116,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.14,
   "slug": null,
   "title": "Syphon Filter 2",
   "v": 4,
@@ -13190,21 +13380,27 @@
  },
  "PS5:psplus:10004604": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:57+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.663,
+  "checked": "2026-10-28T04:58:54+00:00",
+  "conf": "high",
+  "id": 21050,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.123,
   "slug": null,
-  "title": "Everybody's Golf 2 (PS1)",
+  "title": "Everybody's Golf 2",
   "v": 4,
   "via": "search"
  },
  "PS5:psplus:10004605": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:28+00:00",
+  "checked": "2026-10-28T05:01:02+00:00",
   "conf": "high",
-  "id": 239182,
-  "score": 1.12,
+  "id": 3140,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.14,
   "slug": null,
   "title": "The Legend of Dragoon",
   "v": 4,
@@ -13212,10 +13408,13 @@
  },
  "PS5:psplus:10004651": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:21+00:00",
+  "checked": "2026-10-28T05:00:48+00:00",
   "conf": "high",
-  "id": 250106,
-  "score": 1.12,
+  "id": 19430,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.125,
   "slug": null,
   "title": "Syphon Filter: Logan's Shadow",
   "v": 4,
@@ -13223,10 +13422,13 @@
  },
  "PS5:psplus:10004652": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:20+00:00",
+  "checked": "2026-10-28T05:00:47+00:00",
   "conf": "high",
-  "id": 242307,
-  "score": 1.12,
+  "id": 20764,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.131,
   "slug": null,
   "title": "Syphon Filter: Dark Mirror",
   "v": 4,
@@ -13234,10 +13436,13 @@
  },
  "PS5:psplus:10004653": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:56+00:00",
+  "checked": "2026-10-28T05:00:05+00:00",
   "conf": "high",
-  "id": 287835,
-  "score": 1.12,
+  "id": 22885,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Resistance: Retribution",
   "v": 4,
@@ -13245,9 +13450,12 @@
  },
  "PS5:psplus:10004655": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:26+00:00",
+  "checked": "2026-10-28T04:59:24+00:00",
   "conf": "high",
-  "id": 247085,
+  "id": 1462,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "LocoRoco Midnight Carnival",
@@ -13256,10 +13464,13 @@
  },
  "PS5:psplus:10004656": {
   "candidates": 3,
-  "checked": "2026-10-28T04:24:54+00:00",
+  "checked": "2026-10-28T04:58:51+00:00",
   "conf": "high",
-  "id": 263007,
-  "score": 1.12,
+  "id": 18050,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.135,
   "slug": null,
   "title": "echochrome",
   "v": 4,
@@ -13267,7 +13478,7 @@
  },
  "PS5:psplus:10004780": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:17+00:00",
+  "checked": "2026-10-28T03:40:40+00:00",
   "conf": "high",
   "id": 186528,
   "score": 1.133,
@@ -13278,7 +13489,7 @@
  },
  "PS5:psplus:10004805": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:57+00:00",
+  "checked": "2026-10-28T03:40:21+00:00",
   "conf": "high",
   "id": 152124,
   "score": 1.139,
@@ -13288,21 +13499,27 @@
   "via": "search"
  },
  "PS5:psplus:10004810": {
-  "candidates": 4,
-  "checked": "2026-10-28T04:24:27+00:00",
-  "conf": "medium",
-  "id": 242358,
-  "score": 0.997,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-28T04:58:17+00:00",
+  "conf": "manual",
+  "id": 1957,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "alone-in-the-dark-2",
   "title": "Ape Academy",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10004813": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:16+00:00",
+  "checked": "2026-10-28T05:00:41+00:00",
   "conf": "high",
-  "id": 234021,
+  "id": 20600,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "Super Stardust Portable",
@@ -13311,7 +13528,7 @@
  },
  "PS5:psplus:10004865": {
   "candidates": 18,
-  "checked": "2026-10-28T04:18:36+00:00",
+  "checked": "2026-10-28T03:39:58+00:00",
   "conf": "high",
   "id": 215060,
   "score": 1.143,
@@ -13322,10 +13539,13 @@
  },
  "PS5:psplus:10004898": {
   "candidates": 23,
-  "checked": "2026-10-28T04:26:46+00:00",
+  "checked": "2026-10-28T05:01:33+00:00",
   "conf": "high",
-  "id": 409023,
-  "score": 1.04,
+  "id": 9331,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.063,
   "slug": null,
   "title": "Worms [PS1 Emulation]",
   "v": 4,
@@ -13333,10 +13553,13 @@
  },
  "PS5:psplus:10004899": {
   "candidates": 7,
-  "checked": "2026-10-28T04:26:43+00:00",
+  "checked": "2026-10-28T05:01:29+00:00",
   "conf": "high",
-  "id": 409027,
-  "score": 1.04,
+  "id": 948,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.066,
   "slug": null,
   "title": "Worms Armageddon [PS1 Emulation]",
   "v": 4,
@@ -13344,10 +13567,13 @@
  },
  "PS5:psplus:10004900": {
   "candidates": 3,
-  "checked": "2026-10-28T04:26:45+00:00",
+  "checked": "2026-10-28T05:01:32+00:00",
   "conf": "high",
-  "id": 350836,
-  "score": 1.04,
+  "id": 6294,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.062,
   "slug": null,
   "title": "Worms World Party [PS1 Emulation]",
   "v": 4,
@@ -13355,10 +13581,13 @@
  },
  "PS5:psplus:10004910": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:09+00:00",
+  "checked": "2026-10-28T05:00:28+00:00",
   "conf": "high",
-  "id": 329227,
-  "score": 1.12,
+  "id": 158,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.14,
   "slug": null,
   "title": "STAR WARS Episode I - The Phantom Menace",
   "v": 4,
@@ -13366,7 +13595,7 @@
  },
  "PS5:psplus:10004911": {
   "candidates": 25,
-  "checked": "2026-10-28T04:21:34+00:00",
+  "checked": "2026-10-28T03:42:54+00:00",
   "conf": "high",
   "id": 239392,
   "score": 1.14,
@@ -13377,7 +13606,7 @@
  },
  "PS5:psplus:10004920": {
   "candidates": 5,
-  "checked": "2026-10-28T04:20:16+00:00",
+  "checked": "2026-10-28T03:41:38+00:00",
   "conf": "high",
   "id": 229919,
   "score": 1.132,
@@ -13388,10 +13617,13 @@
  },
  "PS5:psplus:10004921": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:08+00:00",
+  "checked": "2026-10-28T05:00:27+00:00",
   "conf": "high",
-  "id": 231776,
-  "score": 1.12,
+  "id": 143,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.131,
   "slug": null,
   "title": "STAR WARS Demolition",
   "v": 4,
@@ -13399,10 +13631,13 @@
  },
  "PS5:psplus:10004922": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:10+00:00",
+  "checked": "2026-10-28T05:00:29+00:00",
   "conf": "high",
-  "id": 300715,
-  "score": 1.12,
+  "id": 162,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.135,
   "slug": null,
   "title": "STAR WARS Rebel Assault II - The Hidden Empire",
   "v": 4,
@@ -13410,7 +13645,7 @@
  },
  "PS5:psplus:10004982": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:16+00:00",
+  "checked": "2026-10-28T03:45:33+00:00",
   "conf": null,
   "id": null,
   "score": 0.892,
@@ -13421,9 +13656,12 @@
  },
  "PS5:psplus:10005028": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:19+00:00",
+  "checked": "2026-10-28T04:59:18+00:00",
   "conf": null,
   "id": null,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 0.623,
   "slug": null,
   "title": "Key of Heaven",
@@ -13432,9 +13670,12 @@
  },
  "PS5:psplus:10005031": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:55+00:00",
+  "checked": "2026-10-28T04:58:51+00:00",
   "conf": "high",
-  "id": 251227,
+  "id": 22976,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "echoshift",
@@ -13443,10 +13684,13 @@
  },
  "PS5:psplus:10005032": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:29+00:00",
+  "checked": "2026-10-28T04:59:31+00:00",
   "conf": "high",
-  "id": 288665,
-  "score": 1.12,
+  "id": 4005,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.134,
   "slug": null,
   "title": "MediEvil Resurrection™",
   "v": 4,
@@ -13454,9 +13698,12 @@
  },
  "PS5:psplus:10005034": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:37+00:00",
+  "checked": "2026-10-28T04:59:42+00:00",
   "conf": "high",
-  "id": 234732,
+  "id": 67381,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "No Heroes Allowed!",
@@ -13465,9 +13712,12 @@
  },
  "PS5:psplus:10005043": {
   "candidates": 22,
-  "checked": "2026-10-28T04:25:46+00:00",
+  "checked": "2026-10-28T04:59:53+00:00",
   "conf": "high",
-  "id": 229161,
+  "id": 42817,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "Pinball Heroes",
@@ -13476,7 +13726,7 @@
  },
  "PS5:psplus:10005051": {
   "candidates": 7,
-  "checked": "2026-10-28T04:20:38+00:00",
+  "checked": "2026-10-28T03:42:00+00:00",
   "conf": "high",
   "id": 196954,
   "score": 1.136,
@@ -13487,10 +13737,13 @@
  },
  "PS5:psplus:10005097": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:57+00:00",
+  "checked": "2026-10-28T05:00:06+00:00",
   "conf": "high",
-  "id": 234285,
-  "score": 1.12,
+  "id": 23127,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Ridge Racer 2 PS4 & PS5",
   "v": 4,
@@ -13498,10 +13751,13 @@
  },
  "PS5:psplus:10005099": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:51+00:00",
+  "checked": "2026-10-28T04:59:59+00:00",
   "conf": "high",
-  "id": 242360,
-  "score": 1.12,
+  "id": 18699,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.137,
   "slug": null,
   "title": "R4 RIDGE RACER TYPE 4® PS4 & PS5",
   "v": 4,
@@ -13509,10 +13765,13 @@
  },
  "PS5:psplus:10005100": {
   "candidates": 19,
-  "checked": "2026-10-28T04:26:24+00:00",
+  "checked": "2026-10-28T05:00:54+00:00",
   "conf": "high",
-  "id": 215952,
-  "score": 1.12,
+  "id": 305775,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.136,
   "slug": null,
   "title": "TEKKEN2 PS4 & PS5",
   "v": 4,
@@ -13520,10 +13779,13 @@
  },
  "PS5:psplus:10005101": {
   "candidates": 8,
-  "checked": "2026-10-28T04:26:22+00:00",
+  "checked": "2026-10-28T05:00:51+00:00",
   "conf": "high",
-  "id": 272551,
-  "score": 1.12,
+  "id": 195868,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.134,
   "slug": null,
   "title": "Tekken 6 PS4™ & PS5®",
   "v": 4,
@@ -13531,10 +13793,13 @@
  },
  "PS5:psplus:10005103": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:03+00:00",
+  "checked": "2026-10-28T04:59:01+00:00",
   "conf": "high",
-  "id": 292896,
-  "score": 1.12,
+  "id": 11852,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.131,
   "slug": null,
   "title": "GODS EATER BURST PS4™ & PS5®",
   "v": 4,
@@ -13542,10 +13807,13 @@
  },
  "PS5:psplus:10005104": {
   "candidates": 13,
-  "checked": "2026-10-28T04:25:35+00:00",
+  "checked": "2026-10-28T04:59:41+00:00",
   "conf": "high",
-  "id": 370220,
-  "score": 1.12,
+  "id": 21840,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Mr. Driller PS4 & PS5",
   "v": 4,
@@ -13553,10 +13821,13 @@
  },
  "PS5:psplus:10005142": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:56+00:00",
+  "checked": "2026-10-28T05:00:04+00:00",
   "conf": "high",
-  "id": 317968,
-  "score": 1.12,
+  "id": 23377,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.138,
   "slug": null,
   "title": "Resident Evil Director’s Cut",
   "v": 4,
@@ -13564,10 +13835,13 @@
  },
  "PS5:psplus:10005150": {
   "candidates": 24,
-  "checked": "2026-10-28T04:25:54+00:00",
+  "checked": "2026-10-28T05:00:02+00:00",
   "conf": "high",
-  "id": 19686,
-  "score": 1.15,
+  "id": 880,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.148,
   "slug": null,
   "title": "Resident Evil 2",
   "v": 4,
@@ -13575,10 +13849,13 @@
  },
  "PS5:psplus:10005151": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:55+00:00",
+  "checked": "2026-10-28T05:00:03+00:00",
   "conf": "high",
-  "id": 347129,
-  "score": 1.12,
+  "id": 966,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.147,
   "slug": null,
   "title": "Resident Evil 3 Nemesis",
   "v": 4,
@@ -13586,10 +13863,13 @@
  },
  "PS5:psplus:10005160": {
   "candidates": 13,
-  "checked": "2026-10-28T04:24:45+00:00",
+  "checked": "2026-10-28T04:58:39+00:00",
   "conf": "high",
-  "id": 317628,
-  "score": 1.12,
+  "id": 3027,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.142,
   "slug": null,
   "title": "Dino Crisis",
   "v": 4,
@@ -13597,7 +13877,7 @@
  },
  "PS5:psplus:10005163": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:53+00:00",
+  "checked": "2026-10-28T03:44:11+00:00",
   "conf": "high",
   "id": 252837,
   "score": 1.141,
@@ -13608,10 +13888,13 @@
  },
  "PS5:psplus:10005197": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:39+00:00",
+  "checked": "2026-10-28T04:59:44+00:00",
   "conf": "high",
-  "id": 351909,
-  "score": 1.04,
+  "id": 999,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.064,
   "slug": null,
   "title": "Oddworld: Abe's Oddysee (PS1 Emulation)",
   "v": 4,
@@ -13619,10 +13902,13 @@
  },
  "PS5:psplus:10005198": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:38+00:00",
+  "checked": "2026-10-28T04:59:43+00:00",
   "conf": "high",
-  "id": 306055,
-  "score": 1.04,
+  "id": 1000,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.061,
   "slug": null,
   "title": "Oddworld: Abe's Exoddus (PS1 Emulation)",
   "v": 4,
@@ -13630,10 +13916,13 @@
  },
  "PS5:psplus:10005231": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:06+00:00",
+  "checked": "2026-10-28T04:59:06+00:00",
   "conf": "high",
-  "id": 239201,
-  "score": 1.12,
+  "id": 3380,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.137,
   "slug": null,
   "title": "Harvest Moon: Back to Nature",
   "v": 4,
@@ -13641,7 +13930,7 @@
  },
  "PS5:psplus:10005244": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:51+00:00",
+  "checked": "2026-10-28T03:45:08+00:00",
   "conf": "high",
   "id": 214402,
   "score": 1.133,
@@ -13652,7 +13941,7 @@
  },
  "PS5:psplus:10005323": {
   "candidates": 13,
-  "checked": "2026-10-28T04:22:49+00:00",
+  "checked": "2026-10-28T03:44:07+00:00",
   "conf": "high",
   "id": 252827,
   "score": 1.14,
@@ -13663,7 +13952,7 @@
  },
  "PS5:psplus:10005432": {
   "candidates": 6,
-  "checked": "2026-10-28T04:18:41+00:00",
+  "checked": "2026-10-28T03:40:05+00:00",
   "conf": "high",
   "id": 217558,
   "score": 1.131,
@@ -13674,10 +13963,13 @@
  },
  "PS5:psplus:10005512": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:49+00:00",
+  "checked": "2026-10-28T04:59:56+00:00",
   "conf": "high",
-  "id": 299391,
-  "score": 1.12,
+  "id": 23055,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.126,
   "slug": null,
   "title": "Pursuit Force: Extreme Justice",
   "v": 4,
@@ -13685,10 +13977,13 @@
  },
  "PS5:psplus:10005513": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:40+00:00",
+  "checked": "2026-10-28T05:01:25+00:00",
   "conf": "high",
-  "id": 239198,
-  "score": 1.12,
+  "id": 1678,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Wild Arms 2",
   "v": 4,
@@ -13696,7 +13991,7 @@
  },
  "PS5:psplus:10005670": {
   "candidates": 7,
-  "checked": "2026-10-28T04:21:54+00:00",
+  "checked": "2026-10-28T03:43:14+00:00",
   "conf": "high",
   "id": 252175,
   "score": 1.128,
@@ -13707,7 +14002,7 @@
  },
  "PS5:psplus:10005693": {
   "candidates": 10,
-  "checked": "2026-10-28T04:19:45+00:00",
+  "checked": "2026-10-28T03:41:08+00:00",
   "conf": "high",
   "id": 164867,
   "score": 1.144,
@@ -13718,7 +14013,7 @@
  },
  "PS5:psplus:10005843": {
   "candidates": 3,
-  "checked": "2026-10-28T04:18:16+00:00",
+  "checked": "2026-10-28T03:39:39+00:00",
   "conf": "high",
   "id": 110039,
   "score": 1.136,
@@ -13729,7 +14024,7 @@
  },
  "PS5:psplus:10005847": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:56+00:00",
+  "checked": "2026-10-28T03:42:18+00:00",
   "conf": "high",
   "id": 124257,
   "score": 1.136,
@@ -13740,7 +14035,7 @@
  },
  "PS5:psplus:10005940": {
   "candidates": 8,
-  "checked": "2026-10-28T04:20:45+00:00",
+  "checked": "2026-10-28T03:42:07+00:00",
   "conf": "high",
   "id": 1384,
   "score": 1.15,
@@ -13751,10 +14046,13 @@
  },
  "PS5:psplus:10005946": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:19+00:00",
+  "checked": "2026-10-28T05:00:45+00:00",
   "conf": "high",
-  "id": 231777,
-  "score": 1.12,
+  "id": 4117,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.137,
   "slug": null,
   "title": "Syphon Filter 3",
   "v": 4,
@@ -13762,10 +14060,13 @@
  },
  "PS5:psplus:10005947": {
   "candidates": 13,
-  "checked": "2026-10-28T04:24:43+00:00",
+  "checked": "2026-10-28T04:58:38+00:00",
   "conf": "high",
-  "id": 305477,
-  "score": 1.12,
+  "id": 1533,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.139,
   "slug": null,
   "title": "Daxter",
   "v": 4,
@@ -13773,7 +14074,7 @@
  },
  "PS5:psplus:10005985": {
   "candidates": 10,
-  "checked": "2026-10-28T04:22:07+00:00",
+  "checked": "2026-10-28T03:43:26+00:00",
   "conf": "high",
   "id": 252476,
   "score": 1.141,
@@ -13784,7 +14085,7 @@
  },
  "PS5:psplus:10006027": {
   "candidates": 5,
-  "checked": "2026-10-28T04:21:50+00:00",
+  "checked": "2026-10-28T03:43:09+00:00",
   "conf": "high",
   "id": 264500,
   "score": 1.123,
@@ -13795,7 +14096,7 @@
  },
  "PS5:psplus:10006070": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:56+00:00",
+  "checked": "2026-10-28T03:40:20+00:00",
   "conf": "high",
   "id": 257332,
   "score": 1.131,
@@ -13806,7 +14107,7 @@
  },
  "PS5:psplus:10006098": {
   "candidates": 4,
-  "checked": "2026-10-28T04:18:47+00:00",
+  "checked": "2026-10-28T03:40:11+00:00",
   "conf": "high",
   "id": 228539,
   "score": 1.139,
@@ -13817,7 +14118,7 @@
  },
  "PS5:psplus:10006133": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:20+00:00",
+  "checked": "2026-10-28T03:43:38+00:00",
   "conf": "high",
   "id": 195517,
   "score": 1.14,
@@ -13828,7 +14129,7 @@
  },
  "PS5:psplus:10006210": {
   "candidates": 13,
-  "checked": "2026-10-28T04:20:59+00:00",
+  "checked": "2026-10-28T03:42:21+00:00",
   "conf": "high",
   "id": 298526,
   "score": 1.144,
@@ -13839,10 +14140,13 @@
  },
  "PS5:psplus:10006276": {
   "candidates": 6,
-  "checked": "2026-10-28T04:25:48+00:00",
+  "checked": "2026-10-28T04:59:55+00:00",
   "conf": "high",
-  "id": 250107,
-  "score": 1.12,
+  "id": 26995,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Pursuit Force",
   "v": 4,
@@ -13850,7 +14154,7 @@
  },
  "PS5:psplus:10006288": {
   "candidates": 8,
-  "checked": "2026-10-28T04:21:51+00:00",
+  "checked": "2026-10-28T03:43:11+00:00",
   "conf": "high",
   "id": 217592,
   "score": 1.139,
@@ -13861,7 +14165,7 @@
  },
  "PS5:psplus:10006478": {
   "candidates": 2,
-  "checked": "2026-10-28T04:18:47+00:00",
+  "checked": "2026-10-28T03:40:10+00:00",
   "conf": "high",
   "id": 143882,
   "score": 1.129,
@@ -13870,23 +14174,43 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:10006481": {
+  "candidates": null,
+  "checked": "2026-10-28T04:58:18+00:00",
+  "conf": "manual",
+  "id": 46030,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "ape-escape-pumped-and-primed--1",
+  "title": "Ape Escape P",
+  "v": 4,
+  "via": "fix"
+ },
  "PS5:psplus:10006482": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:24:28+00:00",
-  "conf": "high",
-  "id": 242358,
-  "score": 1.12,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-28T04:58:17+00:00",
+  "conf": "manual",
+  "id": 1957,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "alone-in-the-dark-2",
   "title": "Ape Academy 2",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10006483": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:38+00:00",
+  "checked": "2026-10-28T04:58:32+00:00",
   "conf": "high",
-  "id": 269079,
-  "score": 1.12,
+  "id": 23115,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.125,
   "slug": null,
   "title": "Blade Dancer: Lineage of Light",
   "v": 4,
@@ -13894,10 +14218,13 @@
  },
  "PS5:psplus:10006484": {
   "candidates": 3,
-  "checked": "2026-10-28T04:25:20+00:00",
+  "checked": "2026-10-28T04:59:19+00:00",
   "conf": "high",
-  "id": 408989,
-  "score": 1.12,
+  "id": 1868,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.135,
   "slug": null,
   "title": "Killzone: Liberation",
   "v": 4,
@@ -13905,7 +14232,7 @@
  },
  "PS5:psplus:10006487": {
   "candidates": 5,
-  "checked": "2026-10-28T04:22:54+00:00",
+  "checked": "2026-10-28T03:44:11+00:00",
   "conf": "high",
   "id": 217553,
   "score": 1.125,
@@ -13916,7 +14243,7 @@
  },
  "PS5:psplus:10006547": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:46+00:00",
+  "checked": "2026-10-28T03:42:08+00:00",
   "conf": "high",
   "id": 2126,
   "score": 1.147,
@@ -13927,7 +14254,7 @@
  },
  "PS5:psplus:10007126": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:26+00:00",
+  "checked": "2026-10-28T03:44:42+00:00",
   "conf": "high",
   "id": 239942,
   "score": 1.136,
@@ -13938,7 +14265,7 @@
  },
  "PS5:psplus:10007134": {
   "candidates": 7,
-  "checked": "2026-10-28T04:21:13+00:00",
+  "checked": "2026-10-28T03:42:34+00:00",
   "conf": "high",
   "id": 314276,
   "score": 1.141,
@@ -13949,7 +14276,7 @@
  },
  "PS5:psplus:10007196": {
   "candidates": 2,
-  "checked": "2026-10-28T04:19:46+00:00",
+  "checked": "2026-10-28T03:41:09+00:00",
   "conf": "high",
   "id": 146917,
   "score": 1.134,
@@ -13960,9 +14287,12 @@
  },
  "PS5:psplus:10007237": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:05+00:00",
+  "checked": "2026-10-28T04:59:03+00:00",
   "conf": "high",
-  "id": 257323,
+  "id": 42845,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "Gravity Crash Portable",
@@ -13971,7 +14301,7 @@
  },
  "PS5:psplus:10007264": {
   "candidates": 9,
-  "checked": "2026-10-28T04:18:53+00:00",
+  "checked": "2026-10-28T03:40:17+00:00",
   "conf": "high",
   "id": 165390,
   "score": 1.14,
@@ -13982,7 +14312,7 @@
  },
  "PS5:psplus:10007275": {
   "candidates": 8,
-  "checked": "2026-10-28T04:19:14+00:00",
+  "checked": "2026-10-28T03:40:37+00:00",
   "conf": "high",
   "id": 152271,
   "score": 1.139,
@@ -13993,10 +14323,13 @@
  },
  "PS5:psplus:10007464": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:15+00:00",
+  "checked": "2026-10-28T04:59:14+00:00",
   "conf": "high",
-  "id": 308038,
-  "score": 1.12,
+  "id": 11326,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.134,
   "slug": null,
   "title": "Jeanne d'Arc",
   "v": 4,
@@ -14004,7 +14337,7 @@
  },
  "PS5:psplus:10007566": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:01+00:00",
+  "checked": "2026-10-28T03:43:21+00:00",
   "conf": "high",
   "id": 151353,
   "score": 1.137,
@@ -14015,10 +14348,13 @@
  },
  "PS5:psplus:10007589": {
   "candidates": 6,
-  "checked": "2026-10-28T04:25:24+00:00",
+  "checked": "2026-10-28T04:59:23+00:00",
   "conf": "high",
-  "id": 335050,
-  "score": 1.12,
+  "id": 248529,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.134,
   "slug": null,
   "title": "LEGO Star Wars II: The Original Trilogy",
   "v": 4,
@@ -14026,10 +14362,13 @@
  },
  "PS5:psplus:10007598": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:02+00:00",
+  "checked": "2026-10-28T05:00:16+00:00",
   "conf": "high",
-  "id": 317376,
-  "score": 1.12,
+  "id": 1793,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.136,
   "slug": null,
   "title": "Secret Agent Clank",
   "v": 4,
@@ -14037,10 +14376,13 @@
  },
  "PS5:psplus:10007599": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:44+00:00",
+  "checked": "2026-10-28T04:59:51+00:00",
   "conf": "high",
-  "id": 331211,
-  "score": 1.12,
+  "id": 18373,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Patapon 3",
   "v": 4,
@@ -14048,10 +14390,13 @@
  },
  "PS5:psplus:10007600": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:12+00:00",
+  "checked": "2026-10-28T04:59:11+00:00",
   "conf": "high",
-  "id": 292895,
-  "score": 1.12,
+  "id": 1531,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.135,
   "slug": null,
   "title": "Jak and Daxter: The Lost Frontier",
   "v": 4,
@@ -14059,7 +14404,7 @@
  },
  "PS5:psplus:10007617": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:43+00:00",
+  "checked": "2026-10-28T03:44:01+00:00",
   "conf": "high",
   "id": 41025,
   "score": 1.139,
@@ -14070,10 +14415,13 @@
  },
  "PS5:psplus:10007618": {
   "candidates": 5,
-  "checked": "2026-10-28T04:26:30+00:00",
+  "checked": "2026-10-28T05:01:08+00:00",
   "conf": "high",
-  "id": 281901,
-  "score": 1.12,
+  "id": 2852,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.132,
   "slug": null,
   "title": "Thrillville",
   "v": 4,
@@ -14081,10 +14429,13 @@
  },
  "PS5:psplus:10007620": {
   "candidates": 3,
-  "checked": "2026-10-28T04:26:31+00:00",
+  "checked": "2026-10-28T05:01:08+00:00",
   "conf": "high",
-  "id": 281902,
-  "score": 1.12,
+  "id": 209,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Thrillville: Off the Rails",
   "v": 4,
@@ -14092,10 +14443,13 @@
  },
  "PS5:psplus:10007635": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:10+00:00",
+  "checked": "2026-10-28T04:59:09+00:00",
   "conf": "high",
-  "id": 329026,
-  "score": 1.12,
+  "id": 4932,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.134,
   "slug": null,
   "title": "Indiana Jones and the Staff of Kings",
   "v": 4,
@@ -14103,10 +14457,13 @@
  },
  "PS5:psplus:10007636": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:08+00:00",
+  "checked": "2026-10-28T04:59:07+00:00",
   "conf": "high",
-  "id": 318269,
-  "score": 1.12,
+  "id": 45506,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Herc's Adventures",
   "v": 4,
@@ -14114,10 +14471,13 @@
  },
  "PS5:psplus:10007642": {
   "candidates": 6,
-  "checked": "2026-10-28T04:24:47+00:00",
+  "checked": "2026-10-28T04:58:42+00:00",
   "conf": "high",
-  "id": 413288,
-  "score": 1.12,
+  "id": 9056,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "Disney's Atlantis: The Lost Empire",
   "v": 4,
@@ -14125,32 +14485,41 @@
  },
  "PS5:psplus:10007644": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:53+00:00",
+  "checked": "2026-10-28T05:00:01+00:00",
   "conf": "high",
-  "id": 308039,
-  "score": 1.12,
+  "id": 1791,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.14,
   "slug": null,
   "title": "Ratchet & Clank: Size Matters",
   "v": 4,
   "via": "search"
  },
  "PS5:psplus:10007645": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:26:47+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-10-28T04:58:18+00:00",
+  "conf": "manual",
   "id": 305796,
-  "score": 1.12,
-  "slug": null,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "2xtreme--2",
   "title": "2Xtreme",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10007648": {
   "candidates": 6,
-  "checked": "2026-10-28T04:25:52+00:00",
+  "checked": "2026-10-28T05:00:00+00:00",
   "conf": "high",
-  "id": 283024,
-  "score": 1.12,
+  "id": 8647,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Rally Cross",
   "v": 4,
@@ -14158,7 +14527,7 @@
  },
  "PS5:psplus:10007722": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:05+00:00",
+  "checked": "2026-10-28T03:42:26+00:00",
   "conf": "high",
   "id": 305003,
   "score": 1.135,
@@ -14169,7 +14538,7 @@
  },
  "PS5:psplus:10007859": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:06+00:00",
+  "checked": "2026-10-28T03:40:30+00:00",
   "conf": "high",
   "id": 250622,
   "score": 1.133,
@@ -14180,7 +14549,7 @@
  },
  "PS5:psplus:10007897": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:53+00:00",
+  "checked": "2026-10-28T03:45:10+00:00",
   "conf": "high",
   "id": 284721,
   "score": 1.139,
@@ -14191,7 +14560,7 @@
  },
  "PS5:psplus:10007911": {
   "candidates": 25,
-  "checked": "2026-10-28T04:20:32+00:00",
+  "checked": "2026-10-28T03:41:54+00:00",
   "conf": "high",
   "id": 232699,
   "score": 1.092,
@@ -14202,7 +14571,7 @@
  },
  "PS5:psplus:10007965": {
   "candidates": 19,
-  "checked": "2026-10-28T04:23:56+00:00",
+  "checked": "2026-10-28T03:45:13+00:00",
   "conf": "high",
   "id": 148228,
   "score": 1.14,
@@ -14213,7 +14582,7 @@
  },
  "PS5:psplus:10007988": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:06+00:00",
+  "checked": "2026-10-28T03:44:23+00:00",
   "conf": "high",
   "id": 262538,
   "score": 1.139,
@@ -14224,10 +14593,13 @@
  },
  "PS5:psplus:10008137": {
   "candidates": 3,
-  "checked": "2026-10-28T04:24:59+00:00",
+  "checked": "2026-10-28T04:58:56+00:00",
   "conf": "high",
-  "id": 301722,
-  "score": 1.12,
+  "id": 8305,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.132,
   "slug": null,
   "title": "G-Police",
   "v": 4,
@@ -14235,10 +14607,13 @@
  },
  "PS5:psplus:10008138": {
   "candidates": 10,
-  "checked": "2026-10-28T04:21:21+00:00",
+  "checked": "2026-10-28T04:59:30+00:00",
   "conf": "high",
-  "id": 76960,
-  "score": 1.139,
+  "id": 4000,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.142,
   "slug": null,
   "title": "MediEvil",
   "v": 4,
@@ -14246,7 +14621,7 @@
  },
  "PS5:psplus:10008183": {
   "candidates": 3,
-  "checked": "2026-10-28T04:21:10+00:00",
+  "checked": "2026-10-28T03:42:31+00:00",
   "conf": "high",
   "id": 305158,
   "score": 1.138,
@@ -14257,10 +14632,13 @@
  },
  "PS5:psplus:10008233": {
   "candidates": 11,
-  "checked": "2026-10-28T04:25:04+00:00",
+  "checked": "2026-10-28T04:59:02+00:00",
   "conf": "high",
-  "id": 361321,
-  "score": 1.12,
+  "id": 4127,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.137,
   "slug": null,
   "title": "Grandia",
   "v": 4,
@@ -14268,7 +14646,7 @@
  },
  "PS5:psplus:10008245": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:07+00:00",
+  "checked": "2026-10-28T03:44:24+00:00",
   "conf": "high",
   "id": 279635,
   "score": 1.137,
@@ -14279,7 +14657,7 @@
  },
  "PS5:psplus:10008248": {
   "candidates": 12,
-  "checked": "2026-10-28T04:21:30+00:00",
+  "checked": "2026-10-28T03:42:50+00:00",
   "conf": "high",
   "id": 289698,
   "score": 1.126,
@@ -14290,7 +14668,7 @@
  },
  "PS5:psplus:10008264": {
   "candidates": 1,
-  "checked": "2026-10-28T04:19:22+00:00",
+  "checked": "2026-10-28T03:40:45+00:00",
   "conf": "high",
   "id": 243749,
   "score": 1.12,
@@ -14301,7 +14679,7 @@
  },
  "PS5:psplus:10008291": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:23+00:00",
+  "checked": "2026-10-28T03:42:44+00:00",
   "conf": "high",
   "id": 331214,
   "score": 1.133,
@@ -14312,7 +14690,7 @@
  },
  "PS5:psplus:10008296": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:53+00:00",
+  "checked": "2026-10-28T03:42:14+00:00",
   "conf": "high",
   "id": 166824,
   "score": 1.14,
@@ -14323,10 +14701,13 @@
  },
  "PS5:psplus:10008316": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:44+00:00",
+  "checked": "2026-10-28T05:01:31+00:00",
   "conf": "high",
-  "id": 409028,
-  "score": 1.04,
+  "id": 9335,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.051,
   "slug": null,
   "title": "Worms Pinball [PS1 Emulation]",
   "v": 4,
@@ -14334,7 +14715,7 @@
  },
  "PS5:psplus:10008324": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:25+00:00",
+  "checked": "2026-10-28T03:43:43+00:00",
   "conf": "high",
   "id": 241246,
   "score": 1.12,
@@ -14345,10 +14726,13 @@
  },
  "PS5:psplus:10008366": {
   "candidates": 15,
-  "checked": "2026-10-28T04:26:35+00:00",
+  "checked": "2026-10-28T05:01:14+00:00",
   "conf": "high",
-  "id": 256773,
-  "score": 1.12,
+  "id": 4695,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.139,
   "slug": null,
   "title": "Twisted Metal",
   "v": 4,
@@ -14356,10 +14740,13 @@
  },
  "PS5:psplus:10008368": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:35+00:00",
+  "checked": "2026-10-28T05:01:16+00:00",
   "conf": "high",
-  "id": 256777,
-  "score": 1.04,
+  "id": 4696,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.06,
   "slug": null,
   "title": "Twisted Metal World Tour",
   "v": 4,
@@ -14367,7 +14754,7 @@
  },
  "PS5:psplus:10008409": {
   "candidates": 11,
-  "checked": "2026-10-28T04:20:20+00:00",
+  "checked": "2026-10-28T03:41:42+00:00",
   "conf": "high",
   "id": 335254,
   "score": 1.12,
@@ -14378,10 +14765,13 @@
  },
  "PS5:psplus:10008415": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:16+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.752,
+  "checked": "2026-10-28T04:59:15+00:00",
+  "conf": "high",
+  "id": 20717,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.132,
   "slug": null,
   "title": "Jet Rider",
   "v": 4,
@@ -14389,7 +14779,7 @@
  },
  "PS5:psplus:10008445": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:19+00:00",
+  "checked": "2026-10-28T03:44:36+00:00",
   "conf": "high",
   "id": 204460,
   "score": 1.136,
@@ -14400,7 +14790,7 @@
  },
  "PS5:psplus:10008521": {
   "candidates": 4,
-  "checked": "2026-10-28T04:21:38+00:00",
+  "checked": "2026-10-28T03:42:57+00:00",
   "conf": "high",
   "id": 250621,
   "score": 1.138,
@@ -14411,7 +14801,7 @@
  },
  "PS5:psplus:10008577": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:28+00:00",
+  "checked": "2026-10-28T03:43:46+00:00",
   "conf": "high",
   "id": 289593,
   "score": 1.12,
@@ -14422,7 +14812,7 @@
  },
  "PS5:psplus:10008585": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:39+00:00",
+  "checked": "2026-10-28T03:42:58+00:00",
   "conf": null,
   "id": null,
   "score": 0.5,
@@ -14433,29 +14823,35 @@
  },
  "PS5:psplus:10008667": {
   "candidates": 25,
-  "checked": "2026-10-28T04:25:36+00:00",
+  "checked": "2026-10-28T04:59:41+00:00",
   "conf": "high",
-  "id": 141568,
-  "score": 1.056,
+  "id": 236,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.143,
   "slug": null,
-  "title": "Myst (PS1)",
+  "title": "Myst",
   "v": 4,
   "via": "search"
  },
  "PS5:psplus:10008668": {
   "candidates": 15,
-  "checked": "2026-10-28T04:26:00+00:00",
+  "checked": "2026-10-28T05:00:09+00:00",
   "conf": "high",
-  "id": 223112,
-  "score": 1.054,
+  "id": 238,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.14,
   "slug": null,
-  "title": "Riven (PS1)",
+  "title": "Riven",
   "v": 4,
   "via": "search"
  },
  "PS5:psplus:10008698": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:21+00:00",
+  "checked": "2026-10-28T03:40:45+00:00",
   "conf": "high",
   "id": 143061,
   "score": 1.135,
@@ -14466,7 +14862,7 @@
  },
  "PS5:psplus:10008716": {
   "candidates": 7,
-  "checked": "2026-10-28T04:22:41+00:00",
+  "checked": "2026-10-28T03:44:00+00:00",
   "conf": "high",
   "id": 314238,
   "score": 1.135,
@@ -14477,7 +14873,7 @@
  },
  "PS5:psplus:10008755": {
   "candidates": 6,
-  "checked": "2026-10-28T04:22:43+00:00",
+  "checked": "2026-10-28T03:44:02+00:00",
   "conf": "high",
   "id": 284716,
   "score": 1.056,
@@ -14488,7 +14884,7 @@
  },
  "PS5:psplus:10008760": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:59+00:00",
+  "checked": "2026-10-28T03:40:23+00:00",
   "conf": "high",
   "id": 262651,
   "score": 1.133,
@@ -14499,7 +14895,7 @@
  },
  "PS5:psplus:10008790": {
   "candidates": 14,
-  "checked": "2026-10-28T04:20:05+00:00",
+  "checked": "2026-10-28T03:41:28+00:00",
   "conf": "high",
   "id": 262534,
   "score": 1.132,
@@ -14510,7 +14906,7 @@
  },
  "PS5:psplus:10008826": {
   "candidates": 2,
-  "checked": "2026-10-28T04:20:01+00:00",
+  "checked": "2026-10-28T03:41:24+00:00",
   "conf": "high",
   "id": 218521,
   "score": 1.093,
@@ -14521,7 +14917,7 @@
  },
  "PS5:psplus:10008922": {
   "candidates": 2,
-  "checked": "2026-10-28T04:18:27+00:00",
+  "checked": "2026-10-28T03:39:50+00:00",
   "conf": "high",
   "id": 135995,
   "score": 1.14,
@@ -14532,7 +14928,7 @@
  },
  "PS5:psplus:10008945": {
   "candidates": 11,
-  "checked": "2026-10-28T04:18:15+00:00",
+  "checked": "2026-10-28T03:39:37+00:00",
   "conf": "high",
   "id": 152180,
   "score": 1.138,
@@ -14543,7 +14939,7 @@
  },
  "PS5:psplus:10009025": {
   "candidates": 25,
-  "checked": "2026-10-28T04:22:01+00:00",
+  "checked": "2026-10-28T03:43:20+00:00",
   "conf": null,
   "id": null,
   "score": 1.056,
@@ -14554,7 +14950,7 @@
  },
  "PS5:psplus:10009028": {
   "candidates": 10,
-  "checked": "2026-10-28T04:22:04+00:00",
+  "checked": "2026-10-28T03:43:24+00:00",
   "conf": "high",
   "id": 258842,
   "score": 1.053,
@@ -14564,11 +14960,14 @@
   "via": "search"
  },
  "PS5:psplus:10009035": {
-  "candidates": 25,
-  "checked": "2026-10-28T04:24:26+00:00",
-  "conf": "medium",
-  "id": 320336,
-  "score": 0.93,
+  "candidates": 4,
+  "checked": "2026-10-28T04:58:23+00:00",
+  "conf": "high",
+  "id": 1960,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.158,
   "slug": null,
   "title": "Alone in the Dark: The New Nightmare (2001)",
   "v": 4,
@@ -14576,7 +14975,7 @@
  },
  "PS5:psplus:10009198": {
   "candidates": 2,
-  "checked": "2026-10-28T04:21:25+00:00",
+  "checked": "2026-10-28T03:42:46+00:00",
   "conf": "high",
   "id": 305016,
   "score": 1.131,
@@ -14587,7 +14986,7 @@
  },
  "PS5:psplus:10009203": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:39+00:00",
+  "checked": "2026-10-28T03:43:57+00:00",
   "conf": "high",
   "id": 185248,
   "score": 1.131,
@@ -14598,10 +14997,13 @@
  },
  "PS5:psplus:10009298": {
   "candidates": 10,
-  "checked": "2026-10-28T04:24:40+00:00",
+  "checked": "2026-10-28T04:58:34+00:00",
   "conf": "high",
-  "id": 292899,
-  "score": 1.12,
+  "id": 20728,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Cool Boarders",
   "v": 4,
@@ -14609,7 +15011,7 @@
  },
  "PS5:psplus:10009300": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:42+00:00",
+  "checked": "2026-10-28T03:44:00+00:00",
   "conf": "high",
   "id": 309256,
   "score": 1.125,
@@ -14620,7 +15022,7 @@
  },
  "PS5:psplus:10009325": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:22+00:00",
+  "checked": "2026-10-28T03:41:44+00:00",
   "conf": "high",
   "id": 250627,
   "score": 1.128,
@@ -14631,7 +15033,7 @@
  },
  "PS5:psplus:10009366": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:15+00:00",
+  "checked": "2026-10-28T03:39:38+00:00",
   "conf": "high",
   "id": 294453,
   "score": 1.133,
@@ -14642,10 +15044,13 @@
  },
  "PS5:psplus:10009384": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:29+00:00",
+  "checked": "2026-10-28T04:59:31+00:00",
   "conf": "high",
-  "id": 329195,
-  "score": 1.12,
+  "id": 4002,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.137,
   "slug": null,
   "title": "MediEvil 2",
   "v": 4,
@@ -14653,7 +15058,7 @@
  },
  "PS5:psplus:10009390": {
   "candidates": 2,
-  "checked": "2026-10-28T04:23:20+00:00",
+  "checked": "2026-10-28T03:44:36+00:00",
   "conf": "high",
   "id": 317621,
   "score": 1.134,
@@ -14664,7 +15069,7 @@
  },
  "PS5:psplus:10009392": {
   "candidates": 1,
-  "checked": "2026-10-28T04:19:24+00:00",
+  "checked": "2026-10-28T03:40:47+00:00",
   "conf": "high",
   "id": 273522,
   "score": 1.136,
@@ -14675,7 +15080,7 @@
  },
  "PS5:psplus:10009597": {
   "candidates": 8,
-  "checked": "2026-10-28T04:19:27+00:00",
+  "checked": "2026-10-28T03:40:50+00:00",
   "conf": "high",
   "id": 115425,
   "score": 1.138,
@@ -14686,7 +15091,7 @@
  },
  "PS5:psplus:10009610": {
   "candidates": 7,
-  "checked": "2026-10-28T04:22:00+00:00",
+  "checked": "2026-10-28T03:43:19+00:00",
   "conf": "high",
   "id": 308099,
   "score": 1.131,
@@ -14697,7 +15102,7 @@
  },
  "PS5:psplus:10009612": {
   "candidates": 20,
-  "checked": "2026-10-28T04:20:15+00:00",
+  "checked": "2026-10-28T03:41:38+00:00",
   "conf": "high",
   "id": 306822,
   "score": 1.132,
@@ -14708,7 +15113,7 @@
  },
  "PS5:psplus:10009660": {
   "candidates": 9,
-  "checked": "2026-10-28T04:23:48+00:00",
+  "checked": "2026-10-28T03:45:05+00:00",
   "conf": "high",
   "id": 313595,
   "score": 1.133,
@@ -14719,7 +15124,7 @@
  },
  "PS5:psplus:10009923": {
   "candidates": 3,
-  "checked": "2026-10-28T04:18:24+00:00",
+  "checked": "2026-10-28T03:39:46+00:00",
   "conf": "high",
   "id": 200903,
   "score": 1.138,
@@ -14728,23 +15133,15 @@
   "v": 4,
   "via": "search"
  },
- "PS5:psplus:10009931": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:21:28+00:00",
-  "conf": "high",
-  "id": 336380,
-  "score": 1.125,
-  "slug": null,
-  "title": "Monster Energy Supercross 25 - The Official Video Game",
-  "v": 4,
-  "via": "search"
- },
  "PS5:psplus:10010137": {
   "candidates": 4,
-  "checked": "2026-10-28T04:25:13+00:00",
+  "checked": "2026-10-28T04:59:12+00:00",
   "conf": "high",
-  "id": 325261,
-  "score": 1.12,
+  "id": 1528,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.145,
   "slug": null,
   "title": "Jak and Daxter™: The Precursor Legacy",
   "v": 4,
@@ -14752,7 +15149,7 @@
  },
  "PS5:psplus:10010232": {
   "candidates": 7,
-  "checked": "2026-10-28T04:19:19+00:00",
+  "checked": "2026-10-28T03:40:42+00:00",
   "conf": "high",
   "id": 137619,
   "score": 1.132,
@@ -14762,19 +15159,22 @@
   "via": "search"
  },
  "PS5:psplus:10010252": {
-  "candidates": 25,
-  "checked": "2026-10-28T04:24:32+00:00",
-  "conf": "high",
-  "id": 331208,
-  "score": 1.12,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-28T04:58:18+00:00",
+  "conf": "manual",
+  "id": 4144,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "armored-core",
   "title": "ARMORED CORE",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10010256": {
   "candidates": 7,
-  "checked": "2026-10-28T04:21:31+00:00",
+  "checked": "2026-10-28T03:42:51+00:00",
   "conf": "high",
   "id": 129483,
   "score": 1.139,
@@ -14785,10 +15185,13 @@
  },
  "PS5:psplus:10010296": {
   "candidates": 1,
-  "checked": "2026-10-28T04:26:07+00:00",
-  "conf": "high",
-  "id": 304144,
-  "score": 1.12,
+  "checked": "2026-10-28T05:00:24+00:00",
+  "conf": null,
+  "id": null,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.74,
   "slug": null,
   "title": "Sly Raccoon™",
   "v": 4,
@@ -14796,10 +15199,13 @@
  },
  "PS5:psplus:10010297": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:33+00:00",
+  "checked": "2026-10-28T04:58:27+00:00",
   "conf": "high",
-  "id": 331209,
-  "score": 1.12,
+  "id": 19428,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "ARMORED CORE PROJECT PHANTASMA",
   "v": 4,
@@ -14807,29 +15213,21 @@
  },
  "PS5:psplus:10010298": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:33+00:00",
+  "checked": "2026-10-28T04:58:26+00:00",
   "conf": "high",
-  "id": 331210,
-  "score": 1.12,
+  "id": 19424,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "ARMORED CORE MASTER OF ARENA",
   "v": 4,
   "via": "search"
  },
- "PS5:psplus:10010437": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:22:05+00:00",
-  "conf": "high",
-  "id": 194467,
-  "score": 1.134,
-  "slug": null,
-  "title": "Poppy Playtime: Chapter 2",
-  "v": 4,
-  "via": "search"
- },
  "PS5:psplus:10010458": {
   "candidates": 24,
-  "checked": "2026-10-28T04:23:57+00:00",
+  "checked": "2026-10-28T03:45:14+00:00",
   "conf": "high",
   "id": 186725,
   "score": 1.146,
@@ -14840,10 +15238,13 @@
  },
  "PS5:psplus:10010578": {
   "candidates": 5,
-  "checked": "2026-10-28T04:25:01+00:00",
+  "checked": "2026-10-28T04:58:58+00:00",
   "conf": "high",
-  "id": 305475,
-  "score": 1.12,
+  "id": 22279,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Ghosthunter",
   "v": 4,
@@ -14851,10 +15252,13 @@
  },
  "PS5:psplus:10010584": {
   "candidates": 22,
-  "checked": "2026-10-28T04:26:11+00:00",
+  "checked": "2026-10-28T05:00:31+00:00",
   "conf": "high",
-  "id": 320344,
-  "score": 1.12,
+  "id": 3760,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.135,
   "slug": null,
   "title": "STAR WARS The Clone Wars",
   "v": 4,
@@ -14862,10 +15266,13 @@
  },
  "PS5:psplus:10010691": {
   "candidates": 3,
-  "checked": "2026-10-28T04:26:05+00:00",
+  "checked": "2026-10-28T05:00:21+00:00",
   "conf": "high",
-  "id": 325150,
-  "score": 1.12,
+  "id": 1799,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.142,
   "slug": null,
   "title": "Sly 2: Band of Thieves™",
   "v": 4,
@@ -14873,10 +15280,13 @@
  },
  "PS5:psplus:10010692": {
   "candidates": 4,
-  "checked": "2026-10-28T04:26:06+00:00",
+  "checked": "2026-10-28T05:00:23+00:00",
   "conf": "high",
-  "id": 325157,
-  "score": 1.06,
+  "id": 1800,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.081,
   "slug": null,
   "title": "Sly 3: Honour Among Thieves™",
   "v": 4,
@@ -14884,10 +15294,13 @@
  },
  "PS5:psplus:10010747": {
   "candidates": 9,
-  "checked": "2026-10-28T04:26:34+00:00",
+  "checked": "2026-10-28T05:01:12+00:00",
   "conf": "high",
-  "id": 305560,
-  "score": 1.12,
+  "id": 1161,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.145,
   "slug": null,
   "title": "Tomb Raider: Legend",
   "v": 4,
@@ -14895,7 +15308,7 @@
  },
  "PS5:psplus:10010892": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:28+00:00",
+  "checked": "2026-10-28T03:40:51+00:00",
   "conf": "high",
   "id": 310545,
   "score": 1.134,
@@ -14906,10 +15319,13 @@
  },
  "PS5:psplus:10010950": {
   "candidates": 1,
-  "checked": "2026-10-28T04:24:59+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.651,
+  "checked": "2026-10-28T04:58:56+00:00",
+  "conf": "medium",
+  "id": 14411,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.031,
   "slug": null,
   "title": "Forbidden Siren",
   "v": 4,
@@ -14917,10 +15333,13 @@
  },
  "PS5:psplus:10010951": {
   "candidates": 1,
-  "checked": "2026-10-28T04:25:35+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.75,
+  "checked": "2026-10-28T04:59:40+00:00",
+  "conf": "high",
+  "id": 8966,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Mr Moskeeto",
   "v": 4,
@@ -14928,10 +15347,13 @@
  },
  "PS5:psplus:10011076": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:39+00:00",
+  "checked": "2026-10-28T04:58:33+00:00",
   "conf": "high",
-  "id": 317629,
-  "score": 1.12,
+  "id": 7894,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.139,
   "slug": null,
   "title": "Blood Omen: Legacy of Kain",
   "v": 4,
@@ -14939,7 +15361,7 @@
  },
  "PS5:psplus:10011105": {
   "candidates": 9,
-  "checked": "2026-10-28T04:23:12+00:00",
+  "checked": "2026-10-28T03:44:29+00:00",
   "conf": "high",
   "id": 275404,
   "score": 1.139,
@@ -14950,7 +15372,7 @@
  },
  "PS5:psplus:10011130": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:40+00:00",
+  "checked": "2026-10-28T03:44:56+00:00",
   "conf": "high",
   "id": 314215,
   "score": 1.08,
@@ -14961,7 +15383,7 @@
  },
  "PS5:psplus:10011227": {
   "candidates": 4,
-  "checked": "2026-10-28T04:23:00+00:00",
+  "checked": "2026-10-28T03:44:18+00:00",
   "conf": "high",
   "id": 250620,
   "score": 1.136,
@@ -14972,9 +15394,12 @@
  },
  "PS5:psplus:10011230": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:04+00:00",
+  "checked": "2026-10-28T05:00:19+00:00",
   "conf": "high",
-  "id": 317458,
+  "id": 43615,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "SkyGunner",
@@ -14983,10 +15408,13 @@
  },
  "PS5:psplus:10011231": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:42+00:00",
+  "checked": "2026-10-28T05:01:27+00:00",
   "conf": "high",
-  "id": 398930,
-  "score": 1.12,
+  "id": 1681,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Wild Arms™ 4",
   "v": 4,
@@ -14994,7 +15422,7 @@
  },
  "PS5:psplus:10011288": {
   "candidates": 2,
-  "checked": "2026-10-28T04:19:15+00:00",
+  "checked": "2026-10-28T03:40:38+00:00",
   "conf": "high",
   "id": 252853,
   "score": 1.133,
@@ -15005,10 +15433,13 @@
  },
  "PS5:psplus:10011396": {
   "candidates": 19,
-  "checked": "2026-10-28T04:26:39+00:00",
+  "checked": "2026-10-28T05:01:21+00:00",
   "conf": "high",
-  "id": 187562,
-  "score": 1.12,
+  "id": 3208,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.134,
   "slug": null,
   "title": "War of the Monsters",
   "v": 4,
@@ -15016,9 +15447,12 @@
  },
  "PS5:psplus:10011397": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:53+00:00",
+  "checked": "2026-10-28T04:58:50+00:00",
   "conf": "high",
-  "id": 332159,
+  "id": 44723,
+  "mp": [
+   "PS Classic"
+  ],
   "score": 1.12,
   "slug": null,
   "title": "Dropship: United Peace Force",
@@ -15027,10 +15461,13 @@
  },
  "PS5:psplus:10011401": {
   "candidates": 11,
-  "checked": "2026-10-28T04:26:32+00:00",
+  "checked": "2026-10-28T05:01:11+00:00",
   "conf": "high",
-  "id": 317415,
-  "score": 1.12,
+  "id": 2142,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.137,
   "slug": null,
   "title": "TimeSplitters",
   "v": 4,
@@ -15038,29 +15475,35 @@
  },
  "PS5:psplus:10011646": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:38+00:00",
+  "checked": "2026-10-28T04:58:32+00:00",
   "conf": "high",
-  "id": 323372,
-  "score": 1.12,
+  "id": 3823,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.137,
   "slug": null,
   "title": "Blood Omen 2: Legacy of Kain",
   "v": 4,
   "via": "search"
  },
  "PS5:psplus:10011762": {
-  "candidates": 2,
-  "checked": "2026-10-28T04:24:24+00:00",
-  "conf": "medium",
-  "id": 340383,
-  "score": 0.93,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-28T04:58:17+00:00",
+  "conf": "manual",
+  "id": 1957,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "alone-in-the-dark-2",
   "title": "Alone in the Dark 2 (1996)",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10011854": {
   "candidates": 12,
-  "checked": "2026-10-28T04:18:52+00:00",
+  "checked": "2026-10-28T03:40:17+00:00",
   "conf": "high",
   "id": 333600,
   "score": 1.13,
@@ -15071,7 +15514,7 @@
  },
  "PS5:psplus:10012002": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:55+00:00",
+  "checked": "2026-10-28T03:40:19+00:00",
   "conf": "high",
   "id": 149657,
   "score": 1.141,
@@ -15082,7 +15525,7 @@
  },
  "PS5:psplus:10012303": {
   "candidates": 3,
-  "checked": "2026-10-28T04:20:16+00:00",
+  "checked": "2026-10-28T03:41:39+00:00",
   "conf": "high",
   "id": 320144,
   "score": 1.132,
@@ -15093,7 +15536,7 @@
  },
  "PS5:psplus:10012310": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:55+00:00",
+  "checked": "2026-10-28T03:41:18+00:00",
   "conf": "high",
   "id": 152072,
   "score": 1.092,
@@ -15104,7 +15547,7 @@
  },
  "PS5:psplus:10012449": {
   "candidates": 14,
-  "checked": "2026-10-28T04:24:03+00:00",
+  "checked": "2026-10-28T03:45:20+00:00",
   "conf": "high",
   "id": 331203,
   "score": 1.12,
@@ -15115,7 +15558,7 @@
  },
  "PS5:psplus:10012483": {
   "candidates": 4,
-  "checked": "2026-10-28T04:18:18+00:00",
+  "checked": "2026-10-28T03:39:40+00:00",
   "conf": "high",
   "id": 219126,
   "score": 1.137,
@@ -15126,21 +15569,27 @@
  },
  "PS5:psplus:10012698": {
   "candidates": 6,
-  "checked": "2026-10-28T04:25:23+00:00",
+  "checked": "2026-10-28T04:59:22+00:00",
   "conf": "high",
-  "id": 367956,
-  "score": 1.12,
+  "id": 5901,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.139,
   "slug": null,
   "title": "Legacy of Kain: Defiance PS4 & PS5",
   "v": 4,
   "via": "search"
  },
  "PS5:psplus:10012956": {
-  "candidates": 1,
-  "checked": "2026-10-28T04:26:01+00:00",
-  "conf": "high",
-  "id": 138341,
-  "score": 1.07,
+  "candidates": 7,
+  "checked": "2026-10-28T05:00:15+00:00",
+  "conf": "medium",
+  "id": 235,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.941,
   "slug": null,
   "title": "RollerCoaster Tycoon 3 Complete Edition",
   "v": 4,
@@ -15148,10 +15597,13 @@
  },
  "PS5:psplus:10013168": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:36+00:00",
+  "checked": "2026-10-28T04:58:30+00:00",
   "conf": "high",
-  "id": 344462,
-  "score": 1.12,
+  "id": 5741,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.13,
   "slug": null,
   "title": "Battle Engine Aquila",
   "v": 4,
@@ -15159,7 +15611,7 @@
  },
  "PS5:psplus:10013520": {
   "candidates": 6,
-  "checked": "2026-10-28T04:22:51+00:00",
+  "checked": "2026-10-28T03:44:09+00:00",
   "conf": "high",
   "id": 111150,
   "score": 1.085,
@@ -15170,10 +15622,13 @@
  },
  "PS5:psplus:10013576": {
   "candidates": 2,
-  "checked": "2026-10-28T04:24:44+00:00",
+  "checked": "2026-10-28T04:58:39+00:00",
   "conf": "high",
-  "id": 347125,
-  "score": 1.12,
+  "id": 78367,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.128,
   "slug": null,
   "title": "Deus Ex: The Conspiracy PS4 & PS5",
   "v": 4,
@@ -15181,10 +15636,13 @@
  },
  "PS5:psplus:10013616": {
   "candidates": 6,
-  "checked": "2026-10-28T04:26:33+00:00",
+  "checked": "2026-10-28T05:01:12+00:00",
   "conf": "high",
-  "id": 370001,
-  "score": 1.12,
+  "id": 1162,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.144,
   "slug": null,
   "title": "Tomb Raider: Anniversary PS4 & PS5",
   "v": 4,
@@ -15192,10 +15650,13 @@
  },
  "PS5:psplus:10013707": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:37+00:00",
+  "checked": "2026-10-28T05:01:17+00:00",
   "conf": "high",
-  "id": 347126,
-  "score": 1.12,
+  "id": 4697,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.136,
   "slug": null,
   "title": "Twisted Metal™ III",
   "v": 4,
@@ -15203,10 +15664,13 @@
  },
  "PS5:psplus:10013708": {
   "candidates": 2,
-  "checked": "2026-10-28T04:26:36+00:00",
+  "checked": "2026-10-28T05:01:16+00:00",
   "conf": "high",
-  "id": 347127,
-  "score": 1.12,
+  "id": 4698,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.136,
   "slug": null,
   "title": "Twisted Metal™ 4",
   "v": 4,
@@ -15214,7 +15678,7 @@
  },
  "PS5:psplus:10013857": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:39+00:00",
+  "checked": "2026-10-28T03:42:59+00:00",
   "conf": "high",
   "id": 325580,
   "score": 1.136,
@@ -15225,7 +15689,7 @@
  },
  "PS5:psplus:10013971": {
   "candidates": 1,
-  "checked": "2026-10-28T04:23:22+00:00",
+  "checked": "2026-10-28T03:44:38+00:00",
   "conf": "high",
   "id": 296843,
   "score": 1.134,
@@ -15236,7 +15700,7 @@
  },
  "PS5:psplus:10014385": {
   "candidates": 2,
-  "checked": "2026-10-28T04:22:37+00:00",
+  "checked": "2026-10-28T03:43:55+00:00",
   "conf": "high",
   "id": 129964,
   "score": 1.133,
@@ -15247,7 +15711,7 @@
  },
  "PS5:psplus:10014519": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:23+00:00",
+  "checked": "2026-10-28T03:41:46+00:00",
   "conf": "high",
   "id": 367571,
   "score": 1.12,
@@ -15258,7 +15722,7 @@
  },
  "PS5:psplus:10015300": {
   "candidates": 17,
-  "checked": "2026-10-28T04:24:17+00:00",
+  "checked": "2026-10-28T03:45:34+00:00",
   "conf": "high",
   "id": 387782,
   "score": 1.086,
@@ -15269,10 +15733,13 @@
  },
  "PS5:psplus:10015791": {
   "candidates": 8,
-  "checked": "2026-10-28T04:26:21+00:00",
+  "checked": "2026-10-28T05:00:49+00:00",
   "conf": "high",
-  "id": 369999,
-  "score": 1.12,
+  "id": 306134,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.139,
   "slug": null,
   "title": "TEKKEN 3 PS4 & PS5",
   "v": 4,
@@ -15280,10 +15747,13 @@
  },
  "PS5:psplus:10015859": {
   "candidates": 4,
-  "checked": "2026-10-28T04:26:23+00:00",
+  "checked": "2026-10-28T05:00:52+00:00",
   "conf": "high",
-  "id": 389439,
-  "score": 1.12,
+  "id": 24181,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.133,
   "slug": null,
   "title": "TEKKEN DARK RESURRECTION PS4 & PS5",
   "v": 4,
@@ -15291,10 +15761,13 @@
  },
  "PS5:psplus:10015861": {
   "candidates": 23,
-  "checked": "2026-10-28T04:25:58+00:00",
+  "checked": "2026-10-28T05:00:07+00:00",
   "conf": "high",
-  "id": 386354,
-  "score": 1.12,
+  "id": 18696,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.136,
   "slug": null,
   "title": "RIDGE RACER PS4 & PS5",
   "v": 4,
@@ -15302,7 +15775,7 @@
  },
  "PS5:psplus:10016190": {
   "candidates": 3,
-  "checked": "2026-10-28T04:18:46+00:00",
+  "checked": "2026-10-28T03:40:09+00:00",
   "conf": "high",
   "id": 346035,
   "score": 1.138,
@@ -15313,10 +15786,13 @@
  },
  "PS5:psplus:10016210": {
   "candidates": 5,
-  "checked": "2026-10-28T04:26:07+00:00",
+  "checked": "2026-10-28T05:00:26+00:00",
   "conf": "high",
-  "id": 370000,
-  "score": 1.12,
+  "id": 1566,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.141,
   "slug": null,
   "title": "SOULCALIBUR III PS4 & PS5",
   "v": 4,
@@ -15324,10 +15800,13 @@
  },
  "PS5:psplus:10016223": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:47+00:00",
+  "checked": "2026-10-28T04:59:55+00:00",
   "conf": "high",
-  "id": 404053,
-  "score": 1.12,
+  "id": 5992,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.136,
   "slug": null,
   "title": "Psi-Ops: The Mindgate Conspiracy",
   "v": 4,
@@ -15335,10 +15814,13 @@
  },
  "PS5:psplus:10016535": {
   "candidates": 12,
-  "checked": "2026-10-28T04:26:32+00:00",
+  "checked": "2026-10-28T05:01:10+00:00",
   "conf": "high",
-  "id": 389440,
-  "score": 1.12,
+  "id": 11739,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.138,
   "slug": null,
   "title": "TIME CRISIS PS4 & PS5",
   "v": 4,
@@ -15346,7 +15828,7 @@
  },
  "PS5:psplus:10017405": {
   "candidates": 1,
-  "checked": "2026-10-28T04:22:27+00:00",
+  "checked": "2026-10-28T03:43:45+00:00",
   "conf": "high",
   "id": 337712,
   "score": 1.13,
@@ -15357,10 +15839,13 @@
  },
  "PS5:psplus:10017591": {
   "candidates": 1,
-  "checked": "2026-10-28T04:25:02+00:00",
-  "conf": "high",
+  "checked": "2026-10-28T04:58:59+00:00",
+  "conf": "medium",
   "id": 404052,
-  "score": 1.12,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.96,
   "slug": null,
   "title": "Gitaroo-Man",
   "v": 4,
@@ -15368,10 +15853,13 @@
  },
  "PS5:psplus:10018570": {
   "candidates": 3,
-  "checked": "2026-10-28T04:24:45+00:00",
+  "checked": "2026-10-28T04:58:40+00:00",
   "conf": "high",
-  "id": 416083,
-  "score": 1.12,
+  "id": 4132,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.142,
   "slug": null,
   "title": "DINO CRISIS 2",
   "v": 4,
@@ -15379,7 +15867,7 @@
  },
  "PS5:psplus:10018765": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:36+00:00",
+  "checked": "2026-10-28T03:42:55+00:00",
   "conf": "high",
   "id": 342011,
   "score": 1.123,
@@ -15390,10 +15878,13 @@
  },
  "PS5:psplus:10019710": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:41+00:00",
+  "checked": "2026-10-28T04:59:46+00:00",
   "conf": "high",
-  "id": 404056,
-  "score": 1.12,
+  "id": 11759,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.134,
   "slug": null,
   "title": "Onimusha: Dawn of Dreams",
   "v": 4,
@@ -15401,10 +15892,13 @@
  },
  "PS5:psplus:10019857": {
   "candidates": 2,
-  "checked": "2026-10-28T04:25:30+00:00",
+  "checked": "2026-10-28T04:59:32+00:00",
   "conf": "high",
-  "id": 416112,
-  "score": 1.12,
+  "id": 1751,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.132,
   "slug": null,
   "title": "Mega Man X: Command Mission",
   "v": 4,
@@ -15412,7 +15906,7 @@
  },
  "PS5:psplus:201511": {
   "candidates": 23,
-  "checked": "2026-10-28T04:20:07+00:00",
+  "checked": "2026-10-28T03:41:29+00:00",
   "conf": "high",
   "id": 9630,
   "score": 1.15,
@@ -15423,7 +15917,7 @@
  },
  "PS5:psplus:201930": {
   "candidates": 11,
-  "checked": "2026-10-28T04:20:35+00:00",
+  "checked": "2026-10-28T03:41:57+00:00",
   "conf": "high",
   "id": 1020,
   "score": 1.15,
@@ -15434,7 +15928,7 @@
  },
  "PS5:psplus:203897": {
   "candidates": 1,
-  "checked": "2026-10-28T04:23:33+00:00",
+  "checked": "2026-10-28T03:44:50+00:00",
   "conf": "high",
   "id": 349562,
   "score": 1.026,
@@ -15445,7 +15939,7 @@
  },
  "PS5:psplus:217373": {
   "candidates": 22,
-  "checked": "2026-10-28T04:23:52+00:00",
+  "checked": "2026-10-28T03:45:09+00:00",
   "conf": "high",
   "id": 22739,
   "score": 1.138,
@@ -15456,7 +15950,7 @@
  },
  "PS5:psplus:217487": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:27+00:00",
+  "checked": "2026-10-28T03:42:47+00:00",
   "conf": "high",
   "id": 25599,
   "score": 1.135,
@@ -15467,7 +15961,7 @@
  },
  "PS5:psplus:221852": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:37+00:00",
+  "checked": "2026-10-28T03:41:00+00:00",
   "conf": "high",
   "id": 304472,
   "score": 1.14,
@@ -15478,7 +15972,7 @@
  },
  "PS5:psplus:221982": {
   "candidates": 7,
-  "checked": "2026-10-28T04:22:12+00:00",
+  "checked": "2026-10-28T03:43:31+00:00",
   "conf": "high",
   "id": 14761,
   "score": 1.14,
@@ -15489,7 +15983,7 @@
  },
  "PS5:psplus:225700": {
   "candidates": 10,
-  "checked": "2026-10-28T04:22:38+00:00",
+  "checked": "2026-10-28T03:43:56+00:00",
   "conf": "high",
   "id": 37062,
   "score": 1.137,
@@ -15500,7 +15994,7 @@
  },
  "PS5:psplus:227139": {
   "candidates": 6,
-  "checked": "2026-10-28T04:20:47+00:00",
+  "checked": "2026-10-28T03:42:09+00:00",
   "conf": "high",
   "id": 16992,
   "score": 1.144,
@@ -15511,7 +16005,7 @@
  },
  "PS5:psplus:227147": {
   "candidates": 25,
-  "checked": "2026-10-28T04:20:55+00:00",
+  "checked": "2026-10-28T03:42:16+00:00",
   "conf": "high",
   "id": 18088,
   "score": 1.137,
@@ -15522,7 +16016,7 @@
  },
  "PS5:psplus:227319": {
   "candidates": 24,
-  "checked": "2026-10-28T04:19:30+00:00",
+  "checked": "2026-10-28T03:40:53+00:00",
   "conf": "high",
   "id": 18866,
   "score": 1.146,
@@ -15533,7 +16027,7 @@
  },
  "PS5:psplus:227410": {
   "candidates": 25,
-  "checked": "2026-10-28T04:20:59+00:00",
+  "checked": "2026-10-28T03:42:20+00:00",
   "conf": "high",
   "id": 4843,
   "score": 1.147,
@@ -15544,7 +16038,7 @@
  },
  "PS5:psplus:227431": {
   "candidates": 1,
-  "checked": "2026-10-28T04:21:45+00:00",
+  "checked": "2026-10-28T03:43:05+00:00",
   "conf": "high",
   "id": 178211,
   "score": 1.065,
@@ -15555,7 +16049,7 @@
  },
  "PS5:psplus:229066": {
   "candidates": 21,
-  "checked": "2026-10-28T04:20:33+00:00",
+  "checked": "2026-10-28T03:41:55+00:00",
   "conf": "high",
   "id": 22788,
   "score": 1.097,
@@ -15566,7 +16060,7 @@
  },
  "PS5:psplus:229391": {
   "candidates": 8,
-  "checked": "2026-10-28T04:23:18+00:00",
+  "checked": "2026-10-28T03:44:35+00:00",
   "conf": "high",
   "id": 8347,
   "score": 1.143,
@@ -15577,7 +16071,7 @@
  },
  "PS5:psplus:230955": {
   "candidates": 1,
-  "checked": "2026-10-28T04:23:11+00:00",
+  "checked": "2026-10-28T03:44:27+00:00",
   "conf": "high",
   "id": 19457,
   "score": 1.107,
@@ -15588,7 +16082,7 @@
  },
  "PS5:psplus:231053": {
   "candidates": 20,
-  "checked": "2026-10-28T04:19:30+00:00",
+  "checked": "2026-10-28T03:40:53+00:00",
   "conf": "high",
   "id": 26855,
   "score": 1.148,
@@ -15599,7 +16093,7 @@
  },
  "PS5:psplus:231096": {
   "candidates": 23,
-  "checked": "2026-10-28T04:20:39+00:00",
+  "checked": "2026-10-28T03:42:02+00:00",
   "conf": "high",
   "id": 18167,
   "score": 1.14,
@@ -15610,7 +16104,7 @@
  },
  "PS5:psplus:231098": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:51+00:00",
+  "checked": "2026-10-28T03:42:13+00:00",
   "conf": "high",
   "id": 119930,
   "score": 1.128,
@@ -15621,7 +16115,7 @@
  },
  "PS5:psplus:231167": {
   "candidates": 25,
-  "checked": "2026-10-28T04:23:14+00:00",
+  "checked": "2026-10-28T03:44:30+00:00",
   "conf": "high",
   "id": 27324,
   "score": 1.14,
@@ -15632,7 +16126,7 @@
  },
  "PS5:psplus:231769": {
   "candidates": 10,
-  "checked": "2026-10-28T04:21:24+00:00",
+  "checked": "2026-10-28T03:42:45+00:00",
   "conf": "high",
   "id": 37016,
   "score": 1.148,
@@ -15643,7 +16137,7 @@
  },
  "PS5:psplus:232248": {
   "candidates": 25,
-  "checked": "2026-10-28T04:20:07+00:00",
+  "checked": "2026-10-28T03:41:30+00:00",
   "conf": "high",
   "id": 103020,
   "score": 1.145,
@@ -15654,7 +16148,7 @@
  },
  "PS5:psplus:232374": {
   "candidates": 14,
-  "checked": "2026-10-28T04:19:48+00:00",
+  "checked": "2026-10-28T03:41:11+00:00",
   "conf": "high",
   "id": 102584,
   "score": 1.144,
@@ -15665,7 +16159,7 @@
  },
  "PS5:psplus:232581": {
   "candidates": 12,
-  "checked": "2026-10-28T04:24:04+00:00",
+  "checked": "2026-10-28T03:45:21+00:00",
   "conf": "high",
   "id": 100413,
   "score": 1.142,
@@ -15676,7 +16170,7 @@
  },
  "PS5:psplus:232624": {
   "candidates": 20,
-  "checked": "2026-10-28T04:19:43+00:00",
+  "checked": "2026-10-28T03:41:06+00:00",
   "conf": "high",
   "id": 103298,
   "score": 1.109,
@@ -15685,9 +16179,21 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:232654": {
+  "candidates": null,
+  "checked": "2026-10-28T04:58:16+00:00",
+  "conf": "manual",
+  "id": 14593,
+  "mp": null,
+  "score": null,
+  "slug": "hollow-knight",
+  "title": "Hollow Knight Voidheart Edition",
+  "v": 4,
+  "via": "fix"
+ },
  "PS5:psplus:233011": {
   "candidates": 23,
-  "checked": "2026-10-28T04:20:48+00:00",
+  "checked": "2026-10-28T03:42:10+00:00",
   "conf": "high",
   "id": 122565,
   "score": 1.136,
@@ -15698,7 +16204,7 @@
  },
  "PS5:psplus:233032": {
   "candidates": 10,
-  "checked": "2026-10-28T04:18:52+00:00",
+  "checked": "2026-10-28T03:40:16+00:00",
   "conf": "high",
   "id": 6292,
   "score": 1.143,
@@ -15709,7 +16215,7 @@
  },
  "PS5:psplus:233064": {
   "candidates": 10,
-  "checked": "2026-10-28T04:18:44+00:00",
+  "checked": "2026-10-28T03:40:08+00:00",
   "conf": "high",
   "id": 116200,
   "score": 1.101,
@@ -15720,7 +16226,7 @@
  },
  "PS5:psplus:233202": {
   "candidates": 8,
-  "checked": "2026-10-28T04:21:16+00:00",
+  "checked": "2026-10-28T03:42:37+00:00",
   "conf": "high",
   "id": 46800,
   "score": 1.141,
@@ -15731,7 +16237,7 @@
  },
  "PS5:psplus:233251": {
   "candidates": 12,
-  "checked": "2026-10-28T04:19:00+00:00",
+  "checked": "2026-10-28T03:40:24+00:00",
   "conf": "medium",
   "id": 240037,
   "score": 0.92,
@@ -15742,7 +16248,7 @@
  },
  "PS5:psplus:233592": {
   "candidates": 6,
-  "checked": "2026-10-28T04:23:34+00:00",
+  "checked": "2026-10-28T03:44:51+00:00",
   "conf": "high",
   "id": 119262,
   "score": 1.136,
@@ -15753,7 +16259,7 @@
  },
  "PS5:psplus:234363": {
   "candidates": 17,
-  "checked": "2026-10-28T04:22:40+00:00",
+  "checked": "2026-10-28T03:43:59+00:00",
   "conf": "high",
   "id": 116238,
   "score": 1.138,
@@ -15764,7 +16270,7 @@
  },
  "PS5:psplus:234423": {
   "candidates": 9,
-  "checked": "2026-10-28T04:20:52+00:00",
+  "checked": "2026-10-28T03:42:14+00:00",
   "conf": "high",
   "id": 119357,
   "score": 1.142,
@@ -15775,7 +16281,7 @@
  },
  "PS5:psplus:234471": {
   "candidates": 10,
-  "checked": "2026-10-28T04:19:16+00:00",
+  "checked": "2026-10-28T03:40:39+00:00",
   "conf": "high",
   "id": 106847,
   "score": 1.14,
@@ -15786,7 +16292,7 @@
  },
  "PS5:psplus:234567": {
   "candidates": 10,
-  "checked": "2026-10-28T04:19:25+00:00",
+  "checked": "2026-10-28T03:40:48+00:00",
   "conf": "high",
   "id": 1877,
   "score": 1.15,
@@ -15797,7 +16303,7 @@
  },
  "PS5:psplus:234613": {
   "candidates": 1,
-  "checked": "2026-10-28T04:18:50+00:00",
+  "checked": "2026-10-28T03:40:14+00:00",
   "conf": "high",
   "id": 136659,
   "score": 1.131,
@@ -15808,7 +16314,7 @@
  },
  "PS5:psplus:234630": {
   "candidates": 18,
-  "checked": "2026-10-28T04:18:40+00:00",
+  "checked": "2026-10-28T03:40:04+00:00",
   "conf": "high",
   "id": 13205,
   "score": 1.141,
@@ -15819,7 +16325,7 @@
  },
  "PS5:psplus:234665": {
   "candidates": 15,
-  "checked": "2026-10-28T04:21:17+00:00",
+  "checked": "2026-10-28T03:42:38+00:00",
   "conf": "high",
   "id": 152249,
   "score": 1.146,
@@ -15830,7 +16336,7 @@
  },
  "PS5:psplus:234692": {
   "candidates": 3,
-  "checked": "2026-10-28T04:19:35+00:00",
+  "checked": "2026-10-28T03:40:58+00:00",
   "conf": "high",
   "id": 20326,
   "score": 1.14,
@@ -15841,7 +16347,7 @@
  },
  "PS5:psplus:234709": {
   "candidates": 4,
-  "checked": "2026-10-28T04:24:06+00:00",
+  "checked": "2026-10-28T03:45:23+00:00",
   "conf": "high",
   "id": 26879,
   "score": 1.134,
@@ -15852,7 +16358,7 @@
  },
  "PS5:psplus:234762": {
   "candidates": 7,
-  "checked": "2026-10-28T04:19:11+00:00",
+  "checked": "2026-10-28T03:40:35+00:00",
   "conf": "high",
   "id": 119342,
   "score": 1.138,
@@ -15861,20 +16367,9 @@
   "v": 4,
   "via": "search"
  },
- "PS5:psplus:234823": {
-  "candidates": 4,
-  "checked": "2026-10-28T04:23:02+00:00",
-  "conf": "high",
-  "id": 267775,
-  "score": 1.025,
-  "slug": null,
-  "title": "Tales of ARISE - Beyond the Dawn Edition PS4 & PS5",
-  "v": 4,
-  "via": "search"
- },
  "PS5:psplus:234902": {
   "candidates": 15,
-  "checked": "2026-10-28T04:18:40+00:00",
+  "checked": "2026-10-28T03:40:03+00:00",
   "conf": "high",
   "id": 89444,
   "score": 1.135,
@@ -15885,7 +16380,7 @@
  },
  "PS5:psplus:235227": {
   "candidates": 1,
-  "checked": "2026-10-28T04:20:28+00:00",
+  "checked": "2026-10-28T03:41:50+00:00",
   "conf": "high",
   "id": 153700,
   "score": 1.065,
@@ -15896,7 +16391,7 @@
  },
  "PS5:psplus:235235": {
   "candidates": 12,
-  "checked": "2026-10-28T04:22:18+00:00",
+  "checked": "2026-10-28T03:43:36+00:00",
   "conf": "high",
   "id": 55163,
   "score": 1.148,

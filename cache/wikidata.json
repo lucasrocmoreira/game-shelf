@@ -1,4 +1,7 @@
 {
+ "2xtreme--2": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "3d-classics-kid-icarus": {
   "checked": "2026-10-08T03:06:40+00:00"
  },
@@ -12,11 +15,11 @@
   "checked": "2026-10-07T01:52:06+00:00"
  },
  "a-hat-in-time": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4944
  },
  "a-little-to-the-left": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13959
  },
  "a-plague-tale-innocence": {
@@ -32,18 +35,18 @@
   "opencritic_id": 17489
  },
  "a-space-for-the-unbound": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 14202
  },
  "a-train-exp": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "a-way-out": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 5413
  },
  "abiotic-factor": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 18961
  },
  "ace-combat-7-skies-unknown": {
@@ -57,7 +60,7 @@
   "checked": "2026-10-07T21:40:09+00:00"
  },
  "adventure-time-pirates-of-the-enchiridion": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 5946
  },
  "against-the-storm": {
@@ -86,7 +89,7 @@
   "opencritic_id": 17117
  },
  "age-of-wonders-planetfall": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7408
  },
  "alan-wake": {
@@ -110,7 +113,7 @@
   "opencritic_id": 17874
  },
  "alienation": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 2124
  },
  "aliens-dark-descent": {
@@ -125,6 +128,12 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16050
  },
+ "alone-in-the-dark-2": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "alone-in-the-dark-the-new-nightmare": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "amnesia-collection": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
@@ -137,18 +146,18 @@
   "opencritic_id": 7228
  },
  "anno-1800": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7085
  },
  "anno-1800-console-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "anno-mutationem": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 12900
  },
  "anodyne": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 6744
  },
  "another-crabs-treasure": {
@@ -156,19 +165,32 @@
   "opencritic_id": 16589
  },
  "ao-tennis-2": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 8823
+ },
+ "ape-escape": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 13420
+ },
+ "ape-escape-2": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "ape-escape-pumped-and-primed--1": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "apollo-justice-ace-attorney": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 5206
  },
  "aragami": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 3283
  },
+ "arc-the-lad-twilight-of-the-spirits": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "arcade-paradise": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13520
  },
  "arcadegeddon": {
@@ -186,31 +208,40 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 4657
  },
+ "armored-core": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "armored-core-master-of-arena": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "armored-core-project-phantasma": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "art-of-rally": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 10188
  },
  "as-dusk-falls": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13424
  },
  "assassins-creed-chronicles-china--1": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 32
  },
  "assassins-creed-chronicles-india": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 1613
  },
  "assassins-creed-chronicles-russia": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 1696
  },
  "assassins-creed-directors-cut-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "assassins-creed-freedom-cry": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 294
  },
  "assassins-creed-iii-remastered": {
@@ -218,7 +249,7 @@
   "opencritic_id": 7397
  },
  "assassins-creed-iv-black-flag": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 316
  },
  "assassins-creed-mirage": {
@@ -253,7 +284,7 @@
   "opencritic_id": 9439
  },
  "assetto-corsa-competizione": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7861
  },
  "astro-bot-rescue-mission": {
@@ -261,19 +292,26 @@
   "opencritic_id": 6684
  },
  "astroneer": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7268
  },
  "astros-playroom": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 10482
  },
+ "atari-flashback-classics-vol-1": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 3381
+ },
+ "atari-flashback-classics-vol-2": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "atelier-ryza-3-alchemist-of-the-end-and-the-secret-key": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 14460
  },
  "atlas-fallen-reign-of-sand": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "attack-of-the-friday-monsters-a-tokyo-tale": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -291,7 +329,7 @@
   "opencritic_id": 12078
  },
  "bad-north": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 6515
  },
  "balatro": {
@@ -299,15 +337,15 @@
   "opencritic_id": 16300
  },
  "ball-x-pit": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 19209
  },
  "bang-on-balls-chronicles": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15541
  },
  "banishers-ghosts-of-new-eden": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15909
  },
  "batman-arkham-asylum-game-of-the-year-edition": {
@@ -338,8 +376,11 @@
   "opencritic_id": 4157
  },
  "battle-chasers-nightwar": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4905
+ },
+ "battle-engine-aquila": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "battlefield-1": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -365,15 +406,15 @@
   "opencritic_id": 6151
  },
  "bee-simulator": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 8530
  },
  "ben-10": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 5187
  },
  "ben-10-power-trip": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 10260
  },
  "beyond-two-souls": {
@@ -412,7 +453,7 @@
   "opencritic_id": 2975
  },
  "biped": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 9280
  },
  "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien": {
@@ -423,13 +464,23 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 2236
  },
+ "blade-dancer-lineage-of-light": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "blades-of-fire": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 18521
  },
  "blasphemous-ii": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15371
+ },
+ "blood-omen-2-legacy-of-kain": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "blood-omen-legacy-of-kain": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 12374
  },
  "bloodborne": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -440,7 +491,7 @@
   "opencritic_id": 18352
  },
  "bluey-the-videogame": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15882
  },
  "bomb-rush-cyberfunk": {
@@ -459,7 +510,7 @@
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "bound": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 3132
  },
  "boxboxboy": {
@@ -479,7 +530,7 @@
   "opencritic_id": 2369
  },
  "brawlout": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 5317
  },
  "breath-of-fire": {
@@ -489,7 +540,7 @@
   "checked": "2026-10-09T03:40:17+00:00"
  },
  "broken-sword-shadow-of-the-templars-reforged": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 17322
  },
  "bugsnax": {
@@ -497,14 +548,14 @@
   "opencritic_id": 10498
  },
  "bus-simulator-21-next-stop": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "bye-bye-boxboy": {
   "checked": "2026-10-08T02:58:42+00:00",
   "opencritic_id": 4096
  },
  "call-of-cthulhu": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 6734
  },
  "call-of-duty-black-ops-4": {
@@ -532,18 +583,18 @@
   "opencritic_id": 4505
  },
  "call-of-the-sea": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 10651
  },
  "captain-tsubasa-rise-of-new-champions": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 9819
  },
  "car-mechanic-simulator": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "cartoon-network-battle-crashers": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 3559
  },
  "castlevania-dawn-of-sorrow": {
@@ -553,15 +604,15 @@
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "cat-quest": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4693
  },
  "cat-quest-ii": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 8317
  },
  "cat-quest-iii": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 17070
  },
  "catherine-full-body": {
@@ -577,11 +628,11 @@
   "opencritic_id": 14102
  },
  "chernobylite": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 11731
  },
  "chess-ultra": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4478
  },
  "child-of-light": {
@@ -589,7 +640,7 @@
   "opencritic_id": 264
  },
  "children-of-morta": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 8217
  },
  "chivalry-2": {
@@ -607,11 +658,11 @@
   "opencritic_id": 1260
  },
  "citizen-sleeper": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13101
  },
  "citizen-sleeper-2-starward-vector": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 18052
  },
  "claymates": {
@@ -630,11 +681,11 @@
   "opencritic_id": 8079
  },
  "coffee-talk": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 8901
  },
  "coffee-talk-episode-2-hibiscus-and-butterfly": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 14743
  },
  "company-of-heroes": {
@@ -644,7 +695,7 @@
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "conan-exiles": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 6050
  },
  "concrete-genie": {
@@ -660,15 +711,18 @@
   "opencritic_id": 13734
  },
  "contra-rogue-corps": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 8268
  },
  "control": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 7858
  },
+ "cool-boarders": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "coral-island": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13813
  },
  "core-keeper": {
@@ -697,11 +751,11 @@
   "checked": "2026-10-08T02:55:43+00:00"
  },
  "cricket-24": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15641
  },
  "crime-boss-rockay-city": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 14493
  },
  "crimson-shroud": {
@@ -718,7 +772,7 @@
   "checked": "2026-10-07T01:52:02+00:00"
  },
  "crow-country": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16675
  },
  "crusader-kings-iii": {
@@ -727,6 +781,9 @@
  },
  "crush": {
   "checked": "2026-10-08T03:21:16+00:00"
+ },
+ "crysis": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "culdcept-revolt": {
   "checked": "2026-10-08T03:08:11+00:00",
@@ -761,8 +818,14 @@
  "dantes-inferno": {
   "checked": "2026-10-08T03:28:11+00:00"
  },
+ "dark-cloud": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "dark-cloud-2": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "dark-rose-valkyrie": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4421
  },
  "dark-souls-remastered": {
@@ -770,7 +833,7 @@
   "opencritic_id": 5508
  },
  "darkest-dungeon-ii": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 12422
  },
  "darkwood": {
@@ -778,7 +841,7 @@
   "opencritic_id": 4738
  },
  "date-everything": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 17743
  },
  "daxter": {
@@ -797,7 +860,7 @@
   "opencritic_id": 1736
  },
  "dead-by-daylight": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 2844
  },
  "dead-cells": {
@@ -808,7 +871,7 @@
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "dead-or-alive-5-last-round": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 108
  },
  "dead-space--1": {
@@ -819,7 +882,7 @@
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "deadcraft": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13159
  },
  "deadlight": {
@@ -846,7 +909,7 @@
   "opencritic_id": 9436
  },
  "deliver-us-the-moon": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 6716
  },
  "dementium-the-ward": {
@@ -864,7 +927,7 @@
   "opencritic_id": 9421
  },
  "destiny-2-legacy-collection--2": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "destroy-all-humans": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -890,6 +953,9 @@
  "deus-ex-mankind-divided": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 1812
+ },
+ "deus-ex-the-conspiracy": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "deus-ex-the-fall": {
   "checked": "2026-10-07T01:08:00+00:00",
@@ -922,8 +988,14 @@
  "dillons-rolling-western-the-last-ranger": {
   "checked": "2026-10-08T03:09:56+00:00"
  },
+ "dino-crisis": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "dino-crisis--2": {
   "checked": "2026-10-07T01:52:06+00:00"
+ },
+ "dino-crisis-2": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "dino-frontier": {
   "checked": "2026-10-07T01:52:01+00:00"
@@ -937,7 +1009,7 @@
   "opencritic_id": 11148
  },
  "disgaea-5-alliance-of-vengeance": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 1579
  },
  "dishonored-2": {
@@ -945,11 +1017,17 @@
   "opencritic_id": 2843
  },
  "dishonored-death-of-the-outsider": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4613
  },
  "dishonored-definitive-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
+ },
+ "dishonored-definitive-edition--1": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "disneys-atlantis-the-lost-empire": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "dissidia-final-fantasy": {
   "checked": "2026-10-08T03:24:34+00:00"
@@ -987,12 +1065,25 @@
   "opencritic_id": 1456
  },
  "doom--2": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 1572
+ },
+ "doom--3": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "doom-3--3": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "doom-64": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 9179
  },
  "doom-eternal": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 7410
+ },
+ "doom-ii": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "dota-2": {
   "checked": "2026-10-07T01:08:00+00:00",
@@ -1030,7 +1121,7 @@
   "opencritic_id": 3777
  },
  "dragon-star-varnir": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7857
  },
  "dragons-dogma-ii": {
@@ -1049,12 +1140,15 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 193
  },
+ "dropship-united-peace-force": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "drums-rock": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 14381
  },
  "dungeons-of-hinterberg": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16996
  },
  "dying-light": {
@@ -1066,11 +1160,11 @@
   "opencritic_id": 12340
  },
  "dynasty-warriors-8-empires": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 103
  },
  "dynasty-warriors-9": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 5504
  },
  "ea-sports-ufc-4": {
@@ -1082,32 +1176,38 @@
   "opencritic_id": 15766
  },
  "eagle-flight": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 3462
  },
  "earth-defense-force-4-dot-1-the-shadow-of-new-despair": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 2049
  },
  "earth-defense-force-5": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 6759
  },
  "earth-defense-force-iron-rain": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7530
  },
  "earth-defense-force-world-brothers": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 11410
  },
  "earth-defense-force-world-brothers-2": {
   "checked": "2026-10-10T15:53:45+00:00",
   "opencritic_id": 17359
  },
+ "echochrome": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "echoes-of-the-end": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 18978
+ },
+ "echoshift": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "eiyuden-chronicle-hundred-heroes": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1118,19 +1218,19 @@
   "opencritic_id": 12090
  },
  "eldest-souls": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 11750
  },
  "elite-dangerous": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 567
  },
  "embr": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 9489
  },
  "empire-of-sin": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 10595
  },
  "ender-lilies-quietus-of-the-knights": {
@@ -1138,7 +1238,7 @@
   "opencritic_id": 10886
  },
  "endless-dungeon": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15650
  },
  "endling-extinction-is-forever": {
@@ -1146,11 +1246,11 @@
   "opencritic_id": 13393
  },
  "enotria-the-last-song": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 17272
  },
  "entwined": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 248
  },
  "epic-mickey-rebrushed": {
@@ -1173,7 +1273,7 @@
   "opencritic_id": 4488
  },
  "everybodys-golf--1": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4764
  },
  "evil-dead-the-game--1": {
@@ -1185,7 +1285,7 @@
   "opencritic_id": 13378
  },
  "expeditions-a-mudrunner-game": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16374
  },
  "f-e-a-r": {
@@ -1206,7 +1306,7 @@
   "opencritic_id": 18323
  },
  "fade-to-silence--1": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7642
  },
  "fahrenheit-indigo-prophecy-remastered": {
@@ -1240,26 +1340,29 @@
  "fantasy-life": {
   "checked": "2026-10-08T03:09:56+00:00"
  },
+ "fantavision": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "far-changing-tides": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 12785
  },
  "far-cry-3": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "far-cry-3-blood-dragon-classic-edition": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "far-cry-3-classic-edition": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 6166
  },
  "far-cry-4": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 159
  },
  "far-cry-5": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4384
  },
  "far-cry-6-gold-edition": {
@@ -1282,19 +1385,19 @@
   "opencritic_id": 11764
  },
  "farming-simulator-25": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 17647
  },
  "fate-slash-samurai-remnant": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15559
  },
  "fbc-firebreak": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 18457
  },
  "fia-european-truck-racing-championship": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "fifa-23": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1323,7 +1426,7 @@
   "opencritic_id": 1512
  },
  "final-fantasy-xvi": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 14516
  },
  "fire-emblem": {
@@ -1347,7 +1450,7 @@
   "opencritic_id": 7401
  },
  "firefighting-simulator-ignite": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 19240
  },
  "firewall-zero-hour": {
@@ -1363,7 +1466,7 @@
   "opencritic_id": 12310
  },
  "five-nights-at-freddys-help-wanted": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7814
  },
  "five-nights-at-freddys-help-wanted-2": {
@@ -1374,7 +1477,7 @@
   "opencritic_id": 12312
  },
  "flintlock-the-siege-of-dawn": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16947
  },
  "foamstars": {
@@ -1382,19 +1485,22 @@
   "opencritic_id": 16271
  },
  "football-manager-26-console": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "for-honor": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 2863
  },
  "for-the-king": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 5927
  },
  "for-the-king-ii": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15791
+ },
+ "forbidden-siren-2": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "fortnite": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1416,11 +1522,18 @@
   "opencritic_id": 5948
  },
  "frostpunk-console-edition": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
  },
  "fury-unleashed": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 9292
+ },
+ "g-police": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "garou-mark-of-the-wolves": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 3695
  },
  "generation-zero": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -1435,7 +1548,7 @@
   "opencritic_id": 9592
  },
  "ghost-of-tsushima-directors-cut": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 11839
  },
  "ghost-signal-a-stellaris-game": {
@@ -1445,6 +1558,9 @@
  "ghost-trick-phantom-detective": {
   "checked": "2026-10-07T21:36:14+00:00",
   "opencritic_id": 15156
+ },
+ "ghosthunter": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "ghostrunner": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1459,8 +1575,11 @@
   "opencritic_id": 12720
  },
  "gigantosaurus-the-game": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 9153
+ },
+ "gitaroo-man--1": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "goat-simulator-3": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1479,6 +1598,9 @@
  "god-of-war-ii--1": {
   "checked": "2026-10-08T04:10:09+00:00"
  },
+ "god-of-war-iii": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "god-of-war-iii-remastered": {
   "checked": "2026-10-08T04:10:09+00:00",
   "opencritic_id": 1440
@@ -1494,6 +1616,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10488
  },
+ "gods-eater-burst": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "golden-sun": {
   "checked": "2026-10-09T03:51:52+00:00"
  },
@@ -1501,7 +1626,7 @@
   "checked": "2026-10-09T03:51:52+00:00"
  },
  "golf-with-your-friends": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 9467
  },
  "gran-turismo-7": {
@@ -1509,15 +1634,15 @@
   "opencritic_id": 12715
  },
  "granblue-fantasy-relink": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16192
  },
  "granblue-fantasy-versus-rising": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15972
  },
  "grand-ages-medieval": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 1788
  },
  "grand-theft-auto-chinatown-wars": {
@@ -1546,12 +1671,22 @@
  "grand-theft-auto-vice-city-the-definitive-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
+ "grandia": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "gravity-crash-portable": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "gravity-rush": {
   "checked": "2026-10-08T03:38:30+00:00"
  },
  "gravity-rush-2": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 3383
+ },
+ "gravity-rush-remastered": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 2115
  },
  "greedfall": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1604,6 +1739,9 @@
  "harmoknight": {
   "checked": "2026-10-08T03:09:56+00:00"
  },
+ "harvest-moon-back-to-nature": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "harvest-moon-boy-and-girl": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
@@ -1616,6 +1754,10 @@
  "heavenly-bodies": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 12448
+ },
+ "heavy-rain": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 1535
  },
  "hell-is-us": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1636,6 +1778,9 @@
  "hello-neighbor-2": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13351
+ },
+ "hercs-adventures": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "high-on-life": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -1669,7 +1814,13 @@
   "opencritic_id": 2862
  },
  "horizon-zero-dawn-complete-edition": {
-  "checked": "2026-10-28T04:26:52+00:00"
+  "checked": "2026-10-28T03:48:11+00:00"
+ },
+ "hot-shots-golf-open-tee-2": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "hot-shots-tennis": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "hot-wheels-unleashed": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1680,7 +1831,7 @@
   "opencritic_id": 15394
  },
  "hotel-transylvania-scary-tale-adventures": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 12924
  },
  "hotline-miami": {
@@ -1691,11 +1842,11 @@
   "opencritic_id": 87
  },
  "hotshot-racing": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 10121
  },
  "human-fall-flat": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 2906
  },
  "humanity": {
@@ -1703,8 +1854,12 @@
   "opencritic_id": 14927
  },
  "humankind": {
-  "checked": "2026-10-28T04:26:52+00:00",
+  "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 10977
+ },
+ "hungry-shark-world": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6436
  },
  "hunt-showdown-1896": {
   "checked": "2026-10-10T15:53:45+00:00",
@@ -1717,6 +1872,10 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 1391
  },
+ "ice-age-scrats-nutty-adventure": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 8464
+ },
  "immortals-fenyx-rising": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10257
@@ -1724,6 +1883,9 @@
  "immortals-of-aveum": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 14987
+ },
+ "indiana-jones-and-the-staff-of-kings": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "indigo-prophecy": {
   "checked": "2026-10-07T01:52:04+00:00"
@@ -1748,6 +1910,13 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 323
  },
+ "insurgency-sandstorm": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6762
+ },
+ "intelligent-qube": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "invisible-inc": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 1253
@@ -1760,14 +1929,29 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 10974
  },
+ "jak-3": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "jak-and-daxter-collection": {
   "checked": "2026-10-08T03:47:52+00:00"
  },
  "jak-and-daxter-the-lost-frontier": {
   "checked": "2026-10-08T03:28:11+00:00"
  },
+ "jak-and-daxter-the-precursor-legacy": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "jak-ii": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "jak-x-combat-racing": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "jeanne-darc": {
   "checked": "2026-10-08T03:17:52+00:00"
+ },
+ "jet-moto": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "job-simulator-the-2050-archives": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -1776,6 +1960,13 @@
  "journey": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1436
+ },
+ "jumanji-the-video-game": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 8623
+ },
+ "jumping-flash": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "jurassic-world-evolution": {
   "checked": "2026-10-07T01:08:00+00:00",
@@ -1796,12 +1987,26 @@
  "kid-icarus-uprising": {
   "checked": "2026-10-08T02:58:42+00:00"
  },
+ "killer-frequency": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 15021
+ },
+ "killing-floor-2": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 3282
+ },
+ "killzone-liberation": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "killzone-mercenary": {
   "checked": "2026-10-08T03:45:56+00:00"
  },
  "killzone-shadow-fall": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 302
+ },
+ "kinetica": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "kingdom-come-deliverance": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -1831,6 +2036,10 @@
  },
  "kingdom-hearts-vr-experience": {
   "checked": "2026-10-07T04:21:24+00:00"
+ },
+ "kingdom-new-lands": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 4836
  },
  "kingdoms-of-amalur-re-reckoning": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1864,6 +2073,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11404
  },
+ "kurushi-final-mental-blocks": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "l-a-noire": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -1876,8 +2088,22 @@
  "left-4-dead-2": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "legacy-of-kain-defiance": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "legendary-fishing": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "metacritic_slug": "legendary-fishing"
+ },
+ "lego-batman-3-beyond-gotham": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 166
+ },
  "lego-batman-the-videogame": {
   "checked": "2026-10-08T03:28:11+00:00"
+ },
+ "lego-city-undercover--1": {
+  "checked": "2026-10-28T05:02:25+00:00"
  },
  "lego-dc-super-villains": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1897,12 +2123,31 @@
  "lego-indiana-jones-the-original-adventures": {
   "checked": "2026-10-08T03:24:34+00:00"
  },
+ "lego-jurassic-world": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 357
+ },
+ "lego-marvels-avengers": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 1606
+ },
  "lego-pirates-of-the-caribbean-the-video-game": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "lego-star-wars-ii-the-original-trilogy--4": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "lego-star-wars-the-skywalker-saga": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 9901
+ },
+ "lego-the-hobbit": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 272
+ },
+ "lego-worlds": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 3646
  },
  "liberation-maiden": {
   "checked": "2026-10-08T03:09:56+00:00"
@@ -1914,6 +2159,14 @@
  "life-is-strange": {
   "checked": "2026-10-07T01:52:02+00:00"
  },
+ "life-is-strange-double-exposure": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17125
+ },
+ "like-a-dragon-infinite-wealth": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 15906
+ },
  "limbo": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 19474
@@ -1921,6 +2174,10 @@
  "little-big-adventure-twinsens-quest--2": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 17683
+ },
+ "little-big-workshop": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 8429
  },
  "little-nightmares": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -1933,11 +2190,21 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 162
  },
+ "locks-quest": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "locoroco": {
   "checked": "2026-10-08T03:21:16+00:00"
  },
  "locoroco-2": {
   "checked": "2026-10-08T03:19:30+00:00"
+ },
+ "locoroco-midnight-carnival": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "lonely-mountains-downhill": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 8395
  },
  "lords-of-the-fallen--2": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -1952,6 +2219,9 @@
  },
  "luigis-mansion": {
   "checked": "2026-10-08T03:08:11+00:00"
+ },
+ "lumines": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "mad-max": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -1968,6 +2238,17 @@
  "mafia-the-old-country": {
   "checked": "2026-10-22T15:20:10+00:00",
   "opencritic_id": 18399
+ },
+ "magicka-2": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 57
+ },
+ "mahjong--3": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "malicious-fallen": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 3940
  },
  "maneater": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2021,9 +2302,17 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 10480
  },
+ "marvels-spider-man-remastered": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 10528
+ },
  "mass-effect-legendary-edition": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 11290
+ },
+ "matterfall": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 4614
  },
  "max-payne": {
   "checked": "2026-10-07T01:08:00+00:00",
@@ -2037,6 +2326,19 @@
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 20856
  },
+ "medievil": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "medievil--1": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 8080
+ },
+ "medievil-ii--1": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "medievil-resurrection": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "meet-your-maker": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 14530
@@ -2048,9 +2350,24 @@
  "mega-man-powered-up": {
   "checked": "2026-10-08T03:21:16+00:00"
  },
+ "mega-man-x-command-mission": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "megadimension-neptunia-vii": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 2193
+ },
  "megalith": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 7152
+ },
+ "melty-blood-type-lumina": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 12072
+ },
+ "metal-eden": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 18126
  },
  "metal-gear-solid-2-sons-of-liberty": {
   "checked": "2026-10-08T04:10:09+00:00"
@@ -2074,9 +2391,20 @@
  "metal-slug-anthology": {
   "checked": "2026-10-08T03:24:34+00:00"
  },
+ "metro-2033-redux": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 957
+ },
  "metro-exodus": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 6847
+ },
+ "metro-last-light": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "metro-redux": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 220
  },
  "metroid-samus-returns": {
   "checked": "2026-10-08T02:55:43+00:00",
@@ -2096,6 +2424,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 4213
  },
+ "mighty-morphin-power-rangers-ritas-rewind": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17734
+ },
  "mighty-switch-force": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
@@ -2113,6 +2445,13 @@
  "mirror-s-edge": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "mister-mosquito": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "monopoly-madness": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 12482
+ },
  "monster-boy-and-the-cursed-kingdom": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 1752
@@ -2128,13 +2467,36 @@
   "checked": "2026-10-08T03:04:44+00:00",
   "opencritic_id": 4774
  },
+ "monster-hunter-stories--1": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "monster-hunter-stories-2-wings-of-ruin": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11650
+ },
  "monster-hunter-world": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 4903
  },
+ "monster-jam-showdown": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17202
+ },
  "monster-train": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 9508
+ },
+ "monster-truck-championship": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 10338
+ },
+ "moonlighter": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6087
+ },
+ "mordhau": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 7677
  },
  "mortal-kombat": {
   "checked": "2026-10-08T03:38:30+00:00"
@@ -2163,12 +2525,30 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 12965
  },
+ "mount-blade-warband": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 3288
+ },
+ "mr-driller": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "muramasa-rebirth": {
   "checked": "2026-10-08T03:45:56+00:00"
+ },
+ "my-friend-peppa-pig": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 12229
  },
  "my-hero-ones-justice-2": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 9159
+ },
+ "mycopunk": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 20730
+ },
+ "myst": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "naruto-shippuden-ultimate-ninja-storm-4": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -2247,6 +2627,10 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16798
  },
+ "ninja-gaiden-ragebound": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 18784
+ },
  "ninja-gaiden-sigma-plus": {
   "checked": "2026-10-08T03:47:52+00:00"
  },
@@ -2258,17 +2642,44 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 8782
  },
+ "no-heroes-allowed": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 5080
+ },
  "no-man-s-sky": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 2393
+ },
+ "no-more-heroes-iii": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11616
  },
  "nobody-saves-the-world": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 12611
  },
+ "nobunagas-ambition-taishi": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6182
+ },
  "northgard": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 5704
+ },
+ "observer-system-redux": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 10506
+ },
+ "oddballers": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 14246
+ },
+ "oddworld-abe-s-exoddus": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "oddworld-abe-s-oddysee": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 13303
  },
  "oddworld-munchs-oddysee-hd": {
   "checked": "2026-10-08T03:47:52+00:00"
@@ -2281,12 +2692,19 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11152
  },
+ "oddworld-soulstorm-enhanced-edition": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 12426
+ },
  "oddworld-strangers-wrath-hd": {
   "checked": "2026-10-08T03:42:12+00:00"
  },
  "odin-sphere-leifthrasir": {
   "checked": "2026-10-08T03:35:12+00:00",
   "opencritic_id": 1643
+ },
+ "okage-shadow-king": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "okamiden": {
   "checked": "2026-10-07T21:28:53+00:00"
@@ -2303,11 +2721,26 @@
   "checked": "2026-10-08T03:38:30+00:00",
   "opencritic_id": 94
  },
+ "omega-quintet": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 28
+ },
+ "onimusha-dawn-of-dreams": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "operation-tango": {
   "checked": "2026-10-07T01:52:02+00:00"
  },
+ "orcs-must-die-3": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 9802
+ },
  "ori-and-the-blind-forest-definitive-edition": {
   "checked": "2026-10-07T01:52:06+00:00"
+ },
+ "outcast-second-contact": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 5172
  },
  "outlast": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2329,6 +2762,14 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 10515
  },
+ "overpass--1": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 8864
+ },
+ "overpass-2": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 15644
+ },
  "overwatch": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1673
@@ -2337,9 +2778,16 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13448
  },
+ "pacific-drive": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 16317
+ },
  "papers-please": {
   "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 17092
+ },
+ "parappa-the-rapper-2": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "patapon": {
   "checked": "2026-10-08T03:19:30+00:00"
@@ -2353,6 +2801,29 @@
  "pathfinder-wrath-of-the-righteous": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 11911
+ },
+ "pathfinder-wrath-of-the-righteous-enhanced-edition": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "paw-patrol-grand-prix": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 13765
+ },
+ "paw-patrol-mighty-pups-save-adventure-bay": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 10551
+ },
+ "paw-patrol-on-a-roll": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6864
+ },
+ "paw-patrol-the-movie-adventure-city-calls": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11823
+ },
+ "paw-patrol-world": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 15582
  },
  "payday-3": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2401,12 +2872,31 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 7083
  },
+ "phogs": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 10612
+ },
  "picross-ds": {
   "checked": "2026-10-07T21:28:53+00:00"
+ },
+ "pile-up-box-by-box": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11096
+ },
+ "pinball-heroes": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 14139
  },
  "pistol-whip": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 8550
+ },
+ "pj-masks-heroes-of-the-night": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "planet-coaster-2": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17583
  },
  "planet-coaster-console-edition": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2431,6 +2921,10 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 227
  },
+ "plateup": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 13554
+ },
  "pocket-card-jockey": {
   "checked": "2026-10-08T02:58:42+00:00",
   "opencritic_id": 2689
@@ -2451,12 +2945,27 @@
  "pokemon-yellow-version-special-pikachu-edition": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
+ "poker-club": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 10600
+ },
+ "police-simulator-patrol-officers": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 13965
+ },
+ "poppy-playtime-chapter-3-deep-sleep": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
  "portal-2": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "portal-companion-collection": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 13325
+ },
+ "power-rangers-battle-for-the-grid": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 7508
  },
  "powerwash-simulator": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2470,6 +2979,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 3589
  },
+ "primal": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "prince-of-persia-revelations": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
@@ -2482,6 +2994,10 @@
  "prince-of-persia-the-lost-crown": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 15867
+ },
+ "prison-architect": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 1942
  },
  "professor-layton-and-the-curious-village": {
   "checked": "2026-10-07T21:28:53+00:00"
@@ -2499,6 +3015,9 @@
   "checked": "2026-10-08T03:04:44+00:00",
   "opencritic_id": 2365
  },
+ "psi-ops-the-mindgate-conspiracy": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "psychonauts": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 11382
@@ -2507,6 +3026,16 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 7404
  },
+ "pure-pool": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 146
+ },
+ "pursuit-force": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "pursuit-force-extreme-justice": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "pushmo": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
@@ -2514,16 +3043,46 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 4460
  },
+ "q-star-bert-rebooted": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 111
+ },
+ "r-type-dimensions-ex": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 6952
+ },
+ "r4-ridge-racer-type-4--1": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 14472
+ },
+ "rabbids-invasion-the-interactive-tv-show": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "rabbids-party-of-legends": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 13340
+ },
  "radiant-historia": {
   "checked": "2026-10-08T02:55:43+00:00"
+ },
+ "rage-2": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 7123
  },
  "rain-world": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 4111
  },
+ "rainbow-moon": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 2334
+ },
  "raji-an-ancient-epic": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 10040
+ },
+ "rally-cross": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "ratchet-and-clank": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2536,6 +3095,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10994
  },
+ "ratchet-clank-size-matters": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "rayman-3d": {
   "checked": "2026-10-08T03:13:36+00:00"
  },
@@ -2545,6 +3107,14 @@
  },
  "rayman-origins": {
   "checked": "2026-10-08T03:09:56+00:00"
+ },
+ "readyset-heroes": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 8367
+ },
+ "rebel-galaxy": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 1740
  },
  "red-dead-redemption--1": {
   "checked": "2026-10-07T05:58:30+00:00"
@@ -2560,6 +3130,10 @@
  "resident-evil--3": {
   "checked": "2026-10-07T01:52:01+00:00"
  },
+ "resident-evil-2": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 20362
+ },
  "resident-evil-2--1": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 6848
@@ -2567,6 +3141,10 @@
  "resident-evil-3": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 8746
+ },
+ "resident-evil-3-nemesis": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 20363
  },
  "resident-evil-4--3": {
   "checked": "2026-10-07T01:52:01+00:00"
@@ -2580,6 +3158,10 @@
  "resident-evil-7-biohazard": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 2886
+ },
+ "resident-evil-directors-cut": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 20361
  },
  "resident-evil-resistance": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2599,6 +3181,13 @@
  "resistance-burning-skies": {
   "checked": "2026-10-08T03:51:23+00:00"
  },
+ "resistance-retribution": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "resogun": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 310
+ },
  "return-to-monkey-island": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13681
@@ -2610,15 +3199,43 @@
  "rhythm-heaven-megamix": {
   "checked": "2026-10-08T02:58:42+00:00"
  },
+ "riders-republic": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 12221
+ },
+ "ridge-racer--1": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "ridge-racer--2": {
   "checked": "2026-10-08T03:17:52+00:00"
+ },
+ "ridge-racer-2": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 14182
  },
  "rise-of-nations-extended-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "rise-of-the-kasai": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "rise-of-the-ronin": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 16053
+ },
  "rise-of-the-tomb-raider": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1517
+ },
+ "rise-of-the-tomb-raider-20-year-celebration": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 3414
+ },
+ "risk-urban-assault": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "riven-the-sequel-to-myst": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "robocop-rogue-city": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2634,6 +3251,14 @@
  "rogue-galaxy": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
+ "roguebook": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11538
+ },
+ "rollercoaster-tycoon-3": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 10191
+ },
  "rollerdrome": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13550
@@ -2644,11 +3269,26 @@
  "rome-total-war-alexander": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "rugby-25": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 18205
+ },
+ "rune-factory-4-special": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 9052
+ },
+ "runescape-dragonwilds": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 18422
+ },
  "s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-pripyat": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
  "s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky": {
   "checked": "2026-10-07T01:52:06+00:00"
+ },
+ "s-dot-t-a-dot-l-k-dot-e-r-dot-legends-of-the-zone-trilogy": {
+  "checked": "2026-10-28T05:02:25+00:00"
  },
  "s-t-a-l-k-e-r-shadow-of-chernobyl": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -2665,12 +3305,45 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 11879
  },
+ "sakuna-of-rice-and-ruin": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 10253
+ },
+ "salt-and-sacrifice": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 13130
+ },
+ "samurai-warriors-5": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11536
+ },
  "scribblenauts-collection": {
   "checked": "2026-10-07T21:24:23+00:00"
+ },
+ "season-a-letter-to-the-future": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 14207
+ },
+ "secret-agent-clank": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "secret-neighbor": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "serious-sam-collection": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "session-skate-sim": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 13480
  },
  "severed": {
   "checked": "2026-10-08T03:42:12+00:00",
   "opencritic_id": 2585
+ },
+ "shadow-of-the-beast--1": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 2120
  },
  "shadow-of-the-colossus--1": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -2683,6 +3356,10 @@
  "shadow-tactics-blades-of-the-shogun": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 3310
+ },
+ "shadow-warrior-2": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 1630
  },
  "shantae-and-the-pirates-curse": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -2738,6 +3415,13 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 9279
  },
+ "skull-and-bones": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 16299
+ },
+ "skygunner": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "slay-the-spire": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 7207
@@ -2750,8 +3434,22 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 13750
  },
+ "slitterhead": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17586
+ },
+ "sly-2-band-of-thieves": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "sly-3-honor-among-thieves": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "sly-cooper-thieves-in-time": {
   "checked": "2026-10-08T03:47:52+00:00"
+ },
+ "sniper-elite-4": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 3497
  },
  "sniper-elite-5": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2765,12 +3463,20 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 11659
  },
+ "snow-bros-wonderland": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17779
+ },
  "solatorobo-red-the-hunter": {
   "checked": "2026-10-07T21:04:06+00:00"
  },
  "soma": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 1709
+ },
+ "somerville": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 13961
  },
  "sonic-classic-collection": {
   "checked": "2026-10-07T21:04:06+00:00"
@@ -2783,8 +3489,15 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4793
  },
+ "sonic-x-shadow-generations": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17505
+ },
  "soulcalibur-broken-destiny": {
   "checked": "2026-10-08T03:24:34+00:00"
+ },
+ "soulcalibur-iii": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "south-park-the-fractured-but-whole": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2793,6 +3506,18 @@
  "south-park-the-stick-of-truth": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 537
+ },
+ "space-engineers": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 1596
+ },
+ "space-hulk-deathwing-enhanced-edition": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6124
+ },
+ "space-junkies": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 7509
  },
  "spelunky": {
   "checked": "2026-10-08T03:35:12+00:00",
@@ -2837,8 +3562,18 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4507
  },
+ "star-wars-bounty-hunter": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "star-wars-demolition": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "star-wars-empire-at-war-gold-pack": {
   "checked": "2026-10-07T01:08:00+00:00"
+ },
+ "star-wars-episode-i-the-phantom-menace": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 16211
  },
  "star-wars-jedi-fallen-order": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -2848,13 +3583,29 @@
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 8321
  },
+ "star-wars-jedi-starfighter": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "star-wars-knights-of-the-old-republic": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 12313
  },
+ "star-wars-outlaws": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 16790
+ },
+ "star-wars-racer-revenge": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "star-wars-rebel-assault-ii-the-hidden-empire": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "star-wars-squadrons": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 9642
+ },
+ "star-wars-the-clone-wars": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "star-wars-the-force-unleashed": {
   "checked": "2026-10-08T03:28:11+00:00",
@@ -2868,6 +3619,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 2242
  },
+ "starlink-battle-for-atlas-digital-edition": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
  "steamworld-dig": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 280
@@ -2876,8 +3630,31 @@
   "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 1571
  },
+ "steep": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 3215
+ },
  "stellaris-console-edition": {
   "checked": "2026-10-07T01:52:06+00:00"
+ },
+ "stick-fight-the-game": {
+  "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "still-wakes-the-deep": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 16849
+ },
+ "story-of-seasons-a-wonderful-life": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 14354
+ },
+ "story-of-seasons-friends-of-mineral-town": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 9762
+ },
+ "story-of-seasons-pioneers-of-olive-town": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11044
  },
  "stranded-deep": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2897,6 +3674,9 @@
  },
  "stretchmo": {
   "checked": "2026-10-08T02:58:42+00:00"
+ },
+ "strider": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "stronghold-hd": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -2944,6 +3724,9 @@
  "super-punch-out": {
   "checked": "2026-10-09T03:48:48+00:00"
  },
+ "super-stardust-portable": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "superhot": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 2248
@@ -2955,6 +3738,10 @@
  "surgeon-simulator-anniversary-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
+ "surviving-the-aftermath": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 12386
+ },
  "sword-art-online-fractured-daydream": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17420
@@ -2962,6 +3749,27 @@
  "sword-of-the-sea": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 19001
+ },
+ "syberia-the-world-before": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 12899
+ },
+ "syphon-filter": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 13419
+ },
+ "syphon-filter-2": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 13756
+ },
+ "syphon-filter-3": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "syphon-filter-dark-mirror": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "syphon-filter-logans-shadow": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "system-shock-2": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -2971,6 +3779,10 @@
  },
  "tactics-ogre-let-us-cling-together--1": {
   "checked": "2026-10-08T03:17:52+00:00"
+ },
+ "tails-noir--1": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11508
  },
  "tails-of-iron": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -2993,17 +3805,45 @@
   "checked": "2026-10-08T03:35:12+00:00",
   "opencritic_id": 2432
  },
+ "tearaway-unfolded": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 1550
+ },
  "teenage-mutant-ninja-turtles-the-cowabunga-collection": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13600
+ },
+ "tekken-2--4": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "tekken-3--1": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "tekken-6--1": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "tekken-dark-resurrection": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "temtem": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 10654
  },
+ "terraria": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 148
+ },
+ "test-drive-unlimited-solar-crown": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17250
+ },
  "tetris-effect-connected": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 10254
+ },
+ "thank-goodness-youre-here": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 17040
  },
  "the-7th-guest-vr": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -3018,6 +3858,14 @@
  "the-casting-of-frank-stone": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17237
+ },
+ "the-crew-2": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6014
+ },
+ "the-crew-motorfest": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 15493
  },
  "the-dark-pictures-anthology-little-hope": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -3058,8 +3906,20 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 4502
  },
+ "the-exit-8": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 16610
+ },
  "the-forest": {
   "checked": "2026-10-07T01:08:00+00:00"
+ },
+ "the-forgotten-city": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 11732
+ },
+ "the-gardens-between": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 6580
  },
  "the-invincible": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -3072,9 +3932,19 @@
  "the-lara-croft-collection": {
   "checked": "2026-10-07T01:52:06+00:00"
  },
+ "the-last-blade-2": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 6334
+ },
  "the-last-guardian": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 1524
+ },
+ "the-last-of-us": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "the-last-of-us-left-behind": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "the-last-of-us-part-i": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -3087,6 +3957,10 @@
  "the-last-of-us-remastered": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 234
+ },
+ "the-legend-of-dragoon": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 14386
  },
  "the-legend-of-heroes-trails-in-the-sky": {
   "checked": "2026-10-08T03:24:34+00:00",
@@ -3125,12 +3999,27 @@
  "the-legend-of-zelda-the-minish-cap": {
   "checked": "2026-10-09T04:03:43+00:00"
  },
+ "the-lego-movie-videogame": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 289
+ },
+ "the-lego-ninjago-movie-video-game": {
+  "checked": "2026-10-28T05:02:25+00:00",
+  "opencritic_id": 4758
+ },
+ "the-long-dark": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 4403
+ },
  "the-lord-of-the-rings-return-to-moria": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15718
  },
  "the-lord-of-the-rings-tactics": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "the-mark-of-kri": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "the-matrix-awakens-an-unreal-engine-5-experience": {
   "checked": "2026-10-07T01:52:01+00:00"
@@ -3143,6 +4032,10 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 14938
  },
+ "the-pedestrian": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 8914
+ },
  "the-persistence": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 6402
@@ -3154,12 +4047,20 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 13226
  },
+ "the-raven-remastered": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 5734
+ },
  "the-rogue-prince-of-persia": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16774
  },
  "the-secret-of-monkey-island-special-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
+ },
+ "the-settlers-new-allies": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 14336
  },
  "the-sims-2-castaway--1": {
   "checked": "2026-10-08T03:31:49+00:00"
@@ -3178,9 +4079,32 @@
  "the-starship-damrey": {
   "checked": "2026-10-08T03:13:36+00:00"
  },
+ "the-surge": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 1662
+ },
+ "the-surge-2": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7879
+ },
+ "the-talos-principle-ii": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 15695
+ },
+ "the-technomancer": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 2609
+ },
  "the-texas-chain-saw-massacre": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 15357
+ },
+ "the-thaumaturge": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 16393
+ },
+ "the-train-giant": {
+  "checked": "2026-10-28T05:02:25+00:00"
  },
  "the-walking-dead": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -3196,6 +4120,10 @@
  "the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition": {
   "checked": "2026-10-07T02:35:15+00:00"
  },
+ "the-witch-and-the-hundred-knight-revival-edition": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 2118
+ },
  "the-witcher-3-wild-hunt": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 463
@@ -3206,12 +4134,36 @@
  "the-world-ends-with-you": {
   "checked": "2026-10-07T21:00:23+00:00"
  },
+ "thehunter-call-of-the-wild": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 3974
+ },
  "thief": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 285
  },
  "this-war-of-mine-final-cut": {
   "checked": "2026-10-07T01:52:04+00:00"
+ },
+ "thrillville": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "thrillville-off-the-rails": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "thymesia": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 13545
+ },
+ "time-crisis": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "timesplitters": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "tin-hearts": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 14824
  },
  "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -3221,8 +4173,38 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 2834
  },
+ "tom-clancy-s-the-division": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 1530
+ },
+ "tom-clancys-ghost-recon-breakpoint": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7884
+ },
+ "tom-clancys-ghost-recon-wildlands": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 2870
+ },
+ "tom-clancys-rainbow-six-extraction": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 11577
+ },
+ "tom-clancys-rainbow-six-siege-x-elite-edition": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "tom-clancys-the-division-2": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7089
+ },
  "tomb-raider--2": {
   "checked": "2026-10-07T01:08:00+00:00",
+  "opencritic_id": 291
+ },
+ "tomb-raider-anniversary": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "tomb-raider-definitive-edition": {
+  "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 291
  },
  "tomb-raider-i-star-ii-star-iii-remastered": {
@@ -3265,9 +4247,40 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 14619
  },
+ "totally-reliable-delivery-service": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 9215
+ },
+ "townsmen-a-kingdom-rebuilt": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "trackmania-turbo": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 1743
+ },
+ "train-sim-world-5": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 17310
+ },
+ "transference": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 6578
+ },
  "trek-to-yomi": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 13107
+ },
+ "trials-fusion": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 269
+ },
+ "trials-of-the-blood-dragon": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 2857
+ },
+ "trials-rising": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7093
  },
  "triangle-strategy": {
   "checked": "2026-10-07T05:58:30+00:00",
@@ -3276,6 +4289,22 @@
  "tribes-of-midgard": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11725
+ },
+ "tricky-towers": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 3038
+ },
+ "trine-4-the-nightmare-prince": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7391
+ },
+ "tron-run-slash-r": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 2249
+ },
+ "tropico-5": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 27
  },
  "tunic": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -3287,6 +4316,18 @@
  "twinsens-little-big-adventure-classic": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "twisted-metal": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "twisted-metal-2": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "twisted-metal-4": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "twisted-metal-iii": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
  "two-point-campus": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 12707
@@ -3295,6 +4336,9 @@
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 6530
  },
+ "two-point-hospital-jumbo-edition": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "two-point-museum": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17484
@@ -3302,6 +4346,14 @@
  "ultros": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16286
+ },
+ "umamusume-pretty-derby-party-dash": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 17216
+ },
+ "uncharted-4-a-thief-s-end": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 1538
  },
  "uncharted-golden-abyss": {
   "checked": "2026-10-08T03:42:12+00:00"
@@ -3314,6 +4366,10 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1543
  },
+ "under-the-waves": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 15432
+ },
  "undertale": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 1907
@@ -3322,9 +4378,16 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17418
  },
+ "uno--1": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "until-dawn": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1832
+ },
+ "until-dawn--1": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 17416
  },
  "until-dawn-rush-of-blood": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -3337,6 +4400,10 @@
  "untitled-goose-game": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 8308
+ },
+ "v-rising": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 13193
  },
  "valiant-hearts-the-great-war": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -3360,13 +4427,24 @@
  "velocity-2x-critical-mass-edition": {
   "checked": "2026-10-08T03:51:23+00:00"
  },
+ "venba": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 15302
+ },
  "viewfinder": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15228
  },
+ "vikings-wolves-of-midgard": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 3957
+ },
  "virtua-fighter-5-ultimate-showdown": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11462
+ },
+ "war-of-the-monsters": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "warframe": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -3396,21 +4474,69 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17120
  },
+ "warhammer-chaosbane": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7672
+ },
+ "warhammer-vermintide-2": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 5673
+ },
  "wario-land-4": {
   "checked": "2026-10-09T04:03:43+00:00"
  },
  "warioware-inc-dot-mega-microgame$": {
   "checked": "2026-10-09T04:03:43+00:00"
  },
+ "warriors-abyss": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 18118
+ },
+ "watch-dogs": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 254
+ },
  "watch-dogs-2": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 2846
  },
+ "watch-dogs-legion": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7405
+ },
  "weird-west-definitive-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
+ "werewolf-the-apocalypse-earthblood": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 10839
+ },
+ "werewolves-within": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 3636
+ },
+ "west-of-dead": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 9655
+ },
+ "wheel-of-fortune--6": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "wild-arms": {
+  "checked": "2026-10-28T05:02:28+00:00",
+  "opencritic_id": 13316
+ },
  "wild-arms--1": {
   "checked": "2026-10-07T01:52:01+00:00"
+ },
+ "wild-arms-2": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "wild-arms-3": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "wild-arms-4": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "wipeout-2048": {
   "checked": "2026-10-08T03:45:56+00:00"
@@ -3418,6 +4544,10 @@
  "wipeout-omega-collection": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4404
+ },
+ "wizard-with-a-gun": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 15648
  },
  "wo-long-fallen-dynasty": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -3435,16 +4565,40 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 255
  },
+ "wolfenstein-the-old-blood": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 26
+ },
  "wolfenstein-youngblood": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 7837
  },
+ "world-war-z": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 7513
+ },
  "world-war-z-aftermath": {
   "checked": "2026-10-07T01:52:04+00:00"
+ },
+ "worms": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "worms-armageddon": {
+  "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "worms-pinball": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "worms-rumble": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10616
+ },
+ "worms-wmd": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 3012
+ },
+ "worms-world-party": {
+  "checked": "2026-10-28T05:02:28+00:00"
  },
  "wreckfest": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -3457,6 +4611,10 @@
  "wwe-2k-battlegrounds": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 9899
+ },
+ "wwe-2k26": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 20174
  },
  "xcom-2": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -3485,6 +4643,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 8628
  },
+ "yet-another-zombie-defense-hd": {
+  "checked": "2026-10-28T05:02:27+00:00"
+ },
  "yo-kai-watch": {
   "checked": "2026-10-08T03:08:11+00:00",
   "opencritic_id": 2267
@@ -3499,8 +4660,16 @@
  "yoshis-island-super-mario-advance-3": {
   "checked": "2026-10-09T04:03:43+00:00"
  },
+ "you-suck-at-parking": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 13666
+ },
  "ys-i-and-ii-chronicles": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "ys-ix-monstrum-nox": {
+  "checked": "2026-10-28T05:02:27+00:00",
+  "opencritic_id": 8980
  },
  "ys-memories-of-celceta": {
   "checked": "2026-10-08T03:42:12+00:00",
@@ -3523,6 +4692,9 @@
  },
  "zero-escape-virtue-s-last-reward": {
   "checked": "2026-10-08T02:52:26+00:00"
+ },
+ "zombi--1": {
+  "checked": "2026-10-28T05:02:27+00:00"
  },
  "zombie-army-4-dead-war": {
   "checked": "2026-10-07T01:52:02+00:00",
