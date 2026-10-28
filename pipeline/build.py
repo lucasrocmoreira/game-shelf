@@ -74,7 +74,7 @@ def fetch_libraries(status):
             log(f"!! {name} failed: {e}")
             traceback.print_exc()
             got = snapshot.get(name, [])
-            status[name] = f"using last saved list ({type(e).__name__}: {str(e)[:160]})"
+            status[name] = f"using last saved list ({type(e).__name__}: {str(e)[:400]})"
         entries.extend(got)
     save_json(CACHE_DIR / "library_snapshot.json", snapshot)
     return entries

@@ -143,7 +143,9 @@ def _page_html():
                 last = e
                 continue
             if r.status_code in (429, 500, 502, 503, 504):
-                last = requests.HTTPError(f"{r.status_code} from Wikipedia ({kind})")
+                body = re.sub(r"<[^>]+>", " ", r.text or "")
+                body = re.sub(r"\s+", " ", body).strip()[:220]
+                last = requests.HTTPError(f"{r.status_code} from Wikipedia ({kind}): {body}")
                 continue
             r.raise_for_status()
             return r.json()["parse"]["text"] if kind == "parse" else r.text
