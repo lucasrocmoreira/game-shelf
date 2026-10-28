@@ -10832,6 +10832,14 @@
   "hltb_name": "Yoshi",
   "main": 1.0
  },
+ "igdb:86375": {
+  "checked": "2026-10-28T11:22:43+00:00",
+  "complete": 6.0,
+  "extra": 1.0,
+  "hltb_id": 39887,
+  "hltb_name": "Soccer",
+  "main": 0.5
+ },
  "igdb:86389": {
   "checked": "2026-10-16T14:58:55+00:00",
   "complete": 36.0,

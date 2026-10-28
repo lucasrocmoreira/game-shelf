@@ -2759,16 +2759,16 @@
   "via": "search"
  },
  "NES:nso:NES:Soccer": {
-  "candidates": 33,
-  "checked": "2026-10-28T05:33:14+00:00",
-  "conf": "high",
-  "id": 345758,
+  "candidates": null,
+  "checked": "2026-10-28T11:21:52+00:00",
+  "conf": "manual",
+  "id": 86375,
   "mp": null,
-  "score": 1.04,
-  "slug": null,
+  "score": null,
+  "slug": "soccer--2",
   "title": "Soccer",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "NES:nso:NES:Solar Jetman": {
   "candidates": 1,
