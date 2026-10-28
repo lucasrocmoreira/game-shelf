@@ -9944,7 +9944,7 @@
   {
    "also_platform": "PS4",
    "concept": "227319",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0113/e98238835ada32e22b4e21455b4206cacd19070ea359763f.png",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2118/4448362515c1c03644cae01d08e4784b30224f81e6c25514.png",
    "last_played": null,
    "match_platforms": null,
    "platform": "PS5",
@@ -11917,6 +11917,20 @@
   },
   {
    "also_platform": null,
+   "concept": "10009931",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1409/fa3f9b7d40c4b31a7247bf908a73e99391fe6c465926edd7.png",
+   "last_played": null,
+   "match_platforms": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10009931",
+   "store_url": "https://store.playstation.com/en-us/concept/10009931",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Monster Energy Supercross 25 - The Official Video Game"
+  },
+  {
+   "also_platform": null,
    "concept": "10007582",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0105/e058b465f4e8c6525af84885857c7f6293cc4ce6d69f2933.png",
    "last_played": null,
@@ -12544,6 +12558,20 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "Poppy Playtime: Chapter 1"
+  },
+  {
+   "also_platform": null,
+   "concept": "10010437",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/7981c9f8f122ac08d5febb8b883578b895300f8248f8cb1a.png",
+   "last_played": null,
+   "match_platforms": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10010437",
+   "store_url": "https://store.playstation.com/en-us/concept/10010437",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Poppy Playtime: Chapter 2"
   },
   {
    "also_platform": null,
@@ -13496,6 +13524,20 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "Tails Noir"
+  },
+  {
+   "also_platform": "PS4",
+   "concept": "234823",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2118/150f9fec9ac91e05dbbff790696d036714f555944f9f436d.png",
+   "last_played": null,
+   "match_platforms": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:234823",
+   "store_url": "https://store.playstation.com/en-us/concept/234823",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Tales of ARISE - Beyond the Dawn Edition PS4 & PS5"
   },
   {
    "also_platform": null,
@@ -18498,6 +18540,2150 @@
    "source_id": "4704690",
    "steam_appid": 4704690,
    "title": "MECCHA CHAMELEON"
+  }
+ ],
+ "switch_online": [
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Balloon Fight",
+   "title": "Balloon Fight"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Baseball",
+   "title": "Baseball"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Donkey Kong",
+   "title": "Donkey Kong"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Double Dragon",
+   "title": "Double Dragon"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Dr. Mario",
+   "title": "Dr. Mario"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Excitebike",
+   "title": "Excitebike"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ghosts 'n Goblins",
+   "title": "Ghosts 'n Goblins"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Gradius",
+   "title": "Gradius"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ice Climber",
+   "title": "Ice Climber"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ice Hockey",
+   "title": "Ice Hockey"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:The Legend of Zelda",
+   "title": "The Legend of Zelda"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Mario Bros.",
+   "title": "Mario Bros."
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Pro Wrestling",
+   "title": "Pro Wrestling"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:River City Ransom",
+   "title": "River City Ransom"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Soccer",
+   "title": "Soccer"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Super Mario Bros.",
+   "title": "Super Mario Bros."
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Super Mario Bros. 3",
+   "title": "Super Mario Bros. 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Tecmo Bowl",
+   "title": "Tecmo Bowl"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Tennis",
+   "title": "Tennis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Yoshi",
+   "title": "Yoshi"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:The Legend of Zelda SP",
+   "title": "The Legend of Zelda SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:NES Open Tournament Golf",
+   "title": "NES Open Tournament Golf"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Solomon's Key",
+   "title": "Solomon's Key"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Super Dodge Ball",
+   "title": "Super Dodge Ball"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Gradius SP (Stage 5)",
+   "title": "Gradius SP (Stage 5)"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Metroid",
+   "title": "Metroid"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Mighty Bomb Jack",
+   "title": "Mighty Bomb Jack"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:TwinBee",
+   "title": "TwinBee"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Adventures of Lolo (NA)",
+   "title": "Adventures of Lolo (NA)"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Dr. Mario SP",
+   "title": "Dr. Mario SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Metroid SP (Ridley battle)",
+   "title": "Metroid SP (Ridley battle)"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ninja Gaiden",
+   "title": "Ninja Gaiden"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Wario's Woods",
+   "title": "Wario's Woods"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Blaster Master",
+   "title": "Blaster Master"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ghosts'n Goblins SP",
+   "title": "Ghosts'n Goblins SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Joy Mech Fight",
+   "title": "Joy Mech Fight"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ninja Gaiden SP",
+   "title": "Ninja Gaiden SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Zelda II: The Adventure of Link",
+   "title": "Zelda II: The Adventure of Link"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Blaster Master SP",
+   "title": "Blaster Master SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Kirby's Adventure",
+   "title": "Kirby's Adventure"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Metroid SP (Mother Brain battle)",
+   "title": "Metroid SP (Mother Brain battle)"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Super Mario Bros. 2",
+   "title": "Super Mario Bros. 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Kid Icarus",
+   "title": "Kid Icarus"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Kirby's Adventure SP",
+   "title": "Kirby's Adventure SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:StarTropics",
+   "title": "StarTropics"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Zelda II: The Adventure of Link SP",
+   "title": "Zelda II: The Adventure of Link SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Kid Icarus SP",
+   "title": "Kid Icarus SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Punch-Out!!",
+   "title": "Punch-Out!!"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Star Soldier",
+   "title": "Star Soldier"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Super Mario Bros.: The Lost Levels",
+   "title": "Super Mario Bros.: The Lost Levels"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Clu Clu Land",
+   "title": "Clu Clu Land"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Donkey Kong Jr.",
+   "title": "Donkey Kong Jr."
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Star Soldier SP",
+   "title": "Star Soldier SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Vs. Excitebike",
+   "title": "Vs. Excitebike"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:City Connection",
+   "title": "City Connection"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Double Dragon II: The Revenge",
+   "title": "Double Dragon II: The Revenge"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:TwinBee SP",
+   "title": "TwinBee SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Volleyball",
+   "title": "Volleyball"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Donkey Kong 3",
+   "title": "Donkey Kong 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Mighty Bomb Jack SP",
+   "title": "Mighty Bomb Jack SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Wrecking Crew",
+   "title": "Wrecking Crew"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Downtown Nekketsu March: Super-Awesome Field Day!",
+   "title": "Downtown Nekketsu March: Super-Awesome Field Day!"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Gradius SP (Second loop)",
+   "title": "Gradius SP (Second loop)"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Kung-Fu Heroes",
+   "title": "Kung-Fu Heroes"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Vice: Project Doom",
+   "title": "Vice: Project Doom"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Crystalis",
+   "title": "Crystalis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Journey to Silius",
+   "title": "Journey to Silius"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Eliminator Boat Duel",
+   "title": "Eliminator Boat Duel"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:The Mystery of Atlantis",
+   "title": "The Mystery of Atlantis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Shadow of the Ninja",
+   "title": "Shadow of the Ninja"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Rygar",
+   "title": "Rygar"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:The Immortal",
+   "title": "The Immortal"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:S.C.A.T.: Special Cybernetic Attack Team",
+   "title": "S.C.A.T.: Special Cybernetic Attack Team"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Nightshade",
+   "title": "Nightshade"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Fire 'n Ice",
+   "title": "Fire 'n Ice"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ninja JaJaMaru-kun",
+   "title": "Ninja JaJaMaru-kun"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Super Mario Bros. 3 SP",
+   "title": "Super Mario Bros. 3 SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:EarthBound Beginnings",
+   "title": "EarthBound Beginnings"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Dig Dug II",
+   "title": "Dig Dug II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Mappy-Land",
+   "title": "Mappy-Land"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Pinball",
+   "title": "Pinball"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Daiva Story 6: Imperial of Nirsartia",
+   "title": "Daiva Story 6: Imperial of Nirsartia"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Xevious",
+   "title": "Xevious"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Mystery Tower",
+   "title": "Mystery Tower"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Devil World",
+   "title": "Devil World"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:The Mysterious Murasame Castle",
+   "title": "The Mysterious Murasame Castle"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ninja JaJaMaru-kun SP",
+   "title": "Ninja JaJaMaru-kun SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:R.C. Pro-Am",
+   "title": "R.C. Pro-Am"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Snake Rattle 'n' Roll",
+   "title": "Snake Rattle 'n' Roll"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Cobra Triangle",
+   "title": "Cobra Triangle"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Donkey Kong Jr. Math",
+   "title": "Donkey Kong Jr. Math"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Golf",
+   "title": "Golf"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Mach Rider",
+   "title": "Mach Rider"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Solar Jetman",
+   "title": "Solar Jetman"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Urban Champion",
+   "title": "Urban Champion"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Tetris",
+   "title": "Tetris"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Battletoads",
+   "title": "Battletoads"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ninja Gaiden II: The Dark Sword of Chaos",
+   "title": "Ninja Gaiden II: The Dark Sword of Chaos"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Mendel Palace",
+   "title": "Mendel Palace"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Pac-Man",
+   "title": "Pac-Man"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:The Tower of Druaga",
+   "title": "The Tower of Druaga"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ikari Warriors",
+   "title": "Ikari Warriors"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:Ninja Gaiden III: The Ancient Ship of Doom",
+   "title": "Ninja Gaiden III: The Ancient Ship of Doom"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "NES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:NES:R.C. Pro-Am II",
+   "title": "R.C. Pro-Am II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Brawl Brothers",
+   "title": "Brawl Brothers"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Breath of Fire",
+   "title": "Breath of Fire"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Demon's Crest",
+   "title": "Demon's Crest"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:F-Zero",
+   "title": "F-Zero"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Joe & Mac 2: Lost in the Tropics",
+   "title": "Joe & Mac 2: Lost in the Tropics"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby's Dream Course",
+   "title": "Kirby's Dream Course"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby's Dream Land 3",
+   "title": "Kirby's Dream Land 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:The Legend of Zelda: A Link to the Past",
+   "title": "The Legend of Zelda: A Link to the Past"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Pilotwings",
+   "title": "Pilotwings"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Smash Tennis",
+   "title": "Smash Tennis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Star Fox",
+   "title": "Star Fox"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Stunt Race FX",
+   "title": "Stunt Race FX"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super E.D.F. Earth Defense Force",
+   "title": "Super E.D.F. Earth Defense Force"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Ghouls 'n Ghosts",
+   "title": "Super Ghouls 'n Ghosts"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Mario Kart",
+   "title": "Super Mario Kart"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Mario World",
+   "title": "Super Mario World"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Mario World 2: Yoshi's Island",
+   "title": "Super Mario World 2: Yoshi's Island"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Metroid",
+   "title": "Super Metroid"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Puyo Puyo 2",
+   "title": "Super Puyo Puyo 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Soccer (removed on March 28, 2025)",
+   "title": "Super Soccer (removed on March 28, 2025)"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Tennis",
+   "title": "Super Tennis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Breath of Fire II",
+   "title": "Breath of Fire II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby Super Star",
+   "title": "Kirby Super Star"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Star Fox 2",
+   "title": "Star Fox 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Punch-Out!!",
+   "title": "Super Punch-Out!!"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Pop'n TwinBee",
+   "title": "Pop'n TwinBee"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Operation Logic Bomb",
+   "title": "Operation Logic Bomb"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Panel de Pon",
+   "title": "Panel de Pon"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Wild Guns",
+   "title": "Wild Guns"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Donkey Kong Country",
+   "title": "Donkey Kong Country"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Natsume Championship Wrestling",
+   "title": "Natsume Championship Wrestling"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Mario All-Stars",
+   "title": "Super Mario All-Stars"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Donkey Kong Country 2",
+   "title": "Donkey Kong Country 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Mario's Super Picross",
+   "title": "Mario's Super Picross"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:The Peace Keepers",
+   "title": "The Peace Keepers"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Amazing Hebereke",
+   "title": "Amazing Hebereke"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Donkey Kong Country 3",
+   "title": "Donkey Kong Country 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:The Ignition Factor",
+   "title": "The Ignition Factor"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kunio-kun no Dodgeball da yo Zen'in Shūgō!",
+   "title": "Kunio-kun no Dodgeball da yo Zen'in Shūgō!"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Valis IV",
+   "title": "Super Valis IV"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Tuff E Nuff",
+   "title": "Tuff E Nuff"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Doomsday Warrior",
+   "title": "Doomsday Warrior"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Prehistorik Man",
+   "title": "Prehistorik Man"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Psycho Dream",
+   "title": "Psycho Dream"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Joe & Mac",
+   "title": "Joe & Mac"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Magical Drop II",
+   "title": "Magical Drop II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Spanky's Quest",
+   "title": "Spanky's Quest"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Baseball Simulator 1.000",
+   "title": "Super Baseball Simulator 1.000"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Mario Kart SP",
+   "title": "Super Mario Kart SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Bombuzal",
+   "title": "Bombuzal"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Claymates",
+   "title": "Claymates"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Jelly Boy",
+   "title": "Jelly Boy"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:EarthBound",
+   "title": "EarthBound"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Metroid SP",
+   "title": "Super Metroid SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Earthworm Jim 2",
+   "title": "Earthworm Jim 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Harvest Moon",
+   "title": "Harvest Moon"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Mario World SP",
+   "title": "Super Mario World SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Punch-Out!! SP",
+   "title": "Super Punch-Out!! SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Congo's Caper",
+   "title": "Congo's Caper"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Rival Turf!",
+   "title": "Rival Turf!"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby Super Star SP",
+   "title": "Kirby Super Star SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby's Dream Course SP",
+   "title": "Kirby's Dream Course SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby's Dream Land 3 SP",
+   "title": "Kirby's Dream Land 3 SP"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Fighter's History",
+   "title": "Fighter's History"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby's Avalanche",
+   "title": "Kirby's Avalanche"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Kirby's Star Stacker",
+   "title": "Kirby's Star Stacker"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Side Pocket",
+   "title": "Side Pocket"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Battletoads in Battlemaniacs",
+   "title": "Battletoads in Battlemaniacs"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Killer Instinct",
+   "title": "Killer Instinct"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super R-Type",
+   "title": "Super R-Type"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Wrecking Crew '98",
+   "title": "Wrecking Crew '98"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Battletoads/Double Dragon",
+   "title": "Battletoads/Double Dragon"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Big Run",
+   "title": "Big Run"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Cosmo Gang the Puzzle",
+   "title": "Cosmo Gang the Puzzle"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Fatal Fury 2",
+   "title": "Fatal Fury 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Super Ninja Boy",
+   "title": "Super Ninja Boy"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Sutte Hakkun",
+   "title": "Sutte Hakkun"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Nobunaga's Ambition",
+   "title": "Nobunaga's Ambition"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Nobunaga's Ambition: Lord of Darkness",
+   "title": "Nobunaga's Ambition: Lord of Darkness"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Romance of the Three Kingdoms IV: Wall of Fire",
+   "title": "Romance of the Three Kingdoms IV: Wall of Fire"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Uncharted Waters: New Horizons",
+   "title": "Uncharted Waters: New Horizons"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Mario Paint",
+   "title": "Mario Paint"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Bubsy in Claws Encounters of the Furred Kind",
+   "title": "Bubsy in Claws Encounters of the Furred Kind"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Fatal Fury Special",
+   "title": "Fatal Fury Special"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "nso:SNES:Mario & Wario",
+   "title": "Mario & Wario"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Alone in the Dark: The New Nightmare",
+   "title": "Alone in the Dark: The New Nightmare"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Game & Watch Gallery 3",
+   "title": "Game & Watch Gallery 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Gargoyle's Quest",
+   "title": "Gargoyle's Quest"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Kirby's Dream Land",
+   "title": "Kirby's Dream Land"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:The Legend of Zelda: Link's Awakening DX",
+   "title": "The Legend of Zelda: Link's Awakening DX"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Metroid II: Return of Samus",
+   "title": "Metroid II: Return of Samus"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Super Mario Land 2: 6 Golden Coins",
+   "title": "Super Mario Land 2: 6 Golden Coins"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Tetris",
+   "title": "Tetris"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Wario Land 3",
+   "title": "Wario Land 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:BurgerTime Deluxe",
+   "title": "BurgerTime Deluxe"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Kirby's Dream Land 2",
+   "title": "Kirby's Dream Land 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Blaster Master: Enemy Below",
+   "title": "Blaster Master: Enemy Below"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Kirby Tilt 'n' Tumble",
+   "title": "Kirby Tilt 'n' Tumble"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:The Legend of Zelda: Oracle of Ages",
+   "title": "The Legend of Zelda: Oracle of Ages"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:The Legend of Zelda: Oracle of Seasons",
+   "title": "The Legend of Zelda: Oracle of Seasons"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Pokémon Trading Card Game",
+   "title": "Pokémon Trading Card Game"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Quest for Camelot",
+   "title": "Quest for Camelot"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Castlevania Legends",
+   "title": "Castlevania Legends"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Dr. Mario",
+   "title": "Dr. Mario"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mario Golf",
+   "title": "Mario Golf"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mario Tennis",
+   "title": "Mario Tennis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Alleyway",
+   "title": "Alleyway"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Baseball",
+   "title": "Baseball"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Super Mario Land",
+   "title": "Super Mario Land"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mega Man: Dr. Wily's Revenge",
+   "title": "Mega Man: Dr. Wily's Revenge"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mega Man II",
+   "title": "Mega Man II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mega Man III",
+   "title": "Mega Man III"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mega Man IV",
+   "title": "Mega Man IV"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mega Man V",
+   "title": "Mega Man V"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Donkey Kong Land",
+   "title": "Donkey Kong Land"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Donkey Kong Land 2",
+   "title": "Donkey Kong Land 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Donkey Kong Land III",
+   "title": "Donkey Kong Land III"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Tetris DX",
+   "title": "Tetris DX"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Donkey Kong",
+   "title": "Donkey Kong"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mario's Picross",
+   "title": "Mario's Picross"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Gradius: The Interstellar Assault",
+   "title": "Gradius: The Interstellar Assault"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Kirby's Star Stacker",
+   "title": "Kirby's Star Stacker"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Survival Kids",
+   "title": "Survival Kids"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:The Sword of Hope",
+   "title": "The Sword of Hope"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Bionic Commando",
+   "title": "Bionic Commando"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Kid Icarus: Of Myths and Monsters",
+   "title": "Kid Icarus: Of Myths and Monsters"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Balloon Kid",
+   "title": "Balloon Kid"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Yoshi",
+   "title": "Yoshi"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Fortified Zone",
+   "title": "Fortified Zone"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:The Sword of Hope II",
+   "title": "The Sword of Hope II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Wario Land: Super Mario Land 3",
+   "title": "Wario Land: Super Mario Land 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Avenging Spirit",
+   "title": "Avenging Spirit"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Mole Mania",
+   "title": "Mole Mania"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Game Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Game Boy:Revenge of the 'Gator",
+   "title": "Revenge of the 'Gator"
   }
  ]
 }
