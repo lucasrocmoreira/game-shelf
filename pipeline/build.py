@@ -98,6 +98,8 @@ def match_to_igdb(entries, igdb, overrides):
             return not m or m.get("via") != "fix" or m.get("slug") != fix
         if not m or m.get("via") == "fix":
             return True
+        if e.get("match_platforms") and m.get("mp") != sorted(e["match_platforms"]):
+            return True  # matched against the wrong systems before (e.g. PS Plus Classics vs. their PS4 re-releases)
         if m.get("v") != MATCHER_VERSION:
             # v2 matches that were confident (or exact Steam ids) stay; close calls and misses are redone.
             return not (m.get("v") in (2, 3) and m.get("conf") in ("high", "exact"))
@@ -112,6 +114,7 @@ def match_to_igdb(entries, igdb, overrides):
         matches[ekey(e)] = {
             "id": gid, "via": via, "v": MATCHER_VERSION, "checked": now_iso(),
             "score": score, "conf": conf, "slug": slug, "title": e["title"], "candidates": candidates,
+            "mp": sorted(e["match_platforms"]) if e.get("match_platforms") else None,
         }
 
     # 1) Fixes made in the app (or config/overrides.yml) win over everything.
@@ -151,13 +154,13 @@ def match_to_igdb(entries, igdb, overrides):
         if titles.looks_like_non_game(e["title"]):
             record(e, None, "non-game")
             continue
-        groups.setdefault(edits.source_key(e["title"]), []).append(e)
+        groups.setdefault((edits.source_key(e["title"]), tuple(sorted(e.get("match_platforms") or []))), []).append(e)
 
     log(f"  searching IGDB for {len(groups)} distinct titles")
     failures = empties = done = 0
     for i, group in enumerate(groups.values(), 1):
         title = group[0]["title"]
-        platforms = {e["platform"] for e in group}
+        platforms = set().union(*({*e["match_platforms"]} if e.get("match_platforms") else {e["platform"]} for e in group))
         try:
             g, score, conf, n = igdb.best_match(title, platforms)
         except Exception as e2:  # not cached: retried on the next run

@@ -59,6 +59,7 @@ def fetch():
         log(f"PS Plus {tier}: {len(games)} games (from {host})")
         for g in games:
             name = g.get("nameEn") or g.get("name") or ""
+            name = re.sub(r"\s*\((?:PS1|PS2|PSP|PS3|PSone)\)\s*$", "", name, flags=re.I)  # "Everybody's Golf 2 (PS1)"
             if not name or _ADDON.search(name) or titles.looks_like_non_game(name):
                 continue
             concept = str(g.get("conceptId") or g.get("productId") or name)
@@ -80,6 +81,9 @@ def fetch():
                     "store_url": g.get("conceptUrl"),
                     "image": g.get("imageUrl"),
                     "streaming": bool(g.get("streamingSupported")),
+                    # Classics are PS1/PS2/PSP/PS3 games; match them to the original, not to IGDB's
+                    # separate (usually unrated) entry for the PS4/PS5 re-release.
+                    "match_platforms": ["PS Classic"] if tier == "Classics" else None,
                 }
             )
     return out
