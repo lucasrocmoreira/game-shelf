@@ -781,6 +781,7 @@ function parseNsoHtml(html){
       if(!title || ["game","title"].includes(title.toLowerCase())) continue;
       if(!avail || avail.startsWith("no") || avail.startsWith("n/a") || ["—","–","-","✗","✘","×"].includes(avail)) continue;
       if(/[\u3040-\u30ff\u4e00-\u9fff]/.test(title)) continue;
+      if(/\bSP(\s*\(.*\))?$/.test(title)) continue;  // save-state versions of games already listed
       out.push({title, tag:app[0], console:app[1]});
     }
   }
