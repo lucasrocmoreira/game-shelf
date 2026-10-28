@@ -7522,6 +7522,14 @@
   "hltb_name": "Life Is Strange: Double Exposure",
   "main": 11.0
  },
+ "igdb:305234": {
+  "checked": "2026-10-28T11:38:27+00:00",
+  "complete": 8.5,
+  "extra": 1.0,
+  "hltb_id": 6139,
+  "hltb_name": "Monopoly",
+  "main": 1.0
+ },
  "igdb:305560": {
   "checked": "2026-10-16T04:59:05+00:00",
   "complete": 15.0,
@@ -8616,7 +8624,7 @@
   "main": 3.5
  },
  "igdb:41061": {
-  "checked": "2026-10-28T11:36:36+00:00",
+  "checked": "2026-10-28T11:38:25+00:00",
   "complete": 44.5,
   "extra": 35.0,
   "hltb_id": 52840,

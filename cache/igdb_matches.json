@@ -9032,7 +9032,7 @@
  },
  "PS4:psplus:205132": {
   "candidates": null,
-  "checked": "2026-10-28T11:35:51+00:00",
+  "checked": "2026-10-28T11:34:12+00:00",
   "conf": "manual",
   "id": 7609,
   "mp": null,
@@ -10213,7 +10213,7 @@
  },
  "PS4:psplus:228997": {
   "candidates": null,
-  "checked": "2026-10-28T11:35:51+00:00",
+  "checked": "2026-10-28T11:37:35+00:00",
   "conf": "manual",
   "id": 41061,
   "mp": null,
@@ -13627,7 +13627,7 @@
  },
  "PS5:PPSA18027_00": {
   "candidates": null,
-  "checked": "2026-10-28T11:32:33+00:00",
+  "checked": "2026-10-28T11:34:12+00:00",
   "conf": "manual",
   "id": 284574,
   "mp": null,
@@ -16480,15 +16480,16 @@
   "via": "search"
  },
  "PS5:psplus:10008585": {
-  "candidates": 1,
-  "checked": "2026-10-28T03:42:58+00:00",
-  "conf": null,
-  "id": null,
-  "score": 0.5,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-28T11:37:35+00:00",
+  "conf": "manual",
+  "id": 305234,
+  "mp": null,
+  "score": null,
+  "slug": "monopoly--19",
   "title": "NEW MONOPOLY®",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10008667": {
   "candidates": 25,
@@ -16634,7 +16635,7 @@
  },
  "PS5:psplus:10009025": {
   "candidates": null,
-  "checked": "2026-10-28T11:32:33+00:00",
+  "checked": "2026-10-28T11:34:12+00:00",
   "conf": "manual",
   "id": 284574,
   "mp": null,
@@ -20881,7 +20882,7 @@
  },
  "Steam:703080": {
   "candidates": null,
-  "checked": "2026-10-28T11:32:33+00:00",
+  "checked": "2026-10-28T11:34:12+00:00",
   "conf": "manual",
   "id": 284574,
   "mp": null,

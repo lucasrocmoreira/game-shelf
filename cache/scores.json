@@ -11042,6 +11042,14 @@
   "metacritic": 73,
   "metacritic_slug": "life-is-strange-double-exposure"
  },
+ "igdb:305234": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-10-28T11:37:53+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:305475": {},
  "igdb:305477": {},
  "igdb:305560": {
@@ -12552,7 +12560,7 @@
  "igdb:41061": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-28T11:36:05+00:00",
+  "checked": "2026-10-28T11:37:48+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
