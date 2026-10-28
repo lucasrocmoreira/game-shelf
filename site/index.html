@@ -46,10 +46,10 @@ body.view-psplus .lib-only{display:none}
 /* Playing now: the games you're in the middle of */
 .now{margin:6px 0 22px}
 .now h2{font:750 20px/1.1 var(--display);font-stretch:85%;margin:0 0 10px}
-.now-row{display:grid;grid-auto-flow:column;grid-auto-columns:calc((100% - 20px) / 3);gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:4px}
+.now-row{display:grid;grid-auto-flow:column;grid-auto-columns:min(calc((100% - 20px) / 3), 210px);gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:4px}
 .now-card{all:unset;cursor:pointer;scroll-snap-align:start;display:grid;gap:4px;align-content:start;min-width:0}
 .now-card:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:8px}
-.now-card img{width:100%;aspect-ratio:1/1;object-fit:cover;object-position:center top;border-radius:8px;background:var(--line);box-shadow:0 8px 20px -12px rgba(20,25,45,.6)}
+.now-card img{width:100%;aspect-ratio:264/374;object-fit:cover;border-radius:8px;background:var(--line);box-shadow:0 8px 20px -12px rgba(20,25,45,.6)}
 .now-t{font:650 14px/1.2 var(--display);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .now-p{font-size:12px;color:var(--muted)}
 .bar{height:4px;border-radius:2px;background:var(--line);overflow:hidden}
