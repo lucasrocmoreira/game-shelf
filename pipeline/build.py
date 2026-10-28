@@ -482,6 +482,15 @@ def to_site_row(row, sc, hl=None):
     return out
 
 
+LEGACY_CONSOLES = [(7, "PS1"), (8, "PS2"), (38, "PSP"), (9, "PS3"), (46, "PS Vita")]  # oldest first
+
+
+def original_console(game):
+    """Oldest PlayStation console the IGDB game came out on (for Classics without a serial)."""
+    plats = set((game or {}).get("platforms") or [])
+    return next((name for pid, name in LEGACY_CONSOLES if pid in plats), None)
+
+
 def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, hl_cache, status):
     """site/psplus.json: the PS Plus catalogs with the same scores and details as your library."""
     seen = load_json(CACHE_DIR / "psplus_seen.json", {})
@@ -495,6 +504,8 @@ def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, 
         d["tiers"].add(e["tier"])
         d["streaming"] = d["streaming"] or e.get("streaming")
         d.setdefault("store_url", e.get("store_url"))
+        if e["tier"] == "Classics" and not d.get("origin"):
+            d["origin"] = e.get("origin") or original_console(igdb_games.get(gid))
         d.setdefault("image", e.get("image"))
         seen.setdefault(e["concept"], "" if first_import else today)
         if seen[e["concept"]]:
@@ -514,6 +525,8 @@ def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, 
         if not out["cover"] and d.get("image"):
             out["cover"] = d["image"]
         out["ps_plus"] = False
+        if d.get("origin") and d["origin"] not in out["platforms"]:
+            out["platforms"].append(d["origin"])  # e.g. PS4, PS5, PS2
         games.append(out)
     games.sort(key=lambda g: g["title"].lower())
     save_json(

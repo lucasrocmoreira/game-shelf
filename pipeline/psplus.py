@@ -37,6 +37,28 @@ def _games(payload):
     return out
 
 
+# Classics keep the original disc or download serial in their product id, e.g.
+# "UP9000-PPSA12345_00-SCUS944230000000" is SCUS-94423, a PS1 disc.
+SERIALS = [
+    ("PS1", r"^(EMUPS1|SCUS9[0-4]|SLUS0|SCES0|SLES0|SCPS1|SLPS0)"),
+    ("PS2", r"^(EMUPS2|SCUS97|SLUS2|SCES5|SLES5|SCPS5|SLPS2)"),
+    ("PSP", r"^(UCUS|ULUS|UCES|ULES|UCJS|ULJS|NPUG|NPUH|NPEG|NPEH|NPUZ)"),
+    ("PS3", r"^(BCUS|BLUS|BCES|BLES|NPUB|NPUA|NPEB|NPEA)"),
+]
+
+
+def origin_hint(name, product_id):
+    """The console a PS Plus Classic first came out on, when the store data says so."""
+    m = re.search(r"\((PS1|PSone|PS2|PSP|PS3)\)\s*$", name or "", re.I)
+    if m:
+        return {"psone": "PS1"}.get(m.group(1).lower(), m.group(1).upper())
+    serial = (product_id or "").split("-")[-1].upper()
+    for console, pattern in SERIALS:
+        if re.match(pattern, serial):
+            return console
+    return None
+
+
 def _download(list_id):
     errors = []
     for url in (DIRECT.format(list_id), MIRROR.format(list_id)):
@@ -58,7 +80,7 @@ def fetch():
             raise RuntimeError(f"PS Plus {tier}: only {len(games)} games from {host}; the list format may have changed")
         log(f"PS Plus {tier}: {len(games)} games (from {host})")
         for g in games:
-            name = g.get("nameEn") or g.get("name") or ""
+            name = raw = g.get("nameEn") or g.get("name") or ""
             name = re.sub(r"\s*\((?:PS1|PS2|PSP|PS3|PSone)\)\s*$", "", name, flags=re.I)  # "Everybody's Golf 2 (PS1)"
             if not name or _ADDON.search(name) or titles.looks_like_non_game(name):
                 continue
@@ -81,6 +103,7 @@ def fetch():
                     "store_url": g.get("conceptUrl"),
                     "image": g.get("imageUrl"),
                     "streaming": bool(g.get("streamingSupported")),
+                    "origin": origin_hint(raw, g.get("productId")) if tier == "Classics" else None,
                     # Classics are PS1/PS2/PSP/PS3 games; match them to the original, not to IGDB's
                     # separate (usually unrated) entry for the PS4/PS5 re-release.
                     "match_platforms": ["PS Classic"] if tier == "Classics" else None,
