@@ -98,14 +98,21 @@ def parse(html):
             continue
         header = [h.lower() for h in grid[0]]
         gi = next((i for i, h in enumerate(header) if h in ("game", "title", "game title")), None)
-        ri = next((i for i, h in enumerate(header) if "na" in h.split("/") or h in ("na", "na/pal", "north america")), None)
+        ri = next((i for i, h in enumerate(header) if "na" in re.split(r"[/ ,]+", h) or "north america" in h or h in ("us", "americas")), None)
         if gi is None:
+            continue
+        if ri is None:
+            # Without a North America column we can't tell Japan-only games apart: skip the table rather than guess.
+            log(f"  Switch Online: no North America column in the {app[0]} table; skipped")
             continue
         for row in grid[1:]:
             if len(row) <= gi or not row[gi]:
                 continue
-            if ri is not None and len(row) > ri and row[ri].strip().lower().startswith("no"):
-                continue  # Japan/Europe-only release
+            avail = row[ri].strip().lower() if len(row) > ri else ""
+            if not avail or avail.startswith(("no", "n/a")) or avail in ("—", "–", "-", "✗", "✘", "×"):
+                continue  # not released in North America (Japan- or Europe-only)
+            if re.search(r"[\u3040-\u30ff\u4e00-\u9fff]", row[gi]):
+                continue  # Japanese-language title
             title = re.sub(r"\s*\[[^\]]*\]$", "", row[gi]).strip(" *†‡")
             if title and title.lower() not in ("game", "title"):
                 out.append((title, app[0], app[1]))
