@@ -16111,6 +16111,20 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:10007632": {
+  "candidates": null,
+  "checked": "2026-10-28T11:49:46+00:00",
+  "conf": "manual",
+  "id": 350049,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "wall-e--7",
+  "title": "Disney•Pixar Wall-E",
+  "v": 4,
+  "via": "fix"
+ },
  "PS5:psplus:10007635": {
   "candidates": 2,
   "checked": "2026-10-28T04:59:09+00:00",
