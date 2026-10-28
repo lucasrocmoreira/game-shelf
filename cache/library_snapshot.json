@@ -9853,7 +9853,7 @@
   {
    "also_platform": "PS4",
    "concept": "227319",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0113/e98238835ada32e22b4e21455b4206cacd19070ea359763f.png",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2118/4448362515c1c03644cae01d08e4784b30224f81e6c25514.png",
    "last_played": null,
    "platform": "PS5",
    "playtime_hours": 0.0,
@@ -11685,6 +11685,19 @@
   },
   {
    "also_platform": null,
+   "concept": "10009931",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1409/fa3f9b7d40c4b31a7247bf908a73e99391fe6c465926edd7.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10009931",
+   "store_url": "https://store.playstation.com/en-us/concept/10009931",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Monster Energy Supercross 25 - The Official Video Game"
+  },
+  {
+   "also_platform": null,
    "concept": "10007582",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0105/e058b465f4e8c6525af84885857c7f6293cc4ce6d69f2933.png",
    "last_played": null,
@@ -12267,6 +12280,19 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "Poppy Playtime: Chapter 1"
+  },
+  {
+   "also_platform": null,
+   "concept": "10010437",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/7981c9f8f122ac08d5febb8b883578b895300f8248f8cb1a.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10010437",
+   "store_url": "https://store.playstation.com/en-us/concept/10010437",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Poppy Playtime: Chapter 2"
   },
   {
    "also_platform": null,
@@ -13151,6 +13177,19 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "Tails Noir"
+  },
+  {
+   "also_platform": "PS4",
+   "concept": "234823",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2118/150f9fec9ac91e05dbbff790696d036714f555944f9f436d.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:234823",
+   "store_url": "https://store.playstation.com/en-us/concept/234823",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Tales of ARISE - Beyond the Dawn Edition PS4 & PS5"
   },
   {
    "also_platform": null,
