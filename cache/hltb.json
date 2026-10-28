@@ -5215,6 +5215,14 @@
   "hltb_name": "Goat Simulator 3",
   "main": 7.5
  },
+ "igdb:204385": {
+  "checked": "2026-10-28T11:48:03+00:00",
+  "complete": 5.0,
+  "extra": 2.5,
+  "hltb_id": 6856,
+  "hltb_name": "Pac-Man",
+  "main": 1.0
+ },
  "igdb:204408": {
   "checked": "2026-10-16T14:57:01+00:00"
  },

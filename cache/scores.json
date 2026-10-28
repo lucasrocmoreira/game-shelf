@@ -7606,6 +7606,14 @@
   "opencritic_pct": 50,
   "opencritic_tier": "Fair"
  },
+ "igdb:204385": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-28T11:47:30+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:204408": {
   "backloggd": 2.4,
   "bl_v": 2,

@@ -2627,16 +2627,16 @@
   "via": "search"
  },
  "NES:nso:NES:Pac-Man": {
-  "candidates": 37,
-  "checked": "2026-10-28T05:34:33+00:00",
-  "conf": "medium",
-  "id": 2750,
+  "candidates": null,
+  "checked": "2026-10-28T11:47:16+00:00",
+  "conf": "manual",
+  "id": 204385,
   "mp": null,
-  "score": 0.984,
-  "slug": null,
+  "score": null,
+  "slug": "pac-man--5",
   "title": "Pac-Man",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "NES:nso:NES:Pinball": {
   "candidates": 35,
