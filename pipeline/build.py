@@ -12,7 +12,7 @@ import traceback
 
 import yaml
 
-from . import edits, hltb, scores, sources, titles, wikidata
+from . import edits, hltb, nso, scores, sources, titles, wikidata
 from .igdb import IGDB, genres_of, metadata_of
 from .util import CACHE_DIR, CONFIG_DIR, SITE_DIR, days_since, load_json, log, now_iso, save_json
 
@@ -59,6 +59,7 @@ def fetch_libraries(status):
             env("GMAIL_ADDRESS") and env("GMAIL_APP_PASSWORD"),
         ),
         "manual": (sources.load_manual, True),
+        "switch_online": (nso.fetch, True),
     }
     entries = []
     for name, (fn, configured) in jobs.items():
@@ -206,6 +207,7 @@ def merge(entries, match_info, igdb_games, overrides, ed):
                 "igdb": g,
                 "cover": None,
                 "ps_plus": True,
+                "nso": True,
                 "src": set(),
                 "conf": None,
                 "non_game": True,
@@ -215,6 +217,9 @@ def merge(entries, match_info, igdb_games, overrides, ed):
         row["src"].add(sk)
         row.setdefault("raw", set()).add(e["title"])
         row["ps_plus"] = row["ps_plus"] and bool(e.get("ps_plus"))
+        row["nso"] = row["nso"] and bool(e.get("nso"))
+        if e.get("also_platform") and e["also_platform"] not in row["platforms"]:
+            row["platforms"].append(e["also_platform"])
         row["non_game"] = row["non_game"] and titles.looks_like_non_game(e["title"])
         row["manual"] = row["manual"] or bool(e.get("manual"))
         if info.get("conf") and (row["conf"] in (None, "medium")):
@@ -436,7 +441,8 @@ def to_site_row(row, sc, hl=None):
         "key": row["key"],
         "src": sorted(row["src"] | {edits.source_key(row["title"])}),
         "title": row["title"],
-        "platforms": sorted(row["platforms"]),
+        # Consoles you play on come first, so a classic reads "Switch + SNES".
+        "platforms": sorted(row["platforms"], key=lambda p: (p not in ("Switch", "Switch 2", "PS5", "PS4", "Steam"), p)),
         "genres": genres_of(g) or sc.get("steam_genres") or [],
         "year": _year(g),
         "playtime": row["playtime_hours"],
@@ -450,6 +456,7 @@ def to_site_row(row, sc, hl=None):
         "playing": row["playing"],
         "pending_key": row["pending_key"],
         "ps_plus": row["ps_plus"],
+        "nso": row["nso"],
         "manual": row["manual"],
         "scores": {
             "metacritic": sc.get("metacritic"),

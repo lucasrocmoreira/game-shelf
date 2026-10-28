@@ -44,6 +44,11 @@ PLATFORMS = {
     "PS Vita": {46},
     "PS3": {9},
     "Xbox": {11, 12, 49, 169},
+    "NES": {18, 99},             # NES, Famicom
+    "SNES": {19, 58},            # SNES, Super Famicom
+    "N64": {4},
+    "Genesis": {29},
+    "Virtual Boy": {87},
     "Wii U": {41},
 }
 VR_PLATFORMS = {165, 390}        # PS VR, PS VR2

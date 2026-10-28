@@ -194,6 +194,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
       <div id="srcBoxes"></div>
       <label><input type="checkbox" id="hideUnscored"> Hide games with no score</label>
       <label><input type="checkbox" id="hidePlus"> Hide unplayed PS Plus claims</label>
+      <label><input type="checkbox" id="hideNso"> Hide unplayed Switch Online classics</label>
       <label><input type="checkbox" id="showHidden"> Show hidden games and apps</label>
     </details>
     <div class="active" id="active"></div>
@@ -237,10 +238,10 @@ const store = {
 const prefs = store.get("shelf-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
-  filters:{}, tags:[], length:"", hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, showHidden:false,
+  filters:{}, tags:[], length:"", hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, showHidden:false,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,srcOn:[...state.srcOn]}); }
+function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,srcOn:[...state.srcOn]}); }
 
 // Which repository this site belongs to: <owner>.github.io/<repo>/
 const REPO = store.get("shelf-repo", null) || (()=>{
@@ -376,7 +377,8 @@ function filtered(){
     (state.played==="all" || (state.played==="played" ? !!g._played : !g._played)) &&
     (!state.hideUnscored || avg(g)!=null) &&
     (!state.length || (()=>{ const h=beat(g), [lo,hi]=state.length.split("-").map(Number); return h!=null && h>=lo && h<hi; })()) &&
-    (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played));
+    (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played) &&
+    (!state.hideNso || !g.nso || g._played || g._playing));
 }
 function shown(g){
   const k=state.sort;
@@ -435,6 +437,7 @@ function gameRow(g,i){
   const open = state.open.has(g.key);
   const pills = g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")
     + (g.ps_plus?`<span class="pill">PS Plus</span>`:"")
+    + (g.nso?`<span class="pill">Switch Online</span>`:"")
     + (g._played?`<span class="pill played">Played</span>`:"")
     + (g._hidden?`<span class="pill">${g._hidden==="auto"?"App, hidden":"Hidden"}</span>`:"")
     + (!g.matched?`<span class="pill warn">Not on IGDB</span>`:"");
@@ -654,6 +657,7 @@ function setup(){
   $("srcBoxes").innerHTML = Object.entries(SOURCES).map(([k,v])=>`<label><input type="checkbox" data-src="${k}" ${state.srcOn.has(k)?"checked":""}> ${v.label}</label>`).join("");
   $("hideUnscored").checked = state.hideUnscored;
   $("hidePlus").checked = state.hidePlus;
+  $("hideNso").checked = state.hideNso;
   for(const b of $("playedSeg").querySelectorAll("button")) b.setAttribute("aria-pressed", b.dataset.v===state.played);
 
   $("q").oninput = e=>{state.q=e.target.value;render()};
@@ -662,6 +666,7 @@ function setup(){
   for(const f of Object.keys(FILTERS)) $("f_"+f).onchange = e=>{state.filters[f]=e.target.value;render()};
   $("hideUnscored").onchange = e=>{state.hideUnscored=e.target.checked;render()};
   $("hidePlus").onchange = e=>{state.hidePlus=e.target.checked;render()};
+  $("hideNso").onchange = e=>{state.hideNso=e.target.checked;render()};
   $("showHidden").onchange = e=>{state.showHidden=e.target.checked;render()};
   $("playedSeg").onclick = e=>{const b=e.target.closest("button"); if(!b) return; state.played=b.dataset.v;
     for(const x of $("playedSeg").querySelectorAll("button")) x.setAttribute("aria-pressed", x===b); render()};
@@ -694,7 +699,7 @@ function setup(){
   };
 
   const bad = Object.entries(DATA.status||{}).filter(([,v])=>v!=="ok"&&v!=="not configured");
-  const names = {steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB",opencritic:"OpenCritic"};
+  const names = {steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB",opencritic:"OpenCritic",switch_online:"Switch Online classics",hltb:"HowLongToBeat"};
   const hints = {playstation:". Your PlayStation sign-in token has probably expired; generate a new one and update the PSN_NPSSO secret.",
                  nintendo_eshop:". Check that the GMAIL_APP_PASSWORD secret is still valid."};
   $("status").innerHTML = bad.length ? `<div class="status">${bad.map(([k,v])=>`<p><b>${names[k]||k}:</b> ${esc(v)}${hints[k]||""}</p>`).join("")}</div>` : "";

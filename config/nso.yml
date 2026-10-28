@@ -1,0 +1,16 @@
+# Nintendo Switch Online classics (the Nintendo Classics apps) added to your shelf automatically.
+# The list is read from Wikipedia on every daily update, so new additions appear on their own
+# and removed games drop off.
+enabled: true
+
+# Which apps to include. NES, SNES and Game Boy come with the basic membership; the others
+# need the Expansion Pack. Remove any you don't have. GameCube runs on Switch 2 only.
+apps:
+  - NES
+  - SNES
+  - Game Boy
+  - GBA
+  - N64
+  - Genesis
+  - GameCube
+  - Virtual Boy
