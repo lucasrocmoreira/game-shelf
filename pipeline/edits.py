@@ -13,7 +13,7 @@ from .util import CONFIG_DIR, now_iso
 PATH = CONFIG_DIR / "library_edits.json"
 LEGACY_PATH = CONFIG_DIR / "library_edits.yml"
 
-EMPTY = {"hidden": {}, "unhidden": {}, "played": {}, "added": [], "match": {}}
+EMPTY = {"hidden": {}, "unhidden": {}, "played": {}, "playing": {}, "added": [], "match": {}}
 
 
 def source_key(title: str) -> str:

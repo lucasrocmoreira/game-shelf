@@ -242,6 +242,8 @@ def merge(entries, match_info, igdb_games, overrides, ed):
             row["hidden"] = "auto"
         else:
             row["hidden"] = None
+        playing = [ed["playing"][k] for k in keys if k in ed["playing"]]
+        row["playing"] = playing[0] if playing else None
         played = [ed["played"][k] for k in keys if k in ed["played"]]
         row["played"], row["pending_key"] = (played[0] if played else None), None
         if not played:  # "I've played it" ticked when adding a game in the app, before it had a key
@@ -445,6 +447,7 @@ def to_site_row(row, sc, hl=None):
         "slug": g.get("slug"),
         "hidden": row["hidden"],
         "played": row["played"],
+        "playing": row["playing"],
         "pending_key": row["pending_key"],
         "ps_plus": row["ps_plus"],
         "manual": row["manual"],
