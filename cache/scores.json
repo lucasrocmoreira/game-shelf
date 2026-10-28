@@ -7424,6 +7424,14 @@
   "opencritic_pct": null,
   "opencritic_tier": "Mighty"
  },
+ "igdb:201963": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-28T11:39:38+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "wrc-generations"
+ },
  "igdb:20228": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -11045,7 +11053,7 @@
  "igdb:305234": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-28T11:37:53+00:00",
+  "checked": "2026-10-28T11:39:35+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -12560,7 +12568,7 @@
  "igdb:41061": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-28T11:37:48+00:00",
+  "checked": "2026-10-28T11:36:05+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null

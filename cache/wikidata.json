@@ -968,7 +968,7 @@
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "death-end-re-quest": {
-  "checked": "2026-10-28T11:37:46+00:00",
+  "checked": "2026-10-28T11:36:03+00:00",
   "opencritic_id": 7269
  },
  "death-note-killer-within": {
@@ -2772,7 +2772,7 @@
   "checked": "2026-10-28T06:30:39+00:00"
  },
  "monopoly--19": {
-  "checked": "2026-10-28T11:37:46+00:00"
+  "checked": "2026-10-28T11:39:32+00:00"
  },
  "monopoly-madness": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -5207,6 +5207,10 @@
  },
  "worms-world-party": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "wrc-generations": {
+  "checked": "2026-10-28T11:39:32+00:00",
+  "opencritic_id": 13382
  },
  "wreckfest": {
   "checked": "2026-10-07T01:52:02+00:00",
