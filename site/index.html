@@ -752,7 +752,9 @@ function tableGrid(table){
     while(i < cells.length || carry[col]){
       if(carry[col]){ row.push(carry[col].text); if(--carry[col].left <= 0) delete carry[col]; col++; continue; }
       const c = cells[i++]; c.querySelectorAll("sup").forEach(x=>x.remove());
-      const text = c.textContent.replace(/\s+/g," ").trim();
+      let text = c.textContent.replace(/\s+/g," ").trim();
+      // Availability cells are check/cross icons: read their sort value or the icon's alt text.
+      if(!text) text = (c.getAttribute("data-sort-value") || c.querySelector("img")?.getAttribute("alt") || "").trim();
       const span = +c.getAttribute("colspan")||1, rs = +c.getAttribute("rowspan")||1;
       for(let k=0;k<span;k++){ row.push(text); if(rs>1) carry[col] = {text, left:rs-1}; col++; }
     }

@@ -70,6 +70,10 @@ def _grid(table):
             for sup in c.find_all("sup"):
                 sup.decompose()
             text = re.sub(r"\s+", " ", c.get_text(" ", strip=True)).strip()
+            if not text:
+                # Availability cells are check/cross icons: read their sort value or the icon's alt text.
+                img = c.find("img")
+                text = (c.get("data-sort-value") or (img.get("alt") if img else "") or "").strip()
             span = int(c.get("colspan", 1) or 1)
             rs = int(c.get("rowspan", 1) or 1)
             for _ in range(span):
