@@ -1,0 +1,1841 @@
+{
+ "fetched": "2026-10-28T11:14:14.358Z",
+ "source": "Wikipedia: Nintendo Classics",
+ "games": [
+  {
+   "title": "Balloon Fight",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Baseball",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Double Dragon",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Dr. Mario",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Excitebike",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ghosts 'n Goblins",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Gradius",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ice Climber",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ice Hockey",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Bros.",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Pro Wrestling",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "River City Ransom",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Soccer",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Bros.",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Bros. 3",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Tecmo Bowl",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Tennis",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Yoshi",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "NES Open Tournament Golf",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Solomon's Key",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Dodge Ball",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Metroid",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mighty Bomb Jack",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "TwinBee",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Adventures of Lolo (NA)",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ninja Gaiden",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Wario's Woods",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Blaster Master",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Joy Mech Fight",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Zelda II: The Adventure of Link",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Adventure",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Bros. 2",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kid Icarus",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "StarTropics",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Punch-Out!!",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Star Soldier",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Bros.: The Lost Levels",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Clu Clu Land",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Jr.",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Vs. Excitebike",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "City Connection",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Double Dragon II: The Revenge",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Volleyball",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong 3",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Wrecking Crew",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Downtown Nekketsu March: Super-Awesome Field Day!",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kung-Fu Heroes",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Vice: Project Doom",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Crystalis",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Journey to Silius",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Eliminator Boat Duel",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Mystery of Atlantis",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Shadow of the Ninja",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Rygar",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Immortal",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "S.C.A.T.: Special Cybernetic Attack Team",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Nightshade",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Fire 'n Ice",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ninja JaJaMaru-kun",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "EarthBound Beginnings",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Dig Dug II",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mappy-Land",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Pinball",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Daiva Story 6: Imperial of Nirsartia",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Xevious",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mystery Tower",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Devil World",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Mysterious Murasame Castle",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "R.C. Pro-Am",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Snake Rattle 'n' Roll",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Cobra Triangle",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Jr. Math",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Golf",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mach Rider",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Solar Jetman",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Urban Champion",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Tetris",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Battletoads",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ninja Gaiden II: The Dark Sword of Chaos",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mendel Palace",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Pac-Man",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Tower of Druaga",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ikari Warriors",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Ninja Gaiden III: The Ancient Ship of Doom",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "R.C. Pro-Am II",
+   "tag": "NES",
+   "console": "Switch"
+  },
+  {
+   "title": "Brawl Brothers",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Breath of Fire",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Demon's Crest",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "F-Zero",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Joe & Mac 2: Lost in the Tropics",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Dream Course",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Dream Land 3",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: A Link to the Past",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Pilotwings",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Smash Tennis",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Star Fox",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Stunt Race FX",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super E.D.F. Earth Defense Force",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Ghouls 'n Ghosts",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Kart",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario World",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario World 2: Yoshi's Island",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Metroid",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Puyo Puyo 2",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Soccer (removed on March 28, 2025)",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Tennis",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Breath of Fire II",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby Super Star",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Star Fox 2",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Punch-Out!!",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Pop'n TwinBee",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Operation Logic Bomb",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Panel de Pon",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Wild Guns",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Country",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Natsume Championship Wrestling",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario All-Stars",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Country 2",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario's Super Picross",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Peace Keepers",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Amazing Hebereke",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Country 3",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "The Ignition Factor",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kunio-kun no Dodgeball da yo Zen'in Shūgō!",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Valis IV",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Tuff E Nuff",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Doomsday Warrior",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Prehistorik Man",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Psycho Dream",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Joe & Mac",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Magical Drop II",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Spanky's Quest",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Baseball Simulator 1.000",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Bombuzal",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Claymates",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Jelly Boy",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "EarthBound",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Earthworm Jim 2",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Harvest Moon",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Congo's Caper",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Rival Turf!",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Fighter's History",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Avalanche",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Star Stacker",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Side Pocket",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Battletoads in Battlemaniacs",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Killer Instinct",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super R-Type",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Wrecking Crew '98",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Battletoads/Double Dragon",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Big Run",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Cosmo Gang the Puzzle",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Fatal Fury 2",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Ninja Boy",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Sutte Hakkun",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Nobunaga's Ambition",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Nobunaga's Ambition: Lord of Darkness",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Romance of the Three Kingdoms IV: Wall of Fire",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Uncharted Waters: New Horizons",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Paint",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Bubsy in Claws Encounters of the Furred Kind",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Fatal Fury Special",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario & Wario",
+   "tag": "SNES",
+   "console": "Switch"
+  },
+  {
+   "title": "Alone in the Dark: The New Nightmare",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Game & Watch Gallery 3",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Gargoyle's Quest",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Dream Land",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: Link's Awakening DX",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Metroid II: Return of Samus",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Land 2: 6 Golden Coins",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Tetris",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Wario Land 3",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "BurgerTime Deluxe",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Dream Land 2",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Blaster Master: Enemy Below",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby Tilt 'n' Tumble",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: Oracle of Ages",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: Oracle of Seasons",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Pokémon Trading Card Game",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Quest for Camelot",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Castlevania Legends",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Dr. Mario",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Golf",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Tennis",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Alleyway",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Baseball",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Land",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mega Man: Dr. Wily's Revenge",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mega Man II",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mega Man III",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mega Man IV",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mega Man V",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Land",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Land 2",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong Land III",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Tetris DX",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario's Picross",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Gradius: The Interstellar Assault",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby's Star Stacker",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Survival Kids",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "The Sword of Hope",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Bionic Commando",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Kid Icarus: Of Myths and Monsters",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Balloon Kid",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Yoshi",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Fortified Zone",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "The Sword of Hope II",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Wario Land: Super Mario Land 3",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Avenging Spirit",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mole Mania",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Revenge of the 'Gator",
+   "tag": "Game Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Dr. Mario 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Kart 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Tennis",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Sin and Punishment",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Star Fox 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "WinBack",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Yoshi's Story",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Paper Mario",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Banjo-Kazooie",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: Majora's Mask",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "F-Zero X",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Golf",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby 64: The Crystal Shards",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Pokémon Snap",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Pokémon Puzzle League",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Wave Race 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Pilotwings 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Party",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Party 2",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "GoldenEye 007",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Pokémon Stadium",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Pokémon Stadium 2",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Excitebike 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Party 3",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Jet Force Gemini",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "1080° Snowboarding",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Harvest Moon 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Blast Corps",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Extreme-G",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Iggy's Reckin' Balls",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Perfect Dark",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Turok: Dinosaur Hunter",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Banjo-Tooie",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Shadow Man",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Turok 2: Seeds of Evil",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Ridge Racer 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Killer Instinct Gold",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Forsaken 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Rayman 2: The Great Escape",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Tonic Trouble",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Donkey Kong 64",
+   "tag": "N64",
+   "console": "Switch"
+  },
+  {
+   "title": "Castlevania: Bloodlines",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Contra: Hard Corps",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Dr. Robotnik's Mean Bean Machine",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Ecco the Dolphin",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Golden Axe",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Gunstar Heroes",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "MUSHA",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Phantasy Star IV",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Ristar",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Shining Force",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Shinobi III: Return of the Ninja Master",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Sonic the Hedgehog 2",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Streets of Rage 2",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Strider",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Altered Beast",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Dynamite Headdy",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Sword of Vermilion",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Thunder Force II",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "ToeJam & Earl",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Alien Soldier",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Light Crusader",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Fantasy Zone",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Shining Force II",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Sonic Spinball",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Space Harrier II",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Comix Zone",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Mega Man: The Wily Wars",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Target Earth",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Zero Wing",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Alisia Dragoon",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Beyond Oasis",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Earthworm Jim",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Alien Storm",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Columns",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Golden Axe II",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Virtua Fighter 2",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Flicky",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Kid Chameleon",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Pulseman",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Street Fighter II': Special Champion Edition",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Crusader of Centy",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Ghouls 'n Ghosts",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Landstalker",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "The Revenge of Shinobi",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Mercs",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "ToeJam & Earl in Panic on Funkotron",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Vectorman",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "ESWAT: City Under Siege",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Streets of Rage",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Thunder Blade",
+   "tag": "Genesis",
+   "console": "Switch"
+  },
+  {
+   "title": "Kuru Kuru Kururin",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: The Minish Cap",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario & Luigi: Superstar Saga",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Kart: Super Circuit",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Advance 4: Super Mario Bros. 3",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "WarioWare, Inc.: Mega Microgames!",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Metroid Fusion",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario Advance",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Super Mario World: Super Mario Advance 2",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Yoshi's Island: Super Mario Advance 3",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Fire Emblem: The Blazing Blade",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Kirby & the Amazing Mirror",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Golden Sun",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Golden Sun: The Lost Age",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "F-Zero: Maximum Velocity",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "The Legend of Zelda: A Link to the Past and Four Swords",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Metroid: Zero Mission",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Densetsu no Starfy",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Densetsu no Starfy 2",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Densetsu no Starfy 3",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Pokémon Mystery Dungeon: Red Rescue Team",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "F-Zero Climax",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "F-Zero: GP Legend",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Wario Land 4",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Fire Emblem: The Sacred Stones",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Klonoa: Empire of Dreams",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Mr. Driller 2",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario vs. Donkey Kong",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Dr. Mario & Puzzle League",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Kururin Paradise",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Metal Slug Advance",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "Monster Rancher Advance",
+   "tag": "GBA",
+   "console": "Switch"
+  },
+  {
+   "title": "F-Zero GX",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "The Legend of Zelda: The Wind Waker",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Soulcalibur II",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Super Mario Strikers",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Chibi-Robo!",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Luigi's Mansion",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Wario World",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Fire Emblem: Path of Radiance",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Pokémon XD: Gale of Darkness",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Super Mario Sunshine",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Star Fox Adventures",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Pokémon Colosseum",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "3D Tetris",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Galactic Pinball",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Golf",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "The Mansion of Innsmouth",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Red Alarm",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Teleroboxer",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Virtual Boy Wario Land",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario Clash",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Mario's Tennis",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Jack Bros.",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Space Invaders Virtual Collection",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "V-Tetris",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Vertical Force",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Virtual Bowling",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Dragon Hopper",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  },
+  {
+   "title": "Zero Racers",
+   "tag": "Virtual Boy",
+   "console": "Switch"
+  }
+ ]
+}
