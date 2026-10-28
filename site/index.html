@@ -22,6 +22,7 @@
   --accent:#7D92FF; --accent-ink:#0F1220; --hi:#3CC487; --mid:#E0B341; --lo:#F07467; --none:#5D6578;
 }}
 *{box-sizing:border-box}
+[hidden]{display:none !important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.5 var(--body)}
 a{color:inherit}
@@ -32,6 +33,15 @@ button,select,input{font:inherit;color:inherit}
 .topbar{display:flex;justify-content:flex-end;gap:8px;margin-bottom:4px}
 .iconbtn{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:14px}
 .iconbtn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+
+/* View switch: your library or the PS Plus catalog */
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:4px 0 16px}
+.tabs button{all:unset;cursor:pointer;padding:8px 14px;font:650 16px/1.2 var(--display);color:var(--muted);border-bottom:3px solid transparent;margin-bottom:-1px}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tabs button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+label.inline{display:inline-flex;gap:6px;align-items:center;font-size:14px}
+.pill.new{border-color:var(--accent);color:var(--accent)}
+body.view-psplus .lib-only{display:none}
 
 /* Playing now: the games you're in the middle of */
 .now{margin:6px 0 22px}
@@ -159,6 +169,10 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
     <button class="iconbtn" id="addBtn">Add a game</button>
     <button class="iconbtn" id="settingsBtn" aria-label="Settings">Settings</button>
   </div>
+  <nav class="tabs" id="tabs" role="tablist" aria-label="View">
+    <button type="button" role="tab" data-view="library" aria-selected="true">My library</button>
+    <button type="button" role="tab" data-view="psplus" aria-selected="false">PS Plus</button>
+  </nav>
   <section class="now" id="now" aria-label="Playing now"></section>
   <header class="hero" id="hero" aria-live="polite"></header>
   <div id="status"></div>
@@ -169,6 +183,14 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
       <select id="sort" aria-label="Rank by"></select>
     </div>
     <div class="row" id="platforms" role="group" aria-label="Platforms"></div>
+    <div class="row" id="catRow" hidden>
+      <div class="seg" id="tierSeg" role="group" aria-label="Catalog">
+        <button data-v="all" aria-pressed="true">Everything</button>
+        <button data-v="Game Catalog" aria-pressed="false">Game Catalog</button>
+        <button data-v="Classics" aria-pressed="false">Classics</button>
+      </div>
+      <label class="inline"><input type="checkbox" id="hideOwned"> Hide games I own</label>
+    </div>
     <div class="row">
       <div class="seg" id="playedSeg" role="group" aria-label="Played status">
         <button data-v="all" aria-pressed="true">All</button>
@@ -193,8 +215,8 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
       <summary>Scores in the average and other options</summary>
       <div id="srcBoxes"></div>
       <label><input type="checkbox" id="hideUnscored"> Hide games with no score</label>
-      <label><input type="checkbox" id="hidePlus"> Hide unplayed PS Plus claims</label>
-      <label><input type="checkbox" id="hideNso"> Hide unplayed Switch Online classics</label>
+      <label class="lib-only"><input type="checkbox" id="hidePlus"> Hide unplayed PS Plus claims</label>
+      <label class="lib-only"><input type="checkbox" id="hideNso"> Hide unplayed Switch Online classics</label>
       <label><input type="checkbox" id="showHidden"> Show hidden games and apps</label>
     </details>
     <div class="active" id="active"></div>
@@ -218,7 +240,7 @@ const SOURCES = {
 };
 const SORTS = [
   ["avg","Average score"], ...Object.entries(SOURCES).map(([k,v])=>[k,v.label]),
-  ["ttb_short","Shortest to beat"], ["ttb_long","Longest to beat"], ["playtime","Most played"], ["recent","Recently played"], ["year","Newest release"], ["title","Title A to Z"],
+  ["added","Newest in catalog"], ["ttb_short","Shortest to beat"], ["ttb_long","Longest to beat"], ["playtime","Most played"], ["recent","Recently played"], ["year","Newest release"], ["title","Title A to Z"],
 ];
 const GROUPS = [["","No grouping"],["genres","Group by genre"],["themes","Group by theme"],["franchises","Group by franchise"],
   ["platforms","Group by platform"],["developers","Group by developer"],["modes","Group by mode"]];
@@ -238,10 +260,10 @@ const store = {
 const prefs = store.get("shelf-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
-  filters:{}, tags:[], length:"", hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, showHidden:false,
+  filters:{}, tags:[], length:"", view:prefs.view==="psplus"?"psplus":"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, showHidden:false,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,srcOn:[...state.srcOn]}); }
+function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
 
 // Which repository this site belongs to: <owner>.github.io/<repo>/
 const REPO = store.get("shelf-repo", null) || (()=>{
@@ -296,12 +318,13 @@ async function writeEdits(mutate, message, rebuild){
 async function act(mutate, message, okText, rebuild=false){
   try{
     await writeEdits(mutate, message, rebuild);
-    applyEdits(); render(); toast(okText);
+    applyAll(); render(); toast(okText);
   }catch(e){ if(e.message !== "not-connected") toast(e.message); }
 }
 
 /* ---------------- Edits overlay ---------------- */
 function keysOf(g){ return [g.key, ...(g.src||[]).map(s=>"t:"+s), ...(g.pending_key?[g.pending_key]:[])]; }
+function applyAll(){ const keep = DATA; for(const v of ["library","psplus"]) if(VIEWS[v].data){ DATA = VIEWS[v].data; applyEdits(); } DATA = keep; }
 function applyEdits(){
   for(const g of DATA.games){
     if(!liveEdits){ g._hidden = g.hidden; g._played = g.played; g._playing = g.playing; continue; }
@@ -348,6 +371,7 @@ function value(g,key){
   if(key==="recent") return g.last_played?Date.parse(g.last_played):null;
   if(key==="year") return g.year;
   if(key==="ttb_short"||key==="ttb_long") return beat(g);
+  if(key==="added") return g.added ? Date.parse(g.added) : null;
   return null;
 }
 function sorted(list){
@@ -374,6 +398,7 @@ function filtered(){
     (!state.platforms.size || g.platforms.some(p=>state.platforms.has(p))) &&
     Object.entries(state.filters).every(([f,v])=>!v || (g[f]||[]).includes(v)) &&
     state.tags.every(t=>(g[t.field]||[]).includes(t.value)) &&
+    (state.view!=="psplus" || ((state.tier==="all" || (g.tiers||[]).includes(state.tier)) && (!state.hideOwned || !g.owned))) &&
     (state.played==="all" || (state.played==="played" ? !!g._played : !g._played)) &&
     (!state.hideUnscored || avg(g)!=null) &&
     (!state.length || (()=>{ const h=beat(g), [lo,hi]=state.length.split("-").map(Number); return h!=null && h>=lo && h<hi; })()) &&
@@ -385,7 +410,7 @@ function shown(g){
   if(k==="playtime") return {v:g.playtime?Math.round(g.playtime):null, unit:"h", cls:""};
   if(k==="year") return {v:g.year, unit:"", cls:""};
   if(k==="ttb_short"||k==="ttb_long"){ const h=beat(g); return {v:h==null?null:(h<1?"<1":Math.round(h)), unit:"h", cls:""}; }
-  if(k==="recent"||k==="title") { const a=avg(g); return {v:a,unit:"",cls:tone(a)}; }
+  if(k==="recent"||k==="title"||k==="added") { const a=avg(g); return {v:a,unit:"",cls:tone(a)}; }
   const v=value(g,k); return {v, unit:"", cls:tone(v)};
 }
 
@@ -438,6 +463,9 @@ function gameRow(g,i){
   const pills = g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")
     + (g.ps_plus?`<span class="pill">PS Plus</span>`:"")
     + (g.nso?`<span class="pill">Switch Online</span>`:"")
+    + ((g.tiers||[]).length && !(g.tiers||[]).includes("Game Catalog") ? `<span class="pill">Classics</span>` : "")
+    + (state.view==="psplus" && g.owned ? `<span class="pill played">In your library</span>` : "")
+    + (g.added && (Date.now()-Date.parse(g.added)) < 30*864e5 ? `<span class="pill new">New</span>` : "")
     + (g._played?`<span class="pill played">Played</span>`:"")
     + (g._hidden?`<span class="pill">${g._hidden==="auto"?"App, hidden":"Hidden"}</span>`:"")
     + (!g.matched?`<span class="pill warn">Not on IGDB</span>`:"");
@@ -462,7 +490,7 @@ function renderHero(list){
   const big = state.sort==="recent" ? (top.last_played ? new Date(top.last_played+"T12:00").toLocaleDateString([], {month:"short", day:"numeric"}) : null)
             : (s.v!=null ? s.v + (s.unit||"") : null);
   $("hero").innerHTML = `${top.cover?`<img src="${esc(top.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<div></div>`}
-    <div><p class="lead">${narrowed ? "Top of this view" : "Top of your shelf"}, ranked by ${esc(sortLabel)}</p>
+    <div><p class="lead">${narrowed ? "Top of this view" : (state.view==="psplus" ? "Top of PS Plus" : "Top of your shelf")}, ranked by ${esc(sortLabel)}</p>
     <h1>${esc(top.title)}</h1>
     ${big!=null?`<span class="big ${s.cls}">${esc(big)}</span>`:""}
     <p class="meta">${narrowed ? `${list.length} of ${all.length} games shown` : `${all.length} games, ${played} played`}</p></div>`;
@@ -478,7 +506,8 @@ function runAct(a, g){
   if(a==="played") togglePlayed(g); if(a==="playing") togglePlaying(g); if(a==="hide") toggleHidden(g); if(a==="fix") openFix(g);
 }
 function renderNow(){
-  const now = DATA.games.filter(g=>g._playing && !g._hidden).sort((a,b)=>String(a._playing).localeCompare(String(b._playing)));
+  if(state.view==="psplus"){ $("now").innerHTML = ""; return; }
+  const now = allGames().filter(g=>g._playing && !g._hidden).sort((a,b)=>String(a._playing).localeCompare(String(b._playing)));
   if(!now.length){ $("now").innerHTML = `<p class="now-empty">Pin the games you're in the middle of: open a game and tap “Playing now”.</p>`; return; }
   $("now").innerHTML = `<h2>Playing now</h2><div class="now-row">${now.map(g=>{
     const goal = beat(g), done = g.playtime||0;
@@ -558,7 +587,7 @@ async function wikidataGames(q){
   const r1 = await fetch(api + new URLSearchParams({action:"wbsearchentities", search:q, language:"en", uselang:"en", type:"item", limit:"20"}));
   const ids = ((await r1.json()).search||[]).map(x=>x.id);
   if(!ids.length) return [];
-  const r2 = await fetch(api + new URLSearchParams({action:"wbgetentities", ids:ids.join("|"), props:"labels|descriptions|claims", languages:"en"}));
+  const r2 = await fetch(api + new URLSearchParams({action:"wbgetentities", ids:ids.join("|"), props:"labels|descriptions|claims", languages:"en|mul"}));
   const ents = (await r2.json()).entities || {};
   const out = [];
   for(const id of ids){
@@ -566,7 +595,7 @@ async function wikidataGames(q){
     const slug = e.claims?.P5794?.[0]?.mainsnak?.datavalue?.value;
     if(!slug) continue;  // not a video game with an IGDB entry
     const years = (e.claims?.P577||[]).map(c=>c.mainsnak?.datavalue?.value?.time).filter(Boolean).map(t=>+t.slice(1,5)).filter(Boolean);
-    out.push({label:e.labels?.en?.value||slug, slug, year: years.length?Math.min(...years):null, desc:e.descriptions?.en?.value||""});
+    out.push({label:e.labels?.en?.value||e.labels?.mul?.value||slug.replace(/-dot-/g,'.').replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()), slug, year: years.length?Math.min(...years):null, desc:e.descriptions?.en?.value||e.descriptions?.mul?.value||""});
   }
   return out;
 }
@@ -645,7 +674,7 @@ function fillSelect(id, field, label){
   $(id).value = state.filters[field]||"";
 }
 function setup(){
-  $("sort").innerHTML = SORTS.map(([k,l])=>`<option value="${k}">Rank by ${l.toLowerCase()}</option>`).join("");
+  $("sort").innerHTML = SORTS.filter(([k])=>k!=="added"||state.view==="psplus").map(([k,l])=>`<option value="${k}">${k==="added"?"Show newest in catalog first":"Rank by "+l.toLowerCase()}</option>`).join("");
   $("sort").value = state.sort;
   $("group").innerHTML = GROUPS.map(([k,l])=>`<option value="${k}">${l}</option>`).join("");
   $("group").value = state.group;
@@ -682,7 +711,7 @@ function setup(){
     render();
   };
   $("addBtn").onclick = openAdd;
-  $("now").onclick = e=>{ const c=e.target.closest(".now-card"); if(!c) return; const g=DATA.games.find(x=>x.key===c.dataset.key); if(g) openGame(g); };
+  $("now").onclick = e=>{ const c=e.target.closest(".now-card"); if(!c) return; const g=allGames().find(x=>x.key===c.dataset.key); if(g) openGame(g); };
   $("settingsBtn").onclick = ()=>openSettings();
   $("out").onclick = e=>{
     const more=e.target.closest(".more");
@@ -699,20 +728,49 @@ function setup(){
   };
 
   const bad = Object.entries(DATA.status||{}).filter(([,v])=>v!=="ok"&&v!=="not configured");
-  const names = {steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB",opencritic:"OpenCritic",switch_online:"Switch Online classics",hltb:"HowLongToBeat"};
+  const names = {psplus:"PS Plus catalog",steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB",opencritic:"OpenCritic",switch_online:"Switch Online classics",hltb:"HowLongToBeat"};
   const hints = {playstation:". Your PlayStation sign-in token has probably expired; generate a new one and update the PSN_NPSSO secret.",
                  nintendo_eshop:". Check that the GMAIL_APP_PASSWORD secret is still valid."};
   $("status").innerHTML = bad.length ? `<div class="status">${bad.map(([k,v])=>`<p><b>${names[k]||k}:</b> ${esc(v)}${hints[k]||""}</p>`).join("")}</div>` : "";
   const when = DATA.generated ? new Date(DATA.generated).toLocaleString([], {dateStyle:"medium",timeStyle:"short"}) : "never";
-  $("foot").textContent = `Last updated ${when}. Updates daily.`;
+  $("foot").textContent = state.view==="psplus" ? `PS Plus catalog checked ${when}. Checked daily; Sony refreshes it every month.` : `Last updated ${when}. Updates daily.`;
 }
 async function loadEdits(){
-  try{ const r = await readEdits(); if(r){ EDITS = r.data; liveEdits = true; applyEdits(); render(); } }
+  try{ const r = await readEdits(); if(r){ EDITS = r.data; liveEdits = true; applyAll(); render(); } }
   catch{ /* offline or rate-limited: fall back to the edits baked into data.json */ }
 }
 
-fetch("data.json",{cache:"no-store"}).then(r=>r.ok?r.json():{games:[]}).catch(()=>({games:[]}))
-  .then(d=>{ DATA=d; applyEdits(); setup(); render(); loadEdits(); });
+/* ---------------- Views: My library / PS Plus ---------------- */
+const VIEWS = {library:{file:"data.json"}, psplus:{file:"psplus.json"}};
+async function loadView(v){
+  if(!VIEWS[v].data) VIEWS[v].data = await fetch(VIEWS[v].file,{cache:"no-store"}).then(r=>r.ok?r.json():{games:[]}).catch(()=>({games:[]}));
+  return VIEWS[v].data;
+}
+async function showView(v){
+  if(v !== state.view){  // filters that only make sense in one view start fresh
+    state.platforms = new Set(); state.filters = {}; state.tags = []; state.open = new Set(); state.q = ""; $("q").value = "";
+  }
+  state.view = v;
+  DATA = await loadView(v);
+  document.body.classList.toggle("view-psplus", v==="psplus");
+  for(const b of $("tabs").querySelectorAll("[data-view]")) b.setAttribute("aria-selected", b.dataset.view===v);
+  $("addBtn").hidden = v==="psplus";
+  $("catRow").hidden = v!=="psplus";
+  if(v!=="psplus" && state.sort==="added") state.sort = "avg";
+  applyEdits(); setup(); render();
+}
+function allGames(){  // Playing now can include catalog games you haven't played on your console yet
+  const seen = new Set(), out = [];
+  for(const v of ["library","psplus"]) for(const g of (VIEWS[v].data||{}).games||[]) if(!seen.has(g.key)){ seen.add(g.key); out.push(g); }
+  return out;
+}
+$("tabs").onclick = e=>{ const b=e.target.closest("[data-view]"); if(b) showView(b.dataset.view); };
+$("tierSeg").onclick = e=>{ const b=e.target.closest("button"); if(!b) return; state.tier=b.dataset.v;
+  for(const x of $("tierSeg").querySelectorAll("button")) x.setAttribute("aria-pressed", x===b); render(); };
+$("hideOwned").checked = state.hideOwned;
+$("hideOwned").onchange = e=>{ state.hideOwned = e.target.checked; render(); };
+
+showView(state.view).then(()=>{ loadEdits(); return loadView(state.view==="psplus"?"library":"psplus"); }).then(()=>{ applyAll(); renderNow(); });
 </script>
 </body>
 </html>

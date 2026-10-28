@@ -12,7 +12,7 @@ import traceback
 
 import yaml
 
-from . import edits, hltb, nso, scores, sources, titles, wikidata
+from . import edits, hltb, nso, psplus, scores, sources, titles, wikidata
 from .igdb import IGDB, genres_of, metadata_of
 from .util import CACHE_DIR, CONFIG_DIR, SITE_DIR, days_since, load_json, log, now_iso, save_json
 
@@ -308,7 +308,7 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
         c = cache.get(r["key"])
         return c is None or days_since(c.get("checked")) >= SCORE_REFRESH_DAYS
 
-    stale = sorted((r for r in rows if due(r)), key=lambda r: (r["key"] in cache, cache.get(r["key"], {}).get("checked", "")))
+    stale = sorted((r for r in rows if due(r)), key=lambda r: (bool(r.get("catalog_only")), r["key"] in cache, cache.get(r["key"], {}).get("checked", "")))
     if offline:
         stale = []
     log(f"Scores: {len(stale)} games due, doing up to {MAX_SCORE_LOOKUPS} this run")
@@ -371,11 +371,11 @@ def refresh_opencritic(rows, cache, wd_cache):
             continue
         oc_id = c.get("opencritic_id") or wd_cache.get(r["igdb"].get("slug"), {}).get("opencritic_id")
         # Known ids first (1 request each), then searches for the games you play most.
-        todo.append((0 if oc_id else 1, -(r["playtime_hours"] or 0), -(r["igdb"].get("total_rating_count") or 0), r, oc_id))
-    todo.sort(key=lambda t: t[:3])
+        todo.append((bool(r.get("catalog_only")), 0 if oc_id else 1, -(r["playtime_hours"] or 0), -(r["igdb"].get("total_rating_count") or 0), r, oc_id))
+    todo.sort(key=lambda t: t[:4])
     log(f"OpenCritic: {len(todo)} games due; daily budget {oc.requests_left} requests / {oc.searches_left} searches")
     got = 0
-    for _, _, _, r, oc_id in todo:
+    for _, _, _, _, r, oc_id in todo:
         if not oc.active:
             break
         c = cache[r["key"]]
@@ -479,6 +479,48 @@ def to_site_row(row, sc, hl=None):
     return out
 
 
+def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, hl_cache, status):
+    """site/psplus.json: the PS Plus catalogs with the same scores and details as your library."""
+    seen = load_json(CACHE_DIR / "psplus_seen.json", {})
+    first_import = not seen
+    today = now_iso()[:10]
+    details = {}
+    for e in cat_entries:
+        gid = (match_info.get(ekey(e)) or {}).get("id")
+        k = f"igdb:{gid}" if gid in igdb_games else f"t:{edits.source_key(e['title'])}"
+        d = details.setdefault(k, {"tiers": set(), "streaming": False})
+        d["tiers"].add(e["tier"])
+        d["streaming"] = d["streaming"] or e.get("streaming")
+        d.setdefault("store_url", e.get("store_url"))
+        d.setdefault("image", e.get("image"))
+        seen.setdefault(e["concept"], "" if first_import else today)
+        if seen[e["concept"]]:
+            d["added"] = max(d.get("added") or "", seen[e["concept"]])
+    save_json(CACHE_DIR / "psplus_seen.json", seen)
+
+    games = []
+    for k, row in catalog.items():
+        out = to_site_row(row, cache.get(k, {}), hl_cache.get(k))
+        d = details.get(k, {})
+        out["tiers"] = sorted(d.get("tiers", []))
+        out["streaming"] = d.get("streaming", False)
+        out["owned"] = k in library and not library[k]["hidden"]
+        out["added"] = d.get("added")  # date it first appeared in the catalog (empty for the initial import)
+        if d.get("store_url"):
+            out["links"]["store"] = d["store_url"]
+        if not out["cover"] and d.get("image"):
+            out["cover"] = d["image"]
+        out["ps_plus"] = False
+        games.append(out)
+    games.sort(key=lambda g: g["title"].lower())
+    save_json(
+        SITE_DIR / "psplus.json",
+        {"generated": now_iso(), "status": {"psplus": status.get("psplus")}, "count": len(games), "games": games},
+        pretty=False,
+    )
+    log(f"PS Plus catalog: {len(games)} games written ({sum(g['owned'] for g in games)} also in your library)")
+
+
 def main():
     offline = "--offline" in sys.argv
     status = {}
@@ -489,11 +531,23 @@ def main():
         log("No games from any source; leaving the existing site data untouched.")
         return 1
 
+    # PS Plus catalogs (shown in their own tab, not part of your library)
+    snapshot = load_json(CACHE_DIR / "library_snapshot.json", {})
+    try:
+        cat_entries = psplus.fetch() if not offline else snapshot.get("psplus", [])
+        snapshot["psplus"] = cat_entries
+        save_json(CACHE_DIR / "library_snapshot.json", snapshot)
+        status["psplus"] = "ok"
+    except Exception as e:
+        log(f"!! PS Plus catalog failed: {e}")
+        cat_entries = snapshot.get("psplus", [])
+        status["psplus"] = f"using last saved list ({type(e).__name__}: {str(e)[:160]})"
+
     igdb_games, match_info = {}, {}
     if env("IGDB_CLIENT_ID") and env("IGDB_CLIENT_SECRET") and not offline:
         try:
             igdb = IGDB(env("IGDB_CLIENT_ID"), env("IGDB_CLIENT_SECRET"))
-            match_info = match_to_igdb(entries, igdb, overrides)
+            match_info = match_to_igdb(entries + cat_entries, igdb, overrides)
             igdb_games = igdb.games_by_ids(m.get("id") for m in match_info.values() if m.get("id"))
             try:
                 for gid, t in igdb.time_to_beats(igdb_games.keys()).items():
@@ -507,25 +561,31 @@ def main():
             traceback.print_exc()
             status["igdb"] = f"failed ({type(e).__name__})"
             cached = load_json(CACHE_DIR / "igdb_matches.json", {})
-            match_info = {ekey(e2): cached.get(ekey(e2)) or {} for e2 in entries}
+            match_info = {ekey(e2): cached.get(ekey(e2)) or {} for e2 in entries + cat_entries}
     else:
         status["igdb"] = "not configured" if not offline else "skipped (offline)"
 
     merged = merge(entries, match_info, igdb_games, overrides, ed)
+    catalog = merge(cat_entries, match_info, igdb_games, overrides, ed)
+    for k, row in catalog.items():
+        row["catalog_only"] = k not in merged
+    # Score library games and catalog-only games together; library games always go first.
+    scored = {**{k: r for k, r in catalog.items() if r["catalog_only"]}, **merged}
 
     wd_cache = load_json(CACHE_DIR / "wikidata.json", {})
     if not offline:
-        slugs = [r["igdb"]["slug"] for r in merged.values() if r["igdb"] and r["hidden"] is None]
+        slugs = [r["igdb"]["slug"] for r in scored.values() if r["igdb"] and r["hidden"] is None]
         wd_cache = wikidata.lookup(slugs, wd_cache)
         save_json(CACHE_DIR / "wikidata.json", wd_cache)
 
-    cache = refresh_scores(merged, overrides, wd_cache, offline=offline)
+    cache = refresh_scores(scored, overrides, wd_cache, offline=offline)
     if env("OPENCRITIC_RAPIDAPI_KEY"):
         status["opencritic"] = "ok"
 
     hl_cache = load_json(CACHE_DIR / "hltb.json", {})
     if not offline:
         visible = [(r["key"], r["title"], _year(r["igdb"])) for r in merged.values() if r["hidden"] is None]
+        visible += [(r["key"], r["title"], _year(r["igdb"])) for r in catalog.values() if r["catalog_only"] and r["hidden"] is None]
         status["hltb"] = hltb.refresh(visible, hl_cache, budget=int(os.environ.get("HLTB_MAX_LOOKUPS", "250")))
         save_json(CACHE_DIR / "hltb.json", hl_cache)
 
@@ -536,6 +596,8 @@ def main():
         {"generated": now_iso(), "status": status, "count": len(games), "games": games},
         pretty=False,
     )
+    write_catalog(cat_entries, catalog, match_info, igdb_games, merged, cache, hl_cache, status)
+
     visible = [g for g in games if not g["hidden"]]
     unmatched = [g["title"] for g in visible if not g["matched"]]
     log(f"Done: {len(games)} games ({len(visible)} visible), {len(unmatched)} visible without an IGDB match")
