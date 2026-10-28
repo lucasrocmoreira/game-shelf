@@ -13602,15 +13602,16 @@
   "via": "search"
  },
  "PS5:PPSA18027_00": {
-  "candidates": 3,
-  "checked": "2026-10-07T01:50:34+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-10-28T11:32:33+00:00",
+  "conf": "manual",
   "id": 284574,
-  "score": 1.086,
-  "slug": null,
+  "mp": null,
+  "score": null,
+  "slug": "planet-zoo-console-edition",
   "title": "Planet Zoo: Console Edition",
-  "v": 2,
-  "via": "search"
+  "v": 4,
+  "via": "fix"
  },
  "PS5:PPSA18708_00": {
   "candidates": 1,
@@ -16608,15 +16609,16 @@
   "via": "fix"
  },
  "PS5:psplus:10009025": {
-  "candidates": 25,
-  "checked": "2026-10-28T03:43:20+00:00",
-  "conf": null,
-  "id": null,
-  "score": 1.056,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-10-28T11:32:33+00:00",
+  "conf": "manual",
+  "id": 284574,
+  "mp": null,
+  "score": null,
+  "slug": "planet-zoo-console-edition",
   "title": "Planet Zoo",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10009028": {
   "candidates": 10,
@@ -20854,14 +20856,16 @@
   "via": "steam"
  },
  "Steam:703080": {
-  "checked": "2026-10-07T01:05:42+00:00",
-  "conf": "exact",
-  "id": 117717,
+  "candidates": null,
+  "checked": "2026-10-28T11:32:33+00:00",
+  "conf": "manual",
+  "id": 284574,
+  "mp": null,
   "score": null,
-  "slug": null,
+  "slug": "planet-zoo-console-edition",
   "title": "Planet Zoo",
-  "v": 2,
-  "via": "steam"
+  "v": 4,
+  "via": "fix"
  },
  "Steam:7670": {
   "checked": "2026-10-07T01:05:42+00:00",
