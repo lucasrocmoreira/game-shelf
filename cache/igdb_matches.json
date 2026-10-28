@@ -19455,16 +19455,16 @@
   "via": "search"
  },
  "SNES:nso:SNES:Nobunaga's Ambition: Lord of Darkness": {
-  "candidates": 1,
-  "checked": "2026-10-28T05:35:44+00:00",
-  "conf": "high",
-  "id": 394236,
+  "candidates": null,
+  "checked": "2026-10-28T11:24:06+00:00",
+  "conf": "manual",
+  "id": 90988,
   "mp": null,
-  "score": 1.04,
-  "slug": null,
+  "score": null,
+  "slug": "nobunagas-ambition-bushou-fuunroku",
   "title": "Nobunaga's Ambition: Lord of Darkness",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:nso:SNES:Operation Logic Bomb": {
   "candidates": 1,
