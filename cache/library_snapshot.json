@@ -18729,15 +18729,6 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:The Legend of Zelda SP",
-   "title": "The Legend of Zelda SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:NES Open Tournament Golf",
    "title": "NES Open Tournament Golf"
   },
@@ -18758,15 +18749,6 @@
    "playtime_hours": 0.0,
    "source_id": "nso:NES:Super Dodge Ball",
    "title": "Super Dodge Ball"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Gradius SP (Stage 5)",
-   "title": "Gradius SP (Stage 5)"
   },
   {
    "also_platform": "Switch",
@@ -18810,24 +18792,6 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Dr. Mario SP",
-   "title": "Dr. Mario SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Metroid SP (Ridley battle)",
-   "title": "Metroid SP (Ridley battle)"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:Ninja Gaiden",
    "title": "Ninja Gaiden"
   },
@@ -18855,26 +18819,8 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Ghosts'n Goblins SP",
-   "title": "Ghosts'n Goblins SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:Joy Mech Fight",
    "title": "Joy Mech Fight"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Ninja Gaiden SP",
-   "title": "Ninja Gaiden SP"
   },
   {
    "also_platform": "Switch",
@@ -18891,26 +18837,8 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Blaster Master SP",
-   "title": "Blaster Master SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:Kirby's Adventure",
    "title": "Kirby's Adventure"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Metroid SP (Mother Brain battle)",
-   "title": "Metroid SP (Mother Brain battle)"
   },
   {
    "also_platform": "Switch",
@@ -18936,35 +18864,8 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Kirby's Adventure SP",
-   "title": "Kirby's Adventure SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:StarTropics",
    "title": "StarTropics"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Zelda II: The Adventure of Link SP",
-   "title": "Zelda II: The Adventure of Link SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Kid Icarus SP",
-   "title": "Kid Icarus SP"
   },
   {
    "also_platform": "Switch",
@@ -19017,15 +18918,6 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Star Soldier SP",
-   "title": "Star Soldier SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:Vs. Excitebike",
    "title": "Vs. Excitebike"
   },
@@ -19053,15 +18945,6 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:TwinBee SP",
-   "title": "TwinBee SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:Volleyball",
    "title": "Volleyball"
   },
@@ -19080,15 +18963,6 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Mighty Bomb Jack SP",
-   "title": "Mighty Bomb Jack SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:Wrecking Crew",
    "title": "Wrecking Crew"
   },
@@ -19100,15 +18974,6 @@
    "playtime_hours": 0.0,
    "source_id": "nso:NES:Downtown Nekketsu March: Super-Awesome Field Day!",
    "title": "Downtown Nekketsu March: Super-Awesome Field Day!"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Gradius SP (Second loop)",
-   "title": "Gradius SP (Second loop)"
   },
   {
    "also_platform": "Switch",
@@ -19233,15 +19098,6 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Super Mario Bros. 3 SP",
-   "title": "Super Mario Bros. 3 SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
    "source_id": "nso:NES:EarthBound Beginnings",
    "title": "EarthBound Beginnings"
   },
@@ -19316,15 +19172,6 @@
    "playtime_hours": 0.0,
    "source_id": "nso:NES:The Mysterious Murasame Castle",
    "title": "The Mysterious Murasame Castle"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "NES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:NES:Ninja JaJaMaru-kun SP",
-   "title": "Ninja JaJaMaru-kun SP"
   },
   {
    "also_platform": "Switch",
@@ -19917,15 +19764,6 @@
    "nso": true,
    "platform": "SNES",
    "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Super Mario Kart SP",
-   "title": "Super Mario Kart SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
    "source_id": "nso:SNES:Bombuzal",
    "title": "Bombuzal"
   },
@@ -19962,15 +19800,6 @@
    "nso": true,
    "platform": "SNES",
    "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Super Metroid SP",
-   "title": "Super Metroid SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
    "source_id": "nso:SNES:Earthworm Jim 2",
    "title": "Earthworm Jim 2"
   },
@@ -19989,24 +19818,6 @@
    "nso": true,
    "platform": "SNES",
    "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Super Mario World SP",
-   "title": "Super Mario World SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Super Punch-Out!! SP",
-   "title": "Super Punch-Out!! SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
    "source_id": "nso:SNES:Congo's Caper",
    "title": "Congo's Caper"
   },
@@ -20018,33 +19829,6 @@
    "playtime_hours": 0.0,
    "source_id": "nso:SNES:Rival Turf!",
    "title": "Rival Turf!"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Kirby Super Star SP",
-   "title": "Kirby Super Star SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Kirby's Dream Course SP",
-   "title": "Kirby's Dream Course SP"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Kirby's Dream Land 3 SP",
-   "title": "Kirby's Dream Land 3 SP"
   },
   {
    "also_platform": "Switch",
