@@ -16111,6 +16111,20 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:10007630": {
+  "candidates": null,
+  "checked": "2026-10-28T11:59:21+00:00",
+  "conf": "manual",
+  "id": 5254,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": null,
+  "slug": "up--4",
+  "title": "Disney•Pixar Up",
+  "v": 4,
+  "via": "fix"
+ },
  "PS5:psplus:10007632": {
   "candidates": null,
   "checked": "2026-10-28T11:51:36+00:00",
