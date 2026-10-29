@@ -8011,7 +8011,7 @@
  "igdb:20606": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-29T21:34:31+00:00",
+  "checked": "2026-10-29T21:36:19+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "aliens-infestation"
@@ -8314,6 +8314,14 @@
   "opencritic_pct": 25,
   "opencritic_tier": "Weak"
  },
+ "igdb:21206": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:36:30+00:00",
+  "mc_v": 2,
+  "metacritic": 71,
+  "metacritic_slug": "avalon-code"
+ },
  "igdb:21238": {
   "backloggd": 2.8,
   "bl_v": 2,
@@ -8348,6 +8356,14 @@
   "opencritic_id": 14530,
   "opencritic_pct": 65,
   "opencritic_tier": "Strong"
+ },
+ "igdb:21278": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:36:33+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "bangai-o-spirits"
  },
  "igdb:213191": {
   "backloggd": 3.1,
@@ -10323,11 +10339,11 @@
  "igdb:2645": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-29T21:34:33+00:00",
+  "checked": "2026-10-29T21:36:22+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "animal-crossing-wild-world",
-  "oc_checked": "2026-10-29T21:35:05+00:00"
+  "oc_checked": "2026-10-29T21:37:03+00:00"
  },
  "igdb:264500": {
   "backloggd": 2.0,
@@ -13736,7 +13752,7 @@
  "igdb:4795": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-29T21:34:35+00:00",
+  "checked": "2026-10-29T21:36:24+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -15833,6 +15849,14 @@
   "opencritic_id": 32,
   "opencritic_pct": 23,
   "opencritic_tier": "Fair"
+ },
+ "igdb:8225": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:36:28+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:8236": {
   "backloggd": 2.9,

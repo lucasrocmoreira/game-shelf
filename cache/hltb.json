@@ -5318,7 +5318,7 @@
   "main": 9.0
  },
  "igdb:20606": {
-  "checked": "2026-10-29T21:35:07+00:00",
+  "checked": "2026-10-29T21:37:04+00:00",
   "complete": 6.5,
   "extra": 6.0,
   "hltb_id": 383,
@@ -5528,6 +5528,14 @@
   "hltb_name": "DayZ",
   "main": 50.5
  },
+ "igdb:21206": {
+  "checked": "2026-10-29T21:37:11+00:00",
+  "complete": 55.5,
+  "extra": 34.5,
+  "hltb_id": 737,
+  "hltb_name": "Avalon Code",
+  "main": 25.0
+ },
  "igdb:21238": {
   "checked": "2026-10-17T13:52:10+00:00",
   "complete": 4.5,
@@ -5551,6 +5559,14 @@
   "hltb_id": 113537,
   "hltb_name": "Meet Your Maker",
   "main": 14.5
+ },
+ "igdb:21278": {
+  "checked": "2026-10-29T21:37:13+00:00",
+  "complete": 19.0,
+  "extra": 12.0,
+  "hltb_id": 833,
+  "hltb_name": "Bangai-O Spirits",
+  "main": 6.0
  },
  "igdb:213191": {
   "checked": "2026-10-28T05:52:50+00:00",
@@ -6822,7 +6838,7 @@
   "main": 15.0
  },
  "igdb:2645": {
-  "checked": "2026-10-29T21:35:10+00:00",
+  "checked": "2026-10-29T21:37:06+00:00",
   "complete": 377.5,
   "extra": 119.0,
   "hltb_id": 475,
@@ -9257,7 +9273,7 @@
   "main": null
  },
  "igdb:4795": {
-  "checked": "2026-10-29T21:35:12+00:00",
+  "checked": "2026-10-29T21:37:07+00:00",
   "complete": 127.5,
   "extra": 36.0,
   "hltb_id": 485,
@@ -10689,6 +10705,14 @@
   "hltb_id": 25195,
   "hltb_name": "Assassin's Creed Chronicles: China",
   "main": 6.0
+ },
+ "igdb:8225": {
+  "checked": "2026-10-29T21:37:09+00:00",
+  "complete": null,
+  "extra": 28.5,
+  "hltb_id": 489,
+  "hltb_name": "Anno 1701",
+  "main": 17.0
  },
  "igdb:8236": {
   "checked": "2026-10-28T05:21:13+00:00",

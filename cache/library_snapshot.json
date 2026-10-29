@@ -2629,6 +2629,36 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Anno Create a New World",
    "title": "Anno Create a New World"
+  },
+  {
+   "format": "digital",
+   "igdb": "anno-1701",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Anno 1701",
+   "title": "Anno 1701"
+  },
+  {
+   "format": "digital",
+   "igdb": "avalon-code",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Avalon Code",
+   "title": "Avalon Code"
+  },
+  {
+   "format": "digital",
+   "igdb": "bangai-o-spirits",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Bangai-O Spirits",
+   "title": "Bangai-O Spirits"
   }
  ],
  "nintendo_eshop": [
