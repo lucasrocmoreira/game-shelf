@@ -361,16 +361,6 @@
    "title": "Kirby Super Star Ultra"
   },
   {
-   "format": "physical",
-   "igdb": "kingdom-hearts-358-2-days",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Kingdom Hearts 358/2 Days",
-   "title": "Kingdom Hearts 358/2 Days"
-  },
-  {
    "format": "digital",
    "igdb": "ghost-trick-phantom-detective",
    "last_played": null,
@@ -2979,6 +2969,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Hotel Dusk: Room 215",
    "title": "Hotel Dusk: Room 215"
+  },
+  {
+   "format": "digital",
+   "igdb": "kingdom-hearts-358-2-days",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kingdom Hearts 358/2 Days",
+   "title": "Kingdom Hearts 358/2 Days"
   }
  ],
  "nintendo_eshop": [
