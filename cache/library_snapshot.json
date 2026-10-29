@@ -462,16 +462,6 @@
   },
   {
    "format": "digital",
-   "igdb": "castlevania-dawn-of-sorrow",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Castlevania: Dawn of Sorrow",
-   "title": "Castlevania: Dawn of Sorrow"
-  },
-  {
-   "format": "digital",
    "igdb": null,
    "last_played": null,
    "manual": true,
@@ -2669,6 +2659,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Bomberman Land Touch!",
    "title": "Bomberman Land Touch!"
+  },
+  {
+   "format": "digital",
+   "igdb": "castlevania-dawn-of-sorrow",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Castlevania: Dawn of Sorrow",
+   "title": "Castlevania: Dawn of Sorrow"
   }
  ],
  "nintendo_eshop": [
