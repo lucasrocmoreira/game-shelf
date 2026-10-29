@@ -192,13 +192,6 @@
    "igdb": "professor-layton-and-the-unwound-future"
   },
   {
-   "title": "Professor Layton and the Diabolical Box",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "professor-layton-and-the-diabolical-box"
-  },
-  {
    "title": "Professor Layton and the Curious Village",
    "platform": "DS",
    "format": "digital",
@@ -2316,6 +2309,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "pokemon-mystery-dungeon-explorers-of-time"
+  },
+  {
+   "title": "Professor Layton and the Diabolical Box",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "professor-layton-and-the-diabolical-box"
   }
  ],
  "match": {
