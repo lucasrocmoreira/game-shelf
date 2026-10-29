@@ -2121,6 +2121,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "mario-kart-ds"
+  },
+  {
+   "title": "Mario Party DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "mario-party-ds"
   }
  ],
  "match": {
