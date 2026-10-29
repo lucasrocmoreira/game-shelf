@@ -234,13 +234,6 @@
    "igdb": "okamiden"
   },
   {
-   "title": "New Super Mario Bros.",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "new-super-mario-bros"
-  },
-  {
    "title": "Mario & Luigi: Bowser's Inside Story",
    "platform": "DS",
    "format": "digital",
@@ -2190,6 +2183,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "nanostray-2"
+  },
+  {
+   "title": "New Super Mario Bros.",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "new-super-mario-bros"
   }
  ],
  "match": {
