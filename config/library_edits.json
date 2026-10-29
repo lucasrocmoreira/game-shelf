@@ -220,13 +220,6 @@
    "igdb": "pokemon-platinum-version"
   },
   {
-   "title": "Picross DS",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "picross-ds"
-  },
-  {
    "title": "Mario & Luigi: Bowser's Inside Story",
    "platform": "DS",
    "format": "digital",
@@ -2253,6 +2246,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "picross-3d"
+  },
+  {
+   "title": "Picross DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "picross-ds"
   }
  ],
  "match": {
