@@ -1937,6 +1937,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "dig-dug-digging-strike"
+  },
+  {
+   "title": "Digimon World DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "digimon-world-ds"
   }
  ],
  "match": {
