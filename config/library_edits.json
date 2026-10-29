@@ -1950,6 +1950,13 @@
    "platform": "DS",
    "format": "digital",
    "added": "2026-10-29"
+  },
+  {
+   "title": "Dragon Quest Heroes: Rocket Slime",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dragon-quest-heroes-rocket-slime"
   }
  ],
  "match": {
