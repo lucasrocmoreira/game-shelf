@@ -2449,6 +2449,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "tales-of-innocence"
+  },
+  {
+   "title": "Tetris DS",
+   "platform": "DS",
+   "format": "physical",
+   "added": "2026-10-29",
+   "igdb": "tetris-ds"
   }
  ],
  "match": {
