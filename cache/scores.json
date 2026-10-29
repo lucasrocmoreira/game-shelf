@@ -2199,8 +2199,7 @@
   "checked": "2026-10-29T21:44:40+00:00",
   "mc_v": 2,
   "metacritic": 60,
-  "metacritic_slug": "crash-mind-over-mutant",
-  "oc_checked": "2026-10-29T21:50:18+00:00"
+  "metacritic_slug": "crash-mind-over-mutant"
  },
  "igdb:119133": {
   "backloggd": 4.5,
@@ -4920,10 +4919,26 @@
  "igdb:14716": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-29T21:49:48+00:00",
+  "checked": "2026-10-29T21:51:28+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "etrian-odyssey"
+ },
+ "igdb:14717": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:51:53+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "etrian-odyssey-ii-heroes-of-lagaard"
+ },
+ "igdb:14718": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:51:57+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "etrian-odyssey-iii-the-drowned-city"
  },
  "igdb:14741": {
   "backloggd": 4.2,
@@ -9536,6 +9551,14 @@
   "metacritic_slug": "crisis-core-final-fantasy-vii",
   "oc_checked": "2026-10-14T15:12:13+00:00"
  },
+ "igdb:2408": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:52:10+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "final-fantasy-tactics-a2-grimoire-of-the-rift"
+ },
  "igdb:241246": {
   "backloggd": 1.3,
   "bl_v": 2,
@@ -13059,6 +13082,15 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:393": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:52:02+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "final-fantasy-iii",
+  "oc_checked": "2026-10-29T21:52:10+00:00"
+ },
  "igdb:39348": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -13084,6 +13116,15 @@
   "oc_checked": "2026-10-29T16:57:44+00:00"
  },
  "igdb:398930": {},
+ "igdb:399": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:52:05+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-29T21:52:41+00:00"
+ },
  "igdb:4": {
   "backloggd": 2.5,
   "bl_v": 2,
@@ -16635,7 +16676,7 @@
  "igdb:9109": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-29T21:49:46+00:00",
+  "checked": "2026-10-29T21:51:25+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "elite-beat-agents"

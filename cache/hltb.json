@@ -3264,11 +3264,27 @@
   "main": 42.0
  },
  "igdb:14716": {
-  "checked": "2026-10-29T21:50:21+00:00",
+  "checked": "2026-10-29T21:52:45+00:00",
   "complete": 72.5,
   "extra": 50.5,
   "hltb_id": 3192,
   "hltb_name": "Etrian Odyssey",
+  "main": 42.0
+ },
+ "igdb:14717": {
+  "checked": "2026-10-29T21:52:47+00:00",
+  "complete": 60.5,
+  "extra": 51.5,
+  "hltb_id": 3193,
+  "hltb_name": "Etrian Odyssey II: Heroes of Lagaard",
+  "main": 40.5
+ },
+ "igdb:14718": {
+  "checked": "2026-10-29T21:52:50+00:00",
+  "complete": 101.5,
+  "extra": 71.0,
+  "hltb_id": 3194,
+  "hltb_name": "Etrian Odyssey III: The Drowned City",
   "main": 42.0
  },
  "igdb:14741": {
@@ -6402,6 +6418,14 @@
   "hltb_name": "Crisis Core: Final Fantasy VII",
   "main": 18.0
  },
+ "igdb:2408": {
+  "checked": "2026-10-29T21:52:56+00:00",
+  "complete": 113.5,
+  "extra": 80.0,
+  "hltb_id": 3512,
+  "hltb_name": "Final Fantasy Tactics A2: Grimoire of the Rift",
+  "main": 47.0
+ },
  "igdb:241246": {
   "checked": "2026-10-28T04:15:38+00:00",
   "complete": null,
@@ -8729,6 +8753,14 @@
   "hltb_name": "Nightshade",
   "main": 2.5
  },
+ "igdb:393": {
+  "checked": "2026-10-29T21:52:52+00:00",
+  "complete": 91.5,
+  "extra": 34.5,
+  "hltb_id": 3497,
+  "hltb_name": "Final Fantasy III",
+  "main": 30.0
+ },
  "igdb:39348": {
   "checked": "2026-10-28T05:57:45+00:00",
   "complete": 4.0,
@@ -8752,6 +8784,14 @@
   "hltb_id": 13619,
   "hltb_name": "Avenging Spirit",
   "main": 1.0
+ },
+ "igdb:399": {
+  "checked": "2026-10-29T21:52:54+00:00",
+  "complete": 73.5,
+  "extra": 38.5,
+  "hltb_id": 3500,
+  "hltb_name": "Final Fantasy IV (3D)",
+  "main": 30.5
  },
  "igdb:4": {
   "checked": "2026-10-16T14:58:21+00:00",
@@ -11274,7 +11314,7 @@
   "checked": "2026-10-28T11:24:55+00:00"
  },
  "igdb:9109": {
-  "checked": "2026-10-29T21:50:19+00:00",
+  "checked": "2026-10-29T21:52:42+00:00",
   "complete": 29.0,
   "extra": 7.0,
   "hltb_id": 3087,

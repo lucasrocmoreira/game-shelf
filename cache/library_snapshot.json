@@ -392,16 +392,6 @@
   },
   {
    "format": "digital",
-   "igdb": "fire-emblem-shadow-dragon",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Fire Emblem: Shadow Dragon",
-   "title": "Fire Emblem: Shadow Dragon"
-  },
-  {
-   "format": "digital",
    "igdb": null,
    "last_played": null,
    "manual": true,
@@ -2879,6 +2869,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Etrian Odyssey",
    "title": "Etrian Odyssey"
+  },
+  {
+   "format": "digital",
+   "igdb": "etrian-odyssey-ii-heroes-of-lagaard",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Etrian Odyssey II",
+   "title": "Etrian Odyssey II"
+  },
+  {
+   "format": "digital",
+   "igdb": "etrian-odyssey-iii-the-drowned-city",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Etrian Odyssey III",
+   "title": "Etrian Odyssey III"
+  },
+  {
+   "format": "digital",
+   "igdb": "final-fantasy-iii",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Final Fantasy III",
+   "title": "Final Fantasy III"
+  },
+  {
+   "format": "digital",
+   "igdb": "final-fantasy-iv",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Final Fantasy IV",
+   "title": "Final Fantasy IV"
+  },
+  {
+   "format": "digital",
+   "igdb": "final-fantasy-tactics-a2-grimoire-of-the-rift",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Final Fantasy Tactics A2: Grimoire of the Rift",
+   "title": "Final Fantasy Tactics A2: Grimoire of the Rift"
+  },
+  {
+   "format": "digital",
+   "igdb": "fire-emblem-shadow-dragon",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Fire Emblem: Shadow Dragon",
+   "title": "Fire Emblem: Shadow Dragon"
   }
  ],
  "nintendo_eshop": [
