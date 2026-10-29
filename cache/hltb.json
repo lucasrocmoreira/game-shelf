@@ -4050,6 +4050,14 @@
   "hltb_name": "Human: Fall Flat",
   "main": 6.5
  },
+ "igdb:16997": {
+  "checked": "2026-10-29T22:28:02+00:00",
+  "complete": 14.5,
+  "extra": 12.0,
+  "hltb_id": 7787,
+  "hltb_name": "Rhapsody: A Musical Adventure",
+  "main": 10.0
+ },
  "igdb:16999": {
   "checked": "2026-10-28T04:10:11+00:00",
   "complete": 194.5,
@@ -5590,6 +5598,22 @@
   "hltb_name": "Syphon Filter: Dark Mirror",
   "main": 7.0
  },
+ "igdb:20767": {
+  "checked": "2026-10-29T22:28:07+00:00",
+  "complete": 56.0,
+  "extra": 42.0,
+  "hltb_id": 8022,
+  "hltb_name": "Rune Factory: A Fantasy Harvest Moon",
+  "main": 31.5
+ },
+ "igdb:20768": {
+  "checked": "2026-10-29T22:28:09+00:00",
+  "complete": 51.0,
+  "extra": 35.0,
+  "hltb_id": 8019,
+  "hltb_name": "Rune Factory 2: A Fantasy Harvest Moon",
+  "main": 25.0
+ },
  "igdb:20839": {
   "checked": "2026-10-17T13:54:00+00:00",
   "complete": 18.0,
@@ -5754,7 +5778,7 @@
   "main": 4.0
  },
  "igdb:21251": {
-  "checked": "2026-10-29T22:25:49+00:00",
+  "checked": "2026-10-29T22:28:00+00:00",
   "complete": 16.0,
   "extra": 10.5,
   "hltb_id": 7757,
@@ -6398,7 +6422,7 @@
   "main": 18.5
  },
  "igdb:2320": {
-  "checked": "2026-10-29T22:25:40+00:00",
+  "checked": "2026-10-29T22:27:49+00:00",
   "complete": 207.5,
   "extra": 43.0,
   "hltb_id": 7155,
@@ -6406,7 +6430,7 @@
   "main": 18.5
  },
  "igdb:2321": {
-  "checked": "2026-10-29T22:25:47+00:00",
+  "checked": "2026-10-29T22:27:56+00:00",
   "complete": 93.5,
   "extra": 43.0,
   "hltb_id": 7157,
@@ -6414,7 +6438,7 @@
   "main": 22.5
  },
  "igdb:2322": {
-  "checked": "2026-10-29T22:25:43+00:00",
+  "checked": "2026-10-29T22:27:51+00:00",
   "complete": 93.5,
   "extra": 43.0,
   "hltb_id": 7157,
@@ -6422,7 +6446,7 @@
   "main": 22.5
  },
  "igdb:2323": {
-  "checked": "2026-10-29T22:25:45+00:00",
+  "checked": "2026-10-29T22:27:53+00:00",
   "complete": 173.0,
   "extra": 50.0,
   "hltb_id": 7156,
@@ -11099,6 +11123,14 @@
   "hltb_name": "Super Tennis",
   "main": 5.0
  },
+ "igdb:8167": {
+  "checked": "2026-10-29T22:28:05+00:00",
+  "complete": 17.0,
+  "extra": 11.0,
+  "hltb_id": 7790,
+  "hltb_name": "Rhythm Heaven",
+  "main": 5.5
+ },
  "igdb:8173": {
   "checked": "2026-10-16T04:56:11+00:00",
   "complete": 600.0,
@@ -11495,6 +11527,14 @@
   "hltb_name": "Resident Evil 2",
   "main": 6.0
  },
+ "igdb:8807": {
+  "checked": "2026-10-29T22:28:13+00:00",
+  "complete": 16.0,
+  "extra": 13.5,
+  "hltb_id": 8192,
+  "hltb_name": "Scribblenauts",
+  "main": 8.0
+ },
  "igdb:8862": {
   "checked": "2026-10-18T14:03:55+00:00",
   "complete": 16.0,
@@ -11815,6 +11855,14 @@
   "hltb_id": 26729,
   "hltb_name": "Fallout 4",
   "main": 28.0
+ },
+ "igdb:9640": {
+  "checked": "2026-10-29T22:28:11+00:00",
+  "complete": 84.0,
+  "extra": 42.5,
+  "hltb_id": 8020,
+  "hltb_name": "Rune Factory 3: A Fantasy Harvest Moon",
+  "main": 25.5
  },
  "igdb:966": {
   "checked": "2026-10-28T05:22:27+00:00",

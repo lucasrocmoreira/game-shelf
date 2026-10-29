@@ -3505,16 +3505,16 @@
   "checked": "2026-10-29T22:22:33+00:00"
  },
  "pokemon-mystery-dungeon-blue-rescue-team": {
-  "checked": "2026-10-29T22:24:55+00:00"
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "pokemon-mystery-dungeon-explorers-of-darkness": {
-  "checked": "2026-10-29T22:24:55+00:00"
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "pokemon-mystery-dungeon-explorers-of-sky": {
-  "checked": "2026-10-29T22:24:55+00:00"
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "pokemon-mystery-dungeon-explorers-of-time": {
-  "checked": "2026-10-29T22:24:55+00:00"
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "pokemon-mystery-dungeon-red-rescue-team": {
   "checked": "2026-10-09T04:00:13+00:00"
@@ -3807,7 +3807,7 @@
   "opencritic_id": 310
  },
  "retro-game-challenge": {
-  "checked": "2026-10-29T22:24:55+00:00"
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "return-to-monkey-island": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -3819,6 +3819,13 @@
  },
  "revenge-of-the-gator": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "rhapsody-a-musical-adventure": {
+  "checked": "2026-10-29T22:26:48+00:00",
+  "opencritic_id": 13886
+ },
+ "rhythm-heaven": {
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "rhythm-heaven-megamix": {
   "checked": "2026-10-08T02:58:42+00:00"
@@ -3906,9 +3913,18 @@
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 18205
  },
+ "rune-factory-2-a-fantasy-harvest-moon": {
+  "checked": "2026-10-29T22:26:48+00:00"
+ },
+ "rune-factory-3-a-fantasy-harvest-moon": {
+  "checked": "2026-10-29T22:26:48+00:00"
+ },
  "rune-factory-4-special": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 9052
+ },
+ "rune-factory-a-fantasy-harvest-moon": {
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "runescape-dragonwilds": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -3955,6 +3971,9 @@
  "samurai-warriors-5": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 11536
+ },
+ "scribblenauts": {
+  "checked": "2026-10-29T22:26:48+00:00"
  },
  "scribblenauts-collection": {
   "checked": "2026-10-07T21:24:23+00:00"

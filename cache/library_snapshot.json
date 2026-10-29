@@ -3349,6 +3349,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Retro Game Challenge",
    "title": "Retro Game Challenge"
+  },
+  {
+   "format": "digital",
+   "igdb": "rhapsody-a-musical-adventure",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rhapsody: A Musical Adventure",
+   "title": "Rhapsody: A Musical Adventure"
+  },
+  {
+   "format": "digital",
+   "igdb": "rhythm-heaven",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rhythm Heaven",
+   "title": "Rhythm Heaven"
+  },
+  {
+   "format": "digital",
+   "igdb": "rune-factory-a-fantasy-harvest-moon",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rune Factory: A Fantasy Harvest Moon",
+   "title": "Rune Factory: A Fantasy Harvest Moon"
+  },
+  {
+   "format": "digital",
+   "igdb": "rune-factory-2-a-fantasy-harvest-moon",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rune Factory 2",
+   "title": "Rune Factory 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "rune-factory-3-a-fantasy-harvest-moon",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rune Factory 3",
+   "title": "Rune Factory 3"
+  },
+  {
+   "format": "digital",
+   "igdb": "scribblenauts",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Scribblenauts",
+   "title": "Scribblenauts"
   }
  ],
  "nintendo_eshop": [

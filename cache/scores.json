@@ -5666,7 +5666,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "pokemon-diamond-version",
-  "oc_checked": "2026-10-29T22:25:39+00:00"
+  "oc_checked": "2026-10-29T22:27:47+00:00"
  },
  "igdb:156151": {
   "backloggd": 2.3,
@@ -6039,6 +6039,15 @@
   "opencritic_id": 2906,
   "opencritic_pct": 40,
   "opencritic_tier": "Fair"
+ },
+ "igdb:16997": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:27:03+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-29T22:27:16+00:00"
  },
  "igdb:16999": {
   "backloggd": 2.7,
@@ -8338,6 +8347,22 @@
   "metacritic": 87,
   "metacritic_slug": "syphon-filter-dark-mirror"
  },
+ "igdb:20767": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:27:08+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "rune-factory-a-fantasy-harvest-moon"
+ },
+ "igdb:20768": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:27:10+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "rune-factory-2-a-fantasy-harvest-moon"
+ },
  "igdb:20839": {
   "backloggd": 3.2,
   "bl_v": 2,
@@ -8564,7 +8589,7 @@
  "igdb:21251": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-29T22:25:09+00:00",
+  "checked": "2026-10-29T22:27:00+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -9449,7 +9474,7 @@
  "igdb:2320": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-29T22:24:59+00:00",
+  "checked": "2026-10-29T22:26:50+00:00",
   "mc_v": 2,
   "metacritic": 62,
   "metacritic_slug": "pokemon-mystery-dungeon-blue-rescue-team"
@@ -9457,7 +9482,7 @@
  "igdb:2321": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-29T22:25:06+00:00",
+  "checked": "2026-10-29T22:26:58+00:00",
   "mc_v": 2,
   "metacritic": 60,
   "metacritic_slug": "pokemon-mystery-dungeon-explorers-of-time"
@@ -9465,7 +9490,7 @@
  "igdb:2322": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-29T22:25:01+00:00",
+  "checked": "2026-10-29T22:26:52+00:00",
   "mc_v": 2,
   "metacritic": 59,
   "metacritic_slug": "pokemon-mystery-dungeon-explorers-of-darkness"
@@ -9473,7 +9498,7 @@
  "igdb:2323": {
   "backloggd": 4.4,
   "bl_v": 2,
-  "checked": "2026-10-29T22:25:04+00:00",
+  "checked": "2026-10-29T22:26:55+00:00",
   "mc_v": 2,
   "metacritic": 54,
   "metacritic_slug": "pokemon-mystery-dungeon-explorers-of-sky"
@@ -16243,6 +16268,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:8167": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:27:05+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "rhythm-heaven"
+ },
  "igdb:8173": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -16814,6 +16847,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-28T05:17:26+00:00"
  },
+ "igdb:8807": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:27:16+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "scribblenauts"
+ },
  "igdb:8862": {
   "backloggd": 3.6,
   "bl_v": 2,
@@ -17279,6 +17320,14 @@
   "opencritic_id": 1508,
   "opencritic_pct": 88,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:9640": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:27:13+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "rune-factory-3-a-fantasy-harvest-moon"
  },
  "igdb:966": {
   "backloggd": 4.1,
