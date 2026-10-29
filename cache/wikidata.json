@@ -3375,6 +3375,9 @@
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 18750
  },
+ "peggle-dual-shot": {
+  "checked": "2026-10-29T22:20:16+00:00"
+ },
  "persona-3-portable": {
   "checked": "2026-10-08T03:15:47+00:00",
   "opencritic_id": 13297
@@ -3406,9 +3409,18 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 18046
  },
+ "phoenix-wright-ace-attorney": {
+  "checked": "2026-10-29T22:20:16+00:00"
+ },
+ "phoenix-wright-ace-attorney-justice-for-all": {
+  "checked": "2026-10-29T22:20:16+00:00"
+ },
  "phoenix-wright-ace-attorney-spirit-of-justice": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 3196
+ },
+ "phoenix-wright-ace-attorney-trials-and-tribulations": {
+  "checked": "2026-10-29T22:20:16+00:00"
  },
  "phoenix-wright-ace-attorney-trilogy": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -3417,6 +3429,9 @@
  "phogs": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 10612
+ },
+ "picross-3d": {
+  "checked": "2026-10-29T22:20:16+00:00"
  },
  "picross-ds": {
   "checked": "2026-10-07T21:28:53+00:00"
@@ -3449,6 +3464,9 @@
  "planet-coaster-console-edition": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 1791
+ },
+ "planet-puzzle-league": {
+  "checked": "2026-10-29T22:20:16+00:00"
  },
  "planet-zoo": {
   "checked": "2026-10-07T01:08:00+00:00",

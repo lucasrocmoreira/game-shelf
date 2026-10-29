@@ -626,6 +626,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-29T16:58:02+00:00"
  },
+ "igdb:10631": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:20:33+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "picross-3d"
+ },
  "igdb:1067": {
   "backloggd": 3.1,
   "bl_v": 2,
@@ -4441,6 +4449,31 @@
   "opencritic_id": 15228,
   "opencritic_pct": 88,
   "opencritic_tier": "Strong"
+ },
+ "igdb:1426": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:20:23+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "phoenix-wright-ace-attorney",
+  "oc_checked": "2026-10-29T22:21:06+00:00"
+ },
+ "igdb:1427": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:20:31+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "phoenix-wright-ace-attorney-justice-for-all"
+ },
+ "igdb:1428": {
+  "backloggd": 4.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:20:28+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "phoenix-wright-ace-attorney-trials-and-tribulations"
  },
  "igdb:142803": {
   "backloggd": 3.9,
@@ -8511,6 +8544,14 @@
   "metacritic_slug": "dementium-the-ward",
   "oc_checked": "2026-10-20T15:09:02+00:00"
  },
+ "igdb:21257": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:20:20+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "peggle-dual-shot"
+ },
  "igdb:2126": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -9293,6 +9334,14 @@
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "pursuit-force-extreme-justice"
+ },
+ "igdb:23093": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:20:36+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "planet-puzzle-league"
  },
  "igdb:231": {
   "backloggd": 4.1,

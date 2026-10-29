@@ -1767,6 +1767,66 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Peggle: Dual Shot": {
+  "candidates": null,
+  "checked": "2026-10-29T22:20:07+00:00",
+  "conf": "manual",
+  "id": 21257,
+  "mp": null,
+  "score": null,
+  "slug": "peggle-dual-shot",
+  "title": "Peggle: Dual Shot",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Phoenix Wright: Ace Attorney": {
+  "candidates": null,
+  "checked": "2026-10-29T22:20:08+00:00",
+  "conf": "manual",
+  "id": 1426,
+  "mp": null,
+  "score": null,
+  "slug": "phoenix-wright-ace-attorney",
+  "title": "Phoenix Wright: Ace Attorney",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Phoenix Wright: Ace Attorney – Justice for All": {
+  "candidates": null,
+  "checked": "2026-10-29T22:20:08+00:00",
+  "conf": "manual",
+  "id": 1428,
+  "mp": null,
+  "score": null,
+  "slug": "phoenix-wright-ace-attorney-trials-and-tribulations",
+  "title": "Phoenix Wright: Ace Attorney – Justice for All",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Phoenix Wright: Ace Attorney – Trials and Tribulations": {
+  "candidates": null,
+  "checked": "2026-10-29T22:20:08+00:00",
+  "conf": "manual",
+  "id": 1427,
+  "mp": null,
+  "score": null,
+  "slug": "phoenix-wright-ace-attorney-justice-for-all",
+  "title": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Picross 3D": {
+  "candidates": null,
+  "checked": "2026-10-29T22:20:08+00:00",
+  "conf": "manual",
+  "id": 10631,
+  "mp": null,
+  "score": null,
+  "slug": "picross-3d",
+  "title": "Picross 3D",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Picross DS": {
   "candidates": null,
   "checked": "2026-10-07T21:28:50+00:00",
@@ -1775,6 +1835,18 @@
   "score": null,
   "slug": "picross-ds",
   "title": "Picross DS",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Planet Puzzle League": {
+  "candidates": null,
+  "checked": "2026-10-29T22:20:09+00:00",
+  "conf": "manual",
+  "id": 23093,
+  "mp": null,
+  "score": null,
+  "slug": "planet-puzzle-league",
+  "title": "Planet Puzzle League",
   "v": 4,
   "via": "fix"
  },

@@ -429,6 +429,14 @@
   "hltb_name": "Kirby's Dream Land",
   "main": 1.0
  },
+ "igdb:10631": {
+  "checked": "2026-10-29T22:21:16+00:00",
+  "complete": 65.5,
+  "extra": 56.0,
+  "hltb_id": 7033,
+  "hltb_name": "Picross 3D",
+  "main": 40.5
+ },
  "igdb:1067": {
   "checked": "2026-10-28T05:54:06+00:00",
   "complete": 3.5,
@@ -2968,6 +2976,30 @@
   "hltb_id": 94262,
   "hltb_name": "Viewfinder",
   "main": 4.0
+ },
+ "igdb:1426": {
+  "checked": "2026-10-29T22:21:10+00:00",
+  "complete": 23.5,
+  "extra": 22.5,
+  "hltb_id": 7026,
+  "hltb_name": "Phoenix Wright: Ace Attorney",
+  "main": 18.0
+ },
+ "igdb:1427": {
+  "checked": "2026-10-29T22:21:14+00:00",
+  "complete": 21.0,
+  "extra": 21.0,
+  "hltb_id": 7028,
+  "hltb_name": "Phoenix Wright: Ace Attorney - Justice for All",
+  "main": 19.0
+ },
+ "igdb:1428": {
+  "checked": "2026-10-29T22:21:12+00:00",
+  "complete": 26.0,
+  "extra": 25.0,
+  "hltb_id": 7029,
+  "hltb_name": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+  "main": 21.5
  },
  "igdb:142803": {
   "checked": "2026-10-16T15:03:15+00:00",
@@ -5715,6 +5747,14 @@
   "hltb_name": "Dementium: The Ward",
   "main": 4.0
  },
+ "igdb:21257": {
+  "checked": "2026-10-29T22:21:08+00:00",
+  "complete": 50.5,
+  "extra": 11.5,
+  "hltb_id": 6950,
+  "hltb_name": "Peggle: Dual Shot",
+  "main": 8.0
+ },
  "igdb:2126": {
   "checked": "2026-10-18T14:05:10+00:00",
   "complete": 34.0,
@@ -6278,6 +6318,14 @@
   "hltb_id": 7398,
   "hltb_name": "Pursuit Force: Extreme Justice",
   "main": 6.5
+ },
+ "igdb:23093": {
+  "checked": "2026-10-29T22:21:19+00:00",
+  "complete": null,
+  "extra": 6.0,
+  "hltb_id": 7097,
+  "hltb_name": "Planet Puzzle League",
+  "main": 5.0
  },
  "igdb:231": {
   "checked": "2026-10-16T04:52:24+00:00",

@@ -262,26 +262,6 @@
   },
   {
    "format": "digital",
-   "igdb": "picross-ds",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Picross DS",
-   "title": "Picross DS"
-  },
-  {
-   "format": "digital",
-   "igdb": "okamiden",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Ōkamiden",
-   "title": "Ōkamiden"
-  },
-  {
-   "format": "digital",
    "igdb": "mario-luigi-bowser-s-inside-story",
    "last_played": null,
    "manual": true,
@@ -3179,6 +3159,86 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Nostalgia",
    "title": "Nostalgia"
+  },
+  {
+   "format": "digital",
+   "igdb": "okamiden",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ōkamiden",
+   "title": "Ōkamiden"
+  },
+  {
+   "format": "digital",
+   "igdb": "peggle-dual-shot",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Peggle: Dual Shot",
+   "title": "Peggle: Dual Shot"
+  },
+  {
+   "format": "digital",
+   "igdb": "phoenix-wright-ace-attorney",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Phoenix Wright: Ace Attorney",
+   "title": "Phoenix Wright: Ace Attorney"
+  },
+  {
+   "format": "digital",
+   "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Phoenix Wright: Ace Attorney – Justice for All",
+   "title": "Phoenix Wright: Ace Attorney – Justice for All"
+  },
+  {
+   "format": "digital",
+   "igdb": "phoenix-wright-ace-attorney-justice-for-all",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Phoenix Wright: Ace Attorney – Trials and Tribulations",
+   "title": "Phoenix Wright: Ace Attorney – Trials and Tribulations"
+  },
+  {
+   "format": "digital",
+   "igdb": "picross-3d",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Picross 3D",
+   "title": "Picross 3D"
+  },
+  {
+   "format": "digital",
+   "igdb": "picross-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Picross DS",
+   "title": "Picross DS"
+  },
+  {
+   "format": "digital",
+   "igdb": "planet-puzzle-league",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Planet Puzzle League",
+   "title": "Planet Puzzle League"
   }
  ],
  "nintendo_eshop": [
