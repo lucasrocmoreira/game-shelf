@@ -2274,6 +2274,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "pokemon-white-version-2"
+  },
+  {
+   "title": "Pokémon Diamond and Pearl",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-diamond-version"
   }
  ],
  "match": {
