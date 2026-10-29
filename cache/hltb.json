@@ -4072,6 +4072,14 @@
   "hltb_name": "Titanfall 2",
   "main": 6.0
  },
+ "igdb:17460": {
+  "checked": "2026-10-29T21:48:03+00:00",
+  "complete": 70.5,
+  "extra": 43.5,
+  "hltb_id": 2819,
+  "hltb_name": "Dragon Quest Monsters: Joker",
+  "main": 29.0
+ },
  "igdb:1751": {
   "checked": "2026-10-28T05:21:33+00:00",
   "complete": 59.0,
@@ -4278,6 +4286,14 @@
   "hltb_name": "Pocket Card Jockey",
   "main": 21.5
  },
+ "igdb:1820": {
+  "checked": "2026-10-29T21:48:01+00:00",
+  "complete": 664.0,
+  "extra": 86.0,
+  "hltb_id": 2817,
+  "hltb_name": "Dragon Quest IX: Sentinels of the Starry Skies",
+  "main": 47.5
+ },
  "igdb:18220": {
   "checked": "2026-10-17T13:53:17+00:00",
   "complete": 45.0,
@@ -4293,6 +4309,14 @@
   "hltb_id": 35559,
   "hltb_name": "Kirby: Planet Robobot",
   "main": 7.0
+ },
+ "igdb:1824": {
+  "checked": "2026-10-29T21:47:59+00:00",
+  "complete": 22.5,
+  "extra": 15.5,
+  "hltb_id": 2815,
+  "hltb_name": "Dragon Quest Heroes: Rocket Slime",
+  "main": 12.0
  },
  "igdb:18264": {
   "checked": "2026-10-28T05:21:23+00:00",
@@ -5773,6 +5797,14 @@
   "hltb_id": 882,
   "hltb_name": "Batman: Arkham City",
   "main": 12.5
+ },
+ "igdb:21727": {
+  "checked": "2026-10-29T21:48:05+00:00",
+  "complete": 83.5,
+  "extra": 44.0,
+  "hltb_id": 2820,
+  "hltb_name": "Dragon Quest Monsters: Joker 2",
+  "main": 23.5
  },
  "igdb:217311": {
   "checked": "2026-10-17T13:48:56+00:00",

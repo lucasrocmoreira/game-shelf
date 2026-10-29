@@ -1217,6 +1217,18 @@
   "v": 4,
   "via": "search"
  },
+ "DS:manual:Dragon Quest Heroes: Rocket Slime": {
+  "candidates": null,
+  "checked": "2026-10-29T21:47:01+00:00",
+  "conf": "manual",
+  "id": 1824,
+  "mp": null,
+  "score": null,
+  "slug": "dragon-quest-heroes-rocket-slime",
+  "title": "Dragon Quest Heroes: Rocket Slime",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Dragon Quest IV: Chapters of the Chosen": {
   "candidates": 2,
   "checked": "2026-10-07T21:36:11+00:00",
@@ -1227,6 +1239,42 @@
   "title": "Dragon Quest IV: Chapters of the Chosen",
   "v": 4,
   "via": "search"
+ },
+ "DS:manual:Dragon Quest IX": {
+  "candidates": null,
+  "checked": "2026-10-29T21:47:01+00:00",
+  "conf": "manual",
+  "id": 1820,
+  "mp": null,
+  "score": null,
+  "slug": "dragon-quest-ix-sentinels-of-the-starry-skies",
+  "title": "Dragon Quest IX",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Dragon Quest Monsters: Joker": {
+  "candidates": null,
+  "checked": "2026-10-29T21:47:02+00:00",
+  "conf": "manual",
+  "id": 17460,
+  "mp": null,
+  "score": null,
+  "slug": "dragon-quest-monsters-joker",
+  "title": "Dragon Quest Monsters: Joker",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Dragon Quest Monsters: Joker 2": {
+  "candidates": null,
+  "checked": "2026-10-29T21:47:02+00:00",
+  "conf": "manual",
+  "id": 21727,
+  "mp": null,
+  "score": null,
+  "slug": "dragon-quest-monsters-joker-2",
+  "title": "Dragon Quest Monsters: Joker 2",
+  "v": 4,
+  "via": "fix"
  },
  "DS:manual:Dragon Quest V: Hand of the Heavenly Bride": {
   "candidates": 3,
@@ -1522,6 +1570,30 @@
   "score": 1.136,
   "slug": null,
   "title": "Yoshi's Island DS",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:dragon quest iv chapters of the chosen": {
+  "candidates": 2,
+  "checked": "2026-10-29T21:47:03+00:00",
+  "conf": "high",
+  "id": 1815,
+  "mp": null,
+  "score": 1.136,
+  "slug": null,
+  "title": "dragon quest iv chapters of the chosen",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:dragon quest v hand of the heavenly bride": {
+  "candidates": 3,
+  "checked": "2026-10-29T21:47:04+00:00",
+  "conf": "high",
+  "id": 16585,
+  "mp": null,
+  "score": 1.135,
+  "slug": null,
+  "title": "dragon quest v hand of the heavenly bride",
   "v": 4,
   "via": "search"
  },

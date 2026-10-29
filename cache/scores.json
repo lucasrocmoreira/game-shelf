@@ -1596,7 +1596,8 @@
   "checked": "2026-10-29T21:44:15+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "castlevania-order-of-ecclesia"
+  "metacritic_slug": "castlevania-order-of-ecclesia",
+  "oc_checked": "2026-10-29T21:47:57+00:00"
  },
  "igdb:11416": {
   "backloggd": 4.0,
@@ -6112,6 +6113,14 @@
   "opencritic_pct": 94,
   "opencritic_tier": "Mighty"
  },
+ "igdb:17460": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:47:23+00:00",
+  "mc_v": 2,
+  "metacritic": 75,
+  "metacritic_slug": "dragon-quest-monsters-joker"
+ },
  "igdb:1751": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -6388,6 +6397,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-10T15:55:47+00:00"
  },
+ "igdb:1820": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:47:20+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "dragon-quest-ix-sentinels-of-the-starry-skies"
+ },
  "igdb:18220": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -6413,6 +6430,14 @@
   "opencritic_id": 2732,
   "opencritic_pct": 86,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:1824": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:47:14+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "dragon-quest-heroes-rocket-slime"
  },
  "igdb:18264": {
   "backloggd": 3.5,
@@ -8632,6 +8657,14 @@
   ],
   "steam_pct": 96,
   "steam_reviews": 78610
+ },
+ "igdb:21727": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:47:27+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "dragon-quest-monsters-joker-2"
  },
  "igdb:217311": {
   "backloggd": 3.2,

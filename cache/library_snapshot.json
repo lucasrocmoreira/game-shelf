@@ -2789,6 +2789,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Disgaea DS",
    "title": "Disgaea DS"
+  },
+  {
+   "format": "digital",
+   "igdb": "dragon-quest-heroes-rocket-slime",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest Heroes: Rocket Slime",
+   "title": "Dragon Quest Heroes: Rocket Slime"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:dragon quest iv chapters of the chosen",
+   "title": "dragon quest iv chapters of the chosen"
+  },
+  {
+   "format": "digital",
+   "igdb": "dragon-quest-ix-sentinels-of-the-starry-skies",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest IX",
+   "title": "Dragon Quest IX"
+  },
+  {
+   "format": "digital",
+   "igdb": "dragon-quest-monsters-joker",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest Monsters: Joker",
+   "title": "Dragon Quest Monsters: Joker"
+  },
+  {
+   "format": "digital",
+   "igdb": "dragon-quest-monsters-joker-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dragon Quest Monsters: Joker 2",
+   "title": "Dragon Quest Monsters: Joker 2"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:dragon quest v hand of the heavenly bride",
+   "title": "dragon quest v hand of the heavenly bride"
   }
  ],
  "nintendo_eshop": [
