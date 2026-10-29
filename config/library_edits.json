@@ -2183,6 +2183,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "nanostray"
+  },
+  {
+   "title": "Nanostray 2",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "nanostray-2"
   }
  ],
  "match": {
