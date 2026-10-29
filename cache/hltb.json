@@ -5753,6 +5753,14 @@
   "hltb_name": "Dementium: The Ward",
   "main": 4.0
  },
+ "igdb:21251": {
+  "checked": "2026-10-29T22:25:49+00:00",
+  "complete": 16.0,
+  "extra": 10.5,
+  "hltb_id": 7757,
+  "hltb_name": "Retro Game Challenge",
+  "main": 10.5
+ },
  "igdb:21257": {
   "checked": "2026-10-29T22:23:36+00:00",
   "complete": 50.5,
@@ -6388,6 +6396,38 @@
   "hltb_id": 7155,
   "hltb_name": "Pokémon Mystery Dungeon: Blue/Red Rescue Team",
   "main": 18.5
+ },
+ "igdb:2320": {
+  "checked": "2026-10-29T22:25:40+00:00",
+  "complete": 207.5,
+  "extra": 43.0,
+  "hltb_id": 7155,
+  "hltb_name": "Pokémon Mystery Dungeon: Blue/Red Rescue Team",
+  "main": 18.5
+ },
+ "igdb:2321": {
+  "checked": "2026-10-29T22:25:47+00:00",
+  "complete": 93.5,
+  "extra": 43.0,
+  "hltb_id": 7157,
+  "hltb_name": "Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness",
+  "main": 22.5
+ },
+ "igdb:2322": {
+  "checked": "2026-10-29T22:25:43+00:00",
+  "complete": 93.5,
+  "extra": 43.0,
+  "hltb_id": 7157,
+  "hltb_name": "Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness",
+  "main": 22.5
+ },
+ "igdb:2323": {
+  "checked": "2026-10-29T22:25:45+00:00",
+  "complete": 173.0,
+  "extra": 50.0,
+  "hltb_id": 7156,
+  "hltb_name": "Pokémon Mystery Dungeon: Explorers of Sky",
+  "main": 23.5
  },
  "igdb:23248": {
   "checked": "2026-10-16T04:54:49+00:00",

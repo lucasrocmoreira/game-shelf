@@ -222,16 +222,6 @@
   },
   {
    "format": "digital",
-   "igdb": "professor-layton-and-the-diabolical-box",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Professor Layton and the Diabolical Box",
-   "title": "Professor Layton and the Diabolical Box"
-  },
-  {
-   "format": "digital",
    "igdb": "professor-layton-and-the-curious-village",
    "last_played": null,
    "manual": true,
@@ -3279,6 +3269,86 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Pokémon Conquest",
    "title": "Pokémon Conquest"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-mystery-dungeon-blue-rescue-team",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Mystery Dungeon: Blue Rescue Team",
+   "title": "Pokémon Mystery Dungeon: Blue Rescue Team"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-mystery-dungeon-explorers-of-darkness",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Mystery Dungeon: Explorers of Darkness",
+   "title": "Pokémon Mystery Dungeon: Explorers of Darkness"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-mystery-dungeon-explorers-of-sky",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Mystery Dungeon: Explorers of Sky",
+   "title": "Pokémon Mystery Dungeon: Explorers of Sky"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-mystery-dungeon-explorers-of-time",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Mystery Dungeon: Explorers of Time",
+   "title": "Pokémon Mystery Dungeon: Explorers of Time"
+  },
+  {
+   "format": "digital",
+   "igdb": "professor-layton-and-the-diabolical-box",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Professor Layton and the Diabolical Box",
+   "title": "Professor Layton and the Diabolical Box"
+  },
+  {
+   "format": "digital",
+   "igdb": "professor-layton-and-the-last-specter",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Professor Layton and the Last Specter",
+   "title": "Professor Layton and the Last Specter"
+  },
+  {
+   "format": "digital",
+   "igdb": "radiant-historia",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Radiant Historia",
+   "title": "Radiant Historia"
+  },
+  {
+   "format": "digital",
+   "igdb": "retro-game-challenge",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Retro Game Challenge",
+   "title": "Retro Game Challenge"
   }
  ],
  "nintendo_eshop": [

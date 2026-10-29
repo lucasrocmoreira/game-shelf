@@ -3504,6 +3504,18 @@
  "pokemon-diamond-version": {
   "checked": "2026-10-29T22:22:33+00:00"
  },
+ "pokemon-mystery-dungeon-blue-rescue-team": {
+  "checked": "2026-10-29T22:24:55+00:00"
+ },
+ "pokemon-mystery-dungeon-explorers-of-darkness": {
+  "checked": "2026-10-29T22:24:55+00:00"
+ },
+ "pokemon-mystery-dungeon-explorers-of-sky": {
+  "checked": "2026-10-29T22:24:55+00:00"
+ },
+ "pokemon-mystery-dungeon-explorers-of-time": {
+  "checked": "2026-10-29T22:24:55+00:00"
+ },
  "pokemon-mystery-dungeon-red-rescue-team": {
   "checked": "2026-10-09T04:00:13+00:00"
  },
@@ -3793,6 +3805,9 @@
  "resogun": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 310
+ },
+ "retro-game-challenge": {
+  "checked": "2026-10-29T22:24:55+00:00"
  },
  "return-to-monkey-island": {
   "checked": "2026-10-07T01:52:04+00:00",

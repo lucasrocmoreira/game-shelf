@@ -5665,7 +5665,8 @@
   "checked": "2026-10-29T22:23:02+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "pokemon-diamond-version"
+  "metacritic_slug": "pokemon-diamond-version",
+  "oc_checked": "2026-10-29T22:25:39+00:00"
  },
  "igdb:156151": {
   "backloggd": 2.3,
@@ -8560,6 +8561,14 @@
   "metacritic_slug": "dementium-the-ward",
   "oc_checked": "2026-10-20T15:09:02+00:00"
  },
+ "igdb:21251": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:25:09+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:21257": {
   "backloggd": 3.4,
   "bl_v": 2,
@@ -9436,6 +9445,38 @@
   "metacritic": 67,
   "metacritic_slug": "pokemon-mystery-dungeon-red-rescue-team",
   "oc_checked": "2026-10-15T15:05:40+00:00"
+ },
+ "igdb:2320": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:24:59+00:00",
+  "mc_v": 2,
+  "metacritic": 62,
+  "metacritic_slug": "pokemon-mystery-dungeon-blue-rescue-team"
+ },
+ "igdb:2321": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:25:06+00:00",
+  "mc_v": 2,
+  "metacritic": 60,
+  "metacritic_slug": "pokemon-mystery-dungeon-explorers-of-time"
+ },
+ "igdb:2322": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:25:01+00:00",
+  "mc_v": 2,
+  "metacritic": 59,
+  "metacritic_slug": "pokemon-mystery-dungeon-explorers-of-darkness"
+ },
+ "igdb:2323": {
+  "backloggd": 4.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:25:04+00:00",
+  "mc_v": 2,
+  "metacritic": 54,
+  "metacritic_slug": "pokemon-mystery-dungeon-explorers-of-sky"
  },
  "igdb:23248": {
   "backloggd": 3.8,
