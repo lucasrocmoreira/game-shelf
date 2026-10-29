@@ -825,6 +825,14 @@
   "hltb_name": "Anodyne",
   "main": 6.0
  },
+ "igdb:1110": {
+  "checked": "2026-10-29T22:16:27+00:00",
+  "complete": 11.5,
+  "extra": 9.5,
+  "hltb_id": 5956,
+  "hltb_name": "Metroid Prime Hunters",
+  "main": 8.0
+ },
  "igdb:111090": {
   "checked": "2026-10-28T05:17:41+00:00",
   "complete": 21.0,
@@ -1297,6 +1305,14 @@
   "hltb_id": 68265,
   "hltb_name": "Sniper Elite VR",
   "main": 8.5
+ },
+ "igdb:1165": {
+  "checked": "2026-10-29T22:16:25+00:00",
+  "complete": 42.0,
+  "extra": 14.0,
+  "hltb_id": 5945,
+  "hltb_name": "Meteos",
+  "main": 5.0
  },
  "igdb:116586": {
   "checked": "2026-10-28T04:15:21+00:00",
@@ -2250,6 +2266,14 @@
   "hltb_id": 76520,
   "hltb_name": "Mortal Shell",
   "main": 10.5
+ },
+ "igdb:132109": {
+  "checked": "2026-10-29T22:16:17+00:00",
+  "complete": 21.0,
+  "extra": 19.5,
+  "hltb_id": 15628,
+  "hltb_name": "Mario & Sonic at the Olympic Winter Games",
+  "main": 9.5
  },
  "igdb:132165": {
   "checked": "2026-10-28T04:14:18+00:00",
@@ -5632,6 +5656,14 @@
   "hltb_name": "Metal Gear Solid: Snake Eater 3D",
   "main": 16.5
  },
+ "igdb:21093": {
+  "checked": "2026-10-29T22:16:21+00:00",
+  "complete": 15.0,
+  "extra": 8.0,
+  "hltb_id": 5662,
+  "hltb_name": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
+  "main": 6.0
+ },
  "igdb:2113": {
   "checked": "2026-10-16T04:55:57+00:00",
   "complete": 81.5,
@@ -6291,6 +6323,14 @@
   "hltb_id": 59820,
   "hltb_name": "Rise of the Tomb Raider: 20 Year Celebration",
   "main": 14.0
+ },
+ "igdb:2335": {
+  "checked": "2026-10-29T22:16:19+00:00",
+  "complete": 42.0,
+  "extra": 15.0,
+  "hltb_id": 5651,
+  "hltb_name": "Mario Party DS",
+  "main": 7.0
  },
  "igdb:23354": {
   "checked": "2026-10-16T04:58:29+00:00",
@@ -10153,6 +10193,14 @@
   "hltb_id": 10162,
   "hltb_name": "The Secret of Monkey Island",
   "main": 6.5
+ },
+ "igdb:6506": {
+  "checked": "2026-10-29T22:16:23+00:00",
+  "complete": 14.5,
+  "extra": 7.5,
+  "hltb_id": 5661,
+  "hltb_name": "Mario vs. Donkey Kong 2: March of the Minis",
+  "main": 5.0
  },
  "igdb:6516": {
   "checked": "2026-10-17T13:52:54+00:00",

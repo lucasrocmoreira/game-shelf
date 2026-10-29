@@ -1577,6 +1577,18 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Mario & Sonic at the Olympic Winter Games": {
+  "candidates": null,
+  "checked": "2026-10-29T22:15:18+00:00",
+  "conf": "manual",
+  "id": 132109,
+  "mp": null,
+  "score": null,
+  "slug": "mario-and-sonic-at-the-olympic-winter-games--1",
+  "title": "Mario & Sonic at the Olympic Winter Games",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Mario Kart DS": {
   "candidates": null,
   "checked": "2026-10-07T21:32:39+00:00",
@@ -1585,6 +1597,54 @@
   "score": null,
   "slug": "mario-kart-ds",
   "title": "Mario Kart DS",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Mario Party DS": {
+  "candidates": null,
+  "checked": "2026-10-29T22:15:18+00:00",
+  "conf": "manual",
+  "id": 2335,
+  "mp": null,
+  "score": null,
+  "slug": "mario-party-ds",
+  "title": "Mario Party DS",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Mario vs. Donkey Kong 2: March of the Minis": {
+  "candidates": null,
+  "checked": "2026-10-29T22:15:19+00:00",
+  "conf": "manual",
+  "id": 6506,
+  "mp": null,
+  "score": null,
+  "slug": "mario-vs-donkey-kong-2-march-of-the-minis",
+  "title": "Mario vs. Donkey Kong 2: March of the Minis",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Meteos": {
+  "candidates": null,
+  "checked": "2026-10-29T22:15:19+00:00",
+  "conf": "manual",
+  "id": 1165,
+  "mp": null,
+  "score": null,
+  "slug": "meteos",
+  "title": "Meteos",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Metroid Prime Hunters": {
+  "candidates": null,
+  "checked": "2026-10-29T22:15:19+00:00",
+  "conf": "manual",
+  "id": 1110,
+  "mp": null,
+  "score": null,
+  "slug": "metroid-prime-hunters",
+  "title": "Metroid Prime Hunters",
   "v": 4,
   "via": "fix"
  },
@@ -1810,6 +1870,18 @@
   "score": 1.13,
   "slug": null,
   "title": "harvest moon the tale of two towns",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:mario vs donkey kong mini-land mayhem!": {
+  "candidates": 1,
+  "checked": "2026-10-29T22:15:20+00:00",
+  "conf": "high",
+  "id": 21093,
+  "mp": null,
+  "score": 1.133,
+  "slug": null,
+  "title": "mario vs donkey kong mini-land mayhem!",
   "v": 4,
   "via": "search"
  },

@@ -292,16 +292,6 @@
   },
   {
    "format": "digital",
-   "igdb": "mario-kart-ds",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Mario Kart DS",
-   "title": "Mario Kart DS"
-  },
-  {
-   "format": "digital",
    "igdb": "mario-luigi-bowser-s-inside-story",
    "last_played": null,
    "manual": true,
@@ -3029,6 +3019,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Mario & Luigi: Partners in Time",
    "title": "Mario & Luigi: Partners in Time"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-and-sonic-at-the-olympic-winter-games--1",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario & Sonic at the Olympic Winter Games",
+   "title": "Mario & Sonic at the Olympic Winter Games"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-kart-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Kart DS",
+   "title": "Mario Kart DS"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-party-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Party DS",
+   "title": "Mario Party DS"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:mario vs donkey kong mini-land mayhem!",
+   "title": "mario vs donkey kong mini-land mayhem!"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-vs-donkey-kong-2-march-of-the-minis",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario vs. Donkey Kong 2: March of the Minis",
+   "title": "Mario vs. Donkey Kong 2: March of the Minis"
+  },
+  {
+   "format": "digital",
+   "igdb": "meteos",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Meteos",
+   "title": "Meteos"
+  },
+  {
+   "format": "digital",
+   "igdb": "metroid-prime-hunters",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metroid Prime Hunters",
+   "title": "Metroid Prime Hunters"
   }
  ],
  "nintendo_eshop": [

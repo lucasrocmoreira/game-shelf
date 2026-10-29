@@ -1196,6 +1196,14 @@
   "opencritic_pct": 46,
   "opencritic_tier": "Fair"
  },
+ "igdb:1110": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:15:45+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "metroid-prime-hunters"
+ },
  "igdb:111090": {
   "backloggd": 2.5,
   "bl_v": 2,
@@ -1914,6 +1922,14 @@
   "opencritic_id": 11659,
   "opencritic_pct": 45,
   "opencritic_tier": "Fair"
+ },
+ "igdb:1165": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:15:42+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "meteos"
  },
  "igdb:116586": {
   "backloggd": 2.2,
@@ -3331,6 +3347,14 @@
   "opencritic_id": 10021,
   "opencritic_pct": 64,
   "opencritic_tier": "Strong"
+ },
+ "igdb:132109": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:15:30+00:00",
+  "mc_v": 2,
+  "metacritic": 72,
+  "metacritic_slug": "mario-sonic-at-the-olympic-winter-games"
  },
  "igdb:132164": {},
  "igdb:132165": {
@@ -8406,6 +8430,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-18T14:03:33+00:00"
  },
+ "igdb:21093": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:15:37+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "mario-vs-donkey-kong-mini-land-mayhem"
+ },
  "igdb:211243": {},
  "igdb:2113": {
   "backloggd": 3.0,
@@ -9351,6 +9383,15 @@
   "opencritic_id": 3414,
   "opencritic_pct": 89,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:2335": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:15:35+00:00",
+  "mc_v": 2,
+  "metacritic": 72,
+  "metacritic_slug": "mario-party-ds",
+  "oc_checked": "2026-10-29T22:16:15+00:00"
  },
  "igdb:23354": {
   "backloggd": 3.2,
@@ -14902,6 +14943,14 @@
   ],
   "steam_pct": 95,
   "steam_reviews": 6258
+ },
+ "igdb:6506": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:15:40+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "mario-vs-donkey-kong-2-march-of-the-minis"
  },
  "igdb:6516": {
   "backloggd": 4.0,
