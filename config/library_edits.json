@@ -336,13 +336,6 @@
    "added": "2026-10-07"
   },
   {
-   "title": "Dementium: The Ward",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "dementium-the-ward"
-  },
-  {
    "title": "Crash of the Titans",
    "platform": "DS",
    "format": "digital",
@@ -1930,6 +1923,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "crash-mind-over-mutant"
+  },
+  {
+   "title": "Dementium: The Ward",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dementium-the-ward"
   }
  ],
  "match": {
