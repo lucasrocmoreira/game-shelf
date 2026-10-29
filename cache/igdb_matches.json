@@ -945,6 +945,42 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Aliens Infestation": {
+  "candidates": null,
+  "checked": "2026-10-29T21:34:19+00:00",
+  "conf": "manual",
+  "id": 20606,
+  "mp": null,
+  "score": null,
+  "slug": "aliens-infestation",
+  "title": "Aliens Infestation",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Animal Crossing: Wild World": {
+  "candidates": null,
+  "checked": "2026-10-29T21:34:19+00:00",
+  "conf": "manual",
+  "id": 2645,
+  "mp": null,
+  "score": null,
+  "slug": "animal-crossing-wild-world",
+  "title": "Animal Crossing: Wild World",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Anno Create a New World": {
+  "candidates": 1,
+  "checked": "2026-10-29T21:34:21+00:00",
+  "conf": "high",
+  "id": 4795,
+  "mp": null,
+  "score": 1.12,
+  "slug": null,
+  "title": "Anno Create a New World",
+  "v": 4,
+  "via": "search"
+ },
  "DS:manual:Castlevania: Dawn of Sorrow": {
   "candidates": null,
   "checked": "2026-10-07T21:40:05+00:00",

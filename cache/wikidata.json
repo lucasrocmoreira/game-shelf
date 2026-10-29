@@ -127,6 +127,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 11864
  },
+ "aliens-infestation": {
+  "checked": "2026-10-29T21:34:28+00:00"
+ },
  "alleyway": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
@@ -157,12 +160,18 @@
   "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 7228
  },
+ "animal-crossing-wild-world": {
+  "checked": "2026-10-29T21:34:28+00:00"
+ },
  "anno-1800": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 7085
  },
  "anno-1800-console-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
+ },
+ "anno-create-a-new-world": {
+  "checked": "2026-10-29T21:34:28+00:00"
  },
  "anno-mutationem": {
   "checked": "2026-10-28T03:48:11+00:00",

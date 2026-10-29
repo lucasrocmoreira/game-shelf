@@ -5317,6 +5317,14 @@
   "hltb_name": "Yoshi's Island DS",
   "main": 9.0
  },
+ "igdb:20606": {
+  "checked": "2026-10-29T21:35:07+00:00",
+  "complete": 6.5,
+  "extra": 6.0,
+  "hltb_id": 383,
+  "hltb_name": "Aliens: Infestation",
+  "main": 6.0
+ },
  "igdb:206188": {
   "checked": "2026-10-16T15:01:40+00:00",
   "complete": 209.0,
@@ -6812,6 +6820,14 @@
   "hltb_id": 137377,
   "hltb_name": "EA Sports WRC",
   "main": 15.0
+ },
+ "igdb:2645": {
+  "checked": "2026-10-29T21:35:10+00:00",
+  "complete": 377.5,
+  "extra": 119.0,
+  "hltb_id": 475,
+  "hltb_name": "Animal Crossing: Wild World",
+  "main": 68.0
  },
  "igdb:264500": {
   "checked": "2026-10-28T04:14:31+00:00"
@@ -9239,6 +9255,14 @@
   "hltb_id": 106934,
   "hltb_name": "Scribblenauts Collection",
   "main": null
+ },
+ "igdb:4795": {
+  "checked": "2026-10-29T21:35:12+00:00",
+  "complete": 127.5,
+  "extra": 36.0,
+  "hltb_id": 485,
+  "hltb_name": "Anno 1404",
+  "main": 18.0
  },
  "igdb:48052": {
   "checked": "2026-10-28T05:56:14+00:00",

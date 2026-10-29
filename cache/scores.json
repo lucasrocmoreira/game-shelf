@@ -8008,6 +8008,14 @@
   "metacritic_slug": "yoshis-island-ds",
   "oc_checked": "2026-10-17T13:47:00+00:00"
  },
+ "igdb:20606": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:34:31+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "aliens-infestation"
+ },
  "igdb:206188": {
   "backloggd": 2.4,
   "bl_v": 2,
@@ -10311,6 +10319,15 @@
   "opencritic_id": 15766,
   "opencritic_pct": 73,
   "opencritic_tier": "Strong"
+ },
+ "igdb:2645": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:34:33+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "animal-crossing-wild-world",
+  "oc_checked": "2026-10-29T21:35:05+00:00"
  },
  "igdb:264500": {
   "backloggd": 2.0,
@@ -13715,6 +13732,14 @@
   "metacritic": 96,
   "metacritic_slug": "scribblenauts-collection",
   "oc_checked": "2026-10-23T15:08:28+00:00"
+ },
+ "igdb:4795": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:34:35+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:48052": {
   "backloggd": 3.2,

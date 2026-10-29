@@ -472,16 +472,6 @@
   },
   {
    "format": "digital",
-   "igdb": "advance-wars-dual-strike",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Advance Wars: Dual Strike",
-   "title": "Advance Wars: Dual Strike"
-  },
-  {
-   "format": "digital",
    "igdb": null,
    "last_played": null,
    "manual": true,
@@ -2599,6 +2589,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Advance Wars: Days of Ruin",
    "title": "Advance Wars: Days of Ruin"
+  },
+  {
+   "format": "digital",
+   "igdb": "advance-wars-dual-strike",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Advance Wars: Dual Strike",
+   "title": "Advance Wars: Dual Strike"
+  },
+  {
+   "format": "digital",
+   "igdb": "aliens-infestation",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Aliens Infestation",
+   "title": "Aliens Infestation"
+  },
+  {
+   "format": "digital",
+   "igdb": "animal-crossing-wild-world",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Animal Crossing: Wild World",
+   "title": "Animal Crossing: Wild World"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Anno Create a New World",
+   "title": "Anno Create a New World"
   }
  ],
  "nintendo_eshop": [
