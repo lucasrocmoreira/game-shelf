@@ -2072,6 +2072,13 @@
    "platform": "DS",
    "format": "digital",
    "added": "2026-10-29"
+  },
+  {
+   "title": "Hotel Dusk: Room 215",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "hotel-dusk-room-215"
   }
  ],
  "match": {
