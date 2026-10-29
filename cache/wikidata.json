@@ -128,7 +128,7 @@
   "opencritic_id": 11864
  },
  "aliens-infestation": {
-  "checked": "2026-10-29T21:36:17+00:00"
+  "checked": "2026-10-29T21:34:28+00:00"
  },
  "alleyway": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -161,10 +161,10 @@
   "opencritic_id": 7228
  },
  "animal-crossing-wild-world": {
-  "checked": "2026-10-29T21:36:17+00:00"
+  "checked": "2026-10-29T21:34:28+00:00"
  },
  "anno-1701": {
-  "checked": "2026-10-29T21:36:17+00:00"
+  "checked": "2026-10-29T21:38:16+00:00"
  },
  "anno-1800": {
   "checked": "2026-10-28T03:48:11+00:00",
@@ -174,7 +174,7 @@
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "anno-create-a-new-world": {
-  "checked": "2026-10-29T21:36:17+00:00"
+  "checked": "2026-10-29T21:34:28+00:00"
  },
  "anno-mutationem": {
   "checked": "2026-10-28T03:48:11+00:00",
@@ -344,7 +344,7 @@
   "checked": "2026-10-07T01:52:06+00:00"
  },
  "avalon-code": {
-  "checked": "2026-10-29T21:36:17+00:00"
+  "checked": "2026-10-29T21:38:16+00:00"
  },
  "avenging-spirit--1": {
   "checked": "2026-10-28T06:30:39+00:00",
@@ -385,7 +385,7 @@
   "opencritic_id": 15541
  },
  "bangai-o-spirits": {
-  "checked": "2026-10-29T21:36:17+00:00"
+  "checked": "2026-10-29T21:38:16+00:00"
  },
  "banishers-ghosts-of-new-eden": {
   "checked": "2026-10-28T03:48:11+00:00",
@@ -561,6 +561,9 @@
  "bomb-rush-cyberfunk": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15377
+ },
+ "bomberman-land-touch": {
+  "checked": "2026-10-29T21:38:16+00:00"
  },
  "borderlands-2": {
   "checked": "2026-10-08T03:51:23+00:00",

@@ -947,7 +947,7 @@
  },
  "DS:manual:Aliens Infestation": {
   "candidates": null,
-  "checked": "2026-10-29T21:36:09+00:00",
+  "checked": "2026-10-29T21:34:19+00:00",
   "conf": "manual",
   "id": 20606,
   "mp": null,
@@ -959,7 +959,7 @@
  },
  "DS:manual:Animal Crossing: Wild World": {
   "candidates": null,
-  "checked": "2026-10-29T21:36:09+00:00",
+  "checked": "2026-10-29T21:34:19+00:00",
   "conf": "manual",
   "id": 2645,
   "mp": null,
@@ -971,7 +971,7 @@
  },
  "DS:manual:Anno 1701": {
   "candidates": null,
-  "checked": "2026-10-29T21:36:10+00:00",
+  "checked": "2026-10-29T21:38:04+00:00",
   "conf": "manual",
   "id": 8225,
   "mp": null,
@@ -983,7 +983,7 @@
  },
  "DS:manual:Anno Create a New World": {
   "candidates": 1,
-  "checked": "2026-10-29T21:36:11+00:00",
+  "checked": "2026-10-29T21:34:21+00:00",
   "conf": "high",
   "id": 4795,
   "mp": null,
@@ -995,7 +995,7 @@
  },
  "DS:manual:Avalon Code": {
   "candidates": null,
-  "checked": "2026-10-29T21:36:10+00:00",
+  "checked": "2026-10-29T21:38:04+00:00",
   "conf": "manual",
   "id": 21206,
   "mp": null,
@@ -1007,13 +1007,25 @@
  },
  "DS:manual:Bangai-O Spirits": {
   "candidates": null,
-  "checked": "2026-10-29T21:36:10+00:00",
+  "checked": "2026-10-29T21:38:04+00:00",
   "conf": "manual",
   "id": 21278,
   "mp": null,
   "score": null,
   "slug": "bangai-o-spirits",
   "title": "Bangai-O Spirits",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Bomberman Land Touch!": {
+  "candidates": null,
+  "checked": "2026-10-29T21:38:04+00:00",
+  "conf": "manual",
+  "id": 20612,
+  "mp": null,
+  "score": null,
+  "slug": "bomberman-land-touch",
+  "title": "Bomberman Land Touch!",
   "v": 4,
   "via": "fix"
  },

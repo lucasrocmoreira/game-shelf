@@ -8011,10 +8011,18 @@
  "igdb:20606": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-29T21:36:19+00:00",
+  "checked": "2026-10-29T21:34:31+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "aliens-infestation"
+ },
+ "igdb:20612": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:38:26+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "bomberman-land-touch"
  },
  "igdb:206188": {
   "backloggd": 2.4,
@@ -8317,7 +8325,7 @@
  "igdb:21206": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-29T21:36:30+00:00",
+  "checked": "2026-10-29T21:38:20+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "avalon-code"
@@ -8360,7 +8368,7 @@
  "igdb:21278": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-29T21:36:33+00:00",
+  "checked": "2026-10-29T21:38:22+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "bangai-o-spirits"
@@ -10339,11 +10347,11 @@
  "igdb:2645": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-29T21:36:22+00:00",
+  "checked": "2026-10-29T21:34:33+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "animal-crossing-wild-world",
-  "oc_checked": "2026-10-29T21:37:03+00:00"
+  "oc_checked": "2026-10-29T21:35:05+00:00"
  },
  "igdb:264500": {
   "backloggd": 2.0,
@@ -12718,7 +12726,8 @@
   "checked": "2026-10-28T05:44:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-10-29T21:38:56+00:00"
  },
  "igdb:3722": {
   "backloggd": 3.2,
@@ -13752,7 +13761,7 @@
  "igdb:4795": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-29T21:36:24+00:00",
+  "checked": "2026-10-29T21:34:35+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -15853,7 +15862,7 @@
  "igdb:8225": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-29T21:36:28+00:00",
+  "checked": "2026-10-29T21:38:18+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null

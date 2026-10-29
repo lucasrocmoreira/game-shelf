@@ -2659,6 +2659,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Bangai-O Spirits",
    "title": "Bangai-O Spirits"
+  },
+  {
+   "format": "digital",
+   "igdb": "bomberman-land-touch",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Bomberman Land Touch!",
+   "title": "Bomberman Land Touch!"
   }
  ],
  "nintendo_eshop": [
