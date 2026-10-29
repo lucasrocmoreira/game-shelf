@@ -364,13 +364,6 @@
    "igdb": "castlevania-dawn-of-sorrow"
   },
   {
-   "title": "Advance Wars: Days of Ruin",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "advance-wars-days-of-ruin"
-  },
-  {
    "title": "Advance Wars: Dual Strike",
    "platform": "DS",
    "format": "digital",
@@ -1819,6 +1812,13 @@
    "format": "digital",
    "added": "2026-10-08",
    "igdb": "yoshis-island-super-mario-advance-3"
+  },
+  {
+   "title": "Advance Wars: Days of Ruin",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "advance-wars-days-of-ruin"
   }
  ],
  "match": {
