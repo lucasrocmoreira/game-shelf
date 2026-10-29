@@ -282,16 +282,6 @@
   },
   {
    "format": "digital",
-   "igdb": "new-super-mario-bros",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:New Super Mario Bros.",
-   "title": "New Super Mario Bros."
-  },
-  {
-   "format": "digital",
    "igdb": "mario-luigi-bowser-s-inside-story",
    "last_played": null,
    "manual": true,
@@ -3089,6 +3079,106 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Metroid Prime Hunters",
    "title": "Metroid Prime Hunters"
+  },
+  {
+   "format": "digital",
+   "igdb": "might-and-magic-clash-of-heroes",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Might & Magic: Clash of Heroes",
+   "title": "Might & Magic: Clash of Heroes"
+  },
+  {
+   "format": "digital",
+   "igdb": "moon",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Moon",
+   "title": "Moon"
+  },
+  {
+   "format": "digital",
+   "igdb": "n-plus",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:N+",
+   "title": "N+"
+  },
+  {
+   "format": "digital",
+   "igdb": "nanostray",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Nanostray",
+   "title": "Nanostray"
+  },
+  {
+   "format": "digital",
+   "igdb": "nanostray-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Nanostray 2",
+   "title": "Nanostray 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "new-super-mario-bros",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:New Super Mario Bros.",
+   "title": "New Super Mario Bros."
+  },
+  {
+   "format": "digital",
+   "igdb": "nine-hours-nine-persons-nine-doors",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Nine Hours, Nine Persons, Nine Doors",
+   "title": "Nine Hours, Nine Persons, Nine Doors"
+  },
+  {
+   "format": "digital",
+   "igdb": "ninja-gaiden-dragon-sword",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ninja Gaiden: Dragon Sword",
+   "title": "Ninja Gaiden: Dragon Sword"
+  },
+  {
+   "format": "digital",
+   "igdb": "ninjatown",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ninjatown",
+   "title": "Ninjatown"
+  },
+  {
+   "format": "digital",
+   "igdb": "nostalgia",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Nostalgia",
+   "title": "Nostalgia"
   }
  ],
  "nintendo_eshop": [

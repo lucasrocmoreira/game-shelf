@@ -6872,6 +6872,14 @@
   "opencritic_pct": 48,
   "opencritic_tier": "Fair"
  },
+ "igdb:1889": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:02+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "might-and-magic-clash-of-heroes"
+ },
  "igdb:189": {
   "backloggd": 3.6,
   "bl_v": 2,
@@ -8332,6 +8340,14 @@
   "opencritic_pct": 50,
   "opencritic_tier": "Fair"
  },
+ "igdb:20992": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:16+00:00",
+  "mc_v": 2,
+  "metacritic": 75,
+  "metacritic_slug": "nanostray-2"
+ },
  "igdb:21": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -8600,6 +8616,14 @@
   "opencritic_pct": 27,
   "opencritic_tier": "Fair"
  },
+ "igdb:21436": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:11+00:00",
+  "mc_v": 2,
+  "metacritic": 71,
+  "metacritic_slug": "nanostray"
+ },
  "igdb:214402": {
   "backloggd": 3.2,
   "bl_v": 2,
@@ -8620,6 +8644,14 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
+ },
+ "igdb:21466": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:21+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "ninja-gaiden-dragon-sword"
  },
  "igdb:215060": {
   "backloggd": 3.1,
@@ -8918,6 +8950,22 @@
   ],
   "steam_pct": 82,
   "steam_reviews": 56294
+ },
+ "igdb:21898": {
+  "backloggd": 2.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:04+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
+ "igdb:21904": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:27+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:21911": {
   "backloggd": 3.6,
@@ -11105,6 +11153,14 @@
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "nobunagas-ambition-taishi"
+ },
+ "igdb:2825": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:23+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "ninjatown"
  },
  "igdb:282650": {
   "backloggd": 2.8,
@@ -16597,6 +16653,14 @@
   "opencritic_pct": 46,
   "opencritic_tier": "Fair"
  },
+ "igdb:8749": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:09+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "n"
+ },
  "igdb:8751": {
   "backloggd": 2.3,
   "bl_v": 2,
@@ -17033,6 +17097,15 @@
   "opencritic_id": 2527,
   "opencritic_pct": null,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:9543": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:18:19+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "nine-hours-nine-persons-nine-doors",
+  "oc_checked": "2026-10-29T22:18:57+00:00"
  },
  "igdb:9545": {
   "backloggd": 3.4,
