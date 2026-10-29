@@ -3376,7 +3376,7 @@
   "opencritic_id": 18750
  },
  "peggle-dual-shot": {
-  "checked": "2026-10-29T22:20:16+00:00"
+  "checked": "2026-10-29T22:22:33+00:00"
  },
  "persona-3-portable": {
   "checked": "2026-10-08T03:15:47+00:00",
@@ -3410,17 +3410,17 @@
   "opencritic_id": 18046
  },
  "phoenix-wright-ace-attorney": {
-  "checked": "2026-10-29T22:20:16+00:00"
+  "checked": "2026-10-29T22:22:33+00:00"
  },
  "phoenix-wright-ace-attorney-justice-for-all": {
-  "checked": "2026-10-29T22:20:16+00:00"
+  "checked": "2026-10-29T22:22:33+00:00"
  },
  "phoenix-wright-ace-attorney-spirit-of-justice": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 3196
  },
  "phoenix-wright-ace-attorney-trials-and-tribulations": {
-  "checked": "2026-10-29T22:20:16+00:00"
+  "checked": "2026-10-29T22:22:33+00:00"
  },
  "phoenix-wright-ace-attorney-trilogy": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -3431,7 +3431,7 @@
   "opencritic_id": 10612
  },
  "picross-3d": {
-  "checked": "2026-10-29T22:20:16+00:00"
+  "checked": "2026-10-29T22:22:33+00:00"
  },
  "picross-ds": {
   "checked": "2026-10-07T21:28:53+00:00"
@@ -3466,7 +3466,7 @@
   "opencritic_id": 1791
  },
  "planet-puzzle-league": {
-  "checked": "2026-10-29T22:20:16+00:00"
+  "checked": "2026-10-29T22:22:33+00:00"
  },
  "planet-zoo": {
   "checked": "2026-10-07T01:08:00+00:00",
@@ -3495,6 +3495,15 @@
   "checked": "2026-10-08T02:58:42+00:00",
   "opencritic_id": 2689
  },
+ "pokemon-black-version": {
+  "checked": "2026-10-29T22:22:33+00:00"
+ },
+ "pokemon-conquest": {
+  "checked": "2026-10-29T22:22:33+00:00"
+ },
+ "pokemon-diamond-version": {
+  "checked": "2026-10-29T22:22:33+00:00"
+ },
  "pokemon-mystery-dungeon-red-rescue-team": {
   "checked": "2026-10-09T04:00:13+00:00"
  },
@@ -3510,6 +3519,9 @@
  },
  "pokemon-trading-card-game": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "pokemon-white-version-2": {
+  "checked": "2026-10-29T22:22:33+00:00"
  },
  "pokemon-yellow-version-special-pikachu-edition": {
   "checked": "2026-10-07T01:52:06+00:00"

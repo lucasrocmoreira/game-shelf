@@ -252,16 +252,6 @@
   },
   {
    "format": "digital",
-   "igdb": "pokemon-platinum-version",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Pokémon Platinum",
-   "title": "Pokémon Platinum"
-  },
-  {
-   "format": "digital",
    "igdb": "mario-luigi-bowser-s-inside-story",
    "last_played": null,
    "manual": true,
@@ -3239,6 +3229,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Planet Puzzle League",
    "title": "Planet Puzzle League"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-black-version",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Black and White",
+   "title": "Pokémon Black and White"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-white-version-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Black 2 and White 2",
+   "title": "Pokémon Black 2 and White 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-diamond-version",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Diamond and Pearl",
+   "title": "Pokémon Diamond and Pearl"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-platinum-version",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Platinum",
+   "title": "Pokémon Platinum"
+  },
+  {
+   "format": "digital",
+   "igdb": "pokemon-conquest",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Pokémon Conquest",
+   "title": "Pokémon Conquest"
   }
  ],
  "nintendo_eshop": [

@@ -1769,7 +1769,7 @@
  },
  "DS:manual:Peggle: Dual Shot": {
   "candidates": null,
-  "checked": "2026-10-29T22:20:07+00:00",
+  "checked": "2026-10-29T22:22:24+00:00",
   "conf": "manual",
   "id": 21257,
   "mp": null,
@@ -1781,7 +1781,7 @@
  },
  "DS:manual:Phoenix Wright: Ace Attorney": {
   "candidates": null,
-  "checked": "2026-10-29T22:20:08+00:00",
+  "checked": "2026-10-29T22:22:24+00:00",
   "conf": "manual",
   "id": 1426,
   "mp": null,
@@ -1793,7 +1793,7 @@
  },
  "DS:manual:Phoenix Wright: Ace Attorney – Justice for All": {
   "candidates": null,
-  "checked": "2026-10-29T22:20:08+00:00",
+  "checked": "2026-10-29T22:22:24+00:00",
   "conf": "manual",
   "id": 1428,
   "mp": null,
@@ -1805,7 +1805,7 @@
  },
  "DS:manual:Phoenix Wright: Ace Attorney – Trials and Tribulations": {
   "candidates": null,
-  "checked": "2026-10-29T22:20:08+00:00",
+  "checked": "2026-10-29T22:22:25+00:00",
   "conf": "manual",
   "id": 1427,
   "mp": null,
@@ -1817,7 +1817,7 @@
  },
  "DS:manual:Picross 3D": {
   "candidates": null,
-  "checked": "2026-10-29T22:20:08+00:00",
+  "checked": "2026-10-29T22:22:25+00:00",
   "conf": "manual",
   "id": 10631,
   "mp": null,
@@ -1840,13 +1840,61 @@
  },
  "DS:manual:Planet Puzzle League": {
   "candidates": null,
-  "checked": "2026-10-29T22:20:09+00:00",
+  "checked": "2026-10-29T22:22:25+00:00",
   "conf": "manual",
   "id": 23093,
   "mp": null,
   "score": null,
   "slug": "planet-puzzle-league",
   "title": "Planet Puzzle League",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Pokémon Black 2 and White 2": {
+  "candidates": null,
+  "checked": "2026-10-29T22:22:26+00:00",
+  "conf": "manual",
+  "id": 8353,
+  "mp": null,
+  "score": null,
+  "slug": "pokemon-white-version-2",
+  "title": "Pokémon Black 2 and White 2",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Pokémon Black and White": {
+  "candidates": null,
+  "checked": "2026-10-29T22:22:25+00:00",
+  "conf": "manual",
+  "id": 1521,
+  "mp": null,
+  "score": null,
+  "slug": "pokemon-black-version",
+  "title": "Pokémon Black and White",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Pokémon Conquest": {
+  "candidates": null,
+  "checked": "2026-10-29T22:22:26+00:00",
+  "conf": "manual",
+  "id": 2288,
+  "mp": null,
+  "score": null,
+  "slug": "pokemon-conquest",
+  "title": "Pokémon Conquest",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Pokémon Diamond and Pearl": {
+  "candidates": null,
+  "checked": "2026-10-29T22:22:26+00:00",
+  "conf": "manual",
+  "id": 1560,
+  "mp": null,
+  "score": null,
+  "slug": "pokemon-diamond-version",
+  "title": "Pokémon Diamond and Pearl",
   "v": 4,
   "via": "fix"
  },

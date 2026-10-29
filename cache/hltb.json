@@ -430,7 +430,7 @@
   "main": 1.0
  },
  "igdb:10631": {
-  "checked": "2026-10-29T22:21:16+00:00",
+  "checked": "2026-10-29T22:23:42+00:00",
   "complete": 65.5,
   "extra": 56.0,
   "hltb_id": 7033,
@@ -2978,7 +2978,7 @@
   "main": 4.0
  },
  "igdb:1426": {
-  "checked": "2026-10-29T22:21:10+00:00",
+  "checked": "2026-10-29T22:23:37+00:00",
   "complete": 23.5,
   "extra": 22.5,
   "hltb_id": 7026,
@@ -2986,7 +2986,7 @@
   "main": 18.0
  },
  "igdb:1427": {
-  "checked": "2026-10-29T22:21:14+00:00",
+  "checked": "2026-10-29T22:23:41+00:00",
   "complete": 21.0,
   "extra": 21.0,
   "hltb_id": 7028,
@@ -2994,7 +2994,7 @@
   "main": 19.0
  },
  "igdb:1428": {
-  "checked": "2026-10-29T22:21:12+00:00",
+  "checked": "2026-10-29T22:23:39+00:00",
   "complete": 26.0,
   "extra": 25.0,
   "hltb_id": 7029,
@@ -3563,6 +3563,9 @@
   "hltb_name": "Echoes of the End",
   "main": 13.0
  },
+ "igdb:1521": {
+  "checked": "2026-10-29T22:23:46+00:00"
+ },
  "igdb:152123": {
   "checked": "2026-10-16T14:59:06+00:00",
   "complete": 72.5,
@@ -3778,6 +3781,9 @@
   "hltb_id": 6627,
   "hltb_name": "Ninja Gaiden II: The Dark Sword of Chaos",
   "main": 2.5
+ },
+ "igdb:1560": {
+  "checked": "2026-10-29T22:23:49+00:00"
  },
  "igdb:156151": {
   "checked": "2026-10-16T14:56:32+00:00",
@@ -5748,7 +5754,7 @@
   "main": 4.0
  },
  "igdb:21257": {
-  "checked": "2026-10-29T22:21:08+00:00",
+  "checked": "2026-10-29T22:23:36+00:00",
   "complete": 50.5,
   "extra": 11.5,
   "hltb_id": 6950,
@@ -6257,6 +6263,14 @@
   "hltb_name": "Crime Boss: Rockay City",
   "main": 11.5
  },
+ "igdb:2288": {
+  "checked": "2026-10-29T22:23:51+00:00",
+  "complete": 132.0,
+  "extra": 43.5,
+  "hltb_id": 7145,
+  "hltb_name": "Pokémon Conquest",
+  "main": 13.5
+ },
  "igdb:22885": {
   "checked": "2026-10-28T05:22:31+00:00",
   "complete": 10.5,
@@ -6320,7 +6334,7 @@
   "main": 6.5
  },
  "igdb:23093": {
-  "checked": "2026-10-29T22:21:19+00:00",
+  "checked": "2026-10-29T22:23:44+00:00",
   "complete": null,
   "extra": 6.0,
   "hltb_id": 7097,
@@ -11148,6 +11162,9 @@
   "hltb_id": 17993,
   "hltb_name": "Tabletop Simulator",
   "main": 9.5
+ },
+ "igdb:8353": {
+  "checked": "2026-10-29T22:23:48+00:00"
  },
  "igdb:83727": {
   "checked": "2026-10-16T14:55:31+00:00",
