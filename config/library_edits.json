@@ -364,13 +364,6 @@
    "igdb": "castlevania-dawn-of-sorrow"
   },
   {
-   "title": "Advance Wars: Dual Strike",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "advance-wars-dual-strike"
-  },
-  {
    "title": "Legend of Zelda: Ocarina of Time",
    "platform": "3DS",
    "format": "digital",
@@ -1819,6 +1812,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "advance-wars-days-of-ruin"
+  },
+  {
+   "title": "Advance Wars: Dual Strike",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "advance-wars-dual-strike"
   }
  ],
  "match": {
