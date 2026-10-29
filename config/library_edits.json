@@ -2407,6 +2407,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "sonic-rush"
+  },
+  {
+   "title": "Sonic Rush Adventure",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "sonic-rush-adventure"
   }
  ],
  "match": {
