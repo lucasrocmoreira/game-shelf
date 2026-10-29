@@ -1996,6 +1996,13 @@
    "platform": "DS",
    "format": "digital",
    "added": "2026-10-29"
+  },
+  {
+   "title": "Elite Beat Agents",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "elite-beat-agents"
   }
  ],
  "match": {
