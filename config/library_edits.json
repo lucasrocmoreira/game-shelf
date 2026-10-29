@@ -290,13 +290,6 @@
    "igdb": "kirby-super-star-ultra"
   },
   {
-   "title": "Kingdom Hearts 358/2 Days",
-   "platform": "DS",
-   "format": "physical",
-   "added": "2026-10-07",
-   "igdb": "kingdom-hearts-358-2-days"
-  },
-  {
    "title": "Ghost Trick: Phantom Detective",
    "platform": "DS",
    "format": "digital",
@@ -2079,6 +2072,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "hotel-dusk-room-215"
+  },
+  {
+   "title": "Kingdom Hearts 358/2 Days",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "kingdom-hearts-358-2-days"
   }
  ],
  "match": {
