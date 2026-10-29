@@ -227,13 +227,6 @@
    "igdb": "picross-ds"
   },
   {
-   "title": "Ōkamiden",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "okamiden"
-  },
-  {
    "title": "Mario & Luigi: Bowser's Inside Story",
    "platform": "DS",
    "format": "digital",
@@ -2218,6 +2211,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "nostalgia"
+  },
+  {
+   "title": "Ōkamiden",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "okamiden"
   }
  ],
  "match": {
