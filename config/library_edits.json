@@ -2456,6 +2456,13 @@
    "format": "physical",
    "added": "2026-10-29",
    "igdb": "tetris-ds"
+  },
+  {
+   "title": "Tony Hawk's American Sk8land",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "tony-hawk-s-american-sk8land"
   }
  ],
  "match": {
