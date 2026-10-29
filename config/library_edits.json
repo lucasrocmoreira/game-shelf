@@ -2031,6 +2031,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "final-fantasy-iii"
+  },
+  {
+   "title": "Final Fantasy IV",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "final-fantasy-iv"
   }
  ],
  "match": {
