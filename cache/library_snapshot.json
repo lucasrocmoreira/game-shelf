@@ -432,16 +432,6 @@
   },
   {
    "format": "digital",
-   "igdb": "dementium-the-ward",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Dementium: The Ward",
-   "title": "Dementium: The Ward"
-  },
-  {
-   "format": "digital",
    "igdb": "crash-of-the-titans",
    "last_played": null,
    "manual": true,
@@ -2719,6 +2709,86 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Contra 4",
    "title": "Contra 4"
+  },
+  {
+   "format": "digital",
+   "igdb": "cooking-mama",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Cooking Mama",
+   "title": "Cooking Mama"
+  },
+  {
+   "format": "digital",
+   "igdb": "cooking-mama-2-dinner-with-friends",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Cooking Mama 2: Dinner with Friends",
+   "title": "Cooking Mama 2: Dinner with Friends"
+  },
+  {
+   "format": "digital",
+   "igdb": "cooking-mama-3-shop-chop",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Cooking Mama 3: Shop & Chop",
+   "title": "Cooking Mama 3: Shop & Chop"
+  },
+  {
+   "format": "digital",
+   "igdb": "crash-mind-over-mutant",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Crash: Mind over Mutant",
+   "title": "Crash: Mind over Mutant"
+  },
+  {
+   "format": "digital",
+   "igdb": "dementium-the-ward",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dementium: The Ward",
+   "title": "Dementium: The Ward"
+  },
+  {
+   "format": "digital",
+   "igdb": "dig-dug-digging-strike",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Dig Dug: Digging Strike",
+   "title": "Dig Dug: Digging Strike"
+  },
+  {
+   "format": "digital",
+   "igdb": "digimon-world-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Digimon World DS",
+   "title": "Digimon World DS"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Disgaea DS",
+   "title": "Disgaea DS"
   }
  ],
  "nintendo_eshop": [

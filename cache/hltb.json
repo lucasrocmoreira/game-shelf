@@ -1061,7 +1061,7 @@
   "main": 9.5
  },
  "igdb:1138": {
-  "checked": "2026-10-29T21:43:03+00:00",
+  "checked": "2026-10-29T21:45:23+00:00",
   "complete": 23.0,
   "extra": 12.0,
   "hltb_id": 1591,
@@ -1093,7 +1093,7 @@
   "main": 3.0
  },
  "igdb:1141": {
-  "checked": "2026-10-29T21:43:01+00:00",
+  "checked": "2026-10-29T21:45:21+00:00",
   "complete": 21.0,
   "extra": 13.0,
   "hltb_id": 1589,
@@ -1500,6 +1500,14 @@
   "hltb_id": 113838,
   "hltb_name": "OddBallers",
   "main": 8.0
+ },
+ "igdb:1191": {
+  "checked": "2026-10-29T21:45:38+00:00",
+  "complete": 12.0,
+  "extra": 9.5,
+  "hltb_id": 1987,
+  "hltb_name": "Crash: Mind over Mutant",
+  "main": 6.0
  },
  "igdb:119133": {
   "checked": "2026-10-17T13:50:34+00:00",
@@ -5310,7 +5318,7 @@
   "main": 12.0
  },
  "igdb:20581": {
-  "checked": "2026-10-29T21:43:08+00:00",
+  "checked": "2026-10-29T21:45:27+00:00",
   "complete": 29.5,
   "extra": 18.5,
   "hltb_id": 1906,
@@ -5348,6 +5356,14 @@
   "hltb_id": 383,
   "hltb_name": "Aliens: Infestation",
   "main": 6.0
+ },
+ "igdb:20609": {
+  "checked": "2026-10-29T21:45:42+00:00",
+  "complete": 36.0,
+  "extra": 29.0,
+  "hltb_id": 2546,
+  "hltb_name": "Digimon World DS",
+  "main": 23.5
  },
  "igdb:20612": {
   "checked": "2026-10-29T21:39:04+00:00",
@@ -5512,6 +5528,14 @@
   "hltb_name": "Hot Shots Golf: Open Tee 2",
   "main": 7.0
  },
+ "igdb:21056": {
+  "checked": "2026-10-29T21:45:45+00:00",
+  "complete": 113.0,
+  "extra": 66.0,
+  "hltb_id": 2598,
+  "hltb_name": "Disgaea DS",
+  "main": 41.5
+ },
  "igdb:21063": {
   "checked": "2026-10-16T04:58:55+00:00",
   "complete": 27.0,
@@ -5601,7 +5625,7 @@
   "main": 6.0
  },
  "igdb:21307": {
-  "checked": "2026-10-29T21:43:05+00:00",
+  "checked": "2026-10-29T21:45:25+00:00",
   "complete": 22.0,
   "extra": 17.0,
   "hltb_id": 1669,
@@ -7642,6 +7666,14 @@
   "hltb_name": "2Xtreme",
   "main": 1.5
  },
+ "igdb:3060": {
+  "checked": "2026-10-29T21:45:32+00:00",
+  "complete": 12.5,
+  "extra": 12.0,
+  "hltb_id": 1926,
+  "hltb_name": "Cooking Mama",
+  "main": 7.0
+ },
  "igdb:306134": {
   "checked": "2026-10-28T05:23:31+00:00",
   "complete": 33.0,
@@ -7665,6 +7697,22 @@
   "hltb_id": 152389,
   "hltb_name": "Super Mario Party Jamboree",
   "main": 7.5
+ },
+ "igdb:3062": {
+  "checked": "2026-10-29T21:45:34+00:00",
+  "complete": 31.5,
+  "extra": 12.0,
+  "hltb_id": 1927,
+  "hltb_name": "Cooking Mama 2: Dinner with Friends",
+  "main": 5.0
+ },
+ "igdb:3065": {
+  "checked": "2026-10-29T21:45:36+00:00",
+  "complete": 26.5,
+  "extra": 10.5,
+  "hltb_id": 25688,
+  "hltb_name": "Cooking Mama 3: Shop & Chop",
+  "main": 10.0
  },
  "igdb:306822": {
   "checked": "2026-10-28T04:11:46+00:00",
@@ -9295,6 +9343,14 @@
   "hltb_id": 17012,
   "hltb_name": "Child of Light",
   "main": 11.0
+ },
+ "igdb:47729": {
+  "checked": "2026-10-29T21:45:40+00:00",
+  "complete": null,
+  "extra": 1.5,
+  "hltb_id": 2532,
+  "hltb_name": "Dig Dug: Digging Strike",
+  "main": 1.5
  },
  "igdb:4786": {
   "checked": "2026-10-16T04:56:14+00:00",
@@ -11349,7 +11405,7 @@
   "main": 8.0
  },
  "igdb:9545": {
-  "checked": "2026-10-29T21:43:09+00:00",
+  "checked": "2026-10-29T21:45:29+00:00",
   "complete": 16.5,
   "extra": 5.0,
   "hltb_id": 1912,

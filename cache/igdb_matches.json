@@ -1042,7 +1042,7 @@
  },
  "DS:manual:Castlevania: Order of Ecclesia": {
   "candidates": null,
-  "checked": "2026-10-29T21:41:27+00:00",
+  "checked": "2026-10-29T21:44:00+00:00",
   "conf": "manual",
   "id": 1141,
   "mp": null,
@@ -1054,7 +1054,7 @@
  },
  "DS:manual:Castlevania: Portrait of Ruin": {
   "candidates": null,
-  "checked": "2026-10-29T21:41:28+00:00",
+  "checked": "2026-10-29T21:44:00+00:00",
   "conf": "manual",
   "id": 1138,
   "mp": null,
@@ -1066,7 +1066,7 @@
  },
  "DS:manual:Chibi-Robo!: Park Patrol": {
   "candidates": null,
-  "checked": "2026-10-29T21:41:28+00:00",
+  "checked": "2026-10-29T21:44:01+00:00",
   "conf": "manual",
   "id": 21307,
   "mp": null,
@@ -1089,7 +1089,7 @@
  },
  "DS:manual:Contact": {
   "candidates": null,
-  "checked": "2026-10-29T21:41:28+00:00",
+  "checked": "2026-10-29T21:44:01+00:00",
   "conf": "manual",
   "id": 20581,
   "mp": null,
@@ -1101,13 +1101,49 @@
  },
  "DS:manual:Contra 4": {
   "candidates": null,
-  "checked": "2026-10-29T21:41:29+00:00",
+  "checked": "2026-10-29T21:44:01+00:00",
   "conf": "manual",
   "id": 9545,
   "mp": null,
   "score": null,
   "slug": "contra-4",
   "title": "Contra 4",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Cooking Mama": {
+  "candidates": null,
+  "checked": "2026-10-29T21:44:02+00:00",
+  "conf": "manual",
+  "id": 3060,
+  "mp": null,
+  "score": null,
+  "slug": "cooking-mama",
+  "title": "Cooking Mama",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Cooking Mama 2: Dinner with Friends": {
+  "candidates": null,
+  "checked": "2026-10-29T21:44:02+00:00",
+  "conf": "manual",
+  "id": 3062,
+  "mp": null,
+  "score": null,
+  "slug": "cooking-mama-2-dinner-with-friends",
+  "title": "Cooking Mama 2: Dinner with Friends",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Cooking Mama 3: Shop & Chop": {
+  "candidates": null,
+  "checked": "2026-10-29T21:44:02+00:00",
+  "conf": "manual",
+  "id": 3065,
+  "mp": null,
+  "score": null,
+  "slug": "cooking-mama-3-shop-chop",
+  "title": "Cooking Mama 3: Shop & Chop",
   "v": 4,
   "via": "fix"
  },
@@ -1122,6 +1158,18 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Crash: Mind over Mutant": {
+  "candidates": null,
+  "checked": "2026-10-29T21:44:02+00:00",
+  "conf": "manual",
+  "id": 1191,
+  "mp": null,
+  "score": null,
+  "slug": "crash-mind-over-mutant",
+  "title": "Crash: Mind over Mutant",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Dementium: The Ward": {
   "candidates": null,
   "checked": "2026-10-07T21:36:09+00:00",
@@ -1132,6 +1180,42 @@
   "title": "Dementium: The Ward",
   "v": 4,
   "via": "fix"
+ },
+ "DS:manual:Dig Dug: Digging Strike": {
+  "candidates": null,
+  "checked": "2026-10-29T21:44:03+00:00",
+  "conf": "manual",
+  "id": 47729,
+  "mp": null,
+  "score": null,
+  "slug": "dig-dug-digging-strike",
+  "title": "Dig Dug: Digging Strike",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Digimon World DS": {
+  "candidates": null,
+  "checked": "2026-10-29T21:44:03+00:00",
+  "conf": "manual",
+  "id": 20609,
+  "mp": null,
+  "score": null,
+  "slug": "digimon-world-ds",
+  "title": "Digimon World DS",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Disgaea DS": {
+  "candidates": 1,
+  "checked": "2026-10-29T21:44:04+00:00",
+  "conf": "high",
+  "id": 21056,
+  "mp": null,
+  "score": 1.13,
+  "slug": null,
+  "title": "Disgaea DS",
+  "v": 4,
+  "via": "search"
  },
  "DS:manual:Dragon Quest IV: Chapters of the Chosen": {
   "candidates": 2,

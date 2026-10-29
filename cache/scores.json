@@ -1549,11 +1549,11 @@
  "igdb:1138": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-29T21:41:43+00:00",
+  "checked": "2026-10-29T21:44:19+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "castlevania-portrait-of-ruin",
-  "oc_checked": "2026-10-29T21:42:54+00:00"
+  "oc_checked": "2026-10-29T21:45:20+00:00"
  },
  "igdb:11397": {
   "backloggd": 4.4,
@@ -1593,7 +1593,7 @@
  "igdb:1141": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-29T21:41:40+00:00",
+  "checked": "2026-10-29T21:44:15+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "castlevania-order-of-ecclesia"
@@ -2191,6 +2191,14 @@
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "oddballers"
+ },
+ "igdb:1191": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:44:40+00:00",
+  "mc_v": 2,
+  "metacritic": 60,
+  "metacritic_slug": "crash-mind-over-mutant"
  },
  "igdb:119133": {
   "backloggd": 4.5,
@@ -8002,7 +8010,7 @@
  "igdb:20581": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-29T21:42:21+00:00",
+  "checked": "2026-10-29T21:44:24+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
@@ -8040,6 +8048,14 @@
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "aliens-infestation"
+ },
+ "igdb:20609": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:44:47+00:00",
+  "mc_v": 2,
+  "metacritic": 71,
+  "metacritic_slug": "digimon-world-ds"
  },
  "igdb:20612": {
   "backloggd": 3.4,
@@ -8265,6 +8281,14 @@
   "metacritic": 82,
   "metacritic_slug": "hot-shots-golf-open-tee-2"
  },
+ "igdb:21056": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:44:49+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:21063": {
   "backloggd": 1.9,
   "bl_v": 2,
@@ -8401,7 +8425,7 @@
  "igdb:21307": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-29T21:42:16+00:00",
+  "checked": "2026-10-29T21:44:21+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "chibi-robo-park-patrol"
@@ -11554,6 +11578,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:3060": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:44:30+00:00",
+  "mc_v": 2,
+  "metacritic": 67,
+  "metacritic_slug": "cooking-mama"
+ },
  "igdb:306055": {},
  "igdb:306134": {
   "backloggd": 4.1,
@@ -11588,6 +11620,22 @@
   "opencritic_id": 16873,
   "opencritic_pct": 87,
   "opencritic_tier": "Strong"
+ },
+ "igdb:3062": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:44:33+00:00",
+  "mc_v": 2,
+  "metacritic": 70,
+  "metacritic_slug": "cooking-mama-2-dinner-with-friends"
+ },
+ "igdb:3065": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:44:37+00:00",
+  "mc_v": 2,
+  "metacritic": 65,
+  "metacritic_slug": "cooking-mama-3-shop-chop"
  },
  "igdb:306822": {
   "backloggd": 3.3,
@@ -13769,6 +13817,14 @@
   "opencritic_id": 264,
   "opencritic_pct": 80,
   "opencritic_tier": "Strong"
+ },
+ "igdb:47729": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:44:43+00:00",
+  "mc_v": 2,
+  "metacritic": 65,
+  "metacritic_slug": "dig-dug-digging-strike"
  },
  "igdb:4786": {
   "backloggd": 3.6,
@@ -16773,7 +16829,7 @@
  "igdb:9545": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-29T21:42:23+00:00",
+  "checked": "2026-10-29T21:44:27+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "contra-4"
