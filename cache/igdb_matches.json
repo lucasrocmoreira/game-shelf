@@ -1298,6 +1298,30 @@
   "v": 4,
   "via": "search"
  },
+ "DS:manual:Elite Beat Agents": {
+  "candidates": null,
+  "checked": "2026-10-29T21:49:33+00:00",
+  "conf": "manual",
+  "id": 9109,
+  "mp": null,
+  "score": null,
+  "slug": "elite-beat-agents",
+  "title": "Elite Beat Agents",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Etrian Odyssey": {
+  "candidates": null,
+  "checked": "2026-10-29T21:49:33+00:00",
+  "conf": "manual",
+  "id": 14716,
+  "mp": null,
+  "score": null,
+  "slug": "etrian-odyssey",
+  "title": "Etrian Odyssey",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Fire Emblem: Shadow Dragon": {
   "candidates": null,
   "checked": "2026-10-07T21:36:08+00:00",
@@ -1594,6 +1618,18 @@
   "score": 1.135,
   "slug": null,
   "title": "dragon quest v hand of the heavenly bride",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:dragon quest vi realms of revelation": {
+  "candidates": 1,
+  "checked": "2026-10-29T21:49:34+00:00",
+  "conf": "high",
+  "id": 1817,
+  "mp": null,
+  "score": 1.135,
+  "slug": null,
+  "title": "dragon quest vi realms of revelation",
   "v": 4,
   "via": "search"
  },

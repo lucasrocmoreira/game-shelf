@@ -3263,6 +3263,14 @@
   "hltb_name": "Etrian Odyssey 2 Untold: The Fafnir Knight",
   "main": 42.0
  },
+ "igdb:14716": {
+  "checked": "2026-10-29T21:50:21+00:00",
+  "complete": 72.5,
+  "extra": 50.5,
+  "hltb_id": 3192,
+  "hltb_name": "Etrian Odyssey",
+  "main": 42.0
+ },
  "igdb:14741": {
   "checked": "2026-10-16T15:05:03+00:00",
   "complete": 26.5,
@@ -11264,6 +11272,14 @@
  },
  "igdb:90988": {
   "checked": "2026-10-28T11:24:55+00:00"
+ },
+ "igdb:9109": {
+  "checked": "2026-10-29T21:50:19+00:00",
+  "complete": 29.0,
+  "extra": 7.0,
+  "hltb_id": 3087,
+  "hltb_name": "Elite Beat Agents",
+  "main": 4.0
  },
  "igdb:9120": {
   "checked": "2026-10-28T05:23:48+00:00",

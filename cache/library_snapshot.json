@@ -2849,6 +2849,36 @@
    "playtime_hours": 0.0,
    "source_id": "manual:dragon quest v hand of the heavenly bride",
    "title": "dragon quest v hand of the heavenly bride"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:dragon quest vi realms of revelation",
+   "title": "dragon quest vi realms of revelation"
+  },
+  {
+   "format": "digital",
+   "igdb": "elite-beat-agents",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Elite Beat Agents",
+   "title": "Elite Beat Agents"
+  },
+  {
+   "format": "digital",
+   "igdb": "etrian-odyssey",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Etrian Odyssey",
+   "title": "Etrian Odyssey"
   }
  ],
  "nintendo_eshop": [

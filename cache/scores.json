@@ -2199,7 +2199,8 @@
   "checked": "2026-10-29T21:44:40+00:00",
   "mc_v": 2,
   "metacritic": 60,
-  "metacritic_slug": "crash-mind-over-mutant"
+  "metacritic_slug": "crash-mind-over-mutant",
+  "oc_checked": "2026-10-29T21:50:18+00:00"
  },
  "igdb:119133": {
   "backloggd": 4.5,
@@ -4915,6 +4916,14 @@
   "opencritic_id": 2271,
   "opencritic_pct": 79,
   "opencritic_tier": "Strong"
+ },
+ "igdb:14716": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:49:48+00:00",
+  "mc_v": 2,
+  "metacritic": 75,
+  "metacritic_slug": "etrian-odyssey"
  },
  "igdb:14741": {
   "backloggd": 4.2,
@@ -16622,6 +16631,14 @@
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "batman-the-enemy-within-episode-1-the-enigma"
+ },
+ "igdb:9109": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:49:46+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "elite-beat-agents"
  },
  "igdb:9120": {
   "backloggd": 3.1,
