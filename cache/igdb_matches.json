@@ -1531,6 +1531,30 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Lufia: Curse of the Sinistrals": {
+  "candidates": null,
+  "checked": "2026-10-29T22:13:25+00:00",
+  "conf": "manual",
+  "id": 1181,
+  "mp": null,
+  "score": null,
+  "slug": "lufia-curse-of-the-sinistrals",
+  "title": "Lufia: Curse of the Sinistrals",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Lunar Knights": {
+  "candidates": null,
+  "checked": "2026-10-29T22:13:26+00:00",
+  "conf": "manual",
+  "id": 9887,
+  "mp": null,
+  "score": null,
+  "slug": "lunar-knights",
+  "title": "Lunar Knights",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Mario & Luigi: Bowser's Inside Story": {
   "candidates": null,
   "checked": "2026-10-07T21:32:39+00:00",
@@ -1704,6 +1728,18 @@
   "score": null,
   "slug": "the-legend-of-zelda-phantom-hourglass",
   "title": "The Legend of Zelda: Phantom Hourglass",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:The Legend of Zelda: Spirit Tracks": {
+  "candidates": null,
+  "checked": "2026-10-29T22:13:25+00:00",
+  "conf": "manual",
+  "id": 1038,
+  "mp": null,
+  "score": null,
+  "slug": "the-legend-of-zelda-spirit-tracks",
+  "title": "The Legend of Zelda: Spirit Tracks",
   "v": 4,
   "via": "fix"
  },

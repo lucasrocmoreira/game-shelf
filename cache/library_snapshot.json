@@ -302,16 +302,6 @@
   },
   {
    "format": "digital",
-   "igdb": "mario-luigi-partners-in-time",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Mario & Luigi: Partners in Time",
-   "title": "Mario & Luigi: Partners in Time"
-  },
-  {
-   "format": "digital",
    "igdb": "mario-luigi-bowser-s-inside-story",
    "last_played": null,
    "manual": true,
@@ -319,16 +309,6 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Mario & Luigi: Bowser's Inside Story",
    "title": "Mario & Luigi: Bowser's Inside Story"
-  },
-  {
-   "format": "digital",
-   "igdb": "the-legend-of-zelda-phantom-hourglass",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:The Legend of Zelda: Phantom Hourglass",
-   "title": "The Legend of Zelda: Phantom Hourglass"
   },
   {
    "format": "digital",
@@ -2999,6 +2979,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Last Window: The Secret of Cape West",
    "title": "Last Window: The Secret of Cape West"
+  },
+  {
+   "format": "digital",
+   "igdb": "the-legend-of-zelda-phantom-hourglass",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: Phantom Hourglass",
+   "title": "The Legend of Zelda: Phantom Hourglass"
+  },
+  {
+   "format": "digital",
+   "igdb": "the-legend-of-zelda-spirit-tracks",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: Spirit Tracks",
+   "title": "The Legend of Zelda: Spirit Tracks"
+  },
+  {
+   "format": "digital",
+   "igdb": "lufia-curse-of-the-sinistrals",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Lufia: Curse of the Sinistrals",
+   "title": "Lufia: Curse of the Sinistrals"
+  },
+  {
+   "format": "digital",
+   "igdb": "lunar-knights",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Lunar Knights",
+   "title": "Lunar Knights"
+  },
+  {
+   "format": "digital",
+   "igdb": "mario-luigi-partners-in-time",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario & Luigi: Partners in Time",
+   "title": "Mario & Luigi: Partners in Time"
   }
  ],
  "nintendo_eshop": [

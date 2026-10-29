@@ -483,6 +483,15 @@
   "metacritic_slug": "the-legend-of-zelda-phantom-hourglass",
   "oc_checked": "2026-10-13T17:37:36+00:00"
  },
+ "igdb:1038": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:13:36+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "the-legend-of-zelda-spirit-tracks",
+  "oc_checked": "2026-10-29T22:14:12+00:00"
+ },
  "igdb:1039": {
   "backloggd": 4.4,
   "bl_v": 2,
@@ -2114,6 +2123,14 @@
   ],
   "steam_pct": 96,
   "steam_reviews": 206592
+ },
+ "igdb:1181": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:13:40+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "lufia-curse-of-the-sinistrals"
  },
  "igdb:11814": {
   "backloggd": 2.2,
@@ -17176,6 +17193,14 @@
   "metacritic": 87,
   "metacritic_slug": "rayman-origins",
   "oc_checked": "2026-10-12T19:50:14+00:00"
+ },
+ "igdb:9887": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:13:42+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "lunar-knights"
  },
  "igdb:9898": {
   "backloggd": 3.5,
