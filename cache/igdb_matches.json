@@ -2133,7 +2133,7 @@
  },
  "DS:manual:Shin Megami Tensei: Devil Survivor": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:01+00:00",
+  "checked": "2026-10-29T22:31:15+00:00",
   "conf": "manual",
   "id": 6884,
   "mp": null,
@@ -2145,7 +2145,7 @@
  },
  "DS:manual:Shin Megami Tensei: Devil Survivor 2": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:01+00:00",
+  "checked": "2026-10-29T22:31:15+00:00",
   "conf": "manual",
   "id": 6885,
   "mp": null,
@@ -2157,7 +2157,7 @@
  },
  "DS:manual:Shin Megami Tensei: Strange Journey": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:02+00:00",
+  "checked": "2026-10-29T22:31:16+00:00",
   "conf": "manual",
   "id": 15467,
   "mp": null,
@@ -2191,7 +2191,7 @@
  },
  "DS:manual:Sonic Rush": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:02+00:00",
+  "checked": "2026-10-29T22:31:16+00:00",
   "conf": "manual",
   "id": 19258,
   "mp": null,
@@ -2203,7 +2203,7 @@
  },
  "DS:manual:Sonic Rush Adventure": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:02+00:00",
+  "checked": "2026-10-29T22:31:16+00:00",
   "conf": "manual",
   "id": 19261,
   "mp": null,
@@ -2215,7 +2215,7 @@
  },
  "DS:manual:Soul Bubbles": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:02+00:00",
+  "checked": "2026-10-29T22:31:16+00:00",
   "conf": "manual",
   "id": 21370,
   "mp": null,
@@ -2227,7 +2227,7 @@
  },
  "DS:manual:Super Dodgeball Brawlers": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:03+00:00",
+  "checked": "2026-10-29T22:31:17+00:00",
   "conf": "manual",
   "id": 21052,
   "mp": null,
@@ -2250,7 +2250,7 @@
  },
  "DS:manual:Super Princess Peach": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:03+00:00",
+  "checked": "2026-10-29T22:31:17+00:00",
   "conf": "manual",
   "id": 20497,
   "mp": null,
@@ -2262,13 +2262,37 @@
  },
  "DS:manual:Super Scribblenauts": {
   "candidates": null,
-  "checked": "2026-10-29T22:29:03+00:00",
+  "checked": "2026-10-29T22:31:17+00:00",
   "conf": "manual",
   "id": 8808,
   "mp": null,
   "score": null,
   "slug": "super-scribblenauts",
   "title": "Super Scribblenauts",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Tales of Innocence": {
+  "candidates": null,
+  "checked": "2026-10-29T22:31:17+00:00",
+  "conf": "manual",
+  "id": 1208,
+  "mp": null,
+  "score": null,
+  "slug": "tales-of-innocence",
+  "title": "Tales of Innocence",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Tetris DS": {
+  "candidates": null,
+  "checked": "2026-10-29T22:31:18+00:00",
+  "conf": "manual",
+  "id": 18599,
+  "mp": null,
+  "score": null,
+  "slug": "tetris-ds",
+  "title": "Tetris DS",
   "v": 4,
   "via": "fix"
  },
@@ -2305,6 +2329,66 @@
   "title": "The World Ends with You",
   "v": 4,
   "via": "search"
+ },
+ "DS:manual:Tony Hawk's American Sk8land": {
+  "candidates": null,
+  "checked": "2026-10-29T22:31:18+00:00",
+  "conf": "manual",
+  "id": 6643,
+  "mp": null,
+  "score": null,
+  "slug": "tony-hawk-s-american-sk8land",
+  "title": "Tony Hawk's American Sk8land",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Trauma Center: Under the Knife 2": {
+  "candidates": null,
+  "checked": "2026-10-29T22:31:18+00:00",
+  "conf": "manual",
+  "id": 1526,
+  "mp": null,
+  "score": null,
+  "slug": "trauma-center-under-the-knife-2",
+  "title": "Trauma Center: Under the Knife 2",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Viva Piñata: Pocket Paradise": {
+  "candidates": null,
+  "checked": "2026-10-29T22:31:19+00:00",
+  "conf": "manual",
+  "id": 21357,
+  "mp": null,
+  "score": null,
+  "slug": "viva-pinata-pocket-paradise",
+  "title": "Viva Piñata: Pocket Paradise",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:WarioWare D.I.Y.": {
+  "candidates": null,
+  "checked": "2026-10-29T22:31:19+00:00",
+  "conf": "manual",
+  "id": 1708,
+  "mp": null,
+  "score": null,
+  "slug": "warioware-d-i-y",
+  "title": "WarioWare D.I.Y.",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:WarioWare: Touched!": {
+  "candidates": null,
+  "checked": "2026-10-29T22:31:19+00:00",
+  "conf": "manual",
+  "id": 1705,
+  "mp": null,
+  "score": null,
+  "slug": "warioware-touched",
+  "title": "WarioWare: Touched!",
+  "v": 4,
+  "via": "fix"
  },
  "DS:manual:Yoshi's Island DS": {
   "candidates": 2,

@@ -1781,6 +1781,14 @@
   "hltb_name": "Phoenix Wright: Ace Attorney - Spirit of Justice",
   "main": 35.0
  },
+ "igdb:1208": {
+  "checked": "2026-10-29T22:33:02+00:00",
+  "complete": 63.0,
+  "extra": 39.5,
+  "hltb_id": 9591,
+  "hltb_name": "Tales of Innocence",
+  "main": 27.5
+ },
  "igdb:121247": {
   "checked": "2026-10-28T04:09:23+00:00",
   "complete": 10.5,
@@ -3670,6 +3678,14 @@
   "hltb_name": "PAW Patrol The Movie: Adventure City Calls",
   "main": 2.5
  },
+ "igdb:1526": {
+  "checked": "2026-10-29T22:33:09+00:00",
+  "complete": 15.5,
+  "extra": 13.0,
+  "hltb_id": 10624,
+  "hltb_name": "Trauma Center: Under the Knife 2",
+  "main": 10.5
+ },
  "igdb:1528": {
   "checked": "2026-10-28T05:20:58+00:00",
   "complete": 12.0,
@@ -3751,7 +3767,7 @@
   "main": 21.5
  },
  "igdb:15467": {
-  "checked": "2026-10-29T22:30:11+00:00",
+  "checked": "2026-10-29T22:32:48+00:00",
   "complete": 114.5,
   "extra": 70.5,
   "hltb_id": 8444,
@@ -4105,6 +4121,22 @@
   "hltb_id": 20102,
   "hltb_name": "Darkwood",
   "main": 18.5
+ },
+ "igdb:1705": {
+  "checked": "2026-10-29T22:33:15+00:00",
+  "complete": 10.5,
+  "extra": 4.5,
+  "hltb_id": 11077,
+  "hltb_name": "WarioWare: Touched!",
+  "main": 2.0
+ },
+ "igdb:1708": {
+  "checked": "2026-10-29T22:33:13+00:00",
+  "complete": 34.5,
+  "extra": 11.0,
+  "hltb_id": 11071,
+  "hltb_name": "WarioWare D.I.Y.",
+  "main": 3.0
  },
  "igdb:1709": {
   "checked": "2026-10-28T05:59:12+00:00",
@@ -4570,6 +4602,14 @@
   "hltb_name": "Hotel Transylvania: Scary-Tale Adventures",
   "main": 5.0
  },
+ "igdb:18599": {
+  "checked": "2026-10-29T22:33:04+00:00",
+  "complete": 148.0,
+  "extra": 43.0,
+  "hltb_id": 9719,
+  "hltb_name": "Tetris DS",
+  "main": 10.5
+ },
  "igdb:186528": {
   "checked": "2026-10-28T04:10:09+00:00"
  },
@@ -4772,7 +4812,7 @@
   "main": 20.5
  },
  "igdb:19258": {
-  "checked": "2026-10-29T22:30:13+00:00",
+  "checked": "2026-10-29T22:32:49+00:00",
   "complete": 10.5,
   "extra": 8.0,
   "hltb_id": 8777,
@@ -4780,7 +4820,7 @@
   "main": 5.0
  },
  "igdb:19261": {
-  "checked": "2026-10-29T22:30:16+00:00",
+  "checked": "2026-10-29T22:32:51+00:00",
   "complete": 13.5,
   "extra": 10.0,
   "hltb_id": 8778,
@@ -5455,7 +5495,7 @@
   "main": 25.5
  },
  "igdb:20497": {
-  "checked": "2026-10-29T22:30:22+00:00",
+  "checked": "2026-10-29T22:32:58+00:00",
   "complete": 17.0,
   "extra": 10.5,
   "hltb_id": 9409,
@@ -5730,7 +5770,7 @@
   "main": 7.0
  },
  "igdb:21052": {
-  "checked": "2026-10-29T22:30:20+00:00",
+  "checked": "2026-10-29T22:32:56+00:00",
   "complete": 7.0,
   "extra": null,
   "hltb_id": 22010,
@@ -5881,8 +5921,16 @@
   "hltb_name": "Alone in the Dark",
   "main": 7.5
  },
+ "igdb:21357": {
+  "checked": "2026-10-29T22:33:11+00:00",
+  "complete": 34.5,
+  "extra": 24.0,
+  "hltb_id": 10978,
+  "hltb_name": "Viva Piñata: Pocket Paradise",
+  "main": 19.0
+ },
  "igdb:21370": {
-  "checked": "2026-10-29T22:30:18+00:00",
+  "checked": "2026-10-29T22:32:54+00:00",
   "complete": 9.5,
   "extra": 8.0,
   "hltb_id": 8813,
@@ -10494,6 +10542,14 @@
  "igdb:6621": {
   "checked": "2026-10-28T05:56:51+00:00"
  },
+ "igdb:6643": {
+  "checked": "2026-10-29T22:33:06+00:00",
+  "complete": 27.0,
+  "extra": 14.0,
+  "hltb_id": 11681,
+  "hltb_name": "Tony Hawk's American Sk8land",
+  "main": 6.5
+ },
  "igdb:6705": {
   "checked": "2026-10-28T04:08:16+00:00",
   "complete": 19.0,
@@ -10575,7 +10631,7 @@
   "main": 17.0
  },
  "igdb:6884": {
-  "checked": "2026-10-29T22:30:06+00:00",
+  "checked": "2026-10-29T22:32:44+00:00",
   "complete": 60.0,
   "extra": 41.0,
   "hltb_id": 8432,
@@ -10583,7 +10639,7 @@
   "main": 32.0
  },
  "igdb:6885": {
-  "checked": "2026-10-29T22:30:08+00:00",
+  "checked": "2026-10-29T22:32:46+00:00",
   "complete": 88.5,
   "extra": 40.0,
   "hltb_id": 8433,
@@ -11600,7 +11656,7 @@
   "main": 8.0
  },
  "igdb:8808": {
-  "checked": "2026-10-29T22:30:25+00:00",
+  "checked": "2026-10-29T22:33:00+00:00",
   "complete": 22.5,
   "extra": 11.5,
   "hltb_id": 9438,

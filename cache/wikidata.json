@@ -4034,10 +4034,10 @@
   "checked": "2026-10-07T01:52:04+00:00"
  },
  "shin-megami-tensei-devil-survivor": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "shin-megami-tensei-devil-survivor-2": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "shin-megami-tensei-iv": {
   "checked": "2026-10-08T02:58:42+00:00"
@@ -4049,7 +4049,7 @@
   "checked": "2026-10-08T03:24:34+00:00"
  },
  "shin-megami-tensei-strange-journey": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "shovel-knight": {
   "checked": "2026-10-08T02:52:26+00:00",
@@ -4184,17 +4184,17 @@
   "opencritic_id": 4793
  },
  "sonic-rush": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "sonic-rush-adventure": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "sonic-x-shadow-generations": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 17505
  },
  "soul-bubbles": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "soulcalibur-broken-destiny": {
   "checked": "2026-10-08T03:24:34+00:00"
@@ -4420,7 +4420,7 @@
   "checked": "2026-10-28T05:36:43+00:00"
  },
  "super-dodgeball-brawlers": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "super-ghoulsn-ghosts": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -4482,7 +4482,7 @@
   "checked": "2026-10-28T06:30:39+00:00"
  },
  "super-princess-peach": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "super-punch-out": {
   "checked": "2026-10-09T03:48:48+00:00"
@@ -4494,7 +4494,7 @@
   "checked": "2026-10-28T06:30:39+00:00"
  },
  "super-scribblenauts": {
-  "checked": "2026-10-29T22:29:11+00:00"
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "super-soccer--1": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -4584,6 +4584,9 @@
  "tales-of-hearts-r": {
   "checked": "2026-10-08T03:45:56+00:00"
  },
+ "tales-of-innocence": {
+  "checked": "2026-10-29T22:31:28+00:00"
+ },
  "tales-of-the-world-radiant-mythology": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
@@ -4635,6 +4638,9 @@
  },
  "tetris--41": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "tetris-ds": {
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "tetris-dx": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -5058,6 +5064,9 @@
  "tomb-raider-legend--6": {
   "checked": "2026-10-07T01:52:01+00:00"
  },
+ "tony-hawk-s-american-sk8land": {
+  "checked": "2026-10-29T22:31:28+00:00"
+ },
  "tony-hawks-pro-skater-1-plus-2": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 9440
@@ -5103,6 +5112,9 @@
  "transference": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 6578
+ },
+ "trauma-center-under-the-knife-2": {
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "trek-to-yomi": {
   "checked": "2026-10-07T01:52:02+00:00",
@@ -5299,6 +5311,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11462
  },
+ "viva-pinata-pocket-paradise": {
+  "checked": "2026-10-29T22:31:28+00:00"
+ },
  "volleyball": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -5359,8 +5374,14 @@
  "wario-s-woods": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "warioware-d-i-y": {
+  "checked": "2026-10-29T22:31:28+00:00"
+ },
  "warioware-inc-dot-mega-microgame$": {
   "checked": "2026-10-09T04:03:43+00:00"
+ },
+ "warioware-touched": {
+  "checked": "2026-10-29T22:31:28+00:00"
  },
  "warriors-abyss": {
   "checked": "2026-10-28T05:02:27+00:00",

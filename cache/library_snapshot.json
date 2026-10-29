@@ -3499,6 +3499,76 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Super Scribblenauts",
    "title": "Super Scribblenauts"
+  },
+  {
+   "format": "digital",
+   "igdb": "tales-of-innocence",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Tales of Innocence",
+   "title": "Tales of Innocence"
+  },
+  {
+   "format": "physical",
+   "igdb": "tetris-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Tetris DS",
+   "title": "Tetris DS"
+  },
+  {
+   "format": "digital",
+   "igdb": "tony-hawk-s-american-sk8land",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Tony Hawk's American Sk8land",
+   "title": "Tony Hawk's American Sk8land"
+  },
+  {
+   "format": "digital",
+   "igdb": "trauma-center-under-the-knife-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Trauma Center: Under the Knife 2",
+   "title": "Trauma Center: Under the Knife 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "viva-pinata-pocket-paradise",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Viva Piñata: Pocket Paradise",
+   "title": "Viva Piñata: Pocket Paradise"
+  },
+  {
+   "format": "digital",
+   "igdb": "warioware-d-i-y",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:WarioWare D.I.Y.",
+   "title": "WarioWare D.I.Y."
+  },
+  {
+   "format": "digital",
+   "igdb": "warioware-touched",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:WarioWare: Touched!",
+   "title": "WarioWare: Touched!"
   }
  ],
  "nintendo_eshop": [

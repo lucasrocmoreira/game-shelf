@@ -2578,6 +2578,14 @@
   "opencritic_pct": 81,
   "opencritic_tier": "Strong"
  },
+ "igdb:1208": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:31:52+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:121247": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -4457,7 +4465,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "phoenix-wright-ace-attorney",
-  "oc_checked": "2026-10-29T22:30:04+00:00"
+  "oc_checked": "2026-10-29T22:32:43+00:00"
  },
  "igdb:1427": {
   "backloggd": 3.8,
@@ -5525,6 +5533,14 @@
   "metacritic": 70,
   "metacritic_slug": "paw-patrol-the-movie-adventure-city-calls"
  },
+ "igdb:1526": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:32:02+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "trauma-center-under-the-knife-2"
+ },
  "igdb:1528": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -5620,7 +5636,7 @@
  "igdb:15467": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:19+00:00",
+  "checked": "2026-10-29T22:31:35+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "shin-megami-tensei-strange-journey"
@@ -6127,6 +6143,22 @@
   ],
   "steam_pct": 95,
   "steam_reviews": 25085
+ },
+ "igdb:1705": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:32:13+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "warioware-touched"
+ },
+ "igdb:1708": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:32:08+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "warioware-d-i-y"
  },
  "igdb:1709": {
   "backloggd": 2.8,
@@ -6764,6 +6796,14 @@
   "opencritic_pct": null,
   "opencritic_tier": ""
  },
+ "igdb:18599": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:31:54+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "tetris-ds"
+ },
  "igdb:186528": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -7102,7 +7142,7 @@
  "igdb:19258": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:22+00:00",
+  "checked": "2026-10-29T22:31:37+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "sonic-rush"
@@ -7110,7 +7150,7 @@
  "igdb:19261": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:24+00:00",
+  "checked": "2026-10-29T22:31:40+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "sonic-rush-adventure"
@@ -8157,7 +8197,7 @@
  "igdb:20497": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:32+00:00",
+  "checked": "2026-10-29T22:31:47+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "super-princess-peach"
@@ -8507,7 +8547,7 @@
  "igdb:21052": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:29+00:00",
+  "checked": "2026-10-29T22:31:44+00:00",
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "super-dodgeball-brawlers"
@@ -8706,10 +8746,18 @@
   "opencritic_pct": 43,
   "opencritic_tier": "Weak"
  },
+ "igdb:21357": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:32:06+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "viva-pinata-pocket-paradise"
+ },
  "igdb:21370": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:27+00:00",
+  "checked": "2026-10-29T22:31:42+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "soul-bubbles"
@@ -15283,6 +15331,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-29T21:32:57+00:00"
  },
+ "igdb:6643": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:32:00+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "tony-hawks-american-sk8land"
+ },
  "igdb:6705": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -15394,7 +15450,7 @@
  "igdb:6884": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:15+00:00",
+  "checked": "2026-10-29T22:31:30+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "shin-megami-tensei-devil-survivor"
@@ -15402,7 +15458,7 @@
  "igdb:6885": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:17+00:00",
+  "checked": "2026-10-29T22:31:32+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "shin-megami-tensei-devil-survivor-2"
@@ -16923,7 +16979,7 @@
  "igdb:8808": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-29T22:29:34+00:00",
+  "checked": "2026-10-29T22:31:49+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "super-scribblenauts"
