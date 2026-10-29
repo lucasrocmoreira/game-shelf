@@ -2989,6 +2989,16 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Kirby Super Star Ultra",
    "title": "Kirby Super Star Ultra"
+  },
+  {
+   "format": "digital",
+   "igdb": "last-window-the-secret-of-cape-west",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Last Window: The Secret of Cape West",
+   "title": "Last Window: The Secret of Cape West"
   }
  ],
  "nintendo_eshop": [

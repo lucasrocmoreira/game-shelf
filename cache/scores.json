@@ -2207,7 +2207,8 @@
   "checked": "2026-10-29T21:44:40+00:00",
   "mc_v": 2,
   "metacritic": 60,
-  "metacritic_slug": "crash-mind-over-mutant"
+  "metacritic_slug": "crash-mind-over-mutant",
+  "oc_checked": "2026-10-29T22:12:11+00:00"
  },
  "igdb:119133": {
   "backloggd": 4.5,
@@ -9158,6 +9159,14 @@
   "metacritic": 90,
   "metacritic_slug": "pushmo",
   "oc_checked": "2026-10-19T17:00:13+00:00"
+ },
+ "igdb:22958": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:11:41+00:00",
+  "mc_v": 2,
+  "metacritic": 91,
+  "metacritic_slug": "last-window-the-secret-of-cape-west"
  },
  "igdb:22976": {
   "backloggd": 2.9,
