@@ -276,13 +276,6 @@
    "igdb": "kirby-mass-attack"
   },
   {
-   "title": "Kirby: Canvas Curse",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "kirby-canvas-curse"
-  },
-  {
    "title": "Kirby Super Star Ultra",
    "platform": "DS",
    "format": "digital",
@@ -2079,6 +2072,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "kingdom-hearts-358-2-days"
+  },
+  {
+   "title": "Kirby: Canvas Curse",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "kirby-canvas-curse"
   }
  ],
  "match": {
