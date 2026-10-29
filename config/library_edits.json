@@ -2281,6 +2281,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "pokemon-platinum-version"
+  },
+  {
+   "title": "Pokémon Conquest",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-conquest"
   }
  ],
  "match": {
