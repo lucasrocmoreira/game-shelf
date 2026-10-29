@@ -2207,8 +2207,7 @@
   "checked": "2026-10-29T21:44:40+00:00",
   "mc_v": 2,
   "metacritic": 60,
-  "metacritic_slug": "crash-mind-over-mutant",
-  "oc_checked": "2026-10-29T22:08:55+00:00"
+  "metacritic_slug": "crash-mind-over-mutant"
  },
  "igdb:119133": {
   "backloggd": 4.5,
@@ -12901,6 +12900,15 @@
   "metacritic": 86,
   "metacritic_slug": "kirby-canvas-curse",
   "oc_checked": "2026-10-17T13:46:46+00:00"
+ },
+ "igdb:3723": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:09:58+00:00",
+  "mc_v": 2,
+  "metacritic": 71,
+  "metacritic_slug": "kirby-squeak-squad",
+  "oc_checked": "2026-10-29T22:10:28+00:00"
  },
  "igdb:3724": {
   "backloggd": 3.3,

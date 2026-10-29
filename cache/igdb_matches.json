@@ -1507,6 +1507,18 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Kirby: Squeak Squad": {
+  "candidates": null,
+  "checked": "2026-10-29T22:09:47+00:00",
+  "conf": "manual",
+  "id": 3723,
+  "mp": null,
+  "score": null,
+  "slug": "kirby-squeak-squad",
+  "title": "Kirby: Squeak Squad",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Mario & Luigi: Bowser's Inside Story": {
   "candidates": null,
   "checked": "2026-10-07T21:32:39+00:00",

@@ -332,36 +332,6 @@
   },
   {
    "format": "digital",
-   "igdb": "kirby-mass-attack",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Kirby Mass Attack",
-   "title": "Kirby Mass Attack"
-  },
-  {
-   "format": "digital",
-   "igdb": "kirby-canvas-curse",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Kirby: Canvas Curse",
-   "title": "Kirby: Canvas Curse"
-  },
-  {
-   "format": "digital",
-   "igdb": "kirby-super-star-ultra",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Kirby Super Star Ultra",
-   "title": "Kirby Super Star Ultra"
-  },
-  {
-   "format": "digital",
    "igdb": "ghost-trick-phantom-detective",
    "last_played": null,
    "manual": true,
@@ -2979,6 +2949,46 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Kingdom Hearts 358/2 Days",
    "title": "Kingdom Hearts 358/2 Days"
+  },
+  {
+   "format": "digital",
+   "igdb": "kirby-canvas-curse",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby: Canvas Curse",
+   "title": "Kirby: Canvas Curse"
+  },
+  {
+   "format": "digital",
+   "igdb": "kirby-squeak-squad",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby: Squeak Squad",
+   "title": "Kirby: Squeak Squad"
+  },
+  {
+   "format": "physical",
+   "igdb": "kirby-mass-attack",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby Mass Attack",
+   "title": "Kirby Mass Attack"
+  },
+  {
+   "format": "digital",
+   "igdb": "kirby-super-star-ultra",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby Super Star Ultra",
+   "title": "Kirby Super Star Ultra"
   }
  ],
  "nintendo_eshop": [
