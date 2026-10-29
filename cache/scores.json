@@ -4456,7 +4456,8 @@
   "checked": "2026-10-29T22:22:38+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "phoenix-wright-ace-attorney"
+  "metacritic_slug": "phoenix-wright-ace-attorney",
+  "oc_checked": "2026-10-29T22:30:04+00:00"
  },
  "igdb:1427": {
   "backloggd": 3.8,
@@ -5615,6 +5616,14 @@
   "metacritic": 82,
   "metacritic_slug": "ys-memories-of-celceta",
   "oc_checked": "2026-10-09T03:38:03+00:00"
+ },
+ "igdb:15467": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:19+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "shin-megami-tensei-strange-journey"
  },
  "igdb:154775": {
   "backloggd": 3.4,
@@ -7090,6 +7099,22 @@
   "opencritic_pct": 42,
   "opencritic_tier": "Strong"
  },
+ "igdb:19258": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:22+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "sonic-rush"
+ },
+ "igdb:19261": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:24+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "sonic-rush-adventure"
+ },
  "igdb:1928": {
   "backloggd": 2.9,
   "bl_v": 2,
@@ -8129,6 +8154,14 @@
   "opencritic_pct": 76,
   "opencritic_tier": "Strong"
  },
+ "igdb:20497": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:32+00:00",
+  "mc_v": 2,
+  "metacritic": 75,
+  "metacritic_slug": "super-princess-peach"
+ },
  "igdb:20502": {
   "backloggd": 3.3,
   "bl_v": 2,
@@ -8471,6 +8504,14 @@
   "metacritic": 82,
   "metacritic_slug": "hot-shots-golf-open-tee-2"
  },
+ "igdb:21052": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:29+00:00",
+  "mc_v": 2,
+  "metacritic": 65,
+  "metacritic_slug": "super-dodgeball-brawlers"
+ },
  "igdb:21056": {
   "backloggd": 3.5,
   "bl_v": 2,
@@ -8664,6 +8705,14 @@
   "opencritic_id": 16050,
   "opencritic_pct": 43,
   "opencritic_tier": "Weak"
+ },
+ "igdb:21370": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:27+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "soul-bubbles"
  },
  "igdb:213880": {
   "backloggd": 3.0,
@@ -15342,6 +15391,22 @@
   "opencritic_pct": 89,
   "opencritic_tier": "Strong"
  },
+ "igdb:6884": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:15+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "shin-megami-tensei-devil-survivor"
+ },
+ "igdb:6885": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:17+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "shin-megami-tensei-devil-survivor-2"
+ },
  "igdb:6886": {
   "backloggd": 4.2,
   "bl_v": 2,
@@ -16854,6 +16919,14 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "scribblenauts"
+ },
+ "igdb:8808": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-10-29T22:29:34+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "super-scribblenauts"
  },
  "igdb:8862": {
   "backloggd": 3.6,

@@ -2131,6 +2131,42 @@
   "v": 4,
   "via": "search"
  },
+ "DS:manual:Shin Megami Tensei: Devil Survivor": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:01+00:00",
+  "conf": "manual",
+  "id": 6884,
+  "mp": null,
+  "score": null,
+  "slug": "shin-megami-tensei-devil-survivor",
+  "title": "Shin Megami Tensei: Devil Survivor",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Shin Megami Tensei: Devil Survivor 2": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:01+00:00",
+  "conf": "manual",
+  "id": 6885,
+  "mp": null,
+  "score": null,
+  "slug": "shin-megami-tensei-devil-survivor-2",
+  "title": "Shin Megami Tensei: Devil Survivor 2",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Shin Megami Tensei: Strange Journey": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:02+00:00",
+  "conf": "manual",
+  "id": 15467,
+  "mp": null,
+  "score": null,
+  "slug": "shin-megami-tensei-strange-journey",
+  "title": "Shin Megami Tensei: Strange Journey",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Solatorobo: Red The Hunter": {
   "candidates": 2,
   "checked": "2026-10-07T21:10:54+00:00",
@@ -2153,6 +2189,54 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Sonic Rush": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:02+00:00",
+  "conf": "manual",
+  "id": 19258,
+  "mp": null,
+  "score": null,
+  "slug": "sonic-rush",
+  "title": "Sonic Rush",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Sonic Rush Adventure": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:02+00:00",
+  "conf": "manual",
+  "id": 19261,
+  "mp": null,
+  "score": null,
+  "slug": "sonic-rush-adventure",
+  "title": "Sonic Rush Adventure",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Soul Bubbles": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:02+00:00",
+  "conf": "manual",
+  "id": 21370,
+  "mp": null,
+  "score": null,
+  "slug": "soul-bubbles",
+  "title": "Soul Bubbles",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Super Dodgeball Brawlers": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:03+00:00",
+  "conf": "manual",
+  "id": 21052,
+  "mp": null,
+  "score": null,
+  "slug": "super-dodgeball-brawlers",
+  "title": "Super Dodgeball Brawlers",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Super Mario 64 DS": {
   "candidates": 7,
   "checked": "2026-10-07T21:10:53+00:00",
@@ -2163,6 +2247,30 @@
   "title": "Super Mario 64 DS",
   "v": 4,
   "via": "search"
+ },
+ "DS:manual:Super Princess Peach": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:03+00:00",
+  "conf": "manual",
+  "id": 20497,
+  "mp": null,
+  "score": null,
+  "slug": "super-princess-peach",
+  "title": "Super Princess Peach",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Super Scribblenauts": {
+  "candidates": null,
+  "checked": "2026-10-29T22:29:03+00:00",
+  "conf": "manual",
+  "id": 8808,
+  "mp": null,
+  "score": null,
+  "slug": "super-scribblenauts",
+  "title": "Super Scribblenauts",
+  "v": 4,
+  "via": "fix"
  },
  "DS:manual:The Legend of Zelda: Phantom Hourglass": {
   "candidates": null,

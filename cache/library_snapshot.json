@@ -3409,6 +3409,96 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Scribblenauts",
    "title": "Scribblenauts"
+  },
+  {
+   "format": "digital",
+   "igdb": "shin-megami-tensei-devil-survivor",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Shin Megami Tensei: Devil Survivor",
+   "title": "Shin Megami Tensei: Devil Survivor"
+  },
+  {
+   "format": "digital",
+   "igdb": "shin-megami-tensei-devil-survivor-2",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Shin Megami Tensei: Devil Survivor 2",
+   "title": "Shin Megami Tensei: Devil Survivor 2"
+  },
+  {
+   "format": "digital",
+   "igdb": "shin-megami-tensei-strange-journey",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Shin Megami Tensei: Strange Journey",
+   "title": "Shin Megami Tensei: Strange Journey"
+  },
+  {
+   "format": "digital",
+   "igdb": "sonic-rush",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Sonic Rush",
+   "title": "Sonic Rush"
+  },
+  {
+   "format": "digital",
+   "igdb": "sonic-rush-adventure",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Sonic Rush Adventure",
+   "title": "Sonic Rush Adventure"
+  },
+  {
+   "format": "digital",
+   "igdb": "soul-bubbles",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Soul Bubbles",
+   "title": "Soul Bubbles"
+  },
+  {
+   "format": "digital",
+   "igdb": "super-dodgeball-brawlers",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Dodgeball Brawlers",
+   "title": "Super Dodgeball Brawlers"
+  },
+  {
+   "format": "digital",
+   "igdb": "super-princess-peach",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Princess Peach",
+   "title": "Super Princess Peach"
+  },
+  {
+   "format": "digital",
+   "igdb": "super-scribblenauts",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Scribblenauts",
+   "title": "Super Scribblenauts"
   }
  ],
  "nintendo_eshop": [

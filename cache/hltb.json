@@ -3750,6 +3750,14 @@
   "hltb_name": "Ys: Memories of Celceta",
   "main": 21.5
  },
+ "igdb:15467": {
+  "checked": "2026-10-29T22:30:11+00:00",
+  "complete": 114.5,
+  "extra": 70.5,
+  "hltb_id": 8444,
+  "hltb_name": "Shin Megami Tensei: Strange Journey",
+  "main": 51.5
+ },
  "igdb:154775": {
   "checked": "2026-10-16T15:03:24+00:00",
   "complete": 17.0,
@@ -4763,6 +4771,22 @@
   "hltb_name": "Batman: Return to Arkham",
   "main": 20.5
  },
+ "igdb:19258": {
+  "checked": "2026-10-29T22:30:13+00:00",
+  "complete": 10.5,
+  "extra": 8.0,
+  "hltb_id": 8777,
+  "hltb_name": "Sonic Rush",
+  "main": 5.0
+ },
+ "igdb:19261": {
+  "checked": "2026-10-29T22:30:16+00:00",
+  "complete": 13.5,
+  "extra": 10.0,
+  "hltb_id": 8778,
+  "hltb_name": "Sonic Rush Adventure",
+  "main": 6.5
+ },
  "igdb:1928": {
   "checked": "2026-10-16T15:00:44+00:00",
   "complete": 10.0,
@@ -5430,6 +5454,14 @@
   "hltb_name": "Wo Long: Fallen Dynasty",
   "main": 25.5
  },
+ "igdb:20497": {
+  "checked": "2026-10-29T22:30:22+00:00",
+  "complete": 17.0,
+  "extra": 10.5,
+  "hltb_id": 9409,
+  "hltb_name": "Super Princess Peach",
+  "main": 8.0
+ },
  "igdb:20502": {
   "checked": "2026-10-17T13:51:09+00:00",
   "complete": 22.5,
@@ -5697,6 +5729,14 @@
   "hltb_name": "Hot Shots Golf: Open Tee 2",
   "main": 7.0
  },
+ "igdb:21052": {
+  "checked": "2026-10-29T22:30:20+00:00",
+  "complete": 7.0,
+  "extra": null,
+  "hltb_id": 22010,
+  "hltb_name": "Super Dodgeball Brawlers",
+  "main": 0.5
+ },
  "igdb:21056": {
   "checked": "2026-10-29T21:45:45+00:00",
   "complete": 113.0,
@@ -5840,6 +5880,14 @@
   "hltb_id": 112498,
   "hltb_name": "Alone in the Dark",
   "main": 7.5
+ },
+ "igdb:21370": {
+  "checked": "2026-10-29T22:30:18+00:00",
+  "complete": 9.5,
+  "extra": 8.0,
+  "hltb_id": 8813,
+  "hltb_name": "Soul Bubbles",
+  "main": 7.0
  },
  "igdb:213880": {
   "checked": "2026-10-28T05:57:43+00:00",
@@ -10526,6 +10574,22 @@
   "hltb_name": "Metro Redux",
   "main": 17.0
  },
+ "igdb:6884": {
+  "checked": "2026-10-29T22:30:06+00:00",
+  "complete": 60.0,
+  "extra": 41.0,
+  "hltb_id": 8432,
+  "hltb_name": "Shin Megami Tensei: Devil Survivor",
+  "main": 32.0
+ },
+ "igdb:6885": {
+  "checked": "2026-10-29T22:30:08+00:00",
+  "complete": 88.5,
+  "extra": 40.0,
+  "hltb_id": 8433,
+  "hltb_name": "Shin Megami Tensei: Devil Survivor 2",
+  "main": 33.0
+ },
  "igdb:6886": {
   "checked": "2026-10-17T13:53:10+00:00",
   "complete": 119.5,
@@ -11534,6 +11598,14 @@
   "hltb_id": 8192,
   "hltb_name": "Scribblenauts",
   "main": 8.0
+ },
+ "igdb:8808": {
+  "checked": "2026-10-29T22:30:25+00:00",
+  "complete": 22.5,
+  "extra": 11.5,
+  "hltb_id": 9438,
+  "hltb_name": "Super Scribblenauts",
+  "main": 7.0
  },
  "igdb:8862": {
   "checked": "2026-10-18T14:03:55+00:00",
