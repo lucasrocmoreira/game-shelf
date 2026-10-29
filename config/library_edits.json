@@ -311,13 +311,6 @@
    "igdb": "ghost-trick-phantom-detective"
   },
   {
-   "title": "Fire Emblem: Shadow Dragon",
-   "platform": "DS",
-   "format": "digital",
-   "added": "2026-10-07",
-   "igdb": "fire-emblem-shadow-dragon"
-  },
-  {
    "title": "Dragon Quest IV: Chapters of the Chosen",
    "platform": "DS",
    "format": "digital",
@@ -2045,6 +2038,13 @@
    "format": "digital",
    "added": "2026-10-29",
    "igdb": "final-fantasy-tactics-a2-grimoire-of-the-rift"
+  },
+  {
+   "title": "Fire Emblem: Shadow Dragon",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "fire-emblem-shadow-dragon"
   }
  ],
  "match": {
