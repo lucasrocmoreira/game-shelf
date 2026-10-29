@@ -1040,6 +1040,42 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Castlevania: Order of Ecclesia": {
+  "candidates": null,
+  "checked": "2026-10-29T21:41:27+00:00",
+  "conf": "manual",
+  "id": 1141,
+  "mp": null,
+  "score": null,
+  "slug": "castlevania-order-of-ecclesia",
+  "title": "Castlevania: Order of Ecclesia",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Castlevania: Portrait of Ruin": {
+  "candidates": null,
+  "checked": "2026-10-29T21:41:28+00:00",
+  "conf": "manual",
+  "id": 1138,
+  "mp": null,
+  "score": null,
+  "slug": "castlevania-portrait-of-ruin",
+  "title": "Castlevania: Portrait of Ruin",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Chibi-Robo!: Park Patrol": {
+  "candidates": null,
+  "checked": "2026-10-29T21:41:28+00:00",
+  "conf": "manual",
+  "id": 21307,
+  "mp": null,
+  "score": null,
+  "slug": "chibi-robo-park-patrol",
+  "title": "Chibi-Robo!: Park Patrol",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Chrono Trigger (2008)": {
   "candidates": 17,
   "checked": "2026-10-07T21:40:08+00:00",
@@ -1050,6 +1086,30 @@
   "title": "Chrono Trigger (2008)",
   "v": 4,
   "via": "search"
+ },
+ "DS:manual:Contact": {
+  "candidates": null,
+  "checked": "2026-10-29T21:41:28+00:00",
+  "conf": "manual",
+  "id": 20581,
+  "mp": null,
+  "score": null,
+  "slug": "contact",
+  "title": "Contact",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Contra 4": {
+  "candidates": null,
+  "checked": "2026-10-29T21:41:29+00:00",
+  "conf": "manual",
+  "id": 9545,
+  "mp": null,
+  "score": null,
+  "slug": "contra-4",
+  "title": "Contra 4",
+  "v": 4,
+  "via": "fix"
  },
  "DS:manual:Crash of the Titans": {
   "candidates": null,

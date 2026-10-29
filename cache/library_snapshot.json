@@ -2669,6 +2669,56 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Castlevania: Dawn of Sorrow",
    "title": "Castlevania: Dawn of Sorrow"
+  },
+  {
+   "format": "digital",
+   "igdb": "castlevania-order-of-ecclesia",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Castlevania: Order of Ecclesia",
+   "title": "Castlevania: Order of Ecclesia"
+  },
+  {
+   "format": "digital",
+   "igdb": "castlevania-portrait-of-ruin",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Castlevania: Portrait of Ruin",
+   "title": "Castlevania: Portrait of Ruin"
+  },
+  {
+   "format": "digital",
+   "igdb": "chibi-robo-park-patrol",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Chibi-Robo!: Park Patrol",
+   "title": "Chibi-Robo!: Park Patrol"
+  },
+  {
+   "format": "digital",
+   "igdb": "contact",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Contact",
+   "title": "Contact"
+  },
+  {
+   "format": "digital",
+   "igdb": "contra-4",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Contra 4",
+   "title": "Contra 4"
   }
  ],
  "nintendo_eshop": [

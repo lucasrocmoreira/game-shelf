@@ -1060,6 +1060,14 @@
   "hltb_name": "Castlevania: Dawn of Sorrow",
   "main": 9.5
  },
+ "igdb:1138": {
+  "checked": "2026-10-29T21:43:03+00:00",
+  "complete": 23.0,
+  "extra": 12.0,
+  "hltb_id": 1591,
+  "hltb_name": "Castlevania: Portrait of Ruin",
+  "main": 9.0
+ },
  "igdb:11397": {
   "checked": "2026-10-16T04:58:59+00:00",
   "complete": 145.0,
@@ -1083,6 +1091,14 @@
   "hltb_id": 69333,
   "hltb_name": "Totally Reliable Delivery Service",
   "main": 3.0
+ },
+ "igdb:1141": {
+  "checked": "2026-10-29T21:43:01+00:00",
+  "complete": 21.0,
+  "extra": 13.0,
+  "hltb_id": 1589,
+  "hltb_name": "Castlevania: Order of Ecclesia",
+  "main": 10.0
  },
  "igdb:11416": {
   "checked": "2026-10-17T13:54:43+00:00",
@@ -5293,6 +5309,14 @@
   "hltb_name": "God of War: Origins Collection",
   "main": 12.0
  },
+ "igdb:20581": {
+  "checked": "2026-10-29T21:43:08+00:00",
+  "complete": 29.5,
+  "extra": 18.5,
+  "hltb_id": 1906,
+  "hltb_name": "Contact",
+  "main": 11.5
+ },
  "igdb:20585": {
   "checked": "2026-10-17T13:54:28+00:00",
   "complete": 12.5,
@@ -5575,6 +5599,14 @@
   "hltb_id": 833,
   "hltb_name": "Bangai-O Spirits",
   "main": 6.0
+ },
+ "igdb:21307": {
+  "checked": "2026-10-29T21:43:05+00:00",
+  "complete": 22.0,
+  "extra": 17.0,
+  "hltb_id": 1669,
+  "hltb_name": "Chibi-Robo!: Park Patrol",
+  "main": 12.0
  },
  "igdb:213191": {
   "checked": "2026-10-28T05:52:50+00:00",
@@ -11315,6 +11347,14 @@
   "hltb_id": 36419,
   "hltb_name": "XCOM: Enemy Unknown Plus",
   "main": 8.0
+ },
+ "igdb:9545": {
+  "checked": "2026-10-29T21:43:09+00:00",
+  "complete": 16.5,
+  "extra": 5.0,
+  "hltb_id": 1912,
+  "hltb_name": "Contra 4",
+  "main": 2.5
  },
  "igdb:9597": {
   "checked": "2026-10-17T13:51:11+00:00",
