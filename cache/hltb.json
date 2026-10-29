@@ -1362,6 +1362,14 @@
   "hltb_name": "Time Crisis",
   "main": 1.0
  },
+ "igdb:1174": {
+  "checked": "2026-10-29T21:55:26+00:00",
+  "complete": 35.0,
+  "extra": 31.5,
+  "hltb_id": 4001,
+  "hltb_name": "Golden Sun: Dark Dawn",
+  "main": 28.0
+ },
  "igdb:117420": {
   "checked": "2026-10-28T04:12:10+00:00",
   "complete": 56.0,
@@ -8176,6 +8184,14 @@
   "hltb_name": "Harvest Moon DS",
   "main": 41.0
  },
+ "igdb:3392": {
+  "checked": "2026-10-29T21:55:28+00:00",
+  "complete": 203.0,
+  "extra": 97.5,
+  "hltb_id": 4342,
+  "hltb_name": "Harvest Moon: The Tale of Two Towns",
+  "main": 47.5
+ },
  "igdb:3399": {
   "checked": "2026-10-28T05:55:57+00:00",
   "complete": 1.0,
@@ -9559,6 +9575,14 @@
   "hltb_id": 3549,
   "hltb_name": "Fire 'n Ice",
   "main": 8.5
+ },
+ "igdb:4884": {
+  "checked": "2026-10-29T21:55:24+00:00",
+  "complete": null,
+  "extra": 18.5,
+  "hltb_id": 3896,
+  "hltb_name": "Geometry Wars: Galaxies",
+  "main": 11.0
  },
  "igdb:48916": {
   "checked": "2026-10-28T06:00:44+00:00",
@@ -11400,6 +11424,14 @@
   "hltb_id": 24484,
   "hltb_name": "Wolfenstein: The Old Blood",
   "main": 6.0
+ },
+ "igdb:9249": {
+  "checked": "2026-10-29T21:55:31+00:00",
+  "complete": 16.0,
+  "extra": 16.0,
+  "hltb_id": 4527,
+  "hltb_name": "Hotel Dusk: Room 215",
+  "main": 15.0
  },
  "igdb:9331": {
   "checked": "2026-10-28T05:24:25+00:00",

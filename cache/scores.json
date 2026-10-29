@@ -1997,6 +1997,14 @@
   "metacritic": null,
   "metacritic_slug": null
  },
+ "igdb:1174": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:54:41+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "golden-sun-dark-dawn"
+ },
  "igdb:117420": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -12265,6 +12273,14 @@
   "metacritic_slug": "harvest-moon-ds",
   "oc_checked": "2026-10-19T17:00:34+00:00"
  },
+ "igdb:3392": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:54:49+00:00",
+  "mc_v": 2,
+  "metacritic": 63,
+  "metacritic_slug": "harvest-moon-the-tale-of-two-towns"
+ },
  "igdb:3399": {
   "backloggd": 2.3,
   "bl_v": 2,
@@ -14058,6 +14074,14 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null
+ },
+ "igdb:4884": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:54:37+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "geometry-wars-galaxies"
  },
  "igdb:48916": {
   "backloggd": 3.2,
@@ -16776,6 +16800,15 @@
   "opencritic_id": 26,
   "opencritic_pct": 60,
   "opencritic_tier": "Strong"
+ },
+ "igdb:9249": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-10-29T21:54:52+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "hotel-dusk-room-215",
+  "oc_checked": "2026-10-29T21:55:22+00:00"
  },
  "igdb:9331": {
   "backloggd": 3.3,

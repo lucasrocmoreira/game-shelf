@@ -372,16 +372,6 @@
   },
   {
    "format": "digital",
-   "igdb": "harvest-moon-ds",
-   "last_played": null,
-   "manual": true,
-   "platform": "DS",
-   "playtime_hours": 0.0,
-   "source_id": "manual:Harvest Moon DS",
-   "title": "Harvest Moon DS"
-  },
-  {
-   "format": "digital",
    "igdb": "ghost-trick-phantom-detective",
    "last_played": null,
    "manual": true,
@@ -2929,6 +2919,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Fire Emblem: Shadow Dragon",
    "title": "Fire Emblem: Shadow Dragon"
+  },
+  {
+   "format": "digital",
+   "igdb": "geometry-wars-galaxies",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Geometry Wars: Galaxies",
+   "title": "Geometry Wars: Galaxies"
+  },
+  {
+   "format": "digital",
+   "igdb": "golden-sun-dark-dawn",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Golden Sun: Dark Dawn",
+   "title": "Golden Sun: Dark Dawn"
+  },
+  {
+   "format": "digital",
+   "igdb": "grand-theft-auto-chinatown-wars",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Grand Theft Auto: Chinatown Wars",
+   "title": "Grand Theft Auto: Chinatown Wars"
+  },
+  {
+   "format": "digital",
+   "igdb": "harvest-moon-ds",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Harvest Moon DS",
+   "title": "Harvest Moon DS"
+  },
+  {
+   "format": "digital",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:harvest moon the tale of two towns",
+   "title": "harvest moon the tale of two towns"
+  },
+  {
+   "format": "digital",
+   "igdb": "hotel-dusk-room-215",
+   "last_played": null,
+   "manual": true,
+   "platform": "DS",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Hotel Dusk: Room 215",
+   "title": "Hotel Dusk: Room 215"
   }
  ],
  "nintendo_eshop": [

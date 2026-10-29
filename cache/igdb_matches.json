@@ -1393,6 +1393,18 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Geometry Wars: Galaxies": {
+  "candidates": null,
+  "checked": "2026-10-29T21:53:50+00:00",
+  "conf": "manual",
+  "id": 4884,
+  "mp": null,
+  "score": null,
+  "slug": "geometry-wars-galaxies",
+  "title": "Geometry Wars: Galaxies",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Ghost Trick: Phantom Detective": {
   "candidates": null,
   "checked": "2026-10-07T21:36:08+00:00",
@@ -1404,6 +1416,30 @@
   "v": 4,
   "via": "fix"
  },
+ "DS:manual:Golden Sun: Dark Dawn": {
+  "candidates": null,
+  "checked": "2026-10-29T21:53:50+00:00",
+  "conf": "manual",
+  "id": 1174,
+  "mp": null,
+  "score": null,
+  "slug": "golden-sun-dark-dawn",
+  "title": "Golden Sun: Dark Dawn",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Grand Theft Auto: Chinatown Wars": {
+  "candidates": null,
+  "checked": "2026-10-29T21:53:51+00:00",
+  "conf": "manual",
+  "id": 3270,
+  "mp": null,
+  "score": null,
+  "slug": "grand-theft-auto-chinatown-wars",
+  "title": "Grand Theft Auto: Chinatown Wars",
+  "v": 4,
+  "via": "fix"
+ },
  "DS:manual:Harvest Moon DS": {
   "candidates": null,
   "checked": "2026-10-07T21:36:08+00:00",
@@ -1412,6 +1448,18 @@
   "score": null,
   "slug": "harvest-moon-ds",
   "title": "Harvest Moon DS",
+  "v": 4,
+  "via": "fix"
+ },
+ "DS:manual:Hotel Dusk: Room 215": {
+  "candidates": null,
+  "checked": "2026-10-29T21:53:51+00:00",
+  "conf": "manual",
+  "id": 9249,
+  "mp": null,
+  "score": null,
+  "slug": "hotel-dusk-room-215",
+  "title": "Hotel Dusk: Room 215",
   "v": 4,
   "via": "fix"
  },
@@ -1690,6 +1738,18 @@
   "score": 1.135,
   "slug": null,
   "title": "dragon quest vi realms of revelation",
+  "v": 4,
+  "via": "search"
+ },
+ "DS:manual:harvest moon the tale of two towns": {
+  "candidates": 1,
+  "checked": "2026-10-29T21:53:52+00:00",
+  "conf": "high",
+  "id": 3392,
+  "mp": null,
+  "score": 1.13,
+  "slug": null,
+  "title": "harvest moon the tale of two towns",
   "v": 4,
   "via": "search"
  },
