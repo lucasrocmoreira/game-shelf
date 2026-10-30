@@ -14,13 +14,19 @@ always current.
 """
 import time
 
-from .util import CACHE_DIR, days_since, load_json, log, now_iso, save_json
+from .util import CACHE_DIR, CONFIG_DIR, days_since, load_json, log, now_iso, save_json
 
 REFRESH_DAYS = 14
 MIN_MAIN = 5
 MIN_POPULAR = 3
 POPULAR_RATINGS = 50     # IGDB total_rating_count for "widely rated"
 SPINOFF_RATINGS = 10     # fewer ratings than this: treated as a spin-off
+SPINOFF_SHARE = 0.05     # ...or fewer than 5% of the ratings of the series' most rated game
+# Licensed umbrellas rather than game series; more can be added in config/franchises.yml
+SKIP = {"star wars", "marvel", "lego", "batman", "dc comics", "disney", "warhammer", "warhammer 40,000",
+        "spider-man", "transformers", "teenage mutant ninja turtles", "the simpsons", "harry potter",
+        "lord of the rings", "the lord of the rings", "dungeons & dragons", "nintendo sports", "mario"}
+STOP = {"the", "and", "of", "a", "an", "series", "game", "games"}
 MIN_OWNED = 2
 MAIN_TYPES = {0, 4, 8}   # main game, standalone expansion, remake
 MOBILE_ONLY = {34, 39, 55, 82, 74}  # Android, iOS, legacy mobile, browser, Windows Phone
@@ -47,6 +53,38 @@ def _main_franchise(g):
 
 def _norm(s):
     return "".join(ch for ch in (s or "").lower() if ch.isalnum())
+
+
+def _words(s):
+    return [w for w in "".join(ch if ch.isalnum() else " " for ch in (s or "").lower()).split() if len(w) > 2 and w not in STOP]
+
+
+def _pair_versions(entries):
+    """Paired releases (Pokémon Red / Blue, Oracle of Ages / Seasons) become one entry:
+    same year, names that differ by one word."""
+    out = []
+    for e in entries:
+        mate = None
+        for o in out:
+            if o["year"] != e["year"] or o["spin"] != e["spin"] or o.get("_paired"):
+                continue
+            a, b = (o["title"] or "").split(), (e["title"] or "").split()
+            if len(a) == len(b) and sum(x != y for x, y in zip(a, b)) == 1:
+                mate = o
+                break
+        if not mate:
+            out.append(e)
+            continue
+        a, b = mate["title"].split(), e["title"].split()
+        i = next(i for i, (x, y) in enumerate(zip(a, b)) if x != y)
+        mate["title"] = " ".join(a[:i] + [f"{a[i]} / {b[i]}"] + a[i + 1:])
+        mate["keys"] = sorted(set(mate["keys"]) | set(e["keys"]))
+        mate["ids"] = mate.get("ids", [mate["id"]]) + [e["id"]]
+        mate["ratings"] = max(mate["ratings"], e["ratings"])
+        mate["_paired"] = True
+    for e in out:
+        e.pop("_paired", None)
+    return out
 
 
 def _year(g):
@@ -109,12 +147,17 @@ def build(igdb_client, igdb_games, rows):
     save_json(CACHE_DIR / "franchises.json", cache)
 
     now = time.time()
+    extra = load_json(CONFIG_DIR / "franchises.json", {})
+    skip = SKIP | {n.lower() for n in extra.get("skip", [])}
     out = []
     for fid in candidates:
         c = cache.get(str(fid))
         if not c:
             continue
         name = names.get(fid) or c.get("name") or ""
+        if name.lower() in skip:
+            continue
+        words = set(_words(name))
         mains = []
         for g in c["games"]:
             t = _type(g)
@@ -126,8 +169,8 @@ def build(igdb_client, igdb_games, rows):
             if plats and plats <= MOBILE_ONLY:
                 continue
             mf = _main_franchise(g)
-            if mf and mf != fid:
-                continue  # crossover: this game belongs to another franchise first
+            if mf and mf != fid and not (words & set(_words(g.get("name")))):
+                continue  # crossover: another franchise's game, and the name doesn't say this one
             mains.append(g)
         # The series named like the franchise is the main line; the rest are spin-offs.
         main_coll = None
@@ -135,10 +178,12 @@ def build(igdb_client, igdb_games, rows):
             for col in g.get("collections") or []:
                 if isinstance(col, dict) and _norm(col.get("name")) == _norm(name):
                     main_coll = col["id"]
+        top = max([g.get("total_rating_count") or 0 for g in mains] or [0])
+        floor = max(SPINOFF_RATINGS, SPINOFF_SHARE * top)
         entries = []
         for g in mains:
             in_main = main_coll is None or any(_id(col) == main_coll for col in g.get("collections") or [])
-            spin = not in_main or (g.get("total_rating_count") or 0) < SPINOFF_RATINGS
+            spin = not in_main or (g.get("total_rating_count") or 0) < floor
             scores = [v for v in (g.get("aggregated_rating"), g.get("rating")) if isinstance(v, (int, float)) and v > 0]
             entries.append({
                 "id": g["id"],
@@ -159,6 +204,7 @@ def build(igdb_client, igdb_games, rows):
         if sum(bool(e["keys"]) for e in entries) < MIN_OWNED:
             continue
         entries.sort(key=lambda e: (e["year"] or 9999, e["title"] or ""))
+        entries = _pair_versions(entries)
         years = [e["year"] for e in main_entries if e["year"]]
         out.append({"id": fid, "name": name, "years": [min(years), max(years)] if years else None, "games": entries})
     out.sort(key=lambda f: -sum(bool(e["keys"]) for e in f["games"] if not e["spin"]))

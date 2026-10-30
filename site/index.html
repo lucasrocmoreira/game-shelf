@@ -775,7 +775,7 @@ function frGames(f){
   });
   // An original counts as covered when you played its remake.
   for(const e of list){
-    const rm = list.find(x=>x.remake_of===e.id && x.status==="played");
+    const rm = list.find(x=>x.remake_of && (x.remake_of===e.id || (e.ids||[]).includes(x.remake_of)) && x.status==="played");
     if(rm && e.status!=="played") e.coveredBy = rm;
   }
   const main = list.filter(e=>!e.spin);
