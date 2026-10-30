@@ -773,7 +773,7 @@ function openSuggest(mode){
 /* ---------------- Franchises ----------------
    Built daily from IGDB (pipeline/franchises.py): the main games of each big series you own.
    Played / playing / owned status comes from your library here, so it is always current. */
-const FR = {data:null, open:null, filter:"all", spin:false, sort:"owned"};
+const FR = {data:null, open:null, filter:"all", spin:false, sort:"owned", q:""};
 const frKey = n=>n.replace(/^the\s+/i,"");  // "The Legend of Zelda" files under L
 const frLetter = n=>{ const c = frKey(n).charAt(0).toUpperCase(); return /[A-Z]/.test(c) ? c : "#"; };
 const FR_LABEL = {played:"Played", playing:"Playing now", owned:"Own it", sub:"PS Plus or Switch Online", missing:"Not in your library"};
@@ -846,6 +846,9 @@ function renderFranchises(){
     const started = c.played + c.playing > 0;
     return FR.filter==="all" || (FR.filter==="started" && started && next) || (FR.filter==="new" && !started) || (FR.filter==="done" && started && !next && !c.playing);
   });
+  const fq = FR.q.trim().toLowerCase();
+  if(fq) for(let i=cards.length-1;i>=0;i--){ const x = cards[i];
+    if(!(x.f.name.toLowerCase().includes(fq) || x.list.some(e=>(e.title||"").toLowerCase().includes(fq)))) cards.splice(i,1); }
   if(FR.sort==="az") cards.sort((a,b)=>frKey(a.f.name).localeCompare(frKey(b.f.name)));
   const have = new Set(cards.map(c=>frLetter(c.f.name)));
   const index = `<nav class="az" aria-label="Jump to letter">${["#",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"].map(l=>
@@ -854,7 +857,8 @@ function renderFranchises(){
   const chip = (v,l)=>`<button type="button" class="chip" data-frf="${v}" aria-pressed="${FR.filter===v}">${l}</button>`;
   $("out").innerHTML = `${index}<div class="fr-head"><h1>Your franchises</h1>
       <p>Big series you own at least 2 games of, checked against Wikipedia.</p></div>
-    <div class="row" style="margin-top:12px">${chip("all",`All ${all.length}`)}${chip("started","Started")}${chip("new","Not started")}${chip("done","Finished")}
+    <div class="row" style="margin-top:12px"><input class="search" id="frq" type="search" placeholder="Find a franchise or game" aria-label="Find a franchise or game" value="${esc(FR.q)}"></div>
+    <div class="row" style="margin-top:8px">${chip("all",`All ${all.length}`)}${chip("started","Started")}${chip("new","Not started")}${chip("done","Finished")}
       <div class="seg" role="group" aria-label="Order"><button type="button" data-frsort="owned" aria-pressed="${FR.sort==="owned"}">Most owned</button><button type="button" data-frsort="az" aria-pressed="${FR.sort==="az"}">A to Z</button></div></div>
     <div class="fr-legend">${Object.entries(FR_LABEL).map(([k,l])=>`<span><i class="sw s-${k}"></i>${l}</span>`).join("")}</div>
     ${cards.length ? `<div class="fr-cards">${cards.map(({f,main,counts:c,next,playing})=>{
@@ -867,7 +871,13 @@ function renderFranchises(){
         ${frBar(c)}
         <span style="font-size:14px">${summary}</span>
         <small>${playing ? `Playing: <b style="color:var(--ink)">${esc(playing.title)}</b>` : next ? `Next: <b style="color:var(--ink)">${esc(next.title)}</b> (${next.year||"?"}), ${esc(frWhere(next))}` : c.played ? "You've played everything you have" : ""}</small>
-      </button>`; }).join("")}</div>` : `<p class="empty">No franchises here yet.</p>`}`;
+      </button>`; }).join("")}</div>` : `<p class="empty">${fq ? "No franchise or game matches that." : "No franchises here yet."}</p>`}`;
+  frBindSearch();
+}
+function frBindSearch(){
+  const q = $("frq"); if(!q) return;
+  q.oninput = e=>{ FR.q = e.target.value; const pos = e.target.selectionStart; render();
+    const n = $("frq"); n.focus(); n.setSelectionRange(pos, pos); };
 }
 function renderGuide(f){
   const {list, main, spins, next, counts:c, sections} = frGames(f);
