@@ -635,7 +635,8 @@ function earliestUnplayed(g, pool){
   return prev.length ? {game:prev[0]} : null;
 }
 function consoleFor(g){  // the console tab a game from elsewhere can be sent to
-  if(g._catalog) return state.view==="ps5" ? null : "ps5";
+  const catalogOnly = g._catalog || !((VIEWS.library.data||{}).games||[]).some(x=>x.key===g.key);
+  if(catalogOnly) return state.view==="ps5" ? null : "ps5";
   const hit = Object.entries(CONSOLES).find(([k,c])=>k!==state.view && g.platforms.some(p=>c.plats.includes(p)));
   return hit ? hit[0] : null;
 }
@@ -644,7 +645,7 @@ function sentHere(){  // suggestions sent to this console from another tab, newe
   return Object.entries(sent).map(([key,info])=>({g:allGames().find(x=>x.key===key), info}))
     .filter(({g})=>g && !g._played && !g._playing && !g._hidden)
     .sort((a,b)=>String(b.info.date).localeCompare(String(a.info.date))).slice(0,3)
-    .map(({g,info})=>({game:g, best:g, sent:true, why:[`Sent here from your ${info.from} suggestions`, ...(info.why?[info.why]:[])]}));
+    .map(({g,info})=>({game:g, best:g, sent:true, why:[info.guide ? `Up next in your ${info.guide} guide` : `Sent here from your ${info.from} suggestions`, ...(info.why?[info.why]:[])]}));
 }
 function whereIs(g){
   const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
@@ -778,8 +779,14 @@ function frGames(f){
     const rm = list.find(x=>x.remake_of && (x.remake_of===e.id || (e.ids||[]).includes(x.remake_of)) && x.status==="played");
     if(rm && e.status!=="played") e.coveredBy = rm;
   }
+  const sameAs = (id, e)=>id && (id===e.id || (e.ids||[]).includes(id));
+  for(const e of list){
+    e.remakes = list.filter(x=>sameAs(x.remake_of, e));
+    e.original = e.remake_of ? list.find(x=>sameAs(e.remake_of, x)) || null : null;
+    e.skip = e.score!=null && e.score < 65;  // poorly reviewed: not worth your time
+  }
   const main = list.filter(e=>!e.spin);
-  const next = main.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy) || null;
+  const next = main.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip) || null;
   const playing = main.find(e=>e.status==="playing") || null;
   const n = k=>main.filter(e=>e.status===k).length;
   return {list, main, spins:list.filter(e=>e.spin), next, playing,
@@ -832,6 +839,8 @@ function renderGuide(f){
     const bits = [];
     if(covered.length) bits.push(`You covered ${covered.map(e=>esc(e.title)).join(", ")} through ${covered.length>1?"their remakes":"its remake"}.`);
     if(before.length) bits.push(`${before.map(e=>esc(e.title)).join(" and ")} ${before.length>1?"come":"comes"} before it but ${before.length>1?"aren't":"isn't"} in your library.`);
+    const skipped = main.filter(e=>e.skip && e.year && next.year && e.year <= next.year && e!==next && e.status!=="played" && e.status!=="missing");
+    if(skipped.length) bits.push(`Skipping ${skipped.map(e=>`${esc(e.title)} (scored ${e.score})`).join(" and ")}: not worth it.`);
     why = bits.join(" ");
   }
   const shown = (FR.spin ? list : main);
@@ -845,21 +854,31 @@ function renderGuide(f){
       <div class="row1">${next.cover?`<img src="${esc(next.cover)}" alt="">`:""}
         <div style="min-width:0;flex:1"><b>${esc(next.title)}</b><span class="fr-muted">${[next.year, esc(frWhere(next)), nextTtb?`about ${hrs(nextTtb)} to beat`:""].filter(Boolean).join(" · ")}</span>${why?`<p>${why}</p>`:""}</div>
         <span class="score ${tone(next.score)}" style="font-size:28px">${next.score??"–"}</span></div>
-      <div class="actions"><button type="button" data-frpin="${next.id}">Pin to Playing now</button><button type="button" data-fropen="${next.id}">Open game</button></div></div>` : ""}
+      <div class="actions"><button type="button" data-frpin="${next.id}">Pin to Playing now</button>${frSendBtn(next)}<button type="button" data-fropen="${next.id}">Open game</button></div></div>` : ""}
     <label class="inline" style="margin:4px 0 6px"><input type="checkbox" id="frSpin" ${FR.spin?"checked":""}> Show spin-offs (${spins.length})</label>
     <ol class="tl">${shown.map(e=>{
       const st = e===next ? "next" : e.status;
       const note = e.coveredBy ? `Played as the ${e.coveredBy.year} remake` : e===next ? "Your next one" : e.status==="missing" ? "" : FR_LABEL[e.status];
       const noteColor = e.coveredBy || e.status==="played" ? "var(--hi)" : e===next || e.status==="sub" ? "var(--accent)" : e.status==="playing" ? "var(--mid)" : "var(--muted)";
+      const extra = [
+        e.skip && e.status!=="played" ? `<span class="note" style="color:var(--lo)">Worth skipping (scored ${e.score})</span>` : "",
+        e.original ? `<span class="note" style="color:var(--muted)">Remake of the ${e.original.year} game</span>` : "",
+        e.remakes.length ? `<span class="note" style="color:var(--muted)">Remade in ${e.remakes.map(x=>x.year).join(" and ")}</span>` : ""].join("");
       return `<li class="${e.status}">
         <span class="yr">${e.year||""}</span>
         <span class="rail"><span class="dot ${st}"></span><i></i></span>
         ${e.cover?`<img src="${esc(e.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
         <button type="button" class="tt" data-fropen="${e.id}"><b>${esc(e.title)}${e.spin?` <span class="pill">Spin-off</span>`:""}</b>
-          <span class="fr-muted">${esc(frWhere(e))}</span>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}</button>
+          <span class="fr-muted">${esc(frWhere(e))}</span>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}${extra}</button>
         <span class="sc ${tone(e.score)}">${e.score??"–"}</span></li>`; }).join("")}</ol>
     ${!FR.spin && spins.some(e=>e.rows.length) ? `<p class="fr-muted">Spin-offs in your library: ${spins.filter(e=>e.rows.length).map(e=>`${esc(e.title)}${e.score!=null?` (${e.score})`:""}`).join(" · ")}</p>` : ""}`;
   $("frSpin").onchange = ev=>{ FR.spin = ev.target.checked; render(); };
+}
+function frSendBtn(e){
+  const to = e.row && consoleFor(e.row); if(!to) return "";
+  const sent = ((EDITS.sent||{})[to]||{})[e.row.key];
+  return sent ? `<button type="button" disabled>In your ${esc(CONSOLES[to].label)} suggestions ✓</button>`
+              : `<button type="button" data-frsend="${e.id}">Send to ${esc(CONSOLES[to].label)}</button>`;
 }
 function frEntry(id){
   const f = FR.data.franchises.find(x=>x.id===FR.open); if(!f) return null;
@@ -1041,6 +1060,13 @@ function setup(){
       const card = t.closest("[data-fr]"); if(card){ FR.open = +card.dataset.fr; FR.spin = false; render(); window.scrollTo({top:0}); return; }
       if(t.closest("[data-frback]")){ FR.open = null; render(); return; }
       const fl = t.closest("[data-frf]"); if(fl){ FR.filter = fl.dataset.frf; render(); return; }
+      const snd = t.closest("[data-frsend]");
+      if(snd){ const x = frEntry(snd.dataset.frsend), f = FR.data.franchises.find(y=>y.id===FR.open); if(!x || !x.row) return;
+        const to = consoleFor(x.row);
+        act(d=>{ d.sent = d.sent||{}; d.sent[to] = d.sent[to]||{};
+                 d.sent[to][x.row.key] = {from:"Franchises", guide:f.name, why:"", date:new Date().toISOString()}; },
+            `Send to ${CONSOLES[to].label}: ${x.title}`, `${x.title} is now a suggestion on your ${CONSOLES[to].label}`);
+        return; }
       const pin = t.closest("[data-frpin]"); if(pin){ const x = frEntry(pin.dataset.frpin); if(x && x.row && !x.row._playing) togglePlaying(x.row); return; }
       const op = t.closest("[data-fropen]");
       if(op){ const x = frEntry(op.dataset.fropen); if(!x) return;
