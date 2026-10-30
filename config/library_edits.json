@@ -2745,12 +2745,12 @@
   "switch2": {
    "slots": [
     {
-     "key": "igdb:158983",
+     "key": "igdb:207026",
      "best": "igdb:207026",
      "why": [
-      "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played.",
-      "Not on this console: you have it on Steam",
-      "About 23h to beat"
+      "Top-rated game you haven't played (average 88)",
+      "A change of genre: RPG",
+      "A longer one this time: about 48.5h to beat"
      ],
      "sent": false
     },
@@ -2779,9 +2779,10 @@
    "skip": [
     "igdb:158983",
     "igdb:1439",
-    "igdb:71976"
+    "igdb:71976",
+    "igdb:207026"
    ],
-   "date": "2026-10-30T18:58:57.541Z"
+   "date": "2026-10-30T18:59:04.901Z"
   }
  }
 }
