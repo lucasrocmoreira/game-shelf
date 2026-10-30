@@ -2624,12 +2624,12 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:135999",
-     "best": "igdb:135999",
+     "key": "igdb:83731",
+     "best": "igdb:83731",
      "why": [
-      "Top-rated game you haven't played (average 88)",
-      "A change of genre: Music, Puzzle",
-      "Shorter than what you're playing: about 8.5h to beat"
+      "Top-rated game you haven't played (average 84)",
+      "A change of genre: Music, Sport",
+      "Shorter than what you're playing: about 24.5h to beat"
      ],
      "sent": false
     },
@@ -2661,9 +2661,12 @@
     "igdb:18696",
     "igdb:170995",
     "igdb:18599",
-    "igdb:135999"
+    "igdb:135999",
+    "igdb:26226",
+    "igdb:143612",
+    "igdb:83731"
    ],
-   "date": "2026-10-30T18:35:21.526Z"
+   "date": "2026-10-30T18:35:28.825Z"
   }
  }
 }
