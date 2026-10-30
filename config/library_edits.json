@@ -2624,12 +2624,12 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:43868",
-     "best": "igdb:43868",
+     "key": "igdb:404052",
+     "best": "igdb:404052",
      "why": [
-      "Top-rated game you haven't played (average 83)",
-      "A change of genre: Puzzle, Strategy",
-      "Shorter than what you're playing: about 1h to beat",
+      "Top-rated game you haven't played (average 82)",
+      "A change of genre: Music",
+      "Shorter than what you're playing: about 4.5h to beat",
       "Included with PS Plus"
      ],
      "sent": false
@@ -2669,9 +2669,10 @@
     "igdb:12517",
     "igdb:279624",
     "igdb:4126",
-    "igdb:43868"
+    "igdb:43868",
+    "igdb:404052"
    ],
-   "date": "2026-10-30T18:58:25.479Z"
+   "date": "2026-10-30T18:58:28.294Z"
   },
   "ps3": {
    "slots": [
