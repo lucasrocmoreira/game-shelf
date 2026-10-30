@@ -481,6 +481,14 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
     since_ts = time.mktime(time.strptime(since[:10], "%Y-%m-%d")) if since else now
     drop = {int(i) for i in cur.get("drop") or []}
     by_entry = {e["id"]: e for e in entries}
+    # Some originals have no ratings or cover on IGDB, while their enhanced edition does (Kingdom Hearts
+    # Final Mix, Final Fantasy VII International): borrow the best-rated edition's score and cover.
+    kids = {}
+    for x in known.values():
+        if _type(x) in (9, 10, 11) or x.get("version_parent"):
+            par = _id(x.get("version_parent")) or _id(x.get("parent_game"))
+            if par:
+                kids.setdefault(par, []).append(x)
     chosen, order = {}, []
     groups = [(s.get("name"), s.get("games") or []) for s in cur.get("sections") or []] or [(None, cur.get("main") or [])]
     for sec, items in groups:
@@ -501,6 +509,11 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
             e = dict(e)
             e["spin"] = False
             e["section"] = sec
+            best = max(kids.get(g["id"], []), key=lambda x: x.get("total_rating_count") or 0, default=None)
+            if best and (e.get("score") is None or not e.get("cover")):
+                e["score"] = e.get("score") if e.get("score") is not None else _score(best)
+                e["cover"] = e.get("cover") or _cover(best)
+                e["ratings"] = max(e.get("ratings") or 0, best.get("total_rating_count") or 0)
             if it.get("title"):
                 e["title"] = it["title"]
             if it.get("remake_of"):

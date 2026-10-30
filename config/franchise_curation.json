@@ -1190,6 +1190,1163 @@
   "notes": "Festival of Blood and First Light are standalone expansions per Wikipedia and show as spin-offs. Second Son (2014-03-21) precedes First Light (2014-08-26).",
   "curated_at": "2026-10-30"
  },
+ "Jak and Daxter": {
+  "franchise": "Jak and Daxter",
+  "source": "https://en.wikipedia.org/wiki/Jak_and_Daxter",
+  "main": [
+   {
+    "id": 1528
+   },
+   {
+    "id": 1529
+   },
+   {
+    "id": 1530
+   },
+   {
+    "id": 1532
+   },
+   {
+    "id": 1533
+   },
+   {
+    "id": 1531
+   }
+  ],
+  "notes": "Wikipedia lists six games without a main/spin-off split; all six kept. Jak X (racing) and Daxter (PSP, Ready at Dawn) are the most debatable.",
+  "curated_at": "2026-10-30"
+ },
+ "Killzone": {
+  "franchise": "Killzone",
+  "source": "https://en.wikipedia.org/wiki/Killzone",
+  "main": [
+   {
+    "id": 1865
+   },
+   {
+    "id": 1868
+   },
+   {
+    "id": 1866
+   },
+   {
+    "id": 1867
+   },
+   {
+    "id": 1869
+   },
+   {
+    "id": 1937
+   }
+  ],
+  "notes": "Wikipedia says the series consists of six games, handhelds included. Shadow Fall - Intercept is a standalone expansion and stays a spin-off.",
+  "curated_at": "2026-10-30"
+ },
+ "Kingdom Hearts": {
+  "franchise": "Kingdom Hearts",
+  "source": "https://en.wikipedia.org/wiki/List_of_Kingdom_Hearts_media",
+  "main": [
+   {
+    "id": 393742
+   },
+   {
+    "id": 1220
+   },
+   {
+    "id": 20286,
+    "remake_of": 1220
+   },
+   {
+    "id": 1221
+   },
+   {
+    "id": 1223
+   },
+   {
+    "id": 1224
+   },
+   {
+    "id": 1225
+   },
+   {
+    "id": 1226
+   },
+   {
+    "id": 26676
+   },
+   {
+    "id": 2933
+   }
+  ],
+  "drop": [
+   109275
+  ],
+  "notes": "393742 is IGDB's original 2002 release; 1219 (588 ratings) is typed as its expanded game. Re:coded is listed without remake_of because its original (coded, 20285) is a mobile game. 0.2 counted as main as most players do; chi/Union chi, Dark Road and Melody of Memory left as spin-offs (Wikipedia does not classify them).",
+  "curated_at": "2026-10-30"
+ },
+ "Kirby": {
+  "franchise": "Kirby",
+  "source": "https://en.wikipedia.org/wiki/List_of_Kirby_media",
+  "main": [
+   {
+    "id": 1063
+   },
+   {
+    "id": 3717
+   },
+   {
+    "id": 3726,
+    "remake_of": 3717
+   },
+   {
+    "id": 3718
+   },
+   {
+    "id": 3719
+   },
+   {
+    "id": 2647,
+    "remake_of": 3719
+   },
+   {
+    "id": 3720
+   },
+   {
+    "id": 2713
+   },
+   {
+    "id": 3721
+   },
+   {
+    "id": 3723
+   },
+   {
+    "id": 3725
+   },
+   {
+    "id": 5440
+   },
+   {
+    "id": 18221
+   },
+   {
+    "id": 37137
+   },
+   {
+    "id": 172427
+   },
+   {
+    "id": 217565,
+    "remake_of": 3725
+   }
+  ],
+  "drop": [
+   134459,
+   134458,
+   271258,
+   271260,
+   271261,
+   271262,
+   271263,
+   271264,
+   271265,
+   271401,
+   271402,
+   271403,
+   271405,
+   271406,
+   271407,
+   271408,
+   271409,
+   271410,
+   271411,
+   271412
+  ],
+  "notes": "Main series follows Wikipedia's 'traditional platformers'. Kirby Super Star (3719) is typed as a bundle in IGDB. Return to Dream Land Deluxe (typed expanded game) is listed as a remake of Return to Dream Land. Dropped ids are the Super Star / Super Star Ultra sub-games that IGDB lists as separate games.",
+  "curated_at": "2026-10-30"
+ },
+ "Mario": {
+  "franchise": "Mario",
+  "source": "https://en.wikipedia.org/wiki/List_of_video_games_featuring_Mario",
+  "sections": [
+   {
+    "name": "Super Mario",
+    "games": [
+     {
+      "id": 358
+     },
+     {
+      "id": 1066
+     },
+     {
+      "id": 1067
+     },
+     {
+      "id": 1068
+     },
+     {
+      "id": 1069
+     },
+     {
+      "id": 1070
+     },
+     {
+      "id": 1071
+     },
+     {
+      "id": 1073
+     },
+     {
+      "id": 1074
+     },
+     {
+      "id": 1075
+     },
+     {
+      "id": 22301,
+      "remake_of": 1074
+     },
+     {
+      "id": 1076
+     },
+     {
+      "id": 1077
+     },
+     {
+      "id": 2178
+     },
+     {
+      "id": 1078
+     },
+     {
+      "id": 1079
+     },
+     {
+      "id": 1080
+     },
+     {
+      "id": 2171
+     },
+     {
+      "id": 2180
+     },
+     {
+      "id": 23796
+     },
+     {
+      "id": 26758
+     },
+     {
+      "id": 254339
+     }
+    ]
+   },
+   {
+    "name": "Mario Kart",
+    "games": [
+     {
+      "id": 2332
+     },
+     {
+      "id": 2342
+     },
+     {
+      "id": 2343
+     },
+     {
+      "id": 2344
+     },
+     {
+      "id": 2345
+     },
+     {
+      "id": 2183
+     },
+     {
+      "id": 2349
+     },
+     {
+      "id": 2350
+     },
+     {
+      "id": 338067
+     }
+    ]
+   },
+   {
+    "name": "Mario Party",
+    "games": [
+     {
+      "id": 2327
+     },
+     {
+      "id": 2328
+     },
+     {
+      "id": 2329
+     },
+     {
+      "id": 2330
+     },
+     {
+      "id": 2331
+     },
+     {
+      "id": 2333
+     },
+     {
+      "id": 2337
+     },
+     {
+      "id": 2334
+     },
+     {
+      "id": 2193
+     },
+     {
+      "id": 2335
+     },
+     {
+      "id": 2336
+     },
+     {
+      "id": 2338
+     },
+     {
+      "id": 7340
+     },
+     {
+      "id": 19599
+     },
+     {
+      "id": 66812
+     },
+     {
+      "id": 103339
+     },
+     {
+      "id": 152354
+     },
+     {
+      "id": 306148
+     }
+    ]
+   },
+   {
+    "name": "Paper Mario",
+    "games": [
+     {
+      "id": 3340
+     },
+     {
+      "id": 3349
+     },
+     {
+      "id": 2191
+     },
+     {
+      "id": 3350
+     },
+     {
+      "id": 18169
+     },
+     {
+      "id": 133923
+     },
+     {
+      "id": 266690,
+      "remake_of": 3349
+     }
+    ]
+   },
+   {
+    "name": "Mario & Luigi",
+    "games": [
+     {
+      "id": 3351
+     },
+     {
+      "id": 3364
+     },
+     {
+      "id": 3363
+     },
+     {
+      "id": 3365
+     },
+     {
+      "id": 11195
+     },
+     {
+      "id": 270313,
+      "remake_of": 3351
+     },
+     {
+      "id": 270315,
+      "remake_of": 3363
+     },
+     {
+      "id": 306137
+     }
+    ]
+   },
+   {
+    "name": "Super Mario RPG",
+    "games": [
+     {
+      "id": 5418
+     },
+     {
+      "id": 254327,
+      "remake_of": 5418
+     }
+    ]
+   },
+   {
+    "name": "Mario + Rabbids",
+    "games": [
+     {
+      "id": 28414
+     },
+     {
+      "id": 152201
+     }
+    ]
+   },
+   {
+    "name": "Mario Golf",
+    "games": [
+     {
+      "id": 3401
+     },
+     {
+      "id": 3403
+     },
+     {
+      "id": 3404
+     },
+     {
+      "id": 3405
+     },
+     {
+      "id": 143609
+     }
+    ]
+   },
+   {
+    "name": "Mario Tennis",
+    "games": [
+     {
+      "id": 20386
+     },
+     {
+      "id": 3406
+     },
+     {
+      "id": 3985
+     },
+     {
+      "id": 6504
+     },
+     {
+      "id": 5712
+     },
+     {
+      "id": 11220
+     },
+     {
+      "id": 81145
+     },
+     {
+      "id": 366880
+     }
+    ]
+   },
+   {
+    "name": "Mario Strikers",
+    "games": [
+     {
+      "id": 2256
+     },
+     {
+      "id": 2255
+     },
+     {
+      "id": 191398
+     }
+    ]
+   },
+   {
+    "name": "Mario Baseball",
+    "games": [
+     {
+      "id": 3986
+     },
+     {
+      "id": 3987
+     }
+    ]
+   },
+   {
+    "name": "Mario & Sonic",
+    "games": [
+     {
+      "id": 2706
+     },
+     {
+      "id": 2707
+     },
+     {
+      "id": 2708
+     },
+     {
+      "id": 3990
+     },
+     {
+      "id": 11258
+     },
+     {
+      "id": 116795
+     }
+    ]
+   },
+   {
+    "name": "Other Mario sports",
+    "games": [
+     {
+      "id": 3988
+     },
+     {
+      "id": 3989
+     },
+     {
+      "id": 26939
+     }
+    ]
+   },
+   {
+    "name": "Dr. Mario",
+    "games": [
+     {
+      "id": 3476
+     },
+     {
+      "id": 3475
+     },
+     {
+      "id": 21910
+     },
+     {
+      "id": 47847
+     },
+     {
+      "id": 11068
+     }
+    ]
+   },
+   {
+    "name": "Mario vs. Donkey Kong",
+    "games": [
+     {
+      "id": 6505
+     },
+     {
+      "id": 6506
+     },
+     {
+      "id": 48032
+     },
+     {
+      "id": 21093
+     },
+     {
+      "id": 8594
+     },
+     {
+      "id": 266674,
+      "remake_of": 6505
+     }
+    ]
+   },
+   {
+    "name": "Mario Picross",
+    "games": [
+     {
+      "id": 71976
+     },
+     {
+      "id": 80174
+     },
+     {
+      "id": 49080
+     }
+    ]
+   },
+   {
+    "name": "Super Mario Maker",
+    "games": [
+     {
+      "id": 7339
+     },
+     {
+      "id": 115276
+     }
+    ]
+   },
+   {
+    "name": "Other Mario games",
+    "games": [
+     {
+      "id": 3105
+     },
+     {
+      "id": 41420
+     },
+     {
+      "id": 8203
+     }
+    ]
+   }
+  ],
+  "drop": [
+   1627,
+   9621,
+   60852,
+   90109,
+   109455
+  ],
+  "notes": "Sections follow Wikipedia's List of video games featuring Mario. Super Mario Bros. 2 (1067) is typed as a port of Doki Doki Panic in IGDB. Yoshi's Island is kept in Super Mario because Wikipedia lists it there. Super Mario Run is mobile but in Wikipedia's Super Mario list. Compilations (All-Stars, 3D All-Stars), Mario Kart 8 Deluxe and 3D World + Bowser's Fury are left out as re-releases; Super Mario Maker for 3DS is a port. Mario Kart Tour and Dr. Mario World (mobile) omitted. Drops: Smash Bros. and Luigi's Mansion entries attached to Mario.",
+  "curated_at": "2026-10-30"
+ },
+ "Mega Man": {
+  "franchise": "Mega Man",
+  "source": "https://en.wikipedia.org/wiki/List_of_Mega_Man_video_games",
+  "sections": [
+   {
+    "name": "Mega Man (classic)",
+    "games": [
+     {
+      "id": 1714
+     },
+     {
+      "id": 170742,
+      "title": "Mega Man 2"
+     },
+     {
+      "id": 1716
+     },
+     {
+      "id": 1717
+     },
+     {
+      "id": 1733
+     },
+     {
+      "id": 1718
+     },
+     {
+      "id": 1734
+     },
+     {
+      "id": 1719
+     },
+     {
+      "id": 1735
+     },
+     {
+      "id": 1736
+     },
+     {
+      "id": 1720
+     },
+     {
+      "id": 1737
+     },
+     {
+      "id": 1721
+     },
+     {
+      "id": 1726
+     },
+     {
+      "id": 12937,
+      "remake_of": 1714
+     },
+     {
+      "id": 1722
+     },
+     {
+      "id": 1723
+     },
+     {
+      "id": 76723
+     }
+    ]
+   },
+   {
+    "name": "Mega Man X",
+    "games": [
+     {
+      "id": 1741
+     },
+     {
+      "id": 1742
+     },
+     {
+      "id": 1743
+     },
+     {
+      "id": 1744
+     },
+     {
+      "id": 1749
+     },
+     {
+      "id": 1745
+     },
+     {
+      "id": 1750
+     },
+     {
+      "id": 1746
+     },
+     {
+      "id": 1747
+     },
+     {
+      "id": 1748
+     },
+     {
+      "id": 1751
+     },
+     {
+      "id": 24275,
+      "remake_of": 1741
+     }
+    ]
+   },
+   {
+    "name": "Mega Man Legends",
+    "games": [
+     {
+      "id": 1752
+     },
+     {
+      "id": 1753
+     },
+     {
+      "id": 1754
+     }
+    ]
+   },
+   {
+    "name": "Mega Man Battle Network",
+    "games": [
+     {
+      "id": 1755
+     },
+     {
+      "id": 1756
+     },
+     {
+      "id": 1758
+     },
+     {
+      "id": 1757
+     },
+     {
+      "id": 1759
+     },
+     {
+      "id": 1760
+     },
+     {
+      "id": 1761
+     },
+     {
+      "id": 1762
+     },
+     {
+      "id": 352771,
+      "title": "Mega Man Battle Network 6: Cybeast Falzar"
+     },
+     {
+      "id": 352770,
+      "title": "Mega Man Battle Network 6: Cybeast Gregar"
+     }
+    ]
+   },
+   {
+    "name": "Mega Man Zero",
+    "games": [
+     {
+      "id": 1775
+     },
+     {
+      "id": 1776
+     },
+     {
+      "id": 1777
+     },
+     {
+      "id": 1778
+     }
+    ]
+   },
+   {
+    "name": "Mega Man ZX",
+    "games": [
+     {
+      "id": 1779
+     },
+     {
+      "id": 1780
+     }
+    ]
+   },
+   {
+    "name": "Mega Man Star Force",
+    "games": [
+     {
+      "id": 1781
+     },
+     {
+      "id": 1782
+     },
+     {
+      "id": 1783
+     },
+     {
+      "id": 1785
+     },
+     {
+      "id": 1784
+     },
+     {
+      "id": 1787
+     },
+     {
+      "id": 1786
+     }
+    ]
+   }
+  ],
+  "drop": [],
+  "notes": "Sub-series as on Wikipedia. Mega Man 2 uses the original 1988 Rockman 2 entry (170742); the English 1715 is typed as its expanded game. BN6 uses the original Rockman EXE 6 entries because IGDB types the English ones as expanded games. Game Boy titles (Dr. Wily's Revenge, II to V) sit in the classic timeline as Wikipedia does.",
+  "curated_at": "2026-10-30"
+ },
+ "Metal Gear Solid": {
+  "franchise": "Metal Gear Solid",
+  "source": "https://en.wikipedia.org/wiki/List_of_Metal_Gear_media",
+  "main": [
+   {
+    "id": 374
+   },
+   {
+    "id": 377
+   },
+   {
+    "id": 375
+   },
+   {
+    "id": 376
+   },
+   {
+    "id": 379
+   },
+   {
+    "id": 4006,
+    "remake_of": 375
+   },
+   {
+    "id": 380
+   },
+   {
+    "id": 382
+   },
+   {
+    "id": 5328
+   },
+   {
+    "id": 1985
+   },
+   {
+    "id": 250634,
+    "remake_of": 379
+   }
+  ],
+  "spin": [
+   {
+    "id": 12211
+   },
+   {
+    "id": 9886
+   },
+   {
+    "id": 22703
+   },
+   {
+    "id": 7848
+   }
+  ],
+  "drop": [
+   139343,
+   77232
+  ],
+  "notes": "Includes Metal Gear (1987) and Metal Gear 2: Solid Snake, which IGDB attaches only to its 'Metal Gear' franchise, along with The Twin Snakes, Acid, Acid 2, Survive and Snake's Revenge. Rising, Ghost Babel and Portable Ops are spin-offs per Wikipedia. Dropped: Document of MGS2 and Digital Graphic Novel (not games).",
+  "curated_at": "2026-10-30"
+ },
+ "Metroid": {
+  "franchise": "Metroid",
+  "source": "https://en.wikipedia.org/wiki/Metroid",
+  "main": [
+   {
+    "id": 342602
+   },
+   {
+    "id": 1102
+   },
+   {
+    "id": 1103
+   },
+   {
+    "id": 1104
+   },
+   {
+    "id": 1105
+   },
+   {
+    "id": 1107,
+    "remake_of": 342602
+   },
+   {
+    "id": 1108
+   },
+   {
+    "id": 1111
+   },
+   {
+    "id": 1113
+   },
+   {
+    "id": 37140,
+    "remake_of": 1102
+   },
+   {
+    "id": 15698
+   },
+   {
+    "id": 37136
+   }
+  ],
+  "drop": [
+   1628,
+   9602,
+   90101
+  ],
+  "notes": "342602 is IGDB's original 1986 Famicom Disk release; 1101 (242 ratings) is typed as its expanded game. Prime Hunters, Pinball and Federation Force are spin-offs. Metroid Prime Remastered is a remaster and is not listed. Dropped: Smash Bros. games.",
+  "curated_at": "2026-10-30"
+ },
+ "Monster Hunter": {
+  "franchise": "Monster Hunter",
+  "source": "https://en.wikipedia.org/wiki/Monster_Hunter",
+  "main": [
+   {
+    "id": 69721
+   },
+   {
+    "id": 70413
+   },
+   {
+    "id": 2269
+   },
+   {
+    "id": 43668
+   },
+   {
+    "id": 23066
+   },
+   {
+    "id": 20427
+   },
+   {
+    "id": 2268
+   },
+   {
+    "id": 42759
+   },
+   {
+    "id": 2271
+   },
+   {
+    "id": 65676
+   },
+   {
+    "id": 6440
+   },
+   {
+    "id": 18181
+   },
+   {
+    "id": 25623
+   },
+   {
+    "id": 36926
+   },
+   {
+    "id": 113344
+   },
+   {
+    "id": 138950
+   },
+   {
+    "id": 172425
+   },
+   {
+    "id": 279661
+   }
+  ],
+  "drop": [
+   335863
+  ],
+  "notes": "Wikipedia's main series includes the G/Ultimate releases and the Portable/Freedom versions; IGDB types most of them as expanded games, so their ids are used. Iceborne and Sunbreak are expansions (type 2) that Wikipedia lists with the main series; remove them if the timeline should hold only standalone games. Stories, Frontier, Online and mobile titles are spin-offs. Dropped: Digimon Color Monster Hunter (Digimon product).",
+  "curated_at": "2026-10-30"
+ },
+ "Mortal Kombat": {
+  "franchise": "Mortal Kombat",
+  "source": "https://en.wikipedia.org/wiki/List_of_Mortal_Kombat_media",
+  "main": [
+   {
+    "id": 1618
+   },
+   {
+    "id": 1619
+   },
+   {
+    "id": 1620
+   },
+   {
+    "id": 1622
+   },
+   {
+    "id": 1612
+   },
+   {
+    "id": 1613
+   },
+   {
+    "id": 1616
+   },
+   {
+    "id": 1617
+   },
+   {
+    "id": 119
+   },
+   {
+    "id": 7292
+   },
+   {
+    "id": 112916
+   },
+   {
+    "id": 239392
+   }
+  ],
+  "drop": [
+   218020,
+   265855
+  ],
+  "notes": "Twelve fighting games as listed by Wikipedia. Mythologies, Special Forces and Shaolin Monks are spin-offs. Ultimate MK3 and Trilogy are update releases and not listed separately. Dropped: Giga Fighters handheld toy and Puzzle Kombat (a minigame inside Deception).",
+  "curated_at": "2026-10-30"
+ },
+ "Need for Speed": {
+  "franchise": "Need for Speed",
+  "source": "https://en.wikipedia.org/wiki/List_of_Need_for_Speed_video_games",
+  "main": [
+   {
+    "id": 90
+   },
+   {
+    "id": 91
+   },
+   {
+    "id": 92
+   },
+   {
+    "id": 93
+   },
+   {
+    "id": 94
+   },
+   {
+    "id": 95
+   },
+   {
+    "id": 96
+   },
+   {
+    "id": 97
+   },
+   {
+    "id": 98
+   },
+   {
+    "id": 99
+   },
+   {
+    "id": 100
+   },
+   {
+    "id": 101
+   },
+   {
+    "id": 102
+   },
+   {
+    "id": 103
+   },
+   {
+    "id": 104
+   },
+   {
+    "id": 105
+   },
+   {
+    "id": 7115
+   },
+   {
+    "id": 526
+   },
+   {
+    "id": 3193
+   },
+   {
+    "id": 2074
+   },
+   {
+    "id": 26297
+   },
+   {
+    "id": 10965
+   },
+   {
+    "id": 36662
+   },
+   {
+    "id": 119161
+   },
+   {
+    "id": 219442
+   }
+  ],
+  "drop": [
+   301229,
+   25635
+  ],
+  "notes": "Matches Wikipedia's main table, including Shift, Shift 2, Nitro, World and the mobile No Limits. Hot Pursuit Remastered is a remaster. Dropped: Most Wanted demo and Edge (cancelled beta).",
+  "curated_at": "2026-10-30"
+ },
  "Ninja Gaiden": {
   "franchise": "Ninja Gaiden",
   "source": "https://en.wikipedia.org/wiki/Ninja_Gaiden",
