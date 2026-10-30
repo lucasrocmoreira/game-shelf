@@ -263,6 +263,34 @@ def merge(entries, match_info, igdb_games, overrides, ed):
 
 
 # ---------------------------------------------------------------- step 4: scores
+def original_years(igdb_client, games):
+    """Ports, remasters and editions are separate IGDB entries with their own (later) release date,
+    e.g. the 2015 Final Fantasy VII port. Record the original game's year as _orig_year."""
+    parents = {}
+    for gid, g in games.items():
+        t = g.get("game_type", g.get("category"))
+        t = t.get("id") if isinstance(t, dict) else t
+        parent = g.get("version_parent") or (g.get("parent_game") if t in (9, 10, 11) else None)  # remaster, expanded game, port
+        if isinstance(parent, dict):
+            parent = parent.get("id")
+        if parent:
+            parents[gid] = parent
+    ids = sorted(set(parents.values()))
+    years = {}
+    for i in range(0, len(ids), 200):
+        chunk = ",".join(map(str, ids[i : i + 200]))
+        for row in igdb_client.query("games", f"fields first_release_date; where id = ({chunk}); limit 500;"):
+            if row.get("first_release_date"):
+                years[row["id"]] = _year(row)
+    n = 0
+    for gid, parent in parents.items():
+        own = _year(games[gid])
+        if parent in years and (own is None or years[parent] < own):
+            games[gid]["_orig_year"] = years[parent]
+            n += 1
+    log(f"  IGDB: original release year found for {n} ports, remasters and editions")
+
+
 def _year(g):
     ts = (g or {}).get("first_release_date")
     return dt.datetime.fromtimestamp(ts, dt.timezone.utc).year if ts else None
@@ -448,6 +476,7 @@ def to_site_row(row, sc, hl=None):
         "platforms": sorted(row["platforms"], key=lambda p: (p not in ("Switch", "Switch 2", "PS5", "PS4", "Steam"), p)),
         "genres": genres_of(g) or sc.get("steam_genres") or [],
         "year": _year(g),
+        "orig_year": g.get("_orig_year") or _year(g),  # first release of the original, for ports and remasters
         "playtime": row["playtime_hours"],
         "last_played": row["last_played"],
         "cover": cover,
@@ -571,6 +600,10 @@ def main():
                         igdb_games[gid]["_ttb"] = t
             except Exception as e2:
                 log(f"  IGDB time-to-beat lookup failed ({type(e2).__name__}); continuing without it")
+            try:
+                original_years(igdb, igdb_games)
+            except Exception as e2:
+                log(f"  IGDB original-release lookup failed ({type(e2).__name__}); continuing without it")
             status["igdb"] = "ok"
         except Exception as e:
             log(f"!! IGDB failed: {e}")

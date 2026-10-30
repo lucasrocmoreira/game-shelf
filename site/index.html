@@ -577,12 +577,13 @@ function earliestUnplayed(g, pool){
   // Same series (IGDB collection), or, when IGDB lists no series, the same main franchise with no
   // spin-off series of its own. The earlier game must share a genre, so crossovers and spin-offs
   // in another genre don't count, and must be well reviewed.
-  if(!g.year) return null;
+  const yr = x=>x.orig_year||x.year;  // a 2015 port of a 1997 game counts as 1997
+  if(!yr(g)) return null;
   const genres = new Set(g.genres||[]), ser = g.series||[], fr = (g.franchises||[])[0];
   const same = ser.length ? x=>(x.series||[]).some(n=>ser.includes(n))
                           : x=>!!fr && (x.franchises||[])[0]===fr && !(x.series||[]).length;
-  const prev = pool.filter(x=>x!==g && x.year && x.year < g.year && same(x) && (x.genres||[]).some(n=>genres.has(n))
-                              && avg(x)!=null && avg(x) >= 70).sort((a,b)=>a.year-b.year);
+  const prev = pool.filter(x=>x!==g && yr(x) && yr(x) < yr(g) && same(x) && (x.genres||[]).some(n=>genres.has(n))
+                              && avg(x)!=null && avg(x) >= 70).sort((a,b)=>yr(a)-yr(b));
   return prev.length ? {game:prev[0]} : null;
 }
 function whereIs(g){
