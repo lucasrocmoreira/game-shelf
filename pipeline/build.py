@@ -263,30 +263,44 @@ def merge(entries, match_info, igdb_games, overrides, ed):
 
 
 # ---------------------------------------------------------------- step 4: scores
+def _parent(g):
+    t = g.get("game_type", g.get("category"))
+    t = t.get("id") if isinstance(t, dict) else t
+    p = g.get("version_parent") or (g.get("parent_game") if t in (9, 10, 11) else None)  # remaster, expanded game, port
+    return p.get("id") if isinstance(p, dict) else p
+
+
 def original_years(igdb_client, games):
     """Ports, remasters and editions are separate IGDB entries with their own (later) release date,
-    e.g. the 2015 Final Fantasy VII port. Record the original game's year as _orig_year."""
-    parents = {}
-    for gid, g in games.items():
-        t = g.get("game_type", g.get("category"))
-        t = t.get("id") if isinstance(t, dict) else t
-        parent = g.get("version_parent") or (g.get("parent_game") if t in (9, 10, 11) else None)  # remaster, expanded game, port
-        if isinstance(parent, dict):
-            parent = parent.get("id")
-        if parent:
-            parents[gid] = parent
-    ids = sorted(set(parents.values()))
-    years = {}
-    for i in range(0, len(ids), 200):
-        chunk = ",".join(map(str, ids[i : i + 200]))
-        for row in igdb_client.query("games", f"fields first_release_date; where id = ({chunk}); limit 500;"):
-            if row.get("first_release_date"):
-                years[row["id"]] = _year(row)
+    e.g. the 2015 Final Fantasy VII port of the 2012 PC re-release of the 1997 original. Follow the
+    chain up to the original and record its year as _orig_year."""
+    parent = {gid: _parent(g) for gid, g in games.items() if _parent(g)}
+    year = {gid: _year(g) for gid, g in games.items()}
+    todo = set(parent.values()) - set(year)
+    for _ in range(4):  # a few levels: port of a re-release of the original
+        if not todo:
+            break
+        ids, todo = sorted(todo), set()
+        for i in range(0, len(ids), 200):
+            chunk = ",".join(map(str, ids[i : i + 200]))
+            rows = igdb_client.query("games", f"fields first_release_date,version_parent,parent_game,game_type; where id = ({chunk}); limit 500;")
+            for row in rows:
+                year[row["id"]] = _year(row)
+                p = _parent(row)
+                if p:
+                    parent[row["id"]] = p
+                    if p not in year:
+                        todo.add(p)
     n = 0
-    for gid, parent in parents.items():
-        own = _year(games[gid])
-        if parent in years and (own is None or years[parent] < own):
-            games[gid]["_orig_year"] = years[parent]
+    for gid in games:
+        best, cur, seen = year.get(gid), gid, set()
+        while cur in parent and cur not in seen:
+            seen.add(cur)
+            cur = parent[cur]
+            if year.get(cur) and (best is None or year[cur] < best):
+                best = year[cur]
+        if best and best != year.get(gid):
+            games[gid]["_orig_year"] = best
             n += 1
     log(f"  IGDB: original release year found for {n} ports, remasters and editions")
 
