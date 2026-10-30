@@ -2624,11 +2624,13 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:279624",
-     "best": "igdb:279624",
+     "key": "igdb:4126",
+     "best": "igdb:43868",
      "why": [
-      "Top-rated game you haven't played (average 87)",
-      "Shorter than what you're playing: about 14h to beat"
+      "Play this game to get to the amazing Kurushi Final: Mental Blocks (83). It's the earliest entry in the series you haven't played.",
+      "A change of genre: Puzzle, Strategy",
+      "Shorter than what you're playing: about 3h to beat",
+      "Included with PS Plus"
      ],
      "sent": false
     },
@@ -2665,9 +2667,10 @@
     "igdb:143612",
     "igdb:83731",
     "igdb:12517",
-    "igdb:279624"
+    "igdb:279624",
+    "igdb:4126"
    ],
-   "date": "2026-10-30T18:58:15.685Z"
+   "date": "2026-10-30T18:58:22.198Z"
   },
   "ps3": {
    "slots": [
