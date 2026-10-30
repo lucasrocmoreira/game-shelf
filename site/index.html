@@ -574,17 +574,23 @@ const SUGGEST = {skip:new Set()};
 const LONG_GAME = 30, SHORT_GAME = 15;  // hours to beat the main story
 function seriesOf(g){ return [...(g.series||[]), ...(g.franchises||[])]; }
 function earliestUnplayed(g, pool){
-  // Same series (IGDB collection); the broader franchise only when IGDB lists no series.
-  for(const field of (g.series||[]).length ? ["series"] : ["franchises"]){
-    const names = g[field]||[]; if(!names.length || !g.year) continue;
-    const prev = pool.filter(x=>x!==g && x.year && x.year < g.year && (x[field]||[]).some(n=>names.includes(n)) && avg(x)!=null && avg(x) >= Math.max(70, (avg(g)??0) - 10))  // only when the earlier one holds up
-                     .sort((a,b)=>a.year-b.year);
-    if(prev.length) return {game:prev[0], field};
-  }
-  return null;
+  // Same series (IGDB collection), or, when IGDB lists no series, the same main franchise with no
+  // spin-off series of its own. The earlier game must share a genre, so crossovers and spin-offs
+  // in another genre don't count, and must be well reviewed.
+  if(!g.year) return null;
+  const genres = new Set(g.genres||[]), ser = g.series||[], fr = (g.franchises||[])[0];
+  const same = ser.length ? x=>(x.series||[]).some(n=>ser.includes(n))
+                          : x=>!!fr && (x.franchises||[])[0]===fr && !(x.series||[]).length;
+  const prev = pool.filter(x=>x!==g && x.year && x.year < g.year && same(x) && (x.genres||[]).some(n=>genres.has(n))
+                              && avg(x)!=null && avg(x) >= 70).sort((a,b)=>a.year-b.year);
+  return prev.length ? {game:prev[0]} : null;
+}
+function whereIs(g){
+  const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
+  return g._catalog ? `in the PS Plus catalog (${g.platforms.join(", ")})` : g.nso ? `Switch Online (${g.platforms.join(" + ")})` : `you have it on ${p.join(", ")}`;
 }
 function suggestions(){
-  const games = DATA.games.filter(g=>!g._hidden);
+  const games = DATA.games.filter(g=>!g._hidden), inTab = new Set(DATA.games.map(g=>g.key));
   const playing = games.filter(g=>g._playing);
   const current = playing.length ? playing : allGames().filter(g=>g._playing && !g._hidden);
   const curGenres = new Set(current.flatMap(g=>g.genres||[]));
@@ -619,8 +625,11 @@ function suggestions(){
     }
     if(!best) break;
     let game = best, why = [];
-    const prev = earliestUnplayed(best, pool.filter(x=>!SUGGEST.skip.has(x.key) && !picks.some(p=>p.game===x)));
-    if(prev){ game = prev.game; why.push(`Comes before ${best.title} (${avg(best)}), which you haven't played either`); }
+    // Earlier entries are looked up across everything you have: every console, PS Plus and Switch Online.
+    const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !picks.some(p=>p.game===x));
+    const prev = earliestUnplayed(best, everywhere);
+    if(prev){ game = prev.game; why.push(`The earliest entry you haven't played in the series of ${best.title} (${avg(best)})`);
+      if(!inTab.has(game.key)) why.push(`Not on this console: ${whereIs(game)}`); }
     else why.push(`Top-rated game you haven't played (average ${avg(game)})`);
     const others = (game.genres||[]).filter(x=>!curGenres.has(x));
     if(current.length && others.length && !(game.genres||[]).some(x=>curGenres.has(x))) why.push(`A change of genre: ${others.slice(0,2).join(", ")}`);
@@ -628,7 +637,7 @@ function suggestions(){
     if(want==="short" && h && h <= 25) why.push(`Shorter than what you're playing: about ${hrs(h)} to beat`);
     else if(want==="long" && h && h >= 20) why.push(`A longer one this time: about ${hrs(h)} to beat`);
     else if(h) why.push(`About ${hrs(h)} to beat`);
-    if(game._catalog) why.push("Included with PS Plus");
+    if(game._catalog && inTab.has(game.key)) why.push("Included with PS Plus");
     picks.push({game, why});
     for(const x of game.genres||[]) usedGenres.set(x, true);
     for(const x of [...seriesOf(game), ...seriesOf(best)]) usedSeries.add(x);
