@@ -2667,6 +2667,44 @@
     "igdb:83731"
    ],
    "date": "2026-10-30T18:35:28.825Z"
+  },
+  "ps3": {
+   "slots": [
+    {
+     "key": "igdb:376",
+     "best": "igdb:376",
+     "why": [
+      "Top-rated game you haven't played (average 91)",
+      "Shorter than what you're playing: about 15.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1798",
+     "best": "igdb:7458",
+     "why": [
+      "Play this game to get to the amazing The Sly Collection (84). It's the earliest entry in the series you haven't played.",
+      "Not on this console: in the PS Plus catalog (PS4, PS5, PS2)",
+      "Shorter than what you're playing: about 7.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:117882",
+     "best": "igdb:117882",
+     "why": [
+      "Top-rated game you haven't played (average 82)",
+      "Shorter than what you're playing: about 11h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:376",
+    "igdb:1798",
+    "igdb:117882"
+   ],
+   "date": "2026-10-30T18:35:37.992Z"
   }
  }
 }
