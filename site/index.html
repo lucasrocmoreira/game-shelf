@@ -59,12 +59,14 @@ body.view-psplus .lib-only{display:none}
 .now-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:0 0 10px}
 .now-head h2{margin:0}
 .picks{display:grid;gap:10px}
-.pick{all:unset;cursor:pointer;display:grid;grid-template-columns:64px minmax(0,1fr) auto;gap:12px;align-items:start;padding:10px;border:1px solid var(--line);border-radius:12px;background:var(--bg)}
+.pick{cursor:pointer;display:grid;grid-template-columns:64px minmax(0,1fr) auto;gap:12px;align-items:start;padding:10px;border:1px solid var(--line);border-radius:12px;background:var(--bg)}
 .pick:focus-visible{outline:2px solid var(--accent)}
 .pick img{width:64px;aspect-ratio:264/374;object-fit:cover;border-radius:6px;background:var(--line)}
 .pick b{font:650 16px/1.2 var(--display);display:block}
 .pick ul{margin:4px 0 0;padding-left:16px;font-size:13px;color:var(--muted)}
 .pick .score{font-size:24px;min-width:0}
+.pick-side{display:grid;gap:8px;justify-items:end;align-content:space-between;height:100%}
+.swap{font-size:12px;padding:4px 10px;white-space:nowrap}
 .sheet-game{display:block;border:0;padding:0}
 .sheet-game .detail{padding-top:0}
 
@@ -574,8 +576,9 @@ function render(){
    - if a pick has an earlier unplayed entry in the same series, that one comes first;
    - a change of pace from what you're playing now: other genres and franchises, and a
      shorter game after a long one (or a longer one after a short one);
-   - the three picks also differ from each other. "Suggest others" skips the ones shown. */
-const SUGGEST = {skip:new Set()};
+   - the three picks also differ from each other. "Replace" swaps one pick (or all
+     three) for the next best, never showing the same game twice. */
+const SUGGEST = {skip:new Set(), slots:[null,null,null]};
 const LONG_GAME = 30, SHORT_GAME = 15;  // hours to beat the main story
 function seriesOf(g){ return [...(g.series||[]), ...(g.franchises||[])]; }
 function earliestUnplayed(g, pool){
@@ -595,7 +598,7 @@ function whereIs(g){
   const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
   return g._catalog ? `in the PS Plus catalog (${g.platforms.join(", ")})` : g.nso ? `Switch Online (${g.platforms.join(" + ")})` : `you have it on ${p.join(", ")}`;
 }
-function suggestions(){
+function suggestions(keep=[null,null,null]){
   const games = DATA.games.filter(g=>!g._hidden), inTab = new Set(DATA.games.map(g=>g.key));
   const playing = games.filter(g=>g._playing);
   const current = playing.length ? playing : allGames().filter(g=>g._playing && !g._hidden);
@@ -609,7 +612,11 @@ function suggestions(){
     if(h && g.playtime && g.playtime >= h*0.9) return false;  // probably finished, just not marked
     return true;
   });
-  const usedGenres = new Map(), usedSeries = new Set(), picks = [];
+  const usedGenres = new Map(), usedSeries = new Set(), slots = keep.slice();
+  const taken = g=>slots.some(p=>p && p.game===g);
+  const register = p=>{ for(const x of p.game.genres||[]) usedGenres.set(x, true);
+                        for(const x of [...seriesOf(p.game), ...seriesOf(p.best||p.game)]) usedSeries.add(x); };
+  slots.forEach(p=>{ if(p) register(p); });  // picks you kept shape the replacements
   const rate = g=>{
     const a = avg(g); if(a==null) return null;
     let s = a; const why = [];
@@ -624,15 +631,16 @@ function suggestions(){
     return s;
   };
   for(let n=0; n<3; n++){
+    if(slots[n]) continue;
     let best = null, bestS = -1e9;
     for(const g of pool){
-      if(SUGGEST.skip.has(g.key) || picks.some(p=>p.game===g)) continue;
+      if(SUGGEST.skip.has(g.key) || taken(g)) continue;
       const s = rate(g); if(s!=null && s > bestS){ best = g; bestS = s; }
     }
-    if(!best) break;
+    if(!best) continue;
     let game = best, why = [];
     // Earlier entries are looked up across everything you have: every console, PS Plus and Switch Online.
-    const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !picks.some(p=>p.game===x));
+    const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !taken(x));
     const prev = earliestUnplayed(best, everywhere);
     if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest entry in the series you haven't played.`);
       if(!inTab.has(game.key)) why.push(`Not on this console: ${whereIs(game)}`); }
@@ -644,34 +652,40 @@ function suggestions(){
     else if(want==="long" && h && h >= 20) why.push(`A longer one this time: about ${hrs(h)} to beat`);
     else if(h) why.push(`About ${hrs(h)} to beat`);
     if(game._catalog && inTab.has(game.key)) why.push("Included with PS Plus");
-    picks.push({game, why});
-    for(const x of game.genres||[]) usedGenres.set(x, true);
-    for(const x of [...seriesOf(game), ...seriesOf(best)]) usedSeries.add(x);
+    slots[n] = {game, why, best};
+    register(slots[n]);
   }
-  return {picks, current, want};
+  return {slots, picks:slots.filter(Boolean), current, want};
 }
-function openSuggest(reroll){
-  if(!reroll) SUGGEST.skip = new Set();
-  const {picks, current, want} = suggestions();
+function openSuggest(mode){
+  // mode: undefined = fresh picks, "all" = replace all three, a number = replace just that one
+  if(mode===undefined){ SUGGEST.skip = new Set(); SUGGEST.slots = [null,null,null]; }
+  else if(mode==="all") SUGGEST.slots = [null,null,null];
+  else SUGGEST.slots = SUGGEST.slots.map((p,i)=>i===mode ? null : p);
+  const {slots, picks, current, want} = suggestions(SUGGEST.slots);
+  SUGGEST.slots = slots;
   for(const p of picks) SUGGEST.skip.add(p.game.key);
   const basis = current.length ? `Based on ${current.map(g=>esc(g.title)).slice(0,3).join(", ")}${want==="short"?", a long one, so these lean shorter":want==="long"?", a short one, so these lean longer":""}.`
                                : "Nothing is pinned to Playing now, so these are your best-rated unplayed games.";
   sheet(`<h2>Play next on ${esc(CONSOLES[state.view].label)}</h2>
     <p>${basis}</p>
-    ${picks.length ? `<div class="picks">${picks.map(({game:g,why})=>{ const a=avg(g); return `<button type="button" class="pick" data-key="${esc(g.key)}">
+    ${picks.length ? `<div class="picks">${slots.map((p,i)=>{ if(!p) return ""; const {game:g,why}=p, a=avg(g); return `<div class="pick" role="button" tabindex="0" data-key="${esc(g.key)}">
       ${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<img alt="">`}
       <span><b>${esc(g.title)}</b><span class="na">${[esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" · ")}</span><ul>${why.map(w=>`<li>${esc(w)}</li>`).join("")}</ul></span>
-      <span class="score ${tone(a)}">${a??"–"}</span></button>`; }).join("")}</div>`
+      <span class="pick-side"><span class="score ${tone(a)}">${a??"–"}</span>
+        <button type="button" class="iconbtn swap" data-swap="${i}" aria-label="Replace ${esc(g.title)} with another suggestion">↻ Replace</button></span></div>`; }).join("")}</div>`
       : `<p>No more unplayed games with scores on this console.</p>`}
     <div class="btns">
       <button value="cancel" class="iconbtn">Close</button>
-      ${picks.length?`<button type="button" class="iconbtn primary" id="reroll">Suggest others</button>`:""}
+      ${picks.length?`<button type="button" class="iconbtn primary" id="reroll">Replace all three</button>`:""}
     </div>`);
   $("sheet").onclick = e=>{
-    if(e.target.closest("#reroll")){ openSuggest(true); return; }
+    if(e.target.closest("#reroll")){ openSuggest("all"); return; }
+    const sw = e.target.closest("[data-swap]"); if(sw){ openSuggest(+sw.dataset.swap); return; }
     const b = e.target.closest(".pick"); if(!b) return;
-    const g = DATA.games.find(x=>x.key===b.dataset.key); if(g) openGame(g);
+    const g = allGames().find(x=>x.key===b.dataset.key); if(g) openGame(g);  // may be on another console
   };
+  $("sheet").onkeydown = e=>{ if(e.key==="Enter" && e.target.classList.contains("pick")){ e.preventDefault(); e.target.click(); } };
 }
 
 /* ---------------- Sheets ---------------- */
