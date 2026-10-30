@@ -2624,13 +2624,13 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:404052",
-     "best": "igdb:404052",
+     "key": "igdb:49875",
+     "best": "igdb:135999",
      "why": [
-      "Top-rated game you haven't played (average 82)",
-      "A change of genre: Music",
-      "Shorter than what you're playing: about 4.5h to beat",
-      "Included with PS Plus"
+      "Play this game to get to the amazing Tetris Effect: Connected (88). It's the earliest Tetris game you haven't played.",
+      "Not on this console: Switch Online (Switch + Game Boy)",
+      "A change of genre: Puzzle, Strategy",
+      "Shorter than what you're playing: about 1.5h to beat"
      ],
      "sent": false
     },
@@ -2660,19 +2660,9 @@
    "skip": [
     "igdb:49875",
     "igdb:18696",
-    "igdb:170995",
-    "igdb:18599",
-    "igdb:135999",
-    "igdb:26226",
-    "igdb:143612",
-    "igdb:83731",
-    "igdb:12517",
-    "igdb:279624",
-    "igdb:4126",
-    "igdb:43868",
-    "igdb:404052"
+    "igdb:170995"
    ],
-   "date": "2026-10-30T18:58:28.294Z"
+   "date": "2026-10-30T18:58:30.380Z"
   },
   "ps3": {
    "slots": [
