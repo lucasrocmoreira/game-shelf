@@ -654,7 +654,7 @@ function earliestUnplayed(g, pool){
 function consoleFor(g){  // the console tab a game from elsewhere can be sent to
   const catalogOnly = g._catalog || !((VIEWS.library.data||{}).games||[]).some(x=>x.key===g.key);
   if(catalogOnly) return state.view==="ps5" ? null : "ps5";
-  const hit = Object.entries(CONSOLES).find(([k,c])=>k!==state.view && g.platforms.some(p=>c.plats.includes(p)));
+  const hit = Object.entries(CONSOLES).find(([k,c])=>k!==state.view && c.plats && g.platforms.some(p=>c.plats.includes(p)));  // VR has no platform list
   return hit ? hit[0] : null;
 }
 function sentHere(){  // suggestions sent to this console from another tab, newest first, still unplayed
