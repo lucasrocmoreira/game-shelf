@@ -3481,5 +3481,1405 @@
   ],
   "notes": "Per Wikipedia, Like a Dragon Gaiden and Pirate Yakuza in Hawaii are spin-offs (some players count Gaiden as mainline). Like a Dragon: Ishin! remakes a spin-off, so it is not main. Dropped: Infinite Wealth trial version and two free-to-play app versions of Ishin! and 0.",
   "curated_at": "2026-10-30"
+ },
+ "Age of Empires": {
+  "franchise": "Age of Empires",
+  "source": "https://en.wikipedia.org/wiki/Age_of_Empires",
+  "main": [
+   {
+    "id": 289
+   },
+   {
+    "id": 327
+   },
+   {
+    "id": 299
+   },
+   {
+    "id": 55029
+   }
+  ],
+  "spin": [
+   {
+    "id": 24273,
+    "title": "Age of Empires: The Age of Kings (DS)"
+   },
+   {
+    "name": "Age of Empires Mobile",
+    "year": 2024
+   }
+  ],
+  "notes": "Wikipedia counts the four numbered games as main; Age of Mythology (and its Retold remake) is called a spin-off. Definitive Editions are remasters, not listed as main.",
+  "curated_at": "2026-10-30"
+ },
+ "Alien": {
+  "franchise": "Alien",
+  "exclude": true,
+  "notes": "Film license umbrella (Wikipedia: List of Alien, Predator, and Alien vs. Predator games): unrelated tie-ins and standalone games by many developers, no main game series.",
+  "curated_at": "2026-10-30"
+ },
+ "Anno": {
+  "franchise": "Anno",
+  "source": "https://en.wikipedia.org/wiki/Anno_(video_game_series)",
+  "main": [
+   {
+    "id": 303
+   },
+   {
+    "id": 300
+   },
+   {
+    "id": 8225
+   },
+   {
+    "id": 662,
+    "title": "Anno 1404"
+   },
+   {
+    "id": 2959
+   },
+   {
+    "id": 11205
+   },
+   {
+    "id": 55036
+   },
+   {
+    "id": 305246
+   }
+  ],
+  "notes": "IGDB names Anno 1404 by its North American title 'Dawn of Discovery'. DS/Wii games and Anno Online are spin-offs.",
+  "curated_at": "2026-10-30"
+ },
+ "Bioshock": {
+  "franchise": "Bioshock",
+  "source": "https://en.wikipedia.org/wiki/BioShock",
+  "main": [
+   {
+    "id": 20
+   },
+   {
+    "id": 21
+   },
+   {
+    "id": 538
+   }
+  ],
+  "drop": [
+   95001
+  ],
+  "curated_at": "2026-10-30"
+ },
+ "Danganronpa": {
+  "franchise": "Danganronpa",
+  "source": "https://en.wikipedia.org/wiki/Danganronpa",
+  "main": [
+   {
+    "id": 7842
+   },
+   {
+    "id": 9694
+   },
+   {
+    "id": 12579
+   }
+  ],
+  "drop": [
+   140017,
+   282660
+  ],
+  "notes": "Wikipedia calls Ultra Despair Girls and Unlimited Battle spin-offs; main series is the numbered trilogy. Danganronpa 2x2 (2027) not yet released.",
+  "curated_at": "2026-10-30"
+ },
+ "Deus Ex": {
+  "franchise": "Deus Ex",
+  "source": "https://en.wikipedia.org/wiki/Deus_Ex",
+  "main": [
+   {
+    "id": 41
+   },
+   {
+    "id": 42
+   },
+   {
+    "id": 43
+   },
+   {
+    "id": 9498
+   }
+  ],
+  "drop": [
+   276277
+  ],
+  "curated_at": "2026-10-30"
+ },
+ "Divinity": {
+  "franchise": "Divinity",
+  "source": "https://en.wikipedia.org/wiki/Divinity_(series)",
+  "main": [
+   {
+    "id": 671
+   },
+   {
+    "id": 9781
+   },
+   {
+    "id": 6358
+   },
+   {
+    "id": 5082
+   },
+   {
+    "id": 11800
+   }
+  ],
+  "drop": [
+   116642
+  ],
+  "notes": "Wikipedia calls Dragon Commander a spin-off. Beyond Divinity kept as main (core RPG line). Fallen Heroes was cancelled; new 'Divinity' unreleased.",
+  "curated_at": "2026-10-30"
+ },
+ "F.E.A.R.": {
+  "franchise": "F.E.A.R.",
+  "source": "https://en.wikipedia.org/wiki/F.E.A.R.",
+  "main": [
+   {
+    "id": 517
+   },
+   {
+    "id": 520
+   },
+   {
+    "id": 514
+   }
+  ],
+  "notes": "Extraction Point and Perseus Mandate are expansions; Combat and Online are multiplayer spin-offs.",
+  "curated_at": "2026-10-30"
+ },
+ "Ghosts 'n Goblins": {
+  "franchise": "Ghosts 'n Goblins",
+  "source": "https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins",
+  "main": [
+   {
+    "id": 6807
+   },
+   {
+    "id": 6817
+   },
+   {
+    "id": 6621,
+    "title": "Super Ghouls 'n Ghosts"
+   },
+   {
+    "name": "Makaimura for WonderSwan",
+    "year": 1999
+   },
+   {
+    "id": 219488,
+    "title": "Chōmakaimura R",
+    "remake_of": 6621
+   },
+   {
+    "id": 12481
+   },
+   {
+    "id": 63644,
+    "title": "Gokumakaimura Kai",
+    "remake_of": 12481
+   },
+   {
+    "name": "Ghosts'n Goblins: Gold Knights",
+    "year": 2009
+   },
+   {
+    "name": "Ghosts'n Goblins: Gold Knights II",
+    "year": 2010
+   },
+   {
+    "id": 141545
+   }
+  ],
+  "spin": [
+   {
+    "name": "Nazo Makaimura: Incredible Toons",
+    "year": 1996
+   }
+  ],
+  "drop": [
+   297480
+  ],
+  "notes": "Follows Wikipedia's Arthur games list, which includes the remixes Chōmakaimura R (GBA, IGDB has it only as an expanded edition of Super Ghouls 'n Ghosts) and Gokumakaimura Kai. Gargoyle's Quest/Demon's Crest and Maximo are spin-offs. Ghosts 'n Goblins 64 was cancelled.",
+  "curated_at": "2026-10-30"
+ },
+ "Golden Sun": {
+  "franchise": "Golden Sun",
+  "source": "https://en.wikipedia.org/wiki/Golden_Sun",
+  "main": [
+   {
+    "id": 1172
+   },
+   {
+    "id": 1173
+   },
+   {
+    "id": 1174
+   }
+  ],
+  "drop": [
+   356272
+  ],
+  "notes": "Wikipedia lists only the three main games, no spin-offs. 356272 is an undated N64 'Golden Sun' entry (unreleased prototype), dropped.",
+  "curated_at": "2026-10-30"
+ },
+ "Harvest Moon / Story of Seasons": {
+  "franchise": "Harvest Moon / Story of Seasons",
+  "source": "https://en.wikipedia.org/wiki/List_of_Story_of_Seasons_video_games",
+  "main": [
+   {
+    "id": 3376
+   },
+   {
+    "id": 3377
+   },
+   {
+    "id": 3378
+   },
+   {
+    "id": 3379
+   },
+   {
+    "id": 3380
+   },
+   {
+    "id": 3381
+   },
+   {
+    "id": 73430,
+    "title": "Harvest Moon for Girl"
+   },
+   {
+    "id": 3382
+   },
+   {
+    "id": 3383
+   },
+   {
+    "id": 3384
+   },
+   {
+    "id": 49188
+   },
+   {
+    "id": 78872
+   },
+   {
+    "id": 206848,
+    "title": "Harvest Moon: Magical Melody"
+   },
+   {
+    "id": 3385
+   },
+   {
+    "id": 47699
+   },
+   {
+    "id": 3387
+   },
+   {
+    "id": 3388
+   },
+   {
+    "id": 3389
+   },
+   {
+    "id": 3390
+   },
+   {
+    "id": 3391
+   },
+   {
+    "id": 42887
+   },
+   {
+    "id": 3392
+   },
+   {
+    "id": 3393,
+    "title": "Harvest Moon 3D: A New Beginning"
+   },
+   {
+    "id": 8608
+   },
+   {
+    "id": 15910
+   },
+   {
+    "id": 120300,
+    "remake_of": 3383
+   },
+   {
+    "id": 140500
+   },
+   {
+    "name": "Story of Seasons: A Wonderful Life",
+    "year": 2023,
+    "remake_of": 3384
+   },
+   {
+    "id": 337026,
+    "remake_of": 3391
+   }
+  ],
+  "notes": "Main series per Wikipedia's Story of Seasons list (Bokujo Monogatari, released in the West as Harvest Moon until 2014). Wikipedia also lists the variant releases For Girl, More Friends of Mineral Town, Another Wonderful Life and DS Cute as main entries, so they are included. Bokujou Monogatari: Shiawase no Uta (JP 2005) is the original of Magical Melody, titled with the Western name; IGDB 3386 (Magical Melody) is its expanded version. Story of Seasons: A Wonderful Life (2023) is not in the cache, given by name. Spin-offs per Wikipedia (Innocent Life, Puzzle de Harvest Moon, My Little Shop, Frantic Farming, Hometown Story, PopoloCrois, Doraemon games, Rune Factory) and Natsume's own later Harvest Moon series (Lost Valley, Skytree Village, Light of Hope, One World, Winds of Anthos, Echoes of Teradea...) are left as spin-offs via IGDB. Harvest Moon: Boy & Girl (PSP compilation) and Tale of Two Towns+ (3DS port) not listed as main.",
+  "curated_at": "2026-10-30"
+ },
+ "Horizon": {
+  "franchise": "Horizon",
+  "source": "https://en.wikipedia.org/wiki/Horizon_(video_game_series)",
+  "main": [
+   {
+    "id": 11156
+   },
+   {
+    "id": 112874
+   }
+  ],
+  "notes": "Wikipedia: Zero Dawn and Forbidden West are the main installments; Call of the Mountain (VR) and LEGO Horizon Adventures are spin-offs (already attached by IGDB). Zero Dawn Remastered is a remaster, not listed as main. Steel Frontiers and Hunters Gathering are unreleased.",
+  "curated_at": "2026-10-30"
+ },
+ "Jurassic Park": {
+  "franchise": "Jurassic Park",
+  "exclude": true,
+  "notes": "Movie tie-in umbrella: Wikipedia's 'Jurassic Park video games' article describes a collection of licensed games by many developers per film, with no main series. Only Jurassic World Evolution (Frontier) forms a coherent sub-series.",
+  "curated_at": "2026-10-30"
+ },
+ "LittleBigPlanet": {
+  "franchise": "LittleBigPlanet",
+  "source": "https://en.wikipedia.org/wiki/LittleBigPlanet",
+  "main": [
+   {
+    "id": 1058
+   },
+   {
+    "id": 21911,
+    "title": "LittleBigPlanet (PSP)"
+   },
+   {
+    "id": 2140
+   },
+   {
+    "id": 95002
+   },
+   {
+    "id": 7330
+   }
+  ],
+  "drop": [
+   77349
+  ],
+  "notes": "Wikipedia says the series 'comprises six games' without naming them; its timeline also has Prehistoric Moves (called a spin-off), Karting, Run Sackboy! Run!, Sackboy: A Big Adventure and Ultimate Sackboy. Main here = the create/share platformers most players count (LBP, PSP, LBP2, PS Vita, LBP3); Karting and Sackboy: A Big Adventure are treated as spin-offs. 77349 'LittleBigPlanet HUB' was never released.",
+  "curated_at": "2026-10-30"
+ },
+ "Mafia": {
+  "franchise": "Mafia",
+  "source": "https://en.wikipedia.org/wiki/Mafia_(series)",
+  "main": [
+   {
+    "id": 39
+   },
+   {
+    "id": 134070,
+    "remake_of": 39
+   },
+   {
+    "id": 40
+   },
+   {
+    "id": 11492
+   },
+   {
+    "id": 314276
+   }
+  ],
+  "notes": "Wikipedia main series: Mafia, Mafia II, Mafia III, Mafia: The Old Country; Definitive Edition of Mafia is a full remake. Mafia II Mobile and Mafia III: Rivals are mobile spin-offs (attached by IGDB). Mafia II: Definitive Edition is a remaster, not listed.",
+  "curated_at": "2026-10-30"
+ },
+ "Marvel's Spider-Man": {
+  "franchise": "Marvel's Spider-Man",
+  "source": "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man",
+  "main": [
+   {
+    "id": 19565
+   },
+   {
+    "id": 127044
+   }
+  ],
+  "notes": "Wikipedia's lead calls Miles Morales 'a direct spin-off title' (also 'standalone'), so it stays in spin-offs although many players count it as a main entry. Marvel's Wolverine (2026) shares the Insomniac continuity but is not a Spider-Man game; left in spin-offs rather than main. Remastered is a remaster. Spider-Man 3 unreleased.",
+  "curated_at": "2026-10-30"
+ },
+ "Mystery Dungeon": {
+  "franchise": "Mystery Dungeon",
+  "source": "https://en.wikipedia.org/wiki/List_of_Mystery_Dungeon_video_games",
+  "sections": [
+   {
+    "name": "Shiren the Wanderer",
+    "games": [
+     {
+      "id": 103496,
+      "title": "Mystery Dungeon: Shiren the Wanderer"
+     },
+     {
+      "id": 78341,
+      "remake_of": 103496,
+      "title": "Mystery Dungeon: Shiren the Wanderer (DS)"
+     },
+     {
+      "id": 130810,
+      "title": "Shiren the Wanderer GB: Monster of Moonlight Village"
+     },
+     {
+      "id": 191328,
+      "remake_of": 130810,
+      "title": "Shiren the Wanderer: Monster of Moonlight Village (PC)"
+     },
+     {
+      "id": 67376,
+      "title": "Shiren the Wanderer 2: Shiren's Castle and the Oni Invasion"
+     },
+     {
+      "id": 85949,
+      "title": "Shiren the Wanderer GB2: Magic Castle of the Desert"
+     },
+     {
+      "id": 103508,
+      "remake_of": 85949,
+      "title": "Shiren the Wanderer DS2: Magic Castle of the Desert"
+     },
+     {
+      "id": 80485,
+      "title": "Shiren the Wanderer Gaiden: Asuka the Swordswoman"
+     },
+     {
+      "id": 5154
+     },
+     {
+      "id": 136590,
+      "title": "Shiren the Wanderer 4: The Eye of God and the Devil's Navel"
+     },
+     {
+      "id": 19460
+     },
+     {
+      "id": 268079
+     }
+    ]
+   },
+   {
+    "name": "Pokémon Mystery Dungeon",
+    "games": [
+     {
+      "id": 2320
+     },
+     {
+      "id": 2319
+     },
+     {
+      "id": 128069,
+      "remake_of": 2319
+     },
+     {
+      "id": 2321
+     },
+     {
+      "id": 2322
+     },
+     {
+      "id": 2323
+     },
+     {
+      "id": 103511,
+      "title": "Pokémon Mystery Dungeon: Keep Going! Blazing Adventure Squad!"
+     },
+     {
+      "id": 103512,
+      "title": "Pokémon Mystery Dungeon: Let's Go! Stormy Adventure Squad!"
+     },
+     {
+      "id": 103513,
+      "title": "Pokémon Mystery Dungeon: Aim for the Top! Light Adventure Squad!"
+     },
+     {
+      "id": 4566
+     },
+     {
+      "id": 10906
+     }
+    ]
+   },
+   {
+    "name": "Torneko (Dragon Quest)",
+    "games": [
+     {
+      "id": 42439,
+      "title": "Torneko's Great Adventure"
+     },
+     {
+      "id": 44922,
+      "title": "Torneko: The Last Hope"
+     },
+     {
+      "id": 49173,
+      "title": "Torneko's Great Adventure 3"
+     },
+     {
+      "id": 75986,
+      "title": "Dragon Quest: Young Yangus and the Mystery Dungeon"
+     }
+    ]
+   },
+   {
+    "name": "Chocobo's Dungeon (Final Fantasy)",
+    "games": [
+     {
+      "id": 18070,
+      "title": "Chocobo's Mysterious Dungeon"
+     },
+     {
+      "id": 22894
+     },
+     {
+      "id": 18069
+     }
+    ]
+   },
+   {
+    "name": "Etrian Mystery Dungeon",
+    "games": [
+     {
+      "id": 8607
+     },
+     {
+      "id": 27960
+     }
+    ]
+   }
+  ],
+  "spin": [
+   {
+    "id": 109465
+   },
+   {
+    "id": 417182
+   }
+  ],
+  "notes": "Kept as a guide (not excluded): Wikipedia has a Mystery Dungeon series article and list, organised by sub-series (Dragon Quest/Torneko, Shiren, Chocobo, Pokemon, Etrian, other), and Shiren the Wanderer has no other franchise entry in the cache. Sections follow that list, Shiren first as Chunsoft's own line. Shiren includes numbered games 1-6 plus the GB, GB2 and Gaiden entries; DS/PC remakes linked with remake_of. Shiren Monsters: Netsal, Dragon Quest Mystery Dungeon mobile games, Nightmare of Druaga, Mystery Chronicle: One Way Heroics are not in the cache and are not listed. Chocobo's Mystery Dungeon Every Buddy! and Torneko Classic HD are remasters, listed as spin-offs. BS (Satellaview) episodes and Fuurai no Shiren Mega (mobile) left to the automatic rules.",
+  "curated_at": "2026-10-30"
+ },
+ "Oddworld": {
+  "franchise": "Oddworld",
+  "source": "https://en.wikipedia.org/wiki/Oddworld",
+  "main": [
+   {
+    "id": 999
+   },
+   {
+    "id": 5552,
+    "remake_of": 999
+   },
+   {
+    "id": 1000
+   },
+   {
+    "id": 1001
+   },
+   {
+    "id": 1002
+   },
+   {
+    "id": 18357
+   }
+  ],
+  "spin": [
+   {
+    "id": 49015
+   },
+   {
+    "id": 49865
+   },
+   {
+    "id": 134025
+   }
+  ],
+  "notes": "Wikipedia splits the Quintology (Abe's Oddysee, Munch's Oddysee) from bonus games (Abe's Exoddus, Stranger's Wrath); all four are counted as main here, as players do. New 'n' Tasty is a remake of Abe's Oddysee. Soulstorm is described as a reimagining of Abe's Exoddus and a sequel to New 'n' Tasty, so it is a main entry without remake_of. Game Boy/GBC/GBA handheld versions listed as spin-offs per Wikipedia. Undated IGDB entries (Squeek's Oddysee, Hand of Odd, Fangus Klot, Munch's Exoddus, SligStorm) are cancelled or unreleased.",
+  "curated_at": "2026-10-30"
+ },
+ "Outlast": {
+  "franchise": "Outlast",
+  "source": "https://en.wikipedia.org/wiki/Outlast",
+  "main": [
+   {
+    "id": 1910
+   },
+   {
+    "id": 14390
+   },
+   {
+    "id": 127165
+   }
+  ],
+  "notes": "Wikipedia: Outlast, Outlast 2, and The Outlast Trials (described as a prequel, multiplayer); kept Trials as main since it is the third full release. Whistleblower is DLC. Outlast 3 announced only.",
+  "curated_at": "2026-10-30"
+ },
+ "S.T.A.L.K.E.R.": {
+  "franchise": "S.T.A.L.K.E.R.",
+  "source": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.",
+  "main": [
+   {
+    "id": 320
+   },
+   {
+    "id": 4840
+   },
+   {
+    "id": 7605
+   },
+   {
+    "id": 101440
+   }
+  ],
+  "drop": [
+   362031
+  ],
+  "notes": "Four main games. 2025 Enhanced Editions are console/PC remasters of the trilogy, not listed as main. Dropped unreleased 'Untitled Expansion 2'.",
+  "curated_at": "2026-10-30"
+ },
+ "Shin Megami Tensei": {
+  "franchise": "Shin Megami Tensei",
+  "source": "https://en.wikipedia.org/wiki/List_of_Megami_Tensei_video_games",
+  "main": [
+   {
+    "id": 136113,
+    "title": "Digital Devil Story: Megami Tensei (computer version)"
+   },
+   {
+    "id": 5081
+   },
+   {
+    "id": 48656
+   },
+   {
+    "id": 23880,
+    "title": "Kyuuyaku Megami Tensei",
+    "remake_of": 5081
+   },
+   {
+    "id": 21074
+   },
+   {
+    "id": 23879
+   },
+   {
+    "id": 79726
+   },
+   {
+    "id": 6050
+   },
+   {
+    "id": 336392
+   },
+   {
+    "id": 135913,
+    "remake_of": 336392
+   },
+   {
+    "id": 72672
+   },
+   {
+    "id": 15467
+   },
+   {
+    "id": 27959,
+    "remake_of": 15467
+   },
+   {
+    "id": 6886
+   },
+   {
+    "id": 19329
+   },
+   {
+    "id": 26775
+   },
+   {
+    "id": 287850,
+    "remake_of": 26775
+   }
+  ],
+  "drop": [
+   51448,
+   136605,
+   213365,
+   113120,
+   129489,
+   333387,
+   140764,
+   284081,
+   284082
+  ],
+  "notes": "Follows Wikipedia's main-series section of List of Megami Tensei video games, which starts with the two Digital Devil Story games (PC and Famicom versions are separate games) and includes Nine and Imagine (online MMO); most players count only the numbered games plus if..., Strange Journey and IV Apocalypse. Persona, Devil Summoner, Last Bible, Majin Tensei, Devil Children, Digital Devil Saga, Devil Survivor are spin-off series (all attached by IGDB). Dropped crossovers/hardware (BlazBlue Cross Tag Battle, PlayStation Classic, Smash DLC, costume DLC, Pillar of Amala) and the two 1995 SFC remake entries already covered by Kyuuyaku Megami Tensei.",
+  "curated_at": "2026-10-30"
+ },
+ "Sly Cooper": {
+  "franchise": "Sly Cooper",
+  "source": "https://en.wikipedia.org/wiki/Sly_Cooper",
+  "main": [
+   {
+    "id": 1798
+   },
+   {
+    "id": 1799
+   },
+   {
+    "id": 1800
+   },
+   {
+    "id": 1801
+   }
+  ],
+  "spin": [
+   {
+    "name": "Bentley's Hackpack",
+    "year": 2013
+   }
+  ],
+  "drop": [
+   19664,
+   7390
+  ],
+  "notes": "Dropped crossovers PlayStation Move Heroes and PlayStation All-Stars Battle Royale. Bentley's Hackpack not in cache.",
+  "curated_at": "2026-10-30"
+ },
+ "Sniper Elite": {
+  "franchise": "Sniper Elite",
+  "source": "https://en.wikipedia.org/wiki/Sniper_Elite",
+  "main": [
+   {
+    "id": 3077
+   },
+   {
+    "id": 3078
+   },
+   {
+    "id": 8366
+   },
+   {
+    "id": 18366
+   },
+   {
+    "id": 116238
+   },
+   {
+    "id": 314238
+   }
+  ],
+  "spin": [
+   {
+    "name": "Sniper Elite: Nazi Zombie Army 2",
+    "year": 2013
+   },
+   {
+    "name": "Zombie Army Trilogy",
+    "year": 2015
+   },
+   {
+    "name": "Zombie Army 4: Dead War",
+    "year": 2020
+   },
+   {
+    "name": "Zombie Army VR",
+    "year": 2025
+   }
+  ],
+  "notes": "Wikipedia main entries: Sniper Elite, V2, III, 4, 5, Resistance. Nazi Zombie Army and VR games are spin-offs. Zombie Army follow-ups not in cache. V2 Remastered left out of main (Wikipedia does not list it separately).",
+  "curated_at": "2026-10-30"
+ },
+ "Star Wars Battlefront": {
+  "franchise": "Star Wars Battlefront",
+  "source": "https://en.wikipedia.org/wiki/Star_Wars:_Battlefront",
+  "main": [
+   {
+    "id": 141
+   },
+   {
+    "id": 142
+   },
+   {
+    "id": 2113
+   },
+   {
+    "id": 26401
+   }
+  ],
+  "spin": [
+   {
+    "id": 287851
+   }
+  ],
+  "drop": [
+   76722,
+   303966,
+   327160
+  ],
+  "notes": "Main: 2004, 2005, 2015, 2017. Renegade/Elite Squadron (PSP/DS) and Mobile Squadrons are spin-offs. Classic Collection (2024 bundle) listed as spin. Dropped cancelled Battlefront III, companion app, and Battlefront+ mod entry.",
+  "curated_at": "2026-10-30"
+ },
+ "Tetris": {
+  "franchise": "Tetris",
+  "source": "https://en.wikipedia.org/wiki/Tetris",
+  "main": [
+   {
+    "id": 130749,
+    "title": "Tetris (Electronika 60)"
+   },
+   {
+    "id": 203099,
+    "title": "Tetris (Spectrum HoloByte)"
+   },
+   {
+    "id": 86490,
+    "title": "Tetris (Game Boy)"
+   },
+   {
+    "id": 8197,
+    "title": "Tetris (NES)"
+   },
+   {
+    "id": 20712
+   },
+   {
+    "id": 3612
+   },
+   {
+    "id": 3346
+   },
+   {
+    "id": 49875,
+    "remake_of": 86490
+   },
+   {
+    "id": 25022
+   },
+   {
+    "id": 51179
+   },
+   {
+    "id": 3339
+   },
+   {
+    "id": 4200
+   },
+   {
+    "id": 18599
+   },
+   {
+    "id": 6866
+   },
+   {
+    "id": 8194
+   },
+   {
+    "id": 103221
+   },
+   {
+    "id": 115282
+   },
+   {
+    "id": 137132
+   },
+   {
+    "id": 314934
+   },
+   {
+    "id": 334968
+   }
+  ],
+  "drop": [
+   77785,
+   9250,
+   304290,
+   263678,
+   311740,
+   203114
+  ],
+  "notes": "Tetris has ~220 versions, so 'main' = the official versions Wikipedia's Tetris article names as notable, plus Puyo Puyo Tetris 2 (not named by Wikipedia but a major release). Tetris Forever is only a bundle on IGDB. Skipped the BPS Famicom and EA mobile versions (IGDB splits them per platform). Dropped multicarts/compilations and the Minecraft DLC pack.",
+  "curated_at": "2026-10-30"
+ },
+ "The Dark Pictures Anthology": {
+  "franchise": "The Dark Pictures Anthology",
+  "source": "https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology",
+  "main": [
+   {
+    "id": 55047
+   },
+   {
+    "id": 122120
+   },
+   {
+    "id": 140617
+   },
+   {
+    "id": 178361
+   },
+   {
+    "id": 237780
+   }
+  ],
+  "notes": "Directive 8020 (May 2026) is listed by Wikipedia as a main entry (season branding dropped). Switchback VR is the spin-off.",
+  "curated_at": "2026-10-30"
+ },
+ "The Elder Scrolls": {
+  "franchise": "The Elder Scrolls",
+  "source": "https://en.wikipedia.org/wiki/The_Elder_Scrolls",
+  "main": [
+   {
+    "id": 52
+   },
+   {
+    "id": 53
+   },
+   {
+    "id": 56
+   },
+   {
+    "id": 59
+   },
+   {
+    "id": 267306,
+    "remake_of": 59
+   },
+   {
+    "id": 472
+   }
+  ],
+  "drop": [
+   81249,
+   77202,
+   354712,
+   390897,
+   354363,
+   386717,
+   386718,
+   297501,
+   233961,
+   342531
+  ],
+  "notes": "Wikipedia's main series is the five numbered games (Arena through Skyrim); Online, Battlespire, Redguard, Travels, Legends, Blades, Castles are spin-offs. Oblivion Remastered (2025, full UE5 rebuild) included as remake of Oblivion; Skyrim Special/Anniversary Editions not. Dropped unreleased TES VI, cancelled Travels: Oblivion, pinball tables, Minecraft mash-up and a Fallout bundle.",
+  "curated_at": "2026-10-30"
+ },
+ "The Last of Us": {
+  "franchise": "The Last of Us",
+  "source": "https://en.wikipedia.org/wiki/The_Last_of_Us",
+  "main": [
+   {
+    "id": 1009
+   },
+   {
+    "id": 204350,
+    "remake_of": 1009
+   },
+   {
+    "id": 26192
+   }
+  ],
+  "drop": [
+   386719
+  ],
+  "notes": "Two main games plus the Part I remake. Left Behind is standalone DLC (stays in spin-offs). Remastered versions are not separate entries. The Last of Us Online was cancelled.",
+  "curated_at": "2026-10-30"
+ },
+ "The Legend of Heroes": {
+  "franchise": "The Legend of Heroes",
+  "source": "https://en.wikipedia.org/wiki/The_Legend_of_Heroes",
+  "sections": [
+   {
+    "name": "Trails in the Sky",
+    "games": [
+     {
+      "id": 8986
+     },
+     {
+      "id": 314936,
+      "remake_of": 8986
+     },
+     {
+      "id": 16665
+     },
+     {
+      "id": 377314,
+      "remake_of": 16665
+     },
+     {
+      "id": 28101
+     }
+    ]
+   },
+   {
+    "name": "Trails from Zero / Trails to Azure (Crossbell)",
+    "games": [
+     {
+      "id": 192133,
+      "title": "The Legend of Heroes: Trails from Zero"
+     },
+     {
+      "id": 284036,
+      "title": "The Legend of Heroes: Trails to Azure"
+     }
+    ]
+   },
+   {
+    "name": "Trails of Cold Steel",
+    "games": [
+     {
+      "id": 13557
+     },
+     {
+      "id": 13558
+     },
+     {
+      "id": 26564
+     },
+     {
+      "id": 78115
+     }
+    ]
+   },
+   {
+    "name": "Trails into Reverie",
+    "games": [
+     {
+      "id": 136673
+     }
+    ]
+   },
+   {
+    "name": "Trails through Daybreak (Calvard)",
+    "games": [
+     {
+      "id": 141833
+     },
+     {
+      "id": 185864
+     },
+     {
+      "id": 280573
+     }
+    ]
+   },
+   {
+    "name": "Gagharv trilogy",
+    "games": [
+     {
+      "id": 105413,
+      "title": "The Legend of Heroes II: Prophecy of the Moonlight Witch"
+     },
+     {
+      "id": 10942,
+      "remake_of": 105413
+     },
+     {
+      "id": 240542,
+      "title": "The Legend of Heroes: A Tear of Vermillion"
+     },
+     {
+      "id": 10943,
+      "remake_of": 240542
+     },
+     {
+      "id": 240540,
+      "title": "The Legend of Heroes III: Song of the Ocean"
+     },
+     {
+      "id": 10944,
+      "remake_of": 240540
+     }
+    ]
+   },
+   {
+    "name": "Dragon Slayer",
+    "games": [
+     {
+      "id": 5579
+     },
+     {
+      "id": 4393
+     }
+    ]
+   }
+  ],
+  "drop": [
+   196855
+  ],
+  "notes": "Wikipedia's list groups games as Dragon Slayer, Gagharv trilogy and Trails (Liberl, Crossbell, Erebonia arcs, Reverie, Calvard arc). Trails sections listed first as most important. Gagharv entries use the Japanese PC-98 originals with English titles; the PSP versions (the English releases) are listed as remakes. Zero/Ao no Kiseki use the 2010/2011 originals; the 2020 English 'Trails from Zero/to Azure' Kai releases and all Evolution versions are enhanced ports, left out of main. Trails Beyond the Horizon placed with the Calvard arc. Nayuta and Ys vs. Trails in the Sky are spin-offs. Vantage Master Portable is a different Falcom series.",
+  "curated_at": "2026-10-30"
+ },
+ "The Walking Dead": {
+  "franchise": "The Walking Dead",
+  "source": "https://en.wikipedia.org/wiki/The_Walking_Dead_(video_game_series)",
+  "main": [
+   {
+    "id": 1871,
+    "title": "The Walking Dead: Season One"
+   },
+   {
+    "id": 3097
+   },
+   {
+    "id": 19000
+   },
+   {
+    "id": 51524
+   }
+  ],
+  "spin": [
+   {
+    "name": "The Walking Dead: Michonne",
+    "year": 2016
+   }
+  ],
+  "drop": [
+   119129,
+   323395,
+   358409,
+   358407,
+   387889,
+   164023,
+   164001,
+   354365,
+   353719
+  ],
+  "notes": "Main = the four Telltale seasons. 400 Days is DLC of Season One; Michonne is Telltale's mini-series spin-off (IGDB parent game not in cache, given by name). Other licensed games (Survival Instinct, Overkill's, Saints & Sinners, Destinies etc.) are spin-offs. Dropped: crossover DLC in other games (Tekken 7, Dead by Daylight, World War Z, Funko Fusion) and pinball table DLC.",
+  "curated_at": "2026-10-30"
+ },
+ "Total War": {
+  "franchise": "Total War",
+  "source": "https://en.wikipedia.org/wiki/Total_War_(video_game_series)",
+  "main": [
+   {
+    "id": 436
+   },
+   {
+    "id": 437
+   },
+   {
+    "id": 438
+   },
+   {
+    "id": 440
+   },
+   {
+    "id": 441
+   },
+   {
+    "id": 442
+   },
+   {
+    "id": 432
+   },
+   {
+    "id": 2359
+   },
+   {
+    "id": 8200
+   },
+   {
+    "id": 9898
+   },
+   {
+    "id": 28028
+   },
+   {
+    "id": 80961
+   },
+   {
+    "id": 143114
+   },
+   {
+    "id": 250531
+   }
+  ],
+  "drop": [
+   299190
+  ],
+  "notes": "Main = Wikipedia's main-entry table (historical and Warhammer). Saga titles (Thrones of Britannia, Troy), Fall of the Samurai (standalone expansion), Spartan: Total Warrior, Total War Battles and Arena stay as spin-offs. Medieval III and Warhammer 40,000 are announced, unreleased. Sonic & All-Stars Racing Transformed dropped (crossover).",
+  "curated_at": "2026-10-30"
+ },
+ "Until Dawn": {
+  "franchise": "Until Dawn",
+  "source": "https://en.wikipedia.org/wiki/Until_Dawn",
+  "main": [
+   {
+    "id": 7609
+   },
+   {
+    "id": 284721,
+    "remake_of": 7609
+   }
+  ],
+  "notes": "Only one main game so far plus the 2024 remake. Rush of Blood (non-canonical VR spin-off) and The Inpatient (VR prequel) are spin-offs. Until Dawn 2 is due 2027.",
+  "curated_at": "2026-10-30"
+ },
+ "Warhammer 40,000: Dawn of War": {
+  "franchise": "Warhammer 40,000: Dawn of War",
+  "source": "https://en.wikipedia.org/wiki/Warhammer_40,000:_Dawn_of_War",
+  "main": [
+   {
+    "id": 257
+   },
+   {
+    "id": 466
+   },
+   {
+    "id": 18980
+   }
+  ],
+  "notes": "Three released main games. Winter Assault, Dark Crusade, Soulstorm, Chaos Rising and Retribution are expansions (spin-offs view). Dawn of War IV was delayed to December 2026 (IGDB 2026-12-03), not yet released, so not listed. Wikipedia series article could not be fetched directly; checked via the Dawn of War IV article and search results.",
+  "curated_at": "2026-10-30"
+ },
+ "Yoshi": {
+  "franchise": "Yoshi",
+  "source": "https://en.wikipedia.org/wiki/Yoshi_(video_game_series)",
+  "main": [
+   {
+    "id": 1073
+   },
+   {
+    "id": 3213
+   },
+   {
+    "id": 20601
+   },
+   {
+    "id": 4591
+   },
+   {
+    "id": 7343
+   },
+   {
+    "id": 37135
+   },
+   {
+    "id": 366883
+   }
+  ],
+  "drop": [
+   1626,
+   1627,
+   1628,
+   9621,
+   9602,
+   90101,
+   231719,
+   231732,
+   231738,
+   231737,
+   231746,
+   148421,
+   354832,
+   364447,
+   45160,
+   39342,
+   19840,
+   229513,
+   3988,
+   2255,
+   3987,
+   3989,
+   2172,
+   3990,
+   116795,
+   2350,
+   26764,
+   231442,
+   133933,
+   213363,
+   213594,
+   338478,
+   361120,
+   361137,
+   361145,
+   361179,
+   361206,
+   344924,
+   350658,
+   329260,
+   329348,
+   163095
+  ],
+  "notes": "Main = the platformers Wikipedia names (Yoshi's Island line, Woolly World, Crafted World, Mysterious Book) plus Yoshi's Story, which Wikipedia groups with the puzzle-leaning games but most players count as a main platformer. Universal Gravitation/Topsy-Turvy, Touch & Go, Yoshi (1991), Yoshi's Cookie, Yoshi's Safari, Tetris Attack stay as spin-offs. Hello, Yoshi! (IGDB 2025) not mentioned by Wikipedia; left as spin-off. Dropped: Smash, Mario Kart, Mario sports/party, Nintendo Land, Game & Watch remakes, Mario Kart Tour events, cards, demo, SNES Classic and other games that belong to other franchises.",
+  "curated_at": "2026-10-30"
+ },
+ "Ys": {
+  "franchise": "Ys",
+  "source": "https://en.wikipedia.org/wiki/Ys_(series)",
+  "main": [
+   {
+    "id": 2411,
+    "title": "Ys I: Ancient Ys Vanished"
+   },
+   {
+    "id": 124503,
+    "remake_of": 2411
+   },
+   {
+    "id": 15449,
+    "title": "Ys II"
+   },
+   {
+    "id": 15450,
+    "title": "Ys III: Wanderers from Ys"
+   },
+   {
+    "id": 15455,
+    "remake_of": 15450
+   },
+   {
+    "id": 15451
+   },
+   {
+    "id": 15452
+   },
+   {
+    "id": 15457,
+    "remake_of": 15451
+   },
+   {
+    "id": 15453,
+    "title": "Ys V: Lost Kefin, Kingdom of Sand"
+   },
+   {
+    "id": 15454
+   },
+   {
+    "id": 10949
+   },
+   {
+    "id": 10948
+   },
+   {
+    "id": 27304
+   },
+   {
+    "id": 113431
+   },
+   {
+    "id": 229176
+   }
+  ],
+  "drop": [
+   36701
+  ],
+  "notes": "Main = Ys I to X plus Origin, with Falcom remakes Ys Eternal (Ys I), The Oath in Felghana (Ys III) and Memories of Celceta (Ys IV). Ys IV only existed as two licensed 1993 versions (Mask of the Sun, The Dawn of Ys); both listed, Celceta marked as remake of Mask of the Sun. Taito PS2 remakes (Ys IV A New Theory, Ys V Lost Kefin PS2), Ys 2 Special, compilations (Complete, Chronicles) and Memoire remasters left out of main. Ys X: Nordics was wrongly in spin-offs. Zwei is a separate Falcom series (dropped).",
+  "curated_at": "2026-10-30"
  }
 }
