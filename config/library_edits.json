@@ -2741,6 +2741,47 @@
     "igdb:1459"
    ],
    "date": "2026-10-30T18:35:48.351Z"
+  },
+  "switch2": {
+   "slots": [
+    {
+     "key": "igdb:158983",
+     "best": "igdb:207026",
+     "why": [
+      "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played.",
+      "Not on this console: you have it on Steam",
+      "About 23h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1439",
+     "best": "igdb:366896",
+     "why": [
+      "Play this game to get to the amazing Fire Emblem: Fortune's Weave (88). It's the earliest Fire Emblem game you haven't played.",
+      "Not on this console: you have it on GBA",
+      "A change of genre: RPG, Strategy",
+      "A longer one this time: about 33.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:71976",
+     "best": "igdb:80174",
+     "why": [
+      "Play this game to get to the amazing Mario's Super Picross (79). It's the earliest Mario game you haven't played.",
+      "A change of genre: Puzzle",
+      "About 19h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:158983",
+    "igdb:1439",
+    "igdb:71976"
+   ],
+   "date": "2026-10-30T18:58:57.541Z"
   }
  }
 }
