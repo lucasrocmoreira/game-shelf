@@ -2539,5 +2539,49 @@
     "date": "2026-10-30T07:06:59.437Z"
    }
   }
+ },
+ "suggest": {
+  "vr": {
+   "slots": [
+    {
+     "key": "igdb:49875",
+     "best": "igdb:135999",
+     "why": [
+      "Play this game to get to the amazing Tetris Effect: Connected (88). It's the earliest Tetris game you haven't played.",
+      "Not on this console: Switch Online (Switch + Game Boy)",
+      "A change of genre: Puzzle, Strategy",
+      "Shorter than what you're playing: about 1.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:83731",
+     "best": "igdb:83731",
+     "why": [
+      "Top-rated game you haven't played (average 84)",
+      "A change of genre: Music, Sport",
+      "Shorter than what you're playing: about 24.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1545",
+     "best": "igdb:26195",
+     "why": [
+      "Play this game to get to the amazing WipEout: Omega Collection (84). It's the earliest entry in the series you haven't played.",
+      "Not on this console: you have it on PS Vita",
+      "A change of genre: Racing",
+      "Shorter than what you're playing: about 14.5h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:49875",
+    "igdb:83731",
+    "igdb:1545"
+   ],
+   "date": "2026-10-30T13:24:27.170Z"
+  }
  }
 }
