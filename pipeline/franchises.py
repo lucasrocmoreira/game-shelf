@@ -69,7 +69,12 @@ def _pair_versions(entries):
         for o in out:
             close = abs((o.get("date") or 0) - (e.get("date") or 1e12)) <= 3 * 86400  # released together
             versions = o["year"] == e["year"] and (o["title"] or "").endswith("Version") and (e["title"] or "").endswith("Version")
-            if o["spin"] != e["spin"] or o.get("_paired") or not (close or versions):
+            if o["spin"] != e["spin"] or o.get("section") != e.get("section") or o.get("_paired"):
+                continue
+            if _norm(o["title"]) == _norm(e["title"]) and o["year"] == e["year"]:
+                mate = o  # the same game listed twice
+                break
+            if not (close or versions):
                 continue
             a, b = (o["title"] or "").split(), (e["title"] or "").split()
             if len(a) == len(b) and sum(x != y for x, y in zip(a, b)) == 1:
@@ -79,8 +84,10 @@ def _pair_versions(entries):
             out.append(e)
             continue
         a, b = mate["title"].split(), e["title"].split()
-        i = next(i for i, (x, y) in enumerate(zip(a, b)) if x != y)
-        mate["title"] = " ".join(a[:i] + [f"{a[i]} / {b[i]}"] + a[i + 1:])
+        diff = [i for i, (x, y) in enumerate(zip(a, b)) if x != y]
+        if diff and len(a) == len(b):
+            i = diff[0]
+            mate["title"] = " ".join(a[:i] + [f"{a[i]} / {b[i]}"] + a[i + 1:])
         mate["keys"] = sorted(set(mate["keys"]) | set(e["keys"]))
         mate["ids"] = mate.get("ids", [mate["id"]]) + [e["id"]]
         mate["ratings"] = max(mate["ratings"], e["ratings"])
@@ -192,25 +199,64 @@ def build(igdb_client, igdb_games, rows):
             if mf and mf != fid and not (words & set(_words(g.get("name")))):
                 continue  # crossover: another franchise's game, and the name doesn't say this one
             mains.append(g)
-        # The series named like the franchise is the main line; the rest are spin-offs.
-        main_coll = None
+        # Sub-series (Mario Kart, Mario Party, Paper Mario): IGDB collections with 3+ of these games.
+        # A collection whose name contains a bigger one's ("New Super Mario Bros." in "Super Mario")
+        # is folded into it; each game goes to its most specific sub-series.
+        size, cname = {}, {}
         for g in mains:
             for col in g.get("collections") or []:
-                if isinstance(col, dict) and _norm(col.get("name")) == _norm(name):
-                    main_coll = col["id"]
-        top = max([pop.get(g["id"], 0) for g in mains] or [0])
-        floor = max(SPINOFF_RATINGS, SPINOFF_SHARE * top)
+                if isinstance(col, dict) and col.get("id"):
+                    size[col["id"]] = size.get(col["id"], 0) + 1
+                    cname[col["id"]] = col.get("name") or ""
+        cand = {cid for cid, n in size.items() if n >= 3}
+        target = {}
+        for cid in cand:
+            bigger = [o for o in cand if o != cid and size[o] > size[cid]
+                      and (_norm(cname[o]) in _norm(cname[cid]) or _norm(cname[cid]) in _norm(cname[o]))]
+            target[cid] = max(bigger, key=lambda o: size[o]) if bigger else cid
+        for _ in range(3):
+            target = {k: target.get(v, v) for k, v in target.items()}
+        section_of = {}
+        for g in mains:
+            ts = {target[_id(col)] for col in g.get("collections") or [] if _id(col) in target}
+            section_of[g["id"]] = min(ts, key=lambda t: (size[t], t)) if ts else None
+        counts = {}
+        for t in section_of.values():
+            if t:
+                counts[t] = counts.get(t, 0) + 1
+        # Only umbrella franchises get sub-series: those with no series named like the franchise
+        # (Mario has Super Mario, Mario Kart, Mario Party...; Resident Evil has "Resident Evil").
+        eponymous = any(_norm(cname[c]) == _norm(name) for c in size)
+        sectioned = not eponymous and len([t for t, n in counts.items() if n >= 3]) >= 2
+        if not sectioned:
+            section_of = {k: None for k in section_of}
+        # Popularity floor per sub-series (a Mario Kart game is compared with Mario Kart games).
+        tops = {}
+        for g in mains:
+            k = section_of[g["id"]]
+            tops[k] = max(tops.get(k, 0), pop.get(g["id"], 0))
+        # Without sub-series, the series named like the franchise is the main line.
+        main_coll = None
+        if not sectioned:
+            for g in mains:
+                for col in g.get("collections") or []:
+                    if isinstance(col, dict) and _norm(col.get("name")) == _norm(name):
+                        main_coll = col["id"]
         # The series' usual genres, weighted by popularity: a game in none of them is a spin-off
-        # (Pokémon Pinball, Hyrule Warriors).
+        # (Pokémon Pinball, Hyrule Warriors). Not used with sub-series, which differ in genre.
         weight, total = {}, 0
         for g in mains:
             w = pop.get(g["id"], 0)
             total += w
             for gen in g.get("genres") or []:
                 weight[_id(gen)] = weight.get(_id(gen), 0) + w
-        usual = {gen for gen, w in weight.items() if total and w >= 0.4 * total}
+        usual = set() if sectioned else {gen for gen, w in weight.items() if total and w >= 0.4 * total}
         entries = []
         for g in mains:
+            sec = section_of[g["id"]]
+            floor = max(SPINOFF_RATINGS, SPINOFF_SHARE * tops.get(sec, 0))
+            if g["first_release_date"] > now - 548 * 86400:
+                floor = SPINOFF_RATINGS  # new games haven't collected ratings yet (Black Flag Resynced)
             in_main = main_coll is None or any(_id(col) == main_coll for col in g.get("collections") or [])
             gens = {_id(x) for x in g.get("genres") or []}
             off_genre = bool(usual) and bool(gens) and not (gens & usual)
@@ -231,8 +277,25 @@ def build(igdb_client, igdb_games, rows):
                 "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None,
                 "orig_year": _year(by_gid.get(_id(g.get("parent_game"))) or {}) if _type(g) == 8 else None,
                 "spin": spin,
+                "section": (cname.get(sec) or f"Other {name} games") if sectioned else None,
                 "keys": sorted(by_id.get(g["id"], [])),
             })
+        # A remake of a main game is a main game too, however few ratings it has so far.
+        by_entry = {e["id"]: e for e in entries}
+        for e in entries:
+            o = by_entry.get(e["remake_of"])
+            if e["spin"] and o and not o["spin"] and e["ratings"] >= SPINOFF_RATINGS:
+                e["spin"] = False
+                e["section"] = o.get("section")
+        # Sub-series with fewer than 3 main games go under "Other ... games".
+        if sectioned:
+            per = {}
+            for e in entries:
+                if not e["spin"]:
+                    per[e["section"]] = per.get(e["section"], 0) + 1
+            for e in entries:
+                if per.get(e["section"], 0) < 3:
+                    e["section"] = f"Other {name} games"
         # Same title within a year (Sonic the Hedgehog on Mega Drive and on Master System): the far
         # less known one is a spin-off.
         for e in entries:

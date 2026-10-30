@@ -85,6 +85,10 @@ body.view-franchises .controls, body.view-franchises #hero, body.view-franchises
 .tl .tt b{font:650 16px/1.2 var(--display);overflow-wrap:anywhere}
 .tl li.missing .tt b{color:var(--muted);font-weight:600}
 .tl .note{font-size:12px;font-weight:600}
+.fr-sec{margin:14px 0;border-top:1px solid var(--line);padding-top:10px}
+.fr-sec summary{cursor:pointer;font:750 20px/1.2 var(--display);font-stretch:85%;margin-bottom:8px}
+.fr-sec summary small{font:400 13px var(--body);color:var(--muted);margin-left:6px}
+.fr-sec .fr-bar{margin-bottom:6px}
 .tl .sc{font:800 20px/1 var(--display);font-stretch:80%;text-align:right;padding-top:2px}
 
 /* Playing now: the games you're in the middle of */
@@ -795,11 +799,22 @@ function frGames(f){
   for(const e of list) if(!e.spin && e.original && e.original.spin) e.original.spin = false;
   list.sort((a,b)=>(a.year||9999)-(b.year||9999));
   const main = list.filter(e=>!e.spin);
-  const next = main.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip) || null;
+  const nextIn = l=>l.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip) || null;
+  const countIn = l=>{ const n = k=>l.filter(e=>e.status===k).length;
+    return {played:n("played"), playing:n("playing"), owned:n("owned"), sub:n("sub"), missing:n("missing")}; };
+  // Umbrella franchises (Mario) come in sub-series: Super Mario, Mario Kart, Mario Party...
+  let sections = null;
+  if(main.some(e=>e.section)){
+    const by = new Map();
+    for(const e of main){ const k = e.section || "Other"; if(!by.has(k)) by.set(k, []); by.get(k).push(e); }
+    sections = [...by.entries()].map(([name, games])=>({name, games, next:nextIn(games), counts:countIn(games),
+                 pop:games.reduce((a,e)=>a+(e.ratings||0),0), other:/^Other /.test(name)}))
+      .sort((a,b)=>a.other-b.other || b.pop-a.pop);
+  }
+  // The headline next game comes from the biggest sub-series you can continue.
+  const next = sections ? ((sections.find(x=>x.next)||{}).next || null) : nextIn(main);
   const playing = main.find(e=>e.status==="playing") || null;
-  const n = k=>main.filter(e=>e.status===k).length;
-  return {list, main, spins:list.filter(e=>e.spin), next, playing,
-          counts:{played:n("played"), playing:n("playing"), owned:n("owned"), sub:n("sub"), missing:n("missing")}};
+  return {list, main, spins:list.filter(e=>e.spin), next, playing, sections, counts:countIn(main)};
 }
 function frBar(c){
   return `<div class="fr-bar" aria-hidden="true">${["played","playing","owned","sub","missing"].map(k=>c[k]?`<span class="s-${k}" style="flex:${c[k]} 0 0"></span>`:"").join("")}</div>`;
@@ -839,20 +854,22 @@ function renderFranchises(){
       </button>`; }).join("")}</div>` : `<p class="empty">No franchises here yet.</p>`}`;
 }
 function renderGuide(f){
-  const {list, main, spins, next, counts:c} = frGames(f);
+  const {list, main, spins, next, counts:c, sections} = frGames(f);
   const total = main.length;
-  const before = next ? main.filter(e=>e.year && next.year && e.year <= next.year && e!==next && e.status==="missing" && !e.coveredBy) : [];
-  const covered = main.filter(e=>e.coveredBy && next && e.year < next.year);
+  const scope = sections && next ? sections.find(x=>x.games.includes(next)).games : main;
+  const before = next ? scope.filter(e=>e.year && next.year && e.year <= next.year && e!==next && e.status==="missing" && !e.coveredBy) : [];
+  const covered = scope.filter(e=>e.coveredBy && next && e.year < next.year);
   let why = "";
   if(next){
     const bits = [];
     if(covered.length) bits.push(`You covered ${covered.map(e=>esc(e.title)).join(", ")} through ${covered.length>1?"their remakes":"its remake"}.`);
     if(before.length) bits.push(`${before.map(e=>esc(e.title)).join(" and ")} ${before.length>1?"come":"comes"} before it but ${before.length>1?"aren't":"isn't"} in your library.`);
-    const skipped = main.filter(e=>e.skip && e.year && next.year && e.year <= next.year && e!==next && e.status!=="played" && e.status!=="missing");
+    const skipped = scope.filter(e=>e.skip && e.year && next.year && e.year <= next.year && e!==next && e.status!=="played" && e.status!=="missing");
     if(skipped.length) bits.push(`Skipping ${skipped.map(e=>`${esc(e.title)} (scored ${e.score})`).join(" and ")}: not worth it.`);
     why = bits.join(" ");
   }
   const shown = (FR.spin ? list : main);
+  FR._next = next;
   const nextTtb = next && next.row ? beat(next.row) : null;
   $("out").innerHTML = `<button type="button" class="more" data-frback="1">‹ All franchises</button>
     <div class="fr-head" style="margin-top:6px"><h1>${esc(f.name)}</h1>
@@ -865,7 +882,15 @@ function renderGuide(f){
         <span class="score ${tone(next.score)}" style="font-size:28px">${next.score??"–"}</span></div>
       <div class="actions"><button type="button" data-frpin="${next.id}">Pin to Playing now</button>${frSendBtn(next)}<button type="button" data-fropen="${next.id}">Open game</button></div></div>` : ""}
     <label class="inline" style="margin:4px 0 6px"><input type="checkbox" id="frSpin" ${FR.spin?"checked":""}> Show spin-offs (${spins.length})</label>
-    <ol class="tl">${shown.map(e=>{
+    ${sections && !FR.spin ? sections.map((sec,i)=>`<details class="fr-sec" ${i===0||sec.games.includes(next)?"open":""}>
+        <summary><b>${esc(sec.name)}</b> <small>${sec.counts.played} of ${sec.games.length} played${sec.next?` · next: ${esc(sec.next.title)}`:""}</small></summary>
+        ${frBar(sec.counts)}<ol class="tl">${sec.games.map(frRow).join("")}</ol></details>`).join("")
+      : `<ol class="tl">${shown.map(frRow).join("")}</ol>`}
+    ${!FR.spin && spins.some(e=>e.rows.length) ? `<p class="fr-muted">Spin-offs in your library: ${spins.filter(e=>e.rows.length).map(e=>`${esc(e.title)}${e.score!=null?` (${e.score})`:""}`).join(" · ")}</p>` : ""}`;
+  $("frSpin").onchange = ev=>{ FR.spin = ev.target.checked; render(); };
+}
+function frRow(e){
+  const next = FR._next;
       const st = e===next ? "next" : e.status;
       const note = e.coveredBy ? `Played as the ${e.coveredBy.year} remake` : e===next ? "Your next one" : e.status==="missing" ? "" : FR_LABEL[e.status];
       const noteColor = e.coveredBy || e.status==="played" ? "var(--hi)" : e===next || e.status==="sub" ? "var(--accent)" : e.status==="playing" ? "var(--mid)" : "var(--muted)";
@@ -881,10 +906,7 @@ function renderGuide(f){
         ${e.cover?`<img src="${esc(e.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
         <div class="tt"><button type="button" class="tt-open" data-fropen="${e.id}"><b>${esc(e.title)}${e.spin?` <span class="pill">Spin-off</span>`:""}</b>
           <span class="fr-muted">${esc(frWhere(e))}</span></button>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}${extra}</div>
-        <span class="sc ${tone(e.score)}">${e.score??"–"}</span></li>`; }).join("")}</ol>
-    ${!FR.spin && spins.some(e=>e.rows.length) ? `<p class="fr-muted">Spin-offs in your library: ${spins.filter(e=>e.rows.length).map(e=>`${esc(e.title)}${e.score!=null?` (${e.score})`:""}`).join(" · ")}</p>` : ""}`;
-  $("frSpin").onchange = ev=>{ FR.spin = ev.target.checked; render(); };
-}
+        <span class="sc ${tone(e.score)}">${e.score??"–"}</span></li>`; }
 function frJump(x){ return `<button type="button" class="jump" data-jump="${x.id}">${esc(x.title)} (${x.year||"?"})</button>`; }
 function frSendBtn(e){
   const to = e.row && consoleFor(e.row); if(!to) return "";
