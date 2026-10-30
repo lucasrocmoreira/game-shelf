@@ -2582,6 +2582,44 @@
     "igdb:1545"
    ],
    "date": "2026-10-30T13:24:27.170Z"
+  },
+  "steam": {
+   "slots": [
+    {
+     "key": "igdb:158983",
+     "best": "igdb:158983",
+     "why": [
+      "Sent here from your Switch 2 suggestions",
+      "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played."
+     ],
+     "sent": true
+    },
+    {
+     "key": "igdb:231",
+     "best": "igdb:233",
+     "why": [
+      "Play this game to get to the amazing Half-Life 2 (90). It's the earliest Half-Life game you haven't played.",
+      "Shorter than what you're playing: about 14h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:28981",
+     "best": "igdb:28981",
+     "why": [
+      "Top-rated game you haven't played (average 86)",
+      "A change of genre: RTS, Strategy",
+      "Shorter than what you're playing: about 24h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:158983",
+    "igdb:231",
+    "igdb:28981"
+   ],
+   "date": "2026-10-30T18:35:08.776Z"
   }
  }
 }
