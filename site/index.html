@@ -246,6 +246,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
     <button type="button" role="tab" data-view="ds" aria-selected="false">DS</button>
     <button type="button" role="tab" data-view="3ds" aria-selected="false">3DS</button>
     <button type="button" role="tab" data-view="steam" aria-selected="false">Steam Machine</button>
+    <button type="button" role="tab" data-view="vr" aria-selected="false">VR</button>
   </nav>
   <section class="now" id="now" aria-label="Playing now"></section>
   <header class="hero" id="hero" aria-live="polite"></header>
@@ -323,8 +324,8 @@ const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"
 const LENGTHS = [["","Any length"],["0-10","Under 10 hours"],["10-30","10 to 30 hours"],["30-60","30 to 60 hours"],["60-9999","Over 60 hours"]];
 const beat = g => g.ttb ? (g.ttb.extra ?? g.ttb.main ?? g.ttb.complete ?? null) : null;  // hours for main story + extras (you take your time)
 const hrs = h => h==null ? "–" : (h<1 ? "<1h" : (Number.isInteger(h) ? h : h.toFixed(1)) + "h");
-const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
-const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, playing:{}, added:[], match:{}, sent:{}});
+const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","Quest","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
+const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, playing:{}, added:[], match:{}, sent:{}, suggest:{}});
 
 const store = {
   get(k, d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch{ return d; } },
@@ -611,7 +612,8 @@ function render(){
   renderHero(list);
   $("count").textContent = `${list.length} ${list.length===1?"game":"games"}`;
   if(!list.length){ $("out").innerHTML = CONSOLES[state.view] && !DATA.games.length
-      ? `<p class="empty">No ${esc(CONSOLES[state.view].label)} games yet. Use “Add a game” and pick ${esc(CONSOLES[state.view].plats[0])} as the platform.</p>`
+      ? (CONSOLES[state.view].vr ? `<p class="empty">No VR games found yet. They appear after the next daily update, which records each game's VR headsets.</p>`
+         : `<p class="empty">No ${esc(CONSOLES[state.view].label)} games yet. Use “Add a game” and pick ${esc(CONSOLES[state.view].plats[0])} as the platform.</p>`)
       : `<p class="empty">No games match these filters. Clear a filter or the search to see more.</p>`; return; }
   if(!state.group){ $("out").innerHTML = `<ol class="list">${sorted(list).map(gameRow).join("")}</ol>`; return; }
   const field = state.group, by = new Map();
@@ -740,14 +742,34 @@ function suggestions(keep=[null,null,null]){
   }
   return {slots, picks:slots.filter(Boolean), current, want};
 }
+function saveSuggest(){
+  const v = state.view, data = {slots: SUGGEST.slots.map(p=>p ? {key:p.game.key, best:(p.best||p.game).key, why:p.why, sent:!!p.sent} : null),
+                                 skip: [...SUGGEST.skip].slice(-300)};
+  const cur = (EDITS.suggest||{})[v];
+  if(cur && JSON.stringify({slots:cur.slots, skip:cur.skip}) === JSON.stringify(data)) return;
+  EDITS.suggest = {...(EDITS.suggest||{}), [v]: {...data, date: new Date().toISOString()}};
+  if(!token() || !REPO) return;  // still remembered on this device until the page reloads
+  writeEdits(d=>{ d.suggest = d.suggest||{}; d.suggest[v] = EDITS.suggest[v]; }, `Suggestions for ${CONSOLES[v].label}`, false).catch(()=>{});
+}
 function openSuggest(mode){
   // mode: undefined = fresh picks, "all" = replace all three, a number = replace just that one
-  if(mode===undefined){ SUGGEST.skip = new Set(); const s = sentHere(); SUGGEST.slots = [0,1,2].map(i=>s[i]||null); }
+  if(mode===undefined || mode==="restart"){
+    // Picks are kept until you replace them, play them or pin them: saved per console with your edits.
+    const saved = mode==="restart" ? null : (EDITS.suggest||{})[state.view];
+    const byKey = new Map(allGames().map(g=>[g.key,g]));
+    const valid = g=>g && !g._played && !g._playing && !g._hidden;
+    SUGGEST.skip = new Set(saved ? saved.skip||[] : []);
+    SUGGEST.slots = [0,1,2].map(i=>{ const x = saved && (saved.slots||[])[i]; const g = x && byKey.get(x.key);
+      return valid(g) ? {game:g, best:byKey.get(x.best)||g, why:x.why||[], sent:!!x.sent} : null; });
+    for(const p of sentHere()) if(!SUGGEST.slots.some(x=>x && x.game.key===p.game.key)){  // newly sent games go first
+      const i = SUGGEST.slots.findIndex(x=>!x); SUGGEST.slots[i>=0 ? i : 2] = p; }
+  }
   else if(mode==="all") SUGGEST.slots = [null,null,null];
   else SUGGEST.slots = SUGGEST.slots.map((p,i)=>i===mode ? null : p);
   const {slots, picks, current, want} = suggestions(SUGGEST.slots);
   SUGGEST.slots = slots;
   for(const p of picks) SUGGEST.skip.add(p.game.key);
+  saveSuggest();
   const basis = current.length ? `Based on ${current.map(g=>esc(g.title)).slice(0,3).join(", ")}${want==="short"?", a long one, so these lean shorter":want==="long"?", a short one, so these lean longer":""}.`
                                : "Nothing is pinned to Playing now, so these are your best-rated unplayed games.";
   sheet(`<h2>Play next on ${esc(CONSOLES[state.view].label)}</h2>
@@ -761,10 +783,12 @@ function openSuggest(mode){
       : `<p>No more unplayed games with scores on this console.</p>`}
     <div class="btns">
       <button value="cancel" class="iconbtn">Close</button>
+      <button type="button" class="iconbtn" id="restart" title="Forget replaced games and pick from scratch">Start over</button>
       ${picks.length?`<button type="button" class="iconbtn primary" id="reroll">Replace all three</button>`:""}
     </div>`);
   $("sheet").onclick = e=>{
     if(e.target.closest("#reroll")){ openSuggest("all"); return; }
+    if(e.target.closest("#restart")){ openSuggest("restart"); return; }
     const sw = e.target.closest("[data-swap]");
     if(sw){ const i = +sw.dataset.swap, p = SUGGEST.slots[i];
       if(p && p.sent){  // replacing a sent game also takes it off that console's list
@@ -1272,9 +1296,24 @@ const CONSOLES = {
   ds:      {label:"DS", plats:["DS"], note:"Your Nintendo DS games."},
   "3ds":   {label:"3DS", plats:["3DS"], note:"Your Nintendo 3DS games."},
   steam:   {label:"Steam Machine", plats:["Steam"], note:"Your Steam games."},
+  vr:      {label:"VR", vr:true, note:"Games you can play in VR: PS VR and PS VR2 on your PlayStation (PS Plus included), PC VR through Steam, and Quest."},
 };
 async function loadView(v){
   if(CONSOLES[v]){
+    if(!VIEWS[v] && CONSOLES[v].vr){
+      // VR: each game shows the headsets you can use it with (shown in place of its platforms).
+      const lib = await loadView("library"), cat = await loadView("psplus"), seen = new Set(), games = [];
+      const usable = g=>(g.vr||[]).filter(h=>(h==="PS VR"||h==="PS VR2") ? g.platforms.some(p=>["PS4","PS5","PlayStation"].includes(p))
+                                         : h==="PC VR" ? g.platforms.includes("Steam") : h==="Quest" ? g.platforms.includes("Quest") : false);
+      for(const [list, catalog] of [[lib.games,false],[cat.games,true]]) for(const g of list){
+        if(seen.has(g.key)) continue;
+        const hs = usable(g); if(!hs.length) continue;
+        seen.add(g.key);
+        const p = Object.create(g); p.platforms = hs; if(catalog) p._catalog = true;
+        games.push(p);
+      }
+      VIEWS[v] = {data:{generated:lib.generated, status:{}, games}};
+    }
     if(!VIEWS[v]){
       const c = CONSOLES[v], lib = await loadView("library"), cat = c.psplus ? await loadView("psplus") : {games:[]};
       const seen = new Set(), games = [];

@@ -34,6 +34,7 @@ PLATFORMS = {
     "PlayStation": {48, 167},
     "Switch": {130},
     "Switch 2": {508, 130},
+    "Quest": {384, 386, 471, 385, 387, 472},  # Meta/Oculus Quest family
     "3DS": {37, 137},
     "DS": {20, 159},             # Nintendo DS, DSi
     "GBA": {24},

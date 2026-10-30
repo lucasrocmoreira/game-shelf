@@ -307,6 +307,34 @@ def original_years(igdb_client, games):
     log(f"  IGDB: original release year found for {n} ports, remasters and editions")
 
 
+VR_NAMES = {}  # IGDB platform id -> "PS VR" / "PS VR2" / "PC VR" / "Quest", filled from IGDB's platform names
+
+
+def load_vr_platforms(igdb_client, igdb_games):
+    """Which IGDB platforms are VR headsets, by name (cached): PlayStation VR, PlayStation VR2, SteamVR,
+    Oculus Rift, Windows Mixed Reality, Meta/Oculus Quest..."""
+    cache = load_json(CACHE_DIR / "platforms.json", {})
+    ids = sorted({p for g in igdb_games.values() for p in g.get("platforms") or []} - {int(k) for k in cache})
+    for i in range(0, len(ids), 200):
+        try:
+            for row in igdb_client.query("platforms", f"fields name; where id = ({','.join(map(str, ids[i:i + 200]))}); limit 500;"):
+                cache[str(row["id"])] = row.get("name") or ""
+        except Exception as e:
+            log(f"  IGDB platform names failed: {type(e).__name__}")
+            break
+    save_json(CACHE_DIR / "platforms.json", cache)
+    for pid, name in cache.items():
+        n = name.lower()
+        if "playstation vr2" in n:
+            VR_NAMES[int(pid)] = "PS VR2"
+        elif "playstation vr" in n:
+            VR_NAMES[int(pid)] = "PS VR"
+        elif "quest" in n or "oculus go" in n:
+            VR_NAMES[int(pid)] = "Quest"
+        elif any(w in n for w in ("steamvr", "oculus rift", "oculus vr", "windows mixed reality", "valve index", "htc vive", "pc vr")):
+            VR_NAMES[int(pid)] = "PC VR"
+
+
 def _year(g):
     ts = (g or {}).get("first_release_date")
     return dt.datetime.fromtimestamp(ts, dt.timezone.utc).year if ts else None
@@ -493,6 +521,8 @@ def to_site_row(row, sc, hl=None):
         "genres": genres_of(g) or sc.get("steam_genres") or [],
         "year": _year(g),
         "orig_year": g.get("_orig_year") or _year(g),  # first release of the original, for ports and remasters
+        "vr": sorted({VR_NAMES[p] for p in g.get("platforms") or [] if p in VR_NAMES}
+                     | ({"Quest"} if "Quest" in row["platforms"] else set())),  # headsets it runs on
         "playtime": row["playtime_hours"],
         "last_played": row["last_played"],
         "cover": cover,
@@ -616,6 +646,10 @@ def main():
                         igdb_games[gid]["_ttb"] = t
             except Exception as e2:
                 log(f"  IGDB time-to-beat lookup failed ({type(e2).__name__}); continuing without it")
+            try:
+                load_vr_platforms(igdb, igdb_games)
+            except Exception as e2:
+                log(f"  VR platform lookup failed ({type(e2).__name__})")
             try:
                 original_years(igdb, igdb_games)
             except Exception as e2:
