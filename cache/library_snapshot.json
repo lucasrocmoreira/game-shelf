@@ -4911,7 +4911,7 @@
    "title": "Media Player"
   },
   {
-   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00924_00/3/i_d0341a07f865b2c691749e312a26240848e3c898d0206bd0c837c3f4102fbd0c/i/icon0.png",
+   "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00804_00/2/i_b9c16b24df5dcc1076afeb80defb6be6cea1855da61aa29f0632a580d66fafd7/i/icon0.png",
    "last_played": "2016-01-15",
    "platform": "PS4",
    "playtime_hours": 0.0,
@@ -17733,6 +17733,57 @@
    "streaming": true,
    "tier": "Classics",
    "title": "Mega Man X: Command Mission"
+  },
+  {
+   "also_platform": null,
+   "concept": "202807",
+   "image": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/0XmesVquzTiWkjPy0vJlxrzZ.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:202807",
+   "store_url": "https://store.playstation.com/en-us/concept/202807",
+   "streaming": false,
+   "tier": "Classics",
+   "title": "Metro 2033 Redux"
+  },
+  {
+   "also_platform": null,
+   "concept": "202806",
+   "image": "https://image.api.playstation.com/cdn/UP2047/CUSA00683_00/Zk20vUGkH6bRUC1io2L7wZMj2boRIH5l.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:202806",
+   "store_url": "https://store.playstation.com/en-us/concept/202806",
+   "streaming": false,
+   "tier": "Classics",
+   "title": "Metro Redux"
+  },
+  {
+   "also_platform": null,
+   "concept": "226459",
+   "image": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/xRBuhxOu8IbVAV32S8Ow9Eiv.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:226459",
+   "store_url": "https://store.playstation.com/en-us/concept/226459",
+   "streaming": false,
+   "tier": "Classics",
+   "title": "Metro: Last Light Redux"
   },
   {
    "also_platform": null,
