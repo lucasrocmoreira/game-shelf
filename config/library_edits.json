@@ -2705,6 +2705,45 @@
     "igdb:117882"
    ],
    "date": "2026-10-30T18:35:37.992Z"
+  },
+  "vita": {
+   "slots": [
+    {
+     "key": "igdb:1384",
+     "best": "igdb:1384",
+     "why": [
+      "Top-rated game you haven't played (average 84)",
+      "A change of genre: Shooter, Indie",
+      "Shorter than what you're playing: about 7.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:7812",
+     "best": "igdb:7812",
+     "why": [
+      "Top-rated game you haven't played (average 81)",
+      "A change of genre: Music, RTS",
+      "Shorter than what you're playing: about 19h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1459",
+     "best": "igdb:1461",
+     "why": [
+      "Play this game to get to the amazing LocoRoco 2 (85). It's the earliest entry in the series you haven't played.",
+      "Shorter than what you're playing: about 9h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:1384",
+    "igdb:7812",
+    "igdb:1459"
+   ],
+   "date": "2026-10-30T18:35:48.351Z"
   }
  }
 }
