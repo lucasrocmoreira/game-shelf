@@ -301,6 +301,8 @@ def build(igdb_client, igdb_games, rows):
                     games.append(g)
         if not games:
             continue
+        if (curation.get(grp["name"]) or {}).get("exclude"):
+            continue  # judged not to be a real game series (a license, a genre label)
         f = _auto(min(grp["fids"]), grp["name"], games, known, by_id, now, curation.get(grp["name"]), fids=grp["fids"])
         if f:
             out.append(f)
@@ -309,7 +311,7 @@ def build(igdb_client, igdb_games, rows):
     shown_names = {_norm(f["name"]) for f in out}
     for cid in ccands:
         c = cache.get(f"c{cid}")
-        if not c or _norm(cnames[cid]) in shown_names:
+        if not c or _norm(cnames[cid]) in shown_names or (curation.get(cnames[cid]) or {}).get("exclude"):
             continue
         mine = cowned[cid]
         if len(mine & covered) >= 0.5 * len(mine):
