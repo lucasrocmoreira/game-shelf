@@ -2783,6 +2783,47 @@
     "igdb:207026"
    ],
    "date": "2026-10-30T18:59:04.901Z"
+  },
+  "ds": {
+   "slots": [
+    {
+     "key": "igdb:1398",
+     "best": "igdb:1399",
+     "why": [
+      "Play this game to get to the amazing Professor Layton and the Unwound Future (88). It's the earliest Professor Layton game you haven't played.",
+      "A change of genre: Point-and-click, Puzzle",
+      "Shorter than what you're playing: about 15h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:2332",
+     "best": "igdb:2345",
+     "why": [
+      "Play this game to get to the amazing Mario Kart DS (85). It's the earliest Mario game you haven't played.",
+      "Not on this console: Switch Online (Switch + SNES)",
+      "A change of genre: Racing, Arcade",
+      "Shorter than what you're playing: about 8h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:8167",
+     "best": "igdb:8167",
+     "why": [
+      "Top-rated game you haven't played (average 85)",
+      "A change of genre: Music",
+      "Shorter than what you're playing: about 11h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:1398",
+    "igdb:2332",
+    "igdb:8167"
+   ],
+   "date": "2026-10-30T18:59:21.008Z"
   }
  }
 }
