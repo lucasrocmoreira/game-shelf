@@ -32,7 +32,8 @@ MAIN_TYPES = {0, 4, 8}   # main game, standalone expansion, remake
 MOBILE_ONLY = {34, 39, 55, 82, 74}  # Android, iOS, legacy mobile, browser, Windows Phone
 
 FIELDS = ("name,slug,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
-          "rating,parent_game,version_parent,platforms,collections.name,franchise,franchises")
+          "rating,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres")
+CACHE_VERSION = 2  # bump when FIELDS change, to fetch everything again
 
 
 def _id(v):
@@ -66,7 +67,7 @@ def _pair_versions(entries):
     for e in entries:
         mate = None
         for o in out:
-            if o["year"] != e["year"] or o["spin"] != e["spin"] or o.get("_paired"):
+            if o["spin"] != e["spin"] or o.get("_paired") or abs((o.get("date") or 0) - (e.get("date") or 1e12)) > 31 * 86400:
                 continue
             a, b = (o["title"] or "").split(), (e["title"] or "").split()
             if len(a) == len(b) and sum(x != y for x, y in zip(a, b)) == 1:
@@ -84,6 +85,7 @@ def _pair_versions(entries):
         mate["_paired"] = True
     for e in out:
         e.pop("_paired", None)
+        e.pop("date", None)
     return out
 
 
@@ -134,7 +136,8 @@ def build(igdb_client, igdb_games, rows):
             names[g["franchise"]["id"]] = g["franchise"].get("name")
 
     candidates = [fid for fid, keys in owned.items() if len(keys) >= MIN_OWNED]
-    todo = [fid for fid in candidates if days_since((cache.get(str(fid)) or {}).get("checked")) >= REFRESH_DAYS]
+    todo = [fid for fid in candidates if days_since((cache.get(str(fid)) or {}).get("checked")) >= REFRESH_DAYS
+            or (cache.get(str(fid)) or {}).get("v") != CACHE_VERSION]
     log(f"Franchises: {len(candidates)} with 2+ of your games; fetching {len(todo)} from IGDB")
     for fid in todo:
         try:
@@ -142,7 +145,7 @@ def build(igdb_client, igdb_games, rows):
         except Exception as e:
             log(f"  franchise {fid} failed: {type(e).__name__}")
             continue
-        cache[str(fid)] = {"checked": now_iso(), "name": names.get(fid), "games": games}
+        cache[str(fid)] = {"checked": now_iso(), "v": CACHE_VERSION, "name": names.get(fid), "games": games}
 
     save_json(CACHE_DIR / "franchises.json", cache)
 
@@ -158,6 +161,14 @@ def build(igdb_client, igdb_games, rows):
         if name.lower() in skip:
             continue
         words = set(_words(name))
+        # A game's popularity includes its expanded editions, remasters and ports
+        # (Code: Veronica's ratings are split with Code: Veronica X).
+        pop = {}
+        for g in c["games"]:
+            pop[g["id"]] = pop.get(g["id"], 0) + (g.get("total_rating_count") or 0)
+            par = _id(g.get("version_parent")) or (_id(g.get("parent_game")) if _type(g) in (9, 10, 11) else None)
+            if par:
+                pop[par] = pop.get(par, 0) + (g.get("total_rating_count") or 0)
         mains = []
         for g in c["games"]:
             t = _type(g)
@@ -178,12 +189,23 @@ def build(igdb_client, igdb_games, rows):
             for col in g.get("collections") or []:
                 if isinstance(col, dict) and _norm(col.get("name")) == _norm(name):
                     main_coll = col["id"]
-        top = max([g.get("total_rating_count") or 0 for g in mains] or [0])
+        top = max([pop.get(g["id"], 0) for g in mains] or [0])
         floor = max(SPINOFF_RATINGS, SPINOFF_SHARE * top)
+        # The series' usual genres, weighted by popularity: a game in none of them is a spin-off
+        # (Pokémon Pinball, Hyrule Warriors).
+        weight, total = {}, 0
+        for g in mains:
+            w = pop.get(g["id"], 0)
+            total += w
+            for gen in g.get("genres") or []:
+                weight[_id(gen)] = weight.get(_id(gen), 0) + w
+        usual = {gen for gen, w in weight.items() if total and w >= 0.4 * total}
         entries = []
         for g in mains:
             in_main = main_coll is None or any(_id(col) == main_coll for col in g.get("collections") or [])
-            spin = not in_main or (g.get("total_rating_count") or 0) < floor
+            gens = {_id(x) for x in g.get("genres") or []}
+            off_genre = bool(usual) and bool(gens) and not (gens & usual)
+            spin = not in_main or pop.get(g["id"], 0) < floor or off_genre
             scores = [v for v in (g.get("aggregated_rating"), g.get("rating")) if isinstance(v, (int, float)) and v > 0]
             entries.append({
                 "id": g["id"],
@@ -193,7 +215,8 @@ def build(igdb_client, igdb_games, rows):
                 "cover": f"https://images.igdb.com/igdb/image/upload/t_cover_small/{g['cover']['image_id']}.jpg"
                          if isinstance(g.get("cover"), dict) and g["cover"].get("image_id") else None,
                 "score": round(sum(scores) / len(scores)) if scores else None,
-                "ratings": g.get("total_rating_count") or 0,
+                "ratings": pop.get(g["id"], 0),
+                "date": g.get("first_release_date"),
                 "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None,
                 "spin": spin,
                 "keys": sorted(by_id.get(g["id"], [])),
