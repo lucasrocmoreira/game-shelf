@@ -367526,5 +367526,329 @@
   ],
   "name": "Rayman",
   "v": 3
+ },
+ "_extra": {
+  "ids": {
+   "240": {
+    "aggregated_rating": 90.0,
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 89822,
+     "image_id": "co1xb2"
+    },
+    "first_release_date": 1031616000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 240,
+    "name": "Battlefield 1942",
+    "platforms": [
+     6,
+     14
+    ],
+    "rating": 80.31330224617209,
+    "slug": "battlefield-1942",
+    "total_rating_count": 277
+   },
+   "350": {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 89836,
+     "image_id": "co1xbg"
+    },
+    "first_release_date": 1245888000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 350,
+    "name": "Battlefield Heroes",
+    "platforms": [
+     6
+    ],
+    "rating": 74.47174723664874,
+    "slug": "battlefield-heroes",
+    "total_rating_count": 60
+   },
+   "354": {
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 89842,
+     "image_id": "co1xbm"
+    },
+    "first_release_date": 1301875200,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 354,
+    "name": "Battlefield Play4Free",
+    "platforms": [
+     6
+    ],
+    "rating": 53.18465244426774,
+    "slug": "battlefield-play4free",
+    "total_rating_count": 30
+   },
+   "51346": {
+    "collections": [
+     {
+      "id": 364,
+      "name": "Alone in the Dark"
+     }
+    ],
+    "cover": {
+     "id": 341974,
+     "image_id": "co7bva"
+    },
+    "first_release_date": 754704000,
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 51346,
+    "name": "Jack in the Dark",
+    "platforms": [
+     149,
+     14,
+     13
+    ],
+    "slug": "jack-in-the-dark"
+   },
+   "7081": {
+    "aggregated_rating": 72.71428571428571,
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 77272,
+     "image_id": "co1nmg"
+    },
+    "first_release_date": 1426550400,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 7081,
+    "name": "Battlefield Hardline",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 67.74453548028593,
+    "slug": "battlefield-hardline",
+    "total_rating_count": 335
+   },
+   "7716": {
+    "collections": [
+     {
+      "id": 364,
+      "name": "Alone in the Dark"
+     }
+    ],
+    "cover": {
+     "id": 111300,
+     "image_id": "co2dvo"
+    },
+    "first_release_date": 1434067200,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 7716,
+    "name": "Alone in the Dark: Illumination",
+    "platforms": [
+     6
+    ],
+    "rating": 29.96291374854447,
+    "slug": "alone-in-the-dark-illumination",
+    "total_rating_count": 8
+   }
+  },
+  "names": {
+   "Alone in the Dark: Illumination|2015": {
+    "collections": [
+     {
+      "id": 364,
+      "name": "Alone in the Dark"
+     }
+    ],
+    "cover": {
+     "id": 111300,
+     "image_id": "co2dvo"
+    },
+    "first_release_date": 1434067200,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 7716,
+    "name": "Alone in the Dark: Illumination",
+    "platforms": [
+     6
+    ],
+    "rating": 29.96291374854447,
+    "slug": "alone-in-the-dark-illumination",
+    "total_rating_count": 8
+   },
+   "Battlefield 1942|2002": {
+    "aggregated_rating": 90.0,
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 89822,
+     "image_id": "co1xb2"
+    },
+    "first_release_date": 1031616000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 240,
+    "name": "Battlefield 1942",
+    "platforms": [
+     6,
+     14
+    ],
+    "rating": 80.31330224617209,
+    "slug": "battlefield-1942",
+    "total_rating_count": 277
+   },
+   "Battlefield Hardline|2015": {
+    "aggregated_rating": 72.71428571428571,
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 77272,
+     "image_id": "co1nmg"
+    },
+    "first_release_date": 1426550400,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 7081,
+    "name": "Battlefield Hardline",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 67.74453548028593,
+    "slug": "battlefield-hardline",
+    "total_rating_count": 335
+   },
+   "Battlefield Heroes|2009": {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 89836,
+     "image_id": "co1xbg"
+    },
+    "first_release_date": 1245888000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 350,
+    "name": "Battlefield Heroes",
+    "platforms": [
+     6
+    ],
+    "rating": 74.47174723664874,
+    "slug": "battlefield-heroes",
+    "total_rating_count": 60
+   },
+   "Battlefield Play4Free|2011": {
+    "collections": [
+     {
+      "id": 34,
+      "name": "Battlefield"
+     }
+    ],
+    "cover": {
+     "id": 89842,
+     "image_id": "co1xbm"
+    },
+    "first_release_date": 1301875200,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 354,
+    "name": "Battlefield Play4Free",
+    "platforms": [
+     6
+    ],
+    "rating": 53.18465244426774,
+    "slug": "battlefield-play4free",
+    "total_rating_count": 30
+   },
+   "Jack in the Dark|1993": {
+    "collections": [
+     {
+      "id": 364,
+      "name": "Alone in the Dark"
+     }
+    ],
+    "cover": {
+     "id": 341974,
+     "image_id": "co7bva"
+    },
+    "first_release_date": 754704000,
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 51346,
+    "name": "Jack in the Dark",
+    "platforms": [
+     149,
+     14,
+     13
+    ],
+    "slug": "jack-in-the-dark"
+   }
+  }
  }
 }
