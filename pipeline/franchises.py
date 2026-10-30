@@ -67,7 +67,9 @@ def _pair_versions(entries):
     for e in entries:
         mate = None
         for o in out:
-            if o["spin"] != e["spin"] or o.get("_paired") or abs((o.get("date") or 0) - (e.get("date") or 1e12)) > 31 * 86400:
+            close = abs((o.get("date") or 0) - (e.get("date") or 1e12)) <= 31 * 86400
+            versions = o["year"] == e["year"] and (o["title"] or "").endswith("Version") and (e["title"] or "").endswith("Version")
+            if o["spin"] != e["spin"] or o.get("_paired") or not (close or versions):
                 continue
             a, b = (o["title"] or "").split(), (e["title"] or "").split()
             if len(a) == len(b) and sum(x != y for x, y in zip(a, b)) == 1:
