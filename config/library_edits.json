@@ -2797,13 +2797,12 @@
      "sent": false
     },
     {
-     "key": "igdb:2332",
+     "key": "igdb:2345",
      "best": "igdb:2345",
      "why": [
-      "Play this game to get to the amazing Mario Kart DS (85). It's the earliest Mario game you haven't played.",
-      "Not on this console: Switch Online (Switch + SNES)",
+      "Top-rated game you haven't played (average 85)",
       "A change of genre: Racing, Arcade",
-      "Shorter than what you're playing: about 8h to beat"
+      "Shorter than what you're playing: about 10.5h to beat"
      ],
      "sent": false
     },
@@ -2821,9 +2820,10 @@
    "skip": [
     "igdb:1398",
     "igdb:2332",
-    "igdb:8167"
+    "igdb:8167",
+    "igdb:2345"
    ],
-   "date": "2026-10-30T18:59:21.008Z"
+   "date": "2026-10-30T18:59:29.208Z"
   }
  }
 }
