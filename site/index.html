@@ -662,6 +662,20 @@ function sentHere(){  // suggestions sent to this console from another tab, newe
     .sort((a,b)=>String(b.info.date).localeCompare(String(a.info.date))).slice(0,3)
     .map(({g,info})=>({game:g, best:g, sent:true, why:[info.guide ? `Up next in your ${info.guide} guide` : `Sent here from your ${info.from} suggestions`, ...(info.why?[info.why]:[])]}));
 }
+function guidePrev(best, pool){
+  /* Earlier games in best's franchise guide: same sub-series, before it, that you have (any console or
+     subscription) and haven't played, not covered by a remake you played, and not worth skipping. */
+  if(!FR.data || !FR.data.franchises) return null;
+  if(!FR._byKey){ FR._byKey = new Map();
+    for(const f of FR.data.franchises) for(const e of f.games) if(!e.spin) for(const k of e.keys) if(!FR._byKey.has(k)) FR._byKey.set(k, f); }
+  const f = FR._byKey.get(best.key); if(!f) return null;
+  const G = frGames(f);
+  const me = G.main.find(e=>e.keys.includes(best.key)); if(!me) return null;
+  const line = G.sections ? G.sections.find(s=>s.games.includes(me)).games : G.main;
+  const ok = new Set(pool.map(g=>g.key));
+  const prev = line.slice(0, line.indexOf(me)).find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip && e.row && ok.has(e.row.key));
+  return prev ? {game: prev.row, guide: f.name} : null;
+}
 function whereIs(g){
   const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
   return g._catalog ? `in the PS Plus catalog (${g.platforms.join(", ")})` : g.nso ? `Switch Online (${g.platforms.join(" + ")})` : `you have it on ${p.join(", ")}`;
@@ -709,8 +723,9 @@ function suggestions(keep=[null,null,null]){
     let game = best, why = [];
     // Earlier entries are looked up across everything you have: every console, PS Plus and Switch Online.
     const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !taken(x));
-    const prev = earliestUnplayed(best, everywhere);
-    if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest entry in the series you haven't played.`);
+    // The franchise guides know each series' real order (checked against Wikipedia); fall back to IGDB series data.
+    const prev = guidePrev(best, everywhere) || earliestUnplayed(best, everywhere);
+    if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest ${prev.guide ? `${esc(prev.guide)} game` : "entry in the series"} you haven't played.`);
       if(!inTab.has(game.key)) why.push(`Not on this console: ${whereIs(game)}`); }
     else why.push(`Top-rated game you haven't played (average ${avg(game)})`);
     const others = (game.genres||[]).filter(x=>!curGenres.has(x));
@@ -1318,7 +1333,8 @@ $("hideOwned").onchange = e=>{ state.hideOwned = e.target.checked; render(); };
     }
   }catch{}
 })();
-Promise.all([loadView("library"), loadView("psplus")]).then(()=>showView(state.view)).then(()=>{ loadEdits(); syncNsoList(); });
+Promise.all([loadView("library"), loadView("psplus"),
+  fetch("franchises.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null).then(d=>{ if(d) FR.data = d; })]).then(()=>showView(state.view)).then(()=>{ loadEdits(); syncNsoList(); });
 </script>
 </body>
 </html>
