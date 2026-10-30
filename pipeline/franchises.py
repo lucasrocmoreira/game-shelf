@@ -28,6 +28,7 @@ SKIP = {"star wars", "marvel", "lego", "batman", "dc comics", "disney", "warhamm
         "lord of the rings", "the lord of the rings", "dungeons & dragons", "nintendo sports"}
 STOP = {"the", "and", "of", "a", "an", "series", "game", "games"}
 MIN_OWNED = 2
+DEBUG = None  # set to {} to record why each game was dropped or made a spin-off
 MAIN_TYPES = {0, 4, 8}   # main game, standalone expansion, remake
 MOBILE_ONLY = {34, 39, 55, 82, 74}  # Android, iOS, legacy mobile, browser, Windows Phone
 
@@ -187,18 +188,24 @@ def build(igdb_client, igdb_games, rows):
             if par:
                 pop[par] = pop.get(par, 0) + (g.get("total_rating_count") or 0)
         mains = []
+        dbg = DEBUG.setdefault(name, {}) if DEBUG is not None else None
         for g in c["games"]:
             t = _type(g)
+            why = None
             if t not in MAIN_TYPES or g.get("version_parent"):
+                why = f"type {t}" + (" (edition of another game)" if g.get("version_parent") else "")
+            elif not g.get("first_release_date") or g["first_release_date"] > now:
+                why = "unreleased or no date"
+            elif (set(g.get("platforms") or []) and set(g.get("platforms") or []) <= MOBILE_ONLY):
+                why = "mobile/browser only"
+            else:
+                mf = _main_franchise(g)
+                if mf and mf != fid and not (words & set(_words(g.get("name")))):
+                    why = f"crossover (main franchise {mf})"  # another franchise's game, name doesn't say this one
+            if why:
+                if dbg is not None:
+                    dbg[g["id"]] = {"name": g.get("name"), "year": _year(g), "ratings": g.get("total_rating_count"), "dropped": why}
                 continue
-            if not g.get("first_release_date") or g["first_release_date"] > now:
-                continue
-            plats = set(g.get("platforms") or [])
-            if plats and plats <= MOBILE_ONLY:
-                continue
-            mf = _main_franchise(g)
-            if mf and mf != fid and not (words & set(_words(g.get("name")))):
-                continue  # crossover: another franchise's game, and the name doesn't say this one
             mains.append(g)
         # Sub-series (Mario Kart, Mario Party, Paper Mario): IGDB collections with 3+ of these games.
         # A collection whose name contains a bigger one's ("New Super Mario Bros." in "Super Mario")
@@ -264,6 +271,11 @@ def build(igdb_client, igdb_games, rows):
             # A main game carries the series name (Smash Bros. and Captain Toad are Mario spin-offs).
             unnamed = bool(words) and not any(w in (g.get("name") or "").lower() for w in words)
             spin = not in_main or pop.get(g["id"], 0) < floor or off_genre or unnamed
+            if dbg is not None and spin:
+                dbg[g["id"]] = {"name": g.get("name"), "year": _year(g), "ratings": pop.get(g["id"], 0),
+                                "spin_because": [r for r, on in (("not in the series named like the franchise", not in_main),
+                                                 (f"few ratings ({pop.get(g['id'], 0)} < {round(floor)})", pop.get(g["id"], 0) < floor),
+                                                 ("unusual genre for the series", off_genre), ("name lacks the series name", unnamed)) if on]}
             scores = [v for v in (g.get("aggregated_rating"), g.get("rating")) if isinstance(v, (int, float)) and v > 0]
             entries.append({
                 "id": g["id"],
