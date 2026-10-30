@@ -1613,8 +1613,8 @@
   "notes": "Wikipedia main series: 1, 2, 3, 4, Origins, Homecoming, Downpour; Shattered Memories is a re-imagining of the first game; Silent Hill 2 (2024) is a remake. Wikipedia explicitly calls Silent Hill f a spin-off and Townfall a standalone spin-off, so both are left out of main even though Konami marketed f as a new mainline entry (debatable). P.T. is a playable teaser, left as a spin-off.",
   "curated_at": "2026-10-30"
  },
- "Sonic the Hedgehog": {
-  "franchise": "Sonic the Hedgehog",
+ "Sonic The Hedgehog": {
+  "franchise": "Sonic The Hedgehog",
   "source": "https://en.wikipedia.org/wiki/List_of_Sonic_the_Hedgehog_video_games",
   "main": [
    {
@@ -1728,8 +1728,8 @@
   "notes": "Wikipedia's list does not label a main series explicitly; this follows its platformer tables and the usual main-series reading. Spinball, Sonic R, Sonic Battle, Chronicles and Sonic Boom are spin-offs. Sonic X Shadow Generations (2024) only exists in IGDB as a bundle (284716); the standalone Shadow Generations (320861) stays a spin-off to avoid a duplicate. 19538 is the 1996 Game Gear Sonic Blast (not 198604).",
   "curated_at": "2026-10-30"
  },
- "SpongeBob SquarePants": {
-  "franchise": "SpongeBob SquarePants",
+ "Spongebob Squarepants": {
+  "franchise": "Spongebob Squarepants",
   "source": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_video_games",
   "main": [
    {
@@ -1828,8 +1828,8 @@
   "notes": "Star Fox 2 listed at its 2017 release. Star Fox Adventures counted as main per Wikipedia. Star Fox Guard left as spin-off. 234945 is an undated duplicate 'Star Fox' entry.",
   "curated_at": "2026-10-30"
  },
- "Tales": {
-  "franchise": "Tales",
+ "Tales of": {
+  "franchise": "Tales of",
   "source": "https://en.wikipedia.org/wiki/List_of_Tales_media",
   "main": [
    {
@@ -2273,8 +2273,8 @@
   "notes": "XCOM: Enemy Unknown (2012) is a reboot/re-imagining, listed as its own entry rather than a remake. Wikipedia includes Interceptor among the core 1990s games but also calls it a spin-off; most players count it as a spin-off, so it is not listed. The Bureau is a spin-off. 143076 is a duplicate entry of the Enemy Within expansion.",
   "curated_at": "2026-10-30"
  },
- "Yakuza / Like a Dragon": {
-  "franchise": "Yakuza / Like a Dragon",
+ "Yakuza: Like a Dragon": {
+  "franchise": "Yakuza: Like a Dragon",
   "source": "https://en.wikipedia.org/wiki/List_of_Yakuza_media",
   "main": [
    {
