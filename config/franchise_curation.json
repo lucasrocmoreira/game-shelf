@@ -1,0 +1,2328 @@
+{
+ "Ace Attorney": {
+  "franchise": "Ace Attorney",
+  "source": "https://en.wikipedia.org/wiki/Ace_Attorney",
+  "main": [
+   {
+    "id": 221280,
+    "title": "Phoenix Wright: Ace Attorney"
+   },
+   {
+    "id": 221289,
+    "title": "Phoenix Wright: Ace Attorney - Justice for All"
+   },
+   {
+    "id": 221290,
+    "title": "Phoenix Wright: Ace Attorney - Trials and Tribulations"
+   },
+   {
+    "id": 1429
+   },
+   {
+    "id": 1432
+   },
+   {
+    "id": 12077
+   }
+  ],
+  "spin": [
+   {
+    "id": 1430
+   },
+   {
+    "id": 84972,
+    "title": "Ace Attorney Investigations 2: Prosecutor's Gambit"
+   },
+   {
+    "id": 1402
+   },
+   {
+    "id": 76244
+   },
+   {
+    "id": 146081
+   }
+  ],
+  "drop": [
+   9721,
+   143498,
+   143453,
+   76243,
+   420896
+  ],
+  "notes": "Main = Wikipedia's six main-series games, using the Japanese GBA originals (2001/2002/2004) as IGDB entries; the DS 'Phoenix Wright' versions are IGDB expanded games of these. Investigations 1-2, Layton crossover and Great Ace Attorney 1-2 are spin-offs per Wikipedia. Dropped: Project X Zone 2 (crossover), two fan games (Turnabout Substitution, Golden Witch), Gyakuten Saiban Jiten (reference app), Joypolis attraction.",
+  "curated_at": "2026-10-30"
+ },
+ "Alone in the Dark": {
+  "franchise": "Alone in the Dark",
+  "source": "https://en.wikipedia.org/wiki/Alone_in_the_Dark",
+  "main": [
+   {
+    "id": 1956
+   },
+   {
+    "id": 1957
+   },
+   {
+    "id": 1959
+   },
+   {
+    "id": 1960
+   },
+   {
+    "id": 1958
+   },
+   {
+    "name": "Alone in the Dark: Illumination",
+    "year": 2015
+   },
+   {
+    "id": 213237,
+    "title": "Alone in the Dark (2024)",
+    "remake_of": 1956
+   }
+  ],
+  "spin": [
+   {
+    "name": "Jack in the Dark",
+    "year": 1993
+   }
+  ],
+  "drop": [
+   22279
+  ],
+  "notes": "Illumination (2015) is not in the IGDB cache, given by name. Ghosthunter is an unrelated Cambridge Studio game, dropped. 2024 game is a reimagining of the 1992 original.",
+  "curated_at": "2026-10-30"
+ },
+ "Animal Crossing": {
+  "franchise": "Animal Crossing",
+  "source": "https://en.wikipedia.org/wiki/Animal_Crossing",
+  "main": [
+   {
+    "id": 44042,
+    "title": "Animal Crossing"
+   },
+   {
+    "id": 2645
+   },
+   {
+    "id": 2688
+   },
+   {
+    "id": 2687
+   },
+   {
+    "id": 109462
+   }
+  ],
+  "drop": [
+   229502,
+   229503,
+   229504,
+   229505,
+   354369,
+   354370,
+   354388,
+   354389,
+   354390,
+   354392,
+   354393,
+   354400,
+   354403,
+   59998,
+   61463
+  ],
+  "notes": "First entry uses the N64 original Doubutsu no Mori (2001); the 2002 GameCube 'Animal Crossing' (id 2655) is an IGDB expanded game of it. Happy Home Designer, Amiibo Festival and Pocket Camp are spin-offs per Wikipedia (left to the checkbox). Dropped: e-Reader/N64 minigames and the Photos/Plaza companion apps.",
+  "curated_at": "2026-10-30"
+ },
+ "Assassin's Creed": {
+  "franchise": "Assassin's Creed",
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed",
+  "main": [
+   {
+    "id": 128
+   },
+   {
+    "id": 127
+   },
+   {
+    "id": 113
+   },
+   {
+    "id": 537
+   },
+   {
+    "id": 1266
+   },
+   {
+    "id": 1970
+   },
+   {
+    "id": 7570
+   },
+   {
+    "id": 5606
+   },
+   {
+    "id": 8263
+   },
+   {
+    "id": 28540
+   },
+   {
+    "id": 103054
+   },
+   {
+    "id": 133004
+   },
+   {
+    "id": 215060
+   },
+   {
+    "id": 300976
+   },
+   {
+    "id": 337738,
+    "remake_of": 1970
+   }
+  ],
+  "drop": [
+   135506,
+   133962,
+   152231
+  ],
+  "notes": "Liberation and Freedom Cry are spin-offs per Wikipedia (Freedom Cry started as Black Flag DLC). Discovery Tour entries are educational modes of Origins/Odyssey/Valhalla, dropped. Black Flag Resynced released 2026-07-09.",
+  "curated_at": "2026-10-30"
+ },
+ "Battlefield": {
+  "franchise": "Battlefield",
+  "source": "https://en.wikipedia.org/wiki/List_of_Battlefield_video_games",
+  "main": [
+   {
+    "name": "Battlefield 1942",
+    "year": 2002
+   },
+   {
+    "id": 335
+   },
+   {
+    "id": 277
+   },
+   {
+    "id": 348
+   },
+   {
+    "id": 349
+   },
+   {
+    "id": 473
+   },
+   {
+    "id": 351
+   },
+   {
+    "id": 352
+   },
+   {
+    "id": 343
+   },
+   {
+    "id": 1979
+   },
+   {
+    "id": 18320
+   },
+   {
+    "id": 83728
+   },
+   {
+    "id": 125166
+   },
+   {
+    "id": 317407
+   }
+  ],
+  "spin": [
+   {
+    "name": "Battlefield Hardline",
+    "year": 2015
+   },
+   {
+    "name": "Battlefield Heroes",
+    "year": 2009
+   },
+   {
+    "name": "Battlefield Play4Free",
+    "year": 2011
+   }
+  ],
+  "notes": "Battlefield 1942, Hardline, Heroes and Play4Free are not in the IGDB cache (only the 1942 Complete Collection bundle 284924 is), given by name. Wikipedia's list puts 2: Modern Combat (console) and 1943 (downloadable) among the main games; kept as main though many players treat them as side entries. Hardline is a spin-off per Wikipedia.",
+  "curated_at": "2026-10-30"
+ },
+ "Borderlands": {
+  "franchise": "Borderlands",
+  "source": "https://en.wikipedia.org/wiki/Borderlands_(series)",
+  "main": [
+   {
+    "id": 498
+   },
+   {
+    "id": 1011
+   },
+   {
+    "id": 6032
+   },
+   {
+    "id": 19164
+   },
+   {
+    "id": 314246
+   }
+  ],
+  "notes": "Matches the current output. Tales, New Tales, Wonderlands and Assault on Dragon Keep are spin-offs.",
+  "curated_at": "2026-10-30"
+ },
+ "Call of Duty": {
+  "franchise": "Call of Duty",
+  "source": "https://en.wikipedia.org/wiki/Call_of_Duty",
+  "main": [
+   {
+    "id": 621
+   },
+   {
+    "id": 622
+   },
+   {
+    "id": 949
+   },
+   {
+    "id": 623
+   },
+   {
+    "id": 625
+   },
+   {
+    "id": 559
+   },
+   {
+    "id": 545
+   },
+   {
+    "id": 979
+   },
+   {
+    "id": 1122
+   },
+   {
+    "id": 2033
+   },
+   {
+    "id": 6632
+   },
+   {
+    "id": 9509
+   },
+   {
+    "id": 18968
+   },
+   {
+    "id": 28204
+   },
+   {
+    "id": 83727
+   },
+   {
+    "id": 119177
+   },
+   {
+    "id": 137001
+   },
+   {
+    "id": 165067
+   },
+   {
+    "id": 200165
+   },
+   {
+    "id": 260780
+   },
+   {
+    "id": 302156
+   },
+   {
+    "id": 348220
+   },
+   {
+    "id": 403310
+   }
+  ],
+  "notes": "23 annual main entries per Wikipedia. Both Warzone releases (131800, 217815) are free-to-play spin-offs. Modern Warfare 4 released 2026-10-23.",
+  "curated_at": "2026-10-30"
+ },
+ "Castlevania": {
+  "franchise": "Castlevania",
+  "source": "https://en.wikipedia.org/wiki/List_of_Castlevania_media",
+  "sections": [
+   {
+    "name": "Castlevania",
+    "games": [
+     {
+      "id": 1114
+     },
+     {
+      "id": 1115
+     },
+     {
+      "id": 1116
+     },
+     {
+      "id": 1117
+     },
+     {
+      "id": 1118
+     },
+     {
+      "id": 151162,
+      "title": "Castlevania III: Dracula's Curse"
+     },
+     {
+      "id": 1123
+     },
+     {
+      "id": 1124
+     },
+     {
+      "id": 215375,
+      "title": "Castlevania Chronicles",
+      "remake_of": 1114
+     },
+     {
+      "id": 1139
+     },
+     {
+      "id": 1127
+     },
+     {
+      "id": 16476,
+      "remake_of": 1139
+     },
+     {
+      "id": 1128
+     },
+     {
+      "id": 1129
+     },
+     {
+      "id": 1130,
+      "title": "Castlevania (Nintendo 64)"
+     },
+     {
+      "id": 1131
+     },
+     {
+      "id": 1132
+     },
+     {
+      "id": 1133
+     },
+     {
+      "id": 1134
+     },
+     {
+      "id": 1135
+     },
+     {
+      "id": 1136
+     },
+     {
+      "id": 1137
+     },
+     {
+      "id": 1138
+     },
+     {
+      "id": 21888,
+      "remake_of": 1139
+     },
+     {
+      "id": 1141
+     },
+     {
+      "id": 1146,
+      "remake_of": 1118
+     },
+     {
+      "id": 314976,
+      "remake_of": 1117
+     },
+     {
+      "id": 389434
+     }
+    ]
+   },
+   {
+    "name": "Lords of Shadow",
+    "games": [
+     {
+      "id": 491
+     },
+     {
+      "id": 1149
+     },
+     {
+      "id": 1182
+     }
+    ]
+   }
+  ],
+  "drop": [
+   315523
+  ],
+  "notes": "Follows Wikipedia's main-series table, which includes Vampire Killer, Haunted Castle, Castlevania Legends and Legacy of Darkness. Castlevania III uses the Japanese original Akumajou Densetsu (151162); the US release 1119 is an IGDB port of it. Castlevania Chronicles uses the 1993 X68000 original (215375); 19468 is the 2001 PS version. Super Castlevania IV is listed as a main entry, not a remake, although IGDB types it as a remake of Castlevania. Dracula X Chronicles and Haunted Castle Revisited are remakes Wikipedia lists under compilations. Lords of Shadow is a separate reboot table on Wikipedia.",
+  "curated_at": "2026-10-30"
+ },
+ "Crash Bandicoot": {
+  "franchise": "Crash Bandicoot",
+  "source": "https://en.wikipedia.org/wiki/List_of_Crash_Bandicoot_video_games",
+  "main": [
+   {
+    "id": 1185
+   },
+   {
+    "id": 1186
+   },
+   {
+    "id": 1187
+   },
+   {
+    "id": 1188
+   },
+   {
+    "id": 1189
+   },
+   {
+    "id": 1190
+   },
+   {
+    "id": 1191
+   },
+   {
+    "id": 135449,
+    "title": "Crash Bandicoot (N. Sane Trilogy)",
+    "remake_of": 1185
+   },
+   {
+    "id": 135450,
+    "title": "Crash Bandicoot 2: Cortex Strikes Back (N. Sane Trilogy)",
+    "remake_of": 1186
+   },
+   {
+    "id": 135451,
+    "title": "Crash Bandicoot: Warped (N. Sane Trilogy)",
+    "remake_of": 1187
+   },
+   {
+    "id": 135254
+   }
+  ],
+  "drop": [
+   210243,
+   245527,
+   148195,
+   80155,
+   148198
+  ],
+  "notes": "Main = Wikipedia's console platformers. GBA handheld platformers (Huge Adventure, N-Tranced, Purple) are a separate Wikipedia table; left as spin-offs. N. Sane Trilogy is one 2017 compilation of three remakes; IGDB has three remake ids. Dropped: LCD handheld and mobile titles that IGDB does not tag as mobile.",
+  "curated_at": "2026-10-30"
+ },
+ "Diablo": {
+  "franchise": "Diablo",
+  "source": "https://en.wikipedia.org/wiki/Diablo_(series)",
+  "main": [
+   {
+    "id": 125
+   },
+   {
+    "id": 126
+   },
+   {
+    "id": 120
+   },
+   {
+    "id": 125165
+   }
+  ],
+  "spin": [
+   {
+    "id": 111651
+   }
+  ],
+  "notes": "Diablo Immortal is a mobile-first MMO spin-off per Wikipedia (it also runs on PC, so the mobile filter misses it). Expansions and Diablo II: Resurrected (remaster) are not separate entries.",
+  "curated_at": "2026-10-30"
+ },
+ "Donkey Kong": {
+  "franchise": "Donkey Kong",
+  "source": "https://en.wikipedia.org/wiki/List_of_Donkey_Kong_video_games",
+  "sections": [
+   {
+    "name": "Donkey Kong",
+    "games": [
+     {
+      "id": 1086
+     },
+     {
+      "id": 1087,
+      "title": "Donkey Kong Jr."
+     },
+     {
+      "id": 1088
+     },
+     {
+      "id": 1089,
+      "title": "Donkey Kong (1994)"
+     },
+     {
+      "id": 1096
+     },
+     {
+      "id": 1097
+     },
+     {
+      "id": 338106
+     }
+    ]
+   },
+   {
+    "name": "Donkey Kong Country",
+    "games": [
+     {
+      "id": 1090
+     },
+     {
+      "id": 1092
+     },
+     {
+      "id": 1094
+     },
+     {
+      "id": 1100
+     },
+     {
+      "id": 2923
+     }
+    ]
+   },
+   {
+    "name": "Donkey Kong Land",
+    "games": [
+     {
+      "id": 1091
+     },
+     {
+      "id": 1093
+     },
+     {
+      "id": 1095
+     }
+    ]
+   },
+   {
+    "name": "Mario vs. Donkey Kong",
+    "games": [
+     {
+      "id": 6505
+     },
+     {
+      "id": 6506
+     },
+     {
+      "id": 48032
+     },
+     {
+      "id": 21093
+     },
+     {
+      "id": 18027
+     },
+     {
+      "id": 8594
+     },
+     {
+      "id": 18195
+     },
+     {
+      "id": 266674,
+      "remake_of": 6505
+     }
+    ]
+   }
+  ],
+  "drop": [
+   6401
+  ],
+  "notes": "Wikipedia groups these as arcade games, Country, Land and Mario vs. Donkey Kong tables. DK64, Jungle Beat and Bananza (3D/standalone platformers) are put in the first section, and Donkey Kong (1994, Game Boy) is kept there as a main game; Wikipedia's tables are loose here. Diddy Kong Racing, Donkey Konga, Barrel Blast, King of Swing and Jungle Climber stay as spin-offs. NES Remix is a crossover compilation, dropped.",
+  "curated_at": "2026-10-30"
+ },
+ "Double Dragon": {
+  "franchise": "Double Dragon",
+  "source": "https://en.wikipedia.org/wiki/Double_Dragon",
+  "main": [
+   {
+    "id": 6787
+   },
+   {
+    "id": 6790
+   },
+   {
+    "id": 10194
+   },
+   {
+    "id": 79335
+   },
+   {
+    "id": 9929
+   },
+   {
+    "id": 4475
+   },
+   {
+    "id": 6384,
+    "remake_of": 6787
+   },
+   {
+    "id": 5968
+   },
+   {
+    "id": 21001,
+    "remake_of": 6790
+   },
+   {
+    "id": 26621
+   },
+   {
+    "id": 248358
+   },
+   {
+    "id": 308051
+   }
+  ],
+  "notes": "Wikipedia's classic list also includes Battletoads/Double Dragon (crossover), the 1995 Neo Geo fighting game and Game Boy/Game Gear versions; kept as spin-offs since players do not count them as mainline. Neon is listed by Wikipedia under remakes/reimaginings but is a new game, so it is main without remake_of. Revive (2025) is a reboot in Wikipedia's revived series.",
+  "curated_at": "2026-10-30"
+ },
+ "Dragon Quest": {
+  "franchise": "Dragon Quest",
+  "source": "https://en.wikipedia.org/wiki/List_of_Dragon_Quest_media",
+  "main": [
+   {
+    "id": 205229,
+    "title": "Dragon Quest"
+   },
+   {
+    "id": 205592,
+    "title": "Dragon Quest II"
+   },
+   {
+    "id": 205589,
+    "title": "Dragon Quest III"
+   },
+   {
+    "id": 16584,
+    "title": "Dragon Quest IV"
+   },
+   {
+    "id": 205595,
+    "title": "Dragon Quest V"
+   },
+   {
+    "id": 145497,
+    "title": "Dragon Quest VI"
+   },
+   {
+    "id": 1818,
+    "title": "Dragon Quest VII"
+   },
+   {
+    "id": 1819
+   },
+   {
+    "id": 1820
+   },
+   {
+    "id": 80597,
+    "title": "Dragon Quest X"
+   },
+   {
+    "id": 11667
+   },
+   {
+    "id": 239185,
+    "title": "Dragon Quest (Super Famicom remake)",
+    "remake_of": 205229
+   },
+   {
+    "id": 239186,
+    "title": "Dragon Quest II (Super Famicom remake)",
+    "remake_of": 205592
+   },
+   {
+    "id": 144651,
+    "title": "Dragon Quest III (Super Famicom remake)",
+    "remake_of": 205589
+   },
+   {
+    "id": 205600,
+    "title": "Dragon Quest III (Game Boy Color remake)",
+    "remake_of": 205589
+   },
+   {
+    "id": 145467,
+    "title": "Dragon Quest IV (PlayStation remake)",
+    "remake_of": 16584
+   },
+   {
+    "id": 144540,
+    "title": "Dragon Quest V (PlayStation 2 remake)",
+    "remake_of": 205595
+   },
+   {
+    "id": 1815,
+    "remake_of": 16584
+   },
+   {
+    "id": 16585,
+    "remake_of": 205595
+   },
+   {
+    "id": 1817,
+    "remake_of": 145497
+   },
+   {
+    "id": 23913,
+    "remake_of": 1818
+   },
+   {
+    "id": 149989,
+    "title": "Dragon Quest X Offline",
+    "remake_of": 80597
+   },
+   {
+    "id": 149980,
+    "remake_of": 205589
+   },
+   {
+    "id": 375616,
+    "remake_of": 205229
+   },
+   {
+    "id": 375617,
+    "remake_of": 205592
+   },
+   {
+    "id": 366884,
+    "remake_of": 1818
+   }
+  ],
+  "drop": [
+   271211
+  ],
+  "notes": "Main = I to XI (XII unreleased). Monsters, Heroes, Builders, Torneko, Slime are spin-off series per Wikipedia. Remakes listed are the console remakes Wikipedia names; the mobile-derived ids 1812, 1813, 1814 (2004/2005/2009 'Dragon Quest', 'II: Luminaries', 'III: Seeds of Salvation') are left out of main and will show as spin-offs. 271211 is a duplicate JP entry of the DS Dragon Quest IV (1815).",
+  "curated_at": "2026-10-30"
+ },
+ "Fallout": {
+  "franchise": "Fallout",
+  "source": "https://en.wikipedia.org/wiki/Fallout_(franchise)",
+  "main": [
+   {
+    "id": 13,
+    "title": "Fallout"
+   },
+   {
+    "id": 14
+   },
+   {
+    "id": 15
+   },
+   {
+    "id": 9630
+   }
+  ],
+  "notes": "Wikipedia's main series is Fallout 1 to 4 (5 unreleased) and explicitly classes New Vegas (16) and Fallout 76 (103020) as spin-offs, so they are left to the spin-off checkbox. Many players count New Vegas as mainline; promote 16 if you prefer player convention over Wikipedia.",
+  "curated_at": "2026-10-30"
+ },
+ "Far Cry": {
+  "franchise": "Far Cry",
+  "source": "https://en.wikipedia.org/wiki/Far_Cry",
+  "main": [
+   {
+    "id": 306
+   },
+   {
+    "id": 361
+   },
+   {
+    "id": 529
+   },
+   {
+    "id": 6801
+   },
+   {
+    "id": 28552
+   },
+   {
+    "id": 126290
+   }
+  ],
+  "notes": "Wikipedia main series is the numbered games only. Blood Dragon (standalone expansion), Primal, New Dawn, Instincts, Instincts: Evolution, Vengeance and VR are spin-offs and stay behind the checkbox (all attached in IGDB). Far Cry Instincts is not a remake of Far Cry despite IGDB's remake typing.",
+  "curated_at": "2026-10-30"
+ },
+ "Final Fantasy": {
+  "franchise": "Final Fantasy",
+  "source": "https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games",
+  "main": [
+   {
+    "id": 385
+   },
+   {
+    "id": 16474
+   },
+   {
+    "id": 77234
+   },
+   {
+    "id": 16587
+   },
+   {
+    "id": 419
+   },
+   {
+    "id": 426,
+    "title": "Final Fantasy VI"
+   },
+   {
+    "id": 393025
+   },
+   {
+    "id": 425
+   },
+   {
+    "id": 421
+   },
+   {
+    "id": 418
+   },
+   {
+    "id": 411,
+    "title": "Final Fantasy XI"
+   },
+   {
+    "id": 398
+   },
+   {
+    "id": 389
+   },
+   {
+    "id": 14729,
+    "title": "Final Fantasy XIV (2010)"
+   },
+   {
+    "id": 386,
+    "title": "Final Fantasy XIV: A Realm Reborn"
+   },
+   {
+    "id": 359
+   },
+   {
+    "id": 31551
+   },
+   {
+    "id": 121688,
+    "title": "Final Fantasy (WonderSwan Color remake)",
+    "remake_of": 385
+   },
+   {
+    "id": 393,
+    "title": "Final Fantasy III (3D remake)",
+    "remake_of": 77234
+   },
+   {
+    "id": 399,
+    "title": "Final Fantasy IV (3D remake)",
+    "remake_of": 16587
+   },
+   {
+    "id": 11169,
+    "remake_of": 393025
+   },
+   {
+    "id": 133236,
+    "remake_of": 393025
+   }
+  ],
+  "drop": [
+   2406
+  ],
+  "notes": "Main = numbered I to XVI; XIV appears twice as Wikipedia lists both the 2010 original and the 2013 relaunch. IGDB 426 is FF VI under its US SNES title 'Final Fantasy III'. FF VII uses 393025 (original JP release, type 0); the popular IGDB entry 427 (1641 ratings) is its 'expanded game' child, so the app may want to inherit ratings from 427. Direct sequels X-2, XIII-2, Lightning Returns and Tactics, Crisis Core, Type-0, Pocket Edition are spin-offs per Wikipedia's grouping. 2406 is a 2005 Verizon phone 'Final Fantasy VII' entry with no ratings.",
+  "curated_at": "2026-10-30"
+ },
+ "Fire Emblem": {
+  "franchise": "Fire Emblem",
+  "source": "https://en.wikipedia.org/wiki/List_of_Fire_Emblem_video_games",
+  "main": [
+   {
+    "id": 1433,
+    "title": "Fire Emblem: Shadow Dragon and the Blade of Light"
+   },
+   {
+    "id": 1434
+   },
+   {
+    "id": 1435,
+    "title": "Fire Emblem: Mystery of the Emblem"
+   },
+   {
+    "id": 1436
+   },
+   {
+    "id": 1437
+   },
+   {
+    "id": 1438,
+    "title": "Fire Emblem: The Binding Blade"
+   },
+   {
+    "id": 1439,
+    "title": "Fire Emblem: The Blazing Blade"
+   },
+   {
+    "id": 1440
+   },
+   {
+    "id": 1441
+   },
+   {
+    "id": 1442
+   },
+   {
+    "id": 1443
+   },
+   {
+    "id": 24220
+   },
+   {
+    "id": 21863
+   },
+   {
+    "id": 26845
+   },
+   {
+    "id": 217550
+   },
+   {
+    "id": 366896
+   },
+   {
+    "id": 1444,
+    "remake_of": 1433
+   },
+   {
+    "id": 1445,
+    "title": "Fire Emblem: New Mystery of the Emblem",
+    "remake_of": 1435
+   },
+   {
+    "id": 26840,
+    "remake_of": 1434
+   }
+  ],
+  "notes": "Fates Birthright and Conquest are paired versions (both listed); Revelation is typed as DLC in IGDB (18038) and omitted. Fortune's Weave released 2026-09-17. Warriors, Three Hopes, Heroes, Tokyo Mirage Sessions, Shadows, BS Fire Emblem are spin-offs (all attached in IGDB).",
+  "curated_at": "2026-10-30"
+ },
+ "Five Nights at Freddy's": {
+  "franchise": "Five Nights at Freddy's",
+  "source": "https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s",
+  "main": [
+   {
+    "id": 8499
+   },
+   {
+    "id": 9195
+   },
+   {
+    "id": 9196
+   },
+   {
+    "id": 11583
+   },
+   {
+    "id": 19320
+   },
+   {
+    "id": 76725
+   },
+   {
+    "id": 103629
+   },
+   {
+    "id": 115304
+   },
+   {
+    "id": 138933
+   },
+   {
+    "id": 250627
+   },
+   {
+    "id": 312859
+   }
+  ],
+  "drop": [
+   136256,
+   243687
+  ],
+  "notes": "Wikipedia counts 11 main installments, Secret of the Mimic being the eleventh; Ultimate Custom Night and Help Wanted 2 are main, Into the Pit is a spin-off. Dropped Popgoes Arcade and MyPopgoes (fan-developed Popgoes series).",
+  "curated_at": "2026-10-30"
+ },
+ "God of War": {
+  "franchise": "God of War",
+  "source": "https://en.wikipedia.org/wiki/God_of_War_(franchise)",
+  "main": [
+   {
+    "id": 549
+   },
+   {
+    "id": 551
+   },
+   {
+    "id": 499
+   },
+   {
+    "id": 1291
+   },
+   {
+    "id": 19560
+   },
+   {
+    "id": 112875
+   }
+  ],
+  "drop": [
+   7390
+  ],
+  "notes": "Wikipedia mainline = the six Santa Monica Studio entries. Chains of Olympus, Ghost of Sparta, Sons of Sparta (2026) and Betrayal are side games (attached in IGDB, so they show as spin-offs). 7390 PlayStation All-Stars Battle Royale is a crossover.",
+  "curated_at": "2026-10-30"
+ },
+ "Grand Theft Auto": {
+  "franchise": "Grand Theft Auto",
+  "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+  "main": [
+   {
+    "id": 980
+   },
+   {
+    "id": 819
+   },
+   {
+    "id": 730
+   },
+   {
+    "id": 733
+   },
+   {
+    "id": 732
+   },
+   {
+    "id": 731
+   },
+   {
+    "id": 1020
+   }
+  ],
+  "drop": [
+   62701
+  ],
+  "notes": "Wikipedia main titles; GTA VI (52189) releases 2026-11-19 and should be added then. Handheld games (Advance, Liberty City Stories, Vice City Stories, Chinatown Wars) are listed by Wikipedia in a separate handheld section; some players count LCS/VCS as mainline. 62701 iFruit is a companion app.",
+  "curated_at": "2026-10-30"
+ },
+ "Half-Life": {
+  "franchise": "Half-Life",
+  "source": "https://en.wikipedia.org/wiki/Half-Life_(series)",
+  "main": [
+   {
+    "id": 231
+   },
+   {
+    "id": 233
+   },
+   {
+    "id": 338
+   },
+   {
+    "id": 247
+   },
+   {
+    "id": 126098
+   }
+  ],
+  "drop": [
+   241,
+   93071,
+   10395,
+   6741
+  ],
+  "notes": "Wikipedia main games are Half-Life, Half-Life 2 and Alyx; Episodes One and Two are Valve's direct continuations and most players count them as main, so included. Opposing Force, Blue Shift, Decay (Gearbox expansions), Black Mesa (third-party remake), Deathmatch and Codename: Gordon stay as spin-offs. Dropped Counter-Strike (its own franchise), Uplink (demo), Lost Coast (tech demo), Guard Duty (fan game).",
+  "curated_at": "2026-10-30"
+ },
+ "Infamous": {
+  "franchise": "Infamous",
+  "source": "https://en.wikipedia.org/wiki/Infamous_(series)",
+  "main": [
+   {
+    "id": 523
+   },
+   {
+    "id": 515
+   },
+   {
+    "id": 1941,
+    "title": "Infamous Second Son"
+   }
+  ],
+  "notes": "Festival of Blood and First Light are standalone expansions per Wikipedia and show as spin-offs. Second Son (2014-03-21) precedes First Light (2014-08-26).",
+  "curated_at": "2026-10-30"
+ },
+ "Ninja Gaiden": {
+  "franchise": "Ninja Gaiden",
+  "source": "https://en.wikipedia.org/wiki/Ninja_Gaiden",
+  "main": [
+   {
+    "id": 210484,
+    "title": "Ninja Gaiden (NES)"
+   },
+   {
+    "id": 15540
+   },
+   {
+    "id": 17249
+   },
+   {
+    "id": 5972
+   },
+   {
+    "id": 6782
+   },
+   {
+    "id": 7122
+   },
+   {
+    "id": 329130
+   }
+  ],
+  "notes": "Wikipedia main line: NES trilogy plus the numbered 3D games. IGDB types the 1988 NES game (210484) as a port of the arcade game (7558), so the NES id is used. Shadow, Dragon Sword, Yaiba and Ragebound are spin-offs per Wikipedia; Black, Sigma, Sigma 2, Razor's Edge and Ninja Gaiden II Black are enhanced versions, not separate entries.",
+  "curated_at": "2026-10-30"
+ },
+ "Persona": {
+  "franchise": "Persona",
+  "source": "https://en.wikipedia.org/wiki/Persona_(series)",
+  "main": [
+   {
+    "id": 240506,
+    "title": "Revelations: Persona"
+   },
+   {
+    "id": 11453
+   },
+   {
+    "id": 11454
+   },
+   {
+    "id": 9577
+   },
+   {
+    "id": 9600
+   },
+   {
+    "id": 9927
+   },
+   {
+    "id": 252647,
+    "remake_of": 9577
+   }
+  ],
+  "drop": [
+   263596
+  ],
+  "notes": "Persona 2 entries (11453, 11454) are only under IGDB's Megami Tensei franchise. Persona 5 Strikers is a spin-off per Wikipedia. FES, Portable, Golden and Royal are enhanced versions. Persona 4 Revival (Feb 2027) is unreleased. Dropped 263596 (Digital Collection, a compilation).",
+  "curated_at": "2026-10-30"
+ },
+ "Pokémon": {
+  "franchise": "Pokémon",
+  "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)",
+  "main": [
+   {
+    "id": 1561
+   },
+   {
+    "id": 1511
+   },
+   {
+    "id": 1512
+   },
+   {
+    "id": 1558
+   },
+   {
+    "id": 1513
+   },
+   {
+    "id": 1514
+   },
+   {
+    "id": 1557
+   },
+   {
+    "id": 1515
+   },
+   {
+    "id": 1559,
+    "remake_of": 1561
+   },
+   {
+    "id": 1516,
+    "remake_of": 1511
+   },
+   {
+    "id": 1517
+   },
+   {
+    "id": 1560
+   },
+   {
+    "id": 1518
+   },
+   {
+    "id": 1519
+   },
+   {
+    "id": 1556,
+    "remake_of": 1558
+   },
+   {
+    "id": 1520,
+    "remake_of": 1513
+   },
+   {
+    "id": 1521
+   },
+   {
+    "id": 1522
+   },
+   {
+    "id": 8284
+   },
+   {
+    "id": 8353
+   },
+   {
+    "id": 2286
+   },
+   {
+    "id": 2287
+   },
+   {
+    "id": 6897,
+    "remake_of": 1557
+   },
+   {
+    "id": 6898,
+    "remake_of": 1515
+   },
+   {
+    "id": 18100
+   },
+   {
+    "id": 18099
+   },
+   {
+    "id": 36792
+   },
+   {
+    "id": 36793
+   },
+   {
+    "id": 25877,
+    "remake_of": 1512
+   },
+   {
+    "id": 102873,
+    "remake_of": 1512
+   },
+   {
+    "id": 37382
+   },
+   {
+    "id": 115653
+   },
+   {
+    "id": 144051,
+    "remake_of": 1560
+   },
+   {
+    "id": 144052,
+    "remake_of": 1518
+   },
+   {
+    "id": 144054
+   },
+   {
+    "id": 191931
+   },
+   {
+    "id": 191930
+   },
+   {
+    "id": 288327
+   }
+  ],
+  "notes": "Core series per Wikipedia, including the enhanced third versions (Yellow, Crystal, Emerald, Platinum, Ultra Sun/Moon), which IGDB types as expanded games. Japanese Green has no separate IGDB entry; Red (1561) and Blue (1511) carry 1996. Colosseum, XD, Mystery Dungeon, Ranger, Conquest, Battle Revolution, the TCG game, Champions and Pokopia are spin-offs. Winds and Waves (2027) unreleased.",
+  "curated_at": "2026-10-30"
+ },
+ "Prince of Persia": {
+  "franchise": "Prince of Persia",
+  "source": "https://en.wikipedia.org/wiki/Prince_of_Persia",
+  "main": [
+   {
+    "id": 2472
+   },
+   {
+    "id": 3164
+   },
+   {
+    "id": 3165
+   },
+   {
+    "id": 836
+   },
+   {
+    "id": 837
+   },
+   {
+    "id": 2437
+   },
+   {
+    "id": 2438
+   },
+   {
+    "id": 2468
+   },
+   {
+    "id": 252476
+   },
+   {
+    "id": 21797,
+    "remake_of": 2472
+   }
+  ],
+  "notes": "Prince of Persia 3D is the third main game. Classic (2007) is Wikipedia's 'enhanced remake' of the 1989 game. The Rogue Prince of Persia (2025) is not labelled by Wikipedia; kept as a spin-off since it is a roguelike by another studio (ambiguous). Battles and The Fallen King are spin-offs. The Sands of Time remake was cancelled in 2026.",
+  "curated_at": "2026-10-30"
+ },
+ "Professor Layton": {
+  "franchise": "Professor Layton",
+  "source": "https://en.wikipedia.org/wiki/Professor_Layton",
+  "main": [
+   {
+    "id": 1397
+   },
+   {
+    "id": 1398
+   },
+   {
+    "id": 1399
+   },
+   {
+    "id": 1400
+   },
+   {
+    "id": 1401
+   },
+   {
+    "id": 1403
+   },
+   {
+    "id": 28125
+   }
+  ],
+  "notes": "Professor Layton vs. Phoenix Wright is a crossover (spin-off). Layton Brothers: Mystery Room is a mobile spin-off with no IGDB entry in the cache. New World of Steam (Dec 2026) and the Curious Village remake are unreleased. Katrielle is labelled spin-off in one Wikipedia table but the main series in its text; kept as main.",
+  "curated_at": "2026-10-30"
+ },
+ "Ratchet & Clank": {
+  "franchise": "Ratchet & Clank",
+  "source": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank",
+  "main": [
+   {
+    "id": 1289
+   },
+   {
+    "id": 1770
+   },
+   {
+    "id": 1773
+   },
+   {
+    "id": 1790
+   },
+   {
+    "id": 1792
+   },
+   {
+    "id": 1794
+   },
+   {
+    "id": 1795
+   },
+   {
+    "id": 2589
+   },
+   {
+    "id": 11065,
+    "remake_of": 1289
+   },
+   {
+    "id": 134582
+   }
+  ],
+  "notes": "Size Matters, Secret Agent Clank, All 4 One and Full Frontal Assault are spin-offs per Wikipedia. Quest for Booty and Into the Nexus are mainline. PlayStation Move Heroes is a crossover.",
+  "curated_at": "2026-10-30"
+ },
+ "Rayman": {
+  "franchise": "Rayman",
+  "source": "https://en.wikipedia.org/wiki/Rayman",
+  "main": [
+   {
+    "id": 1963
+   },
+   {
+    "id": 843
+   },
+   {
+    "id": 1966
+   },
+   {
+    "id": 981
+   },
+   {
+    "id": 193359
+   }
+  ],
+  "notes": "Rayman Legends uses 193359 (the original 2013 game); IGDB holds most ratings on 1968, which it types as a port. Raving Rabbids and Hoodlums' Revenge are spin-offs. Rayman Legends Retold is not released.",
+  "curated_at": "2026-10-30"
+ },
+ "Resident Evil": {
+  "franchise": "Resident Evil",
+  "source": "https://en.wikipedia.org/wiki/Resident_Evil",
+  "main": [
+   {
+    "id": 424
+   },
+   {
+    "id": 880
+   },
+   {
+    "id": 966
+   },
+   {
+    "id": 968
+   },
+   {
+    "id": 24869,
+    "remake_of": 424
+   },
+   {
+    "id": 970
+   },
+   {
+    "id": 974
+   },
+   {
+    "id": 847
+   },
+   {
+    "id": 1082
+   },
+   {
+    "id": 19562
+   },
+   {
+    "id": 19686,
+    "remake_of": 880
+   },
+   {
+    "id": 115115,
+    "remake_of": 966
+   },
+   {
+    "id": 55163
+   },
+   {
+    "id": 132181,
+    "remake_of": 974
+   },
+   {
+    "id": 347668
+   }
+  ],
+  "drop": [
+   90566
+  ],
+  "notes": "Numbered games plus Code: Veronica and Zero (not numbered, but most players count them as main). Revelations 1 and 2, Operation Raccoon City and Resident Evil 4 VR (172560, a VR version, not a remake) are spin-offs. Dropped 90566 (Beginning Hour, a teaser demo). Resident Evil Veronica remake (2027) unreleased.",
+  "curated_at": "2026-10-30"
+ },
+ "Silent Hill": {
+  "franchise": "Silent Hill",
+  "source": "https://en.wikipedia.org/wiki/Silent_Hill",
+  "main": [
+   {
+    "id": 480
+   },
+   {
+    "id": 481
+   },
+   {
+    "id": 482
+   },
+   {
+    "id": 483
+   },
+   {
+    "id": 484
+   },
+   {
+    "id": 485
+   },
+   {
+    "id": 486,
+    "remake_of": 480
+   },
+   {
+    "id": 487
+   },
+   {
+    "id": 222341,
+    "remake_of": 481
+   }
+  ],
+  "notes": "Wikipedia main series: 1, 2, 3, 4, Origins, Homecoming, Downpour; Shattered Memories is a re-imagining of the first game; Silent Hill 2 (2024) is a remake. Wikipedia explicitly calls Silent Hill f a spin-off and Townfall a standalone spin-off, so both are left out of main even though Konami marketed f as a new mainline entry (debatable). P.T. is a playable teaser, left as a spin-off.",
+  "curated_at": "2026-10-30"
+ },
+ "Sonic the Hedgehog": {
+  "franchise": "Sonic the Hedgehog",
+  "source": "https://en.wikipedia.org/wiki/List_of_Sonic_the_Hedgehog_video_games",
+  "main": [
+   {
+    "id": 3192
+   },
+   {
+    "id": 106274,
+    "title": "Sonic the Hedgehog (8-bit)"
+   },
+   {
+    "id": 4438
+   },
+   {
+    "id": 112884,
+    "title": "Sonic the Hedgehog 2 (8-bit)"
+   },
+   {
+    "id": 5452
+   },
+   {
+    "id": 43322,
+    "title": "Sonic Chaos"
+   },
+   {
+    "id": 6797
+   },
+   {
+    "id": 9475
+   },
+   {
+    "id": 19556,
+    "title": "Sonic Triple Trouble"
+   },
+   {
+    "id": 9476
+   },
+   {
+    "id": 19538
+   },
+   {
+    "id": 7860
+   },
+   {
+    "id": 7858
+   },
+   {
+    "id": 6283
+   },
+   {
+    "id": 6598
+   },
+   {
+    "id": 4156
+   },
+   {
+    "id": 6599
+   },
+   {
+    "id": 4105
+   },
+   {
+    "id": 19258
+   },
+   {
+    "id": 6231,
+    "title": "Sonic the Hedgehog (2006)"
+   },
+   {
+    "id": 19261
+   },
+   {
+    "id": 5167
+   },
+   {
+    "id": 5169
+   },
+   {
+    "id": 5166
+   },
+   {
+    "id": 2267
+   },
+   {
+    "id": 9473
+   },
+   {
+    "id": 506
+   },
+   {
+    "id": 9474
+   },
+   {
+    "id": 2607
+   },
+   {
+    "id": 21062
+   },
+   {
+    "id": 21063
+   },
+   {
+    "id": 150010
+   },
+   {
+    "id": 252478
+   },
+   {
+    "id": 284716
+   }
+  ],
+  "notes": "Wikipedia's list does not label a main series explicitly; this follows its platformer tables and the usual main-series reading. Spinball, Sonic R, Sonic Battle, Chronicles and Sonic Boom are spin-offs. Sonic X Shadow Generations (2024) only exists in IGDB as a bundle (284716); the standalone Shadow Generations (320861) stays a spin-off to avoid a duplicate. 19538 is the 1996 Game Gear Sonic Blast (not 198604).",
+  "curated_at": "2026-10-30"
+ },
+ "SpongeBob SquarePants": {
+  "franchise": "SpongeBob SquarePants",
+  "source": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_video_games",
+  "main": [
+   {
+    "id": 2761
+   },
+   {
+    "id": 2762
+   },
+   {
+    "id": 2763
+   },
+   {
+    "id": 2765
+   },
+   {
+    "id": 2767
+   },
+   {
+    "id": 2768
+   },
+   {
+    "id": 2770
+   },
+   {
+    "id": 2772
+   },
+   {
+    "id": 43647
+   },
+   {
+    "id": 5190
+   },
+   {
+    "id": 5189
+   },
+   {
+    "id": 7992
+   },
+   {
+    "id": 20858
+   },
+   {
+    "id": 119239,
+    "remake_of": 2765
+   },
+   {
+    "id": 171219
+   },
+   {
+    "id": 314939
+   },
+   {
+    "id": 358751
+   }
+  ],
+  "notes": "Wikipedia has no 'main series' for SpongeBob; it lists SpongeBob titles separately from Nicktoons crossovers. Main here = the retail console/PC/handheld SpongeBob games in that first table; small PC, mobile and edutainment titles and the Nicktoons crossovers (including Globs of Doom) are left as spin-offs. Judgment call, chosen for the app's purpose.",
+  "curated_at": "2026-10-30"
+ },
+ "Star Fox": {
+  "franchise": "Star Fox",
+  "source": "https://en.wikipedia.org/wiki/Star_Fox",
+  "main": [
+   {
+    "id": 8581
+   },
+   {
+    "id": 2591
+   },
+   {
+    "id": 2686
+   },
+   {
+    "id": 3243
+   },
+   {
+    "id": 20556
+   },
+   {
+    "id": 6890,
+    "remake_of": 2591
+   },
+   {
+    "id": 11196
+   },
+   {
+    "id": 9674
+   },
+   {
+    "id": 400709,
+    "remake_of": 2591
+   }
+  ],
+  "drop": [
+   234945
+  ],
+  "notes": "Star Fox 2 listed at its 2017 release. Star Fox Adventures counted as main per Wikipedia. Star Fox Guard left as spin-off. 234945 is an undated duplicate 'Star Fox' entry.",
+  "curated_at": "2026-10-30"
+ },
+ "Tales": {
+  "franchise": "Tales",
+  "source": "https://en.wikipedia.org/wiki/List_of_Tales_media",
+  "main": [
+   {
+    "id": 1200
+   },
+   {
+    "id": 196633,
+    "title": "Tales of Phantasia (1998 remake)",
+    "remake_of": 1200
+   },
+   {
+    "id": 1201
+   },
+   {
+    "id": 1202,
+    "title": "Tales of Eternia"
+   },
+   {
+    "id": 1203
+   },
+   {
+    "id": 1204
+   },
+   {
+    "id": 1205
+   },
+   {
+    "id": 1206
+   },
+   {
+    "id": 1207
+   },
+   {
+    "id": 19096
+   },
+   {
+    "id": 229160,
+    "title": "Tales of Destiny (2006 remake)",
+    "remake_of": 1201
+   },
+   {
+    "id": 1208
+   },
+   {
+    "id": 1209
+   },
+   {
+    "id": 1210,
+    "title": "Tales of Hearts (Anime Movie Edition)"
+   },
+   {
+    "id": 222922,
+    "title": "Tales of Hearts (CG Movie Edition)"
+   },
+   {
+    "id": 1211
+   },
+   {
+    "id": 1212
+   },
+   {
+    "id": 42673,
+    "remake_of": 1208
+   },
+   {
+    "id": 1213
+   },
+   {
+    "id": 19797,
+    "remake_of": 1210
+   },
+   {
+    "id": 6452
+   },
+   {
+    "id": 18812
+   },
+   {
+    "id": 119270
+   }
+  ],
+  "notes": "Mothership titles per Wikipedia. IGDB 1202 'Tales of Destiny II' is Tales of Eternia (its NA name); 1203 is the separate 2002 Tales of Destiny 2. Tales of Hearts exists in IGDB only as its two paired DS editions, both listed. Tempest and Legendia are listed as mothership per Wikipedia although later reclassified by Bandai Namco. Dawn of the New World is an escort title (spin-off). Phantasia Full Voice Edition (PSP) treated as a port, not listed.",
+  "curated_at": "2026-10-30"
+ },
+ "The Legend of Zelda": {
+  "franchise": "The Legend of Zelda",
+  "source": "https://en.wikipedia.org/wiki/List_of_The_Legend_of_Zelda_media",
+  "main": [
+   {
+    "id": 1022
+   },
+   {
+    "id": 1025
+   },
+   {
+    "id": 1026
+   },
+   {
+    "id": 1028
+   },
+   {
+    "id": 1029
+   },
+   {
+    "id": 1030
+   },
+   {
+    "id": 1032
+   },
+   {
+    "id": 1041
+   },
+   {
+    "id": 163572
+   },
+   {
+    "id": 1033
+   },
+   {
+    "id": 1034
+   },
+   {
+    "id": 1035
+   },
+   {
+    "id": 1036
+   },
+   {
+    "id": 1037
+   },
+   {
+    "id": 1038
+   },
+   {
+    "id": 534
+   },
+   {
+    "id": 1039,
+    "remake_of": 1029
+   },
+   {
+    "id": 2909
+   },
+   {
+    "id": 8593,
+    "remake_of": 1030
+   },
+   {
+    "id": 11194
+   },
+   {
+    "id": 7346
+   },
+   {
+    "id": 115284,
+    "remake_of": 1028
+   },
+   {
+    "id": 119388
+   },
+   {
+    "id": 306149
+   }
+  ],
+  "notes": "Oracle of Seasons/Ages are a pair (two ids). Four Swords uses the standalone 163572 entry (shipped with A Link to the Past on GBA). The Ocarina of Time Switch 2 remake (405460) releases 2026-11-05, so it is not listed yet.",
+  "curated_at": "2026-10-30"
+ },
+ "The Sims": {
+  "franchise": "The Sims",
+  "source": "https://en.wikipedia.org/wiki/The_Sims",
+  "main": [
+   {
+    "id": 223
+   },
+   {
+    "id": 224
+   },
+   {
+    "id": 260
+   },
+   {
+    "id": 3212
+   }
+  ],
+  "drop": [
+   228496
+  ],
+  "notes": "Wikipedia main series is the four numbered games; MySims, Medieval, Castaway, Urbz, Bustin' Out, Stories, Online are spin-offs. 228496 is a console version of The Sims 3: Pets typed as standalone expansion.",
+  "curated_at": "2026-10-30"
+ },
+ "Tomb Raider": {
+  "franchise": "Tomb Raider",
+  "source": "https://en.wikipedia.org/wiki/List_of_Tomb_Raider_media",
+  "main": [
+   {
+    "id": 912
+   },
+   {
+    "id": 1156
+   },
+   {
+    "id": 1157
+   },
+   {
+    "id": 1158
+   },
+   {
+    "id": 1160
+   },
+   {
+    "id": 1159
+   },
+   {
+    "id": 1161
+   },
+   {
+    "id": 1162,
+    "remake_of": 912
+   },
+   {
+    "id": 1163
+   },
+   {
+    "id": 1164
+   },
+   {
+    "id": 7323
+   },
+   {
+    "id": 37777
+   }
+  ],
+  "drop": [
+   130808
+  ],
+  "notes": "Legacy of Atlantis (2027) and Catalyst (2028) are unreleased. 130808 is the level editor tool.",
+  "curated_at": "2026-10-30"
+ },
+ "Uncharted": {
+  "franchise": "Uncharted",
+  "source": "https://en.wikipedia.org/wiki/Uncharted",
+  "main": [
+   {
+    "id": 431
+   },
+   {
+    "id": 565
+   },
+   {
+    "id": 512
+   },
+   {
+    "id": 7331
+   }
+  ],
+  "notes": "Wikipedia lists The Lost Legacy and Golden Abyss as spin-offs; many players count The Lost Legacy as main, but Wikipedia is explicit so it stays a spin-off.",
+  "curated_at": "2026-10-30"
+ },
+ "Wario": {
+  "franchise": "Wario",
+  "source": "https://en.wikipedia.org/wiki/List_of_Wario_video_games",
+  "sections": [
+   {
+    "name": "Wario Land",
+    "games": [
+     {
+      "id": 1072
+     },
+     {
+      "id": 1696
+     },
+     {
+      "id": 1697
+     },
+     {
+      "id": 1698
+     },
+     {
+      "id": 1699
+     },
+     {
+      "id": 1700
+     },
+     {
+      "id": 1702
+     }
+    ]
+   },
+   {
+    "name": "WarioWare",
+    "games": [
+     {
+      "id": 1703
+     },
+     {
+      "id": 1712,
+      "remake_of": 1703
+     },
+     {
+      "id": 1704
+     },
+     {
+      "id": 1705
+     },
+     {
+      "id": 1706
+     },
+     {
+      "id": 1707
+     },
+     {
+      "id": 1708
+     },
+     {
+      "id": 50705
+     },
+     {
+      "id": 1710
+     },
+     {
+      "id": 90108
+     },
+     {
+      "id": 152358
+     },
+     {
+      "id": 254341
+     }
+    ]
+   }
+  ],
+  "notes": "Wikipedia splits Wario Land, WarioWare and other games. Mega Party Game$! (GameCube) is typed as a remake of Mega Microgame$! in IGDB. Game & Wario is listed by Wikipedia within WarioWare as a spiritual successor. Mario & Wario, Wario's Woods, Master of Disguise and Bird & Beans stay as spin-offs. The WarioWare games have IGDB main franchise Mario, so they must be force-included by id.",
+  "curated_at": "2026-10-30"
+ },
+ "Wars": {
+  "franchise": "Wars",
+  "source": "https://en.wikipedia.org/wiki/Wars_(series)",
+  "main": [
+   {
+    "id": 72131
+   },
+   {
+    "id": 1687
+   },
+   {
+    "id": 38320
+   },
+   {
+    "id": 1689
+   },
+   {
+    "id": 1691
+   },
+   {
+    "id": 1690
+   },
+   {
+    "id": 1692
+   },
+   {
+    "id": 1693
+   },
+   {
+    "id": 1694
+   },
+   {
+    "id": 152360,
+    "remake_of": 1691
+   }
+  ],
+  "notes": "Single chronological list (Wikipedia does not formally split it). Re-Boot Camp is typed as a bundle in IGDB and remakes both Advance Wars 1 and 2; remake_of points to the first. Game Boy Wars Turbo is an enhanced version, not listed. Battalion Wars 1 and 2 are spin-offs.",
+  "curated_at": "2026-10-30"
+ },
+ "Wolfenstein": {
+  "franchise": "Wolfenstein",
+  "source": "https://en.wikipedia.org/wiki/Wolfenstein",
+  "main": [
+   {
+    "id": 2727
+   },
+   {
+    "id": 3032
+   },
+   {
+    "id": 284
+   },
+   {
+    "id": 6633
+   },
+   {
+    "id": 281
+   },
+   {
+    "id": 569
+   },
+   {
+    "id": 2031
+   },
+   {
+    "id": 9192
+   },
+   {
+    "id": 36952
+   },
+   {
+    "id": 103301
+   }
+  ],
+  "drop": [
+   262516
+  ],
+  "notes": "Wikipedia's Wolfenstein article could not be fetched (allowlist); list is from its games table as known plus common player consensus. Wolfenstein 3D uses 284 (typed as bundle, 311 ratings); 262516 is a low-rated duplicate. Enemy Territory (free multiplayer-only), Wolfenstein RPG (mobile) and Cyberpilot (VR) left as spin-offs. Spear of Destiny (standalone prequel) counted as main.",
+  "curated_at": "2026-10-30"
+ },
+ "X-COM": {
+  "franchise": "X-COM",
+  "source": "https://en.wikipedia.org/wiki/XCOM",
+  "main": [
+   {
+    "id": 24
+   },
+   {
+    "id": 25
+   },
+   {
+    "id": 26
+   },
+   {
+    "id": 1318
+   },
+   {
+    "id": 10919
+   },
+   {
+    "id": 132139
+   }
+  ],
+  "drop": [
+   143076
+  ],
+  "notes": "XCOM: Enemy Unknown (2012) is a reboot/re-imagining, listed as its own entry rather than a remake. Wikipedia includes Interceptor among the core 1990s games but also calls it a spin-off; most players count it as a spin-off, so it is not listed. The Bureau is a spin-off. 143076 is a duplicate entry of the Enemy Within expansion.",
+  "curated_at": "2026-10-30"
+ },
+ "Yakuza / Like a Dragon": {
+  "franchise": "Yakuza / Like a Dragon",
+  "source": "https://en.wikipedia.org/wiki/List_of_Yakuza_media",
+  "main": [
+   {
+    "id": 2059
+   },
+   {
+    "id": 2060
+   },
+   {
+    "id": 2061
+   },
+   {
+    "id": 2062
+   },
+   {
+    "id": 2063
+   },
+   {
+    "id": 11397
+   },
+   {
+    "id": 12527
+   },
+   {
+    "id": 12595,
+    "remake_of": 2059
+   },
+   {
+    "id": 55090,
+    "remake_of": 2060
+   },
+   {
+    "id": 36550
+   },
+   {
+    "id": 217623
+   },
+   {
+    "id": 368182,
+    "remake_of": 2061
+   }
+  ],
+  "drop": [
+   319033,
+   317101,
+   316113
+  ],
+  "notes": "Per Wikipedia, Like a Dragon Gaiden and Pirate Yakuza in Hawaii are spin-offs (some players count Gaiden as mainline). Like a Dragon: Ishin! remakes a spin-off, so it is not main. Dropped: Infinite Wealth trial version and two free-to-play app versions of Ishin! and 0.",
+  "curated_at": "2026-10-30"
+ }
+}

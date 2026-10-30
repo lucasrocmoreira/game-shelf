@@ -797,7 +797,7 @@ function frGames(f){
   // Everything stays in release order. A remake in the main list brings its original along
   // (Dragon Warrior III for the 2009 Dragon Quest III), so both show, linked to each other.
   for(const e of list) if(!e.spin && e.original && e.original.spin) e.original.spin = false;
-  list.sort((a,b)=>(a.year||9999)-(b.year||9999));
+  list.sort((a,b)=>(a.date||(a.year?Date.UTC(a.year,0)/1000:9e12))-(b.date||(b.year?Date.UTC(b.year,0)/1000:9e12)));
   const main = list.filter(e=>!e.spin);
   const nextIn = l=>l.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip) || null;
   const countIn = l=>{ const n = k=>l.filter(e=>e.status===k).length;
