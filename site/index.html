@@ -628,7 +628,7 @@ function suggestions(){
     // Earlier entries are looked up across everything you have: every console, PS Plus and Switch Online.
     const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !picks.some(p=>p.game===x));
     const prev = earliestUnplayed(best, everywhere);
-    if(prev){ game = prev.game; why.push(`The earliest entry you haven't played in the series of ${best.title} (${avg(best)})`);
+    if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest entry in the series you haven't played.`);
       if(!inTab.has(game.key)) why.push(`Not on this console: ${whereIs(game)}`); }
     else why.push(`Top-rated game you haven't played (average ${avg(game)})`);
     const others = (game.genres||[]).filter(x=>!curGenres.has(x));
