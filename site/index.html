@@ -1039,6 +1039,18 @@ $("tierSeg").onclick = e=>{ const b=e.target.closest("button"); if(!b) return; s
 $("hideOwned").checked = state.hideOwned;
 $("hideOwned").onchange = e=>{ state.hideOwned = e.target.checked; render(); };
 
+/* Browsers and home-screen apps can keep an old copy of this page for a while after an update.
+   Compare it with the latest one and reload once if it changed. */
+(async()=>{
+  try{
+    const [fresh, cached] = await Promise.all([fetch(location.href,{cache:"no-store"}).then(r=>r.ok?r.text():null),
+                                               fetch(location.href,{cache:"force-cache"}).then(r=>r.ok?r.text():null)]);
+    const key = "shelf-reloaded";
+    if(fresh && cached && fresh !== cached && sessionStorage.getItem(key) !== String(fresh.length)){
+      sessionStorage.setItem(key, String(fresh.length)); location.reload();
+    }
+  }catch{}
+})();
 Promise.all([loadView("library"), loadView("psplus")]).then(()=>showView(state.view)).then(()=>{ loadEdits(); syncNsoList(); });
 </script>
 </body>
