@@ -214,7 +214,9 @@ def build(igdb_client, igdb_games, rows):
             in_main = main_coll is None or any(_id(col) == main_coll for col in g.get("collections") or [])
             gens = {_id(x) for x in g.get("genres") or []}
             off_genre = bool(usual) and bool(gens) and not (gens & usual)
-            spin = not in_main or pop.get(g["id"], 0) < floor or off_genre
+            # A main game carries the series name (Smash Bros. and Captain Toad are Mario spin-offs).
+            unnamed = bool(words) and not any(w in (g.get("name") or "").lower() for w in words)
+            spin = not in_main or pop.get(g["id"], 0) < floor or off_genre or unnamed
             scores = [v for v in (g.get("aggregated_rating"), g.get("rating")) if isinstance(v, (int, float)) and v > 0]
             entries.append({
                 "id": g["id"],
