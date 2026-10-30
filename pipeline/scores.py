@@ -118,8 +118,10 @@ class OpenCritic:
 
     HOST = "opencritic-api.p.rapidapi.com"
 
-    def __init__(self, key, max_requests=150, max_searches=20):
+    def __init__(self, key, max_requests=150, max_searches=20, reserve=5):
         self.key = key
+        self.quota = {}          # what RapidAPI reported: remaining, limit, reset_in (seconds)
+        self.reserve = reserve   # never use the last few requests of the plan
         self.requests_left = max_requests
         self.searches_left = max_searches
         self.exhausted = False
@@ -141,9 +143,15 @@ class OpenCritic:
         )
         if r is None:
             return None
-        for h in ("X-RateLimit-Requests-Remaining", "x-ratelimit-requests-remaining"):
-            if r.headers.get(h, "").isdigit() and int(r.headers[h]) <= 2:
-                self.exhausted = True
+        # RapidAPI reports the plan's quota on every reply: remember it so later runs pace themselves.
+        hdr = {k.lower(): v for k, v in r.headers.items()}
+        for name, field in (("x-ratelimit-requests-remaining", "remaining"), ("x-ratelimit-requests-limit", "limit"),
+                            ("x-ratelimit-requests-reset", "reset_in")):
+            if hdr.get(name, "").isdigit():
+                self.quota[field] = int(hdr[name])
+        if self.quota.get("remaining") is not None and self.quota["remaining"] <= self.reserve:
+            log(f"  OpenCritic: plan quota nearly used ({self.quota['remaining']} left); pausing until it resets")
+            self.exhausted = True
         if r.status_code in (401, 403):
             log(f"  OpenCritic: key rejected (HTTP {r.status_code}); check the OPENCRITIC_RAPIDAPI_KEY secret")
             self.exhausted = True

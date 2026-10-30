@@ -433,9 +433,38 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
     return cache
 
 
+def _opencritic_allowance():
+    """How many OpenCritic requests this run may use. The budget is shared by every run of the day (a busy
+    day of updates used to spend it many times over), paced to the plan's quota as RapidAPI reports it,
+    and zero while paused (config/opencritic.json {"paused": true}) or once the plan is used up."""
+    cfg = load_json(CONFIG_DIR / "opencritic.json", {})
+    st = load_json(CACHE_DIR / "opencritic_quota.json", {})
+    today = now_iso()[:10]
+    if st.get("day") != today:
+        st.update({"day": today, "used_today": 0})
+    if cfg.get("paused"):
+        return 0, 0, st, "paused in config/opencritic.json"
+    if st.get("reset_at") and now_iso() >= st["reset_at"]:
+        st["remaining"] = st.get("limit")  # the plan period started over
+        st.pop("reset_at", None)
+    daily = int(cfg.get("max_per_day", OPENCRITIC_MAX_REQUESTS))
+    left = st.get("remaining")
+    if left is not None:
+        left -= 5  # keep a small reserve
+        days = max(1, round((st.get("reset_seconds") or 30 * 86400) / 86400)) if st.get("reset_at") else 30
+        daily = min(daily, max(0, left // days))
+    budget = max(0, daily - st["used_today"])
+    return budget, min(OPENCRITIC_MAX_SEARCHES, budget // 4), st, f"{budget} requests left today"
+
+
 def refresh_opencritic(rows, cache, wd_cache):
-    oc = scores.OpenCritic(env("OPENCRITIC_RAPIDAPI_KEY"), OPENCRITIC_MAX_REQUESTS, OPENCRITIC_MAX_SEARCHES)
+    budget, searches, st, why = _opencritic_allowance()
+    oc = scores.OpenCritic(env("OPENCRITIC_RAPIDAPI_KEY"), budget, searches)
     if not oc.key:
+        return
+    if budget <= 0:
+        log(f"OpenCritic: skipped this run ({why})")
+        save_json(CACHE_DIR / "opencritic_quota.json", st)
         return
     todo = []
     for r in rows:
@@ -472,7 +501,16 @@ def refresh_opencritic(rows, cache, wd_cache):
         c["opencritic_id"] = oc_id
         c["oc_checked"] = now_iso()
         got += 1
-    log(f"OpenCritic: updated {got} games")
+    st["used_today"] = st.get("used_today", 0) + (budget - oc.requests_left)
+    if oc.quota.get("remaining") is not None:
+        st["remaining"] = oc.quota["remaining"]
+    if oc.quota.get("limit") is not None:
+        st["limit"] = oc.quota["limit"]
+    if oc.quota.get("reset_in") is not None:
+        st["reset_seconds"] = oc.quota["reset_in"]
+        st["reset_at"] = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(seconds=oc.quota["reset_in"])).isoformat()
+    save_json(CACHE_DIR / "opencritic_quota.json", st)
+    log(f"OpenCritic: updated {got} games; used {st['used_today']} requests today; plan: {oc.quota or 'no quota reported'}")
 
 
 # ---------------------------------------------------------------- step 5: output
