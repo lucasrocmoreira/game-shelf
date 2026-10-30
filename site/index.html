@@ -76,12 +76,15 @@ body.view-franchises .controls, body.view-franchises #hero, body.view-franchises
 .dot.next{border:4px solid var(--accent);background:var(--ink)}
 .tl img{width:36px;aspect-ratio:264/374;object-fit:cover;border-radius:4px;background:var(--line);margin-bottom:12px}
 .tl li.missing img{opacity:.45;filter:grayscale(1)}
-.tl .tt{all:unset;cursor:pointer;display:grid;gap:2px;padding-bottom:14px;min-width:0}
+.tl .tt{display:grid;gap:2px;padding-bottom:14px;min-width:0}
+.tl .tt-open{all:unset;cursor:pointer;display:grid;gap:2px;min-width:0}
+.tl .tt-open:focus-visible,.jump:focus-visible{outline:2px solid var(--accent)}
+.jump{all:unset;cursor:pointer;color:var(--accent);text-decoration:underline;text-underline-offset:2px}
+.tl li.flash{animation:flash 1.6s ease-out}
+@keyframes flash{0%,40%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
 .tl .tt b{font:650 16px/1.2 var(--display);overflow-wrap:anywhere}
 .tl li.missing .tt b{color:var(--muted);font-weight:600}
 .tl .note{font-size:12px;font-weight:600}
-.tl li.remake .tt{padding-left:14px;border-left:2px solid var(--line);margin-left:-8px}
-.tl li.remake .yr{font-size:12px;font-weight:600}
 .tl .sc{font:800 20px/1 var(--display);font-stretch:80%;text-align:right;padding-top:2px}
 
 /* Playing now: the games you're in the middle of */
@@ -787,9 +790,10 @@ function frGames(f){
     e.original = e.remake_of ? list.find(x=>sameAs(e.remake_of, x)) || null : null;
     e.skip = e.score!=null && e.score < 65;  // poorly reviewed: not worth your time
   }
-  // Remakes sit right after their original, so numbered games stay in order (Dragon Quest III, then its remakes).
-  const anchor = e=>(e.original ? (e.original.year||e.orig_year) : e.orig_year) || e.year || 9999;
-  list.sort((a,b)=>anchor(a)-anchor(b) || (!!a.remake_of)-(!!b.remake_of) || (a.year||0)-(b.year||0));
+  // Remakes stay at their own release year, linked both ways to the original. When the original
+  // isn't in the main list (Dragon Quest III's NES release), the remake takes the original's place.
+  const anchor = e=>((e.orig_year && (!e.original || e.original.spin)) ? e.orig_year : e.year) || 9999;
+  list.sort((a,b)=>anchor(a)-anchor(b) || (a.year||0)-(b.year||0));
   const main = list.filter(e=>!e.spin);
   const next = main.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip) || null;
   const playing = main.find(e=>e.status==="playing") || null;
@@ -867,18 +871,21 @@ function renderGuide(f){
       const noteColor = e.coveredBy || e.status==="played" ? "var(--hi)" : e===next || e.status==="sub" ? "var(--accent)" : e.status==="playing" ? "var(--mid)" : "var(--muted)";
       const extra = [
         e.skip && e.status!=="played" ? `<span class="note" style="color:var(--lo)">Worth skipping (scored ${e.score})</span>` : "",
-        e.original || e.orig_year ? `<span class="note" style="color:var(--muted)">Remake of the ${(e.original||{}).year||e.orig_year} game</span>` : "",
-        e.remakes.length ? `<span class="note" style="color:var(--muted)">Remade in ${e.remakes.map(x=>x.year).join(" and ")}</span>` : ""].join("");
-      return `<li class="${e.status}${e.remake_of && (e.original || e.orig_year) ? " remake" : ""}">
+        e.original ? `<span class="note" style="color:var(--muted)">Remake of ${frJump(e.original)}</span>`
+                   : e.orig_year ? `<span class="note" style="color:var(--muted)">Remake of the ${e.orig_year} game</span>` : "",
+        (()=>{ const rs = e.remakes.filter(x=>!x.spin || FR.spin);  // Japan-only and minor remakes only with spin-offs shown
+               return rs.length ? `<span class="note" style="color:var(--muted)">Remade by ${rs.map(frJump).join(" and ")}</span>` : ""; })()].join("");
+      return `<li class="${e.status}" id="fr-${e.id}">
         <span class="yr">${e.year||""}</span>
         <span class="rail"><span class="dot ${st}"></span><i></i></span>
         ${e.cover?`<img src="${esc(e.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
-        <button type="button" class="tt" data-fropen="${e.id}"><b>${esc(e.title)}${e.spin?` <span class="pill">Spin-off</span>`:""}</b>
-          <span class="fr-muted">${esc(frWhere(e))}</span>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}${extra}</button>
+        <div class="tt"><button type="button" class="tt-open" data-fropen="${e.id}"><b>${esc(e.title)}${e.spin?` <span class="pill">Spin-off</span>`:""}</b>
+          <span class="fr-muted">${esc(frWhere(e))}</span></button>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}${extra}</div>
         <span class="sc ${tone(e.score)}">${e.score??"–"}</span></li>`; }).join("")}</ol>
     ${!FR.spin && spins.some(e=>e.rows.length) ? `<p class="fr-muted">Spin-offs in your library: ${spins.filter(e=>e.rows.length).map(e=>`${esc(e.title)}${e.score!=null?` (${e.score})`:""}`).join(" · ")}</p>` : ""}`;
   $("frSpin").onchange = ev=>{ FR.spin = ev.target.checked; render(); };
 }
+function frJump(x){ return `<button type="button" class="jump" data-jump="${x.id}">${esc(x.title)} (${x.year||"?"})</button>`; }
 function frSendBtn(e){
   const to = e.row && consoleFor(e.row); if(!to) return "";
   const sent = ((EDITS.sent||{})[to]||{})[e.row.key];
@@ -1065,6 +1072,12 @@ function setup(){
       const card = t.closest("[data-fr]"); if(card){ FR.open = +card.dataset.fr; FR.spin = false; render(); window.scrollTo({top:0}); return; }
       if(t.closest("[data-frback]")){ FR.open = null; render(); return; }
       const fl = t.closest("[data-frf]"); if(fl){ FR.filter = fl.dataset.frf; render(); return; }
+      const jp = t.closest("[data-jump]");
+      if(jp){ const id = jp.dataset.jump, x = frEntry(id);
+        if(x && x.spin && !FR.spin){ FR.spin = true; render(); }  // the target is a spin-off: show them
+        const li = document.getElementById("fr-"+id);
+        if(li){ li.scrollIntoView({behavior:"smooth", block:"center"}); li.classList.remove("flash"); void li.offsetWidth; li.classList.add("flash"); }
+        return; }
       const snd = t.closest("[data-frsend]");
       if(snd){ const x = frEntry(snd.dataset.frsend), f = FR.data.franchises.find(y=>y.id===FR.open); if(!x || !x.row) return;
         const to = consoleFor(x.row);
