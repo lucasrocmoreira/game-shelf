@@ -25,7 +25,7 @@ SPINOFF_SHARE = 0.05     # ...or fewer than 5% of the ratings of the series' mos
 # Licensed umbrellas rather than game series; more can be added in config/franchises.yml
 SKIP = {"star wars", "marvel", "lego", "batman", "dc comics", "disney", "warhammer", "warhammer 40,000",
         "spider-man", "transformers", "teenage mutant ninja turtles", "the simpsons", "harry potter",
-        "lord of the rings", "the lord of the rings", "dungeons & dragons", "nintendo sports", "mario"}
+        "lord of the rings", "the lord of the rings", "dungeons & dragons", "nintendo sports"}
 STOP = {"the", "and", "of", "a", "an", "series", "game", "games"}
 MIN_OWNED = 2
 MAIN_TYPES = {0, 4, 8}   # main game, standalone expansion, remake
@@ -33,7 +33,7 @@ MOBILE_ONLY = {34, 39, 55, 82, 74}  # Android, iOS, legacy mobile, browser, Wind
 
 FIELDS = ("name,slug,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
           "rating,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres")
-CACHE_VERSION = 2  # bump when FIELDS change, to fetch everything again
+CACHE_VERSION = 3  # bump when FIELDS change, to fetch everything again
 
 
 def _id(v):
@@ -67,7 +67,7 @@ def _pair_versions(entries):
     for e in entries:
         mate = None
         for o in out:
-            close = abs((o.get("date") or 0) - (e.get("date") or 1e12)) <= 31 * 86400
+            close = abs((o.get("date") or 0) - (e.get("date") or 1e12)) <= 3 * 86400  # released together
             versions = o["year"] == e["year"] and (o["title"] or "").endswith("Version") and (e["title"] or "").endswith("Version")
             if o["spin"] != e["spin"] or o.get("_paired") or not (close or versions):
                 continue
@@ -102,7 +102,13 @@ def _fetch(igdb_client, fid):
                           (FIELDS.replace("game_type", "category"), f"franchises = ({fid}) | franchise = {fid}"),
                           (FIELDS.replace(",franchise,", ","), f"franchises = ({fid})")):
         try:
-            return igdb_client.query("games", f"fields {fields}; where {where}; limit 500;")
+            games, offset = [], 0
+            while True:  # big franchises (Mario: 600+ games) come in pages of 500
+                page = igdb_client.query("games", f"fields {fields}; where {where}; limit 500; offset {offset};")
+                games += page
+                if len(page) < 500 or offset >= 2500:
+                    return games
+                offset += 500
         except Exception as e:
             if "400" not in str(e):
                 raise
@@ -163,6 +169,7 @@ def build(igdb_client, igdb_games, rows):
         if name.lower() in skip:
             continue
         words = set(_words(name))
+        by_gid = {g["id"]: g for g in c["games"]}
         # A game's popularity includes its expanded editions, remasters and ports
         # (Code: Veronica's ratings are split with Code: Veronica X).
         pop = {}
@@ -220,9 +227,17 @@ def build(igdb_client, igdb_games, rows):
                 "ratings": pop.get(g["id"], 0),
                 "date": g.get("first_release_date"),
                 "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None,
+                "orig_year": _year(by_gid.get(_id(g.get("parent_game"))) or {}) if _type(g) == 8 else None,
                 "spin": spin,
                 "keys": sorted(by_id.get(g["id"], [])),
             })
+        # Same title within a year (Sonic the Hedgehog on Mega Drive and on Master System): the far
+        # less known one is a spin-off.
+        for e in entries:
+            for o in entries:
+                if o is not e and _norm(o["title"]) == _norm(e["title"]) and abs((o["year"] or 0) - (e["year"] or 0)) <= 1 \
+                        and e["ratings"] < 0.25 * o["ratings"]:
+                    e["spin"] = True
         main_entries = [e for e in entries if not e["spin"]]
         if len(main_entries) < MIN_MAIN or sum(e["ratings"] >= POPULAR_RATINGS for e in main_entries) < MIN_POPULAR:
             continue
@@ -232,6 +247,15 @@ def build(igdb_client, igdb_games, rows):
         entries = _pair_versions(entries)
         years = [e["year"] for e in main_entries if e["year"]]
         out.append({"id": fid, "name": name, "years": [min(years), max(years)] if years else None, "games": entries})
+    # Overlapping franchises (Mario and Mario Bros.): keep the bigger one.
+    mains_of = {f["id"]: {i for e in f["games"] if not e["spin"] for i in e.get("ids", [e["id"]])} for f in out}
+    drop = set()
+    for f in out:
+        for o in out:
+            a, b = mains_of[f["id"]], mains_of[o["id"]]
+            if f is not o and o["id"] not in drop and len(a) < len(b) and len(a & b) >= 0.6 * len(a):
+                drop.add(f["id"])
+    out = [f for f in out if f["id"] not in drop]
     out.sort(key=lambda f: -sum(bool(e["keys"]) for e in f["games"] if not e["spin"]))
     log(f"Franchises: {len(out)} shown")
     return {"generated": now_iso(), "franchises": out}

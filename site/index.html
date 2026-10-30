@@ -80,6 +80,8 @@ body.view-franchises .controls, body.view-franchises #hero, body.view-franchises
 .tl .tt b{font:650 16px/1.2 var(--display);overflow-wrap:anywhere}
 .tl li.missing .tt b{color:var(--muted);font-weight:600}
 .tl .note{font-size:12px;font-weight:600}
+.tl li.remake .tt{padding-left:14px;border-left:2px solid var(--line);margin-left:-8px}
+.tl li.remake .yr{font-size:12px;font-weight:600}
 .tl .sc{font:800 20px/1 var(--display);font-stretch:80%;text-align:right;padding-top:2px}
 
 /* Playing now: the games you're in the middle of */
@@ -785,6 +787,9 @@ function frGames(f){
     e.original = e.remake_of ? list.find(x=>sameAs(e.remake_of, x)) || null : null;
     e.skip = e.score!=null && e.score < 65;  // poorly reviewed: not worth your time
   }
+  // Remakes sit right after their original, so numbered games stay in order (Dragon Quest III, then its remakes).
+  const anchor = e=>(e.original ? (e.original.year||e.orig_year) : e.orig_year) || e.year || 9999;
+  list.sort((a,b)=>anchor(a)-anchor(b) || (!!a.remake_of)-(!!b.remake_of) || (a.year||0)-(b.year||0));
   const main = list.filter(e=>!e.spin);
   const next = main.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip) || null;
   const playing = main.find(e=>e.status==="playing") || null;
@@ -862,9 +867,9 @@ function renderGuide(f){
       const noteColor = e.coveredBy || e.status==="played" ? "var(--hi)" : e===next || e.status==="sub" ? "var(--accent)" : e.status==="playing" ? "var(--mid)" : "var(--muted)";
       const extra = [
         e.skip && e.status!=="played" ? `<span class="note" style="color:var(--lo)">Worth skipping (scored ${e.score})</span>` : "",
-        e.original ? `<span class="note" style="color:var(--muted)">Remake of the ${e.original.year} game</span>` : "",
+        e.original || e.orig_year ? `<span class="note" style="color:var(--muted)">Remake of the ${(e.original||{}).year||e.orig_year} game</span>` : "",
         e.remakes.length ? `<span class="note" style="color:var(--muted)">Remade in ${e.remakes.map(x=>x.year).join(" and ")}</span>` : ""].join("");
-      return `<li class="${e.status}">
+      return `<li class="${e.status}${e.remake_of && (e.original || e.orig_year) ? " remake" : ""}">
         <span class="yr">${e.year||""}</span>
         <span class="rail"><span class="dot ${st}"></span><i></i></span>
         ${e.cover?`<img src="${esc(e.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
