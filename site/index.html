@@ -183,7 +183,10 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
     <button type="button" role="tab" data-view="library" aria-selected="true">My library</button>
     <button type="button" role="tab" data-view="psplus" aria-selected="false">PS Plus</button>
     <button type="button" role="tab" data-view="ps5" aria-selected="false">PS5</button>
+    <button type="button" role="tab" data-view="ps3" aria-selected="false">PS3</button>
+    <button type="button" role="tab" data-view="vita" aria-selected="false">PS Vita</button>
     <button type="button" role="tab" data-view="switch2" aria-selected="false">Switch 2</button>
+    <button type="button" role="tab" data-view="wii" aria-selected="false">Wii</button>
     <button type="button" role="tab" data-view="ds" aria-selected="false">DS</button>
     <button type="button" role="tab" data-view="3ds" aria-selected="false">3DS</button>
     <button type="button" role="tab" data-view="steam" aria-selected="false">Steam Machine</button>
@@ -550,7 +553,9 @@ function render(){
   const list = filtered();
   renderHero(list);
   $("count").textContent = `${list.length} ${list.length===1?"game":"games"}`;
-  if(!list.length){ $("out").innerHTML = `<p class="empty">No games match these filters. Clear a filter or the search to see more.</p>`; return; }
+  if(!list.length){ $("out").innerHTML = CONSOLES[state.view] && !DATA.games.length
+      ? `<p class="empty">No ${esc(CONSOLES[state.view].label)} games yet. Use “Add a game” and pick ${esc(CONSOLES[state.view].plats[0])} as the platform.</p>`
+      : `<p class="empty">No games match these filters. Clear a filter or the search to see more.</p>`; return; }
   if(!state.group){ $("out").innerHTML = `<ol class="list">${sorted(list).map(gameRow).join("")}</ol>`; return; }
   const field = state.group, by = new Map();
   for(const g of list) for(const v of ((g[field]||[]).length ? g[field] : ["None listed"])){ if(!by.has(v)) by.set(v,[]); by.get(v).push(g); }
@@ -946,6 +951,9 @@ const VIEWS = {library:{file:"data.json"}, psplus:{file:"psplus.json"}};
 /* Console tabs: everything you can play on that console, built from your library (and, for PS5, the PS Plus catalog). */
 const CONSOLES = {
   ps5:     {label:"PS5", plats:["PS5","PS4","PlayStation"], psplus:true, note:"Your PS4 and PS5 games plus the PS Plus Extra and Premium catalog."},
+  ps3:     {label:"PS3", plats:["PS3"], note:"Your PS3 games."},
+  vita:    {label:"PS Vita", plats:["PS Vita","PSP"], note:"Your PS Vita and PSP games."},
+  wii:     {label:"Wii", plats:["Wii"], note:"Your Wii games."},
   switch2: {label:"Switch 2", plats:["Switch","Switch 2"], note:"Your Switch and Switch 2 games plus the Switch Online classics."},
   ds:      {label:"DS", plats:["DS"], note:"Your Nintendo DS games."},
   "3ds":   {label:"3DS", plats:["3DS"], note:"Your Nintendo 3DS games."},
