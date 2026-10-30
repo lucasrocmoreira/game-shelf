@@ -2824,6 +2824,48 @@
     "igdb:2345"
    ],
    "date": "2026-10-30T18:59:29.208Z"
+  },
+  "3ds": {
+   "slots": [
+    {
+     "key": "igdb:1439",
+     "best": "igdb:1443",
+     "why": [
+      "Play this game to get to the amazing Fire Emblem Awakening (87). It's the earliest Fire Emblem game you haven't played.",
+      "Not on this console: you have it on GBA",
+      "A change of genre: RPG, Strategy",
+      "A longer one this time: about 33.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:2645",
+     "best": "igdb:2687",
+     "why": [
+      "Play this game to get to the amazing Animal Crossing: New Leaf (86). It's the earliest Animal Crossing game you haven't played.",
+      "Not on this console: you have it on DS",
+      "A change of genre: Simulator",
+      "A longer one this time: about 119h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:9543",
+     "best": "igdb:6614",
+     "why": [
+      "Play this game to get to the amazing Zero Escape: Virtue's Last Reward (85). It's the earliest entry in the series you haven't played.",
+      "Not on this console: you have it on DS",
+      "About 17h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:1439",
+    "igdb:2645",
+    "igdb:9543"
+   ],
+   "date": "2026-10-30T18:59:35.210Z"
   }
  }
 }
