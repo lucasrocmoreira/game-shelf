@@ -270,7 +270,7 @@ const LENGTHS = [["","Any length"],["0-10","Under 10 hours"],["10-30","10 to 30 
 const beat = g => g.ttb ? (g.ttb.extra ?? g.ttb.main ?? g.ttb.complete ?? null) : null;  // hours for main story + extras (you take your time)
 const hrs = h => h==null ? "–" : (h<1 ? "<1h" : (Number.isInteger(h) ? h : h.toFixed(1)) + "h");
 const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
-const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, playing:{}, added:[], match:{}});
+const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, playing:{}, added:[], match:{}, sent:{}});
 
 const store = {
   get(k, d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch{ return d; } },
@@ -338,8 +338,8 @@ async function writeEdits(mutate, message, rebuild){
 async function act(mutate, message, okText, rebuild=false){
   try{
     await writeEdits(mutate, message, rebuild);
-    applyAll(); render(); toast(okText);
-  }catch(e){ if(e.message !== "not-connected") toast(e.message); }
+    applyAll(); render(); toast(okText); return true;
+  }catch(e){ if(e.message !== "not-connected") toast(e.message); return false; }
 }
 
 /* ---------------- Edits overlay ---------------- */
@@ -594,6 +594,18 @@ function earliestUnplayed(g, pool){
                               && avg(x)!=null && avg(x) >= 70).sort((a,b)=>yr(a)-yr(b));
   return prev.length ? {game:prev[0]} : null;
 }
+function consoleFor(g){  // the console tab a game from elsewhere can be sent to
+  if(g._catalog) return state.view==="ps5" ? null : "ps5";
+  const hit = Object.entries(CONSOLES).find(([k,c])=>k!==state.view && g.platforms.some(p=>c.plats.includes(p)));
+  return hit ? hit[0] : null;
+}
+function sentHere(){  // suggestions sent to this console from another tab, newest first, still unplayed
+  const sent = (EDITS.sent||{})[state.view] || {};
+  return Object.entries(sent).map(([key,info])=>({g:allGames().find(x=>x.key===key), info}))
+    .filter(({g})=>g && !g._played && !g._playing && !g._hidden)
+    .sort((a,b)=>String(b.info.date).localeCompare(String(a.info.date))).slice(0,3)
+    .map(({g,info})=>({game:g, best:g, sent:true, why:[`Sent here from your ${info.from} suggestions`, ...(info.why?[info.why]:[])]}));
+}
 function whereIs(g){
   const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
   return g._catalog ? `in the PS Plus catalog (${g.platforms.join(", ")})` : g.nso ? `Switch Online (${g.platforms.join(" + ")})` : `you have it on ${p.join(", ")}`;
@@ -659,7 +671,7 @@ function suggestions(keep=[null,null,null]){
 }
 function openSuggest(mode){
   // mode: undefined = fresh picks, "all" = replace all three, a number = replace just that one
-  if(mode===undefined){ SUGGEST.skip = new Set(); SUGGEST.slots = [null,null,null]; }
+  if(mode===undefined){ SUGGEST.skip = new Set(); const s = sentHere(); SUGGEST.slots = [0,1,2].map(i=>s[i]||null); }
   else if(mode==="all") SUGGEST.slots = [null,null,null];
   else SUGGEST.slots = SUGGEST.slots.map((p,i)=>i===mode ? null : p);
   const {slots, picks, current, want} = suggestions(SUGGEST.slots);
@@ -673,7 +685,8 @@ function openSuggest(mode){
       ${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<img alt="">`}
       <span><b>${esc(g.title)}</b><span class="na">${[esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" · ")}</span><ul>${why.map(w=>`<li>${esc(w)}</li>`).join("")}</ul></span>
       <span class="pick-side"><span class="score ${tone(a)}">${a??"–"}</span>
-        <button type="button" class="iconbtn swap" data-swap="${i}" aria-label="Replace ${esc(g.title)} with another suggestion">↻ Replace</button></span></div>`; }).join("")}</div>`
+        <button type="button" class="iconbtn swap" data-swap="${i}" aria-label="Replace ${esc(g.title)} with another suggestion">↻ Replace</button>
+        ${!p.sent && consoleFor(g) && !new Set(DATA.games.map(x=>x.key)).has(g.key) ? `<button type="button" class="iconbtn swap" data-send="${i}">Send to ${esc(CONSOLES[consoleFor(g)].label)}</button>` : ""}</span></div>`; }).join("")}</div>`
       : `<p>No more unplayed games with scores on this console.</p>`}
     <div class="btns">
       <button value="cancel" class="iconbtn">Close</button>
@@ -681,7 +694,20 @@ function openSuggest(mode){
     </div>`);
   $("sheet").onclick = e=>{
     if(e.target.closest("#reroll")){ openSuggest("all"); return; }
-    const sw = e.target.closest("[data-swap]"); if(sw){ openSuggest(+sw.dataset.swap); return; }
+    const sw = e.target.closest("[data-swap]");
+    if(sw){ const i = +sw.dataset.swap, p = SUGGEST.slots[i];
+      if(p && p.sent){  // replacing a sent game also takes it off that console's list
+        act(d=>{ d.sent = d.sent||{}; if(d.sent[state.view]) delete d.sent[state.view][p.game.key]; },
+            `Unsend: ${p.game.title}`, `${p.game.title} removed from your ${CONSOLES[state.view].label} suggestions`).then(ok=>{ if(ok) openSuggest(i); });
+      } else openSuggest(i);
+      return; }
+    const sd = e.target.closest("[data-send]");
+    if(sd){ const i = +sd.dataset.send, p = SUGGEST.slots[i], to = consoleFor(p.game), from = CONSOLES[state.view].label;
+      act(d=>{ d.sent = d.sent||{}; d.sent[to] = d.sent[to]||{};
+               d.sent[to][p.game.key] = {from, why: p.why[0], date: new Date().toISOString()}; },
+          `Send to ${CONSOLES[to].label}: ${p.game.title}`,
+          `${p.game.title} is now a suggestion on your ${CONSOLES[to].label}`).then(ok=>{ if(ok) openSuggest(i); });
+      return; }
     const b = e.target.closest(".pick"); if(!b) return;
     const g = allGames().find(x=>x.key===b.dataset.key); if(g) openGame(g);  // may be on another console
   };
