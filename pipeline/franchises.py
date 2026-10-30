@@ -74,8 +74,8 @@ def _pair_versions(entries):
             if _norm(o["title"]) == _norm(e["title"]) and o["year"] == e["year"]:
                 mate = o  # the same game listed twice
                 break
-            if not (close or versions):
-                continue
+            if not (close or versions) or o.get("plats") != e.get("plats"):
+                continue  # paired versions come out together on the same consoles (not Rogue and Unity)
             a, b = (o["title"] or "").split(), (e["title"] or "").split()
             if len(a) == len(b) and sum(x != y for x, y in zip(a, b)) == 1:
                 mate = o
@@ -95,6 +95,7 @@ def _pair_versions(entries):
     for e in out:
         e.pop("_paired", None)
         e.pop("date", None)
+        e.pop("plats", None)
     return out
 
 
@@ -274,6 +275,7 @@ def build(igdb_client, igdb_games, rows):
                 "score": round(sum(scores) / len(scores)) if scores else None,
                 "ratings": pop.get(g["id"], 0),
                 "date": g.get("first_release_date"),
+                "plats": sorted(g.get("platforms") or []),
                 "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None,
                 "orig_year": _year(by_gid.get(_id(g.get("parent_game"))) or {}) if _type(g) == 8 else None,
                 "spin": spin,
