@@ -790,10 +790,10 @@ function frGames(f){
     e.original = e.remake_of ? list.find(x=>sameAs(e.remake_of, x)) || null : null;
     e.skip = e.score!=null && e.score < 65;  // poorly reviewed: not worth your time
   }
-  // Remakes stay at their own release year, linked both ways to the original. When the original
-  // isn't in the main list (Dragon Quest III's NES release), the remake takes the original's place.
-  const anchor = e=>((e.orig_year && (!e.original || e.original.spin)) ? e.orig_year : e.year) || 9999;
-  list.sort((a,b)=>anchor(a)-anchor(b) || (a.year||0)-(b.year||0));
+  // Everything stays in release order. A remake in the main list brings its original along
+  // (Dragon Warrior III for the 2009 Dragon Quest III), so both show, linked to each other.
+  for(const e of list) if(!e.spin && e.original && e.original.spin) e.original.spin = false;
+  list.sort((a,b)=>(a.year||9999)-(b.year||9999));
   const main = list.filter(e=>!e.spin);
   const next = main.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip) || null;
   const playing = main.find(e=>e.status==="playing") || null;
