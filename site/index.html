@@ -53,6 +53,12 @@ body.view-franchises .controls, body.view-franchises #hero, body.view-franchises
 .sw{width:10px;height:10px;border-radius:3px;display:inline-block}
 .s-played{background:var(--hi)} .s-playing{background:var(--mid)} .s-owned{background:var(--ink);opacity:.8} .s-sub{background:var(--accent)} .s-missing{background:var(--line);box-shadow:inset 0 0 0 1px var(--muted)}
 .fr-bar{display:flex;height:10px;border-radius:5px;overflow:hidden;gap:2px}
+.az{position:sticky;top:0;z-index:6;display:flex;flex-wrap:wrap;justify-content:center;gap:2px;padding:6px 0;margin:-6px 0 10px;background:var(--bg);border-bottom:1px solid var(--line)}
+.az button,.az span{min-width:22px;height:28px;display:inline-grid;place-items:center;font:600 13px var(--body);border-radius:6px}
+.az button{all:unset;cursor:pointer;min-width:24px;height:28px;display:inline-grid;place-items:center;font:600 13px var(--body);color:var(--accent);border-radius:6px}
+.az button:hover,.az button:focus-visible{background:var(--panel);outline:none}
+.az span{color:var(--line)}
+.az-h{grid-column:1/-1;font:800 26px/1 var(--display);margin:14px 0 0;scroll-margin-top:110px}
 .fr-cards{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr))}
 .fr-card{all:unset;cursor:pointer;display:grid;gap:9px;padding:14px;border:1px solid var(--line);border-radius:14px;background:var(--panel)}
 .fr-card:focus-visible{outline:2px solid var(--accent)}
@@ -767,7 +773,9 @@ function openSuggest(mode){
 /* ---------------- Franchises ----------------
    Built daily from IGDB (pipeline/franchises.py): the main games of each big series you own.
    Played / playing / owned status comes from your library here, so it is always current. */
-const FR = {data:null, open:null, filter:"all", spin:false};
+const FR = {data:null, open:null, filter:"all", spin:false, sort:"owned"};
+const frKey = n=>n.replace(/^the\s+/i,"");  // "The Legend of Zelda" files under L
+const frLetter = n=>{ const c = frKey(n).charAt(0).toUpperCase(); return /[A-Z]/.test(c) ? c : "#"; };
 const FR_LABEL = {played:"Played", playing:"Playing now", owned:"Own it", sub:"PS Plus or Switch Online", missing:"Not in your library"};
 function frGames(f){
   const lib = new Set(((VIEWS.library.data||{}).games||[]).map(g=>g.key)), all = allGames();
@@ -838,15 +846,23 @@ function renderFranchises(){
     const started = c.played + c.playing > 0;
     return FR.filter==="all" || (FR.filter==="started" && started && next) || (FR.filter==="new" && !started) || (FR.filter==="done" && started && !next && !c.playing);
   });
+  if(FR.sort==="az") cards.sort((a,b)=>frKey(a.f.name).localeCompare(frKey(b.f.name)));
+  const have = new Set(cards.map(c=>frLetter(c.f.name)));
+  const index = `<nav class="az" aria-label="Jump to letter">${["#",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"].map(l=>
+    have.has(l) ? `<button type="button" data-az="${l}">${l}</button>` : `<span aria-hidden="true">${l}</span>`).join("")}</nav>`;
+  let lastLetter = null;
   const chip = (v,l)=>`<button type="button" class="chip" data-frf="${v}" aria-pressed="${FR.filter===v}">${l}</button>`;
-  $("out").innerHTML = `<div class="fr-head"><h1>Your franchises</h1>
-      <p>Series with at least 5 main games, well known on IGDB, where you own at least 2. Sorted by how much of each you own.</p></div>
-    <div class="row" style="margin-top:12px">${chip("all",`All ${all.length}`)}${chip("started","Started")}${chip("new","Not started")}${chip("done","Finished")}</div>
+  $("out").innerHTML = `${index}<div class="fr-head"><h1>Your franchises</h1>
+      <p>Big series you own at least 2 games of, checked against Wikipedia.</p></div>
+    <div class="row" style="margin-top:12px">${chip("all",`All ${all.length}`)}${chip("started","Started")}${chip("new","Not started")}${chip("done","Finished")}
+      <div class="seg" role="group" aria-label="Order"><button type="button" data-frsort="owned" aria-pressed="${FR.sort==="owned"}">Most owned</button><button type="button" data-frsort="az" aria-pressed="${FR.sort==="az"}">A to Z</button></div></div>
     <div class="fr-legend">${Object.entries(FR_LABEL).map(([k,l])=>`<span><i class="sw s-${k}"></i>${l}</span>`).join("")}</div>
     ${cards.length ? `<div class="fr-cards">${cards.map(({f,main,counts:c,next,playing})=>{
       const total = main.length, avail = total - c.missing;
       const summary = c.played ? `${c.played} of ${total} main games played · ${avail} you can play` : (c.playing ? `Playing ${esc(playing.title)} · ${avail} of ${total} you can play` : `Not started · ${avail} of ${total} you can play`);
-      return `<button type="button" class="fr-card" data-fr="${f.id}">
+      const L = frLetter(f.name), anchor = FR.sort==="az" && L!==lastLetter ? ` id="az-${L}"` : "";
+      lastLetter = L;
+      return `${anchor ? `<h2 class="az-h"${anchor}>${L}</h2>` : ""}<button type="button" class="fr-card" data-fr="${f.id}">
         <span class="nm"><b>${esc(f.name)}</b><small>${f.years?f.years.join("–"):""}</small></span>
         ${frBar(c)}
         <span style="font-size:14px">${summary}</span>
@@ -1094,6 +1110,10 @@ function setup(){
       const card = t.closest("[data-fr]"); if(card){ FR.open = +card.dataset.fr; FR.spin = false; render(); window.scrollTo({top:0}); return; }
       if(t.closest("[data-frback]")){ FR.open = null; render(); return; }
       const fl = t.closest("[data-frf]"); if(fl){ FR.filter = fl.dataset.frf; render(); return; }
+      const so = t.closest("[data-frsort]"); if(so){ FR.sort = so.dataset.frsort; render(); return; }
+      const az = t.closest("[data-az]");
+      if(az){ if(FR.sort!=="az"){ FR.sort = "az"; render(); }  // letters only make sense alphabetically
+        const h = document.getElementById("az-"+az.dataset.az); if(h) h.scrollIntoView({behavior:"smooth", block:"start"}); return; }
       const jp = t.closest("[data-jump]");
       if(jp){ const id = jp.dataset.jump, x = frEntry(id);
         if(x && x.spin && !FR.spin){ FR.spin = true; render(); }  // the target is a spin-off: show them
