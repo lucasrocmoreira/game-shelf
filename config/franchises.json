@@ -1,3 +1,10 @@
 {
- "skip": []
+ "skip": [],
+ "merge": {
+  "Harvest Moon / Story of Seasons": ["Harvest Moon", "Story of Seasons"],
+  "Shin Megami Tensei": ["Shin Megami Tensei", "Megami Tensei"],
+  "Metal Gear": ["Metal Gear", "Metal Gear Solid"],
+  "Mario": ["Mario", "Mario Bros."],
+  "Valkyria Chronicles": ["Valkyria Chronicles", "Valkyria"]
+ }
 }

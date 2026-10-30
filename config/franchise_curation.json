@@ -2035,8 +2035,8 @@
   "notes": "Sub-series as on Wikipedia. Mega Man 2 uses the original 1988 Rockman 2 entry (170742); the English 1715 is typed as its expanded game. BN6 uses the original Rockman EXE 6 entries because IGDB types the English ones as expanded games. Game Boy titles (Dr. Wily's Revenge, II to V) sit in the classic timeline as Wikipedia does.",
   "curated_at": "2026-10-30"
  },
- "Metal Gear Solid": {
-  "franchise": "Metal Gear Solid",
+ "Metal Gear": {
+  "franchise": "Metal Gear",
   "source": "https://en.wikipedia.org/wiki/List_of_Metal_Gear_media",
   "main": [
    {

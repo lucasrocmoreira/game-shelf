@@ -37,6 +37,7 @@ RECENT_DAYS = 548        # games out for less than ~18 months haven't collected 
 SKIP = {"star wars", "marvel", "lego", "batman", "dc comics", "disney", "warhammer", "warhammer 40,000",
         "spider-man", "transformers", "teenage mutant ninja turtles", "the simpsons", "harry potter",
         "lord of the rings", "the lord of the rings", "dungeons & dragons", "nintendo sports"}
+KIDS_LICENSED = ("lego", "disney", "nickelodeon", "nicktoons", "pixar", "barbie", "cartoon network", "dreamworks")
 STOP = {"the", "and", "of", "a", "an", "series", "game", "games"}
 SPINOFF_WORDS = {"warriors", "heroes", "builders", "monsters", "tactics", "stories", "racing", "kart", "party",
                  "pinball", "puzzle", "picross", "tennis", "golf", "olympic", "strikers", "chronicles", "musou",
@@ -132,11 +133,15 @@ def _pair_versions(entries):
     return out
 
 
-def _fetch(igdb_client, fid):
+def _fetch(igdb_client, fid, collection=False):
     # IGDB has renamed fields over time (category -> game_type); fall back to the older names.
-    for fields, where in ((FIELDS, f"franchises = ({fid}) | franchise = {fid}"),
-                          (FIELDS.replace("game_type", "category"), f"franchises = ({fid}) | franchise = {fid}"),
-                          (FIELDS.replace(",franchise,", ","), f"franchises = ({fid})")):
+    if collection:
+        attempts = ((FIELDS, f"collections = ({fid})"), (FIELDS.replace("game_type", "category"), f"collections = ({fid})"))
+    else:
+        attempts = ((FIELDS, f"franchises = ({fid}) | franchise = {fid}"),
+                    (FIELDS.replace("game_type", "category"), f"franchises = ({fid}) | franchise = {fid}"),
+                    (FIELDS.replace(",franchise,", ","), f"franchises = ({fid})"))
+    for fields, where in attempts:
         try:
             games, offset = [], 0
             while True:  # big franchises (Mario: 900+ games) come in pages of 500
@@ -221,7 +226,7 @@ def build(igdb_client, igdb_games, rows):
         for i in {gid, g.get("_root")} - {None}:
             by_id.setdefault(i, set()).add(key)
 
-    owned, names = {}, {}
+    owned, names, cowned, cnames = {}, {}, {}, {}
     for key, r in rows.items():
         if r.get("catalog_only") or not key.startswith("igdb:"):
             continue
@@ -232,10 +237,27 @@ def build(igdb_client, igdb_games, rows):
         for f in frs:
             owned.setdefault(f["id"], set()).add(key)
             names[f["id"]] = f.get("name")
+        for col in g.get("collections") or []:
+            if isinstance(col, dict) and col.get("id"):
+                cowned.setdefault(col["id"], set()).add(key)
+                cnames[col["id"]] = col.get("name") or ""
 
-    candidates = [fid for fid, keys in owned.items() if len(keys) >= MIN_OWNED]
-    todo = [fid for fid in candidates if days_since((cache.get(str(fid)) or {}).get("checked")) >= REFRESH_DAYS
-            or (cache.get(str(fid)) or {}).get("v") != CACHE_VERSION]
+    cfg = load_json(CONFIG_DIR / "franchises.json", {})
+    skip = SKIP | {n.lower() for n in cfg.get("skip", [])}
+    # Series IGDB splits across franchises (Harvest Moon / Story of Seasons) are merged into one guide.
+    merge_to = {}
+    for target, parts in (cfg.get("merge") or {}).items():
+        for p in parts:
+            merge_to[_norm(p)] = target
+    groups = {}
+    for fid, keys in owned.items():
+        gname = merge_to.get(_norm(names.get(fid)), names.get(fid) or "")
+        grp = groups.setdefault(gname, {"name": gname, "fids": set(), "owned": set(), "collection": None})
+        grp["fids"].add(fid)
+        grp["owned"] |= keys
+    candidates = [g for g in groups.values() if len(g["owned"]) >= MIN_OWNED and g["name"].lower() not in skip]
+    todo = [fid for g in candidates for fid in g["fids"]
+            if days_since((cache.get(str(fid)) or {}).get("checked")) >= REFRESH_DAYS or (cache.get(str(fid)) or {}).get("v") != CACHE_VERSION]
     log(f"Franchises: {len(candidates)} with 2+ of your games; fetching {len(todo)} from IGDB")
     for fid in todo:
         try:
@@ -244,6 +266,19 @@ def build(igdb_client, igdb_games, rows):
             log(f"  franchise {fid} failed: {type(e).__name__}")
             continue
         cache[str(fid)] = {"checked": now_iso(), "v": CACHE_VERSION, "name": names.get(fid), "games": games}
+
+    # Series IGDB only knows as a collection (Etrian Odyssey, Oddworld, Batman: Arkham): candidates when
+    # you own 3+ of their games and a franchise guide doesn't already cover them (checked further down).
+    ccands = [cid for cid, keys in cowned.items() if len(keys) >= 3 and not any(w in (cnames[cid] or "").lower() for w in KIDS_LICENSED)]
+    ctodo = [cid for cid in ccands if days_since((cache.get(f"c{cid}") or {}).get("checked")) >= REFRESH_DAYS
+             or (cache.get(f"c{cid}") or {}).get("v") != CACHE_VERSION]
+    log(f"Series (IGDB collections): {len(ccands)} with 3+ of your games; fetching {len(ctodo)}")
+    for cid in ctodo:
+        try:
+            cache[f"c{cid}"] = {"checked": now_iso(), "v": CACHE_VERSION, "name": cnames[cid],
+                                "games": _fetch(igdb_client, cid, collection=True)}
+        except Exception as e:
+            log(f"  series {cid} failed: {type(e).__name__}")
 
     known = {}
     for k, v in cache.items():
@@ -256,21 +291,35 @@ def build(igdb_client, igdb_games, rows):
     save_json(CACHE_DIR / "franchises.json", cache)
 
     now = time.time()
-    cfg = load_json(CONFIG_DIR / "franchises.json", {})
-    skip = SKIP | {n.lower() for n in cfg.get("skip", [])}
     out = []
-    for fid in candidates:
-        c = cache.get(str(fid))
-        if not c:
+    for grp in candidates:
+        games, seen = [], set()
+        for fid in sorted(grp["fids"]):
+            for g in (cache.get(str(fid)) or {}).get("games") or []:
+                if g["id"] not in seen:
+                    seen.add(g["id"])
+                    games.append(g)
+        if not games:
             continue
-        name = names.get(fid) or c.get("name") or ""
-        if name.lower() in skip:
-            continue
-        cur = curation.get(name)
-        f = _auto(fid, name, c["games"], known, by_id, now, cur)
+        f = _auto(min(grp["fids"]), grp["name"], games, known, by_id, now, curation.get(grp["name"]), fids=grp["fids"])
         if f:
             out.append(f)
-    # Overlapping franchises (Mario and Mario Bros.): keep the bigger one.
+    # Collections not covered by a franchise guide become guides of their own.
+    covered = {k for f in out for e in f["games"] for k in e["keys"]}
+    shown_names = {_norm(f["name"]) for f in out}
+    for cid in ccands:
+        c = cache.get(f"c{cid}")
+        if not c or _norm(cnames[cid]) in shown_names:
+            continue
+        mine = cowned[cid]
+        if len(mine & covered) >= 0.5 * len(mine):
+            continue
+        f = _auto(-cid, cnames[cid], c["games"], known, by_id, now, curation.get(cnames[cid]), fids=None)
+        if f:
+            out.append(f)
+            shown_names.add(_norm(cnames[cid]))
+            covered |= {k for e in f["games"] for k in e["keys"]}
+    # Overlapping guides (Mario and Mario Bros.): keep the bigger one.
     mains_of = {f["id"]: {i for e in f["games"] if not e["spin"] for i in e.get("ids", [e["id"]])} for f in out}
     drop = set()
     for f in out:
@@ -284,7 +333,7 @@ def build(igdb_client, igdb_games, rows):
     return {"generated": now_iso(), "franchises": out}
 
 
-def _auto(fid, name, games, known, by_id, now, cur=None):
+def _auto(fid, name, games, known, by_id, now, cur=None, fids=None):
     words = set(_words(name))
     named = lambda g: not words or any(w in (g.get("name") or "").lower() for w in words)  # prefix match: WarioWare
     by_gid = {g["id"]: g for g in games}
@@ -314,7 +363,7 @@ def _auto(fid, name, games, known, by_id, now, cur=None):
             why = "demo or similar"
         else:
             mf = _main_franchise(g)
-            if mf and mf != fid and not named(g):
+            if fids is not None and mf and mf not in fids and not named(g):
                 why = f"crossover (main franchise {mf})"
         if why:
             if dbg is not None:
@@ -457,7 +506,11 @@ def _auto(fid, name, games, known, by_id, now, cur=None):
         curated = True
     else:
         main_entries = [e for e in entries if not e["spin"]]
-        if len(main_entries) < MIN_MAIN or sum(e["ratings"] >= POPULAR_RATINGS for e in main_entries) < MIN_POPULAR:
+        popular = sum(e["ratings"] >= POPULAR_RATINGS for e in main_entries)
+        mine = sum(bool(e["keys"]) for e in entries)
+        big = len(main_entries) >= MIN_MAIN and popular >= MIN_POPULAR
+        small = len(main_entries) >= 3 and popular >= 2 and mine >= 3  # BioShock, The Last of Us, Golden Sun
+        if not (big or small):
             return None
     if sum(bool(e["keys"]) for e in entries) < MIN_OWNED:
         return None
