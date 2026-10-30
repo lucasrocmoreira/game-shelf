@@ -12,7 +12,7 @@ import traceback
 
 import yaml
 
-from . import edits, hltb, nso, psplus, scores, sources, titles, wikidata
+from . import edits, franchises, hltb, nso, psplus, scores, sources, titles, wikidata
 from .igdb import IGDB, genres_of, metadata_of
 from .util import CACHE_DIR, CONFIG_DIR, SITE_DIR, days_since, load_json, log, now_iso, save_json
 
@@ -299,6 +299,8 @@ def original_years(igdb_client, games):
             cur = parent[cur]
             if year.get(cur) and (best is None or year[cur] < best):
                 best = year[cur]
+        if cur != gid:
+            games[gid]["_root"] = cur  # the original this port, remaster or edition comes from
         if best and best != year.get(gid):
             games[gid]["_orig_year"] = best
             n += 1
@@ -660,6 +662,18 @@ def main():
         pretty=False,
     )
     write_catalog(cat_entries, catalog, match_info, igdb_games, merged, cache, hl_cache, status)
+
+    if igdb_games and not offline:
+        try:
+            rows = {**{k: r for k, r in catalog.items() if r["catalog_only"]}, **merged}
+            save_json(SITE_DIR / "franchises.json", franchises.build(igdb, igdb_games, rows), pretty=False)
+            status["franchises"] = "ok"
+        except Exception as e:
+            log(f"!! Franchises failed: {e}")
+            traceback.print_exc()
+            old = load_json(SITE_DIR / "franchises.json", {"franchises": []})
+            old["error"] = f"{type(e).__name__}: {str(e)[:300]}"
+            save_json(SITE_DIR / "franchises.json", old, pretty=False)
 
     visible = [g for g in games if not g["hidden"]]
     unmatched = [g["title"] for g in visible if not g["matched"]]

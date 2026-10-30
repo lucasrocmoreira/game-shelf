@@ -43,6 +43,44 @@ button,select,input{font:inherit;color:inherit}
 label.inline{display:inline-flex;gap:6px;align-items:center;font-size:14px}
 .pill.new{border-color:var(--accent);color:var(--accent)}
 body.view-psplus .lib-only{display:none}
+body.view-franchises .controls, body.view-franchises #hero, body.view-franchises #now, body.view-franchises #status{display:none}
+
+/* Franchises */
+.fr-head h1{font:800 clamp(34px,8vw,48px)/.95 var(--display);font-stretch:78%;margin:0 0 6px}
+.fr-head p{margin:0;color:var(--muted);font-size:14px}
+.fr-legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted);margin:12px 0}
+.fr-legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{width:10px;height:10px;border-radius:3px;display:inline-block}
+.s-played{background:var(--hi)} .s-playing{background:var(--mid)} .s-owned{background:var(--ink);opacity:.8} .s-sub{background:var(--accent)} .s-missing{background:var(--line);box-shadow:inset 0 0 0 1px var(--muted)}
+.fr-bar{display:flex;height:10px;border-radius:5px;overflow:hidden;gap:2px}
+.fr-cards{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr))}
+.fr-card{all:unset;cursor:pointer;display:grid;gap:9px;padding:14px;border:1px solid var(--line);border-radius:14px;background:var(--panel)}
+.fr-card:focus-visible{outline:2px solid var(--accent)}
+.fr-card .nm{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.fr-card .nm b{font:750 22px/1.1 var(--display);font-stretch:85%}
+.fr-card small,.fr-muted{color:var(--muted);font-size:13px}
+.fr-next{display:grid;gap:10px;padding:14px;border-radius:14px;background:var(--panel);border:1px solid var(--accent);margin:16px 0}
+.fr-next .lbl{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.fr-next .row1{display:flex;gap:12px;align-items:flex-start}
+.fr-next img{width:56px;aspect-ratio:264/374;object-fit:cover;border-radius:6px;background:var(--line);flex:none}
+.fr-next b{font:750 22px/1.1 var(--display);font-stretch:85%;display:block}
+.fr-next p{margin:4px 0 0;font-size:14px}
+.tl{list-style:none;margin:8px 0 0;padding:0}
+.tl li{display:grid;grid-template-columns:40px 16px 36px minmax(0,1fr) 40px;gap:0 10px;align-items:start}
+.tl .yr{font:700 14px/1 var(--display);color:var(--muted);text-align:right;padding-top:4px;font-variant-numeric:tabular-nums}
+.tl .rail{display:flex;flex-direction:column;align-items:center;align-self:stretch}
+.tl .rail i{flex:1 0 auto;width:2px;background:var(--line);min-height:20px}
+.dot{width:14px;height:14px;border-radius:50%;box-sizing:border-box;margin-top:3px;flex:none}
+.dot.played{background:var(--hi)} .dot.playing{background:var(--mid)} .dot.owned{border:3px solid var(--ink);opacity:.85}
+.dot.sub{border:3px dashed var(--accent)} .dot.missing{width:10px;height:10px;margin:5px 0 2px;background:var(--line);box-shadow:0 0 0 1px var(--muted)}
+.dot.next{border:4px solid var(--accent);background:var(--ink)}
+.tl img{width:36px;aspect-ratio:264/374;object-fit:cover;border-radius:4px;background:var(--line);margin-bottom:12px}
+.tl li.missing img{opacity:.45;filter:grayscale(1)}
+.tl .tt{all:unset;cursor:pointer;display:grid;gap:2px;padding-bottom:14px;min-width:0}
+.tl .tt b{font:650 16px/1.2 var(--display);overflow-wrap:anywhere}
+.tl li.missing .tt b{color:var(--muted);font-weight:600}
+.tl .note{font-size:12px;font-weight:600}
+.tl .sc{font:800 20px/1 var(--display);font-stretch:80%;text-align:right;padding-top:2px}
 
 /* Playing now: the games you're in the middle of */
 .now{margin:6px 0 22px}
@@ -183,6 +221,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
   </div>
   <nav class="tabs" id="tabs" role="tablist" aria-label="View">
     <button type="button" role="tab" data-view="library" aria-selected="true">My library</button>
+    <button type="button" role="tab" data-view="franchises" aria-selected="false">Franchises</button>
     <button type="button" role="tab" data-view="psplus" aria-selected="false">PS Plus</button>
     <button type="button" role="tab" data-view="ps5" aria-selected="false">PS5</button>
     <button type="button" role="tab" data-view="ps3" aria-selected="false">PS3</button>
@@ -551,6 +590,7 @@ function openGame(g){
     const a=b.dataset.act; if(a!=="fix") closeSheet(); runAct(a, g); };
 }
 function render(){
+  if(state.view==="franchises"){ savePrefs(); renderFranchises(); return; }
   savePrefs(); renderActive(); renderNow();
   const list = filtered();
   renderHero(list);
@@ -712,6 +752,118 @@ function openSuggest(mode){
     const g = allGames().find(x=>x.key===b.dataset.key); if(g) openGame(g);  // may be on another console
   };
   $("sheet").onkeydown = e=>{ if(e.key==="Enter" && e.target.classList.contains("pick")){ e.preventDefault(); e.target.click(); } };
+}
+
+/* ---------------- Franchises ----------------
+   Built daily from IGDB (pipeline/franchises.py): the main games of each big series you own.
+   Played / playing / owned status comes from your library here, so it is always current. */
+const FR = {data:null, open:null, filter:"all", spin:false};
+const FR_LABEL = {played:"Played", playing:"Playing now", owned:"Own it", sub:"PS Plus or Switch Online", missing:"Not in your library"};
+function frGames(f){
+  const lib = new Set(((VIEWS.library.data||{}).games||[]).map(g=>g.key)), all = allGames();
+  const byKey = new Map(all.map(g=>[g.key,g]));
+  const list = f.games.map(e=>{
+    const rows = e.keys.map(k=>byKey.get(k)).filter(g=>g && !g._hidden);
+    let status = "missing";
+    if(rows.some(g=>g._played)) status = "played";
+    else if(rows.some(g=>g._playing)) status = "playing";
+    else if(rows.some(g=>lib.has(g.key) && !g.nso && !g.ps_plus)) status = "owned";
+    else if(rows.length) status = "sub";
+    const row = rows.find(g=>lib.has(g.key)) || rows[0] || null;
+    const score = row ? avg(row) : e.score;
+    return {...e, rows, row, status, score};
+  });
+  // An original counts as covered when you played its remake.
+  for(const e of list){
+    const rm = list.find(x=>x.remake_of===e.id && x.status==="played");
+    if(rm && e.status!=="played") e.coveredBy = rm;
+  }
+  const main = list.filter(e=>!e.spin);
+  const next = main.find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy) || null;
+  const playing = main.find(e=>e.status==="playing") || null;
+  const n = k=>main.filter(e=>e.status===k).length;
+  return {list, main, spins:list.filter(e=>e.spin), next, playing,
+          counts:{played:n("played"), playing:n("playing"), owned:n("owned"), sub:n("sub"), missing:n("missing")}};
+}
+function frBar(c){
+  return `<div class="fr-bar" aria-hidden="true">${["played","playing","owned","sub","missing"].map(k=>c[k]?`<span class="s-${k}" style="flex:${c[k]} 0 0"></span>`:"").join("")}</div>`;
+}
+function frWhere(e){
+  if(!e.row) return "Not in your library";
+  const g = e.row;
+  if(g.nso) return `Switch Online (${g.platforms.join(" + ")})`;
+  if(!new Set(((VIEWS.library.data||{}).games||[]).map(x=>x.key)).has(g.key)) return `PS Plus catalog (${g.platforms.join(", ")})`;
+  return g.platforms.join(", ") + (g.ps_plus ? " · PS Plus claim" : "");
+}
+function renderFranchises(){
+  $("count").textContent = "";
+  const all = (FR.data||{}).franchises||[];
+  const when = FR.data && FR.data.generated ? new Date(FR.data.generated).toLocaleString([], {dateStyle:"medium",timeStyle:"short"}) : "not yet";
+  $("foot").textContent = `Franchise lists from IGDB, updated ${when}. Played and owned status is live.`;
+  if(!all.length){ $("out").innerHTML = `<p class="empty">Franchise guides appear after the next daily update.</p>`; return; }
+  const f = FR.open && all.find(x=>x.id===FR.open);
+  if(f) return renderGuide(f);
+  const cards = all.map(f=>({f, ...frGames(f)})).filter(({counts:c, next})=>{
+    const started = c.played + c.playing > 0;
+    return FR.filter==="all" || (FR.filter==="started" && started && next) || (FR.filter==="new" && !started) || (FR.filter==="done" && started && !next && !c.playing);
+  });
+  const chip = (v,l)=>`<button type="button" class="chip" data-frf="${v}" aria-pressed="${FR.filter===v}">${l}</button>`;
+  $("out").innerHTML = `<div class="fr-head"><h1>Your franchises</h1>
+      <p>Series with at least 5 main games, well known on IGDB, where you own at least 2. Sorted by how much of each you own.</p></div>
+    <div class="row" style="margin-top:12px">${chip("all",`All ${all.length}`)}${chip("started","Started")}${chip("new","Not started")}${chip("done","Finished")}</div>
+    <div class="fr-legend">${Object.entries(FR_LABEL).map(([k,l])=>`<span><i class="sw s-${k}"></i>${l}</span>`).join("")}</div>
+    ${cards.length ? `<div class="fr-cards">${cards.map(({f,main,counts:c,next,playing})=>{
+      const total = main.length, avail = total - c.missing;
+      const summary = c.played ? `${c.played} of ${total} main games played · ${avail} you can play` : (c.playing ? `Playing ${esc(playing.title)} · ${avail} of ${total} you can play` : `Not started · ${avail} of ${total} you can play`);
+      return `<button type="button" class="fr-card" data-fr="${f.id}">
+        <span class="nm"><b>${esc(f.name)}</b><small>${f.years?f.years.join("–"):""}</small></span>
+        ${frBar(c)}
+        <span style="font-size:14px">${summary}</span>
+        <small>${playing ? `Playing: <b style="color:var(--ink)">${esc(playing.title)}</b>` : next ? `Next: <b style="color:var(--ink)">${esc(next.title)}</b> (${next.year||"?"}), ${esc(frWhere(next))}` : c.played ? "You've played everything you have" : ""}</small>
+      </button>`; }).join("")}</div>` : `<p class="empty">No franchises here yet.</p>`}`;
+}
+function renderGuide(f){
+  const {list, main, spins, next, counts:c} = frGames(f);
+  const total = main.length;
+  const before = next ? main.filter(e=>e.year && next.year && e.year <= next.year && e!==next && e.status==="missing" && !e.coveredBy) : [];
+  const covered = main.filter(e=>e.coveredBy && next && e.year < next.year);
+  let why = "";
+  if(next){
+    const bits = [];
+    if(covered.length) bits.push(`You covered ${covered.map(e=>esc(e.title)).join(", ")} through ${covered.length>1?"their remakes":"its remake"}.`);
+    if(before.length) bits.push(`${before.map(e=>esc(e.title)).join(" and ")} ${before.length>1?"come":"comes"} before it but ${before.length>1?"aren't":"isn't"} in your library.`);
+    why = bits.join(" ");
+  }
+  const shown = (FR.spin ? list : main);
+  const nextTtb = next && next.row ? beat(next.row) : null;
+  $("out").innerHTML = `<button type="button" class="more" data-frback="1">‹ All franchises</button>
+    <div class="fr-head" style="margin-top:6px"><h1>${esc(f.name)}</h1>
+      <p>${f.years?f.years.join("–")+" · ":""}${total} main games</p></div>
+    <div style="margin-top:10px">${frBar(c)}</div>
+    <div class="fr-legend" style="margin-top:8px"><span><b style="color:var(--hi)">${c.played}</b>&nbsp;played</span>${c.playing?`<span><b style="color:var(--mid)">${c.playing}</b>&nbsp;playing</span>`:""}<span><b>${c.owned}</b>&nbsp;own, not played</span><span><b style="color:var(--accent)">${c.sub}</b>&nbsp;PS Plus or Switch Online</span><span><b>${c.missing}</b>&nbsp;not in your library</span></div>
+    ${next ? `<div class="fr-next"><span class="lbl">Your next one</span>
+      <div class="row1">${next.cover?`<img src="${esc(next.cover)}" alt="">`:""}
+        <div style="min-width:0;flex:1"><b>${esc(next.title)}</b><span class="fr-muted">${[next.year, esc(frWhere(next)), nextTtb?`about ${hrs(nextTtb)} to beat`:""].filter(Boolean).join(" · ")}</span>${why?`<p>${why}</p>`:""}</div>
+        <span class="score ${tone(next.score)}" style="font-size:28px">${next.score??"–"}</span></div>
+      <div class="actions"><button type="button" data-frpin="${next.id}">Pin to Playing now</button><button type="button" data-fropen="${next.id}">Open game</button></div></div>` : ""}
+    <label class="inline" style="margin:4px 0 6px"><input type="checkbox" id="frSpin" ${FR.spin?"checked":""}> Show spin-offs (${spins.length})</label>
+    <ol class="tl">${shown.map(e=>{
+      const st = e===next ? "next" : e.status;
+      const note = e.coveredBy ? `Played as the ${e.coveredBy.year} remake` : e===next ? "Your next one" : e.status==="missing" ? "" : FR_LABEL[e.status];
+      const noteColor = e.coveredBy || e.status==="played" ? "var(--hi)" : e===next || e.status==="sub" ? "var(--accent)" : e.status==="playing" ? "var(--mid)" : "var(--muted)";
+      return `<li class="${e.status}">
+        <span class="yr">${e.year||""}</span>
+        <span class="rail"><span class="dot ${st}"></span><i></i></span>
+        ${e.cover?`<img src="${esc(e.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
+        <button type="button" class="tt" data-fropen="${e.id}"><b>${esc(e.title)}${e.spin?` <span class="pill">Spin-off</span>`:""}</b>
+          <span class="fr-muted">${esc(frWhere(e))}</span>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}</button>
+        <span class="sc ${tone(e.score)}">${e.score??"–"}</span></li>`; }).join("")}</ol>
+    ${!FR.spin && spins.some(e=>e.rows.length) ? `<p class="fr-muted">Spin-offs in your library: ${spins.filter(e=>e.rows.length).map(e=>`${esc(e.title)}${e.score!=null?` (${e.score})`:""}`).join(" · ")}</p>` : ""}`;
+  $("frSpin").onchange = ev=>{ FR.spin = ev.target.checked; render(); };
+}
+function frEntry(id){
+  const f = FR.data.franchises.find(x=>x.id===FR.open); if(!f) return null;
+  return frGames(f).list.find(e=>e.id===+id);
 }
 
 /* ---------------- Sheets ---------------- */
@@ -884,6 +1036,17 @@ function setup(){
   $("now").onclick = e=>{ if(e.target.closest("#suggestBtn")){ openSuggest(); return; } const c=e.target.closest(".now-card"); if(!c) return; const g=allGames().find(x=>x.key===c.dataset.key); if(g) openGame(g); };
   $("settingsBtn").onclick = ()=>openSettings();
   $("out").onclick = e=>{
+    if(state.view==="franchises"){
+      const t = e.target;
+      const card = t.closest("[data-fr]"); if(card){ FR.open = +card.dataset.fr; FR.spin = false; render(); window.scrollTo({top:0}); return; }
+      if(t.closest("[data-frback]")){ FR.open = null; render(); return; }
+      const fl = t.closest("[data-frf]"); if(fl){ FR.filter = fl.dataset.frf; render(); return; }
+      const pin = t.closest("[data-frpin]"); if(pin){ const x = frEntry(pin.dataset.frpin); if(x && x.row && !x.row._playing) togglePlaying(x.row); return; }
+      const op = t.closest("[data-fropen]");
+      if(op){ const x = frEntry(op.dataset.fropen); if(!x) return;
+        if(x.row) openGame(x.row); else if(x.slug) window.open(`https://www.igdb.com/games/${x.slug}`, "_blank", "noopener"); }
+      return;
+    }
     const more=e.target.closest(".more");
     if(more){const k="group:"+more.dataset.group; state.open.has(k)?state.open.delete(k):state.open.add(k); render(); return;}
     const tag=e.target.closest(".tag");
@@ -1015,6 +1178,14 @@ async function loadView(v){
   return VIEWS[v].data;
 }
 async function showView(v){
+  if(v==="franchises"){
+    state.view = v; DATA = await loadView("library");
+    if(!FR.data) FR.data = await fetch("franchises.json",{cache:"no-store"}).then(r=>r.ok?r.json():{franchises:[]}).catch(()=>({franchises:[]}));
+    document.body.classList.remove("view-psplus"); document.body.classList.add("view-franchises");
+    for(const b of $("tabs").querySelectorAll("[data-view]")) b.setAttribute("aria-selected", b.dataset.view===v);
+    $("addBtn").hidden = false; applyAll(); setup(); render(); return;
+  }
+  document.body.classList.remove("view-franchises");
   if(!VIEWS[v] && !CONSOLES[v]) v = "library";
   if(v !== state.view){  // filters that only make sense in one view start fresh
     state.platforms = new Set(); state.filters = {}; state.tags = []; state.open = new Set(); state.q = ""; $("q").value = "";
