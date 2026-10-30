@@ -367529,6 +367529,161 @@
  },
  "_extra": {
   "ids": {
+   "10877": {
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 119997,
+     "image_id": "co2kl9"
+    },
+    "first_release_date": 1383177600,
+    "game_type": 0,
+    "genres": [
+     5,
+     24,
+     31
+    ],
+    "id": 10877,
+    "name": "Sniper Elite: Nazi Zombie Army 2",
+    "platforms": [
+     6
+    ],
+    "rating": 67.23595112145316,
+    "slug": "sniper-elite-nazi-zombie-army-2",
+    "total_rating_count": 16
+   },
+   "11204": {
+    "aggregated_rating": 68.33333333333333,
+    "collections": [
+     {
+      "id": 564,
+      "name": "The Walking Dead - A Telltale Games Series"
+     }
+    ],
+    "cover": {
+     "id": 122292,
+     "image_id": "co2md0"
+    },
+    "first_release_date": 1454457600,
+    "game_type": 0,
+    "genres": [
+     2,
+     31
+    ],
+    "id": 11204,
+    "name": "The Walking Dead: Michonne",
+    "platforms": [
+     9,
+     48,
+     34,
+     6,
+     39,
+     14,
+     12,
+     49
+    ],
+    "rating": 67.34042740140686,
+    "slug": "the-walking-dead-michonne",
+    "total_rating_count": 221
+   },
+   "119234": {
+    "aggregated_rating": 72.77777777777777,
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 75050,
+     "image_id": "co1lwq"
+    },
+    "first_release_date": 1580774400,
+    "game_type": 0,
+    "genres": [
+     5,
+     33
+    ],
+    "id": 119234,
+    "name": "Zombie Army 4: Dead War",
+    "platforms": [
+     170,
+     169,
+     48,
+     6,
+     167,
+     49,
+     130
+    ],
+    "rating": 65.32617687159205,
+    "slug": "zombie-army-4-dead-war",
+    "total_rating_count": 49
+   },
+   "20871": {
+    "aggregated_rating": 71.0,
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 87420,
+     "image_id": "co1vgc"
+    },
+    "first_release_date": 1425340800,
+    "game_type": 0,
+    "genres": [
+     5,
+     24,
+     31
+    ],
+    "id": 20871,
+    "name": "Zombie Army Trilogy",
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 65.21325363726413,
+    "slug": "zombie-army-trilogy",
+    "total_rating_count": 46
+   },
+   "217553": {
+    "aggregated_rating": 63.5,
+    "collections": [
+     {
+      "id": 3092,
+      "name": "Story of Seasons"
+     }
+    ],
+    "cover": {
+     "id": 246734,
+     "image_id": "co5adq"
+    },
+    "first_release_date": 1674691200,
+    "game_type": 8,
+    "genres": [
+     12,
+     13
+    ],
+    "id": 217553,
+    "name": "Story of Seasons: A Wonderful Life",
+    "parent_game": 3384,
+    "platforms": [
+     169,
+     6,
+     167,
+     130
+    ],
+    "slug": "story-of-seasons-a-wonderful-life",
+    "total_rating_count": 2
+   },
    "240": {
     "aggregated_rating": 90.0,
     "collections": [
@@ -367555,6 +367710,51 @@
     "rating": 80.31330224617209,
     "slug": "battlefield-1942",
     "total_rating_count": 277
+   },
+   "280839": {
+    "cover": {
+     "id": 351683,
+     "image_id": "co7jcz"
+    },
+    "first_release_date": 1729123200,
+    "game_type": 0,
+    "genres": [
+     11,
+     15
+    ],
+    "id": 280839,
+    "name": "Age of Empires Mobile",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "age-of-empires-mobile"
+   },
+   "288444": {
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 391781,
+     "image_id": "co8eat"
+    },
+    "first_release_date": 1749686400,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 288444,
+    "name": "Zombie Army VR",
+    "platforms": [
+     386,
+     390,
+     163
+    ],
+    "slug": "zombie-army-vr"
    },
    "350": {
     "aggregated_rating": 70.0,
@@ -367607,6 +367807,29 @@
     "slug": "battlefield-play4free",
     "total_rating_count": 30
    },
+   "37532": {
+    "collections": [
+     {
+      "id": 2265,
+      "name": "Ghosts 'n Goblins"
+     }
+    ],
+    "cover": {
+     "id": 252182,
+     "image_id": "co5el2"
+    },
+    "first_release_date": 932601600,
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 37532,
+    "name": "Makaimura for WonderSwan",
+    "platforms": [
+     57
+    ],
+    "slug": "makaimura-for-wonderswan"
+   },
    "51346": {
     "collections": [
      {
@@ -367631,6 +367854,78 @@
      13
     ],
     "slug": "jack-in-the-dark"
+   },
+   "52149": {
+    "collections": [
+     {
+      "id": 344,
+      "name": "Sly Cooper"
+     }
+    ],
+    "cover": {
+     "id": 155514,
+     "image_id": "co3bzu"
+    },
+    "first_release_date": 1360022400,
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 52149,
+    "name": "Bentley's Hackpack",
+    "platforms": [
+     9,
+     34,
+     39,
+     46
+    ],
+    "slug": "bentleys-hackpack"
+   },
+   "63647": {
+    "collections": [
+     {
+      "id": 2265,
+      "name": "Ghosts 'n Goblins"
+     }
+    ],
+    "cover": {
+     "id": 271876,
+     "image_id": "co5ts4"
+    },
+    "first_release_date": 1281571200,
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 63647,
+    "name": "Ghosts 'N Goblins: Gold Knights II",
+    "platforms": [
+     39
+    ],
+    "slug": "ghosts-n-goblins-gold-knights-ii"
+   },
+   "69412": {
+    "collections": [
+     {
+      "id": 2265,
+      "name": "Ghosts 'n Goblins"
+     }
+    ],
+    "cover": {
+     "id": 271882,
+     "image_id": "co5tsa"
+    },
+    "first_release_date": 1231200000,
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 69412,
+    "name": "Ghosts 'n Goblins: Gold Knights",
+    "platforms": [
+     39
+    ],
+    "slug": "ghosts-n-goblins-gold-knights"
    },
    "7081": {
     "aggregated_rating": 72.71428571428571,
@@ -367690,6 +367985,25 @@
    }
   },
   "names": {
+   "Age of Empires Mobile|2024": {
+    "cover": {
+     "id": 351683,
+     "image_id": "co7jcz"
+    },
+    "first_release_date": 1729123200,
+    "game_type": 0,
+    "genres": [
+     11,
+     15
+    ],
+    "id": 280839,
+    "name": "Age of Empires Mobile",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "age-of-empires-mobile"
+   },
    "Alone in the Dark: Illumination|2015": {
     "collections": [
      {
@@ -367824,6 +368138,78 @@
     "slug": "battlefield-play4free",
     "total_rating_count": 30
    },
+   "Bentley's Hackpack|2013": {
+    "collections": [
+     {
+      "id": 344,
+      "name": "Sly Cooper"
+     }
+    ],
+    "cover": {
+     "id": 155514,
+     "image_id": "co3bzu"
+    },
+    "first_release_date": 1360022400,
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 52149,
+    "name": "Bentley's Hackpack",
+    "platforms": [
+     9,
+     34,
+     39,
+     46
+    ],
+    "slug": "bentleys-hackpack"
+   },
+   "Ghosts'n Goblins: Gold Knights II|2010": {
+    "collections": [
+     {
+      "id": 2265,
+      "name": "Ghosts 'n Goblins"
+     }
+    ],
+    "cover": {
+     "id": 271876,
+     "image_id": "co5ts4"
+    },
+    "first_release_date": 1281571200,
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 63647,
+    "name": "Ghosts 'N Goblins: Gold Knights II",
+    "platforms": [
+     39
+    ],
+    "slug": "ghosts-n-goblins-gold-knights-ii"
+   },
+   "Ghosts'n Goblins: Gold Knights|2009": {
+    "collections": [
+     {
+      "id": 2265,
+      "name": "Ghosts 'n Goblins"
+     }
+    ],
+    "cover": {
+     "id": 271882,
+     "image_id": "co5tsa"
+    },
+    "first_release_date": 1231200000,
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 69412,
+    "name": "Ghosts 'n Goblins: Gold Knights",
+    "platforms": [
+     39
+    ],
+    "slug": "ghosts-n-goblins-gold-knights"
+   },
    "Jack in the Dark|1993": {
     "collections": [
      {
@@ -367848,6 +368234,211 @@
      13
     ],
     "slug": "jack-in-the-dark"
+   },
+   "Makaimura for WonderSwan|1999": {
+    "collections": [
+     {
+      "id": 2265,
+      "name": "Ghosts 'n Goblins"
+     }
+    ],
+    "cover": {
+     "id": 252182,
+     "image_id": "co5el2"
+    },
+    "first_release_date": 932601600,
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 37532,
+    "name": "Makaimura for WonderSwan",
+    "platforms": [
+     57
+    ],
+    "slug": "makaimura-for-wonderswan"
+   },
+   "Nazo Makaimura: Incredible Toons|1996": null,
+   "Sniper Elite: Nazi Zombie Army 2|2013": {
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 119997,
+     "image_id": "co2kl9"
+    },
+    "first_release_date": 1383177600,
+    "game_type": 0,
+    "genres": [
+     5,
+     24,
+     31
+    ],
+    "id": 10877,
+    "name": "Sniper Elite: Nazi Zombie Army 2",
+    "platforms": [
+     6
+    ],
+    "rating": 67.23595112145316,
+    "slug": "sniper-elite-nazi-zombie-army-2",
+    "total_rating_count": 16
+   },
+   "Story of Seasons: A Wonderful Life|2023": {
+    "aggregated_rating": 63.5,
+    "collections": [
+     {
+      "id": 3092,
+      "name": "Story of Seasons"
+     }
+    ],
+    "cover": {
+     "id": 246734,
+     "image_id": "co5adq"
+    },
+    "first_release_date": 1674691200,
+    "game_type": 8,
+    "genres": [
+     12,
+     13
+    ],
+    "id": 217553,
+    "name": "Story of Seasons: A Wonderful Life",
+    "parent_game": 3384,
+    "platforms": [
+     169,
+     6,
+     167,
+     130
+    ],
+    "slug": "story-of-seasons-a-wonderful-life",
+    "total_rating_count": 2
+   },
+   "The Walking Dead: Michonne|2016": {
+    "aggregated_rating": 68.33333333333333,
+    "collections": [
+     {
+      "id": 564,
+      "name": "The Walking Dead - A Telltale Games Series"
+     }
+    ],
+    "cover": {
+     "id": 122292,
+     "image_id": "co2md0"
+    },
+    "first_release_date": 1454457600,
+    "game_type": 0,
+    "genres": [
+     2,
+     31
+    ],
+    "id": 11204,
+    "name": "The Walking Dead: Michonne",
+    "platforms": [
+     9,
+     48,
+     34,
+     6,
+     39,
+     14,
+     12,
+     49
+    ],
+    "rating": 67.34042740140686,
+    "slug": "the-walking-dead-michonne",
+    "total_rating_count": 221
+   },
+   "Zombie Army 4: Dead War|2020": {
+    "aggregated_rating": 72.77777777777777,
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 75050,
+     "image_id": "co1lwq"
+    },
+    "first_release_date": 1580774400,
+    "game_type": 0,
+    "genres": [
+     5,
+     33
+    ],
+    "id": 119234,
+    "name": "Zombie Army 4: Dead War",
+    "platforms": [
+     170,
+     169,
+     48,
+     6,
+     167,
+     49,
+     130
+    ],
+    "rating": 65.32617687159205,
+    "slug": "zombie-army-4-dead-war",
+    "total_rating_count": 49
+   },
+   "Zombie Army Trilogy|2015": {
+    "aggregated_rating": 71.0,
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 87420,
+     "image_id": "co1vgc"
+    },
+    "first_release_date": 1425340800,
+    "game_type": 0,
+    "genres": [
+     5,
+     24,
+     31
+    ],
+    "id": 20871,
+    "name": "Zombie Army Trilogy",
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 65.21325363726413,
+    "slug": "zombie-army-trilogy",
+    "total_rating_count": 46
+   },
+   "Zombie Army VR|2025": {
+    "collections": [
+     {
+      "id": 9780,
+      "name": "Zombie Army"
+     }
+    ],
+    "cover": {
+     "id": 391781,
+     "image_id": "co8eat"
+    },
+    "first_release_date": 1749686400,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 288444,
+    "name": "Zombie Army VR",
+    "platforms": [
+     386,
+     390,
+     163
+    ],
+    "slug": "zombie-army-vr"
    }
   }
  },
