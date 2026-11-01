@@ -3985,7 +3985,7 @@
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-10-18",
+   "last_played": "2026-10-31",
    "platform": "PS5",
    "playtime_hours": 27.9,
    "ps_plus": false,
@@ -22007,6 +22007,1383 @@
    "playtime_hours": 0.0,
    "source_id": "nso:Game Boy:Revenge of the 'Gator",
    "title": "Revenge of the 'Gator"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Dr. Mario 64",
+   "title": "Dr. Mario 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:The Legend of Zelda: Ocarina of Time",
+   "title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Mario Kart 64",
+   "title": "Mario Kart 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Mario Tennis",
+   "title": "Mario Tennis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Sin and Punishment",
+   "title": "Sin and Punishment"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Star Fox 64",
+   "title": "Star Fox 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Super Mario 64",
+   "title": "Super Mario 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:WinBack",
+   "title": "WinBack"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Yoshi's Story",
+   "title": "Yoshi's Story"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Paper Mario",
+   "title": "Paper Mario"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Banjo-Kazooie",
+   "title": "Banjo-Kazooie"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:The Legend of Zelda: Majora's Mask",
+   "title": "The Legend of Zelda: Majora's Mask"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:F-Zero X",
+   "title": "F-Zero X"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Mario Golf",
+   "title": "Mario Golf"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Kirby 64: The Crystal Shards",
+   "title": "Kirby 64: The Crystal Shards"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Pokémon Snap",
+   "title": "Pokémon Snap"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Pokémon Puzzle League",
+   "title": "Pokémon Puzzle League"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Wave Race 64",
+   "title": "Wave Race 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Pilotwings 64",
+   "title": "Pilotwings 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Mario Party",
+   "title": "Mario Party"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Mario Party 2",
+   "title": "Mario Party 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:GoldenEye 007",
+   "title": "GoldenEye 007"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Pokémon Stadium",
+   "title": "Pokémon Stadium"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Pokémon Stadium 2",
+   "title": "Pokémon Stadium 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Excitebike 64",
+   "title": "Excitebike 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Mario Party 3",
+   "title": "Mario Party 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Jet Force Gemini",
+   "title": "Jet Force Gemini"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:1080° Snowboarding",
+   "title": "1080° Snowboarding"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Harvest Moon 64",
+   "title": "Harvest Moon 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Blast Corps",
+   "title": "Blast Corps"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Extreme-G",
+   "title": "Extreme-G"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Iggy's Reckin' Balls",
+   "title": "Iggy's Reckin' Balls"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Perfect Dark",
+   "title": "Perfect Dark"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Turok: Dinosaur Hunter",
+   "title": "Turok: Dinosaur Hunter"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Banjo-Tooie",
+   "title": "Banjo-Tooie"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Shadow Man",
+   "title": "Shadow Man"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Turok 2: Seeds of Evil",
+   "title": "Turok 2: Seeds of Evil"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Ridge Racer 64",
+   "title": "Ridge Racer 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Killer Instinct Gold",
+   "title": "Killer Instinct Gold"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Forsaken 64",
+   "title": "Forsaken 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Rayman 2: The Great Escape",
+   "title": "Rayman 2: The Great Escape"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Tonic Trouble",
+   "title": "Tonic Trouble"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "nso:N64:Donkey Kong 64",
+   "title": "Donkey Kong 64"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Castlevania: Bloodlines",
+   "title": "Castlevania: Bloodlines"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Contra: Hard Corps",
+   "title": "Contra: Hard Corps"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Dr. Robotnik's Mean Bean Machine",
+   "title": "Dr. Robotnik's Mean Bean Machine"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Ecco the Dolphin",
+   "title": "Ecco the Dolphin"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Golden Axe",
+   "title": "Golden Axe"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Gunstar Heroes",
+   "title": "Gunstar Heroes"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:MUSHA",
+   "title": "MUSHA"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Phantasy Star IV",
+   "title": "Phantasy Star IV"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Ristar",
+   "title": "Ristar"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Shining Force",
+   "title": "Shining Force"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Shinobi III: Return of the Ninja Master",
+   "title": "Shinobi III: Return of the Ninja Master"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Sonic the Hedgehog 2",
+   "title": "Sonic the Hedgehog 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Streets of Rage 2",
+   "title": "Streets of Rage 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Strider",
+   "title": "Strider"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Altered Beast",
+   "title": "Altered Beast"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Dynamite Headdy",
+   "title": "Dynamite Headdy"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Sword of Vermilion",
+   "title": "Sword of Vermilion"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Thunder Force II",
+   "title": "Thunder Force II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:ToeJam & Earl",
+   "title": "ToeJam & Earl"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Alien Soldier",
+   "title": "Alien Soldier"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Light Crusader",
+   "title": "Light Crusader"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Super Fantasy Zone",
+   "title": "Super Fantasy Zone"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Shining Force II",
+   "title": "Shining Force II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Sonic Spinball",
+   "title": "Sonic Spinball"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Space Harrier II",
+   "title": "Space Harrier II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Comix Zone",
+   "title": "Comix Zone"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Mega Man: The Wily Wars",
+   "title": "Mega Man: The Wily Wars"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Target Earth",
+   "title": "Target Earth"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Zero Wing",
+   "title": "Zero Wing"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Alisia Dragoon",
+   "title": "Alisia Dragoon"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Beyond Oasis",
+   "title": "Beyond Oasis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Earthworm Jim",
+   "title": "Earthworm Jim"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Alien Storm",
+   "title": "Alien Storm"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Columns",
+   "title": "Columns"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Golden Axe II",
+   "title": "Golden Axe II"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Virtua Fighter 2",
+   "title": "Virtua Fighter 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Flicky",
+   "title": "Flicky"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Kid Chameleon",
+   "title": "Kid Chameleon"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Pulseman",
+   "title": "Pulseman"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Street Fighter II': Special Champion Edition",
+   "title": "Street Fighter II': Special Champion Edition"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Crusader of Centy",
+   "title": "Crusader of Centy"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Ghouls 'n Ghosts",
+   "title": "Ghouls 'n Ghosts"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Landstalker",
+   "title": "Landstalker"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:The Revenge of Shinobi",
+   "title": "The Revenge of Shinobi"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Mercs",
+   "title": "Mercs"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:ToeJam & Earl in Panic on Funkotron",
+   "title": "ToeJam & Earl in Panic on Funkotron"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Vectorman",
+   "title": "Vectorman"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:ESWAT: City Under Siege",
+   "title": "ESWAT: City Under Siege"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Streets of Rage",
+   "title": "Streets of Rage"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Genesis",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Genesis:Super Thunder Blade",
+   "title": "Super Thunder Blade"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Kuru Kuru Kururin",
+   "title": "Kuru Kuru Kururin"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:The Legend of Zelda: The Minish Cap",
+   "title": "The Legend of Zelda: The Minish Cap"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Mario & Luigi: Superstar Saga",
+   "title": "Mario & Luigi: Superstar Saga"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Mario Kart: Super Circuit",
+   "title": "Mario Kart: Super Circuit"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Super Mario Advance 4: Super Mario Bros. 3",
+   "title": "Super Mario Advance 4: Super Mario Bros. 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:WarioWare, Inc.: Mega Microgames!",
+   "title": "WarioWare, Inc.: Mega Microgames!"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Metroid Fusion",
+   "title": "Metroid Fusion"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Super Mario Advance",
+   "title": "Super Mario Advance"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Super Mario World: Super Mario Advance 2",
+   "title": "Super Mario World: Super Mario Advance 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Yoshi's Island: Super Mario Advance 3",
+   "title": "Yoshi's Island: Super Mario Advance 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Fire Emblem: The Blazing Blade",
+   "title": "Fire Emblem: The Blazing Blade"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Kirby & the Amazing Mirror",
+   "title": "Kirby & the Amazing Mirror"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Golden Sun",
+   "title": "Golden Sun"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Golden Sun: The Lost Age",
+   "title": "Golden Sun: The Lost Age"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:F-Zero: Maximum Velocity",
+   "title": "F-Zero: Maximum Velocity"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:The Legend of Zelda: A Link to the Past and Four Swords",
+   "title": "The Legend of Zelda: A Link to the Past and Four Swords"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Metroid: Zero Mission",
+   "title": "Metroid: Zero Mission"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Densetsu no Starfy",
+   "title": "Densetsu no Starfy"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Densetsu no Starfy 2",
+   "title": "Densetsu no Starfy 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Densetsu no Starfy 3",
+   "title": "Densetsu no Starfy 3"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Pokémon Mystery Dungeon: Red Rescue Team",
+   "title": "Pokémon Mystery Dungeon: Red Rescue Team"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:F-Zero Climax",
+   "title": "F-Zero Climax"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:F-Zero: GP Legend",
+   "title": "F-Zero: GP Legend"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Wario Land 4",
+   "title": "Wario Land 4"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Fire Emblem: The Sacred Stones",
+   "title": "Fire Emblem: The Sacred Stones"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Klonoa: Empire of Dreams",
+   "title": "Klonoa: Empire of Dreams"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Mr. Driller 2",
+   "title": "Mr. Driller 2"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Mario vs. Donkey Kong",
+   "title": "Mario vs. Donkey Kong"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Dr. Mario & Puzzle League",
+   "title": "Dr. Mario & Puzzle League"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Kururin Paradise",
+   "title": "Kururin Paradise"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Metal Slug Advance",
+   "title": "Metal Slug Advance"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GBA:Monster Rancher Advance",
+   "title": "Monster Rancher Advance"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:F-Zero GX",
+   "title": "F-Zero GX"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:The Legend of Zelda: The Wind Waker",
+   "title": "The Legend of Zelda: The Wind Waker"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Soulcalibur II",
+   "title": "Soulcalibur II"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Super Mario Strikers",
+   "title": "Super Mario Strikers"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Chibi-Robo!",
+   "title": "Chibi-Robo!"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Luigi's Mansion",
+   "title": "Luigi's Mansion"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Wario World",
+   "title": "Wario World"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Fire Emblem: Path of Radiance",
+   "title": "Fire Emblem: Path of Radiance"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Pokémon XD: Gale of Darkness",
+   "title": "Pokémon XD: Gale of Darkness"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Super Mario Sunshine",
+   "title": "Super Mario Sunshine"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Star Fox Adventures",
+   "title": "Star Fox Adventures"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Pokémon Colosseum",
+   "title": "Pokémon Colosseum"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:3D Tetris",
+   "title": "3D Tetris"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Galactic Pinball",
+   "title": "Galactic Pinball"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Golf",
+   "title": "Golf"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:The Mansion of Innsmouth",
+   "title": "The Mansion of Innsmouth"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Red Alarm",
+   "title": "Red Alarm"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Teleroboxer",
+   "title": "Teleroboxer"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Virtual Boy Wario Land",
+   "title": "Virtual Boy Wario Land"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Mario Clash",
+   "title": "Mario Clash"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Mario's Tennis",
+   "title": "Mario's Tennis"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Jack Bros.",
+   "title": "Jack Bros."
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Space Invaders Virtual Collection",
+   "title": "Space Invaders Virtual Collection"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:V-Tetris",
+   "title": "V-Tetris"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Vertical Force",
+   "title": "Vertical Force"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Virtual Bowling",
+   "title": "Virtual Bowling"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Dragon Hopper",
+   "title": "Dragon Hopper"
+  },
+  {
+   "also_platform": "Switch",
+   "last_played": null,
+   "nso": true,
+   "platform": "Virtual Boy",
+   "playtime_hours": 0.0,
+   "source_id": "nso:Virtual Boy:Zero Racers",
+   "title": "Zero Racers"
   }
  ]
 }

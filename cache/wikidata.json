@@ -1,6 +1,13 @@
 {
+ "1080-snowboarding": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 15991
+ },
  "2xtreme--2": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "3-d-tetris": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "3d-classics-kid-icarus": {
   "checked": "2026-10-08T03:06:40+00:00"
@@ -115,6 +122,12 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17874
  },
+ "alien-soldier": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "alien-storm": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "alienation": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 2124
@@ -129,6 +142,9 @@
  },
  "aliens-infestation": {
   "checked": "2026-10-29T21:34:28+00:00"
+ },
+ "alisia-dragoon": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "alleyway": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -145,6 +161,9 @@
  },
  "alone-in-the-dark-the-new-nightmare--1": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "altered-beast--2": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "amazing-hebereke": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -391,6 +410,14 @@
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 15909
  },
+ "banjo-kazooie": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 20888
+ },
+ "banjo-tooie": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 20889
+ },
  "baseball--4": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -469,6 +496,9 @@
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 10260
  },
+ "beyond-oasis": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "beyond-two-souls": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 1523
@@ -532,6 +562,9 @@
  "blasphemous-ii": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15371
+ },
+ "blast-corps": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "blaster-master": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -673,6 +706,9 @@
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 3559
  },
+ "castlevania-bloodlines": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "castlevania-dawn-of-sorrow": {
   "checked": "2026-10-07T21:40:09+00:00"
  },
@@ -719,6 +755,9 @@
  "chess-ultra": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4478
+ },
+ "chibi-robo": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "chibi-robo-park-patrol": {
   "checked": "2026-10-29T21:44:13+00:00"
@@ -785,6 +824,12 @@
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 14743
  },
+ "columns": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "comix-zone": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "company-of-heroes": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -815,6 +860,9 @@
  },
  "contra-4": {
   "checked": "2026-10-29T21:44:13+00:00"
+ },
+ "contra-hard-corps": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "contra-rogue-corps": {
   "checked": "2026-10-28T03:48:11+00:00",
@@ -899,6 +947,9 @@
  "crusader-kings-iii": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 9593
+ },
+ "crusader-of-centy": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "crush": {
   "checked": "2026-10-08T03:21:16+00:00"
@@ -1053,6 +1104,15 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 10255
  },
+ "densetsu-no-starfy": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "densetsu-no-starfy-2": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "densetsu-no-starfy-3": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "descenders": {
   "checked": "2026-10-07T01:52:02+00:00"
  },
@@ -1203,6 +1263,9 @@
  "donkey-kong-3--2": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "donkey-kong-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "donkey-kong-country": {
   "checked": "2026-10-09T03:42:07+00:00"
  },
@@ -1274,12 +1337,24 @@
  "dr-mario": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "dr-mario-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "dr-mario-and-puzzle-league": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "dr-robotnik-s-mean-bean-machine": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "dragon-age-origins-ultimate-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
  "dragon-age-the-veilguard": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 17037
+ },
+ "dragon-hopper": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "dragon-quest": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -1356,6 +1431,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 12340
  },
+ "dynamite-headdy": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "dynasty-warriors-8-empires": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 103
@@ -1406,8 +1484,14 @@
  "earthbound-beginnings": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "earthworm-jim": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "earthworm-jim-2--6": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "ecco-the-dolphin": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "echochrome": {
   "checked": "2026-10-28T05:02:27+00:00"
@@ -1477,6 +1561,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 8152
  },
+ "eswat-city-under-siege": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "etrian-odyssey": {
   "checked": "2026-10-29T21:51:23+00:00"
  },
@@ -1513,9 +1600,15 @@
   "checked": "2026-10-28T05:36:43+00:00",
   "opencritic_id": 6680
  },
+ "excitebike-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "expeditions-a-mudrunner-game": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16374
+ },
+ "extreme-g": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "f-e-a-r": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -1528,6 +1621,23 @@
  },
  "f-zero": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "f-zero-climax": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "f-zero-gp-legend": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 17454
+ },
+ "f-zero-gx": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "f-zero-maximum-velocity": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "f-zero-x": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 12882
  },
  "f1-23": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -1694,6 +1804,9 @@
   "checked": "2026-10-07T06:01:50+00:00",
   "opencritic_id": 20819
  },
+ "fire-emblem-path-of-radiance": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "fire-emblem-shadow-dragon": {
   "checked": "2026-10-07T21:36:14+00:00"
  },
@@ -1734,6 +1847,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 12312
  },
+ "flicky--2": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "flintlock-the-siege-of-dawn": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16947
@@ -1759,6 +1875,9 @@
  },
  "forbidden-siren-2": {
   "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "forsaken-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "fortified-zone": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -1791,6 +1910,9 @@
  },
  "g-police": {
   "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "galactic-pinball": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "game-and-watch-gallery-3": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -1847,6 +1969,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 12720
  },
+ "ghouls-n-ghosts--4": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "gigantosaurus-the-game": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 9153
@@ -1892,6 +2017,12 @@
  "gods-eater-burst": {
   "checked": "2026-10-28T05:02:27+00:00"
  },
+ "golden-axe--4": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "golden-axe-ii": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "golden-sun": {
   "checked": "2026-10-09T03:51:52+00:00"
  },
@@ -1901,8 +2032,15 @@
  "golden-sun-the-lost-age": {
   "checked": "2026-10-09T03:51:52+00:00"
  },
+ "goldeneye-007": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 14240
+ },
  "golf": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "golf--2": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "golf-with-your-friends": {
   "checked": "2026-10-28T03:48:11+00:00",
@@ -2005,6 +2143,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1544
  },
+ "gunstar-heroes": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "half-life": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -2026,6 +2167,9 @@
  },
  "harvest-moon": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "harvest-moon-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "harvest-moon-back-to-nature": {
   "checked": "2026-10-28T05:02:27+00:00"
@@ -2176,6 +2320,9 @@
  "ice-hockey": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "iggy-s-reckin-balls": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "ikari-warriors--1": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -2232,6 +2379,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 10974
  },
+ "jack-bros": {
+  "checked": "2026-11-01T00:33:40+00:00"
+ },
  "jak-3": {
   "checked": "2026-10-28T05:02:27+00:00"
  },
@@ -2255,6 +2405,10 @@
  },
  "jelly-boy": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "jet-force-gemini": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 15990
  },
  "jet-moto": {
   "checked": "2026-10-28T05:02:27+00:00"
@@ -2308,6 +2462,9 @@
  "ka-blooey": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
+ "kid-chameleon": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "kid-icarus": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -2323,6 +2480,9 @@
  },
  "killer-instinct--4": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "killer-instinct-gold": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "killing-floor-2": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -2380,6 +2540,13 @@
  "kingdoms-of-amalur-re-reckoning": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 9594
+ },
+ "kirby-64-the-crystal-shards": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 13167
+ },
+ "kirby-and-the-amazing-mirror": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "kirby-canvas-curse": {
   "checked": "2026-10-07T21:32:53+00:00"
@@ -2442,11 +2609,20 @@
  "kung-fu-heroes--1": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "kuru-kuru-kururin": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "kururin-paradise": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "kurushi-final-mental-blocks": {
   "checked": "2026-10-28T05:02:27+00:00"
  },
  "l-a-noire": {
   "checked": "2026-10-07T01:08:00+00:00"
+ },
+ "landstalker": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "lara-croft-and-the-guardian-of-light": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -2535,6 +2711,9 @@
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 17125
  },
+ "light-crusader": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "like-a-dragon-infinite-wealth": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 15906
@@ -2588,6 +2767,10 @@
  },
  "lufia-curse-of-the-sinistrals": {
   "checked": "2026-10-29T22:13:34+00:00"
+ },
+ "luigi-s-mansion": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 6737
  },
  "luigi-s-mansion-dark-moon": {
   "checked": "2026-10-08T02:55:43+00:00"
@@ -2655,14 +2838,26 @@
  "mario-bros--2": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "mario-clash": {
+  "checked": "2026-11-01T00:33:40+00:00"
+ },
+ "mario-golf": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "mario-golf--1": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "mario-kart-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "mario-kart-7": {
   "checked": "2026-10-08T02:55:43+00:00"
  },
  "mario-kart-ds": {
   "checked": "2026-10-07T21:32:53+00:00"
+ },
+ "mario-kart-super-circuit": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "mario-kart-world": {
   "checked": "2026-10-07T06:01:50+00:00",
@@ -2674,14 +2869,32 @@
  "mario-luigi-partners-in-time": {
   "checked": "2026-10-07T21:32:53+00:00"
  },
+ "mario-luigi-superstar-saga": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "mario-paint": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "mario-party": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "mario-party-2": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "mario-party-3": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "mario-party-ds": {
   "checked": "2026-10-29T22:15:26+00:00"
  },
+ "mario-tennis": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "mario-tennis--1": {
   "checked": "2026-10-28T06:30:39+00:00"
+ },
+ "mario-vs-donkey-kong": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "mario-vs-donkey-kong-2-march-of-the-minis": {
   "checked": "2026-10-29T22:15:26+00:00"
@@ -2697,6 +2910,9 @@
  },
  "marios-super-picross": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "marios-tennis": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "marvel-rivals": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -2782,6 +2998,9 @@
  "mega-man-powered-up": {
   "checked": "2026-10-08T03:21:16+00:00"
  },
+ "mega-man-the-wily-wars": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "mega-man-v": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
@@ -2802,6 +3021,9 @@
  },
  "mendel-palace": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "mercs": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "metal-eden": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -2826,6 +3048,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13657
  },
+ "metal-slug-advance": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "metal-slug-anthology": {
   "checked": "2026-10-08T03:24:34+00:00"
  },
@@ -2849,6 +3074,10 @@
  },
  "metroid": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "metroid-fusion": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 14422
  },
  "metroid-ii-return-of-samus": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -2951,6 +3180,9 @@
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 17202
  },
+ "monster-rancher-advance": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "monster-train": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 9508
@@ -3003,6 +3235,9 @@
  },
  "mr-driller": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "mr-driller-2": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "muramasa-rebirth": {
   "checked": "2026-10-08T03:45:56+00:00"
@@ -3324,6 +3559,9 @@
  "panel-de-pon": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "paper-mario": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "papers-please": {
   "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 17092
@@ -3378,6 +3616,9 @@
  "peggle-dual-shot": {
   "checked": "2026-10-29T22:22:33+00:00"
  },
+ "perfect-dark": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "persona-3-portable": {
   "checked": "2026-10-08T03:15:47+00:00",
   "opencritic_id": 13297
@@ -3408,6 +3649,9 @@
  "pga-tour-2k25": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 18046
+ },
+ "phantasy-star-iv-the-end-of-the-millennium": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "phoenix-wright-ace-attorney": {
   "checked": "2026-10-29T22:22:33+00:00"
@@ -3442,6 +3686,10 @@
  },
  "pilotwings": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "pilotwings-64": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 13834
  },
  "pinball--3": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -3498,6 +3746,9 @@
  "pokemon-black-version": {
   "checked": "2026-10-29T22:22:33+00:00"
  },
+ "pokemon-colosseum": {
+  "checked": "2026-11-01T00:33:40+00:00"
+ },
  "pokemon-conquest": {
   "checked": "2026-10-29T22:22:33+00:00"
  },
@@ -3526,14 +3777,31 @@
  "pokemon-platinum-version": {
   "checked": "2026-10-07T21:28:53+00:00"
  },
+ "pokemon-puzzle-league": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 13414
+ },
+ "pokemon-snap": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "pokemon-soulsilver-version": {
   "checked": "2026-10-07T21:28:53+00:00"
+ },
+ "pokemon-stadium": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 14781
+ },
+ "pokemon-stadium-2": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "pokemon-trading-card-game": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
  "pokemon-white-version-2": {
   "checked": "2026-10-29T22:22:33+00:00"
+ },
+ "pokemon-xd-gale-of-darkness": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "pokemon-yellow-version-special-pikachu-edition": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -3635,6 +3903,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 7404
  },
+ "pulseman": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "pure-pool": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 146
@@ -3710,6 +3981,9 @@
  "ratchet-clank-size-matters": {
   "checked": "2026-10-28T05:02:28+00:00"
  },
+ "rayman-2-the-great-escape": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "rayman-3d": {
   "checked": "2026-10-08T03:13:36+00:00"
  },
@@ -3733,6 +4007,9 @@
  "rebel-galaxy": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 1740
+ },
+ "red-alarm": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "red-dead-redemption--1": {
   "checked": "2026-10-07T05:58:30+00:00"
@@ -3844,6 +4121,9 @@
   "checked": "2026-10-28T05:02:28+00:00",
   "opencritic_id": 14182
  },
+ "ridge-racer-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "rise-of-nations-extended-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -3864,6 +4144,9 @@
  },
  "risk-urban-assault": {
   "checked": "2026-10-28T05:02:25+00:00"
+ },
+ "ristar": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "rival-turf": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -3999,6 +4282,9 @@
   "checked": "2026-10-08T03:42:12+00:00",
   "opencritic_id": 2585
  },
+ "shadow-man": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "shadow-of-the-beast--1": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 2120
@@ -4051,6 +4337,15 @@
  "shin-megami-tensei-strange-journey": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
+ "shining-force": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "shining-force-ii": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "shinobi-iii-return-of-the-ninja-master": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "shovel-knight": {
   "checked": "2026-10-08T02:52:26+00:00",
   "opencritic_id": 33
@@ -4076,6 +4371,9 @@
  "silent-hill-the-short-message": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 16206
+ },
+ "sin-and-punishment": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "singstar--2": {
   "checked": "2026-10-07T01:52:01+00:00"
@@ -4189,6 +4487,12 @@
  "sonic-rush-adventure": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
+ "sonic-the-hedgehog-2": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "sonic-the-hedgehog-spinball": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "sonic-x-shadow-generations": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 17505
@@ -4198,6 +4502,9 @@
  },
  "soulcalibur-broken-destiny": {
   "checked": "2026-10-08T03:24:34+00:00"
+ },
+ "soulcalibur-ii--2": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "soulcalibur-iii": {
   "checked": "2026-10-28T05:02:28+00:00"
@@ -4214,9 +4521,15 @@
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 1596
  },
+ "space-harrier-ii": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "space-hulk-deathwing-enhanced-edition": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 6124
+ },
+ "space-invaders-virtual-collection": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "space-junkies": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -4257,8 +4570,14 @@
  "star-fox-2": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "star-fox-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "star-fox-64-3d": {
   "checked": "2026-10-08T03:04:44+00:00"
+ },
+ "star-fox-adventures": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "star-ocean-first-departure": {
   "checked": "2026-10-08T03:28:11+00:00"
@@ -4382,9 +4701,18 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 13386
  },
+ "street-fighter-ii-special-champion-edition-c6119b36-b741-4f18-b839-ef685f020f7f": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "street-fighter-v": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1640
+ },
+ "streets-of-rage": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "streets-of-rage-2": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "streets-of-rage-4": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -4395,6 +4723,9 @@
  },
  "strider": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "strider--3": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "stronghold-hd": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -4422,6 +4753,9 @@
  "super-dodgeball-brawlers": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
+ "super-fantasy-zone": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "super-ghoulsn-ghosts": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -4431,6 +4765,9 @@
  },
  "super-mario-3d-land": {
   "checked": "2026-10-07T01:52:06+00:00"
+ },
+ "super-mario-64": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "super-mario-64-ds": {
   "checked": "2026-10-07T21:00:23+00:00"
@@ -4465,6 +4802,12 @@
  "super-mario-party-jamboree": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16873
+ },
+ "super-mario-strikers": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "super-mario-sunshine": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "super-mario-world": {
   "checked": "2026-10-09T03:48:48+00:00"
@@ -4505,6 +4848,9 @@
  "super-tennis--1": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "super-thunder-blade": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "super-valis-iv": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -4536,6 +4882,9 @@
  "sword-of-the-sea": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 19001
+ },
+ "sword-of-vermilion": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "syberia-the-world-before": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -4590,6 +4939,9 @@
  "tales-of-the-world-radiant-mythology": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
+ "target-earth": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "team-sonic-racing": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 7124
@@ -4620,6 +4972,9 @@
  },
  "tekken-dark-resurrection": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "teleroboxer": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "temtem": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -4796,6 +5151,9 @@
   "checked": "2026-10-09T03:48:48+00:00",
   "opencritic_id": 13013
  },
+ "the-legend-of-zelda-a-link-to-the-past-and-four-swords": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "the-legend-of-zelda-breath-of-the-wild": {
   "checked": "2026-10-07T05:58:30+00:00",
   "opencritic_id": 1548
@@ -4803,9 +5161,15 @@
  "the-legend-of-zelda-link-s-awakening-dx": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
+ "the-legend-of-zelda-majora-s-mask": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "the-legend-of-zelda-majoras-mask-3d": {
   "checked": "2026-10-08T02:52:26+00:00",
   "opencritic_id": 2284
+ },
+ "the-legend-of-zelda-ocarina-of-time": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "the-legend-of-zelda-ocarina-of-time-3d": {
   "checked": "2026-10-08T02:52:26+00:00",
@@ -4828,6 +5192,9 @@
  "the-legend-of-zelda-the-minish-cap": {
   "checked": "2026-10-09T04:03:43+00:00"
  },
+ "the-legend-of-zelda-the-wind-waker": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "the-lego-movie-videogame": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 289
@@ -4846,6 +5213,9 @@
  },
  "the-lord-of-the-rings-tactics": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "the-mansion-of-innsmouth": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "the-mark-of-kri": {
   "checked": "2026-10-28T05:02:28+00:00"
@@ -4885,6 +5255,9 @@
  "the-raven-remastered": {
   "checked": "2026-10-28T05:02:28+00:00",
   "opencritic_id": 5734
+ },
+ "the-revenge-of-shinobi": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "the-rogue-prince-of-persia": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -4995,6 +5368,9 @@
  "thrillville-off-the-rails": {
   "checked": "2026-10-28T05:02:28+00:00"
  },
+ "thunder-force-ii": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "thymesia": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 13545
@@ -5016,6 +5392,12 @@
  "titanfall-2": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 2834
+ },
+ "toejam-and-earl": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "toejam-and-earl-in-panic-on-funkotron": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "tom-clancy-s-the-division": {
   "checked": "2026-10-28T05:02:27+00:00",
@@ -5063,6 +5445,9 @@
  },
  "tomb-raider-legend--6": {
   "checked": "2026-10-07T01:52:01+00:00"
+ },
+ "tonic-trouble": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "tony-hawk-s-american-sk8land": {
   "checked": "2026-10-29T22:31:28+00:00"
@@ -5162,6 +5547,12 @@
  "tunic": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 12888
+ },
+ "turok-2-seeds-of-evil": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "turok-dinosaur-hunter": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "twinbee--1": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -5270,6 +5661,9 @@
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 13193
  },
+ "v-tetris": {
+  "checked": "2026-11-01T00:33:40+00:00"
+ },
  "valiant-hearts-the-great-war": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 242
@@ -5289,12 +5683,18 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 6160
  },
+ "vectorman": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "velocity-2x-critical-mass-edition": {
   "checked": "2026-10-08T03:51:23+00:00"
  },
  "venba": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 15302
+ },
+ "vertical-force": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "vice-project-doom": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -5307,9 +5707,18 @@
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 3957
  },
+ "virtua-fighter-2--2": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "virtua-fighter-5-ultimate-showdown": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11462
+ },
+ "virtual-bowling": {
+  "checked": "2026-11-01T00:33:40+00:00"
+ },
+ "virtual-boy-wario-land": {
+  "checked": "2026-11-01T00:33:40+00:00"
  },
  "viva-pinata-pocket-paradise": {
   "checked": "2026-10-29T22:31:28+00:00"
@@ -5374,6 +5783,9 @@
  "wario-s-woods": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "wario-world": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "warioware-d-i-y": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
@@ -5398,6 +5810,10 @@
  "watch-dogs-legion": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 7405
+ },
+ "wave-race-64": {
+  "checked": "2026-11-01T00:33:39+00:00",
+  "opencritic_id": 13563
  },
  "weird-west-definitive-edition": {
   "checked": "2026-10-07T01:52:04+00:00"
@@ -5435,6 +5851,9 @@
  },
  "wild-guns": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "winback-covert-operations": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "wipeout-2048": {
   "checked": "2026-10-08T03:45:56+00:00"
@@ -5568,6 +5987,9 @@
  "yoshi": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "yoshi-s-story": {
+  "checked": "2026-11-01T00:33:39+00:00"
+ },
  "yoshis-island-ds": {
   "checked": "2026-10-07T21:00:23+00:00"
  },
@@ -5610,6 +6032,12 @@
  },
  "zero-escape-virtue-s-last-reward": {
   "checked": "2026-10-08T02:52:26+00:00"
+ },
+ "zero-racers": {
+  "checked": "2026-11-01T00:33:40+00:00"
+ },
+ "zero-wing": {
+  "checked": "2026-11-01T00:33:39+00:00"
  },
  "zombi--1": {
   "checked": "2026-10-28T05:02:27+00:00"
