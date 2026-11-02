@@ -50,6 +50,7 @@ MIN_OWNED = 2
 MAIN_TYPES = {0, 4, 8, 10}   # main game, standalone expansion, remake, expanded game
 MOBILE_ONLY = {34, 39, 55, 82, 74}  # Android, iOS, legacy mobile, browser, Windows Phone
 PNAMES = {}
+CHILD_PLATS = {}
 DEBUG = None  # set to {} to record why each game was dropped or made a spin-off
 
 FIELDS = ("name,slug,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
@@ -328,6 +329,13 @@ def build(igdb_client, igdb_games, rows):
     save_json(CACHE_DIR / "platforms.json", pnames)
     global PNAMES
     PNAMES = pnames
+    # Ports, remasters and editions add platforms: Code: Veronica is also on PS2, PS3, PS4, Xbox...
+    CHILD_PLATS.clear()
+    for g in known.values():
+        if _type(g) in (9, 10, 11) or g.get("version_parent"):
+            par = _id(g.get("version_parent")) or _id(g.get("parent_game"))
+            if par:
+                CHILD_PLATS.setdefault(par, set()).update(g.get("platforms") or [])
 
     now = time.time()
     out = []
@@ -558,7 +566,9 @@ def _auto(fid, name, games, known, by_id, now, cur=None, fids=None):
     entries.sort(key=lambda e: (e.get("date") or 9e12, e["title"] or ""))
     entries = _pair_versions(entries)
     for e in entries:
-        e["on"] = _platform_names(e.get("plats") or (known.get(e["id"]) or {}).get("platforms"), PNAMES)
+        ids = [e["id"], *e.get("ids", [])]
+        own = list(e.get("plats") or (known.get(e["id"]) or {}).get("platforms") or [])
+        e["on"] = _platform_names(own + [p for i in ids for p in sorted(CHILD_PLATS.get(i, ()))], PNAMES)
         for k in ("plats", "_sec", "_vr"):
             e.pop(k, None)
     main_entries = [e for e in entries if not e["spin"]]
