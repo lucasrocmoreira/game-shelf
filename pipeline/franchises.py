@@ -521,7 +521,7 @@ def _auto(fid, name, games, known, by_id, now, cur=None, fids=None):
             "section": None,
             "_sec": sec,
             "_vr": " vr" in f" {low}",
-            "keys": sorted(set().union(*(by_id.get(i, set()) for i in [g["id"], *editions.get(g["id"], [])]))),
+            "keys": sorted(set().union(*(by_id.get(i, set()) for i in [g["id"], *editions.get(g["id"], []), *(_id(b) for b in g.get("bundles") or [])]))),
         })
     # A remake follows its original: main if the original is main, spin-off if it is a spin-off.
     by_entry = {e["id"]: e for e in entries}
@@ -612,7 +612,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
                 "date": g.get("first_release_date"), "cover": _cover(g), "score": _score(g),
                 "ratings": g.get("total_rating_count") or 0, "plats": sorted(g.get("platforms") or []),
                 "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None, "orig_year": None,
-                "keys": sorted(set().union(*(by_id.get(i, set()) for i in [g["id"], *editions.get(g["id"], [])]))),
+                "keys": sorted(set().union(*(by_id.get(i, set()) for i in [g["id"], *editions.get(g["id"], []), *(_id(b) for b in g.get("bundles") or [])]))),
             }
             e = dict(e)
             e["spin"] = False
