@@ -49,11 +49,37 @@ NUMBERED = re.compile(r"\b(\d{1,2}|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|xiii|xiv|
 MIN_OWNED = 2
 MAIN_TYPES = {0, 4, 8, 10}   # main game, standalone expansion, remake, expanded game
 MOBILE_ONLY = {34, 39, 55, 82, 74}  # Android, iOS, legacy mobile, browser, Windows Phone
+PNAMES = {}
 DEBUG = None  # set to {} to record why each game was dropped or made a spin-off
 
 FIELDS = ("name,slug,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
           "rating,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres")
 CACHE_VERSION = 3  # bump when FIELDS change, to fetch everything again
+
+
+# Short platform names for games you don't own (shown greyed out in the guides).
+PLATFORM_SHORT = {
+    6: "PC", 14: "PC", 3: "PC", 163: "PC VR", 161: "PC VR",
+    7: "PS1", 8: "PS2", 9: "PS3", 48: "PS4", 167: "PS5", 38: "PSP", 46: "PS Vita", 165: "PS VR", 390: "PS VR2",
+    11: "Xbox", 12: "Xbox 360", 49: "Xbox One", 169: "Xbox Series",
+    18: "NES", 99: "NES", 19: "SNES", 58: "SNES", 4: "N64", 21: "GameCube", 5: "Wii", 41: "Wii U", 130: "Switch",
+    508: "Switch 2", 33: "Game Boy", 22: "Game Boy", 24: "GBA", 20: "DS", 159: "DS", 37: "3DS", 137: "3DS",
+    87: "Virtual Boy", 29: "Genesis", 30: "Sega 32X", 78: "Sega CD", 32: "Saturn", 23: "Dreamcast", 35: "Game Gear",
+    64: "Master System", 86: "TurboGrafx-16", 80: "Neo Geo", 52: "Arcade", 79: "Neo Geo", 119: "Neo Geo Pocket",
+    34: "Android", 39: "iOS", 82: "Browser", 384: "Quest", 386: "Quest", 471: "Quest", 51: "Famicom Disk System",
+    13: "DOS", 16: "Amiga", 15: "Commodore 64", 25: "Amstrad CPC", 26: "ZX Spectrum", 27: "MSX", 149: "PC-98",
+    121: "Sharp X68000", 50: "3DO", 62: "Jaguar", 57: "WonderSwan", 123: "WonderSwan Color", 170: "Stadia",
+}
+PLATFORM_ORDER = ["PS5", "PS4", "Switch 2", "Switch", "PC", "Xbox Series", "Xbox One"]
+
+
+def _platform_names(ids, names):
+    out = []
+    for p in ids or []:
+        n = PLATFORM_SHORT.get(p) or names.get(str(p))
+        if n and n not in out:
+            out.append(n)
+    return sorted(out, key=lambda n: (PLATFORM_ORDER.index(n) if n in PLATFORM_ORDER else 99, n))
 
 
 def _id(v):
@@ -289,6 +315,19 @@ def build(igdb_client, igdb_games, rows):
     for g in extra["ids"].values():
         known.setdefault(g["id"], g)
     save_json(CACHE_DIR / "franchises.json", cache)
+    # Names of any platforms not in the short list, for the greyed-out games
+    pnames = load_json(CACHE_DIR / "platforms.json", {})
+    missing = sorted({p for g in known.values() for p in g.get("platforms") or []} - set(PLATFORM_SHORT) - {int(k) for k in pnames})
+    for i in range(0, len(missing), 200):
+        try:
+            for row in igdb_client.query("platforms", f"fields name,abbreviation; where id = ({','.join(map(str, missing[i:i + 200]))}); limit 500;"):
+                pnames[str(row["id"])] = row.get("abbreviation") or row.get("name") or ""
+        except Exception as e:
+            log(f"  platform names failed: {type(e).__name__}")
+            break
+    save_json(CACHE_DIR / "platforms.json", pnames)
+    global PNAMES
+    PNAMES = pnames
 
     now = time.time()
     out = []
@@ -519,6 +558,7 @@ def _auto(fid, name, games, known, by_id, now, cur=None, fids=None):
     entries.sort(key=lambda e: (e.get("date") or 9e12, e["title"] or ""))
     entries = _pair_versions(entries)
     for e in entries:
+        e["on"] = _platform_names(e.get("plats") or (known.get(e["id"]) or {}).get("platforms"), PNAMES)
         for k in ("plats", "_sec", "_vr"):
             e.pop(k, None)
     main_entries = [e for e in entries if not e["spin"]]

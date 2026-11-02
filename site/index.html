@@ -95,6 +95,7 @@ body.view-franchises .controls, body.view-franchises #hero, body.view-franchises
 .fr-sec summary{cursor:pointer;font:750 20px/1.2 var(--display);font-stretch:85%;margin-bottom:8px}
 .fr-sec summary small{font:400 13px var(--body);color:var(--muted);margin-left:6px}
 .fr-sec .fr-bar{margin-bottom:6px}
+.fr-tags{display:flex;flex-wrap:wrap;gap:3px 0;margin-top:2px}
 .tl .sc{font:800 20px/1 var(--display);font-stretch:80%;text-align:right;padding-top:2px}
 
 /* Playing now: the games you're in the middle of */
@@ -888,6 +889,13 @@ function frGames(f){
 function frBar(c){
   return `<div class="fr-bar" aria-hidden="true">${["played","playing","owned","sub","missing"].map(k=>c[k]?`<span class="s-${k}" style="flex:${c[k]} 0 0"></span>`:"").join("")}</div>`;
 }
+function frTags(e){  // the same labels as in your lists; for games you don't own, where they came out
+  if(!e.row) return `<span class="fr-muted">Not in your library${(e.on||[]).length ? " · on " + esc(e.on.slice(0,6).join(", ")) + (e.on.length>6?"…":"") : ""}</span>`;
+  const g = e.row, lib = new Set(((VIEWS.library.data||{}).games||[]).map(x=>x.key));
+  return `<span class="fr-tags">${g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")}`
+    + (g.nso?`<span class="pill">Switch Online</span>`:"") + (g.emu?`<span class="pill">EmuDeck</span>`:"")
+    + (g.ps_plus?`<span class="pill">PS Plus</span>`:"") + (!lib.has(g.key)?`<span class="pill">PS Plus catalog</span>`:"") + `</span>`;
+}
 function frWhere(e){
   if(!e.row) return "Not in your library";
   const g = e.row;
@@ -992,7 +1000,7 @@ function frRow(e){
         <span class="rail"><span class="dot ${st}"></span><i></i></span>
         ${e.cover?`<img src="${esc(e.cover)}" alt="" loading="lazy" onerror="this.removeAttribute('src')">`:`<img alt="">`}
         <div class="tt"><button type="button" class="tt-open" data-fropen="${e.id}"><b>${esc(e.title)}${e.spin?` <span class="pill">Spin-off</span>`:""}</b>
-          <span class="fr-muted">${esc(frWhere(e))}</span></button>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}${extra}</div>
+          ${frTags(e)}</button>${note?`<span class="note" style="color:${noteColor}">${note}</span>`:""}${extra}</div>
         <span class="sc ${tone(e.score)}">${e.score??"–"}</span></li>`; }
 function frJump(x){ return `<button type="button" class="jump" data-jump="${x.id}">${esc(x.title)} (${x.year||"?"})</button>`; }
 function frSendBtn(e){
