@@ -1,4 +1,5 @@
-"""Library sources: Steam (official API), PlayStation (PSNAWP), Nintendo (manual list)."""
+"""Library sources: Steam (official API), PlayStation (PSNAWP), Nintendo (manual list), EmuDeck."""
+import re
 import datetime as dt
 
 import yaml
@@ -207,3 +208,44 @@ def load_nintendo_receipts(address, app_password):
         }
         for g in fetch_receipts(address, app_password)
     ]
+
+
+# ---------------------------------------------------------------- EmuDeck (emulated games on the Steam Machine/Deck)
+EMU_CONSOLES = {
+    "game boy advance": "GBA", "gba": "GBA", "gamecube": "GameCube", "nintendo 64": "N64", "n64": "N64",
+    "playstation": "PS1", "playstation 1": "PS1", "ps1": "PS1", "psx": "PS1", "playstation 2": "PS2", "ps2": "PS2",
+    "super nintendo": "SNES", "snes": "SNES", "super famicom": "SNES", "nes": "NES", "nintendo entertainment system": "NES",
+    "game boy": "Game Boy", "game boy color": "Game Boy", "genesis": "Genesis", "mega drive": "Genesis",
+    "nintendo ds": "DS", "ds": "DS", "psp": "PSP", "wii": "Wii", "dreamcast": "Dreamcast", "saturn": "Saturn",
+}
+
+
+def load_emudeck():
+    """config/emudeck.csv (Name,Year,Console): games you emulate with EmuDeck on your Steam Machine/Deck.
+    Each shows as "Steam + <original console>". Names in No-Intro style ("Metroid - Zero Mission") are
+    turned into the usual "Metroid: Zero Mission"."""
+    import csv
+    path = CONFIG_DIR / "emudeck.csv"
+    if not path.exists():
+        return []
+    out = []
+    with path.open(encoding="utf-8-sig") as fh:
+        for row in csv.DictReader(fh):
+            name = (row.get("Name") or "").strip()
+            console = EMU_CONSOLES.get((row.get("Console") or "").strip().lower())
+            if not name or not console:
+                continue
+            title = re.sub(r"\s+-\s+", ": ", name, count=1)
+            year = (row.get("Year") or "").strip()
+            out.append({
+                "platform": console,          # used for the tag and for matching on IGDB
+                "also_platform": "Steam",     # where you play it
+                "source_id": f"emu:{console}:{name}",
+                "title": title,
+                "year": int(year) if year.isdigit() else None,
+                "playtime_hours": 0.0,
+                "last_played": None,
+                "emu": True,
+            })
+    log(f"EmuDeck: {len(out)} games")
+    return out

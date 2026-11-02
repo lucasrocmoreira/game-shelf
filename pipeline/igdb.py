@@ -50,6 +50,10 @@ PLATFORMS = {
     "N64": {4},
     "Genesis": {29},
     "Virtual Boy": {87},
+    "PS1": {7},
+    "PS2": {8},
+    "Dreamcast": {23},
+    "Saturn": {32},
     "PS Classic": {7, 8, 9, 38},  # PS1, PS2, PS3, PSP: what PS Plus Classics really are
     "Wii U": {41},
 }

@@ -60,6 +60,7 @@ def fetch_libraries(status):
         ),
         "manual": (sources.load_manual, True),
         "switch_online": (nso.fetch, True),
+        "emudeck": (sources.load_emudeck, True),
     }
     entries = []
     for name, (fn, configured) in jobs.items():
@@ -162,7 +163,7 @@ def match_to_igdb(entries, igdb, overrides):
         title = group[0]["title"]
         platforms = set().union(*({*e["match_platforms"]} if e.get("match_platforms") else {e["platform"]} for e in group))
         try:
-            g, score, conf, n = igdb.best_match(title, platforms)
+            g, score, conf, n = igdb.best_match(title, platforms, group[0].get("year"))
         except Exception as e2:  # not cached: retried on the next run
             failures += 1
             log(f"  IGDB search failed for {title!r}: {str(e2)[:160]}")
@@ -211,6 +212,7 @@ def merge(entries, match_info, igdb_games, overrides, ed):
                 "cover": None,
                 "ps_plus": True,
                 "nso": True,
+                "emu": True,
                 "src": set(),
                 "conf": None,
                 "non_game": True,
@@ -221,6 +223,7 @@ def merge(entries, match_info, igdb_games, overrides, ed):
         row.setdefault("raw", set()).add(e["title"])
         row["ps_plus"] = row["ps_plus"] and bool(e.get("ps_plus"))
         row["nso"] = row["nso"] and bool(e.get("nso"))
+        row["emu"] = row["emu"] and bool(e.get("emu"))  # only emulated (nothing else gives you this game)
         if e.get("also_platform") and e["also_platform"] not in row["platforms"]:
             row["platforms"].append(e["also_platform"])
         row["non_game"] = row["non_game"] and titles.looks_like_non_game(e["title"])
@@ -573,6 +576,7 @@ def to_site_row(row, sc, hl=None):
         "pending_key": row["pending_key"],
         "ps_plus": row["ps_plus"],
         "nso": row["nso"],
+        "emu": row.get("emu", False),
         "manual": row["manual"],
         "scores": {
             "metacritic": sc.get("metacritic"),
