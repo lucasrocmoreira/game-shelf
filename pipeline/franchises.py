@@ -253,6 +253,13 @@ def build(igdb_client, igdb_games, rows):
         for i in {gid, g.get("_root")} - {None}:
             by_id.setdefault(i, set()).add(key)
 
+    # Collections you own, with the games inside them (config/collection_contents.json, checked against
+    # Wikipedia): owning or playing "Uncharted: The Nathan Drake Collection" counts for Uncharted 1, 2 and 3.
+    for key, info in load_json(CONFIG_DIR / "collection_contents.json", {}).items():
+        if key in rows:
+            for gid in info.get("contains") or []:
+                by_id.setdefault(int(gid), set()).add(key)
+
     owned, names, cowned, cnames = {}, {}, {}, {}
     for key, r in rows.items():
         if r.get("catalog_only") or not key.startswith("igdb:"):
