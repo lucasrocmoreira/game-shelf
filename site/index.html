@@ -327,6 +327,7 @@ const GROUPS = [["","No grouping"],["genres","Group by genre"],["themes","Group 
 const FILTERS = {genres:"All genres", themes:"All themes", franchises:"All franchises", modes:"All modes", perspectives:"All perspectives"};
 const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"Backloggd",igdb:"IGDB",steam:"Steam",hltb:"HowLongToBeat"};
 const LENGTHS = [["","Any length"],["0-10","Under 10 hours"],["10-30","10 to 30 hours"],["30-60","30 to 60 hours"],["60-9999","Over 60 hours"]];
+const psToggle = v => v==="library" || !!(CONSOLES[v] && CONSOLES[v].psplus);  // tabs with the PS Plus catalog
 const emuOnlySteam = g => !!g.emu && !g.steam_native;  // on Steam only through EmuDeck
 const beat = g => g.ttb ? (g.ttb.extra ?? g.ttb.main ?? g.ttb.complete ?? null) : null;  // hours for main story + extras (you take your time)
 const hrs = h => h==null ? "–" : (h<1 ? "<1h" : (Number.isInteger(h) ? h : h.toFixed(1)) + "h");
@@ -487,7 +488,7 @@ function filtered(){
     (!state.hideNso || !g.nso || g._played || g._playing) &&
     (!state.hideEmu || !g.emu || g._played || g._playing) &&
     (state.view!=="steam" || !state.hideEmuSteam || !emuOnlySteam(g)) &&
-    (!CONSOLES[state.view] || !CONSOLES[state.view].psplus || !state.hidePsCat || !g._catalog));
+    (!psToggle(state.view) || !state.hidePsCat || !g._catalog));
 }
 function shown(g){
   const k=state.sort;
@@ -550,7 +551,7 @@ function gameRow(g,i){
     + (g.emu?`<span class="pill">EmuDeck</span>`:"")
     + ((g.tiers||[]).length && !(g.tiers||[]).includes("Game Catalog") ? `<span class="pill">Classics</span>` : "")
     + (state.view==="psplus" && g.owned ? `<span class="pill played">In your library</span>` : "")
-    + (CONSOLES[state.view] && g._catalog ? `<span class="pill">PS Plus catalog</span>` : "")
+    + ((CONSOLES[state.view] || state.view==="library") && g._catalog ? `<span class="pill">PS Plus catalog</span>` : "")
     + (g.added && (Date.now()-Date.parse(g.added)) < 30*864e5 ? `<span class="pill new">New</span>` : "")
     + (g._played?`<span class="pill played">Played</span>`:"")
     + (g._hidden?`<span class="pill">${g._hidden==="auto"?"App, hidden":"Hidden"}</span>`:"")
@@ -567,7 +568,7 @@ function gameRow(g,i){
 function renderHero(list){
   // The top spot follows what you're looking at: current search, filters and ranking.
   const top = sorted(list)[0];
-  const all = DATA.games.filter(g=>!g._hidden);
+  const all = DATA.games.filter(g=>!g._hidden && !(psToggle(state.view) && state.hidePsCat && g._catalog));
   const played = all.filter(x=>x._played).length;
   const narrowed = list.length !== all.length;
   if(!top){ $("hero").innerHTML = `<div></div><div><h1>Your game shelf</h1><p class="meta">${all.length} games, ${played} played</p></div>`; return; }
@@ -1367,13 +1368,18 @@ async function showView(v){
   }
   state.view = v;
   DATA = await loadView(v);
+  if(v==="library"){  // My library also lists the PS Plus catalog, hidden by default under "Hide PS Plus"
+    if(!VIEWS._libAll){ const cat = await loadView("psplus"), have = new Set(DATA.games.map(g=>g.key));
+      VIEWS._libAll = {...DATA, games:[...DATA.games, ...cat.games.filter(g=>!have.has(g.key)).map(g=>{ g._catalog = true; return g; })]}; }
+    DATA = VIEWS._libAll;
+  }
   document.body.classList.toggle("view-psplus", v==="psplus");
   for(const b of $("tabs").querySelectorAll("[data-view]")) b.setAttribute("aria-selected", b.dataset.view===v);
   $("addBtn").hidden = v==="psplus";
   $("catRow").hidden = v!=="psplus";
-  $("steamRow").hidden = !(v==="steam" || (CONSOLES[v] && CONSOLES[v].psplus));
+  $("steamRow").hidden = !(v==="steam" || psToggle(v));
   $("hideEmuSteam").hidden = v!=="steam";
-  $("hidePsCat").hidden = !(CONSOLES[v] && CONSOLES[v].psplus);
+  $("hidePsCat").hidden = !psToggle(v);
   $("hideEmuSteam").setAttribute("aria-pressed", !!state.hideEmuSteam);
   $("hidePsCat").setAttribute("aria-pressed", !!state.hidePsCat);
   if(v!=="psplus" && state.sort==="added") state.sort = "avg";
