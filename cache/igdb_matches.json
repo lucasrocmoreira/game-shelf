@@ -26225,16 +26225,16 @@
   "via": "search"
  },
  "SNES:emu:SNES:Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer": {
-  "candidates": 9,
-  "checked": "2026-11-02T08:45:39+00:00",
-  "conf": null,
-  "id": null,
+  "candidates": null,
+  "checked": "2026-11-02T21:11:57+00:00",
+  "conf": "manual",
+  "id": 77854,
   "mp": null,
-  "score": 0.478,
-  "slug": null,
+  "score": null,
+  "slug": "ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake",
   "title": "Go for it! Goemon: The Twinkling Journey - The Reason I became a Dancer",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:emu:SNES:Go for it! Goemon 2 - The Strange General McGuinness": {
   "candidates": 1,
