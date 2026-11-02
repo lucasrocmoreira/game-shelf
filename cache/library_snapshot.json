@@ -1,4 +1,5716 @@
 {
+ "emudeck": [
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Advance Wars",
+   "title": "Advance Wars",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Advance Wars 2 - Black Hole Rising",
+   "title": "Advance Wars 2: Black Hole Rising",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Alien Hominid",
+   "title": "Alien Hominid",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Astro Boy - Omega Factor",
+   "title": "Astro Boy: Omega Factor",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Banjo-Kazooie - Grunty's Revenge",
+   "title": "Banjo-Kazooie: Grunty's Revenge",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Boktai - The Sun Is in Your Hand",
+   "title": "Boktai: The Sun Is in Your Hand",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Boktai 2 - Solar Boy Django",
+   "title": "Boktai 2: Solar Boy Django",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Broken Sword - The Shadow of the Templars",
+   "title": "Broken Sword: The Shadow of the Templars",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Bruce Lee - Return of the Legend",
+   "title": "Bruce Lee: Return of the Legend",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Car Battler Joe",
+   "title": "Car Battler Joe",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Castlevania - Aria of Sorrow",
+   "title": "Castlevania: Aria of Sorrow",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Castlevania - Circle of the Moon",
+   "title": "Castlevania: Circle of the Moon",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Castlevania - Harmony of Dissonance",
+   "title": "Castlevania: Harmony of Dissonance",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:ChuChu Rocket!",
+   "title": "ChuChu Rocket!",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Crash Nitro Kart",
+   "title": "Crash Nitro Kart",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:DK - King of Swing",
+   "title": "DK: King of Swing",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Denki Blocks!",
+   "title": "Denki Blocks!",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Double Dragon Advance",
+   "title": "Double Dragon Advance",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Dragon Quest Monsters - Caravan Heart",
+   "title": "Dragon Quest Monsters: Caravan Heart",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Drill Dozer",
+   "title": "Drill Dozer",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Dynasty Warriors Advance",
+   "title": "Dynasty Warriors Advance",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:F-Zero - GP Legend",
+   "title": "F-Zero: GP Legend",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:F-Zero - Maximum Velocity",
+   "title": "F-Zero: Maximum Velocity",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Final Fantasy I & II - Dawn of Souls",
+   "title": "Final Fantasy I & II: Dawn of Souls",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Final Fantasy IV Advance",
+   "title": "Final Fantasy IV Advance",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Final Fantasy Tactics Advance",
+   "title": "Final Fantasy Tactics Advance",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Final Fantasy V Advance",
+   "title": "Final Fantasy V Advance",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Final Fantasy VI Advance",
+   "title": "Final Fantasy VI Advance",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Final Fight One",
+   "title": "Final Fight One",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Fire Emblem",
+   "title": "Fire Emblem",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Fire Emblem - The Binding Blade",
+   "title": "Fire Emblem: The Binding Blade",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Fire Emblem - The Sacred Stones",
+   "title": "Fire Emblem: The Sacred Stones",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:GT Advance - Championship Racing",
+   "title": "GT Advance: Championship Racing",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Game & Watch Gallery 4",
+   "title": "Game & Watch Gallery 4",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Goemon - New Age Shutsudou!",
+   "title": "Goemon: New Age Shutsudou!",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Golden Sun",
+   "title": "Golden Sun",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Golden Sun - The Lost Age",
+   "title": "Golden Sun: The Lost Age",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Gunstar Super Heroes",
+   "title": "Gunstar Super Heroes",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Harvest Moon - Friends of Mineral Town",
+   "title": "Harvest Moon: Friends of Mineral Town",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Harvest Moon - More Friends of Mineral Town",
+   "title": "Harvest Moon: More Friends of Mineral Town",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Iridion II",
+   "title": "Iridion II",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Jet Grind Radio",
+   "title": "Jet Grind Radio",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Kao the Kangaroo",
+   "title": "Kao the Kangaroo",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Kingdom Hearts - Chain of Memories",
+   "title": "Kingdom Hearts: Chain of Memories",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Kirby & The Amazing Mirror",
+   "title": "Kirby & The Amazing Mirror",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Kirby - Nightmare in Dream Land",
+   "title": "Kirby: Nightmare in Dream Land",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Klonoa - Empire of Dreams",
+   "title": "Klonoa: Empire of Dreams",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Klonoa 2 - Dream Champ Tournament",
+   "title": "Klonoa 2: Dream Champ Tournament",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Konami Krazy Racers",
+   "title": "Konami Krazy Racers",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Kurukuru Kururin",
+   "title": "Kurukuru Kururin",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Lady Sia",
+   "title": "Lady Sia",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Lilo & Stitch",
+   "title": "Lilo & Stitch",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Lilo & Stitch 2 - Haemsterviel Havoc",
+   "title": "Lilo & Stitch 2: Haemsterviel Havoc",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Lunar Legend",
+   "title": "Lunar Legend",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Magical Vacation",
+   "title": "Magical Vacation",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mario & Luigi - Superstar Saga",
+   "title": "Mario & Luigi: Superstar Saga",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mario Golf - Advance Tour",
+   "title": "Mario Golf: Advance Tour",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mario Kart - Super Circuit",
+   "title": "Mario Kart: Super Circuit",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mario Pinball Land",
+   "title": "Mario Pinball Land",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mario Tennis - Power Tour",
+   "title": "Mario Tennis: Power Tour",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mario vs. Donkey Kong",
+   "title": "Mario vs. Donkey Kong",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Max Payne",
+   "title": "Max Payne",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Medabots - Metabee",
+   "title": "Medabots: Metabee",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man & Bass",
+   "title": "Mega Man & Bass",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network",
+   "title": "Mega Man Battle Network",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 2",
+   "title": "Mega Man Battle Network 2",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 3 - Blue Version",
+   "title": "Mega Man Battle Network 3: Blue Version",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 3 - White Version",
+   "title": "Mega Man Battle Network 3: White Version",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 4 - Blue Moon",
+   "title": "Mega Man Battle Network 4: Blue Moon",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 4 - Red Sun",
+   "title": "Mega Man Battle Network 4: Red Sun",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 5 - Team Colonel",
+   "title": "Mega Man Battle Network 5: Team Colonel",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 5 - Team Protoman",
+   "title": "Mega Man Battle Network 5: Team Protoman",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 6 - Cybeast Falzar",
+   "title": "Mega Man Battle Network 6: Cybeast Falzar",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Battle Network 6 - Cybeast Gregar",
+   "title": "Mega Man Battle Network 6: Cybeast Gregar",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Zero",
+   "title": "Mega Man Zero",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Zero 2",
+   "title": "Mega Man Zero 2",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Zero 3",
+   "title": "Mega Man Zero 3",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mega Man Zero 4",
+   "title": "Mega Man Zero 4",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Metal Slug Advance",
+   "title": "Metal Slug Advance",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Metroid - Zero Mission",
+   "title": "Metroid: Zero Mission",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Metroid Fusion",
+   "title": "Metroid Fusion",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mother 3",
+   "title": "Mother 3",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Motocross Maniacs Advance",
+   "title": "Motocross Maniacs Advance",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Motoracer Advance",
+   "title": "Motoracer Advance",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Mr. Driller 2",
+   "title": "Mr. Driller 2",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Ninja Five-0",
+   "title": "Ninja Five-0",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Oriental Blue - Ao no Tengai",
+   "title": "Oriental Blue: Ao no Tengai",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Pokemon - Emerald Version",
+   "title": "Pokemon: Emerald Version",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Pokemon - FireRed Version",
+   "title": "Pokemon: FireRed Version",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Pokemon - LeafGreen Version",
+   "title": "Pokemon: LeafGreen Version",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Pokemon - Ruby Version",
+   "title": "Pokemon: Ruby Version",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Pokemon - Sapphire Version",
+   "title": "Pokemon: Sapphire Version",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Pokemon Mystery Dungeon - Red Rescue Team",
+   "title": "Pokemon Mystery Dungeon: Red Rescue Team",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Pokemon Pinball - Ruby & Sapphire",
+   "title": "Pokemon Pinball: Ruby & Sapphire",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Puyo Pop",
+   "title": "Puyo Pop",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Racing Gears Advance",
+   "title": "Racing Gears Advance",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Rayman Advance",
+   "title": "Rayman Advance",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Rebelstar - Tactical Command",
+   "title": "Rebelstar: Tactical Command",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Rhythm Tengoku",
+   "title": "Rhythm Tengoku",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:River City Ransom EX",
+   "title": "River City Ransom EX",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Sabre Wulf",
+   "title": "Sabre Wulf",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Silent Scope",
+   "title": "Silent Scope",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Sonic Advance",
+   "title": "Sonic Advance",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Sonic Advance 2",
+   "title": "Sonic Advance 2",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Sonic Advance 3",
+   "title": "Sonic Advance 3",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Sonic Battle",
+   "title": "Sonic Battle",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Sonic Pinball Party",
+   "title": "Sonic Pinball Party",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Spider-Man - Mysterio's Menace",
+   "title": "Spider-Man: Mysterio's Menace",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Spyro - Attack of the Rhynocs",
+   "title": "Spyro: Attack of the Rhynocs",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Spyro - Season of Ice",
+   "title": "Spyro: Season of Ice",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Spyro 2 - Season of Flame",
+   "title": "Spyro 2: Season of Flame",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Street Fighter Alpha 3",
+   "title": "Street Fighter Alpha 3",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Summon Night - Swordcraft Story",
+   "title": "Summon Night: Swordcraft Story",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Summon Night - Swordcraft Story 2",
+   "title": "Summon Night: Swordcraft Story 2",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Mario Advance",
+   "title": "Super Mario Advance",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Mario Advance 2 - Super Mario World",
+   "title": "Super Mario Advance 2: Super Mario World",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Mario Advance 3 - Yoshi's Island",
+   "title": "Super Mario Advance 3: Yoshi's Island",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Mario Advance 4 - Super Mario Bros. 3",
+   "title": "Super Mario Advance 4: Super Mario Bros. 3",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Monkey Ball Jr.",
+   "title": "Super Monkey Ball Jr.",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Puzzle Fighter II",
+   "title": "Super Puzzle Fighter II",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Robot Taisen - Original Generation",
+   "title": "Super Robot Taisen: Original Generation",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Robot Taisen - Original Generation 2",
+   "title": "Super Robot Taisen: Original Generation 2",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Robot Taisen R",
+   "title": "Super Robot Taisen R",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Super Street Fighter II Turbo - Revival",
+   "title": "Super Street Fighter II Turbo: Revival",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Sword of Mana",
+   "title": "Sword of Mana",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:TMNT",
+   "title": "TMNT",
+   "year": 2007
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Tactics Ogre - The Knight of Lodis",
+   "title": "Tactics Ogre: The Knight of Lodis",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Teenage Mutant Ninja Turtles",
+   "title": "Teenage Mutant Ninja Turtles",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Teenage Mutant Ninja Turtles 2 - Battle Nexus",
+   "title": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:The Legend of Zelda - A Link to the Past & Four Swords",
+   "title": "The Legend of Zelda: A Link to the Past & Four Swords",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:The Legend of Zelda - The Minish Cap",
+   "title": "The Legend of Zelda: The Minish Cap",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:The Pinball of the Dead",
+   "title": "The Pinball of the Dead",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Tomato Adventure",
+   "title": "Tomato Adventure",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Tony Hawk's Pro Skater 2",
+   "title": "Tony Hawk's Pro Skater 2",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Tony Hawk's Pro Skater 3",
+   "title": "Tony Hawk's Pro Skater 3",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Tony Hawk's Pro Skater 4",
+   "title": "Tony Hawk's Pro Skater 4",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Tony Hawk's Underground",
+   "title": "Tony Hawk's Underground",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Tony Hawk's Underground 2",
+   "title": "Tony Hawk's Underground 2",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Ultimate Brain Games",
+   "title": "Ultimate Brain Games",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Urban Yeti!",
+   "title": "Urban Yeti!",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:V-Rally 3",
+   "title": "V-Rally 3",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Virtua Tennis",
+   "title": "Virtua Tennis",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Wario Land 4",
+   "title": "Wario Land 4",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:WarioWare - Twisted!",
+   "title": "WarioWare: Twisted!",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:WarioWare, Inc. - Mega Microgame$!",
+   "title": "WarioWare, Inc.: Mega Microgame$!",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Wing Commander - Prophecy",
+   "title": "Wing Commander: Prophecy",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Wings",
+   "title": "Wings",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Worms World Party",
+   "title": "Worms World Party",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Yggdra Union - We'll Never Fight Alone",
+   "title": "Yggdra Union: We'll Never Fight Alone",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GBA",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GBA:Zone of the Enders - The Fist of Mars",
+   "title": "Zone of the Enders: The Fist of Mars",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GameCube:Eternal Darkness - Sanity's Requiem",
+   "title": "Eternal Darkness: Sanity's Requiem",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GameCube:Fire Emblem - Path of Radiance",
+   "title": "Fire Emblem: Path of Radiance",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GameCube:Mario Kart - Double Dash!!",
+   "title": "Mario Kart: Double Dash!!",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GameCube:Super Mario Sunshine",
+   "title": "Super Mario Sunshine",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GameCube:Super Smash Bros. Melee",
+   "title": "Super Smash Bros. Melee",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GameCube:The Legend of Zelda - The Wind Waker",
+   "title": "The Legend of Zelda: The Wind Waker",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "emu:GameCube:The Legend of Zelda - Twilight Princess",
+   "title": "The Legend of Zelda: Twilight Princess",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:007 - The World Is Not Enough",
+   "title": "007: The World Is Not Enough",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:1080 Snowboarding",
+   "title": "1080 Snowboarding",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Bakuretsu Muteki Bangaioh",
+   "title": "Bakuretsu Muteki Bangaioh",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Banjo-Kazooie",
+   "title": "Banjo-Kazooie",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Banjo-Tooie",
+   "title": "Banjo-Tooie",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:BattleTanx",
+   "title": "BattleTanx",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:BattleTanx - Global Assault",
+   "title": "BattleTanx: Global Assault",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Beetle Adventure Racing!",
+   "title": "Beetle Adventure Racing!",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Blast Corps",
+   "title": "Blast Corps",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Body Harvest",
+   "title": "Body Harvest",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Bomberman 64",
+   "title": "Bomberman 64",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Bomberman 64 - The Second Attack!",
+   "title": "Bomberman 64: The Second Attack!",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Castlevania",
+   "title": "Castlevania",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Castlevania - Legacy of Darkness",
+   "title": "Castlevania: Legacy of Darkness",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Chameleon Twist",
+   "title": "Chameleon Twist",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Chameleon Twist 2",
+   "title": "Chameleon Twist 2",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Conker's Bad Fur Day",
+   "title": "Conker's Bad Fur Day",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Custom Robo",
+   "title": "Custom Robo",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Custom Robo V2",
+   "title": "Custom Robo V2",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Dezaemon 3D",
+   "title": "Dezaemon 3D",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Diddy Kong Racing",
+   "title": "Diddy Kong Racing",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Donkey Kong 64",
+   "title": "Donkey Kong 64",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Duck Dodgers Starring Daffy Duck",
+   "title": "Duck Dodgers Starring Daffy Duck",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Excitebike 64",
+   "title": "Excitebike 64",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Extreme-G",
+   "title": "Extreme-G",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Extreme-G XG2",
+   "title": "Extreme-G XG2",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:F-Zero X",
+   "title": "F-Zero X",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Forsaken 64",
+   "title": "Forsaken 64",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!",
+   "title": "Fushigi no Dungeon: Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Glover",
+   "title": "Glover",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Goemon's Great Adventure",
+   "title": "Goemon's Great Adventure",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:GoldenEye 007",
+   "title": "GoldenEye 007",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Harvest Moon 64",
+   "title": "Harvest Moon 64",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Hybrid Heaven",
+   "title": "Hybrid Heaven",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Hydro Thunder",
+   "title": "Hydro Thunder",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Iggy's Reckin' Balls",
+   "title": "Iggy's Reckin' Balls",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Indiana Jones and the Infernal Machine",
+   "title": "Indiana Jones and the Infernal Machine",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Jet Force Gemini",
+   "title": "Jet Force Gemini",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Killer Instinct Gold",
+   "title": "Killer Instinct Gold",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Kirby 64 - The Crystal Shards",
+   "title": "Kirby 64: The Crystal Shards",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Last Legion UX",
+   "title": "Last Legion UX",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mace - The Dark Age",
+   "title": "Mace: The Dark Age",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Magical Tetris Challenge",
+   "title": "Magical Tetris Challenge",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mario Golf",
+   "title": "Mario Golf",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mario Kart 64",
+   "title": "Mario Kart 64",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mario Party",
+   "title": "Mario Party",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mario Party 2",
+   "title": "Mario Party 2",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mario Party 3",
+   "title": "Mario Party 3",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mario Tennis",
+   "title": "Mario Tennis",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mega Man 64",
+   "title": "Mega Man 64",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Micro Machines 64 Turbo",
+   "title": "Micro Machines 64 Turbo",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mischief Makers",
+   "title": "Mischief Makers",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Mystical Ninja Starring Goemon",
+   "title": "Mystical Ninja Starring Goemon",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Ogre Battle 64 - Person of Lordly Caliber",
+   "title": "Ogre Battle 64: Person of Lordly Caliber",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Paper Mario",
+   "title": "Paper Mario",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Perfect Dark",
+   "title": "Perfect Dark",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Pilotwings 64",
+   "title": "Pilotwings 64",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Pokemon Puzzle League",
+   "title": "Pokemon Puzzle League",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Pokemon Snap",
+   "title": "Pokemon Snap",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Pokemon Stadium",
+   "title": "Pokemon Stadium",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Pokemon Stadium 2",
+   "title": "Pokemon Stadium 2",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Quest 64",
+   "title": "Quest 64",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:RR64 - Ridge Racer 64",
+   "title": "RR64: Ridge Racer 64",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Rakugakids",
+   "title": "Rakugakids",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Rayman 2 - The Great Escape",
+   "title": "Rayman 2: The Great Escape",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Ready 2 Rumble Boxing",
+   "title": "Ready 2 Rumble Boxing",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Ready 2 Rumble Boxing - Round 2",
+   "title": "Ready 2 Rumble Boxing: Round 2",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Robotron 64",
+   "title": "Robotron 64",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Rocket - Robot on Wheels",
+   "title": "Rocket: Robot on Wheels",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:San Francisco Rush 2049",
+   "title": "San Francisco Rush 2049",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Shadow Man",
+   "title": "Shadow Man",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Snowboard Kids",
+   "title": "Snowboard Kids",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Snowboard Kids 2",
+   "title": "Snowboard Kids 2",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:SpaceStation Silicon Valley",
+   "title": "SpaceStation Silicon Valley",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Spider-Man",
+   "title": "Spider-Man",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Star Fox 64",
+   "title": "Star Fox 64",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Star Wars - Rogue Squadron",
+   "title": "Star Wars: Rogue Squadron",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Star Wars - Shadows of the Empire",
+   "title": "Star Wars: Shadows of the Empire",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Star Wars Episode I - Battle for Naboo",
+   "title": "Star Wars Episode I: Battle for Naboo",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Star Wars Episode I - Racer",
+   "title": "Star Wars Episode I: Racer",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Super Mario 64",
+   "title": "Super Mario 64",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Super Smash Bros.",
+   "title": "Super Smash Bros.",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Tetrisphere",
+   "title": "Tetrisphere",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:The Legend of Zelda - Majora's Mask",
+   "title": "The Legend of Zelda: Majora's Mask",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:The Legend of Zelda - Ocarina of Time",
+   "title": "The Legend of Zelda: Ocarina of Time",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:The New Tetris",
+   "title": "The New Tetris",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Tsumi to Batsu - Hoshi no Keishousha",
+   "title": "Tsumi to Batsu: Hoshi no Keishousha",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Turok - Dinosaur Hunter",
+   "title": "Turok: Dinosaur Hunter",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Turok - Rage Wars",
+   "title": "Turok: Rage Wars",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Turok 2 - Seeds of Evil",
+   "title": "Turok 2: Seeds of Evil",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Turok 3 - Shadow of Oblivion",
+   "title": "Turok 3: Shadow of Oblivion",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou",
+   "title": "Utchan Nanchan no Hono no Challenger: Denryuu Ira Ira Bou",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Vigilante 8",
+   "title": "Vigilante 8",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Vigilante 8 - 2nd Offense",
+   "title": "Vigilante 8: 2nd Offense",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:WWF No Mercy",
+   "title": "WWF No Mercy",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Wave Race 64 - Kawasaki Jet Ski",
+   "title": "Wave Race 64: Kawasaki Jet Ski",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:WinBack - Covert Operations",
+   "title": "WinBack: Covert Operations",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Wipeout 64",
+   "title": "Wipeout 64",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Worms Armageddon",
+   "title": "Worms Armageddon",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "N64",
+   "playtime_hours": 0.0,
+   "source_id": "emu:N64:Yoshi's Story",
+   "title": "Yoshi's Story",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Disney's Hercules Action Game",
+   "title": "Disney's Hercules Action Game",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Disney's Tarzan",
+   "title": "Disney's Tarzan",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Gran Turismo",
+   "title": "Gran Turismo",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Harry Potter and the Sorcerer's Stone",
+   "title": "Harry Potter and the Sorcerer's Stone",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Legend of Legaia",
+   "title": "Legend of Legaia",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Looney Tunes - Sheep Raider",
+   "title": "Looney Tunes: Sheep Raider",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Medal of Honor",
+   "title": "Medal of Honor",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:MediEvil II",
+   "title": "MediEvil II",
+   "year": 2000
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Parasite Eve",
+   "title": "Parasite Eve",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Valkyrie Profile",
+   "title": "Valkyrie Profile",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Wipeout XL",
+   "title": "Wipeout XL",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS1",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS1:Xenogears",
+   "title": "Xenogears",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:God Hand",
+   "title": "God Hand",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:Gran Turismo 4",
+   "title": "Gran Turismo 4",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:Guitar Hero",
+   "title": "Guitar Hero",
+   "year": 2005
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:Guitar Hero II",
+   "title": "Guitar Hero II",
+   "year": 2006
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:Monster Hunter",
+   "title": "Monster Hunter",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:Need for Speed - Underground 2",
+   "title": "Need for Speed: Underground 2",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:Onimusha 3",
+   "title": "Onimusha 3",
+   "year": 2004
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:SSX Tricky",
+   "title": "SSX Tricky",
+   "year": 2001
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:Tekken 4",
+   "title": "Tekken 4",
+   "year": 2002
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:The Lord of the Rings - The Return of the King",
+   "title": "The Lord of the Rings: The Return of the King",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "PS2",
+   "playtime_hours": 0.0,
+   "source_id": "emu:PS2:The Simpsons - Hit & Run",
+   "title": "The Simpsons: Hit & Run",
+   "year": 2003
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:ActRaiser",
+   "title": "ActRaiser",
+   "year": 1990
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:ActRaiser 2",
+   "title": "ActRaiser 2",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Aero Fighters",
+   "title": "Aero Fighters",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Aerobiz",
+   "title": "Aerobiz",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Aerobiz Supersonic",
+   "title": "Aerobiz Supersonic",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Aladdin",
+   "title": "Aladdin",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Alien 3",
+   "title": "Alien 3",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Alien vs Predator",
+   "title": "Alien vs Predator",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:An American Tail - Fievel Goes West",
+   "title": "An American Tail: Fievel Goes West",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Animaniacs",
+   "title": "Animaniacs",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Arcana",
+   "title": "Arcana",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Ardy Lightfoot",
+   "title": "Ardy Lightfoot",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Arkanoid - Doh It Again",
+   "title": "Arkanoid: Doh It Again",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Axelay",
+   "title": "Axelay",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:BASS Masters Classic - Pro Edition",
+   "title": "BASS Masters Classic: Pro Edition",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Bahamut Lagoon",
+   "title": "Bahamut Lagoon",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Bassin's Black Bass",
+   "title": "Bassin's Black Bass",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Batman Returns",
+   "title": "Batman Returns",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Best of the Best - Championship Karate",
+   "title": "Best of the Best: Championship Karate",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Biker Mice from Mars",
+   "title": "Biker Mice from Mars",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:BioMetal",
+   "title": "BioMetal",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:BlaZeon - The Bio-Cyborg Challenge",
+   "title": "BlaZeon: The Bio-Cyborg Challenge",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Blackthorne",
+   "title": "Blackthorne",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Bonkers",
+   "title": "Bonkers",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Boxing Legends of the Ring",
+   "title": "Boxing Legends of the Ring",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Brain Lord",
+   "title": "Brain Lord",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Breath of Fire",
+   "title": "Breath of Fire",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Breath of Fire II",
+   "title": "Breath of Fire II",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Bugs Bunny - Rabbit Rampage",
+   "title": "Bugs Bunny: Rabbit Rampage",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Bust-A-Move",
+   "title": "Bust-A-Move",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Cacoma Knight in Bizyland",
+   "title": "Cacoma Knight in Bizyland",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Cannon Fodder",
+   "title": "Cannon Fodder",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Castlevania - Dracula X",
+   "title": "Castlevania: Dracula X",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Choplifter III - Rescue-Survive",
+   "title": "Choplifter III: Rescue-Survive",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Chrono Trigger",
+   "title": "Chrono Trigger",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Chuck Rock",
+   "title": "Chuck Rock",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Clock Tower",
+   "title": "Clock Tower",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Clue",
+   "title": "Clue",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Contra III - The Alien Wars",
+   "title": "Contra III: The Alien Wars",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Cool Spot",
+   "title": "Cool Spot",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Cybernator",
+   "title": "Cybernator",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Daffy Duck - The Marvin Missions",
+   "title": "Daffy Duck: The Marvin Missions",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Demon's Crest",
+   "title": "Demon's Crest",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Donkey Kong Country",
+   "title": "Donkey Kong Country",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Donkey Kong Country 2 - Diddy's Kong Quest",
+   "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Donkey Kong Country 3 - Dixie Kong's Double Trouble!",
+   "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon Ball Z - Hyper Dimension",
+   "title": "Dragon Ball Z: Hyper Dimension",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon Ball Z - La Legende Saien",
+   "title": "Dragon Ball Z: La Legende Saien",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon Ball Z - Super Saiya Densetsu",
+   "title": "Dragon Ball Z: Super Saiya Densetsu",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon Quest I & II",
+   "title": "Dragon Quest I & II",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon Quest III - And into the Legend...",
+   "title": "Dragon Quest III: And into the Legend...",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon Quest V - Tenkuu no Hanayome",
+   "title": "Dragon Quest V: Tenkuu no Hanayome",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon Quest VI - Realms of Revelation",
+   "title": "Dragon Quest VI: Realms of Revelation",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Dragon View",
+   "title": "Dragon View",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:E.V.O. - Search for Eden",
+   "title": "E.V.O.: Search for Eden",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:EarthBound",
+   "title": "EarthBound",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Earthworm Jim",
+   "title": "Earthworm Jim",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Earthworm Jim 2",
+   "title": "Earthworm Jim 2",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:F-Zero",
+   "title": "F-Zero",
+   "year": 1990
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Faceball 2000",
+   "title": "Faceball 2000",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Fatal Fury",
+   "title": "Fatal Fury",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Fatal Fury 2",
+   "title": "Fatal Fury 2",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Fatal Fury Special",
+   "title": "Fatal Fury Special",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Final Fantasy - Mystic Quest",
+   "title": "Final Fantasy: Mystic Quest",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Final Fantasy II",
+   "title": "Final Fantasy II",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Final Fantasy III",
+   "title": "Final Fantasy III",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Final Fantasy V",
+   "title": "Final Fantasy V",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Fire Emblem - Mystery of the Emblem",
+   "title": "Fire Emblem: Mystery of the Emblem",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Fire Emblem - Seisen no Keifu",
+   "title": "Fire Emblem: Seisen no Keifu",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Fire Emblem - Thracia 776",
+   "title": "Fire Emblem: Thracia 776",
+   "year": 1999
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:FireStriker",
+   "title": "FireStriker",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Firepower 2000",
+   "title": "Firepower 2000",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:First Samurai",
+   "title": "First Samurai",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Flashback - The Quest for Identity",
+   "title": "Flashback: The Quest for Identity",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Front Mission",
+   "title": "Front Mission",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Front Mission Series - Gun Hazard",
+   "title": "Front Mission Series: Gun Hazard",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame",
+   "title": "Ganbare Goemon 3: Shishi Juurokubee no Karakuri Manjigatame",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Ganpuru - Gunman's Proof",
+   "title": "Ganpuru: Gunman's Proof",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Gemfire",
+   "title": "Gemfire",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Genghis Khan II - Clan of the Gray Wolf",
+   "title": "Genghis Khan II: Clan of the Gray Wolf",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer",
+   "title": "Go for it! Goemon: The Twinkling Journey - The Reason I became a Dancer",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Go for it! Goemon 2 - The Strange General McGuinness",
+   "title": "Go for it! Goemon 2: The Strange General McGuinness",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Gokujou Parodius",
+   "title": "Gokujou Parodius",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Goof Troop",
+   "title": "Goof Troop",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Gradius III",
+   "title": "Gradius III",
+   "year": 1990
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Hagane - The Final Conflict",
+   "title": "Hagane: The Final Conflict",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Hammer Lock Wrestling",
+   "title": "Hammer Lock Wrestling",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Harley's Humongous Adventure",
+   "title": "Harley's Humongous Adventure",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Harvest Moon",
+   "title": "Harvest Moon",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:HyperZone",
+   "title": "HyperZone",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Illusion of Gaia",
+   "title": "Illusion of Gaia",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Indiana Jones' Greatest Adventures",
+   "title": "Indiana Jones' Greatest Adventures",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Inindo - Way of the Ninja",
+   "title": "Inindo: Way of the Ninja",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Inspector Gadget",
+   "title": "Inspector Gadget",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:International Superstar Soccer Deluxe",
+   "title": "International Superstar Soccer Deluxe",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Jikkyou Oshaberi Parodius",
+   "title": "Jikkyou Oshaberi Parodius",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Jim Lee's WildC.A.T.S - Covert-Action-Teams",
+   "title": "Jim Lee's WildC.A.T.S: Covert-Action-Teams",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Joe & Mac",
+   "title": "Joe & Mac",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Joe & Mac 2 - Lost in the Tropics",
+   "title": "Joe & Mac 2: Lost in the Tropics",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Jungle Strike",
+   "title": "Jungle Strike",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Jurassic Park",
+   "title": "Jurassic Park",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Ken Griffey Jr.'s Winning Run",
+   "title": "Ken Griffey Jr.'s Winning Run",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Kid Klown in Crazy Chase",
+   "title": "Kid Klown in Crazy Chase",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Killer Instinct",
+   "title": "Killer Instinct",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:King Arthur's World",
+   "title": "King Arthur's World",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:King of Demons",
+   "title": "King of Demons",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:King of Dragons",
+   "title": "King of Dragons",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:King of the Monsters",
+   "title": "King of the Monsters",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:King of the Monsters 2",
+   "title": "King of the Monsters 2",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Kirby Super Star",
+   "title": "Kirby Super Star",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Kirby's Avalanche",
+   "title": "Kirby's Avalanche",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Kirby's Dream Course",
+   "title": "Kirby's Dream Course",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Kirby's Dream Land 3",
+   "title": "Kirby's Dream Land 3",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Knights of the Round",
+   "title": "Knights of the Round",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Legend",
+   "title": "Legend",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Liberty or Death",
+   "title": "Liberty or Death",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Live A Live",
+   "title": "Live A Live",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Lord of Darkness",
+   "title": "Lord of Darkness",
+   "year": null
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Lost Vikings 2",
+   "title": "Lost Vikings 2",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Lucky Luke",
+   "title": "Lucky Luke",
+   "year": 1997
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Lufia & the Fortress of Doom",
+   "title": "Lufia & the Fortress of Doom",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Lufia II - Rise of the Sinistrals",
+   "title": "Lufia II: Rise of the Sinistrals",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Madden NFL '94",
+   "title": "Madden NFL '94",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Magic Sword",
+   "title": "Magic Sword",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Magical Pop'n",
+   "title": "Magical Pop'n",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Marvel Super Heroes in War of the Gems",
+   "title": "Marvel Super Heroes in War of the Gems",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Maui Mallard in Cold Shadow",
+   "title": "Maui Mallard in Cold Shadow",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mega Man 7",
+   "title": "Mega Man 7",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mega Man Soccer",
+   "title": "Mega Man Soccer",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mega Man X",
+   "title": "Mega Man X",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mega Man X2",
+   "title": "Mega Man X2",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mega Man X3",
+   "title": "Mega Man X3",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Metal Combat - Falcon's Revenge",
+   "title": "Metal Combat: Falcon's Revenge",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Metal Marines",
+   "title": "Metal Marines",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Metal Warriors",
+   "title": "Metal Warriors",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mickey Mania - The Timeless Adventures of Mickey Mouse",
+   "title": "Mickey Mania: The Timeless Adventures of Mickey Mouse",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mickey's Ultimate Challenge",
+   "title": "Mickey's Ultimate Challenge",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Might and Magic II",
+   "title": "Might and Magic II",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Might and Magic III - Isles of Terra",
+   "title": "Might and Magic III: Isles of Terra",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mighty Morphin Power Rangers",
+   "title": "Mighty Morphin Power Rangers",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mighty Morphin Power Rangers - The Fighting Edition",
+   "title": "Mighty Morphin Power Rangers: The Fighting Edition",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mighty Morphin Power Rangers - The Movie",
+   "title": "Mighty Morphin Power Rangers: The Movie",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mobile Suit Gundam Wing - Endless Duel",
+   "title": "Mobile Suit Gundam Wing: Endless Duel",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Monopoly",
+   "title": "Monopoly",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mortal Kombat",
+   "title": "Mortal Kombat",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mortal Kombat II",
+   "title": "Mortal Kombat II",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Musya - The Classic Japanese Tale of Horror",
+   "title": "Musya: The Classic Japanese Tale of Horror",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Mysterious Dungeon 2 - Shiren the Wanderer",
+   "title": "Mysterious Dungeon 2: Shiren the Wanderer",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:NBA Jam - Tournament Edition",
+   "title": "NBA Jam: Tournament Edition",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:NHL '94",
+   "title": "NHL '94",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:New Horizons",
+   "title": "New Horizons",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Ninjawarriors",
+   "title": "Ninjawarriors",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Nobunaga's Ambition",
+   "title": "Nobunaga's Ambition",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Nosferatu",
+   "title": "Nosferatu",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Ogre Battle - The March of the Black Queen",
+   "title": "Ogre Battle: The March of the Black Queen",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:On the Ball",
+   "title": "On the Ball",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Operation Logic Bomb - The Ultimate Search & Destroy",
+   "title": "Operation Logic Bomb: The Ultimate Search & Destroy",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Out of This World",
+   "title": "Out of This World",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:P.T.O. - Pacific Theater of Operations",
+   "title": "P.T.O.: Pacific Theater of Operations",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:P.T.O. II - Pacific Theater of Operations",
+   "title": "P.T.O. II: Pacific Theater of Operations",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Pac-Man 2 - The New Adventures",
+   "title": "Pac-Man 2: The New Adventures",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Paladin's Quest",
+   "title": "Paladin's Quest",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Parodius",
+   "title": "Parodius",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Phalanx",
+   "title": "Phalanx",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Phantom 2040",
+   "title": "Phantom 2040",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Pilotwings",
+   "title": "Pilotwings",
+   "year": 1990
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Pinocchio",
+   "title": "Pinocchio",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Plok",
+   "title": "Plok",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Pocky & Rocky",
+   "title": "Pocky & Rocky",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Pocky & Rocky 2",
+   "title": "Pocky & Rocky 2",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Pop'n TwinBee",
+   "title": "Pop'n TwinBee",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Pop'n TwinBee - Rainbow Bell Adventures",
+   "title": "Pop'n TwinBee: Rainbow Bell Adventures",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Populous",
+   "title": "Populous",
+   "year": 1990
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Populous II - Trials of the Olympian Gods",
+   "title": "Populous II: Trials of the Olympian Gods",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Prehistorik Man",
+   "title": "Prehistorik Man",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Push-Over",
+   "title": "Push-Over",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Putty Squad",
+   "title": "Putty Squad",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:R-Type III",
+   "title": "R-Type III",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Radical Rex",
+   "title": "Radical Rex",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Rampart",
+   "title": "Rampart",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Rendering Ranger R2",
+   "title": "Rendering Ranger R2",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Riddick Bowe Boxing",
+   "title": "Riddick Bowe Boxing",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:RoboCop versus The Terminator",
+   "title": "RoboCop versus The Terminator",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Robotrek",
+   "title": "Robotrek",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Rock N' Roll Racing",
+   "title": "Rock N' Roll Racing",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Rockman & Forte",
+   "title": "Rockman & Forte",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Rocky Rodent",
+   "title": "Rocky Rodent",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Romance of the Three Kingdoms II",
+   "title": "Romance of the Three Kingdoms II",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Romance of the Three Kingdoms III - Dragon of Destiny",
+   "title": "Romance of the Three Kingdoms III: Dragon of Destiny",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Romance of the Three Kingdoms IV - Wall of Fire",
+   "title": "Romance of the Three Kingdoms IV: Wall of Fire",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Run Saber",
+   "title": "Run Saber",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:S.O.S - Sink or Swim",
+   "title": "S.O.S: Sink or Swim",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:SWAT Kats - The Radical Squadron",
+   "title": "SWAT Kats: The Radical Squadron",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Saturday Night Slam Masters",
+   "title": "Saturday Night Slam Masters",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Scooby-Doo Mystery",
+   "title": "Scooby-Doo Mystery",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Secret of Evermore",
+   "title": "Secret of Evermore",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Secret of Mana",
+   "title": "Secret of Mana",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Shadowrun",
+   "title": "Shadowrun",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Shanghai II - Dragon's Eye",
+   "title": "Shanghai II: Dragon's Eye",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Shien's Revenge",
+   "title": "Shien's Revenge",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Shin Megami Tensei",
+   "title": "Shin Megami Tensei",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Shin Megami Tensei II",
+   "title": "Shin Megami Tensei II",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Sid Meier's Civilization",
+   "title": "Sid Meier's Civilization",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Side Pocket",
+   "title": "Side Pocket",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:SimAnt - The Electronic Ant Colony",
+   "title": "SimAnt: The Electronic Ant Colony",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:SimCity",
+   "title": "SimCity",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:SimCity 2000 - The Ultimate City Simulator",
+   "title": "SimCity 2000: The Ultimate City Simulator",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Skyblazer",
+   "title": "Skyblazer",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Smash Tennis",
+   "title": "Smash Tennis",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Soldiers of Fortune",
+   "title": "Soldiers of Fortune",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Sonic Blast Man",
+   "title": "Sonic Blast Man",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Sonic Blast Man II",
+   "title": "Sonic Blast Man II",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Soul Blazer",
+   "title": "Soul Blazer",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Space Megaforce",
+   "title": "Space Megaforce",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Spanky's Quest",
+   "title": "Spanky's Quest",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Sparkster",
+   "title": "Sparkster",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Speed Racer",
+   "title": "Speed Racer",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Spider-Man - Venom - Maximum Carnage",
+   "title": "Spider-Man: Venom - Maximum Carnage",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Spindizzy Worlds",
+   "title": "Spindizzy Worlds",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Star Fox",
+   "title": "Star Fox",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Star Fox 2",
+   "title": "Star Fox 2",
+   "year": 2017
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Star Ocean",
+   "title": "Star Ocean",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Street Fighter Alpha 2",
+   "title": "Street Fighter Alpha 2",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Street Fighter II Turbo",
+   "title": "Street Fighter II Turbo",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Strike Gunner S.T.G",
+   "title": "Strike Gunner S.T.G",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Stunt Race FX",
+   "title": "Stunt Race FX",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Sunset Riders",
+   "title": "Sunset Riders",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Adventure Island",
+   "title": "Super Adventure Island",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Adventure Island II",
+   "title": "Super Adventure Island II",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Bomberman",
+   "title": "Super Bomberman",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Bomberman 2",
+   "title": "Super Bomberman 2",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Bomberman 3",
+   "title": "Super Bomberman 3",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Bonk",
+   "title": "Super Bonk",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Bowling",
+   "title": "Super Bowling",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Buster Bros.",
+   "title": "Super Buster Bros.",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Castlevania IV",
+   "title": "Super Castlevania IV",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Double Dragon",
+   "title": "Super Double Dragon",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Famicom Wars",
+   "title": "Super Famicom Wars",
+   "year": 1998
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Ghouls 'N Ghosts",
+   "title": "Super Ghouls 'N Ghosts",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Mario All-Stars",
+   "title": "Super Mario All-Stars",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Mario Kart",
+   "title": "Super Mario Kart",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Mario RPG - Legend of the Seven Stars",
+   "title": "Super Mario RPG: Legend of the Seven Stars",
+   "year": 1996
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Mario World",
+   "title": "Super Mario World",
+   "year": 1990
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Mario World 2 - Yoshi's Island",
+   "title": "Super Mario World 2: Yoshi's Island",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Metroid",
+   "title": "Super Metroid",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Morph",
+   "title": "Super Morph",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Ninja Boy",
+   "title": "Super Ninja Boy",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Off Road",
+   "title": "Super Off Road",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Punch-Out!!",
+   "title": "Super Punch-Out!!",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super R-Type",
+   "title": "Super R-Type",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Smash T.V.",
+   "title": "Super Smash T.V.",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Star Wars",
+   "title": "Super Star Wars",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Star Wars - Return of the Jedi",
+   "title": "Super Star Wars: Return of the Jedi",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Star Wars - The Empire Strikes Back",
+   "title": "Super Star Wars: The Empire Strikes Back",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Street Fighter II",
+   "title": "Super Street Fighter II",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Tennis",
+   "title": "Super Tennis",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Turrican",
+   "title": "Super Turrican",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Super Turrican 2",
+   "title": "Super Turrican 2",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Syndicate",
+   "title": "Syndicate",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tactics Ogre - Let Us Cling Together",
+   "title": "Tactics Ogre: Let Us Cling Together",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tales of Phantasia",
+   "title": "Tales of Phantasia",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tecmo Super Bowl III - Final Edition",
+   "title": "Tecmo Super Bowl III: Final Edition",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Teenage Mutant Ninja Turtles - Tournament Fighters",
+   "title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Teenage Mutant Ninja Turtles IV - Turtles in Time",
+   "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Terranigma",
+   "title": "Terranigma",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tetris & Dr. Mario",
+   "title": "Tetris & Dr. Mario",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tetris 2",
+   "title": "Tetris 2",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tetris Attack",
+   "title": "Tetris Attack",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Adventures of Batman & Robin",
+   "title": "The Adventures of Batman & Robin",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Amazing Spider-Man - Lethal Foes",
+   "title": "The Amazing Spider-Man: Lethal Foes",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Death and Return of Superman",
+   "title": "The Death and Return of Superman",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Firemen",
+   "title": "The Firemen",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Flintstones - The Treasure of Sierra Madrock",
+   "title": "The Flintstones: The Treasure of Sierra Madrock",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Great Circus Mystery Starring Mickey & Minnie",
+   "title": "The Great Circus Mystery Starring Mickey & Minnie",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Humans",
+   "title": "The Humans",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Jungle Book",
+   "title": "The Jungle Book",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Legend of Zelda - A Link to the Past",
+   "title": "The Legend of Zelda: A Link to the Past",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Legend of the Mystical Ninja",
+   "title": "The Legend of the Mystical Ninja",
+   "year": 1991
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Lion King",
+   "title": "The Lion King",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Lost Vikings",
+   "title": "The Lost Vikings",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Magical Quest Starring Mickey Mouse",
+   "title": "The Magical Quest Starring Mickey Mouse",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:The Mask",
+   "title": "The Mask",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tiny Toon Adventures - Buster Busts Loose!",
+   "title": "Tiny Toon Adventures: Buster Busts Loose!",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Tiny Toon Adventures - Wacky Sports Challenge",
+   "title": "Tiny Toon Adventures: Wacky Sports Challenge",
+   "year": 1994
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Top Gear",
+   "title": "Top Gear",
+   "year": 1992
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Top Gear 2",
+   "title": "Top Gear 2",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Top Gear 3000",
+   "title": "Top Gear 3000",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Torneco no Daibouken - Fushigi no Dungeon",
+   "title": "Torneco no Daibouken: Fushigi no Dungeon",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Total Carnage",
+   "title": "Total Carnage",
+   "year": 1993
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Toy Story",
+   "title": "Toy Story",
+   "year": 1995
+  },
+  {
+   "also_platform": "Steam",
+   "emu": true,
+   "last_played": null,
+   "platform": "SNES",
+   "playtime_hours": 0.0,
+   "source_id": "emu:SNES:Trials of Mana",
+   "title": "Trials of Mana",
+   "year": 1995
+  }
+ ],
  "manual": [
   {
    "format": "physical",
@@ -3987,7 +9699,7 @@
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
    "last_played": "2026-11-01",
    "platform": "PS5",
-   "playtime_hours": 28.0,
+   "playtime_hours": 29.0,
    "ps_plus": false,
    "source_id": "PPSA31327_00",
    "title": "Yakuza 0 Director's Cut"
@@ -4138,7 +9850,7 @@
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1316/Ox5ZRVrJnq3bdPC3QaNeL6eB.png",
-   "last_played": "2023-07-03",
+   "last_played": "2026-11-01",
    "platform": "PlayStation",
    "playtime_hours": 10.6,
    "ps_plus": false,
@@ -13073,17 +18785,17 @@
    "title": "Metro Exodus"
   },
   {
-   "also_platform": null,
+   "also_platform": "PS4",
    "concept": "10009198",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2821/51d6eb5a4a96c0a546c0f7e475a6477a6c4a29196c95820b.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
-   "platform": "PS4",
+   "platform": "PS5",
    "playtime_hours": 0.0,
    "source_id": "psplus:10009198",
    "store_url": "https://store.playstation.com/en-us/concept/10009198",
-   "streaming": false,
+   "streaming": true,
    "tier": "Game Catalog",
    "title": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
