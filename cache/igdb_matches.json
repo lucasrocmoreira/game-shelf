@@ -26226,7 +26226,7 @@
  },
  "SNES:emu:SNES:Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer": {
   "candidates": null,
-  "checked": "2026-11-02T21:13:54+00:00",
+  "checked": "2026-11-02T21:11:57+00:00",
   "conf": "manual",
   "id": 77854,
   "mp": null,
@@ -26298,7 +26298,7 @@
  },
  "SNES:emu:SNES:Hammer Lock Wrestling": {
   "candidates": null,
-  "checked": "2026-11-02T21:13:54+00:00",
+  "checked": "2026-11-02T21:16:09+00:00",
   "conf": "manual",
   "id": 38228,
   "mp": null,
@@ -26418,7 +26418,7 @@
  },
  "SNES:emu:SNES:Jim Lee's WildC.A.T.S - Covert-Action-Teams": {
   "candidates": null,
-  "checked": "2026-11-02T21:13:55+00:00",
+  "checked": "2026-11-02T21:16:09+00:00",
   "conf": "manual",
   "id": 42510,
   "mp": null,
@@ -26622,7 +26622,7 @@
  },
  "SNES:emu:SNES:Knights of the Round": {
   "candidates": null,
-  "checked": "2026-11-02T21:13:55+00:00",
+  "checked": "2026-11-02T21:16:09+00:00",
   "conf": "manual",
   "id": 6816,
   "mp": null,
@@ -26970,7 +26970,7 @@
  },
  "SNES:emu:SNES:Mobile Suit Gundam Wing - Endless Duel": {
   "candidates": null,
-  "checked": "2026-11-02T21:13:55+00:00",
+  "checked": "2026-11-02T21:16:09+00:00",
   "conf": "manual",
   "id": 42464,
   "mp": null,
@@ -27029,16 +27029,16 @@
   "via": "search"
  },
  "SNES:emu:SNES:Mysterious Dungeon 2 - Shiren the Wanderer": {
-  "candidates": 2,
-  "checked": "2026-11-02T08:46:44+00:00",
-  "conf": null,
-  "id": null,
+  "candidates": null,
+  "checked": "2026-11-02T21:16:10+00:00",
+  "conf": "manual",
+  "id": 103496,
   "mp": null,
-  "score": 0.084,
-  "slug": null,
+  "score": null,
+  "slug": "fushigi-no-dungeon-2-fuurai-no-shiren",
   "title": "Mysterious Dungeon 2: Shiren the Wanderer",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:emu:SNES:NBA Jam - Tournament Edition": {
   "candidates": 3,
@@ -27075,6 +27075,18 @@
   "title": "New Horizons",
   "v": 4,
   "via": "search"
+ },
+ "SNES:emu:SNES:Ninjawarriors": {
+  "candidates": null,
+  "checked": "2026-11-02T21:16:10+00:00",
+  "conf": "manual",
+  "id": 5406,
+  "mp": null,
+  "score": null,
+  "slug": "the-ninja-warriors",
+  "title": "Ninjawarriors",
+  "v": 4,
+  "via": "fix"
  },
  "SNES:emu:SNES:Nobunaga's Ambition": {
   "candidates": 21,
@@ -27545,16 +27557,16 @@
   "via": "search"
  },
  "SNES:emu:SNES:S.O.S - Sink or Swim": {
-  "candidates": 24,
-  "checked": "2026-11-02T08:47:25+00:00",
-  "conf": null,
-  "id": null,
+  "candidates": null,
+  "checked": "2026-11-02T21:16:10+00:00",
+  "conf": "manual",
+  "id": 45707,
   "mp": null,
-  "score": 0.69,
-  "slug": null,
+  "score": null,
+  "slug": "man-overboard",
   "title": "S.O.S: Sink or Swim",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:emu:SNES:SWAT Kats - The Radical Squadron": {
   "candidates": 1,
@@ -28695,6 +28707,18 @@
   "title": "Top Gear 3000",
   "v": 4,
   "via": "search"
+ },
+ "SNES:emu:SNES:Torneco no Daibouken - Fushigi no Dungeon": {
+  "candidates": null,
+  "checked": "2026-11-02T21:16:10+00:00",
+  "conf": "manual",
+  "id": 42439,
+  "mp": null,
+  "score": null,
+  "slug": "fushigi-no-dungeon-torneko-no-daibouken",
+  "title": "Torneco no Daibouken: Fushigi no Dungeon",
+  "v": 4,
+  "via": "fix"
  },
  "SNES:emu:SNES:Total Carnage": {
   "candidates": 3,

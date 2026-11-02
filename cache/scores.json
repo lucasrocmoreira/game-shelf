@@ -55,7 +55,8 @@
   "checked": "2026-10-28T05:09:53+00:00",
   "mc_v": 2,
   "metacritic": 95,
-  "metacritic_slug": "the-last-of-us"
+  "metacritic_slug": "the-last-of-us",
+  "oc_checked": "2026-11-02T21:12:52+00:00"
  },
  "igdb:101006": {
   "backloggd": 3.9,
@@ -251,7 +252,8 @@
   "checked": "2026-10-28T05:49:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:1029": {
   "backloggd": 4.5,
@@ -492,6 +494,15 @@
   "opencritic_pct": 85,
   "opencritic_tier": "Strong"
  },
+ "igdb:103496": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-02T21:16:33+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:16:41+00:00"
+ },
  "igdb:1035": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -640,7 +651,8 @@
   "checked": "2026-11-01T00:36:19+00:00",
   "mc_v": 2,
   "metacritic": 93,
-  "metacritic_slug": "killer-instinct-gold"
+  "metacritic_slug": "killer-instinct-gold",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:10614": {
   "backloggd": 3.2,
@@ -648,7 +660,8 @@
   "checked": "2026-11-02T09:00:15+00:00",
   "mc_v": 2,
   "metacritic": 59,
-  "metacritic_slug": "mega-man-64"
+  "metacritic_slug": "mega-man-64",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:10617": {
   "backloggd": 3.7,
@@ -689,7 +702,8 @@
   "checked": "2026-10-29T22:22:45+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "picross-3d"
+  "metacritic_slug": "picross-3d",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:10662": {
   "backloggd": 3.2,
@@ -698,7 +712,7 @@
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "disneys-tarzan",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1067": {
   "backloggd": 3.1,
@@ -750,7 +764,8 @@
   "checked": "2026-11-02T09:04:50+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1069": {
   "backloggd": 3.0,
@@ -926,7 +941,8 @@
   "checked": "2026-11-02T09:56:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:109": {
   "backloggd": 3.7,
@@ -958,7 +974,8 @@
   "checked": "2026-10-28T05:51:27+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:10910": {
   "backloggd": 2.5,
@@ -1010,7 +1027,8 @@
   "checked": "2026-10-28T05:51:30+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1094": {
   "backloggd": 3.8,
@@ -1027,7 +1045,8 @@
   "checked": "2026-10-28T05:51:52+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:10947": {
   "backloggd": 2.8,
@@ -1035,7 +1054,8 @@
   "checked": "2026-10-28T05:52:09+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:10948": {
   "backloggd": 3.6,
@@ -1061,7 +1081,8 @@
   "checked": "2026-10-28T05:51:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:109532": {
   "backloggd": 3.4,
@@ -1096,7 +1117,7 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "donkey-kong-64",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:10962": {
   "backloggd": 4.2,
@@ -1117,7 +1138,8 @@
   "checked": "2026-11-02T08:50:08+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "dk-king-of-swing"
+  "metacritic_slug": "dk-king-of-swing",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:109970": {
   "backloggd": 2.8,
@@ -1265,7 +1287,8 @@
   "checked": "2026-11-02T09:56:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11069": {
   "backloggd": 3.2,
@@ -1393,7 +1416,8 @@
   "checked": "2026-11-01T00:40:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11125": {
   "backloggd": 3.0,
@@ -1401,7 +1425,8 @@
   "checked": "2026-11-02T09:59:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:111469": {
   "backloggd": 3.1,
@@ -1565,7 +1590,8 @@
   "checked": "2026-11-02T10:03:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1121": {
   "backloggd": 3.2,
@@ -1609,7 +1635,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1124": {
   "backloggd": 3.7,
@@ -1618,7 +1644,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11254": {
   "backloggd": 2.6,
@@ -1640,7 +1666,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:112874": {
   "backloggd": 3.7,
@@ -1674,7 +1700,8 @@
   "checked": "2026-10-28T05:50:48+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:112916": {
   "backloggd": 3.4,
@@ -1705,7 +1732,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1131": {
   "backloggd": 2.9,
@@ -1713,7 +1740,8 @@
   "checked": "2026-11-02T08:59:03+00:00",
   "mc_v": 2,
   "metacritic": 98,
-  "metacritic_slug": "castlevania-legacy-of-darkness"
+  "metacritic_slug": "castlevania-legacy-of-darkness",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:113104": {
   "backloggd": 3.7,
@@ -1761,7 +1789,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "castlevania-circle-of-the-moon",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11326": {
   "backloggd": 3.6,
@@ -1779,7 +1807,7 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "castlevania-harmony-of-dissonance",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1134": {
   "backloggd": 4.3,
@@ -1788,7 +1816,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "castlevania-aria-of-sorrow",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:113431": {
   "backloggd": 3.9,
@@ -2062,7 +2090,8 @@
   "checked": "2026-11-02T09:59:55+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1161": {
   "backloggd": 3.5,
@@ -2086,7 +2115,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11617": {
   "backloggd": 3.1,
@@ -2137,7 +2166,8 @@
   "checked": "2026-11-02T10:00:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11639": {
   "backloggd": 3.3,
@@ -2212,7 +2242,8 @@
   "checked": "2026-10-29T22:15:42+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "meteos"
+  "metacritic_slug": "meteos",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:116586": {
   "backloggd": 2.2,
@@ -2334,7 +2365,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "onimusha-3-demon-siege",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11759": {
   "backloggd": 3.5,
@@ -2350,7 +2381,8 @@
   "checked": "2026-11-02T09:57:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:117717": {
   "backloggd": 3.6,
@@ -2392,7 +2424,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:117855": {
   "backloggd": 2.2,
@@ -2438,7 +2470,8 @@
   "checked": "2026-10-28T05:09:50+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "the-last-of-us-left-behind"
+  "metacritic_slug": "the-last-of-us-left-behind",
+  "oc_checked": "2026-11-02T21:17:11+00:00"
  },
  "igdb:11800": {
   "backloggd": 4.2,
@@ -2466,7 +2499,8 @@
   "checked": "2026-10-29T22:13:40+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "lufia-curse-of-the-sinistrals"
+  "metacritic_slug": "lufia-curse-of-the-sinistrals",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:11814": {
   "backloggd": 2.2,
@@ -2838,7 +2872,8 @@
   "checked": "2026-10-28T05:48:41+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:119930": {
   "backloggd": 2.0,
@@ -2860,7 +2895,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1202": {
   "backloggd": 3.7,
@@ -2925,7 +2960,8 @@
   "checked": "2026-10-29T22:31:52+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:121242": {
   "backloggd": 3.2,
@@ -2933,7 +2969,8 @@
   "checked": "2026-11-02T09:04:42+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:121247": {
   "backloggd": 3.3,
@@ -3106,7 +3143,7 @@
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "kingdom-hearts-chain-of-memories",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:122108": {
   "backloggd": 1.5,
@@ -3140,7 +3177,8 @@
   "checked": "2026-11-02T09:59:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1223": {
   "backloggd": 3.5,
@@ -3193,7 +3231,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:123251": {
   "backloggd": 2.8,
@@ -3352,7 +3390,8 @@
   "checked": "2026-11-02T09:57:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:125373": {
   "backloggd": 3.1,
@@ -3499,7 +3538,8 @@
   "checked": "2026-11-02T10:03:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:127044": {
   "backloggd": 3.9,
@@ -3608,7 +3648,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "guitar-hero",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1286": {
   "backloggd": 3.7,
@@ -3617,7 +3657,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "conkers-bad-fur-day",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:12868": {
   "backloggd": 2.8,
@@ -3625,7 +3665,8 @@
   "checked": "2026-11-02T10:06:48+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:128769": {
   "backloggd": 3.1,
@@ -3646,7 +3687,8 @@
   "checked": "2026-10-28T05:51:02+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "mario-tennis"
+  "metacritic_slug": "mario-tennis",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1289": {
   "backloggd": 3.8,
@@ -3723,7 +3765,8 @@
   "checked": "2026-11-02T10:06:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1307": {
   "backloggd": 3.6,
@@ -3732,7 +3775,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:131706": {
   "backloggd": 2.7,
@@ -3740,7 +3783,8 @@
   "checked": "2026-11-02T09:57:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:1318": {
   "backloggd": 3.8,
@@ -3828,7 +3872,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "turok-dinosaur-hunter",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:132109": {
   "backloggd": 3.5,
@@ -3836,7 +3880,8 @@
   "checked": "2026-10-29T22:15:30+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "mario-sonic-at-the-olympic-winter-games"
+  "metacritic_slug": "mario-sonic-at-the-olympic-winter-games",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:132164": {},
  "igdb:132165": {
@@ -3872,7 +3917,7 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "turok-2-seeds-of-evil",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1327": {
   "backloggd": 2.9,
@@ -3880,7 +3925,8 @@
   "checked": "2026-11-02T09:01:46+00:00",
   "mc_v": 2,
   "metacritic": 97,
-  "metacritic_slug": "turok-rage-wars"
+  "metacritic_slug": "turok-rage-wars",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1328": {
   "backloggd": 2.9,
@@ -3888,7 +3934,8 @@
   "checked": "2026-11-02T09:01:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:132956": {
   "backloggd": 1.7,
@@ -4003,7 +4050,8 @@
   "checked": "2026-11-02T08:52:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:133887": {
   "backloggd": 3.9,
@@ -4063,7 +4111,8 @@
   "checked": "2026-11-02T10:05:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1342": {
   "backloggd": 3.2,
@@ -4207,7 +4256,7 @@
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "xenogears",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:134602": {
   "backloggd": 3.7,
@@ -4311,7 +4360,8 @@
   "checked": "2026-10-28T05:50:58+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "mario-golf"
+  "metacritic_slug": "mario-golf",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1355": {
   "backloggd": 3.2,
@@ -4364,7 +4414,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:135915": {
   "backloggd": 3.9,
@@ -4525,7 +4575,7 @@
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "legend-of-legaia",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:137001": {
   "backloggd": 3.2,
@@ -4751,7 +4801,8 @@
   "checked": "2026-11-02T08:52:33+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "lunar-legend"
+  "metacritic_slug": "lunar-legend",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:139346": {
   "backloggd": 3.6,
@@ -4852,7 +4903,7 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "metal-slug-advance",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:140839": {
   "backloggd": 4.6,
@@ -5037,7 +5088,8 @@
   "checked": "2026-11-02T08:52:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:142549": {
   "backloggd": 3.6,
@@ -5172,7 +5224,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:143608": {
   "backloggd": 3.4,
@@ -5272,7 +5324,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1438": {
   "backloggd": 3.4,
@@ -5281,7 +5333,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14386": {
   "backloggd": 3.6,
@@ -5289,7 +5341,8 @@
   "checked": "2026-11-02T09:58:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:143882": {
   "backloggd": 2.8,
@@ -5395,7 +5448,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "fire-emblem-path-of-radiance",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14411": {
   "backloggd": 3.9,
@@ -5411,7 +5464,8 @@
   "checked": "2026-10-28T05:47:03+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:144153": {
   "backloggd": 2.8,
@@ -5450,7 +5504,8 @@
   "checked": "2026-11-02T10:03:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:144507": {
   "backloggd": 3.2,
@@ -5458,7 +5513,8 @@
   "checked": "2026-11-02T08:58:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:144651": {
   "backloggd": 4.1,
@@ -5466,7 +5522,8 @@
   "checked": "2026-11-02T09:54:05+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:145004": {
   "backloggd": 3.6,
@@ -5492,7 +5549,8 @@
   "checked": "2026-11-02T09:55:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:145017": {
   "backloggd": 3.5,
@@ -5552,7 +5610,8 @@
   "checked": "2026-11-02T08:51:59+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "jet-grind-radio"
+  "metacritic_slug": "jet-grind-radio",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14530": {
   "backloggd": 3.5,
@@ -5561,7 +5620,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14531": {
   "backloggd": 3.7,
@@ -5569,7 +5628,8 @@
   "checked": "2026-11-02T10:05:33+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:145319": {
   "backloggd": 3.0,
@@ -5603,7 +5663,8 @@
   "checked": "2026-11-02T09:54:12+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:145528": {
   "backloggd": 4.2,
@@ -5642,7 +5703,8 @@
   "checked": "2026-10-28T05:43:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14593": {
   "backloggd": 4.4,
@@ -5663,7 +5725,8 @@
   "checked": "2026-11-02T08:56:47+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:146058": {
   "backloggd": 3.0,
@@ -5671,7 +5734,8 @@
   "checked": "2026-11-02T08:56:50+00:00",
   "mc_v": 2,
   "metacritic": 47,
-  "metacritic_slug": "teenage-mutant-ninja-turtles-2-battle-nexus"
+  "metacritic_slug": "teenage-mutant-ninja-turtles-2-battle-nexus",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:1461": {
   "backloggd": 3.8,
@@ -5709,7 +5773,8 @@
   "checked": "2026-11-02T08:56:38+00:00",
   "mc_v": 2,
   "metacritic": 58,
-  "metacritic_slug": "tmnt"
+  "metacritic_slug": "tmnt",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:1463": {
   "backloggd": 3.9,
@@ -5718,7 +5783,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1467": {
   "backloggd": 4.0,
@@ -5726,7 +5791,8 @@
   "checked": "2026-11-01T00:33:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1469": {
   "backloggd": 3.4,
@@ -5734,7 +5800,8 @@
   "checked": "2026-11-01T00:40:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:146917": {
   "backloggd": 3.6,
@@ -5769,7 +5836,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1470": {
   "backloggd": 3.8,
@@ -5777,7 +5844,8 @@
   "checked": "2026-11-01T00:41:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14709": {
   "backloggd": 4.0,
@@ -5798,7 +5866,8 @@
   "checked": "2026-10-29T21:51:28+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "etrian-odyssey"
+  "metacritic_slug": "etrian-odyssey",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14717": {
   "backloggd": 3.5,
@@ -5806,7 +5875,8 @@
   "checked": "2026-10-29T21:51:53+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "etrian-odyssey-ii-heroes-of-lagaard"
+  "metacritic_slug": "etrian-odyssey-ii-heroes-of-lagaard",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14718": {
   "backloggd": 4.0,
@@ -5814,7 +5884,8 @@
   "checked": "2026-10-29T21:51:57+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "etrian-odyssey-iii-the-drowned-city"
+  "metacritic_slug": "etrian-odyssey-iii-the-drowned-city",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1474": {
   "backloggd": 3.4,
@@ -5822,7 +5893,8 @@
   "checked": "2026-11-02T08:58:14+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "zone-of-the-enders-the-fist-of-mars"
+  "metacritic_slug": "zone-of-the-enders-the-fist-of-mars",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:14741": {
   "backloggd": 4.2,
@@ -6020,7 +6092,8 @@
   "checked": "2026-11-02T09:55:03+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1499": {
   "backloggd": 3.9,
@@ -6028,7 +6101,8 @@
   "checked": "2026-11-02T09:55:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:150005": {
   "backloggd": 2.8,
@@ -6062,7 +6136,8 @@
   "checked": "2026-11-01T00:39:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:15073": {
   "backloggd": 3.1,
@@ -6070,7 +6145,8 @@
   "checked": "2026-11-01T00:38:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1512": {
   "backloggd": 3.7,
@@ -6110,7 +6186,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "pokemon-leafgreen-version",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:15167": {
   "backloggd": 3.7,
@@ -6156,7 +6232,8 @@
   "checked": "2026-10-28T05:49:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:152": {
   "backloggd": 3.8,
@@ -6396,7 +6473,8 @@
   "checked": "2026-11-02T09:57:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1526": {
   "backloggd": 3.7,
@@ -6404,7 +6482,8 @@
   "checked": "2026-10-29T22:32:02+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "trauma-center-under-the-knife-2"
+  "metacritic_slug": "trauma-center-under-the-knife-2",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1528": {
   "backloggd": 3.9,
@@ -6430,7 +6509,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1530": {
   "backloggd": 3.8,
@@ -6473,7 +6552,8 @@
   "checked": "2026-11-02T10:00:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1536": {
   "backloggd": 3.5,
@@ -6481,7 +6561,8 @@
   "checked": "2026-11-02T10:00:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:153700": {
   "backloggd": 4.3,
@@ -6502,7 +6583,8 @@
   "checked": "2026-11-02T10:03:34+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:1538": {
   "backloggd": 3.7,
@@ -6511,7 +6593,7 @@
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "wipeout-xl",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1539": {
   "backloggd": 2.8,
@@ -6519,7 +6601,8 @@
   "checked": "2026-11-02T09:02:00+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "wipeout-64"
+  "metacritic_slug": "wipeout-64",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:154": {
   "backloggd": 3.4,
@@ -6638,7 +6721,8 @@
   "checked": "2026-11-02T09:01:31+00:00",
   "mc_v": 2,
   "metacritic": 54,
-  "metacritic_slug": "star-wars-episode-i-battle-for-naboo"
+  "metacritic_slug": "star-wars-episode-i-battle-for-naboo",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1560": {
   "backloggd": 3.7,
@@ -6733,7 +6817,8 @@
   "checked": "2026-11-02T09:57:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:15843": {
   "backloggd": 3.5,
@@ -6741,7 +6826,8 @@
   "checked": "2026-11-02T09:04:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:15862": {
   "backloggd": 3.6,
@@ -6762,7 +6848,8 @@
   "checked": "2026-11-02T08:55:32+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "spyro-season-of-ice"
+  "metacritic_slug": "spyro-season-of-ice",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1588": {
   "backloggd": 2.9,
@@ -6770,7 +6857,8 @@
   "checked": "2026-11-02T08:55:36+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "spyro-2-season-of-flame"
+  "metacritic_slug": "spyro-2-season-of-flame",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1589": {
   "backloggd": 3.0,
@@ -6778,7 +6866,8 @@
   "checked": "2026-11-02T08:55:29+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "spyro-attack-of-the-rhynocs"
+  "metacritic_slug": "spyro-attack-of-the-rhynocs",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:158983": {
   "backloggd": 3.8,
@@ -6839,7 +6928,8 @@
   "checked": "2026-11-02T09:04:48+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:15934": {
   "backloggd": 3.3,
@@ -6857,7 +6947,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "gran-turismo",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1601": {
   "backloggd": 4.1,
@@ -6866,7 +6956,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "gran-turismo-4",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:16033": {
   "backloggd": 3.1,
@@ -6875,7 +6965,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:16035": {
   "backloggd": 2.8,
@@ -6884,7 +6974,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:16036": {
   "backloggd": 2.4,
@@ -6893,7 +6983,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1619": {
   "backloggd": 3.3,
@@ -6919,7 +7009,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1626": {
   "backloggd": 3.6,
@@ -6945,7 +7035,8 @@
   "checked": "2026-11-02T09:05:03+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:163": {
   "backloggd": 3.6,
@@ -6954,7 +7045,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "star-wars-rogue-squadron",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1638": {
   "backloggd": 3.7,
@@ -6972,7 +7063,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "star-wars-shadows-of-the-empire",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:16476": {
   "backloggd": 2.8,
@@ -6981,7 +7072,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:164867": {
   "backloggd": 3.9,
@@ -7003,7 +7094,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1653": {
   "backloggd": 4.0,
@@ -7012,7 +7103,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:165346": {
   "backloggd": 1.9,
@@ -7056,7 +7147,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:16617": {
   "backloggd": 4.1,
@@ -7082,7 +7173,8 @@
   "checked": "2026-11-02T08:51:24+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "final-fight-one"
+  "metacritic_slug": "final-fight-one",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:166824": {
   "backloggd": 3.4,
@@ -7190,7 +7282,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "advance-wars",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1692": {
   "backloggd": 4.1,
@@ -7199,7 +7291,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "advance-wars-2-black-hole-rising",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1693": {
   "backloggd": 3.9,
@@ -7225,7 +7317,8 @@
   "checked": "2026-11-01T00:42:50+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1698": {
   "backloggd": 3.6,
@@ -7301,7 +7394,7 @@
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "wario-world",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:17000": {
   "backloggd": 4.2,
@@ -7352,7 +7445,8 @@
   "checked": "2026-11-02T08:57:35+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "warioware-twisted"
+  "metacritic_slug": "warioware-twisted",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1705": {
   "backloggd": 3.8,
@@ -7369,7 +7463,8 @@
   "checked": "2026-10-29T22:32:08+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "warioware-d-i-y"
+  "metacritic_slug": "warioware-d-i-y",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1709": {
   "backloggd": 2.8,
@@ -7377,7 +7472,8 @@
   "checked": "2026-10-28T05:49:47+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:170995": {
   "backloggd": 3.9,
@@ -7393,7 +7489,8 @@
   "checked": "2026-10-28T05:39:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:171219": {
   "backloggd": 3.3,
@@ -7441,7 +7538,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:172201": {
   "backloggd": 2.6,
@@ -7468,7 +7565,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1727": {
   "backloggd": 3.4,
@@ -7476,7 +7573,8 @@
   "checked": "2026-11-01T00:38:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1730": {
   "backloggd": 2.0,
@@ -7484,7 +7582,8 @@
   "checked": "2026-11-02T09:58:02+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1733": {
   "backloggd": 2.4,
@@ -7492,7 +7591,8 @@
   "checked": "2026-10-28T05:51:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1734": {
   "backloggd": 2.6,
@@ -7500,7 +7600,8 @@
   "checked": "2026-10-28T05:51:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1735": {
   "backloggd": 2.8,
@@ -7508,7 +7609,8 @@
   "checked": "2026-10-28T05:51:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1736": {
   "backloggd": 3.3,
@@ -7516,7 +7618,8 @@
   "checked": "2026-10-28T05:51:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1737": {
   "backloggd": 3.7,
@@ -7524,7 +7627,8 @@
   "checked": "2026-10-28T05:51:25+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1741": {
   "backloggd": 4.2,
@@ -7533,7 +7637,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1742": {
   "backloggd": 3.8,
@@ -7542,7 +7646,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1743": {
   "backloggd": 3.4,
@@ -7551,7 +7655,7 @@
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "mega-man-x3",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:17447": {
   "backloggd": 4.2,
@@ -7572,7 +7676,8 @@
   "checked": "2026-10-29T21:47:23+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "dragon-quest-monsters-joker"
+  "metacritic_slug": "dragon-quest-monsters-joker",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:174910": {
   "backloggd": 3.6,
@@ -7580,7 +7685,8 @@
   "checked": "2026-11-02T10:00:01+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:1751": {
   "backloggd": 3.3,
@@ -7597,7 +7703,7 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "mega-man-battle-network",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1756": {
   "backloggd": 3.6,
@@ -7606,7 +7712,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "mega-man-battle-network-2",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1757": {
   "backloggd": 4.1,
@@ -7614,7 +7720,8 @@
   "checked": "2026-11-02T08:53:22+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "mega-man-battle-network-3-white"
+  "metacritic_slug": "mega-man-battle-network-3-white",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1758": {
   "backloggd": 4.0,
@@ -7622,7 +7729,8 @@
   "checked": "2026-11-02T08:53:19+00:00",
   "mc_v": 2,
   "metacritic": 96,
-  "metacritic_slug": "mega-man-battle-network-3-blue"
+  "metacritic_slug": "mega-man-battle-network-3-blue",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1759": {
   "backloggd": 2.9,
@@ -7630,7 +7738,8 @@
   "checked": "2026-11-02T08:53:28+00:00",
   "mc_v": 2,
   "metacritic": 68,
-  "metacritic_slug": "mega-man-battle-network-4-red-sun"
+  "metacritic_slug": "mega-man-battle-network-4-red-sun",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1760": {
   "backloggd": 3.0,
@@ -7638,7 +7747,8 @@
   "checked": "2026-11-02T08:53:26+00:00",
   "mc_v": 2,
   "metacritic": 67,
-  "metacritic_slug": "mega-man-battle-network-4-blue-moon"
+  "metacritic_slug": "mega-man-battle-network-4-blue-moon",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:176043": {
   "backloggd": 2.8,
@@ -7646,7 +7756,8 @@
   "checked": "2026-11-01T00:43:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:176044": {
   "backloggd": 3.8,
@@ -7654,7 +7765,8 @@
   "checked": "2026-11-01T00:43:14+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:18+00:00"
  },
  "igdb:1761": {
   "backloggd": 3.8,
@@ -7662,7 +7774,8 @@
   "checked": "2026-11-02T08:53:33+00:00",
   "mc_v": 2,
   "metacritic": 67,
-  "metacritic_slug": "mega-man-battle-network-5-team-protoman"
+  "metacritic_slug": "mega-man-battle-network-5-team-protoman",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1762": {
   "backloggd": 3.9,
@@ -7670,7 +7783,8 @@
   "checked": "2026-11-02T08:53:31+00:00",
   "mc_v": 2,
   "metacritic": 66,
-  "metacritic_slug": "mega-man-battle-network-5-team-colonel"
+  "metacritic_slug": "mega-man-battle-network-5-team-colonel",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1764": {
   "backloggd": 4.2,
@@ -7678,7 +7792,8 @@
   "checked": "2026-11-02T08:53:44+00:00",
   "mc_v": 2,
   "metacritic": 63,
-  "metacritic_slug": "mega-man-battle-network-6-cybeast-falzar"
+  "metacritic_slug": "mega-man-battle-network-6-cybeast-falzar",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1765": {
   "backloggd": 4.1,
@@ -7686,7 +7801,8 @@
   "checked": "2026-11-02T08:53:58+00:00",
   "mc_v": 2,
   "metacritic": 62,
-  "metacritic_slug": "mega-man-battle-network-6-cybeast-gregar"
+  "metacritic_slug": "mega-man-battle-network-6-cybeast-gregar",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1775": {
   "backloggd": 3.5,
@@ -7695,7 +7811,7 @@
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "mega-man-zero",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1776": {
   "backloggd": 3.8,
@@ -7704,7 +7820,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "mega-man-zero-2",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1777": {
   "backloggd": 4.3,
@@ -7713,7 +7829,7 @@
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "mega-man-zero-3",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1778": {
   "backloggd": 4.0,
@@ -7722,7 +7838,7 @@
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "mega-man-zero-4",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:178123": {
   "backloggd": 2.9,
@@ -7766,7 +7882,8 @@
   "checked": "2026-10-28T05:40:56+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:178211": {
   "backloggd": 3.1,
@@ -7900,7 +8017,8 @@
   "checked": "2026-11-02T10:03:02+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1801": {
   "backloggd": 3.4,
@@ -7979,7 +8097,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:1815": {
   "backloggd": 3.9,
@@ -8071,7 +8189,8 @@
   "checked": "2026-10-29T21:47:14+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "dragon-quest-heroes-rocket-slime"
+  "metacritic_slug": "dragon-quest-heroes-rocket-slime",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:18264": {
   "backloggd": 3.5,
@@ -8087,7 +8206,8 @@
   "checked": "2026-11-01T00:38:12+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:18303": {
   "backloggd": 3.0,
@@ -8156,7 +8276,8 @@
   "checked": "2026-10-28T05:48:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:18399": {
   "backloggd": 3.7,
@@ -8252,7 +8373,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:18577": {
   "backloggd": 2.9,
@@ -8291,7 +8412,8 @@
   "checked": "2026-11-02T08:59:13+00:00",
   "mc_v": 2,
   "metacritic": 98,
-  "metacritic_slug": "chameleon-twist-2"
+  "metacritic_slug": "chameleon-twist-2",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:186142": {
   "backloggd": 3.9,
@@ -8299,7 +8421,8 @@
   "checked": "2026-11-02T09:55:42+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:18618": {
   "backloggd": 3.8,
@@ -8307,7 +8430,8 @@
   "checked": "2026-11-02T10:04:18+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:18626": {
   "backloggd": 3.7,
@@ -8316,7 +8440,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:18628": {
   "backloggd": 2.6,
@@ -8324,7 +8448,8 @@
   "checked": "2026-11-02T09:58:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:186528": {
   "backloggd": 3.8,
@@ -8407,7 +8532,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:187562": {},
  "igdb:1876": {
@@ -8471,7 +8596,7 @@
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "indiana-jones-and-the-infernal-machine",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:188063": {
   "backloggd": 3.4,
@@ -8638,7 +8763,8 @@
   "checked": "2026-11-02T10:04:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:191406": {
   "backloggd": 4.6,
@@ -8953,7 +9079,8 @@
   "checked": "2026-11-01T00:38:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:19531": {
   "backloggd": 4.0,
@@ -9193,7 +9320,8 @@
   "checked": "2026-11-02T09:54:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:19712": {
   "backloggd": 3.8,
@@ -9201,7 +9329,8 @@
   "checked": "2026-11-02T09:59:29+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:19713": {
   "backloggd": 3.0,
@@ -9209,7 +9338,8 @@
   "checked": "2026-11-02T10:00:09+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:197779": {
   "backloggd": 3.9,
@@ -9224,7 +9354,8 @@
   "checked": "2026-11-02T09:54:54+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:19796": {
   "backloggd": 3.2,
@@ -9435,7 +9566,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20065": {
   "backloggd": 4.4,
@@ -9474,7 +9605,8 @@
   "checked": "2026-10-28T05:49:51+00:00",
   "mc_v": 2,
   "metacritic": 66,
-  "metacritic_slug": "alone-in-the-dark-the-new-nightmare"
+  "metacritic_slug": "alone-in-the-dark-the-new-nightmare",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20110": {
   "backloggd": 3.8,
@@ -9531,7 +9663,8 @@
   "checked": "2026-11-02T08:57:19+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "tony-hawks-underground-2"
+  "metacritic_slug": "tony-hawks-underground-2",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:20152": {
   "backloggd": 3.4,
@@ -9552,7 +9685,8 @@
   "checked": "2026-11-02T10:02:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:20192": {
   "backloggd": 4.0,
@@ -9561,7 +9695,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:201963": {
   "backloggd": 3.3,
@@ -9640,7 +9774,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20308": {
   "backloggd": 2.4,
@@ -9722,7 +9856,8 @@
   "checked": "2026-11-02T09:55:55+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20381": {
   "backloggd": 2.7,
@@ -9730,7 +9865,8 @@
   "checked": "2026-11-01T00:42:30+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20382": {
   "backloggd": 1.8,
@@ -9738,7 +9874,8 @@
   "checked": "2026-11-01T00:42:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20383": {
   "backloggd": 3.0,
@@ -9746,7 +9883,8 @@
   "checked": "2026-11-01T00:42:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20384": {
   "backloggd": 3.3,
@@ -9754,7 +9892,8 @@
   "checked": "2026-11-01T00:43:01+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20385": {
   "backloggd": 2.5,
@@ -9762,7 +9901,8 @@
   "checked": "2026-11-01T00:42:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20386": {
   "backloggd": 2.2,
@@ -9770,7 +9910,8 @@
   "checked": "2026-11-01T00:42:55+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20398": {
   "backloggd": 4.5,
@@ -9826,7 +9967,8 @@
   "checked": "2026-10-28T11:47:30+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:204408": {
   "backloggd": 2.4,
@@ -9860,7 +10002,8 @@
   "checked": "2026-11-02T10:06:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:204618": {
   "backloggd": 3.1,
@@ -9951,7 +10094,8 @@
   "checked": "2026-11-02T09:54:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:205780": {
   "backloggd": 2.8,
@@ -9981,7 +10125,8 @@
   "checked": "2026-10-29T21:44:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20585": {
   "backloggd": 3.1,
@@ -9998,7 +10143,8 @@
   "checked": "2026-11-02T08:50:54+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "final-fantasy-v-advance"
+  "metacritic_slug": "final-fantasy-v-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:205980": {
   "backloggd": 3.3,
@@ -10006,7 +10152,8 @@
   "checked": "2026-11-02T08:57:33+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:20600": {
   "backloggd": 3.1,
@@ -10031,7 +10178,8 @@
   "checked": "2026-10-29T21:34:31+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "aliens-infestation"
+  "metacritic_slug": "aliens-infestation",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20609": {
   "backloggd": 3.3,
@@ -10039,7 +10187,8 @@
   "checked": "2026-10-29T21:44:47+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "digimon-world-ds"
+  "metacritic_slug": "digimon-world-ds",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20612": {
   "backloggd": 3.4,
@@ -10047,7 +10196,8 @@
   "checked": "2026-10-29T21:38:26+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "bomberman-land-touch"
+  "metacritic_slug": "bomberman-land-touch",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:206188": {
   "backloggd": 2.4,
@@ -10087,7 +10237,8 @@
   "checked": "2026-11-02T08:49:36+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "broken-sword-the-shadow-of-the-templars"
+  "metacritic_slug": "broken-sword-the-shadow-of-the-templars",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20655": {
   "backloggd": 4.4,
@@ -10095,7 +10246,8 @@
   "checked": "2026-11-02T08:51:20+00:00",
   "mc_v": 2,
   "metacritic": 92,
-  "metacritic_slug": "final-fantasy-vi-advance"
+  "metacritic_slug": "final-fantasy-vi-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:206811": {
   "backloggd": 3.3,
@@ -10187,7 +10339,8 @@
   "checked": "2026-10-29T22:27:08+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "rune-factory-a-fantasy-harvest-moon"
+  "metacritic_slug": "rune-factory-a-fantasy-harvest-moon",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20768": {
   "backloggd": 3.3,
@@ -10195,7 +10348,8 @@
   "checked": "2026-10-29T22:27:10+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "rune-factory-2-a-fantasy-harvest-moon"
+  "metacritic_slug": "rune-factory-2-a-fantasy-harvest-moon",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:20790": {
   "backloggd": 2.6,
@@ -10203,7 +10357,8 @@
   "checked": "2026-11-01T00:42:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20792": {
   "backloggd": 2.3,
@@ -10211,7 +10366,8 @@
   "checked": "2026-11-01T00:43:04+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20839": {
   "backloggd": 3.2,
@@ -10271,7 +10427,8 @@
   "checked": "2026-11-01T00:42:42+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20985": {
   "backloggd": 3.0,
@@ -10279,7 +10436,8 @@
   "checked": "2026-11-01T00:43:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20986": {
   "backloggd": 2.8,
@@ -10287,7 +10445,8 @@
   "checked": "2026-11-01T00:43:09+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20988": {
   "backloggd": 2.4,
@@ -10295,7 +10454,8 @@
   "checked": "2026-11-01T00:43:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:20992": {
   "backloggd": 2.9,
@@ -10303,7 +10463,8 @@
   "checked": "2026-10-29T22:18:16+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "nanostray-2"
+  "metacritic_slug": "nanostray-2",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21": {
   "backloggd": 3.8,
@@ -10343,7 +10504,8 @@
   "checked": "2026-11-02T08:50:06+00:00",
   "mc_v": 2,
   "metacritic": 69,
-  "metacritic_slug": "crash-nitro-kart"
+  "metacritic_slug": "crash-nitro-kart",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:210430": {
   "backloggd": 3.3,
@@ -10351,7 +10513,8 @@
   "checked": "2026-11-02T08:57:15+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "tony-hawks-underground"
+  "metacritic_slug": "tony-hawks-underground",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:210434": {
   "backloggd": 2.7,
@@ -10359,7 +10522,8 @@
   "checked": "2026-11-02T08:57:09+00:00",
   "mc_v": 2,
   "metacritic": 94,
-  "metacritic_slug": "tony-hawks-pro-skater-4"
+  "metacritic_slug": "tony-hawks-pro-skater-4",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:210484": {
   "backloggd": 3.4,
@@ -10384,7 +10548,8 @@
   "checked": "2026-10-29T22:31:44+00:00",
   "mc_v": 2,
   "metacritic": 65,
-  "metacritic_slug": "super-dodgeball-brawlers"
+  "metacritic_slug": "super-dodgeball-brawlers",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21056": {
   "backloggd": 3.5,
@@ -10392,7 +10557,8 @@
   "checked": "2026-10-29T21:44:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21063": {
   "backloggd": 1.9,
@@ -10442,7 +10608,8 @@
   "checked": "2026-11-02T08:49:16+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "alien-hominid"
+  "metacritic_slug": "alien-hominid",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:21074": {
   "backloggd": 3.4,
@@ -10450,7 +10617,8 @@
   "checked": "2026-11-02T10:02:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21093": {
   "backloggd": 3.1,
@@ -10458,7 +10626,8 @@
   "checked": "2026-10-29T22:15:37+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "mario-vs-donkey-kong-mini-land-mayhem"
+  "metacritic_slug": "mario-vs-donkey-kong-mini-land-mayhem",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:211243": {},
  "igdb:2113": {
@@ -10506,7 +10675,8 @@
   "checked": "2026-10-29T21:38:20+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "avalon-code"
+  "metacritic_slug": "avalon-code",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21238": {
   "backloggd": 2.8,
@@ -10523,7 +10693,8 @@
   "checked": "2026-10-29T22:27:00+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21257": {
   "backloggd": 3.4,
@@ -10531,7 +10702,8 @@
   "checked": "2026-10-29T22:22:35+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "peggle-dual-shot"
+  "metacritic_slug": "peggle-dual-shot",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2126": {
   "backloggd": 4.0,
@@ -10565,7 +10737,8 @@
   "checked": "2026-10-29T21:38:22+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "bangai-o-spirits"
+  "metacritic_slug": "bangai-o-spirits",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21307": {
   "backloggd": 3.3,
@@ -10573,7 +10746,8 @@
   "checked": "2026-10-29T21:44:21+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "chibi-robo-park-patrol"
+  "metacritic_slug": "chibi-robo-park-patrol",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:213191": {
   "backloggd": 3.1,
@@ -10581,7 +10755,8 @@
   "checked": "2026-10-28T05:37:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:213237": {
   "backloggd": 3.0,
@@ -10602,7 +10777,8 @@
   "checked": "2026-10-29T22:32:06+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "viva-pinata-pocket-paradise"
+  "metacritic_slug": "viva-pinata-pocket-paradise",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:213570": {
   "backloggd": 3.5,
@@ -10610,7 +10786,8 @@
   "checked": "2026-11-02T10:05:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21370": {
   "backloggd": 3.2,
@@ -10618,7 +10795,8 @@
   "checked": "2026-10-29T22:31:42+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "soul-bubbles"
+  "metacritic_slug": "soul-bubbles",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:213880": {
   "backloggd": 3.0,
@@ -10626,7 +10804,8 @@
   "checked": "2026-10-28T05:46:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:214135": {
   "backloggd": 3.0,
@@ -10668,7 +10847,8 @@
   "checked": "2026-10-29T22:18:11+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "nanostray"
+  "metacritic_slug": "nanostray",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:214402": {
   "backloggd": 3.2,
@@ -10689,7 +10869,8 @@
   "checked": "2026-10-28T05:41:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21466": {
   "backloggd": 3.3,
@@ -10697,7 +10878,8 @@
   "checked": "2026-10-29T22:18:21+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "ninja-gaiden-dragon-sword"
+  "metacritic_slug": "ninja-gaiden-dragon-sword",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2148": {
   "backloggd": 4.1,
@@ -10837,7 +11019,8 @@
   "checked": "2026-10-29T21:47:27+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "dragon-quest-monsters-joker-2"
+  "metacritic_slug": "dragon-quest-monsters-joker-2",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:217311": {
   "backloggd": 3.2,
@@ -11021,7 +11204,8 @@
   "checked": "2026-10-29T22:18:04+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:21904": {
   "backloggd": 3.1,
@@ -11029,7 +11213,8 @@
   "checked": "2026-10-29T22:18:27+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:219058": {
   "backloggd": 3.5,
@@ -11037,7 +11222,8 @@
   "checked": "2026-11-02T08:55:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:21911": {
   "backloggd": 3.6,
@@ -11104,7 +11290,8 @@
   "checked": "2026-11-02T08:54:52+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "rayman-advance"
+  "metacritic_slug": "rayman-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:222341": {
   "backloggd": 4.4,
@@ -11176,14 +11363,16 @@
   "checked": "2026-11-02T10:01:41+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:224023": {
   "bl_v": 2,
   "checked": "2026-11-02T09:57:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:224413": {
   "backloggd": 3.0,
@@ -11223,7 +11412,8 @@
   "checked": "2026-11-01T00:41:22+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "dr-mario-puzzle-league"
+  "metacritic_slug": "dr-mario-puzzle-league",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:225566": {
   "backloggd": 2.3,
@@ -11231,7 +11421,8 @@
   "checked": "2026-11-01T00:39:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2256": {
   "backloggd": 3.7,
@@ -11240,7 +11431,7 @@
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "super-mario-strikers",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:22565": {
   "backloggd": 3.1,
@@ -11283,7 +11474,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:22788": {
   "backloggd": 3.9,
@@ -11304,7 +11495,8 @@
   "checked": "2026-11-01T00:41:51+00:00",
   "mc_v": 2,
   "metacritic": 93,
-  "metacritic_slug": "soulcalibur-ii"
+  "metacritic_slug": "soulcalibur-ii",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:228531": {
   "backloggd": 2.6,
@@ -11378,7 +11570,7 @@
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "pokemon-stadium-2",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:229123": {
   "backloggd": 3.9,
@@ -11427,7 +11619,8 @@
   "checked": "2026-10-29T22:11:41+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "last-window-the-secret-of-cape-west"
+  "metacritic_slug": "last-window-the-secret-of-cape-west",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:22976": {
   "backloggd": 2.9,
@@ -11456,7 +11649,8 @@
   "checked": "2026-11-02T08:57:01+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "tony-hawks-pro-skater-2"
+  "metacritic_slug": "tony-hawks-pro-skater-2",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:23055": {
   "backloggd": 3.5,
@@ -11472,7 +11666,8 @@
   "checked": "2026-11-02T09:04:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:23093": {
   "backloggd": 3.5,
@@ -11480,7 +11675,8 @@
   "checked": "2026-10-29T22:22:48+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "planet-puzzle-league"
+  "metacritic_slug": "planet-puzzle-league",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:231": {
   "backloggd": 4.1,
@@ -11596,7 +11792,7 @@
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "pokemon-snap",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:23248": {
   "backloggd": 3.8,
@@ -11637,7 +11833,7 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "mario-party",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2328": {
   "backloggd": 3.8,
@@ -11646,7 +11842,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "mario-party-2",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2329": {
   "backloggd": 3.7,
@@ -11655,7 +11851,7 @@
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "mario-party-3",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:233": {
   "backloggd": 4.4,
@@ -11771,7 +11967,7 @@
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "mario-kart-super-circuit",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2344": {
   "backloggd": 4.0,
@@ -11799,7 +11995,8 @@
   "checked": "2026-11-02T08:54:15+00:00",
   "mc_v": 2,
   "metacritic": 69,
-  "metacritic_slug": "motocross-maniacs-advance"
+  "metacritic_slug": "motocross-maniacs-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:234858": {
   "backloggd": 3.4,
@@ -11807,7 +12004,8 @@
   "checked": "2026-11-02T08:57:03+00:00",
   "mc_v": 2,
   "metacritic": 97,
-  "metacritic_slug": "tony-hawks-pro-skater-3"
+  "metacritic_slug": "tony-hawks-pro-skater-3",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:2349": {
   "backloggd": 3.6,
@@ -11887,7 +12085,8 @@
   "checked": "2026-10-28T05:47:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:23879": {
   "backloggd": 3.8,
@@ -11895,7 +12094,8 @@
   "checked": "2026-11-02T10:02:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:238884": {
   "backloggd": 4.1,
@@ -12015,7 +12215,8 @@
   "checked": "2026-11-02T08:54:59+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "river-city-ransom-ex"
+  "metacritic_slug": "river-city-ransom-ex",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:241492": {
   "backloggd": 3.7,
@@ -12058,7 +12259,8 @@
   "checked": "2026-11-02T09:59:14+00:00",
   "mc_v": 2,
   "metacritic": 93,
-  "metacritic_slug": "mortal-kombat"
+  "metacritic_slug": "mortal-kombat",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:242307": {},
  "igdb:242358": {},
@@ -12087,7 +12289,8 @@
   "checked": "2026-11-02T08:57:28+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "v-rally-3"
+  "metacritic_slug": "v-rally-3",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:243129": {
   "backloggd": 3.2,
@@ -12104,7 +12307,8 @@
   "checked": "2026-11-02T10:03:39+00:00",
   "mc_v": 2,
   "metacritic": 93,
-  "metacritic_slug": "street-fighter-alpha-2"
+  "metacritic_slug": "street-fighter-alpha-2",
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:243749": {
   "backloggd": 2.8,
@@ -12153,7 +12357,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2476": {
   "backloggd": 3.5,
@@ -12171,7 +12375,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2485": {
   "backloggd": 4.0,
@@ -12204,7 +12408,8 @@
   "checked": "2026-11-02T08:57:39+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "wing-commander-prophecy"
+  "metacritic_slug": "wing-commander-prophecy",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:24869": {
   "backloggd": 4.3,
@@ -12219,7 +12424,8 @@
   "checked": "2026-11-02T08:55:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:24881": {
   "backloggd": 3.3,
@@ -12253,7 +12459,8 @@
   "checked": "2026-11-02T09:00:44+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "ready-2-rumble-boxing-round-2"
+  "metacritic_slug": "ready-2-rumble-boxing-round-2",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:24962": {
   "backloggd": 2.6,
@@ -12649,7 +12856,8 @@
   "checked": "2026-11-02T09:05:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2552": {
   "backloggd": 3.4,
@@ -12670,7 +12878,8 @@
   "checked": "2026-11-02T09:05:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:25599": {
   "backloggd": 3.7,
@@ -12775,7 +12984,7 @@
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "star-fox-64",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:25912": {
   "backloggd": 2.6,
@@ -12783,7 +12992,8 @@
   "checked": "2026-11-02T09:53:52+00:00",
   "mc_v": 2,
   "metacritic": 54,
-  "metacritic_slug": "disneys-lilo-and-stitch"
+  "metacritic_slug": "disneys-lilo-and-stitch",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:259206": {
   "backloggd": 3.0,
@@ -12804,7 +13014,8 @@
   "checked": "2026-10-28T05:51:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:260": {
   "backloggd": 3.7,
@@ -12904,7 +13115,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:26226": {
   "backloggd": 4.3,
@@ -12947,7 +13158,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:26231": {
   "backloggd": 2.1,
@@ -13049,7 +13260,8 @@
   "checked": "2026-11-02T09:00:56+00:00",
   "mc_v": 2,
   "metacritic": 98,
-  "metacritic_slug": "rocket-robot-on-wheels"
+  "metacritic_slug": "rocket-robot-on-wheels",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:264412": {
   "backloggd": 3.4,
@@ -13146,7 +13358,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "guitar-hero-ii",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:267775": {
   "backloggd": 3.3,
@@ -13202,7 +13414,7 @@
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "star-fox-adventures",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2687": {
   "backloggd": 4.1,
@@ -13276,7 +13488,8 @@
   "checked": "2026-11-02T08:58:46+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "beetle-adventure-racing"
+  "metacritic_slug": "beetle-adventure-racing",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2721": {
   "backloggd": 3.6,
@@ -13294,7 +13507,7 @@
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "diddy-kong-racing",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2724": {
   "backloggd": 3.8,
@@ -13303,7 +13516,7 @@
   "mc_v": 2,
   "metacritic": 64,
   "metacritic_slug": "pokemon-xd-gale-of-darkness",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2725": {
   "backloggd": 3.6,
@@ -13312,7 +13525,7 @@
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "pokemon-colosseum",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:272549": {},
  "igdb:272551": {},
@@ -13361,7 +13574,8 @@
   "checked": "2026-11-02T09:55:18+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:27304": {
   "backloggd": 4.2,
@@ -13436,7 +13650,8 @@
   "checked": "2026-10-28T05:42:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2738": {
   "backloggd": 3.8,
@@ -13454,7 +13669,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:274081": {
   "backloggd": 1.6,
@@ -13462,7 +13677,8 @@
   "checked": "2026-10-28T05:44:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:27419": {
   "backloggd": 2.1,
@@ -13497,7 +13713,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2750": {
   "backloggd": 3.4,
@@ -13539,7 +13755,8 @@
   "checked": "2026-11-01T00:39:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:276081": {
   "backloggd": 3.8,
@@ -13547,7 +13764,8 @@
   "checked": "2026-11-02T10:03:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:27729": {
   "backloggd": 3.2,
@@ -13750,7 +13968,8 @@
   "checked": "2026-10-29T22:18:23+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "ninjatown"
+  "metacritic_slug": "ninjatown",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:282650": {
   "backloggd": 2.8,
@@ -13758,7 +13977,8 @@
   "checked": "2026-10-28T05:39:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:283024": {},
  "igdb:28386": {
@@ -13767,7 +13987,8 @@
   "checked": "2026-11-02T10:06:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:28388": {
   "backloggd": 3.4,
@@ -13775,7 +13996,8 @@
   "checked": "2026-11-02T09:05:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:28389": {
   "backloggd": 3.1,
@@ -13783,7 +14005,8 @@
   "checked": "2026-11-02T10:00:14+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:28391": {
   "backloggd": 3.6,
@@ -13844,7 +14067,8 @@
   "checked": "2026-10-28T05:45:09+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2852": {
   "backloggd": 3.1,
@@ -13873,7 +14097,8 @@
   "checked": "2026-11-02T10:01:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:28552": {
   "backloggd": 3.3,
@@ -13894,7 +14119,8 @@
   "checked": "2026-10-28T05:38:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:286608": {
   "backloggd": 2.8,
@@ -13902,7 +14128,8 @@
   "checked": "2026-10-28T05:38:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:28723": {
   "backloggd": 3.7,
@@ -13990,7 +14217,8 @@
   "checked": "2026-10-28T05:40:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:288845": {
   "backloggd": 2.5,
@@ -13998,7 +14226,8 @@
   "checked": "2026-10-28T05:42:48+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:289593": {
   "backloggd": 3.4,
@@ -14184,7 +14413,8 @@
   "checked": "2026-10-28T05:03:40+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "crysis"
+  "metacritic_slug": "crysis",
+  "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:2963": {
   "backloggd": 3.0,
@@ -14235,7 +14465,7 @@
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "the-lord-of-the-rings-the-return-of-the-king",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:2985": {
   "backloggd": 4.3,
@@ -14297,7 +14527,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:301722": {},
  "igdb:30208": {
@@ -14354,7 +14584,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:304144": {},
  "igdb:3042": {
@@ -14431,7 +14661,8 @@
   "checked": "2026-11-02T09:05:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:305475": {},
  "igdb:305477": {},
@@ -14466,7 +14697,8 @@
   "checked": "2026-11-01T00:37:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3060": {
   "backloggd": 3.4,
@@ -14518,7 +14750,8 @@
   "checked": "2026-10-29T21:44:33+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "cooking-mama-2-dinner-with-friends"
+  "metacritic_slug": "cooking-mama-2-dinner-with-friends",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3065": {
   "backloggd": 3.6,
@@ -14526,7 +14759,8 @@
   "checked": "2026-10-29T21:44:37+00:00",
   "mc_v": 2,
   "metacritic": 65,
-  "metacritic_slug": "cooking-mama-3-shop-chop"
+  "metacritic_slug": "cooking-mama-3-shop-chop",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:306822": {
   "backloggd": 3.3,
@@ -14547,7 +14781,8 @@
   "checked": "2026-11-02T09:03:41+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:3071": {
   "backloggd": 3.3,
@@ -14556,7 +14791,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:307119": {
   "backloggd": 2.5,
@@ -14564,7 +14799,8 @@
   "checked": "2026-10-28T05:49:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:308038": {},
  "igdb:308039": {},
@@ -14629,7 +14865,8 @@
   "checked": "2026-10-28T05:41:27+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:313595": {
   "backloggd": 3.9,
@@ -14747,7 +14984,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:317376": {},
  "igdb:317407": {
@@ -14818,7 +15055,8 @@
   "checked": "2026-11-01T00:37:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3197": {
   "backloggd": 4.0,
@@ -14827,7 +15065,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:320": {
   "backloggd": 3.9,
@@ -14894,7 +15132,7 @@
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "yoshis-story",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3216": {
   "backloggd": 3.5,
@@ -14903,7 +15141,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:322188": {
   "backloggd": 3.9,
@@ -14911,7 +15149,8 @@
   "checked": "2026-11-02T10:04:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3225": {
   "backloggd": 3.4,
@@ -14955,7 +15194,8 @@
   "checked": "2026-10-28T05:48:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:324159": {
   "backloggd": 3.7,
@@ -14963,7 +15203,8 @@
   "checked": "2026-11-02T09:56:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:325150": {},
  "igdb:325157": {},
@@ -15005,7 +15246,8 @@
   "checked": "2026-10-28T05:43:45+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:3270": {
   "backloggd": 3.3,
@@ -15022,7 +15264,8 @@
   "checked": "2026-11-01T00:36:21+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "forsaken-64"
+  "metacritic_slug": "forsaken-64",
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:328079": {
   "backloggd": 3.1,
@@ -15043,7 +15286,8 @@
   "checked": "2026-11-02T09:58:50+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3288": {
   "backloggd": 3.4,
@@ -15051,7 +15295,8 @@
   "checked": "2026-11-02T09:58:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:329026": {},
  "igdb:329195": {},
@@ -15063,7 +15308,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:331203": {
   "backloggd": 3.4,
@@ -15103,7 +15348,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3327": {
   "backloggd": 3.3,
@@ -15112,7 +15357,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3328": {
   "backloggd": 3.2,
@@ -15130,7 +15375,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "vigilante-8",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3333": {
   "backloggd": 3.7,
@@ -15139,7 +15384,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "vigilante-8-2nd-offense",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3336": {
   "backloggd": 2.9,
@@ -15147,7 +15392,8 @@
   "checked": "2026-11-02T08:59:45+00:00",
   "mc_v": 2,
   "metacritic": 69,
-  "metacritic_slug": "duck-dodgers-starring-daffy-duck"
+  "metacritic_slug": "duck-dodgers-starring-daffy-duck",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:333600": {
   "backloggd": 2.9,
@@ -15168,7 +15414,8 @@
   "checked": "2026-11-01T00:35:04+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "excitebike-64"
+  "metacritic_slug": "excitebike-64",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3339": {
   "backloggd": 3.4,
@@ -15176,7 +15423,8 @@
   "checked": "2026-11-02T09:01:42+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "the-new-tetris"
+  "metacritic_slug": "the-new-tetris",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3340": {
   "backloggd": 4.1,
@@ -15185,7 +15433,7 @@
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "paper-mario",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3342": {
   "backloggd": 3.4,
@@ -15193,7 +15441,8 @@
   "checked": "2026-11-02T09:01:02+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3343": {
   "backloggd": 3.8,
@@ -15201,7 +15450,8 @@
   "checked": "2026-11-02T09:01:04+00:00",
   "mc_v": 2,
   "metacritic": 93,
-  "metacritic_slug": "snowboard-kids-2"
+  "metacritic_slug": "snowboard-kids-2",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3344": {
   "backloggd": 3.0,
@@ -15209,7 +15459,8 @@
   "checked": "2026-11-02T10:04:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3348": {
   "backloggd": 2.6,
@@ -15217,7 +15468,8 @@
   "checked": "2026-11-02T08:59:52+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:335050": {},
  "igdb:3351": {
@@ -15227,7 +15479,7 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "mario-luigi-superstar-saga",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:335254": {
   "backloggd": 3.0,
@@ -15248,7 +15500,8 @@
   "checked": "2026-11-02T09:55:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:3363": {
   "backloggd": 4.2,
@@ -15301,7 +15554,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "hydro-thunder",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3376": {
   "backloggd": 3.5,
@@ -15332,7 +15585,7 @@
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "harvest-moon-64",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3380": {
   "backloggd": 4.1,
@@ -15375,7 +15628,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "harvest-moon-friends-of-mineral-town",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3385": {
   "backloggd": 3.5,
@@ -15392,7 +15645,8 @@
   "checked": "2026-10-29T21:54:49+00:00",
   "mc_v": 2,
   "metacritic": 63,
-  "metacritic_slug": "harvest-moon-the-tale-of-two-towns"
+  "metacritic_slug": "harvest-moon-the-tale-of-two-towns",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3394": {
   "backloggd": 2.3,
@@ -15400,7 +15654,8 @@
   "checked": "2026-11-01T00:35:58+00:00",
   "mc_v": 2,
   "metacritic": 92,
-  "metacritic_slug": "iggys-reckin-balls"
+  "metacritic_slug": "iggys-reckin-balls",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3398": {
   "backloggd": 3.5,
@@ -15408,7 +15663,8 @@
   "checked": "2026-11-02T09:00:10+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "magical-tetris-challenge"
+  "metacritic_slug": "magical-tetris-challenge",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:3399": {
   "backloggd": 2.3,
@@ -15425,7 +15681,8 @@
   "checked": "2026-10-28T05:38:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3401": {
   "backloggd": 3.2,
@@ -15434,7 +15691,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "mario-golf",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:340383": {},
  "igdb:3404": {
@@ -15443,7 +15700,8 @@
   "checked": "2026-11-02T08:52:41+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "mario-golf-advance-tour"
+  "metacritic_slug": "mario-golf-advance-tour",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3406": {
   "backloggd": 3.5,
@@ -15452,7 +15710,7 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "mario-tennis",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:341": {
   "backloggd": 3.1,
@@ -15461,7 +15719,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3412": {
   "backloggd": 3.8,
@@ -15470,7 +15728,7 @@
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "mischief-makers",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:341417": {
   "backloggd": 3.9,
@@ -15478,7 +15736,8 @@
   "checked": "2026-11-02T10:00:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:3418": {
   "backloggd": 3.8,
@@ -15513,7 +15772,7 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "blast-corps",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3426": {
   "backloggd": 2.9,
@@ -15521,7 +15780,8 @@
   "checked": "2026-11-02T08:58:50+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "body-harvest"
+  "metacritic_slug": "body-harvest",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3427": {
   "backloggd": 2.9,
@@ -15529,7 +15789,8 @@
   "checked": "2026-11-02T08:59:07+00:00",
   "mc_v": 2,
   "metacritic": 98,
-  "metacritic_slug": "chameleon-twist"
+  "metacritic_slug": "chameleon-twist",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:34293": {
   "backloggd": 4.1,
@@ -15575,7 +15836,8 @@
   "checked": "2026-11-02T09:59:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:343450": {
   "backloggd": 3.8,
@@ -15593,7 +15855,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3451": {
   "backloggd": 3.3,
@@ -15602,7 +15864,7 @@
   "mc_v": 2,
   "metacritic": 98,
   "metacritic_slug": "bomberman-64",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3452": {
   "backloggd": 3.6,
@@ -15610,7 +15872,8 @@
   "checked": "2026-11-02T08:58:57+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "bomberman-64-the-second-attack"
+  "metacritic_slug": "bomberman-64-the-second-attack",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:345758": {
   "bl_v": 2,
@@ -15638,7 +15901,8 @@
   "checked": "2026-11-02T08:59:30+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3463": {
   "backloggd": 3.7,
@@ -15646,7 +15910,8 @@
   "checked": "2026-11-02T08:59:33+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:3470": {
   "backloggd": 2.9,
@@ -15654,7 +15919,8 @@
   "checked": "2026-11-02T08:59:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:3471": {
   "backloggd": 3.5,
@@ -15688,7 +15954,8 @@
   "checked": "2026-11-01T00:33:44+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "dr-mario-64"
+  "metacritic_slug": "dr-mario-64",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3476": {
   "backloggd": 3.1,
@@ -15706,7 +15973,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3485": {
   "backloggd": 3.0,
@@ -15714,7 +15981,8 @@
   "checked": "2026-11-01T00:35:31+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "extreme-g"
+  "metacritic_slug": "extreme-g",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3486": {
   "backloggd": 3.1,
@@ -15722,7 +15990,8 @@
   "checked": "2026-11-02T08:59:47+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3489": {
   "backloggd": 3.9,
@@ -15748,7 +16017,8 @@
   "checked": "2026-11-01T00:40:57+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "f-zero-maximum-velocity"
+  "metacritic_slug": "f-zero-maximum-velocity",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3492": {
   "backloggd": 4.2,
@@ -15757,7 +16027,7 @@
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "f-zero-gx",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3493": {
   "backloggd": 3.5,
@@ -15816,7 +16086,8 @@
   "checked": "2026-10-28T05:49:24+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "romance-of-the-three-kingdoms-iv-wall-of-fire"
+  "metacritic_slug": "romance-of-the-three-kingdoms-iv-wall-of-fire",
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:3508": {
   "backloggd": 3.8,
@@ -15824,7 +16095,8 @@
   "checked": "2026-11-02T08:59:55+00:00",
   "mc_v": 2,
   "metacritic": 95,
-  "metacritic_slug": "goemons-great-adventure"
+  "metacritic_slug": "goemons-great-adventure",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:350836": {},
  "igdb:3513": {
@@ -15833,7 +16105,8 @@
   "checked": "2026-11-02T08:59:58+00:00",
   "mc_v": 2,
   "metacritic": 96,
-  "metacritic_slug": "hybrid-heaven"
+  "metacritic_slug": "hybrid-heaven",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:351909": {},
  "igdb:35282": {
@@ -15855,7 +16128,8 @@
   "checked": "2026-11-02T09:00:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:3535": {
   "backloggd": 2.5,
@@ -15863,7 +16137,8 @@
   "checked": "2026-11-02T09:00:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3545": {
   "backloggd": 3.8,
@@ -15871,7 +16146,8 @@
   "checked": "2026-11-02T09:00:27+00:00",
   "mc_v": 2,
   "metacritic": 67,
-  "metacritic_slug": "mystical-ninja-starring-goemon"
+  "metacritic_slug": "mystical-ninja-starring-goemon",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:355843": {
   "backloggd": 3.4,
@@ -15879,7 +16155,8 @@
   "checked": "2026-11-02T10:02:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:3568": {
   "backloggd": 3.9,
@@ -15887,7 +16164,8 @@
   "checked": "2026-11-02T09:00:30+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3573": {
   "backloggd": 3.1,
@@ -15922,7 +16200,8 @@
   "checked": "2026-11-02T09:00:32+00:00",
   "mc_v": 2,
   "metacritic": 95,
-  "metacritic_slug": "quest-64"
+  "metacritic_slug": "quest-64",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3581": {
   "backloggd": 3.2,
@@ -15930,7 +16209,8 @@
   "checked": "2026-11-02T09:00:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3586": {
   "backloggd": 2.9,
@@ -15938,7 +16218,8 @@
   "checked": "2026-11-02T09:00:38+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "ready-2-rumble-boxing"
+  "metacritic_slug": "ready-2-rumble-boxing",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3588": {
   "backloggd": 3.1,
@@ -15946,7 +16227,8 @@
   "checked": "2026-11-01T00:36:17+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "ridge-racer-64"
+  "metacritic_slug": "ridge-racer-64",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:359": {
   "backloggd": 3.5,
@@ -15967,7 +16249,8 @@
   "checked": "2026-11-02T09:00:59+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "san-francisco-rush-2049"
+  "metacritic_slug": "san-francisco-rush-2049",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3598": {
   "backloggd": 3.2,
@@ -15976,7 +16259,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "shadow-man",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3602": {
   "backloggd": 3.3,
@@ -15984,7 +16267,8 @@
   "checked": "2026-11-02T09:01:07+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "space-station-silicon-valley"
+  "metacritic_slug": "space-station-silicon-valley",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3603": {
   "backloggd": 3.6,
@@ -15993,7 +16277,7 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "spider-man",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3612": {
   "backloggd": 3.2,
@@ -16001,7 +16285,8 @@
   "checked": "2026-11-02T09:01:39+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "tetrisphere"
+  "metacritic_slug": "tetrisphere",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:361321": {},
  "igdb:3614": {
@@ -16010,7 +16295,8 @@
   "checked": "2026-11-01T00:36:26+00:00",
   "mc_v": 2,
   "metacritic": 98,
-  "metacritic_slug": "tonic-trouble"
+  "metacritic_slug": "tonic-trouble",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:36198": {
   "backloggd": 3.4,
@@ -16031,7 +16317,8 @@
   "checked": "2026-11-02T09:54:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:362047": {
   "backloggd": 3.4,
@@ -16039,7 +16326,8 @@
   "checked": "2026-10-28T05:47:29+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:3629": {
   "backloggd": 3.4,
@@ -16056,7 +16344,8 @@
   "checked": "2026-11-02T09:01:57+00:00",
   "mc_v": 2,
   "metacritic": 89,
-  "metacritic_slug": "wwf-no-mercy"
+  "metacritic_slug": "wwf-no-mercy",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3652": {
   "backloggd": 2.8,
@@ -16064,7 +16353,8 @@
   "checked": "2026-11-02T09:04:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3655": {
   "backloggd": 3.0,
@@ -16072,7 +16362,8 @@
   "checked": "2026-10-28T05:48:05+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:36550": {
   "backloggd": 4.3,
@@ -16109,7 +16400,8 @@
   "checked": "2026-11-02T10:04:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:36595": {
   "backloggd": 3.6,
@@ -16161,7 +16453,8 @@
   "checked": "2026-10-28T05:52:02+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3665": {
   "backloggd": 4.2,
@@ -16213,7 +16506,8 @@
   "checked": "2026-11-02T09:59:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:367571": {
   "backloggd": 2.2,
@@ -16243,7 +16537,8 @@
   "checked": "2026-10-28T05:52:04+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3683": {
   "backloggd": 4.6,
@@ -16252,7 +16547,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:36897": {
   "backloggd": 3.7,
@@ -16471,7 +16766,7 @@
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "kirby-and-the-amazing-mirror",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3722": {
   "backloggd": 3.2,
@@ -16507,7 +16802,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "kirby-nightmare-in-dream-land",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3727": {
   "backloggd": 3.0,
@@ -16515,7 +16810,8 @@
   "checked": "2026-10-28T05:48:00+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:37273": {
   "backloggd": 2.7,
@@ -16523,7 +16819,8 @@
   "checked": "2026-11-02T10:06:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:37282": {
   "backloggd": 2.6,
@@ -16544,7 +16841,8 @@
   "checked": "2026-10-28T05:50:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:376": {
   "backloggd": 4.5,
@@ -16618,7 +16916,8 @@
   "checked": "2026-10-28T05:46:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:38": {
   "backloggd": 4.2,
@@ -16650,7 +16949,8 @@
   "checked": "2026-11-02T09:56:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:382": {
   "backloggd": 3.7,
@@ -16663,10 +16963,11 @@
  },
  "igdb:38228": {
   "bl_v": 2,
-  "checked": "2026-11-02T21:14:14+00:00",
+  "checked": "2026-11-02T21:16:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:3823": {
   "backloggd": 3.0,
@@ -16682,7 +16983,8 @@
   "checked": "2026-11-02T10:04:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:38366": {
   "backloggd": 2.2,
@@ -16690,7 +16992,8 @@
   "checked": "2026-11-02T09:05:00+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:38369": {
   "backloggd": 3.1,
@@ -16698,7 +17001,8 @@
   "checked": "2026-11-02T10:00:54+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:38390": {
   "backloggd": 3.7,
@@ -16706,7 +17010,8 @@
   "checked": "2026-11-02T09:56:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:38395": {
   "backloggd": 3.3,
@@ -16714,7 +17019,8 @@
   "checked": "2026-11-02T09:53:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:38411": {
   "backloggd": 2.5,
@@ -16722,7 +17028,8 @@
   "checked": "2026-10-28T05:46:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:38423": {
   "backloggd": 3.4,
@@ -16730,7 +17037,8 @@
   "checked": "2026-11-02T10:04:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3856": {
   "backloggd": 4.0,
@@ -16739,7 +17047,7 @@
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "chibi-robo",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:386354": {},
  "igdb:387782": {
@@ -16761,7 +17069,8 @@
   "checked": "2026-11-02T10:00:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:389439": {},
  "igdb:389440": {},
@@ -16771,7 +17080,8 @@
   "checked": "2026-11-02T10:00:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:39048": {
   "backloggd": 2.4,
@@ -16779,7 +17089,8 @@
   "checked": "2026-10-28T05:37:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:39063": {
   "backloggd": 3.5,
@@ -16787,7 +17098,8 @@
   "checked": "2026-11-01T00:39:54+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:3907": {
   "backloggd": 3.9,
@@ -16796,7 +17108,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "eternal-darkness-sanitys-requiem",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:391": {
   "backloggd": 3.6,
@@ -16813,7 +17125,8 @@
   "checked": "2026-10-28T05:42:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:393": {
   "backloggd": 3.2,
@@ -16830,7 +17143,8 @@
   "checked": "2026-11-02T09:03:16+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "tekken-4"
+  "metacritic_slug": "tekken-4",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:39348": {
   "backloggd": 3.3,
@@ -16838,7 +17152,8 @@
   "checked": "2026-10-28T05:46:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:394236": {
   "bl_v": 2,
@@ -16853,7 +17168,8 @@
   "checked": "2026-11-02T09:57:04+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:39692": {
   "backloggd": 3.0,
@@ -16861,7 +17177,8 @@
   "checked": "2026-11-02T10:03:48+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:39747": {
   "backloggd": 3.2,
@@ -16889,7 +17206,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4": {
   "backloggd": 2.5,
@@ -16919,7 +17236,7 @@
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "medievil-ii",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4005": {
   "backloggd": 3.4,
@@ -16982,7 +17299,8 @@
   "checked": "2026-10-28T05:39:01+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:406": {
   "backloggd": 3.9,
@@ -16990,14 +17308,16 @@
   "checked": "2026-11-02T08:50:36+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "final-fantasy-iv-advance"
+  "metacritic_slug": "final-fantasy-iv-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:406086": {
   "bl_v": 2,
   "checked": "2026-11-02T10:02:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:4069": {
   "backloggd": 3.6,
@@ -17006,7 +17326,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "pokemon-pinball-ruby-sapphire",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:408": {
   "backloggd": 3.5,
@@ -17014,7 +17334,8 @@
   "checked": "2026-11-02T08:50:34+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "final-fantasy-i-ii-dawn-of-souls"
+  "metacritic_slug": "final-fantasy-i-ii-dawn-of-souls",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:408989": {},
  "igdb:409023": {},
@@ -17094,7 +17415,8 @@
   "checked": "2026-10-28T05:40:34+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4132": {
   "backloggd": 3.8,
@@ -17112,7 +17434,7 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "final-fantasy-tactics-advance",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:41420": {
   "backloggd": 2.6,
@@ -17121,7 +17443,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4144": {
   "backloggd": 3.5,
@@ -17138,7 +17460,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:415005": {
   "backloggd": 4.5,
@@ -17173,7 +17495,7 @@
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "ssx-tricky",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4180": {
   "backloggd": 3.1,
@@ -17199,7 +17521,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42": {
   "backloggd": 2.6,
@@ -17221,7 +17543,8 @@
   "checked": "2026-10-28T05:44:00+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42400": {
   "backloggd": 2.5,
@@ -17229,7 +17552,8 @@
   "checked": "2026-10-28T05:48:27+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42403": {
   "backloggd": 2.8,
@@ -17237,14 +17561,16 @@
   "checked": "2026-11-02T10:05:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:42412": {
   "bl_v": 2,
   "checked": "2026-11-02T09:55:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:42413": {
   "backloggd": 3.8,
@@ -17252,7 +17578,8 @@
   "checked": "2026-11-02T09:55:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42420": {
   "backloggd": 2.5,
@@ -17263,13 +17590,23 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-29T16:57:43+00:00"
  },
+ "igdb:42439": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-02T21:16:41+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:16:41+00:00"
+ },
  "igdb:42445": {
   "backloggd": 3.8,
   "bl_v": 2,
   "checked": "2026-11-02T10:05:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42447": {
   "backloggd": 3.3,
@@ -17277,7 +17614,8 @@
   "checked": "2026-11-02T10:05:01+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42459": {
   "backloggd": 3.4,
@@ -17285,15 +17623,17 @@
   "checked": "2026-11-02T10:03:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42464": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-11-02T21:14:30+00:00",
+  "checked": "2026-11-02T21:16:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:42467": {
   "backloggd": 2.2,
@@ -17301,7 +17641,8 @@
   "checked": "2026-10-28T05:47:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42470": {
   "backloggd": 3.6,
@@ -17309,7 +17650,8 @@
   "checked": "2026-10-28T05:45:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42473": {
   "backloggd": 3.5,
@@ -17317,7 +17659,8 @@
   "checked": "2026-11-02T10:00:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:42483": {
   "backloggd": 1.4,
@@ -17325,7 +17668,8 @@
   "checked": "2026-10-28T05:46:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42497": {
   "backloggd": 3.3,
@@ -17333,7 +17677,8 @@
   "checked": "2026-11-02T09:58:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42506": {
   "backloggd": 3.0,
@@ -17341,7 +17686,8 @@
   "checked": "2026-11-02T09:56:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42507": {
   "backloggd": 3.1,
@@ -17349,15 +17695,17 @@
   "checked": "2026-11-02T09:56:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42510": {
   "backloggd": 2.5,
   "bl_v": 2,
-  "checked": "2026-11-02T21:14:17+00:00",
+  "checked": "2026-11-02T21:16:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:42516": {
   "backloggd": 2.1,
@@ -17365,7 +17713,8 @@
   "checked": "2026-11-02T09:53:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:42553": {
   "backloggd": 2.8,
@@ -17373,7 +17722,8 @@
   "checked": "2026-11-02T09:54:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:42574": {
   "backloggd": 3.1,
@@ -17381,7 +17731,8 @@
   "checked": "2026-10-28T05:48:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42581": {
   "backloggd": 3.5,
@@ -17389,7 +17740,8 @@
   "checked": "2026-11-02T10:03:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42583": {
   "backloggd": 3.6,
@@ -17397,7 +17749,8 @@
   "checked": "2026-11-02T10:03:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42586": {
   "backloggd": 3.1,
@@ -17405,7 +17758,8 @@
   "checked": "2026-11-02T09:57:21+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:42590": {
   "backloggd": 3.2,
@@ -17413,7 +17767,8 @@
   "checked": "2026-11-02T09:55:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:42599": {
   "backloggd": 1.3,
@@ -17421,7 +17776,8 @@
   "checked": "2026-10-28T05:46:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:426": {
   "backloggd": 4.4,
@@ -17438,7 +17794,8 @@
   "checked": "2026-10-28T05:47:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42603": {
   "backloggd": 2.5,
@@ -17446,7 +17803,8 @@
   "checked": "2026-10-28T05:48:49+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42604": {
   "backloggd": 3.0,
@@ -17454,7 +17812,8 @@
   "checked": "2026-10-28T05:44:33+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42607": {
   "backloggd": 2.1,
@@ -17462,7 +17821,8 @@
   "checked": "2026-10-28T05:46:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42608": {
   "backloggd": 3.0,
@@ -17470,7 +17830,8 @@
   "checked": "2026-11-02T09:55:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:42611": {
   "backloggd": 3.7,
@@ -17478,7 +17839,8 @@
   "checked": "2026-11-02T09:55:52+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42621": {
   "backloggd": 3.5,
@@ -17486,7 +17848,8 @@
   "checked": "2026-11-02T10:05:55+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42623": {
   "backloggd": 2.3,
@@ -17503,7 +17866,8 @@
   "checked": "2026-11-02T09:04:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42635": {
   "backloggd": 3.1,
@@ -17511,7 +17875,8 @@
   "checked": "2026-11-02T09:54:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42636": {
   "backloggd": 3.2,
@@ -17519,7 +17884,8 @@
   "checked": "2026-11-02T09:04:29+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42639": {
   "backloggd": 2.2,
@@ -17527,7 +17893,8 @@
   "checked": "2026-10-28T05:44:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42648": {
   "backloggd": 2.7,
@@ -17535,7 +17902,8 @@
   "checked": "2026-11-02T10:01:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:42649": {
   "backloggd": 3.3,
@@ -17543,7 +17911,8 @@
   "checked": "2026-11-02T10:01:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42653": {
   "backloggd": 2.8,
@@ -17551,7 +17920,8 @@
   "checked": "2026-10-28T05:46:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42656": {
   "backloggd": 3.2,
@@ -17559,7 +17929,8 @@
   "checked": "2026-11-02T09:57:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42660": {
   "backloggd": 1.8,
@@ -17567,7 +17938,8 @@
   "checked": "2026-10-28T05:47:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:42665": {
   "backloggd": 3.0,
@@ -17575,7 +17947,8 @@
   "checked": "2026-10-28T05:47:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42730": {
   "backloggd": 2.9,
@@ -17583,7 +17956,8 @@
   "checked": "2026-11-02T10:06:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42734": {
   "backloggd": 2.5,
@@ -17591,7 +17965,8 @@
   "checked": "2026-11-02T09:05:12+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42736": {
   "backloggd": 3.0,
@@ -17599,7 +17974,8 @@
   "checked": "2026-11-02T09:04:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4275": {
   "backloggd": 3.5,
@@ -17608,7 +17984,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:42817": {
   "backloggd": 2.6,
@@ -17675,7 +18051,8 @@
   "checked": "2026-11-01T00:39:45+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4368": {
   "backloggd": 3.2,
@@ -17684,7 +18061,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:438": {
   "backloggd": 4.0,
@@ -17706,7 +18083,8 @@
   "checked": "2026-11-02T09:05:33+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:4381": {
   "backloggd": 2.7,
@@ -17714,7 +18092,8 @@
   "checked": "2026-11-02T09:57:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:43868": {
   "backloggd": 3.8,
@@ -17730,7 +18109,8 @@
   "checked": "2026-11-02T14:43:41+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:4407": {
   "backloggd": 3.4,
@@ -17738,7 +18118,8 @@
   "checked": "2026-11-02T10:06:03+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:44106": {
   "backloggd": 2.6,
@@ -17746,7 +18127,8 @@
   "checked": "2026-10-28T05:45:00+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4412": {
   "backloggd": 2.8,
@@ -17754,7 +18136,8 @@
   "checked": "2026-11-01T00:38:33+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4435": {
   "backloggd": 3.0,
@@ -17789,7 +18172,8 @@
   "checked": "2026-11-02T09:53:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4446": {
   "backloggd": 2.9,
@@ -17798,7 +18182,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:44461": {
   "backloggd": 3.7,
@@ -17806,7 +18190,8 @@
   "checked": "2026-11-02T09:58:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:44463": {
   "backloggd": 2.9,
@@ -17815,7 +18200,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:44464": {
   "backloggd": 2.5,
@@ -17823,7 +18208,8 @@
   "checked": "2026-11-02T10:01:25+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:44465": {
   "backloggd": 2.3,
@@ -17831,7 +18217,8 @@
   "checked": "2026-10-28T05:46:21+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:44466": {
   "backloggd": 3.5,
@@ -17839,7 +18226,8 @@
   "checked": "2026-11-02T09:04:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:446": {
   "backloggd": 2.9,
@@ -17861,7 +18249,8 @@
   "checked": "2026-11-01T00:40:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:44723": {
   "backloggd": 2.5,
@@ -17877,7 +18266,8 @@
   "checked": "2026-10-28T05:43:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4487": {
   "backloggd": 3.2,
@@ -17885,7 +18275,8 @@
   "checked": "2026-11-01T00:40:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:44884": {
   "backloggd": 3.9,
@@ -17893,7 +18284,8 @@
   "checked": "2026-11-02T09:02:26+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "looney-tunes-sheep-raider"
+  "metacritic_slug": "looney-tunes-sheep-raider",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4490": {
   "backloggd": 4.0,
@@ -17902,7 +18294,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4498": {
   "backloggd": 2.7,
@@ -17910,7 +18302,8 @@
   "checked": "2026-11-01T00:38:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4499": {
   "backloggd": 3.2,
@@ -17919,7 +18312,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4504": {
   "backloggd": 3.3,
@@ -17927,7 +18320,8 @@
   "checked": "2026-11-02T10:01:55+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4516": {
   "backloggd": 2.4,
@@ -17935,7 +18329,8 @@
   "checked": "2026-11-02T09:05:25+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:45195": {
   "backloggd": 3.4,
@@ -17943,7 +18338,8 @@
   "checked": "2026-11-02T08:56:25+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "super-street-fighter-ii-turbo-revival"
+  "metacritic_slug": "super-street-fighter-ii-turbo-revival",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:452": {
   "backloggd": 3.3,
@@ -17952,7 +18348,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:45214": {
   "backloggd": 3.2,
@@ -17968,7 +18364,8 @@
   "checked": "2026-11-02T10:03:12+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:453": {
   "backloggd": 2.8,
@@ -17976,7 +18373,8 @@
   "checked": "2026-11-02T10:05:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:454": {
   "backloggd": 3.4,
@@ -17985,7 +18383,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:45506": {
   "backloggd": 3.4,
@@ -18001,7 +18399,8 @@
   "checked": "2026-11-01T00:39:47+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:45527": {
   "backloggd": 3.9,
@@ -18009,7 +18408,8 @@
   "checked": "2026-11-02T09:59:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:45555": {
   "backloggd": 3.1,
@@ -18017,7 +18417,8 @@
   "checked": "2026-10-28T05:48:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4567": {
   "backloggd": 3.4,
@@ -18028,13 +18429,22 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-29T16:58:10+00:00"
  },
+ "igdb:45707": {
+  "bl_v": 2,
+  "checked": "2026-11-02T21:16:38+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:16:41+00:00"
+ },
  "igdb:45760": {
   "backloggd": 3.3,
   "bl_v": 2,
   "checked": "2026-11-01T00:39:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:45776": {
   "backloggd": 3.1,
@@ -18042,7 +18452,8 @@
   "checked": "2026-11-02T09:57:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:4600": {
   "backloggd": 2.8,
@@ -18059,7 +18470,8 @@
   "checked": "2026-10-28T05:46:34+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:46007": {
   "backloggd": 3.4,
@@ -18067,7 +18479,8 @@
   "checked": "2026-11-02T10:06:42+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:46030": {
   "backloggd": 3.4,
@@ -18083,7 +18496,8 @@
   "checked": "2026-10-28T05:43:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4616": {
   "backloggd": 2.3,
@@ -18091,7 +18505,8 @@
   "checked": "2026-10-28T05:43:33+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4624": {
   "backloggd": 1.9,
@@ -18099,7 +18514,8 @@
   "checked": "2026-10-28T05:43:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:46285": {
   "backloggd": 2.5,
@@ -18107,7 +18523,8 @@
   "checked": "2026-11-02T09:04:34+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:465": {
   "backloggd": 3.6,
@@ -18130,7 +18547,8 @@
   "checked": "2026-11-02T09:59:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:467": {
   "backloggd": 4.1,
@@ -18152,7 +18570,8 @@
   "checked": "2026-10-28T05:38:42+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:468": {
   "backloggd": 3.8,
@@ -18187,7 +18606,8 @@
   "checked": "2026-11-02T10:03:29+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:4689": {
   "backloggd": 3.9,
@@ -18260,7 +18680,8 @@
   "checked": "2026-11-02T09:56:13+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:475": {
   "backloggd": 3.5,
@@ -18303,7 +18724,8 @@
   "checked": "2026-11-01T00:34:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:47685": {
   "backloggd": 3.5,
@@ -18311,7 +18733,8 @@
   "checked": "2026-11-02T08:58:43+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "battletanx-global-assault"
+  "metacritic_slug": "battletanx-global-assault",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:47686": {
   "backloggd": 3.0,
@@ -18319,7 +18742,8 @@
   "checked": "2026-11-02T08:58:41+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "battletanx"
+  "metacritic_slug": "battletanx",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:47729": {
   "backloggd": 3.0,
@@ -18327,7 +18751,8 @@
   "checked": "2026-10-29T21:44:43+00:00",
   "mc_v": 2,
   "metacritic": 65,
-  "metacritic_slug": "dig-dug-digging-strike"
+  "metacritic_slug": "dig-dug-digging-strike",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4786": {
   "backloggd": 3.6,
@@ -18357,7 +18782,8 @@
   "checked": "2026-10-29T21:34:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48052": {
   "backloggd": 3.2,
@@ -18365,7 +18791,8 @@
   "checked": "2026-10-28T05:43:54+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48123": {
   "backloggd": 3.1,
@@ -18373,7 +18800,8 @@
   "checked": "2026-10-28T05:39:41+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48179": {
   "backloggd": 2.4,
@@ -18381,7 +18809,8 @@
   "checked": "2026-10-28T05:42:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48202": {
   "backloggd": 2.7,
@@ -18389,7 +18818,8 @@
   "checked": "2026-10-28T05:42:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48231": {
   "backloggd": 3.1,
@@ -18397,7 +18827,8 @@
   "checked": "2026-11-02T10:04:59+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48240": {
   "backloggd": 2.4,
@@ -18405,7 +18836,8 @@
   "checked": "2026-10-28T05:40:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48262": {
   "backloggd": 3.5,
@@ -18413,7 +18845,8 @@
   "checked": "2026-10-28T05:41:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4840": {
   "backloggd": 3.2,
@@ -18469,7 +18902,8 @@
   "checked": "2026-10-28T05:42:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48589": {
   "backloggd": 1.6,
@@ -18477,7 +18911,8 @@
   "checked": "2026-10-28T05:42:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4859": {
   "backloggd": 2.5,
@@ -18485,7 +18920,8 @@
   "checked": "2026-11-02T09:56:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48671": {
   "backloggd": 3.5,
@@ -18493,7 +18929,8 @@
   "checked": "2026-10-28T05:42:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:4884": {
   "backloggd": 3.4,
@@ -18501,7 +18938,8 @@
   "checked": "2026-10-29T21:54:37+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "geometry-wars-galaxies"
+  "metacritic_slug": "geometry-wars-galaxies",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48916": {
   "backloggd": 3.2,
@@ -18509,7 +18947,8 @@
   "checked": "2026-10-28T05:52:24+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48939": {
   "backloggd": 3.1,
@@ -18518,7 +18957,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48958": {
   "backloggd": 2.8,
@@ -18526,7 +18965,8 @@
   "checked": "2026-10-28T05:50:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:48996": {
   "backloggd": 3.0,
@@ -18534,7 +18974,8 @@
   "checked": "2026-10-28T05:51:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49024": {
   "backloggd": 2.7,
@@ -18542,7 +18983,8 @@
   "checked": "2026-11-02T10:00:56+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49030": {
   "backloggd": 2.9,
@@ -18550,7 +18992,8 @@
   "checked": "2026-10-28T05:46:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49038": {
   "backloggd": 3.6,
@@ -18558,7 +19001,8 @@
   "checked": "2026-10-28T05:52:21+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49155": {
   "backloggd": 2.9,
@@ -18566,7 +19010,8 @@
   "checked": "2026-11-02T08:50:11+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "denki-blocks"
+  "metacritic_slug": "denki-blocks",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49188": {
   "backloggd": 4.1,
@@ -18574,7 +19019,8 @@
   "checked": "2026-11-02T08:51:50+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49260": {
   "backloggd": 3.2,
@@ -18582,7 +19028,8 @@
   "checked": "2026-11-01T00:41:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49261": {
   "backloggd": 2.7,
@@ -18590,7 +19037,8 @@
   "checked": "2026-11-02T08:52:30+00:00",
   "mc_v": 2,
   "metacritic": 66,
-  "metacritic_slug": "disneys-lilo-and-stitch-2-hamsterviel-havoc"
+  "metacritic_slug": "disneys-lilo-and-stitch-2-hamsterviel-havoc",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:493": {
   "backloggd": 3.4,
@@ -18615,7 +19063,8 @@
   "checked": "2026-11-02T08:54:25+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:49598": {
   "backloggd": 2.9,
@@ -18623,7 +19072,8 @@
   "checked": "2026-11-02T08:51:39+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:49840": {
   "backloggd": 2.3,
@@ -18631,7 +19081,8 @@
   "checked": "2026-10-28T05:50:21+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:49844": {
   "backloggd": 3.6,
@@ -18639,7 +19090,8 @@
   "checked": "2026-11-02T08:56:56+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:49875": {
   "backloggd": 3.8,
@@ -18647,7 +19099,8 @@
   "checked": "2026-10-28T05:51:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:499": {
   "backloggd": 4.2,
@@ -18655,7 +19108,8 @@
   "checked": "2026-10-28T05:05:07+00:00",
   "mc_v": 2,
   "metacritic": 92,
-  "metacritic_slug": "god-of-war-iii"
+  "metacritic_slug": "god-of-war-iii",
+  "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:49949": {
   "backloggd": 1.4,
@@ -18663,7 +19117,8 @@
   "checked": "2026-10-28T05:50:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5004": {
   "backloggd": 4.1,
@@ -18781,7 +19236,8 @@
   "checked": "2026-10-28T05:46:02+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5199": {
   "backloggd": 4.1,
@@ -18852,7 +19308,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5350": {
   "backloggd": 2.9,
@@ -18860,7 +19316,8 @@
   "checked": "2026-11-02T09:03:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:5351": {
   "backloggd": 3.5,
@@ -18868,7 +19325,8 @@
   "checked": "2026-11-02T09:03:54+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:5378": {
   "backloggd": 2.7,
@@ -18877,7 +19335,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:538": {
   "backloggd": 3.7,
@@ -18917,7 +19375,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5405": {
   "backloggd": 3.8,
@@ -18925,7 +19383,17 @@
   "checked": "2026-11-02T09:59:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:5406": {
+  "backloggd": 2.4,
+  "bl_v": 2,
+  "checked": "2026-11-02T21:16:36+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:5418": {
   "backloggd": 4.1,
@@ -18934,7 +19402,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:542": {
   "backloggd": 3.5,
@@ -18951,7 +19419,8 @@
   "checked": "2026-11-02T10:00:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5431": {
   "backloggd": 3.5,
@@ -18959,7 +19428,8 @@
   "checked": "2026-11-02T10:01:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5440": {
   "backloggd": 3.7,
@@ -18980,7 +19450,8 @@
   "checked": "2026-11-02T08:57:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:54842": {
   "backloggd": 2.2,
@@ -19086,7 +19557,8 @@
   "checked": "2026-10-28T05:40:51+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:55056": {
   "backloggd": 4.1,
@@ -19112,7 +19584,8 @@
   "checked": "2026-11-02T08:56:14+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "super-puzzle-fighter-ii-turbo"
+  "metacritic_slug": "super-puzzle-fighter-ii-turbo",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:55163": {
   "backloggd": 3.9,
@@ -19147,7 +19620,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:552": {
   "backloggd": 3.5,
@@ -19173,7 +19646,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5552": {
   "backloggd": 3.3,
@@ -19240,7 +19713,8 @@
   "checked": "2026-10-28T05:43:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:5741": {
   "backloggd": 3.1,
@@ -19324,7 +19798,8 @@
   "checked": "2026-11-01T00:38:00+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6036": {
   "backloggd": 4.4,
@@ -19412,7 +19887,7 @@
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "sonic-advance",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6292": {
   "backloggd": 2.4,
@@ -19430,7 +19905,7 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "worms-world-party",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6310": {
   "backloggd": 3.8,
@@ -19438,7 +19913,8 @@
   "checked": "2026-11-02T08:49:19+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "astro-boy-omega-factor"
+  "metacritic_slug": "astro-boy-omega-factor",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6318": {
   "backloggd": 3.0,
@@ -19446,7 +19922,8 @@
   "checked": "2026-11-02T08:49:22+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "banjo-kazooie-gruntys-revenge"
+  "metacritic_slug": "banjo-kazooie-gruntys-revenge",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6326": {
   "backloggd": 3.6,
@@ -19454,7 +19931,8 @@
   "checked": "2026-11-02T08:49:27+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "boktai-the-sun-is-in-your-hand"
+  "metacritic_slug": "boktai-the-sun-is-in-your-hand",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6329": {
   "backloggd": 3.8,
@@ -19462,7 +19940,8 @@
   "checked": "2026-11-02T08:49:29+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "boktai-2-solar-boy-django"
+  "metacritic_slug": "boktai-2-solar-boy-django",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6337": {
   "backloggd": 3.6,
@@ -19479,7 +19958,8 @@
   "checked": "2026-11-02T08:49:39+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "bruce-lee-return-of-the-legend"
+  "metacritic_slug": "bruce-lee-return-of-the-legend",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6344": {
   "backloggd": 2.9,
@@ -19487,7 +19967,8 @@
   "checked": "2026-11-02T08:49:43+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "car-battler-joe"
+  "metacritic_slug": "car-battler-joe",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6347": {
   "backloggd": 3.5,
@@ -19495,7 +19976,8 @@
   "checked": "2026-11-02T08:49:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6349": {
   "backloggd": 2.8,
@@ -19503,7 +19985,8 @@
   "checked": "2026-11-02T09:56:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6351": {
   "backloggd": 3.6,
@@ -19512,7 +19995,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:63520": {
   "backloggd": 3.0,
@@ -19546,7 +20029,8 @@
   "checked": "2026-11-01T00:41:04+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6371": {
   "backloggd": 3.2,
@@ -19554,7 +20038,8 @@
   "checked": "2026-11-01T00:41:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:6372": {
   "backloggd": 3.5,
@@ -19562,7 +20047,8 @@
   "checked": "2026-11-01T00:41:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:6379": {
   "backloggd": 3.5,
@@ -19571,7 +20057,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6384": {
   "backloggd": 3.4,
@@ -19579,7 +20065,8 @@
   "checked": "2026-11-02T08:50:14+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "double-dragon-advance"
+  "metacritic_slug": "double-dragon-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6388": {
   "backloggd": 2.6,
@@ -19587,7 +20074,8 @@
   "checked": "2026-11-02T08:50:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6390": {
   "backloggd": 3.5,
@@ -19595,7 +20083,8 @@
   "checked": "2026-11-02T08:50:26+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "drill-dozer"
+  "metacritic_slug": "drill-dozer",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6394": {
   "backloggd": 2.6,
@@ -19603,7 +20092,8 @@
   "checked": "2026-11-02T08:50:28+00:00",
   "mc_v": 2,
   "metacritic": 56,
-  "metacritic_slug": "dynasty-warriors-advance"
+  "metacritic_slug": "dynasty-warriors-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6400": {
   "backloggd": 3.6,
@@ -19611,7 +20101,8 @@
   "checked": "2026-11-01T00:41:11+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6405": {
   "backloggd": 4.0,
@@ -19620,7 +20111,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6422": {
   "backloggd": 3.4,
@@ -19628,7 +20119,8 @@
   "checked": "2026-11-02T08:51:42+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "gunstar-super-heroes"
+  "metacritic_slug": "gunstar-super-heroes",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6424": {
   "backloggd": 2.7,
@@ -19636,7 +20128,8 @@
   "checked": "2026-11-02T08:51:30+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "gt-advance-championship-racing"
+  "metacritic_slug": "gt-advance-championship-racing",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6450": {
   "backloggd": 3.4,
@@ -19644,7 +20137,8 @@
   "checked": "2026-11-02T08:51:54+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "iridion-ii"
+  "metacritic_slug": "iridion-ii",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6468": {
   "backloggd": 3.6,
@@ -19653,7 +20147,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6492": {
   "backloggd": 3.4,
@@ -19670,7 +20164,8 @@
   "checked": "2026-11-02T08:52:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6495": {
   "backloggd": 3.3,
@@ -19678,7 +20173,8 @@
   "checked": "2026-11-02T08:52:19+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "konami-krazy-racers"
+  "metacritic_slug": "konami-krazy-racers",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6497": {
   "backloggd": 2.6,
@@ -19686,7 +20182,8 @@
   "checked": "2026-11-02T08:52:24+00:00",
   "mc_v": 2,
   "metacritic": 73,
-  "metacritic_slug": "lady-sia"
+  "metacritic_slug": "lady-sia",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:65": {
   "backloggd": 3.9,
@@ -19708,7 +20205,8 @@
   "checked": "2026-11-02T08:52:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6503": {
   "backloggd": 2.1,
@@ -19716,7 +20214,8 @@
   "checked": "2026-11-02T08:52:43+00:00",
   "mc_v": 2,
   "metacritic": 62,
-  "metacritic_slug": "mario-pinball-land"
+  "metacritic_slug": "mario-pinball-land",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6504": {
   "backloggd": 3.7,
@@ -19724,7 +20223,8 @@
   "checked": "2026-11-02T08:52:47+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "mario-tennis-power-tour"
+  "metacritic_slug": "mario-tennis-power-tour",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6505": {
   "backloggd": 3.3,
@@ -19733,7 +20233,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6506": {
   "backloggd": 3.1,
@@ -19741,7 +20241,8 @@
   "checked": "2026-10-29T22:15:40+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "mario-vs-donkey-kong-2-march-of-the-minis"
+  "metacritic_slug": "mario-vs-donkey-kong-2-march-of-the-minis",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6511": {
   "backloggd": 3.1,
@@ -19749,7 +20250,8 @@
   "checked": "2026-11-01T00:41:44+00:00",
   "mc_v": 2,
   "metacritic": 76,
-  "metacritic_slug": "monster-rancher-advance"
+  "metacritic_slug": "monster-rancher-advance",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6515": {
   "backloggd": 3.7,
@@ -19757,7 +20259,8 @@
   "checked": "2026-11-02T09:53:55+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "moto-racer-advance"
+  "metacritic_slug": "moto-racer-advance",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6516": {
   "backloggd": 4.0,
@@ -19783,7 +20286,8 @@
   "checked": "2026-11-02T10:00:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6534": {
   "backloggd": 3.0,
@@ -19791,7 +20295,8 @@
   "checked": "2026-11-02T08:56:54+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "the-pinball-of-the-dead"
+  "metacritic_slug": "the-pinball-of-the-dead",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:654": {
   "backloggd": 3.7,
@@ -19827,7 +20332,8 @@
   "checked": "2026-11-02T10:00:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6551": {
   "backloggd": 3.3,
@@ -19835,7 +20341,8 @@
   "checked": "2026-11-02T08:54:49+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "racing-gears-advance"
+  "metacritic_slug": "racing-gears-advance",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6554": {
   "backloggd": 3.0,
@@ -19843,7 +20350,8 @@
   "checked": "2026-11-02T08:54:54+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "rebelstar-tactical-command"
+  "metacritic_slug": "rebelstar-tactical-command",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6557": {
   "backloggd": 3.9,
@@ -19851,7 +20359,8 @@
   "checked": "2026-11-02T08:54:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6558": {
   "backloggd": 3.4,
@@ -19869,7 +20378,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:65666": {
   "backloggd": 1.7,
@@ -19877,7 +20386,8 @@
   "checked": "2026-10-28T05:42:45+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6568": {
   "backloggd": 1.7,
@@ -19885,7 +20395,8 @@
   "checked": "2026-10-28T05:41:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6570": {
   "backloggd": 3.6,
@@ -19894,7 +20405,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6582": {
   "backloggd": 3.1,
@@ -19902,7 +20413,8 @@
   "checked": "2026-11-02T08:55:03+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "sabre-wulf"
+  "metacritic_slug": "sabre-wulf",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:65832": {
   "backloggd": 3.1,
@@ -19919,7 +20431,7 @@
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "sonic-advance-2",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6599": {
   "backloggd": 3.4,
@@ -19928,7 +20440,7 @@
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "sonic-advance-3",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6600": {
   "backloggd": 3.1,
@@ -19937,7 +20449,7 @@
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "sonic-battle",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6601": {
   "backloggd": 2.6,
@@ -19945,7 +20457,8 @@
   "checked": "2026-11-02T08:55:20+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "sonic-pinball-party"
+  "metacritic_slug": "sonic-pinball-party",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6605": {
   "backloggd": 2.9,
@@ -19953,7 +20466,8 @@
   "checked": "2026-11-02T08:55:26+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "spider-man-mysterios-menace"
+  "metacritic_slug": "spider-man-mysterios-menace",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6614": {
   "backloggd": 4.1,
@@ -19970,7 +20484,8 @@
   "checked": "2026-11-02T08:55:44+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6616": {
   "backloggd": 3.8,
@@ -19978,7 +20493,8 @@
   "checked": "2026-11-02T08:55:47+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6621": {
   "backloggd": 3.3,
@@ -19995,7 +20511,8 @@
   "checked": "2026-11-02T08:55:52+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "super-monkey-ball-jr"
+  "metacritic_slug": "super-monkey-ball-jr",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6624": {
   "backloggd": 3.4,
@@ -20003,7 +20520,8 @@
   "checked": "2026-11-02T08:56:22+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6625": {
   "backloggd": 3.7,
@@ -20011,7 +20529,8 @@
   "checked": "2026-11-02T08:56:17+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6627": {
   "backloggd": 4.1,
@@ -20019,7 +20538,8 @@
   "checked": "2026-11-02T08:56:20+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "super-robot-taisen-original-generation-2"
+  "metacritic_slug": "super-robot-taisen-original-generation-2",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6630": {
   "backloggd": 3.3,
@@ -20027,7 +20547,8 @@
   "checked": "2026-11-02T08:56:34+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "sword-of-mana"
+  "metacritic_slug": "sword-of-mana",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6635": {
   "backloggd": 3.8,
@@ -20035,7 +20556,8 @@
   "checked": "2026-11-02T08:56:41+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "tactics-ogre-the-knight-of-lodis"
+  "metacritic_slug": "tactics-ogre-the-knight-of-lodis",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6643": {
   "backloggd": 3.3,
@@ -20043,7 +20565,8 @@
   "checked": "2026-10-29T22:32:00+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "tony-hawks-american-sk8land"
+  "metacritic_slug": "tony-hawks-american-sk8land",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6644": {
   "backloggd": 3.0,
@@ -20051,7 +20574,8 @@
   "checked": "2026-11-02T08:57:22+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "ultimate-brain-games"
+  "metacritic_slug": "ultimate-brain-games",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6647": {
   "backloggd": 1.6,
@@ -20059,7 +20583,8 @@
   "checked": "2026-11-02T08:57:24+00:00",
   "mc_v": 2,
   "metacritic": 67,
-  "metacritic_slug": "urban-yeti"
+  "metacritic_slug": "urban-yeti",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:6670": {
   "backloggd": 2.7,
@@ -20067,7 +20592,8 @@
   "checked": "2026-11-01T00:40:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6693": {
   "backloggd": 3.6,
@@ -20075,7 +20601,8 @@
   "checked": "2026-11-02T08:58:08+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6705": {
   "backloggd": 4.0,
@@ -20096,7 +20623,8 @@
   "checked": "2026-10-28T05:43:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:67376": {
   "backloggd": 4.0,
@@ -20104,7 +20632,8 @@
   "checked": "2026-11-02T08:59:50+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:67381": {
   "backloggd": 3.5,
@@ -20180,11 +20709,11 @@
  "igdb:6816": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-11-02T21:14:28+00:00",
+  "checked": "2026-11-02T21:16:29+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:68286": {
   "backloggd": 2.7,
@@ -20227,7 +20756,8 @@
   "checked": "2026-10-29T22:31:32+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "shin-megami-tensei-devil-survivor-2"
+  "metacritic_slug": "shin-megami-tensei-devil-survivor-2",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6886": {
   "backloggd": 4.2,
@@ -20283,7 +20813,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:69721": {
   "backloggd": 3.1,
@@ -20291,7 +20821,8 @@
   "checked": "2026-11-02T09:02:56+00:00",
   "mc_v": 2,
   "metacritic": 68,
-  "metacritic_slug": "monster-hunter"
+  "metacritic_slug": "monster-hunter",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:6979": {
   "backloggd": 3.4,
@@ -20299,7 +20830,8 @@
   "checked": "2026-11-02T09:54:20+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7026": {
   "backloggd": 3.4,
@@ -20307,7 +20839,8 @@
   "checked": "2026-11-02T10:01:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:70828": {
   "backloggd": 2.9,
@@ -20337,7 +20870,8 @@
   "checked": "2026-11-02T09:54:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:71455": {
   "backloggd": 1.9,
@@ -20358,7 +20892,8 @@
   "checked": "2026-11-02T09:57:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:71695": {
   "backloggd": 3.1,
@@ -20366,7 +20901,8 @@
   "checked": "2026-11-02T09:59:48+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:71976": {
   "backloggd": 3.4,
@@ -20374,7 +20910,8 @@
   "checked": "2026-10-28T05:51:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:72": {
   "backloggd": 4.5,
@@ -20462,7 +20999,8 @@
   "checked": "2026-10-28T05:41:02+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:731": {
   "backloggd": 4.0,
@@ -20612,7 +21150,7 @@
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "parasite-eve",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7380": {
   "backloggd": 2.7,
@@ -20634,7 +21172,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7432": {
   "backloggd": 3.6,
@@ -20784,7 +21322,8 @@
   "checked": "2026-11-02T08:52:52+00:00",
   "mc_v": 2,
   "metacritic": 95,
-  "metacritic_slug": "medabots-metabee"
+  "metacritic_slug": "medabots-metabee",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:75848": {
   "backloggd": 3.8,
@@ -20884,7 +21423,8 @@
   "checked": "2026-11-02T10:02:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7685": {
   "backloggd": 3.3,
@@ -20933,7 +21473,8 @@
   "checked": "2026-11-02T10:04:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:76960": {
   "backloggd": 3.5,
@@ -20968,7 +21509,8 @@
   "checked": "2026-11-02T09:03:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7725": {
   "backloggd": 3.3,
@@ -20990,7 +21532,7 @@
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "the-legend-of-zelda-a-link-to-the-past-four-swords",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7734": {
   "backloggd": 2.9,
@@ -20998,7 +21540,8 @@
   "checked": "2026-11-02T09:58:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7735": {
   "backloggd": 3.4,
@@ -21006,7 +21549,8 @@
   "checked": "2026-11-02T09:58:42+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:77457": {
   "backloggd": 2.4,
@@ -21014,7 +21558,8 @@
   "checked": "2026-10-28T05:45:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7751": {
   "backloggd": 2.7,
@@ -21022,7 +21567,8 @@
   "checked": "2026-10-28T05:51:06+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7756": {
   "backloggd": 3.0,
@@ -21031,7 +21577,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7768": {
   "backloggd": 3.1,
@@ -21053,7 +21599,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7783": {
   "backloggd": 2.2,
@@ -21061,15 +21607,17 @@
   "checked": "2026-11-02T09:04:46+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:77854": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-11-02T21:14:12+00:00",
+  "checked": "2026-11-02T21:12:15+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:7786": {
   "backloggd": 3.0,
@@ -21077,7 +21625,8 @@
   "checked": "2026-10-28T05:51:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:77907": {
   "backloggd": 3.1,
@@ -21085,7 +21634,8 @@
   "checked": "2026-10-28T05:49:54+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7804": {
   "backloggd": 1.9,
@@ -21133,7 +21683,8 @@
   "checked": "2026-11-02T09:05:21+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:78367": {
   "backloggd": 3.9,
@@ -21167,7 +21718,8 @@
   "checked": "2026-10-28T05:43:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:78550": {
   "backloggd": 3.3,
@@ -21188,7 +21740,8 @@
   "checked": "2026-11-02T09:04:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:7868": {
   "backloggd": 2.3,
@@ -21238,7 +21791,8 @@
   "checked": "2026-11-02T09:00:54+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "robotron-64"
+  "metacritic_slug": "robotron-64",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:79864": {
   "backloggd": 4.1,
@@ -21272,7 +21826,8 @@
   "checked": "2026-10-28T05:46:19+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8020": {
   "backloggd": 2.6,
@@ -21281,7 +21836,7 @@
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "disneys-toy-story",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8050": {
   "backloggd": 3.3,
@@ -21289,7 +21844,8 @@
   "checked": "2026-11-02T10:06:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8051": {
   "backloggd": 3.3,
@@ -21297,7 +21853,8 @@
   "checked": "2026-11-02T10:06:34+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8068": {
   "backloggd": 2.8,
@@ -21305,7 +21862,8 @@
   "checked": "2026-11-02T10:01:53+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:80853": {
   "backloggd": 3.8,
@@ -21393,7 +21951,8 @@
   "checked": "2026-11-02T09:05:43+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:81459": {
   "backloggd": 3.3,
@@ -21401,7 +21960,8 @@
   "checked": "2026-11-02T08:54:47+00:00",
   "mc_v": 2,
   "metacritic": 84,
-  "metacritic_slug": "puyo-pop"
+  "metacritic_slug": "puyo-pop",
+  "oc_checked": "2026-11-02T21:12:19+00:00"
  },
  "igdb:81497": {
   "backloggd": 3.3,
@@ -21409,7 +21969,8 @@
   "checked": "2026-11-02T08:51:37+00:00",
   "mc_v": 2,
   "metacritic": 71,
-  "metacritic_slug": "game-and-watch-gallery-4"
+  "metacritic_slug": "game-and-watch-gallery-4",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:81523": {
   "backloggd": 2.7,
@@ -21417,7 +21978,8 @@
   "checked": "2026-10-28T05:45:55+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8163": {
   "backloggd": 3.8,
@@ -21426,7 +21988,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8167": {
   "backloggd": 4.1,
@@ -21456,7 +22018,8 @@
   "checked": "2026-11-02T09:04:16+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8203": {
   "backloggd": 3.4,
@@ -21658,7 +22221,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8409": {
   "backloggd": 3.0,
@@ -21679,7 +22242,8 @@
   "checked": "2026-10-28T05:46:10+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:843": {
   "backloggd": 3.8,
@@ -21688,7 +22252,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8430": {
   "backloggd": 3.8,
@@ -21710,7 +22274,7 @@
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "maui-mallard-in-cold-shadow",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8450": {
   "backloggd": 3.1,
@@ -21718,7 +22282,8 @@
   "checked": "2026-11-02T10:05:58+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:84532": {
   "backloggd": 3.7,
@@ -21777,7 +22342,8 @@
   "checked": "2026-11-01T00:42:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:847": {
   "backloggd": 3.3,
@@ -21794,7 +22360,8 @@
   "checked": "2026-11-02T08:58:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:84918": {
   "backloggd": 2.5,
@@ -21802,7 +22369,8 @@
   "checked": "2026-10-28T05:45:18+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8497": {
   "backloggd": 3.1,
@@ -21810,7 +22378,8 @@
   "checked": "2026-11-02T09:00:18+00:00",
   "mc_v": 2,
   "metacritic": 94,
-  "metacritic_slug": "micro-machines-64-turbo"
+  "metacritic_slug": "micro-machines-64-turbo",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8515": {
   "backloggd": 3.6,
@@ -21834,7 +22403,8 @@
   "checked": "2026-10-28T05:36:52+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:85637": {
   "backloggd": 2.6,
@@ -21842,7 +22412,8 @@
   "checked": "2026-10-28T05:52:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8564": {
   "backloggd": 2.4,
@@ -21850,7 +22421,8 @@
   "checked": "2026-10-28T05:47:56+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:85683": {
   "backloggd": 2.7,
@@ -21941,7 +22513,8 @@
   "checked": "2026-10-28T05:42:42+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8647": {
   "backloggd": 2.7,
@@ -22051,7 +22624,8 @@
   "checked": "2026-10-29T22:18:09+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "n"
+  "metacritic_slug": "n",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8751": {
   "backloggd": 2.3,
@@ -22091,7 +22665,7 @@
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "god-hand",
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8807": {
   "backloggd": 3.3,
@@ -22108,7 +22682,8 @@
   "checked": "2026-10-29T22:31:49+00:00",
   "mc_v": 2,
   "metacritic": 81,
-  "metacritic_slug": "super-scribblenauts"
+  "metacritic_slug": "super-scribblenauts",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8862": {
   "backloggd": 3.6,
@@ -22142,7 +22717,8 @@
   "checked": "2026-11-02T10:00:28+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:89074": {
   "backloggd": 1.7,
@@ -22164,7 +22740,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:89204": {
   "backloggd": 3.5,
@@ -22172,7 +22748,8 @@
   "checked": "2026-11-02T09:54:01+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:89444": {
   "backloggd": 3.7,
@@ -22243,7 +22820,8 @@
   "checked": "2026-11-02T10:04:21+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9056": {
   "backloggd": 3.0,
@@ -22272,7 +22850,8 @@
   "checked": "2026-11-02T10:04:05+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9065": {
   "backloggd": 3.5,
@@ -22280,7 +22859,8 @@
   "checked": "2026-11-02T10:04:07+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9066": {
   "backloggd": 3.5,
@@ -22307,7 +22887,8 @@
   "checked": "2026-11-02T10:05:35+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:90988": {
   "backloggd": 2.4,
@@ -22315,7 +22896,8 @@
   "checked": "2026-10-28T11:24:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:17+00:00"
  },
  "igdb:91033": {
   "backloggd": 3.6,
@@ -22357,7 +22939,8 @@
   "checked": "2026-10-28T05:41:37+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9155": {
   "backloggd": 2.8,
@@ -22365,7 +22948,8 @@
   "checked": "2026-10-28T05:43:14+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9156": {
   "backloggd": 2.9,
@@ -22373,7 +22957,8 @@
   "checked": "2026-10-28T05:44:21+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9158": {
   "backloggd": 2.6,
@@ -22381,7 +22966,8 @@
   "checked": "2026-10-28T05:41:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9159": {
   "backloggd": 3.1,
@@ -22389,7 +22975,8 @@
   "checked": "2026-10-28T05:41:30+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9174": {
   "backloggd": 3.8,
@@ -22445,7 +23032,8 @@
   "checked": "2026-11-02T09:59:40+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:20+00:00"
  },
  "igdb:93087": {
   "backloggd": 2.5,
@@ -22453,7 +23041,8 @@
   "checked": "2026-11-01T00:38:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9331": {
   "backloggd": 3.3,
@@ -22573,7 +23162,8 @@
   "checked": "2026-10-28T05:37:56+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9520": {
   "backloggd": 3.1,
@@ -22581,7 +23171,8 @@
   "checked": "2026-11-02T10:02:57+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "simant"
+  "metacritic_slug": "simant",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9523": {
   "backloggd": 3.4,
@@ -22624,7 +23215,8 @@
   "checked": "2026-10-29T21:44:27+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "contra-4"
+  "metacritic_slug": "contra-4",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9597": {
   "backloggd": 4.1,
@@ -22677,7 +23269,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9640": {
   "backloggd": 4.1,
@@ -22685,7 +23277,8 @@
   "checked": "2026-10-29T22:27:13+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "rune-factory-3-a-fantasy-harvest-moon"
+  "metacritic_slug": "rune-factory-3-a-fantasy-harvest-moon",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:966": {
   "backloggd": 4.1,
@@ -22702,7 +23295,8 @@
   "checked": "2026-11-02T09:57:41+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9674": {
   "backloggd": 3.2,
@@ -22711,7 +23305,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:15:00+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9692": {
   "backloggd": 3.6,
@@ -22847,7 +23441,8 @@
   "checked": "2026-11-02T09:59:38+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9807": {
   "backloggd": 3.3,
@@ -22878,7 +23473,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9862": {
   "backloggd": 3.9,
@@ -22887,7 +23482,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9887": {
   "backloggd": 3.4,
@@ -22895,7 +23490,8 @@
   "checked": "2026-10-29T22:13:42+00:00",
   "mc_v": 2,
   "metacritic": 82,
-  "metacritic_slug": "lunar-knights"
+  "metacritic_slug": "lunar-knights",
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9898": {
   "backloggd": 3.5,
@@ -22989,7 +23585,8 @@
   "checked": "2026-11-02T10:04:32+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:9969": {
   "backloggd": 3.0,
@@ -22998,7 +23595,7 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:14:30+00:00"
+  "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:998": {
   "backloggd": 3.2,

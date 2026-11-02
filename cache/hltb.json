@@ -328,6 +328,14 @@
   "hltb_name": "Overcooked! 2",
   "main": 7.0
  },
+ "igdb:103496": {
+  "checked": "2026-11-02T21:17:21+00:00",
+  "complete": null,
+  "extra": 28.5,
+  "hltb_id": 6318,
+  "hltb_name": "Mystery Dungeon: Shiren the Wanderer",
+  "main": 20.5
+ },
  "igdb:1035": {
   "checked": "2026-10-18T14:06:14+00:00",
   "complete": 25.0,
@@ -11715,7 +11723,7 @@
   "main": 18.0
  },
  "igdb:38228": {
-  "checked": "2026-11-02T21:15:03+00:00",
+  "checked": "2026-11-02T21:17:12+00:00",
   "complete": null,
   "extra": null,
   "hltb_id": 59401,
@@ -12194,6 +12202,9 @@
   "hltb_name": "Psycho Dream",
   "main": 1.0
  },
+ "igdb:42439": {
+  "checked": "2026-11-02T21:17:28+00:00"
+ },
  "igdb:42445": {
   "checked": "2026-11-02T10:13:32+00:00",
   "complete": 36.0,
@@ -12219,7 +12230,7 @@
   "main": 1.0
  },
  "igdb:42464": {
-  "checked": "2026-11-02T21:15:11+00:00"
+  "checked": "2026-11-02T21:17:18+00:00"
  },
  "igdb:42467": {
   "checked": "2026-10-28T05:58:18+00:00",
@@ -12278,7 +12289,7 @@
   "main": 1.5
  },
  "igdb:42510": {
-  "checked": "2026-11-02T21:15:06+00:00",
+  "checked": "2026-11-02T21:17:14+00:00",
   "complete": null,
   "extra": null,
   "hltb_id": 33527,
@@ -12899,6 +12910,9 @@
   "hltb_id": 7177,
   "hltb_name": "Pokémon Trading Card Game",
   "main": 11.5
+ },
+ "igdb:45707": {
+  "checked": "2026-11-02T21:17:25+00:00"
  },
  "igdb:45760": {
   "checked": "2026-11-01T00:46:18+00:00",
@@ -13639,6 +13653,14 @@
   "hltb_id": 15544,
   "hltb_name": "NHL '94",
   "main": 6.5
+ },
+ "igdb:5406": {
+  "checked": "2026-11-02T21:17:23+00:00",
+  "complete": 2.5,
+  "extra": null,
+  "hltb_id": 69123,
+  "hltb_name": "The Ninja Warriors",
+  "main": 1.0
  },
  "igdb:5418": {
   "checked": "2026-11-02T10:13:04+00:00",
@@ -14644,7 +14666,7 @@
   "main": 18.0
  },
  "igdb:6816": {
-  "checked": "2026-11-02T21:15:08+00:00",
+  "checked": "2026-11-02T21:17:16+00:00",
   "complete": 2.0,
   "extra": 2.0,
   "hltb_id": 5106,
@@ -15249,7 +15271,7 @@
   "main": 5.0
  },
  "igdb:77854": {
-  "checked": "2026-11-02T21:15:01+00:00"
+  "checked": "2026-11-02T21:12:54+00:00"
  },
  "igdb:7786": {
   "checked": "2026-10-28T06:00:26+00:00",
