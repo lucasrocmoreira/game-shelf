@@ -660,6 +660,10 @@ function earliestUnplayed(g, pool){
   return prev.length ? {game:prev[0]} : null;
 }
 function consoleFor(g){  // the console tab a game from elsewhere can be sent to
+  if(emuOnlySteam(g)){  // emulated on Steam: send it to a real console you have it on (Switch Online), else nowhere
+    const hit = Object.entries(CONSOLES).find(([k,c])=>k!=="steam" && k!==state.view && c.plats && g.platforms.some(p=>c.plats.includes(p)));
+    return hit ? hit[0] : null;
+  }
   const catalogOnly = g._catalog || !((VIEWS.library.data||{}).games||[]).some(x=>x.key===g.key);
   if(catalogOnly) return state.view==="ps5" ? null : "ps5";
   const hit = Object.entries(CONSOLES).find(([k,c])=>k!==state.view && c.plats && g.platforms.some(p=>c.plats.includes(p)));  // VR has no platform list
@@ -688,7 +692,12 @@ function guidePrev(best, pool){
 }
 function whereIs(g){
   const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
-  return g._catalog ? `in the PS Plus catalog (${g.platforms.join(", ")})` : g.nso ? `Switch Online (${g.platforms.join(" + ")})` : `you have it on ${p.join(", ")}`;
+  const orig = g.platforms.filter(x=>!["Steam","Switch","Switch 2"].includes(x)).join(", ");
+  const onSwitch = g.platforms.some(x=>x==="Switch"||x==="Switch 2");
+  if(g.emu && !g.steam_native && onSwitch) return `Switch Online or EmuDeck (${orig})`;
+  if(g.nso) return `Switch Online (${g.platforms.join(" + ")})`;
+  if(emuOnlySteam(g)) return `EmuDeck (${orig})`;
+  return g._catalog ? `in the PS Plus catalog (${g.platforms.join(", ")})` : `you have it on ${p.join(", ")}`;
 }
 function suggestions(keep=[null,null,null]){
   const games = DATA.games.filter(g=>!g._hidden), inTab = new Set(DATA.games.map(g=>g.key));
@@ -734,7 +743,7 @@ function suggestions(keep=[null,null,null]){
     let game = best, why = [];
     // Earlier entries are looked up across everything you have: every console, PS Plus and Switch Online.
     const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !taken(x)
-      && !(state.view==="steam" && emuOnlySteam(x)) && !(x.emu && !x.steam_native && !x.nso && x.platforms.every(p=>p==="Steam" || !Object.values(CONSOLES).some(c=>(c.plats||[]).includes(p)))));
+      && !(state.view==="steam" && emuOnlySteam(x)));  // EmuDeck games can be earlier entries anywhere but on Steam Machine
     // The franchise guides know each series' real order (checked against Wikipedia); fall back to IGDB series data.
     const prev = guidePrev(best, everywhere) || earliestUnplayed(best, everywhere);
     if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest ${prev.guide ? `${esc(prev.guide)} game` : "entry in the series"} you haven't played.`);
