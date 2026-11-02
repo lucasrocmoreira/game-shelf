@@ -26226,7 +26226,7 @@
  },
  "SNES:emu:SNES:Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer": {
   "candidates": null,
-  "checked": "2026-11-02T21:11:57+00:00",
+  "checked": "2026-11-02T21:13:54+00:00",
   "conf": "manual",
   "id": 77854,
   "mp": null,
@@ -26295,6 +26295,18 @@
   "title": "Hagane: The Final Conflict",
   "v": 4,
   "via": "search"
+ },
+ "SNES:emu:SNES:Hammer Lock Wrestling": {
+  "candidates": null,
+  "checked": "2026-11-02T21:13:54+00:00",
+  "conf": "manual",
+  "id": 38228,
+  "mp": null,
+  "score": null,
+  "slug": "tenryu-genichiro-no-pro-wrestling-revolution",
+  "title": "Hammer Lock Wrestling",
+  "v": 4,
+  "via": "fix"
  },
  "SNES:emu:SNES:Harley's Humongous Adventure": {
   "candidates": 1,
@@ -26403,6 +26415,18 @@
   "title": "Jikkyou Oshaberi Parodius",
   "v": 4,
   "via": "search"
+ },
+ "SNES:emu:SNES:Jim Lee's WildC.A.T.S - Covert-Action-Teams": {
+  "candidates": null,
+  "checked": "2026-11-02T21:13:55+00:00",
+  "conf": "manual",
+  "id": 42510,
+  "mp": null,
+  "score": null,
+  "slug": "jim-lees-wild-c-dot-a-t-dot-s-covert-action-teams",
+  "title": "Jim Lee's WildC.A.T.S: Covert-Action-Teams",
+  "v": 4,
+  "via": "fix"
  },
  "SNES:emu:SNES:Joe & Mac": {
   "candidates": 13,
@@ -26597,16 +26621,16 @@
   "via": "search"
  },
  "SNES:emu:SNES:Knights of the Round": {
-  "candidates": 6,
-  "checked": "2026-11-02T08:46:11+00:00",
-  "conf": "high",
-  "id": 224023,
+  "candidates": null,
+  "checked": "2026-11-02T21:13:55+00:00",
+  "conf": "manual",
+  "id": 6816,
   "mp": null,
-  "score": 1.04,
-  "slug": null,
+  "score": null,
+  "slug": "knights-of-the-round",
   "title": "Knights of the Round",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:emu:SNES:Legend": {
   "candidates": 29,
@@ -26943,6 +26967,18 @@
   "title": "Mighty Morphin Power Rangers: The Movie",
   "v": 4,
   "via": "search"
+ },
+ "SNES:emu:SNES:Mobile Suit Gundam Wing - Endless Duel": {
+  "candidates": null,
+  "checked": "2026-11-02T21:13:55+00:00",
+  "conf": "manual",
+  "id": 42464,
+  "mp": null,
+  "score": null,
+  "slug": "shin-kidou-senki-gundam-wing-endless-duel",
+  "title": "Mobile Suit Gundam Wing: Endless Duel",
+  "v": 4,
+  "via": "fix"
  },
  "SNES:emu:SNES:Monopoly": {
   "candidates": 24,
