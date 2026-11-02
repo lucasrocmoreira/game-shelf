@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -45,6 +46,12 @@ jobs:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python -m pipeline.build
+
+      - name: Alert me if a library source broke
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python -m pipeline.alerts || true
 
       - name: Save cache and data
         if: always()
