@@ -54,8 +54,8 @@ CHILD_PLATS = {}
 DEBUG = None  # set to {} to record why each game was dropped or made a spin-off
 
 FIELDS = ("name,slug,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
-          "rating,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres")
-CACHE_VERSION = 3  # bump when FIELDS change, to fetch everything again
+          "rating,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres,bundles")
+CACHE_VERSION = 4  # bump when FIELDS change, to fetch everything again
 
 
 # Short platform names for games you don't own (shown greyed out in the guides).
@@ -567,6 +567,9 @@ def _auto(fid, name, games, known, by_id, now, cur=None, fids=None):
     entries = _pair_versions(entries)
     for e in entries:
         ids = [e["id"], *e.get("ids", [])]
+        # Owning a collection counts as owning its games (the N. Sane Trilogy has Crash 1, 2 and 3).
+        via = {b for i in ids for b in ((known.get(i) or {}).get("bundles") or [])}
+        e["keys"] = sorted(set(e["keys"]) | set().union(*(by_id.get(b, set()) for b in via)))
         own = list(e.get("plats") or (known.get(e["id"]) or {}).get("platforms") or [])
         e["on"] = _platform_names(own + [p for i in ids for p in sorted(CHILD_PLATS.get(i, ()))], PNAMES)
         for k in ("plats", "_sec", "_vr"):
