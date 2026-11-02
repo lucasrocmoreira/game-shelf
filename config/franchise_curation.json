@@ -4881,5 +4881,1436 @@
   ],
   "notes": "Main = Ys I to X plus Origin, with Falcom remakes Ys Eternal (Ys I), The Oath in Felghana (Ys III) and Memories of Celceta (Ys IV). Ys IV only existed as two licensed 1993 versions (Mask of the Sun, The Dawn of Ys); both listed, Celceta marked as remake of Mask of the Sun. Taito PS2 remakes (Ys IV A New Theory, Ys V Lost Kefin PS2), Ys 2 Special, compilations (Complete, Chronicles) and Memoire remasters left out of main. Ys X: Nordics was wrongly in spin-offs. Zwei is a separate Falcom series (dropped).",
   "curated_at": "2026-10-30"
+ },
+ "Banjo & Kazooie": {
+  "franchise": "Banjo & Kazooie",
+  "source": "https://en.wikipedia.org/wiki/Banjo-Kazooie",
+  "main": [
+   {
+    "id": 2148
+   },
+   {
+    "id": 3418
+   },
+   {
+    "id": 6318
+   },
+   {
+    "id": 3008
+   }
+  ],
+  "drop": [
+   2723,
+   24346,
+   254823,
+   113120,
+   122260,
+   289065,
+   279442,
+   264836,
+   194643
+  ],
+  "notes": "Wikipedia treats Banjo-Pilot as a spin-off kart racer; Nuts & Bolts is described as a mainline entry. Dropped Diddy Kong Racing (Donkey Kong franchise), crossovers (Sonic & Sega All-Stars Racing, Smash Ultimate passes, Minecraft skin pack), and undated fan/unreleased entries (The Fast And The Furriest, Kazoo, Grunty's Curse, Banjo X).",
+  "curated_at": "2026-11-02"
+ },
+ "Battletoads": {
+  "franchise": "Battletoads",
+  "source": "https://en.wikipedia.org/wiki/Battletoads",
+  "main": [
+   {
+    "id": 2970
+   },
+   {
+    "id": 18577
+   },
+   {
+    "id": 14591,
+    "title": "Battletoads Arcade"
+   },
+   {
+    "id": 103289,
+    "title": "Battletoads (2020)"
+   }
+  ],
+  "drop": [
+   284226
+  ],
+  "notes": "Main: NES original, Battlemaniacs, Battletoads Arcade (IGDB 'Battletoads' 1994), and the 2020 reboot (only in IGDB collection c545, not the franchise). Wikipedia calls the 1991 Game Boy game a spin-off and Battletoads/Double Dragon a crossover; both stay as spin-offs. Battletoads in Ragnarok's World is a port. Dropped an undated GBA 'Battletoads' (unreleased).",
+  "curated_at": "2026-11-02"
+ },
+ "Bomberman": {
+  "franchise": "Bomberman",
+  "source": "https://en.wikipedia.org/wiki/List_of_Bomberman_video_games",
+  "sections": [
+   {
+    "name": "Bomberman",
+    "games": [
+     {
+      "name": "Bomber Man",
+      "year": 1983
+     },
+     {
+      "id": 85953
+     },
+     {
+      "id": 3445
+     },
+     {
+      "id": 3446
+     },
+     {
+      "id": 3447
+     },
+     {
+      "id": 42097
+     },
+     {
+      "id": 77942
+     },
+     {
+      "id": 3448
+     },
+     {
+      "id": 64335,
+      "title": "Hi-Ten Chara Bomb"
+     },
+     {
+      "id": 28393
+     },
+     {
+      "id": 18153
+     },
+     {
+      "id": 3451
+     },
+     {
+      "id": 66221
+     },
+     {
+      "id": 27255
+     },
+     {
+      "id": 3453
+     },
+     {
+      "id": 18786,
+      "title": "Bomberman Party Edition"
+     },
+     {
+      "id": 3452,
+      "title": "Bomberman 64: The Second Attack"
+     },
+     {
+      "id": 6716
+     },
+     {
+      "id": 80368,
+      "title": "Bomberman 64 (2001)"
+     },
+     {
+      "id": 3832
+     },
+     {
+      "id": 3833
+     },
+     {
+      "id": 27256,
+      "title": "Bomberman Online (2003)"
+     },
+     {
+      "id": 77673
+     },
+     {
+      "id": 17456
+     },
+     {
+      "id": 50701
+     },
+     {
+      "id": 44572
+     },
+     {
+      "id": 67696
+     }
+    ]
+   },
+   {
+    "name": "Super Bomberman",
+    "games": [
+     {
+      "id": 3450
+     },
+     {
+      "id": 14530
+     },
+     {
+      "id": 18618
+     },
+     {
+      "id": 80539
+     },
+     {
+      "id": 38387
+     },
+     {
+      "id": 26760
+     },
+     {
+      "id": 135826
+     },
+     {
+      "id": 206807
+     }
+    ]
+   },
+   {
+    "name": "Handheld",
+    "games": [
+     {
+      "id": 7760
+     },
+     {
+      "id": 7793
+     },
+     {
+      "id": 135909,
+      "title": "Bomberman GB 2"
+     },
+     {
+      "id": 49081
+     },
+     {
+      "id": 2980
+     },
+     {
+      "id": 49837
+     },
+     {
+      "id": 49839
+     },
+     {
+      "id": 49838
+     },
+     {
+      "id": 6334,
+      "title": "Bomberman Story / Bomberman Tournament"
+     },
+     {
+      "id": 6331
+     },
+     {
+      "id": 6333
+     },
+     {
+      "id": 67859
+     },
+     {
+      "id": 162426,
+      "title": "Bomberman (N-Gage)"
+     },
+     {
+      "id": 22287,
+      "title": "Bomberman (DS)"
+     },
+     {
+      "id": 129853,
+      "title": "Bomberman (PSP)"
+     },
+     {
+      "id": 66613
+     },
+     {
+      "id": 85843
+     },
+     {
+      "id": 67318
+     }
+    ]
+   },
+   {
+    "name": "Bomberman Land",
+    "games": [
+     {
+      "id": 77674
+     },
+     {
+      "id": 3834
+     },
+     {
+      "id": 64947
+     },
+     {
+      "id": 20612
+     },
+     {
+      "id": 21613,
+      "title": "Bomberman Land (Wii)"
+     },
+     {
+      "id": 197973,
+      "title": "Bomberman Land (PSP)"
+     },
+     {
+      "id": 20774
+     }
+    ]
+   },
+   {
+    "name": "Arcade",
+    "games": [
+     {
+      "id": 18937,
+      "title": "Bomberman (arcade)"
+     },
+     {
+      "id": 39495,
+      "title": "Bomberman World (arcade)"
+     },
+     {
+      "id": 39463
+     }
+    ]
+   }
+  ],
+  "drop": [
+   37605,
+   350660,
+   198215,
+   234006,
+   92177,
+   150653
+  ],
+  "notes": "Sections follow the Wikipedia list's tables (main home series, Super Bomberman, handheld, Land, arcade); Super Bomberman R titles are listed only under Super Bomberman although Wikipedia also repeats them in the main table. Wikipedia's 'main' table is broad (it includes Atomic Bomberman, Saturn Bomberman Fight!!, Jetters, Net de Bomberman, Live/Ultra/Battlefest); kept as listed. Bomber Man (1983) has no IGDB entry in the cache (NES Bomberman is typed as its remake, parent 45324). Mobile titles, compilations and the spin-off table (Panic Bomber, Kart, Act Zero, Bombergirl, etc.) are left to the spin-off view. Bomber King / RoboWarrior is not in the cache. Dropped Star Parodier (cameo), a Photopi card, unreleased Bomberman Legends / Virtual Bomberman / Bomberman 3DS, and an R Online DLC pack.",
+  "curated_at": "2026-11-02"
+ },
+ "Contra": {
+  "franchise": "Contra",
+  "source": "https://en.wikipedia.org/wiki/Contra_(series)",
+  "main": [
+   {
+    "id": 4598
+   },
+   {
+    "id": 4622
+   },
+   {
+    "id": 11522
+   },
+   {
+    "id": 6351
+   },
+   {
+    "id": 22226
+   },
+   {
+    "id": 20208
+   },
+   {
+    "id": 9545
+   },
+   {
+    "id": 119385
+   },
+   {
+    "id": 266684,
+    "remake_of": 4598
+   }
+  ],
+  "spin": [
+   {
+    "id": 21174
+   }
+  ],
+  "drop": [
+   296834,
+   261495,
+   306610
+  ],
+  "notes": "Main per the Wikipedia series timeline. Contra Force, Hard Corps, Legacy of War, C: The Contra Adventure, ReBirth and Hard Corps: Uprising are spin-offs per Wikipedia (Uprising only in collection c717, added to spin). Operation Galuga is a reimagining of the original (IGDB types it as a remake). Contra Evolution (2010 mobile remake) left as spin-off. Dropped the Vampire Survivors DLC and cancelled Contra Spirits 64 / Contra Online.",
+  "curated_at": "2026-11-02"
+ },
+ "Dragon Ball": {
+  "franchise": "Dragon Ball",
+  "exclude": true,
+  "notes": "Wikipedia's List of Dragon Ball video games is a licensed-game list for the anime/manga with no main series; it only describes several unrelated sub-series (Super Butoden, Budokai, Budokai Tenkaichi/Sparking, Xenoverse, Goku RPGs). Not a single game series worth a main-series guide.",
+  "curated_at": "2026-11-02"
+ },
+ "F-Zero": {
+  "franchise": "F-Zero",
+  "source": "https://en.wikipedia.org/wiki/F-Zero",
+  "main": [
+   {
+    "id": 3490
+   },
+   {
+    "id": 3489
+   },
+   {
+    "id": 3491
+   },
+   {
+    "id": 3492
+   },
+   {
+    "id": 329620,
+    "title": "F-Zero: GP Legend"
+   },
+   {
+    "id": 6400
+   }
+  ],
+  "drop": [
+   1626,
+   1627,
+   1628,
+   9621,
+   9602,
+   90101,
+   2172,
+   2350,
+   22141,
+   26764,
+   354770,
+   213363,
+   213594
+  ],
+  "notes": "Main: F-Zero, X, Maximum Velocity, GX, GP Legend, Climax (the six numbered/console-handheld games). Wikipedia marks main entries in bold, but the bolding could not be read; GP Legend and Climax inclusion is a judgment call. GP Legend uses the Japanese original 'F-Zero: Falcon Densetsu' (329620; the English 3493 is typed as its expanded game). BS F-Zero Grand Prix 1/2, X Expansion Kit, AX, F-Zero 99 (battle royale) and Zero Racers (Wikipedia: spin-off) stay as spin-offs. Dropped Smash, Mario Kart 8, Nintendo Land, SNES Classic bundles and an e-Reader card.",
+  "curated_at": "2026-11-02"
+ },
+ "Golden Axe": {
+  "franchise": "Golden Axe",
+  "source": "https://en.wikipedia.org/wiki/Golden_Axe",
+  "main": [
+   {
+    "id": 5565
+   },
+   {
+    "id": 16214
+   },
+   {
+    "id": 39285,
+    "title": "Golden Axe: The Revenge of Death Adder"
+   },
+   {
+    "id": 16369
+   },
+   {
+    "id": 73128,
+    "title": "Golden Axe (2003 remake)",
+    "remake_of": 5565
+   },
+   {
+    "id": 7001
+   }
+  ],
+  "spin": [
+   {
+    "name": "Ax Battler: A Legend of Golden Axe",
+    "year": 1991
+   }
+  ],
+  "drop": [
+   47367,
+   2174,
+   299190,
+   112014
+  ],
+  "notes": "Main per Wikipedia: Golden Axe, II, Revenge of Death Adder, III, Beast Rider. Golden Axe Warrior and The Duel are spin-offs. The Sega Ages 2500 Vol. 5 3D remake is not mentioned by Wikipedia but is a remake of the original, so it is listed as such (remove if strictly Wikipedia-only). Ax Battler (Game Gear) is not in the cache. Dropped crossovers (Sega Superstars Tennis, Sonic & All-Stars Racing Transformed, Sega Heroes).",
+  "curated_at": "2026-11-02"
+ },
+ "Gran Turismo": {
+  "franchise": "Gran Turismo",
+  "source": "https://en.wikipedia.org/wiki/Gran_Turismo_(series)",
+  "main": [
+   {
+    "id": 1594
+   },
+   {
+    "id": 1597
+   },
+   {
+    "id": 1600
+   },
+   {
+    "id": 1601
+   },
+   {
+    "id": 1602
+   },
+   {
+    "id": 7316
+   },
+   {
+    "id": 14363
+   },
+   {
+    "id": 101006
+   }
+  ],
+  "spin": [
+   {
+    "id": 1604
+   },
+   {
+    "id": 1599
+   },
+   {
+    "id": 20426
+   },
+   {
+    "id": 22061
+   },
+   {
+    "id": 80163
+   },
+   {
+    "id": 73022
+   },
+   {
+    "id": 1598
+   },
+   {
+    "id": 324502
+   }
+  ],
+  "drop": [
+   298017,
+   286868,
+   88893,
+   136852,
+   370002,
+   416116,
+   412370
+  ],
+  "notes": "Main = the eight numbered/console entries (GT1 to GT7 plus GT Sport). GT4 and GT5 use IGDB ids 1601/1602, which IGDB types as expanded games of their Prologues. Prologues, Concept editions, HD Concept, the 2009 PSP game and My First Gran Turismo are spin-offs. Dropped: GT2000 demo, unreleased Gran Turismo HD, a bundle, and Spec update entries.",
+  "curated_at": "2026-11-02"
+ },
+ "Guitar Hero": {
+  "franchise": "Guitar Hero",
+  "source": "https://en.wikipedia.org/wiki/Guitar_Hero",
+  "main": [
+   {
+    "id": 1285
+   },
+   {
+    "id": 2670
+   },
+   {
+    "id": 2671
+   },
+   {
+    "id": 2669
+   },
+   {
+    "id": 2672
+   },
+   {
+    "id": 2629
+   },
+   {
+    "id": 9741
+   }
+  ],
+  "spin": [
+   {
+    "id": 2673
+   },
+   {
+    "id": 2674
+   },
+   {
+    "id": 2675
+   },
+   {
+    "id": 2676
+   },
+   {
+    "id": 2677
+   },
+   {
+    "id": 2678
+   },
+   {
+    "id": 2679
+   },
+   {
+    "name": "DJ Hero 2",
+    "year": 2010
+   },
+   {
+    "id": 7088
+   },
+   {
+    "id": 7089
+   },
+   {
+    "id": 7090
+   },
+   {
+    "id": 85864
+   },
+   {
+    "id": 78236
+   }
+  ],
+  "drop": [
+   251431,
+   265027
+  ],
+  "notes": "Main follows Wikipedia's 'Main games' row: GH, II, III, World Tour, 5, Warriors of Rock, Live. Band-centric games (Aerosmith, Metallica, Van Halen), expansion games (Encore, Smash Hits, Band Hero, DJ Hero) and portable/mobile titles are spin-offs. DJ Hero 2 not in the cache. Dropped: unreleased 'Guitar Hero 7' and a mobile song pack.",
+  "curated_at": "2026-11-02"
+ },
+ "Hitman": {
+  "franchise": "Hitman",
+  "source": "https://en.wikipedia.org/wiki/Hitman_(franchise)",
+  "main": [
+   {
+    "id": 1050
+   },
+   {
+    "id": 748
+   },
+   {
+    "id": 1049
+   },
+   {
+    "id": 1048
+   },
+   {
+    "id": 530
+   },
+   {
+    "id": 11157
+   },
+   {
+    "id": 103210
+   },
+   {
+    "id": 134595,
+    "title": "Hitman 3 (Hitman: World of Assassination)"
+   }
+  ],
+  "spin": [
+   {
+    "id": 6073
+   },
+   {
+    "id": 19488
+   },
+   {
+    "id": 144772
+   },
+   {
+    "id": 5567
+   },
+   {
+    "id": 99073
+   }
+  ],
+  "drop": [
+   336886,
+   41619
+  ],
+  "notes": "Main = the eight games in bold on Wikipedia. Hitman 3 was renamed Hitman: World of Assassination in 2023; IGDB keeps the WoA package (233571) as a bundle, so the original Hitman 3 id is used. Hitman Go, Hitman: Sniper, Hitman Sniper: The Shadows, Sniper Challenge and Sniper Assassin are spin-offs. Dropped: a 2001 promotional Christmas flash game and an undated collector's edition entry.",
+  "curated_at": "2026-11-02"
+ },
+ "Indiana Jones": {
+  "franchise": "Indiana Jones",
+  "exclude": true,
+  "notes": "Film license umbrella with no main series on Wikipedia (List of Indiana Jones video games is a flat list of movie tie-ins, adventure games, LEGO games and standalone titles by many publishers).",
+  "curated_at": "2026-11-02"
+ },
+ "James Bond": {
+  "franchise": "James Bond",
+  "exclude": true,
+  "notes": "Film license umbrella with no main series on Wikipedia (List of James Bond video games covers tie-ins and original stories by many developers and publishers since 1983).",
+  "curated_at": "2026-11-02"
+ },
+ "Mana": {
+  "franchise": "Mana",
+  "source": "https://en.wikipedia.org/wiki/Mana_(series)",
+  "main": [
+   {
+    "id": 407
+   },
+   {
+    "id": 6630,
+    "remake_of": 407
+   },
+   {
+    "id": 19865,
+    "remake_of": 407
+   },
+   {
+    "id": 3216
+   },
+   {
+    "id": 55092,
+    "title": "Secret of Mana (2018 remake)",
+    "remake_of": 3216
+   },
+   {
+    "id": 11227
+   },
+   {
+    "id": 119391,
+    "title": "Trials of Mana (2020 remake)",
+    "remake_of": 11227
+   },
+   {
+    "id": 14986
+   },
+   {
+    "id": 14989
+   },
+   {
+    "id": 279636
+   }
+  ],
+  "spin": [
+   {
+    "id": 14988
+   },
+   {
+    "id": 287438
+   },
+   {
+    "id": 14990
+   },
+   {
+    "id": 61192
+   },
+   {
+    "id": 62078
+   },
+   {
+    "id": 174178
+   }
+  ],
+  "notes": "Wikipedia does not list a main series explicitly; it calls Visions of Mana the fifth mainline installment and the first since Dawn of Mana (the 'main game' of World of Mana). Main here = Final Fantasy Adventure, Secret of Mana, Trials of Mana, Legend of Mana, Dawn of Mana, Visions of Mana, plus remakes (Sword of Mana and Adventures of Mana remake FFA). Legend of Mana is included because most players count it, though the Japanese numbering skips it. Children/Friends/Heroes of Mana (World of Mana) and the mobile titles are spin-offs.",
+  "curated_at": "2026-11-02"
+ },
+ "Metal Slug": {
+  "franchise": "Metal Slug",
+  "source": "https://en.wikipedia.org/wiki/List_of_Metal_Slug_video_games",
+  "main": [
+   {
+    "id": 1404
+   },
+   {
+    "id": 1407
+   },
+   {
+    "id": 1408
+   },
+   {
+    "id": 1409
+   },
+   {
+    "id": 1410
+   },
+   {
+    "id": 1411
+   },
+   {
+    "id": 1412
+   }
+  ],
+  "spin": [
+   {
+    "id": 18840
+   },
+   {
+    "id": 21760
+   },
+   {
+    "id": 43986
+   },
+   {
+    "id": 43984
+   },
+   {
+    "id": 1406
+   },
+   {
+    "id": 44687
+   },
+   {
+    "id": 35593
+   },
+   {
+    "id": 59100
+   },
+   {
+    "id": 115990
+   },
+   {
+    "id": 193975
+   },
+   {
+    "id": 175038
+   },
+   {
+    "id": 152062
+   },
+   {
+    "name": "Metal Slug Touch",
+    "year": 2009
+   }
+  ],
+  "drop": [
+   75485,
+   75486,
+   75487,
+   75483,
+   75489,
+   215427,
+   213554,
+   137929
+  ],
+  "notes": "Main follows Wikipedia's main series (1 to 7). Metal Slug X and XX are listed by Wikipedia as updated versions of 2 and 7, so they are put in spin-offs (many players do treat X as an entry; move it to main if preferred). Advance, the Neo Geo Pocket games, the 2006 3D game and the mobile/tactics games are spin-offs. Dropped: duplicate 1st/2nd Mission variant entries (Versions B/C/D, Best Collection), Neo Geo Mini hardware bundles, and the unreleased Metal Slug Zero Online. Metal Slug Touch is not in the cache.",
+  "curated_at": "2026-11-02"
+ },
+ "Mickey Mouse": {
+  "franchise": "Mickey Mouse",
+  "exclude": true,
+  "notes": "Disney character license spanning dozens of unrelated games by many developers (Illusion, Magical Quest, Epic Mickey, edutainment, racing). Wikipedia has no Mickey Mouse game series with a main line, only per-series articles and a broad list of Disney games.",
+  "curated_at": "2026-11-02"
+ },
+ "NBA": {
+  "franchise": "NBA",
+  "exclude": true,
+  "notes": "Sports league license, not a game series. It covers several independent series (NBA 2K, NBA Live, NBA Jam, NBA Street, NBA ShootOut, NBA Inside Drive, etc.) from different publishers; Wikipedia has no NBA game series article with a main line.",
+  "curated_at": "2026-11-02"
+ },
+ "Pac-Man": {
+  "franchise": "Pac-Man",
+  "source": "https://en.wikipedia.org/wiki/List_of_Pac-Man_video_games",
+  "notes": "Wikipedia only has a 'List of Pac-Man video games' with no main-series designation. Main list here is a judgement call: the original arcade maze line and its direct arcade sequels, the numbered/flagship console sequels (Pac-Man 2, Pac-Man World trilogy plus its Re-Pac remakes), and the modern Namco-made core games (Championship Edition line, Pac-Man 256, Pac-Man 99). Pac-Man Plus (variant), Professor Pac-Man (quiz), Baby Pac-Man (pinball hybrid), Pac-Man VR, puzzle/party/kart/mobile titles left as spin-offs. Ms. Pac-Man (GCC/Midway) kept because players treat it as the core sequel.",
+  "main": [
+   {
+    "id": 2750
+   },
+   {
+    "id": 7452
+   },
+   {
+    "id": 21681
+   },
+   {
+    "id": 18381
+   },
+   {
+    "id": 7453
+   },
+   {
+    "id": 6822
+   },
+   {
+    "id": 12192
+   },
+   {
+    "id": 11603
+   },
+   {
+    "id": 178228,
+    "remake_of": 2750
+   },
+   {
+    "id": 6530
+   },
+   {
+    "id": 305269
+   },
+   {
+    "id": 4064
+   },
+   {
+    "id": 20900
+   },
+   {
+    "id": 21737,
+    "title": "Pac-Man Championship Edition DX"
+   },
+   {
+    "id": 14701
+   },
+   {
+    "id": 23240
+   },
+   {
+    "id": 145515
+   },
+   {
+    "id": 206811,
+    "remake_of": 6530
+   },
+   {
+    "id": 358530,
+    "remake_of": 305269
+   }
+  ],
+  "drop": [
+   337034,
+   405904
+  ],
+  "curated_at": "2026-11-02"
+ },
+ "Punch-Out!!": {
+  "franchise": "Punch-Out!!",
+  "source": "https://en.wikipedia.org/wiki/Punch-Out!!",
+  "notes": "Main entries: arcade Punch-Out!! and Super Punch-Out!! (1984), NES Mike Tyson's Punch-Out!! (1987), SNES Super Punch-Out!! (1994), Wii Punch-Out!! (2009). Wikipedia names Game & Watch Boxing and Arm Wrestling as spin-offs; Doc Louis's Punch-Out!! is a small WiiWare prequel. The NES game uses IGDB 2195 (typed as an expanded game of the 1987 Gold competition cartridge 329510, which stays a spin-off). The NES 'Punch-Out!! Featuring Mr. Dream' is a port (84799). SNES Super Punch-Out!! is typed by IGDB as a remake of the arcade game but is a separate game, so no remake_of.",
+  "main": [
+   {
+    "id": 9150
+   },
+   {
+    "id": 9152
+   },
+   {
+    "id": 2195
+   },
+   {
+    "id": 9151
+   },
+   {
+    "id": 2194
+   }
+  ],
+  "curated_at": "2026-11-02"
+ },
+ "Shinobi": {
+  "franchise": "Shinobi",
+  "source": "https://en.wikipedia.org/wiki/Shinobi_(series)",
+  "notes": "Wikipedia gives one numbered timeline of 13 games with no main/spin-off split, so all 13 are main. Alex Kidd in Shinobi World (parody, prose only) and the GBA The Revenge of Shinobi (2002, not in the Wikipedia table) stay spin-offs. Four games are not in the cache and are given by name; the Game Gear Shinobi is looked up as 'The G.G. Shinobi' and Nightshade may be named 'Kunoichi' on IGDB.",
+  "main": [
+   {
+    "id": 6899
+   },
+   {
+    "id": 6876
+   },
+   {
+    "id": 3327
+   },
+   {
+    "id": 10217
+   },
+   {
+    "id": 10218
+   },
+   {
+    "name": "The G.G. Shinobi",
+    "year": 1991,
+    "title": "Shinobi (Game Gear)"
+   },
+   {
+    "name": "Shinobi II: The Silent Fury",
+    "year": 1992
+   },
+   {
+    "id": 2623
+   },
+   {
+    "name": "Shinobi Legions",
+    "year": 1995
+   },
+   {
+    "id": 10223
+   },
+   {
+    "name": "Nightshade",
+    "year": 2003
+   },
+   {
+    "id": 86252,
+    "title": "Shinobi 3D"
+   },
+   {
+    "id": 279630
+   }
+  ],
+  "curated_at": "2026-11-02"
+ },
+ "SimCity": {
+  "franchise": "SimCity",
+  "source": "https://en.wikipedia.org/wiki/SimCity",
+  "notes": "Wikipedia's main series: SimCity (1989), 2000, 3000, 4, SimCity (2013). Societies, DS, Creator, 64, Deluxe, Social, BuildIt are other SimCity titles (spin-offs here). The 2006 'SimCity' (208990, mobile remake) is not main. SimFarm is a Wikipedia-listed spin-off already in the cache. The two 'Graphics Set' entries are add-ons typed as games.",
+  "main": [
+   {
+    "id": 1272
+   },
+   {
+    "id": 330
+   },
+   {
+    "id": 237
+   },
+   {
+    "id": 1275
+   },
+   {
+    "id": 1274
+   }
+  ],
+  "drop": [
+   77969,
+   84170
+  ],
+  "curated_at": "2026-11-02"
+ },
+ "SoulCalibur": {
+  "franchise": "SoulCalibur",
+  "source": "https://en.wikipedia.org/wiki/Soulcalibur",
+  "notes": "Wikipedia main series has 7 installments including Soul Edge (1996). Broken Destiny (PSP), Legends, Lost Swords, Unbreakable Soul, Mobile, II HD Online are spin-offs. Legends and Lost Swords are not in the cache, added as spin-offs by name. 328917 is a second, unrated PS3-only 'SoulCalibur IV' entry (duplicate of 1567), dropped.",
+  "main": [
+   {
+    "id": 1563
+   },
+   {
+    "id": 1564
+   },
+   {
+    "id": 1565
+   },
+   {
+    "id": 1566
+   },
+   {
+    "id": 1567
+   },
+   {
+    "id": 1013
+   },
+   {
+    "id": 76885
+   }
+  ],
+  "spin": [
+   {
+    "name": "Soulcalibur Legends",
+    "year": 2007
+   },
+   {
+    "name": "Soulcalibur: Lost Swords",
+    "year": 2014
+   }
+  ],
+  "drop": [
+   328917
+  ],
+  "curated_at": "2026-11-02"
+ },
+ "Spyro the Dragon": {
+  "franchise": "Spyro the Dragon",
+  "source": "https://en.wikipedia.org/wiki/Spyro",
+  "main": [
+   {
+    "id": 1576
+   },
+   {
+    "id": 1577
+   },
+   {
+    "id": 1578
+   },
+   {
+    "id": 1587
+   },
+   {
+    "id": 1588
+   },
+   {
+    "id": 1579
+   },
+   {
+    "id": 1589
+   },
+   {
+    "id": 1580
+   },
+   {
+    "id": 1581
+   },
+   {
+    "id": 1582
+   },
+   {
+    "id": 1583
+   },
+   {
+    "id": 1584
+   },
+   {
+    "id": 142213,
+    "title": "Spyro the Dragon (Reignited Trilogy)",
+    "remake_of": 1576
+   },
+   {
+    "id": 142242,
+    "title": "Spyro 2: Ripto's Rage! (Reignited Trilogy)",
+    "remake_of": 1577
+   },
+   {
+    "id": 142243,
+    "title": "Spyro: Year of the Dragon (Reignited Trilogy)",
+    "remake_of": 1578
+   }
+  ],
+  "drop": [
+   336310,
+   253357,
+   210237,
+   1199,
+   65286,
+   59963,
+   63345,
+   5159,
+   11058,
+   82418,
+   85572,
+   317015,
+   21563,
+   317016,
+   112193
+  ],
+  "notes": "Wikipedia's Spyro article lists games in one chronological prose run with no main/spin-off labels; it treats Legend of Spyro as a reboot trilogy and Reignited as remakes. Main = the original-continuity games including the Digital Eclipse GBA trilogy and Shadow Legacy (DS sequel to A Hero's Tail), plus the Legend trilogy. Spyro Orange (Crash crossover) left as spin-off; its Crash Purple twin dropped as a Crash game. Skylanders: Spyro's Adventure stays as a spin-off; other Skylanders titles dropped (Wikipedia does not count Skylanders as Spyro games). Dropped LCD bootlegs (Spyro 4, Spyro the Dragon 8) and a Crash Nitro Kart port. Spyro: A Realm Beyond (2027) unreleased.",
+  "curated_at": "2026-11-02"
+ },
+ "Street Fighter": {
+  "franchise": "Street Fighter",
+  "source": "https://en.wikipedia.org/wiki/List_of_Street_Fighter_video_games",
+  "main": [
+   {
+    "id": 6930
+   },
+   {
+    "id": 3186
+   },
+   {
+    "id": 39496
+   },
+   {
+    "id": 20878
+   },
+   {
+    "id": 12860
+   },
+   {
+    "id": 4238
+   },
+   {
+    "id": 6702
+   },
+   {
+    "id": 6703
+   },
+   {
+    "id": 6708
+   },
+   {
+    "id": 6709
+   },
+   {
+    "id": 6704
+   },
+   {
+    "id": 6710
+   },
+   {
+    "id": 45195
+   },
+   {
+    "id": 45198
+   },
+   {
+    "id": 884
+   },
+   {
+    "id": 21796
+   },
+   {
+    "id": 7198
+   },
+   {
+    "id": 20586
+   },
+   {
+    "id": 6895
+   },
+   {
+    "id": 6656
+   },
+   {
+    "id": 8258
+   },
+   {
+    "id": 26773
+   },
+   {
+    "id": 74155
+   },
+   {
+    "id": 126095
+   },
+   {
+    "id": 191692
+   }
+  ],
+  "drop": [
+   5495,
+   90101,
+   102809,
+   294861,
+   145351,
+   282684,
+   1655,
+   178315,
+   178316
+  ],
+  "notes": "Main = numbered games, Alpha 1-3, and every update/version in Wikipedia's main-series timeline: SFII Champion Edition, Hyper Fighting, Super, Super Turbo, Super Turbo Revival (GBA 2001), Hyper SFII, SSFII Turbo HD Remix, Ultra SFII; SFIII 2nd Impact and 3rd Strike; Super SFIV, Arcade Edition, 3D Edition, Ultra SFIV; SFV Arcade Edition and Champion Edition. Super SFIV 3D Edition only exists in IGDB as a port of Super SFIV (6895), used as-is. EX series, crossovers, puzzle games and movie games stay spin-offs. Dropped games of other franchises that IGDB attaches via guest characters/DLC (Asura's Wrath, Smash Ultimate and its Ryu DLC, KOF AllStar, Final Fight, Capcom Tabi Quiz 100, Neco Drop 2, UT Adventure).",
+  "curated_at": "2026-11-02"
+ },
+ "Streets of Rage": {
+  "franchise": "Streets of Rage",
+  "source": "https://en.wikipedia.org/wiki/Streets_of_Rage",
+  "main": [
+   {
+    "id": 1652
+   },
+   {
+    "id": 1653
+   },
+   {
+    "id": 151541,
+    "title": "Streets of Rage 3"
+   },
+   {
+    "id": 107262
+   }
+  ],
+  "spin": [
+   {
+    "id": 140046
+   }
+  ],
+  "drop": [
+   280849,
+   112014,
+   9721,
+   241863
+  ],
+  "notes": "IGDB models Streets of Rage 3 (1654) as a port of Bare Knuckle III (151541, same 1994 date); used the original id with the English title. Streets of Kamurocho (Yakuza crossover, 2020) added as spin-off. Streets of Rage: Revolution (announced 2023) unreleased. Dropped Project X Zone 2 (cameo only), Sega Heroes, Fighters of Capcom, and an undated duplicate Streets of Rage 4 entry.",
+  "curated_at": "2026-11-02"
+ },
+ "Super Smash Bros.": {
+  "franchise": "Super Smash Bros.",
+  "source": "https://en.wikipedia.org/wiki/Super_Smash_Bros.",
+  "main": [
+   {
+    "id": 1626
+   },
+   {
+    "id": 1627
+   },
+   {
+    "id": 1628
+   },
+   {
+    "id": 9621
+   },
+   {
+    "id": 9602
+   },
+   {
+    "id": 90101
+   }
+  ],
+  "drop": [
+   328589,
+   328674,
+   291047
+  ],
+  "notes": "Wikipedia counts five entries; Super Smash Bros. for Nintendo 3DS and Wii U is one entry with two releases, listed as two ids. No spin-offs. Dropped two browser-platform duplicates of Super Smash Bros. and Brawl (fan/Flash entries) and Play Nintendo: Puzzles.",
+  "curated_at": "2026-11-02"
+ },
+ "Tony Hawk's": {
+  "franchise": "Tony Hawk's",
+  "source": "https://en.wikipedia.org/wiki/Tony_Hawk%27s",
+  "main": [
+   {
+    "id": 6692
+   },
+   {
+    "id": 913
+   },
+   {
+    "id": 914
+   },
+   {
+    "id": 915
+   },
+   {
+    "id": 2698
+   },
+   {
+    "id": 2699
+   },
+   {
+    "id": 7219
+   },
+   {
+    "id": 6204
+   },
+   {
+    "id": 2700
+   },
+   {
+    "id": 2701
+   },
+   {
+    "id": 5230
+   },
+   {
+    "id": 10090
+   },
+   {
+    "id": 1382,
+    "remake_of": 6692
+   },
+   {
+    "id": 257595,
+    "title": "Tony Hawk's Pro Skater 1 (1+2 remake)",
+    "remake_of": 6692
+   },
+   {
+    "id": 257598,
+    "title": "Tony Hawk's Pro Skater 2 (1+2 remake)",
+    "remake_of": 913
+   },
+   {
+    "id": 334248,
+    "title": "Tony Hawk's Pro Skater 3 (3+4 remake)",
+    "remake_of": 914
+   },
+   {
+    "id": 334249,
+    "title": "Tony Hawk's Pro Skater 4 (3+4 remake)",
+    "remake_of": 915
+   }
+  ],
+  "drop": [
+   138344
+  ],
+  "notes": "Main = the 12 core games Wikipedia lists (THPS 1-4, Underground 1-2, American Wasteland, Project 8, Proving Ground, Ride, Shred, THPS5) plus remakes. Ride and Shred are peripheral-based but Wikipedia lists them in the main run. THPS HD remakes levels from THPS 1 and 2; remake_of set to THPS 1 (judgment call). IGDB splits 1+2 and 3+4 into per-game remake ids. Downhill Jam, Motion, American Sk8land and mobile titles stay spin-offs. Dropped THUG Pro (fan mod).",
+  "curated_at": "2026-11-02"
+ },
+ "Turok": {
+  "franchise": "Turok",
+  "source": "https://en.wikipedia.org/wiki/Turok_(video_game_series)",
+  "main": [
+   {
+    "id": 1321
+   },
+   {
+    "id": 1326
+   },
+   {
+    "id": 1328
+   },
+   {
+    "id": 1329
+   },
+   {
+    "id": 1330
+   },
+   {
+    "id": 120545
+   }
+  ],
+  "drop": [
+   146729
+  ],
+  "notes": "Wikipedia main series: Dinosaur Hunter, Turok 2, Turok 3, Evolution, Turok (2008), Escape from Lost Valley (2019; Wikipedia lists it in the main run though it is a smaller top-down game). Rage Wars moved to spin-offs (Wikipedia calls it non-canon spin-off). Nightdive remasters not listed separately. Turok: Origins delayed to spring 2027, not included. Dropped undated cancelled Turok 2 (2008 sequel).",
+  "curated_at": "2026-11-02"
+ },
+ "Worms": {
+  "franchise": "Worms",
+  "source": "https://en.wikipedia.org/wiki/Worms_(series)",
+  "main": [
+   {
+    "id": 9331
+   },
+   {
+    "id": 154748
+   },
+   {
+    "id": 947
+   },
+   {
+    "id": 948
+   },
+   {
+    "id": 6294
+   },
+   {
+    "id": 1047
+   },
+   {
+    "id": 6244
+   },
+   {
+    "id": 18313
+   },
+   {
+    "id": 18314
+   },
+   {
+    "id": 5290
+   },
+   {
+    "id": 20480
+   },
+   {
+    "id": 1017
+   },
+   {
+    "id": 5291
+   },
+   {
+    "id": 9333,
+    "remake_of": 6244
+   },
+   {
+    "id": 9334
+   },
+   {
+    "id": 23410
+   },
+   {
+    "id": 7082
+   },
+   {
+    "id": 8967
+   },
+   {
+    "id": 59763
+   },
+   {
+    "id": 19696
+   },
+   {
+    "id": 355849
+   }
+  ],
+  "spin": [
+   {
+    "name": "Worms Pinball",
+    "year": 1998,
+    "title": "Worms Pinball"
+   }
+  ],
+  "notes": "Follows Wikipedia's main-series list. Worms: The Director's Cut (Amiga special edition) included because Wikipedia lists it. Worms Forts: Under Siege sits in Wikipedia's main list but its prose calls it a spin-off; most players count it as a spin-off, so it is left out of main. Worms Battlegrounds only exists in IGDB as a port of Clan Wars (8967), used as-is. Worms (2007 console release, a port of Open Warfare) has no distinct IGDB entry and is omitted. Ultimate Mayhem marked as remake of Worms 4: Mayhem. Worms Blast moved to spin-offs; Worms Pinball not in cache (by name). Worms Galactic Tactics (2027) unreleased.",
+  "curated_at": "2026-11-02"
  }
 }

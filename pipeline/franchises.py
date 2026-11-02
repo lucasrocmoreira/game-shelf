@@ -633,6 +633,9 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
     out = [chosen[i] for i in dict.fromkeys(order)]
     for it in cur.get("spin") or []:
         g = known.get(it.get("id")) if it.get("id") else None
+        if g is None and it.get("name"):  # spin-offs given by name and year
+            g = next((x for x in known.values() if _norm(x.get("name")) == _norm(it["name"])
+                      and (not it.get("year") or not _year(x) or abs(_year(x) - it["year"]) <= 1)), None)
         if g and g["id"] not in chosen and g["id"] not in by_entry:
             by_entry[g["id"]] = {"id": g["id"], "title": it.get("title") or g.get("name"), "slug": g.get("slug"),
                                  "year": _year(g), "date": g.get("first_release_date"), "cover": _cover(g),
