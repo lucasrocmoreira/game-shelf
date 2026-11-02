@@ -14,7 +14,8 @@
   "checked": "2026-10-28T05:07:13+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "oddworld-abes-exoddus"
+  "metacritic_slug": "oddworld-abes-exoddus",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:10002": {
   "bl_v": 2,
@@ -2132,7 +2133,8 @@
   "checked": "2026-10-28T05:10:14+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "tomb-raider-anniversary"
+  "metacritic_slug": "tomb-raider-anniversary",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:116200": {
   "backloggd": 2.4,
@@ -6491,7 +6493,8 @@
   "checked": "2026-10-28T05:05:41+00:00",
   "mc_v": 2,
   "metacritic": 90,
-  "metacritic_slug": "jak-and-daxter-the-precursor-legacy"
+  "metacritic_slug": "jak-and-daxter-the-precursor-legacy",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:1529": {
   "backloggd": 3.7,
@@ -6765,7 +6768,8 @@
   "checked": "2026-10-28T05:08:43+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "soulcalibur-iii"
+  "metacritic_slug": "soulcalibur-iii",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:1568": {
   "backloggd": 3.1,
@@ -7975,7 +7979,8 @@
   "checked": "2026-10-28T06:30:49+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "sly-cooper-and-the-thievius-raccoonus"
+  "metacritic_slug": "sly-cooper-and-the-thievius-raccoonus",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:1799": {
   "backloggd": 4.2,
@@ -7983,7 +7988,8 @@
   "checked": "2026-10-28T05:08:34+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "sly-2-band-of-thieves"
+  "metacritic_slug": "sly-2-band-of-thieves",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:18": {
   "backloggd": 4.0,
@@ -12047,7 +12053,8 @@
   "checked": "2026-10-28T05:06:57+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:2367": {
   "backloggd": 3.2,
@@ -14562,7 +14569,8 @@
   "checked": "2026-10-28T05:03:46+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "dino-crisis"
+  "metacritic_slug": "dino-crisis",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:3029": {
   "backloggd": 3.7,
@@ -17227,7 +17235,8 @@
   "checked": "2026-10-28T05:06:36+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:4002": {
   "backloggd": 3.5,
@@ -17424,7 +17433,8 @@
   "checked": "2026-10-28T05:03:49+00:00",
   "mc_v": 2,
   "metacritic": 86,
-  "metacritic_slug": "dino-crisis-2"
+  "metacritic_slug": "dino-crisis-2",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:413288": {},
  "igdb:414": {
@@ -20422,7 +20432,8 @@
   "checked": "2026-10-28T04:03:26+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:22:12+00:00"
  },
  "igdb:6598": {
   "backloggd": 3.3,
@@ -22537,6 +22548,15 @@
   "opencritic_pct": 68,
   "opencritic_tier": "Strong"
  },
+ "igdb:86490": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-11-02T21:21:42+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-02T21:21:42+00:00"
+ },
  "igdb:8652": {
   "backloggd": 3.4,
   "bl_v": 2,
@@ -23050,7 +23070,8 @@
   "checked": "2026-10-28T05:11:23+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "worms"
+  "metacritic_slug": "worms",
+  "oc_checked": "2026-11-02T21:21:42+00:00"
  },
  "igdb:9335": {
   "backloggd": 2.0,

@@ -5279,16 +5279,16 @@
   "via": "search"
  },
  "Game Boy:nso:Game Boy:Tetris": {
-  "candidates": 30,
-  "checked": "2026-10-28T05:34:30+00:00",
-  "conf": "high",
-  "id": 326807,
+  "candidates": null,
+  "checked": "2026-11-02T21:21:26+00:00",
+  "conf": "manual",
+  "id": 86490,
   "mp": null,
-  "score": 1.12,
-  "slug": null,
+  "score": null,
+  "slug": "tetris--1",
   "title": "Tetris",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "Game Boy:nso:Game Boy:Tetris DX": {
   "candidates": 2,
@@ -8795,16 +8795,16 @@
   "via": "search"
  },
  "NES:nso:NES:Tetris": {
-  "candidates": 30,
-  "checked": "2026-10-28T05:34:30+00:00",
-  "conf": "high",
-  "id": 326807,
+  "candidates": null,
+  "checked": "2026-11-02T21:21:26+00:00",
+  "conf": "manual",
+  "id": 86490,
   "mp": null,
-  "score": 1.12,
-  "slug": null,
+  "score": null,
+  "slug": "tetris--1",
   "title": "Tetris",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "NES:nso:NES:The Immortal": {
   "candidates": 23,

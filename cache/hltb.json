@@ -15916,6 +15916,14 @@
   "hltb_name": "The Surge 2",
   "main": 20.5
  },
+ "igdb:86490": {
+  "checked": "2026-11-02T21:22:14+00:00",
+  "complete": 13.0,
+  "extra": 5.5,
+  "hltb_id": 9715,
+  "hltb_name": "Tetris",
+  "main": 3.0
+ },
  "igdb:8652": {
   "checked": "2026-10-18T14:04:47+00:00",
   "complete": 17.0,
