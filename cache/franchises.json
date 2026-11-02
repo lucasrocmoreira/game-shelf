@@ -458620,6 +458620,84 @@
  },
  "_extra": {
   "ids": {
+   "10220": {
+    "collections": [
+     {
+      "id": 512,
+      "name": "Shinobi"
+     }
+    ],
+    "cover": {
+     "id": 140645,
+     "image_id": "co30it"
+    },
+    "first_release_date": 724032000,
+    "game_type": 0,
+    "genres": [
+     8,
+     25,
+     33
+    ],
+    "id": 10220,
+    "name": "Shinobi II: The Silent Fury",
+    "platforms": [
+     35
+    ],
+    "rating": 72.51295714376734,
+    "slug": "shinobi-ii-the-silent-fury",
+    "total_rating_count": 9
+   },
+   "10221": {
+    "collections": [
+     {
+      "id": 512,
+      "name": "Shinobi"
+     }
+    ],
+    "cover": {
+     "id": 140636,
+     "image_id": "co30ik"
+    },
+    "first_release_date": 804470400,
+    "game_type": 0,
+    "genres": [
+     8,
+     25
+    ],
+    "id": 10221,
+    "name": "Shinobi Legions",
+    "platforms": [
+     32
+    ],
+    "rating": 60.0,
+    "slug": "shinobi-legions",
+    "total_rating_count": 5
+   },
+   "10224": {
+    "aggregated_rating": 60.66666666666666,
+    "collections": [
+     {
+      "id": 512,
+      "name": "Shinobi"
+     }
+    ],
+    "cover": {
+     "id": 78979,
+     "image_id": "co1oxv"
+    },
+    "first_release_date": 1070496000,
+    "game_type": 0,
+    "genres": [
+     25
+    ],
+    "id": 10224,
+    "name": "Nightshade",
+    "platforms": [
+     8
+    ],
+    "slug": "nightshade",
+    "total_rating_count": 3
+   },
    "10877": {
     "collections": [
      {
@@ -458714,6 +458792,32 @@
     "slug": "zombie-army-4-dead-war",
     "total_rating_count": 49
    },
+   "19485": {
+    "collections": [
+     {
+      "id": 956,
+      "name": "Golden Axe"
+     }
+    ],
+    "cover": {
+     "id": 196949,
+     "image_id": "co47yt"
+    },
+    "first_release_date": 688953600,
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 19485,
+    "name": "Ax Battler: A Legend of Golden Axe",
+    "platforms": [
+     35
+    ],
+    "rating": 52.98296634815123,
+    "slug": "ax-battler-a-legend-of-golden-axe",
+    "total_rating_count": 5
+   },
    "20871": {
     "aggregated_rating": 71.0,
     "collections": [
@@ -458775,6 +458879,31 @@
     "slug": "story-of-seasons-a-wonderful-life",
     "total_rating_count": 2
    },
+   "22030": {
+    "aggregated_rating": 30.0,
+    "collections": [
+     {
+      "id": 226,
+      "name": "SoulCalibur"
+     }
+    ],
+    "cover": {
+     "id": 266269,
+     "image_id": "co5pgd"
+    },
+    "first_release_date": 1391644800,
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 22030,
+    "name": "Soulcalibur: Lost Swords",
+    "platforms": [
+     9
+    ],
+    "slug": "soulcalibur-lost-swords",
+    "total_rating_count": 1
+   },
    "240": {
     "aggregated_rating": 90.0,
     "collections": [
@@ -458801,6 +458930,18 @@
     "rating": 80.31330224617209,
     "slug": "battlefield-1942",
     "total_rating_count": 277
+   },
+   "247059": {
+    "bundles": [
+     246225
+    ],
+    "game_type": 0,
+    "id": 247059,
+    "name": "Bomber-Man",
+    "platforms": [
+     377
+    ],
+    "slug": "bomber-man"
    },
    "254327": {
     "aggregated_rating": 85.16666666666667,
@@ -458832,6 +458973,34 @@
     "rating": 76.82753683603308,
     "slug": "super-mario-rpg",
     "total_rating_count": 74
+   },
+   "2680": {
+    "aggregated_rating": 86.42857142857143,
+    "collections": [
+     {
+      "id": 4841,
+      "name": "DJ Hero"
+     }
+    ],
+    "cover": {
+     "id": 111557,
+     "image_id": "co2e2t"
+    },
+    "first_release_date": 1287446400,
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 2680,
+    "name": "DJ Hero 2",
+    "platforms": [
+     9,
+     5,
+     12
+    ],
+    "rating": 81.81265852870112,
+    "slug": "dj-hero-2",
+    "total_rating_count": 25
    },
    "280839": {
     "cover": {
@@ -458976,6 +459145,33 @@
      13
     ],
     "slug": "jack-in-the-dark"
+   },
+   "5170": {
+    "aggregated_rating": 40.0,
+    "collections": [
+     {
+      "id": 226,
+      "name": "SoulCalibur"
+     }
+    ],
+    "cover": {
+     "id": 89665,
+     "image_id": "co1x6p"
+    },
+    "first_release_date": 1195516800,
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 5170,
+    "name": "Soulcalibur Legends",
+    "platforms": [
+     5
+    ],
+    "rating": 43.50412929092631,
+    "slug": "soulcalibur-legends",
+    "total_rating_count": 13
    },
    "52149": {
     "collections": [
@@ -459152,6 +459348,32 @@
     "slug": "alone-in-the-dark-illumination",
     "total_rating_count": 8
    },
+   "Ax Battler: A Legend of Golden Axe|1991": {
+    "collections": [
+     {
+      "id": 956,
+      "name": "Golden Axe"
+     }
+    ],
+    "cover": {
+     "id": 196949,
+     "image_id": "co47yt"
+    },
+    "first_release_date": 688953600,
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 19485,
+    "name": "Ax Battler: A Legend of Golden Axe",
+    "platforms": [
+     35
+    ],
+    "rating": 52.98296634815123,
+    "slug": "ax-battler-a-legend-of-golden-axe",
+    "total_rating_count": 5
+   },
    "Battlefield 1942|2002": {
     "aggregated_rating": 90.0,
     "collections": [
@@ -459286,6 +459508,46 @@
     ],
     "slug": "bentleys-hackpack"
    },
+   "Bomber Man|1983": {
+    "bundles": [
+     246225
+    ],
+    "game_type": 0,
+    "id": 247059,
+    "name": "Bomber-Man",
+    "platforms": [
+     377
+    ],
+    "slug": "bomber-man"
+   },
+   "DJ Hero 2|2010": {
+    "aggregated_rating": 86.42857142857143,
+    "collections": [
+     {
+      "id": 4841,
+      "name": "DJ Hero"
+     }
+    ],
+    "cover": {
+     "id": 111557,
+     "image_id": "co2e2t"
+    },
+    "first_release_date": 1287446400,
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 2680,
+    "name": "DJ Hero 2",
+    "platforms": [
+     9,
+     5,
+     12
+    ],
+    "rating": 81.81265852870112,
+    "slug": "dj-hero-2",
+    "total_rating_count": 25
+   },
    "Ghosts'n Goblins: Gold Knights II|2010": {
     "collections": [
      {
@@ -459380,7 +459642,86 @@
     ],
     "slug": "makaimura-for-wonderswan"
    },
+   "Metal Slug Touch|2009": null,
    "Nazo Makaimura: Incredible Toons|1996": null,
+   "Nightshade|2003": {
+    "aggregated_rating": 60.66666666666666,
+    "collections": [
+     {
+      "id": 512,
+      "name": "Shinobi"
+     }
+    ],
+    "cover": {
+     "id": 78979,
+     "image_id": "co1oxv"
+    },
+    "first_release_date": 1070496000,
+    "game_type": 0,
+    "genres": [
+     25
+    ],
+    "id": 10224,
+    "name": "Nightshade",
+    "platforms": [
+     8
+    ],
+    "slug": "nightshade",
+    "total_rating_count": 3
+   },
+   "Shinobi II: The Silent Fury|1992": {
+    "collections": [
+     {
+      "id": 512,
+      "name": "Shinobi"
+     }
+    ],
+    "cover": {
+     "id": 140645,
+     "image_id": "co30it"
+    },
+    "first_release_date": 724032000,
+    "game_type": 0,
+    "genres": [
+     8,
+     25,
+     33
+    ],
+    "id": 10220,
+    "name": "Shinobi II: The Silent Fury",
+    "platforms": [
+     35
+    ],
+    "rating": 72.51295714376734,
+    "slug": "shinobi-ii-the-silent-fury",
+    "total_rating_count": 9
+   },
+   "Shinobi Legions|1995": {
+    "collections": [
+     {
+      "id": 512,
+      "name": "Shinobi"
+     }
+    ],
+    "cover": {
+     "id": 140636,
+     "image_id": "co30ik"
+    },
+    "first_release_date": 804470400,
+    "game_type": 0,
+    "genres": [
+     8,
+     25
+    ],
+    "id": 10221,
+    "name": "Shinobi Legions",
+    "platforms": [
+     32
+    ],
+    "rating": 60.0,
+    "slug": "shinobi-legions",
+    "total_rating_count": 5
+   },
    "Sniper Elite: Nazi Zombie Army 2|2013": {
     "collections": [
      {
@@ -459407,6 +459748,58 @@
     "rating": 67.23595112145316,
     "slug": "sniper-elite-nazi-zombie-army-2",
     "total_rating_count": 16
+   },
+   "Soulcalibur Legends|2007": {
+    "aggregated_rating": 40.0,
+    "collections": [
+     {
+      "id": 226,
+      "name": "SoulCalibur"
+     }
+    ],
+    "cover": {
+     "id": 89665,
+     "image_id": "co1x6p"
+    },
+    "first_release_date": 1195516800,
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 5170,
+    "name": "Soulcalibur Legends",
+    "platforms": [
+     5
+    ],
+    "rating": 43.50412929092631,
+    "slug": "soulcalibur-legends",
+    "total_rating_count": 13
+   },
+   "Soulcalibur: Lost Swords|2014": {
+    "aggregated_rating": 30.0,
+    "collections": [
+     {
+      "id": 226,
+      "name": "SoulCalibur"
+     }
+    ],
+    "cover": {
+     "id": 266269,
+     "image_id": "co5pgd"
+    },
+    "first_release_date": 1391644800,
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 22030,
+    "name": "Soulcalibur: Lost Swords",
+    "platforms": [
+     9
+    ],
+    "slug": "soulcalibur-lost-swords",
+    "total_rating_count": 1
    },
    "Story of Seasons: A Wonderful Life|2023": {
     "aggregated_rating": 63.5,
@@ -459438,6 +459831,7 @@
     "slug": "story-of-seasons-a-wonderful-life",
     "total_rating_count": 2
    },
+   "The G.G. Shinobi|1991": null,
    "The Walking Dead: Michonne|2016": {
     "aggregated_rating": 68.33333333333333,
     "collections": [
@@ -459472,6 +459866,7 @@
     "slug": "the-walking-dead-michonne",
     "total_rating_count": 221
    },
+   "Worms Pinball|1998": null,
    "Zombie Army 4: Dead War|2020": {
     "aggregated_rating": 72.77777777777777,
     "collections": [
