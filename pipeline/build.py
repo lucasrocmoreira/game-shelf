@@ -490,6 +490,10 @@ def refresh_opencritic(rows, cache, wd_cache):
             break
         c = cache[r["key"]]
         if not oc_id:
+            yr = _year(r["igdb"])
+            if yr and yr < 2013:  # OpenCritic covers games from about 2015 on: don't spend searches on older ones
+                c["oc_checked"] = now_iso()
+                continue
             if oc.searches_left <= 0:
                 continue
             oc_id = oc.find_id(r["title"])
