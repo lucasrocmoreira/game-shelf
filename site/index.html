@@ -260,6 +260,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
     <div class="row" id="platforms" role="group" aria-label="Platforms"></div>
     <div class="row" id="steamRow" hidden>
       <button type="button" class="chip" id="hideEmuSteam" aria-pressed="false">Hide EmuDeck games</button>
+      <button type="button" class="chip" id="hidePsCat" aria-pressed="false">Hide PS Plus</button>
     </div>
     <div class="row" id="catRow" hidden>
       <div class="seg" id="tierSeg" role="group" aria-label="Catalog">
@@ -340,10 +341,10 @@ const store = {
 const prefs = store.get("shelf-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
-  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, hideEmuSteam:!!prefs.hideEmuSteam, showHidden:false,
+  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, hideEmuSteam:prefs.hideEmuSteam ?? true, hidePsCat:prefs.hidePsCat ?? true, showHidden:false,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideEmu:state.hideEmu,hideEmuSteam:state.hideEmuSteam,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
+function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideEmu:state.hideEmu,hideEmuSteam:state.hideEmuSteam,hidePsCat:state.hidePsCat,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
 
 // Which repository this site belongs to: <owner>.github.io/<repo>/
 const REPO = store.get("shelf-repo", null) || (()=>{
@@ -485,7 +486,8 @@ function filtered(){
     (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played) &&
     (!state.hideNso || !g.nso || g._played || g._playing) &&
     (!state.hideEmu || !g.emu || g._played || g._playing) &&
-    (state.view!=="steam" || !state.hideEmuSteam || !emuOnlySteam(g)));
+    (state.view!=="steam" || !state.hideEmuSteam || !emuOnlySteam(g)) &&
+    (!CONSOLES[state.view] || !CONSOLES[state.view].psplus || !state.hidePsCat || !g._catalog));
 }
 function shown(g){
   const k=state.sort;
@@ -1310,8 +1312,8 @@ const VIEWS = {library:{file:"data.json"}, psplus:{file:"psplus.json"}};
 /* Console tabs: everything you can play on that console, built from your library (and, for PS5, the PS Plus catalog). */
 const CONSOLES = {
   ps5:     {label:"PS5", plats:["PS5","PS4","PlayStation"], psplus:true, note:"Your PS4 and PS5 games plus the PS Plus Extra and Premium catalog."},
-  ps3:     {label:"PS3", plats:["PS3"], note:"Your PS3 games."},
-  vita:    {label:"PS Vita", plats:["PS Vita","PSP"], note:"Your PS Vita and PSP games."},
+  ps3:     {label:"PS3", plats:["PS3"], psplus:true, note:"Your PS3 games, plus PS3 classics in PS Plus Premium (played on PS5)."},
+  vita:    {label:"PS Vita", plats:["PS Vita","PSP"], psplus:true, note:"Your PS Vita and PSP games, plus PSP classics in PS Plus Premium (played on PS5)."},
   wii:     {label:"Wii", plats:["Wii"], note:"Your Wii games."},
   switch2: {label:"Switch 2", plats:["Switch","Switch 2"], note:"Your Switch and Switch 2 games plus the Switch Online classics."},
   ds:      {label:"DS", plats:["DS"], note:"Your Nintendo DS games."},
@@ -1339,7 +1341,9 @@ async function loadView(v){
       const c = CONSOLES[v], lib = await loadView("library"), cat = c.psplus ? await loadView("psplus") : {games:[]};
       const seen = new Set(), games = [];
       for(const g of lib.games) if(g.platforms.some(p=>c.plats.includes(p))){ seen.add(g.key); games.push(g); }
-      for(const g of cat.games) if(!seen.has(g.key)){ seen.add(g.key); g._catalog = true; games.push(g); }
+      // PS5 takes the whole catalog; PS3 and PS Vita take the classics that came from those consoles.
+      const fits = g=>v==="ps5" || g.platforms.some(p=>c.plats.includes(p));
+      for(const g of cat.games) if(!seen.has(g.key) && fits(g)){ seen.add(g.key); g._catalog = true; games.push(g); }
       VIEWS[v] = {data:{generated:lib.generated, status:{}, games}};
     }
     return VIEWS[v].data;
@@ -1367,8 +1371,11 @@ async function showView(v){
   for(const b of $("tabs").querySelectorAll("[data-view]")) b.setAttribute("aria-selected", b.dataset.view===v);
   $("addBtn").hidden = v==="psplus";
   $("catRow").hidden = v!=="psplus";
-  $("steamRow").hidden = v!=="steam";
+  $("steamRow").hidden = !(v==="steam" || (CONSOLES[v] && CONSOLES[v].psplus));
+  $("hideEmuSteam").hidden = v!=="steam";
+  $("hidePsCat").hidden = !(CONSOLES[v] && CONSOLES[v].psplus);
   $("hideEmuSteam").setAttribute("aria-pressed", !!state.hideEmuSteam);
+  $("hidePsCat").setAttribute("aria-pressed", !!state.hidePsCat);
   if(v!=="psplus" && state.sort==="added") state.sort = "avg";
   applyAll(); setup(); render();
 }
@@ -1381,6 +1388,7 @@ $("tabs").onclick = e=>{ const b=e.target.closest("[data-view]"); if(b) showView
 $("tierSeg").onclick = e=>{ const b=e.target.closest("button"); if(!b) return; state.tier=b.dataset.v;
   for(const x of $("tierSeg").querySelectorAll("button")) x.setAttribute("aria-pressed", x===b); render(); };
 $("hideOwned").checked = state.hideOwned;
+$("hidePsCat").onclick = ()=>{ state.hidePsCat = !state.hidePsCat; $("hidePsCat").setAttribute("aria-pressed", state.hidePsCat); render(); };
 $("hideEmuSteam").onclick = ()=>{ state.hideEmuSteam = !state.hideEmuSteam; $("hideEmuSteam").setAttribute("aria-pressed", state.hideEmuSteam); render(); };
 $("hideOwned").onchange = e=>{ state.hideOwned = e.target.checked; render(); };
 
