@@ -2753,12 +2753,12 @@
   "switch2": {
    "slots": [
     {
-     "key": "igdb:207026",
-     "best": "igdb:207026",
+     "key": "igdb:3490",
+     "best": "igdb:3492",
      "why": [
-      "Top-rated game you haven't played (average 88)",
-      "A change of genre: RPG",
-      "A longer one this time: about 48.5h to beat"
+      "Play this game to get to the amazing F-Zero GX (86). It's the earliest F-Zero game you haven't played.",
+      "A change of genre: Racing",
+      "About 4h to beat"
      ],
      "sent": false
     },
@@ -2788,9 +2788,10 @@
     "igdb:158983",
     "igdb:1439",
     "igdb:71976",
-    "igdb:207026"
+    "igdb:207026",
+    "igdb:3490"
    ],
-   "date": "2026-10-30T18:59:04.901Z"
+   "date": "2026-11-02T15:24:32.069Z"
   },
   "ds": {
    "slots": [
