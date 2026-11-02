@@ -258,6 +258,9 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
       <select id="sort" aria-label="Rank by"></select>
     </div>
     <div class="row" id="platforms" role="group" aria-label="Platforms"></div>
+    <div class="row" id="steamRow" hidden>
+      <button type="button" class="chip" id="hideEmuSteam" aria-pressed="false">Hide EmuDeck games</button>
+    </div>
     <div class="row" id="catRow" hidden>
       <div class="seg" id="tierSeg" role="group" aria-label="Catalog">
         <button data-v="all" aria-pressed="true">Everything</button>
@@ -323,6 +326,7 @@ const GROUPS = [["","No grouping"],["genres","Group by genre"],["themes","Group 
 const FILTERS = {genres:"All genres", themes:"All themes", franchises:"All franchises", modes:"All modes", perspectives:"All perspectives"};
 const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"Backloggd",igdb:"IGDB",steam:"Steam",hltb:"HowLongToBeat"};
 const LENGTHS = [["","Any length"],["0-10","Under 10 hours"],["10-30","10 to 30 hours"],["30-60","30 to 60 hours"],["60-9999","Over 60 hours"]];
+const emuOnlySteam = g => !!g.emu && !g.steam_native;  // on Steam only through EmuDeck
 const beat = g => g.ttb ? (g.ttb.extra ?? g.ttb.main ?? g.ttb.complete ?? null) : null;  // hours for main story + extras (you take your time)
 const hrs = h => h==null ? "–" : (h<1 ? "<1h" : (Number.isInteger(h) ? h : h.toFixed(1)) + "h");
 const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","Quest","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
@@ -336,10 +340,10 @@ const store = {
 const prefs = store.get("shelf-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
-  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, showHidden:false,
+  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, hideEmuSteam:!!prefs.hideEmuSteam, showHidden:false,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideEmu:state.hideEmu,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
+function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideEmu:state.hideEmu,hideEmuSteam:state.hideEmuSteam,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
 
 // Which repository this site belongs to: <owner>.github.io/<repo>/
 const REPO = store.get("shelf-repo", null) || (()=>{
@@ -480,7 +484,8 @@ function filtered(){
     (!state.length || (()=>{ const h=beat(g), [lo,hi]=state.length.split("-").map(Number); return h!=null && h>=lo && h<hi; })()) &&
     (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played) &&
     (!state.hideNso || !g.nso || g._played || g._playing) &&
-    (!state.hideEmu || !g.emu || g._played || g._playing));
+    (!state.hideEmu || !g.emu || g._played || g._playing) &&
+    (state.view!=="steam" || !state.hideEmuSteam || !emuOnlySteam(g)));
 }
 function shown(g){
   const k=state.sort;
@@ -695,6 +700,7 @@ function suggestions(keep=[null,null,null]){
   const want = curLen >= LONG_GAME ? "short" : (curLen && curLen <= SHORT_GAME ? "long" : "");
   const pool = games.filter(g=>{
     if(g._played || g._playing || !g.matched) return false;
+    if(state.view==="steam" && emuOnlySteam(g)) return false;  // emulated classics aren't Steam games
     const h = beat(g);
     if(h && g.playtime && g.playtime >= h*0.9) return false;  // probably finished, just not marked
     return true;
@@ -727,7 +733,8 @@ function suggestions(keep=[null,null,null]){
     if(!best) continue;
     let game = best, why = [];
     // Earlier entries are looked up across everything you have: every console, PS Plus and Switch Online.
-    const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !taken(x));
+    const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !taken(x)
+      && !(state.view==="steam" && emuOnlySteam(x)) && !(x.emu && !x.steam_native && !x.nso && x.platforms.every(p=>p==="Steam" || !Object.values(CONSOLES).some(c=>(c.plats||[]).includes(p)))));
     // The franchise guides know each series' real order (checked against Wikipedia); fall back to IGDB series data.
     const prev = guidePrev(best, everywhere) || earliestUnplayed(best, everywhere);
     if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest ${prev.guide ? `${esc(prev.guide)} game` : "entry in the series"} you haven't played.`);
@@ -760,7 +767,7 @@ function openSuggest(mode){
     // Picks are kept until you replace them, play them or pin them: saved per console with your edits.
     const saved = mode==="restart" ? null : (EDITS.suggest||{})[state.view];
     const byKey = new Map(allGames().map(g=>[g.key,g]));
-    const valid = g=>g && !g._played && !g._playing && !g._hidden;
+    const valid = g=>g && !g._played && !g._playing && !g._hidden && !(state.view==="steam" && emuOnlySteam(g));
     SUGGEST.skip = new Set(saved ? saved.skip||[] : []);
     SUGGEST.slots = [0,1,2].map(i=>{ const x = saved && (saved.slots||[])[i]; const g = x && byKey.get(x.key);
       return valid(g) ? {game:g, best:byKey.get(x.best)||g, why:x.why||[], sent:!!x.sent} : null; });
@@ -1351,6 +1358,8 @@ async function showView(v){
   for(const b of $("tabs").querySelectorAll("[data-view]")) b.setAttribute("aria-selected", b.dataset.view===v);
   $("addBtn").hidden = v==="psplus";
   $("catRow").hidden = v!=="psplus";
+  $("steamRow").hidden = v!=="steam";
+  $("hideEmuSteam").setAttribute("aria-pressed", !!state.hideEmuSteam);
   if(v!=="psplus" && state.sort==="added") state.sort = "avg";
   applyAll(); setup(); render();
 }
@@ -1363,6 +1372,7 @@ $("tabs").onclick = e=>{ const b=e.target.closest("[data-view]"); if(b) showView
 $("tierSeg").onclick = e=>{ const b=e.target.closest("button"); if(!b) return; state.tier=b.dataset.v;
   for(const x of $("tierSeg").querySelectorAll("button")) x.setAttribute("aria-pressed", x===b); render(); };
 $("hideOwned").checked = state.hideOwned;
+$("hideEmuSteam").onclick = ()=>{ state.hideEmuSteam = !state.hideEmuSteam; $("hideEmuSteam").setAttribute("aria-pressed", state.hideEmuSteam); render(); };
 $("hideOwned").onchange = e=>{ state.hideOwned = e.target.checked; render(); };
 
 /* Browsers and home-screen apps can keep an old copy of this page for a while after an update.
