@@ -342,10 +342,10 @@ const store = {
 const prefs = store.get("shelf-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
-  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:!!prefs.hidePlus, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, hideEmuSteam:prefs.hideEmuSteam ?? true, hidePsCat:prefs.hidePsCat ?? true, showHidden:false,
+  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:(prefs.pv||0) < 2 ? true : !!prefs.hidePlus, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, hideEmuSteam:prefs.hideEmuSteam ?? true, hidePsCat:prefs.hidePsCat ?? true, showHidden:false,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){ store.set("shelf-prefs",{sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideEmu:state.hideEmu,hideEmuSteam:state.hideEmuSteam,hidePsCat:state.hidePsCat,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
+function savePrefs(){ store.set("shelf-prefs",{pv:2,sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideEmu:state.hideEmu,hideEmuSteam:state.hideEmuSteam,hidePsCat:state.hidePsCat,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
 
 // Which repository this site belongs to: <owner>.github.io/<repo>/
 const REPO = store.get("shelf-repo", null) || (()=>{
