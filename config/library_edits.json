@@ -2774,12 +2774,12 @@
      "sent": false
     },
     {
-     "key": "igdb:71976",
+     "key": "igdb:80174",
      "best": "igdb:80174",
      "why": [
-      "Play this game to get to the amazing Mario's Super Picross (79). It's the earliest Mario game you haven't played.",
+      "Top-rated game you haven't played (average 79)",
       "A change of genre: Puzzle",
-      "About 19h to beat"
+      "A longer one this time: about 30.5h to beat"
      ],
      "sent": false
     }
@@ -2789,9 +2789,10 @@
     "igdb:1439",
     "igdb:71976",
     "igdb:207026",
-    "igdb:3490"
+    "igdb:3490",
+    "igdb:80174"
    ],
-   "date": "2026-11-02T15:24:32.069Z"
+   "date": "2026-11-02T15:24:57.551Z"
   },
   "ds": {
    "slots": [
