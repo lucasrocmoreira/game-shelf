@@ -466570,6 +466570,28 @@
     "slug": "the-walking-dead-michonne",
     "total_rating_count": 221
    },
+   "117": {
+    "aggregated_rating": 80.28571428571429,
+    "cover": {
+     "id": 102434,
+     "image_id": "co271e"
+    },
+    "first_release_date": 1480982400,
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 117,
+    "name": "The Last Guardian",
+    "platforms": [
+     48
+    ],
+    "rating": 82.49319296978969,
+    "slug": "the-last-guardian",
+    "total_rating_count": 335
+   },
    "119234": {
     "aggregated_rating": 72.77777777777777,
     "collections": [
@@ -466602,6 +466624,163 @@
     "rating": 65.32617687159205,
     "slug": "zombie-army-4-dead-war",
     "total_rating_count": 49
+   },
+   "1227": {
+    "bundles": [
+     26805
+    ],
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 101094,
+     "image_id": "co2606"
+    },
+    "first_release_date": 1014854400,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1227,
+    "name": "Xenosaga Episode I: Der Wille zur Macht",
+    "platforms": [
+     8
+    ],
+    "rating": 74.78561481786772,
+    "slug": "xenosaga-episode-i-der-wille-zur-macht",
+    "total_rating_count": 44
+   },
+   "1228": {
+    "aggregated_rating": 75.0,
+    "bundles": [
+     26805
+    ],
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 101095,
+     "image_id": "co2607"
+    },
+    "first_release_date": 1088035200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1228,
+    "name": "Xenosaga Episode II: Jenseits von Gut und Böse",
+    "platforms": [
+     8
+    ],
+    "rating": 76.91818335713089,
+    "slug": "xenosaga-episode-ii-jenseits-von-gut-und-bose",
+    "total_rating_count": 32
+   },
+   "1229": {
+    "aggregated_rating": 82.0,
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 159915,
+     "image_id": "co3fe3"
+    },
+    "first_release_date": 1152144000,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1229,
+    "name": "Xenosaga Episode III: Also sprach Zarathustra",
+    "platforms": [
+     8
+    ],
+    "rating": 90.24511423825714,
+    "slug": "xenosaga-episode-iii-also-sprach-zarathustra",
+    "total_rating_count": 30
+   },
+   "1346": {
+    "aggregated_rating": 90.0,
+    "cover": {
+     "id": 556672,
+     "image_id": "cobxj4"
+    },
+    "first_release_date": 887155200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1346,
+    "name": "Xenogears",
+    "platforms": [
+     9,
+     7,
+     38
+    ],
+    "rating": 87.75456496365761,
+    "slug": "xenogears",
+    "total_rating_count": 127
+   },
+   "191411": {
+    "aggregated_rating": 90.33333333333333,
+    "bundles": [
+     241167
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 218186,
+     "image_id": "co4ocq"
+    },
+    "first_release_date": 1659052800,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 191411,
+    "name": "Xenoblade Chronicles 3",
+    "platforms": [
+     130
+    ],
+    "rating": 85.02264858996509,
+    "slug": "xenoblade-chronicles-3",
+    "total_rating_count": 70
    },
    "19485": {
     "collections": [
@@ -466715,6 +466894,162 @@
     "slug": "soulcalibur-lost-swords",
     "total_rating_count": 1
    },
+   "2239": {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 310696,
+     "image_id": "co6nqg"
+    },
+    "first_release_date": 1004054400,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2239,
+    "name": "Pikmin",
+    "platforms": [
+     21
+    ],
+    "rating": 80.76662512907815,
+    "slug": "pikmin",
+    "total_rating_count": 184
+   },
+   "2240": {
+    "aggregated_rating": 87.0,
+    "bundles": [
+     353528
+    ],
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 277586,
+     "image_id": "co5y6q"
+    },
+    "first_release_date": 1083196800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2240,
+    "name": "Pikmin 2",
+    "platforms": [
+     21
+    ],
+    "rating": 86.65204526168834,
+    "slug": "pikmin-2",
+    "total_rating_count": 115
+   },
+   "2241": {
+    "aggregated_rating": 86.22222222222223,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 79394,
+     "image_id": "co1p9e"
+    },
+    "first_release_date": 1373673600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2241,
+    "name": "Pikmin 3",
+    "platforms": [
+     41
+    ],
+    "rating": 79.10516949373022,
+    "slug": "pikmin-3",
+    "total_rating_count": 91
+   },
+   "2364": {
+    "aggregated_rating": 90.5,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 570625,
+     "image_id": "coc8ap"
+    },
+    "first_release_date": 1276128000,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2364,
+    "name": "Xenoblade Chronicles",
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 85.76670070537219,
+    "slug": "xenoblade-chronicles",
+    "total_rating_count": 151
+   },
+   "2366": {
+    "aggregated_rating": 85.46666666666667,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 507627,
+     "image_id": "coavor"
+    },
+    "first_release_date": 1430265600,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2366,
+    "name": "Xenoblade Chronicles X",
+    "platforms": [
+     41
+    ],
+    "rating": 80.75410117271332,
+    "slug": "xenoblade-chronicles-x",
+    "total_rating_count": 92
+   },
    "240": {
     "aggregated_rating": 90.0,
     "collections": [
@@ -466784,6 +467119,40 @@
     "rating": 76.82753683603308,
     "slug": "super-mario-rpg",
     "total_rating_count": 74
+   },
+   "26766": {
+    "aggregated_rating": 85.14285714285714,
+    "bundles": [
+     254099
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524558,
+     "image_id": "cob8r2"
+    },
+    "first_release_date": 1512086400,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 26766,
+    "name": "Xenoblade Chronicles 2",
+    "platforms": [
+     130
+    ],
+    "rating": 89.96356931856816,
+    "slug": "xenoblade-chronicles-2",
+    "total_rating_count": 212
    },
    "2680": {
     "aggregated_rating": 86.42857142857143,
@@ -467010,6 +467379,37 @@
     ],
     "slug": "bentleys-hackpack"
    },
+   "59843": {
+    "aggregated_rating": 87.5,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 526517,
+     "image_id": "coba9h"
+    },
+    "first_release_date": 1689897600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     15,
+     31
+    ],
+    "id": 59843,
+    "name": "Pikmin 4",
+    "platforms": [
+     130
+    ],
+    "rating": 85.3158082445315,
+    "slug": "pikmin-4",
+    "total_rating_count": 44
+   },
    "63647": {
     "collections": [
      {
@@ -467085,6 +467485,34 @@
     "rating": 67.74453548028593,
     "slug": "battlefield-hardline",
     "total_rating_count": 335
+   },
+   "7170": {
+    "aggregated_rating": 96.66666666666667,
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 175220,
+     "image_id": "co3r78"
+    },
+    "first_release_date": 1001376000,
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 7170,
+    "name": "Ico",
+    "platforms": [
+     8
+    ],
+    "rating": 85.33552966178051,
+    "slug": "ico",
+    "total_rating_count": 302
    },
    "7716": {
     "collections": [
@@ -467480,6 +467908,130 @@
     "slug": "nightshade",
     "total_rating_count": 3
    },
+   "Pikmin 2|2004": {
+    "aggregated_rating": 87.0,
+    "bundles": [
+     353528
+    ],
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 277586,
+     "image_id": "co5y6q"
+    },
+    "first_release_date": 1083196800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2240,
+    "name": "Pikmin 2",
+    "platforms": [
+     21
+    ],
+    "rating": 86.65204526168834,
+    "slug": "pikmin-2",
+    "total_rating_count": 115
+   },
+   "Pikmin 3|2013": {
+    "aggregated_rating": 86.22222222222223,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 79394,
+     "image_id": "co1p9e"
+    },
+    "first_release_date": 1373673600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2241,
+    "name": "Pikmin 3",
+    "platforms": [
+     41
+    ],
+    "rating": 79.10516949373022,
+    "slug": "pikmin-3",
+    "total_rating_count": 91
+   },
+   "Pikmin 4|2023": {
+    "aggregated_rating": 87.5,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 526517,
+     "image_id": "coba9h"
+    },
+    "first_release_date": 1689897600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     15,
+     31
+    ],
+    "id": 59843,
+    "name": "Pikmin 4",
+    "platforms": [
+     130
+    ],
+    "rating": 85.3158082445315,
+    "slug": "pikmin-4",
+    "total_rating_count": 44
+   },
+   "Pikmin|2001": {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 310696,
+     "image_id": "co6nqg"
+    },
+    "first_release_date": 1004054400,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2239,
+    "name": "Pikmin",
+    "platforms": [
+     21
+    ],
+    "rating": 80.76662512907815,
+    "slug": "pikmin",
+    "total_rating_count": 184
+   },
    "Shinobi II: The Silent Fury|1992": {
     "collections": [
      {
@@ -467678,6 +468230,260 @@
     "total_rating_count": 221
    },
    "Worms Pinball|1998": null,
+   "Xenoblade Chronicles 2|2017": {
+    "aggregated_rating": 85.14285714285714,
+    "bundles": [
+     254099
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524558,
+     "image_id": "cob8r2"
+    },
+    "first_release_date": 1512086400,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 26766,
+    "name": "Xenoblade Chronicles 2",
+    "platforms": [
+     130
+    ],
+    "rating": 89.96356931856816,
+    "slug": "xenoblade-chronicles-2",
+    "total_rating_count": 212
+   },
+   "Xenoblade Chronicles 3|2022": {
+    "aggregated_rating": 90.33333333333333,
+    "bundles": [
+     241167
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 218186,
+     "image_id": "co4ocq"
+    },
+    "first_release_date": 1659052800,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 191411,
+    "name": "Xenoblade Chronicles 3",
+    "platforms": [
+     130
+    ],
+    "rating": 85.02264858996509,
+    "slug": "xenoblade-chronicles-3",
+    "total_rating_count": 70
+   },
+   "Xenoblade Chronicles X|2015": {
+    "aggregated_rating": 85.46666666666667,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 507627,
+     "image_id": "coavor"
+    },
+    "first_release_date": 1430265600,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2366,
+    "name": "Xenoblade Chronicles X",
+    "platforms": [
+     41
+    ],
+    "rating": 80.75410117271332,
+    "slug": "xenoblade-chronicles-x",
+    "total_rating_count": 92
+   },
+   "Xenoblade Chronicles|2010": {
+    "aggregated_rating": 90.5,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 570625,
+     "image_id": "coc8ap"
+    },
+    "first_release_date": 1276128000,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2364,
+    "name": "Xenoblade Chronicles",
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 85.76670070537219,
+    "slug": "xenoblade-chronicles",
+    "total_rating_count": 151
+   },
+   "Xenogears|1998": {
+    "aggregated_rating": 90.0,
+    "cover": {
+     "id": 556672,
+     "image_id": "cobxj4"
+    },
+    "first_release_date": 887155200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1346,
+    "name": "Xenogears",
+    "platforms": [
+     9,
+     7,
+     38
+    ],
+    "rating": 87.75456496365761,
+    "slug": "xenogears",
+    "total_rating_count": 127
+   },
+   "Xenosaga Episode I: Der Wille zur Macht|2002": {
+    "bundles": [
+     26805
+    ],
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 101094,
+     "image_id": "co2606"
+    },
+    "first_release_date": 1014854400,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1227,
+    "name": "Xenosaga Episode I: Der Wille zur Macht",
+    "platforms": [
+     8
+    ],
+    "rating": 74.78561481786772,
+    "slug": "xenosaga-episode-i-der-wille-zur-macht",
+    "total_rating_count": 44
+   },
+   "Xenosaga Episode II: Jenseits von Gut und Böse|2004": {
+    "aggregated_rating": 75.0,
+    "bundles": [
+     26805
+    ],
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 101095,
+     "image_id": "co2607"
+    },
+    "first_release_date": 1088035200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1228,
+    "name": "Xenosaga Episode II: Jenseits von Gut und Böse",
+    "platforms": [
+     8
+    ],
+    "rating": 76.91818335713089,
+    "slug": "xenosaga-episode-ii-jenseits-von-gut-und-bose",
+    "total_rating_count": 32
+   },
+   "Xenosaga Episode III: Also sprach Zarathustra|2006": {
+    "aggregated_rating": 82.0,
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 159915,
+     "image_id": "co3fe3"
+    },
+    "first_release_date": 1152144000,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1229,
+    "name": "Xenosaga Episode III: Also sprach Zarathustra",
+    "platforms": [
+     8
+    ],
+    "rating": 90.24511423825714,
+    "slug": "xenosaga-episode-iii-also-sprach-zarathustra",
+    "total_rating_count": 30
+   },
    "Zombie Army 4: Dead War|2020": {
     "aggregated_rating": 72.77777777777777,
     "collections": [
