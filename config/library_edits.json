@@ -3648,12 +3648,13 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:1076",
+     "key": "igdb:1072",
      "best": "igdb:1077",
      "why": [
-      "Play this game to get to the amazing Super Mario Galaxy (93). It's the earliest Mario game you haven't played.",
-      "Not on this console: you have it on DS",
-      "Shorter than what you're playing: about 11h to beat"
+      "Play this game to get to the amazing Super Mario Galaxy (93). It's the earliest entry in the series you haven't played.",
+      "Not on this console: Switch Online (Switch + Game Boy)",
+      "A change of genre: Platform",
+      "Shorter than what you're playing: about 5h to beat"
      ],
      "sent": false
     },
@@ -3691,9 +3692,11 @@
     "igdb:1074",
     "igdb:1075",
     "igdb:22301",
-    "igdb:1076"
+    "igdb:1076",
+    "igdb:5199",
+    "igdb:1072"
    ],
-   "date": "2026-11-03T07:36:25.331Z"
+   "date": "2026-11-03T07:36:35.634Z"
   }
  }
 }
