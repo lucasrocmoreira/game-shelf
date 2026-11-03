@@ -646,8 +646,9 @@ function render(){
    - a change of pace from what you're playing now: other genres and franchises, and a
      shorter game after a long one (or a longer one after a short one);
    - the three picks also differ from each other. "Replace" swaps one pick (or all
-     three) for the next best, never showing the same game twice. */
-const SUGGEST = {skip:new Set(), slots:[null,null,null]};
+     three) for the next best, never showing the same game twice, and moves away from the
+     replaced game's franchise (it only comes back when little else is left). */
+const SUGGEST = {skip:new Set(), slots:[null,null,null], avoid:[]};  // avoid: series of picks you replaced, newest last
 const LONG_GAME = 40, SHORT_GAME = 20;  // hours to beat the main story + extras
 function seriesOf(g){ return [...(g.series||[]), ...(g.franchises||[])]; }
 function earliestUnplayed(g, pool){
@@ -718,7 +719,7 @@ function suggestions(keep=[null,null,null]){
     if(h && g.playtime && g.playtime >= h*0.9) return false;  // probably finished, just not marked
     return true;
   });
-  const usedGenres = new Map(), usedSeries = new Set(), slots = keep.slice();
+  const usedGenres = new Map(), usedSeries = new Set(), slots = keep.slice(), avoid = new Set(SUGGEST.avoid);
   const taken = g=>slots.some(p=>p && p.game===g);
   const register = p=>{ for(const x of p.game.genres||[]) usedGenres.set(x, true);
                         for(const x of [...seriesOf(p.game), ...seriesOf(p.best||p.game)]) usedSeries.add(x); };
@@ -731,6 +732,7 @@ function suggestions(keep=[null,null,null]){
     const overlap = genres.length ? genres.filter(x=>curGenres.has(x)).length/genres.length : 0;
     s -= 15*overlap;
     if(ser.some(n=>usedSeries.has(n))) s -= 40;
+    if(ser.some(n=>avoid.has(n))) s -= 60;  // you replaced a game from this series: show something else
     s -= 8*genres.filter(x=>usedGenres.has(x)).length/Math.max(1,genres.length);
     if(want==="short") s -= h==null ? 4 : (h > 35 ? 12 : h > SHORT_GAME*1.3 ? 5 : 0);
     if(want==="long")  s -= h==null ? 4 : (h < 16 ? 12 : h < 28 ? 5 : 0);
@@ -767,9 +769,9 @@ function suggestions(keep=[null,null,null]){
 }
 function saveSuggest(){
   const v = state.view, data = {slots: SUGGEST.slots.map(p=>p ? {key:p.game.key, best:(p.best||p.game).key, why:p.why, sent:!!p.sent} : null),
-                                 skip: [...SUGGEST.skip].slice(-300)};
+                                 skip: [...SUGGEST.skip].slice(-300), avoid: SUGGEST.avoid.slice(-40)};
   const cur = (EDITS.suggest||{})[v];
-  if(cur && JSON.stringify({slots:cur.slots, skip:cur.skip}) === JSON.stringify(data)) return;
+  if(cur && JSON.stringify({slots:cur.slots, skip:cur.skip, avoid:cur.avoid}) === JSON.stringify(data)) return;
   EDITS.suggest = {...(EDITS.suggest||{}), [v]: {...data, date: new Date().toISOString()}};
   if(!token() || !REPO) return;  // still remembered on this device until the page reloads
   writeEdits(d=>{ d.suggest = d.suggest||{}; d.suggest[v] = EDITS.suggest[v]; }, `Suggestions for ${CONSOLES[v].label}`, false).catch(()=>{});
@@ -782,13 +784,19 @@ function openSuggest(mode){
     const byKey = new Map(allGames().map(g=>[g.key,g]));
     const valid = g=>g && !g._played && !g._playing && !g._hidden && !(state.view==="steam" && emuOnlySteam(g));
     SUGGEST.skip = new Set(saved ? saved.skip||[] : []);
+    SUGGEST.avoid = saved ? (saved.avoid||[]).slice() : [];
     SUGGEST.slots = [0,1,2].map(i=>{ const x = saved && (saved.slots||[])[i]; const g = x && byKey.get(x.key);
       return valid(g) ? {game:g, best:byKey.get(x.best)||g, why:x.why||[], sent:!!x.sent} : null; });
     for(const p of sentHere()) if(!SUGGEST.slots.some(x=>x && x.game.key===p.game.key)){  // newly sent games go first
       const i = SUGGEST.slots.findIndex(x=>!x); SUGGEST.slots[i>=0 ? i : 2] = p; }
   }
-  else if(mode==="all") SUGGEST.slots = [null,null,null];
-  else SUGGEST.slots = SUGGEST.slots.map((p,i)=>i===mode ? null : p);
+  else {
+    // Replacing a pick means "not this series right now": its franchise (and the game it led to) step aside.
+    const gone = SUGGEST.slots.filter((p,i)=>p && (mode==="all" || i===mode));
+    const names = gone.flatMap(p=>[...seriesOf(p.game), ...seriesOf(p.best||p.game)]);
+    SUGGEST.avoid = [...SUGGEST.avoid.filter(n=>!names.includes(n)), ...new Set(names)].slice(-40);
+    SUGGEST.slots = mode==="all" ? [null,null,null] : SUGGEST.slots.map((p,i)=>i===mode ? null : p);
+  }
   const {slots, picks, current, want} = suggestions(SUGGEST.slots);
   SUGGEST.slots = slots;
   for(const p of picks) SUGGEST.skip.add(p.game.key);
