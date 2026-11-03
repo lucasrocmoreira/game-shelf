@@ -322,5 +322,51 @@
    "Ys I Chronicles (remake)",
    "Ys II"
   ]
+ },
+ "igdb:20068": {
+  "title": "God of War Collection",
+  "contains": [
+   549,
+   551
+  ],
+  "games": [
+   "God of War",
+   "God of War II"
+  ]
+ },
+ "igdb:20749": {
+  "title": "Hitman HD Trilogy",
+  "contains": [
+   748,
+   1049,
+   1048
+  ],
+  "games": [
+   "Hitman 2: Silent Assassin",
+   "Hitman: Contracts",
+   "Hitman: Blood Money"
+  ]
+ },
+ "igdb:21600": {
+  "title": "Silent Hill HD Collection",
+  "contains": [
+   481,
+   482
+  ],
+  "games": [
+   "Silent Hill 2",
+   "Silent Hill 3"
+  ]
+ },
+ "igdb:7464": {
+  "title": "Tales of Symphonia Chronicles",
+  "contains": [
+   1204,
+   5210
+  ],
+  "games": [
+   "Tales of Symphonia",
+   "Tales of Symphonia: Dawn of the New World"
+  ]
  }
 }
