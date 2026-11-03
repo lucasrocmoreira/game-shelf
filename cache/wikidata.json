@@ -749,6 +749,10 @@
   "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 2369
  },
+ "bravely-second-end-layer": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2315
+ },
  "brawl-brothers": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -833,6 +837,10 @@
  },
  "cannon-fodder": {
   "checked": "2026-11-02T09:53:32+00:00"
+ },
+ "captain-toad-treasure-tracker--2": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 722
  },
  "captain-tsubasa-rise-of-new-champions": {
   "checked": "2026-10-28T03:48:11+00:00",
@@ -991,6 +999,10 @@
  "cocoon": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15580
+ },
+ "code-name-steam": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2280
  },
  "code-realize-guardian-of-rebirth": {
   "checked": "2026-10-08T03:54:37+00:00",
@@ -2136,6 +2148,18 @@
  "fire-emblem-awakening": {
   "checked": "2026-10-08T02:52:26+00:00"
  },
+ "fire-emblem-echoes-shadows-of-valentia": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 4150
+ },
+ "fire-emblem-fates-birthright": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2274
+ },
+ "fire-emblem-fates-conquest": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2313
+ },
  "fire-emblem-fortunes-weave": {
   "checked": "2026-10-07T06:01:50+00:00",
   "opencritic_id": 20819
@@ -2214,6 +2238,9 @@
  "flintlock-the-siege-of-dawn": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 16947
+ },
+ "fluidity-spin-cycle": {
+  "checked": "2026-11-03T04:11:09+00:00"
  },
  "foamstars": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -2763,6 +2790,10 @@
  "hyperzone": {
   "checked": "2026-11-02T14:41:22+00:00"
  },
+ "hyrule-warriors-legends": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2456
+ },
  "i-am-bread": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 1391
@@ -3172,6 +3203,9 @@
  "last-window-the-secret-of-cape-west": {
   "checked": "2026-10-29T22:11:38+00:00"
  },
+ "lbx-little-battlers-experience": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "left-4-dead": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -3427,6 +3461,10 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 11003
  },
+ "mario-and-luigi-bowsers-inside-story-plus-bowser-jr-dot-s-journey": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 6858
+ },
  "mario-and-luigi-superstar-saga-plus-bowsers-minions": {
   "checked": "2026-10-08T03:02:44+00:00",
   "opencritic_id": 4959
@@ -3471,6 +3509,9 @@
  "mario-luigi-bowser-s-inside-story": {
   "checked": "2026-10-07T21:32:53+00:00"
  },
+ "mario-luigi-dream-team": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "mario-luigi-partners-in-time": {
   "checked": "2026-10-07T21:32:53+00:00"
  },
@@ -3501,6 +3542,9 @@
  "mario-tennis--1": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
+ "mario-tennis-open": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "mario-tennis-power-tour": {
   "checked": "2026-11-02T08:49:05+00:00"
  },
@@ -3512,6 +3556,10 @@
  },
  "mario-vs-donkey-kong-mini-land-mayhem": {
   "checked": "2026-10-29T22:15:26+00:00"
+ },
+ "mario-vs-donkey-kong-tipping-stars": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 717
  },
  "mario-wario": {
   "checked": "2026-10-28T06:30:39+00:00"
@@ -3887,6 +3935,14 @@
  },
  "monster-hunter-3-ultimate": {
   "checked": "2026-10-08T03:04:44+00:00"
+ },
+ "monster-hunter-4-ultimate": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2262
+ },
+ "monster-hunter-generations": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2794
  },
  "monster-hunter-rise": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -4443,6 +4499,14 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10641
  },
+ "persona-q-shadow-of-the-labyrinth": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2345
+ },
+ "persona-q2-new-cinema-labyrinth": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 7843
+ },
  "pga-tour-2k23": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 13805
@@ -4462,6 +4526,9 @@
  },
  "phoenix-wright-ace-attorney": {
   "checked": "2026-10-29T22:22:33+00:00"
+ },
+ "phoenix-wright-ace-attorney-dual-destinies": {
+  "checked": "2026-11-03T04:11:09+00:00"
  },
  "phoenix-wright-ace-attorney-justice-for-all": {
   "checked": "2026-10-29T22:22:33+00:00"
@@ -4497,6 +4564,9 @@
  "pilotwings-64": {
   "checked": "2026-11-01T00:33:39+00:00",
   "opencritic_id": 13834
+ },
+ "pilotwings-resort": {
+  "checked": "2026-11-03T04:11:09+00:00"
  },
  "pinball--3": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -4631,11 +4701,24 @@
  "pokemon-trading-card-game": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
+ "pokemon-ultra-moon": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 5056
+ },
+ "pokemon-ultra-sun": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "pokemon-white-version-2": {
   "checked": "2026-10-29T22:22:33+00:00"
  },
+ "pokemon-x": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "pokemon-xd-gale-of-darkness": {
   "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "pokemon-y": {
+  "checked": "2026-11-03T04:11:09+00:00"
  },
  "pokemon-yellow-version-special-pikachu-edition": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -4715,6 +4798,10 @@
  "pro-wrestling": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "professor-layton-and-the-azran-legacy": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2367
+ },
  "professor-layton-and-the-curious-village": {
   "checked": "2026-10-07T21:28:53+00:00"
  },
@@ -4723,6 +4810,9 @@
  },
  "professor-layton-and-the-last-specter": {
   "checked": "2026-10-07T21:44:18+00:00"
+ },
+ "professor-layton-and-the-miracle-mask": {
+  "checked": "2026-11-03T04:11:09+00:00"
  },
  "professor-layton-and-the-unwound-future": {
   "checked": "2026-10-07T21:25:44+00:00"
@@ -5126,6 +5216,9 @@
  "rune-factory-3-a-fantasy-harvest-moon": {
   "checked": "2026-10-29T22:26:48+00:00"
  },
+ "rune-factory-4": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "rune-factory-4-special": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 9052
@@ -5279,17 +5372,31 @@
  "shin-megami-tensei": {
   "checked": "2026-11-02T14:43:38+00:00"
  },
+ "shin-megami-tensei-devil-summoner-soul-hackers--1": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "shin-megami-tensei-devil-survivor": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
  "shin-megami-tensei-devil-survivor-2": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
+ "shin-megami-tensei-devil-survivor-2-record-breaker": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2272
+ },
+ "shin-megami-tensei-devil-survivor-overclocked": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "shin-megami-tensei-ii": {
   "checked": "2026-11-02T14:43:38+00:00"
  },
  "shin-megami-tensei-iv": {
   "checked": "2026-10-08T02:58:42+00:00"
+ },
+ "shin-megami-tensei-iv-apocalypse": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 3276
  },
  "shin-megami-tensei-persona": {
   "checked": "2026-10-08T03:24:34+00:00"
@@ -5299,6 +5406,10 @@
  },
  "shin-megami-tensei-strange-journey": {
   "checked": "2026-10-29T22:31:28+00:00"
+ },
+ "shin-megami-tensei-strange-journey-redux": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 6054
  },
  "shining-force": {
   "checked": "2026-11-01T00:33:39+00:00"
@@ -5759,6 +5870,10 @@
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 11044
  },
+ "story-of-seasons-trio-of-towns": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 3983
+ },
  "stranded-deep": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 9369
@@ -5983,6 +6098,9 @@
  "super-smash-bros": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
+ "super-smash-bros-for-nintendo-3ds": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "super-smash-bros-melee": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
@@ -6124,6 +6242,9 @@
  },
  "tales-of-phantasia": {
   "checked": "2026-11-02T14:43:38+00:00"
+ },
+ "tales-of-the-abyss--1": {
+  "checked": "2026-11-03T04:11:09+00:00"
  },
  "tales-of-the-world-radiant-mythology": {
   "checked": "2026-10-08T03:31:49+00:00"
@@ -6696,6 +6817,9 @@
  "toejam-and-earl-in-panic-on-funkotron": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
+ "tom-clancy-s-ghost-recon-shadow-wars": {
+  "checked": "2026-11-03T04:11:09+00:00"
+ },
  "tom-clancy-s-the-division": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 1530
@@ -6714,6 +6838,9 @@
  },
  "tom-clancys-rainbow-six-siege-x-elite-edition": {
   "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "tom-clancys-splinter-cell-3d": {
+  "checked": "2026-11-03T04:11:09+00:00"
  },
  "tom-clancys-the-division-2": {
   "checked": "2026-10-28T05:02:27+00:00",
@@ -7149,6 +7276,10 @@
  "warioware-d-i-y": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
+ "warioware-gold": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 6413
+ },
  "warioware-inc-dot-mega-microgame$": {
   "checked": "2026-10-09T04:03:43+00:00"
  },
@@ -7331,6 +7462,10 @@
  "xcom-enemy-unknown-plus": {
   "checked": "2026-10-08T03:42:12+00:00",
   "opencritic_id": 2527
+ },
+ "xenoblade-chronicles-3d": {
+  "checked": "2026-11-03T04:11:09+00:00",
+  "opencritic_id": 2279
  },
  "xenogears": {
   "checked": "2026-11-02T09:53:32+00:00"

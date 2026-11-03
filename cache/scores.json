@@ -1546,6 +1546,14 @@
   "opencritic_pct": null,
   "opencritic_tier": ""
  },
+ "igdb:11193": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:19+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:11197": {
   "backloggd": 3.7,
   "bl_v": 2,
@@ -1659,6 +1667,22 @@
   "opencritic_id": 2120,
   "opencritic_pct": 28,
   "opencritic_tier": "Fair"
+ },
+ "igdb:11256": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:36+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "bravely-second-end-layer"
+ },
+ "igdb:11257": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:40+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:1127": {
   "backloggd": 3.7,
@@ -3768,6 +3792,14 @@
   "steam_pct": 94,
   "steam_reviews": 25289
  },
+ "igdb:1303": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:53+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "tom-clancys-ghost-recon-shadow-wars"
+ },
  "igdb:13057": {
   "backloggd": 3.6,
   "bl_v": 2,
@@ -4883,6 +4915,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-16T04:52:18+00:00"
  },
+ "igdb:1401": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:45+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "professor-layton-and-the-miracle-mask"
+ },
  "igdb:1402": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -4891,6 +4931,14 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-10-09T03:37:30+00:00"
+ },
+ "igdb:1403": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:41+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "professor-layton-and-the-azran-legacy"
  },
  "igdb:140500": {
   "backloggd": 3.2,
@@ -5216,6 +5264,14 @@
   ],
   "steam_pct": 72,
   "steam_reviews": 149986
+ },
+ "igdb:1432": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:03+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "phoenix-wright-ace-attorney-dual-destinies"
  },
  "igdb:1435": {
   "backloggd": 3.5,
@@ -6908,6 +6964,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-30T03:22:52+00:00"
  },
+ "igdb:15910": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:25+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "story-of-seasons-trio-of-towns"
+ },
  "igdb:159116": {
   "backloggd": 3.1,
   "bl_v": 2,
@@ -8158,6 +8222,14 @@
   "metacritic_slug": "dragon-quest-vi-realms-of-revelation",
   "oc_checked": "2026-10-18T14:03:31+00:00"
  },
+ "igdb:18181": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:39+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "monster-hunter-generations"
+ },
  "igdb:18196": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -8787,6 +8859,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:19131": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:18+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "shin-megami-tensei-devil-survivor-overclocked"
+ },
  "igdb:191406": {
   "backloggd": 4.6,
   "bl_v": 2,
@@ -8870,6 +8950,14 @@
   "metacritic": 73,
   "metacritic_slug": "the-sims-2-castaway",
   "oc_checked": "2026-10-21T15:19:44+00:00"
+ },
+ "igdb:19329": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:13+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "shin-megami-tensei-iv-apocalypse"
  },
  "igdb:19348": {
   "backloggd": 2.8,
@@ -9610,6 +9698,14 @@
   "metacritic": 73,
   "metacritic_slug": "mighty-switch-force-2",
   "oc_checked": "2026-10-21T15:19:35+00:00"
+ },
+ "igdb:20088": {
+  "backloggd": 2.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:38+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "fluidity-spin-cycle"
  },
  "igdb:200903": {
   "backloggd": 3.6,
@@ -10446,6 +10542,14 @@
   "opencritic_pct": 50,
   "opencritic_tier": "Fair"
  },
+ "igdb:20972": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:05+00:00",
+  "mc_v": 2,
+  "metacritic": 75,
+  "metacritic_slug": "tales-of-the-abyss"
+ },
  "igdb:20984": {
   "backloggd": 2.9,
   "bl_v": 2,
@@ -11197,6 +11301,19 @@
   "opencritic_pct": 29,
   "opencritic_tier": "Fair"
  },
+ "igdb:21863": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:26+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "fire-emblem-fates-conquest",
+  "oc_checked": "2026-11-03T04:13:44+00:00",
+  "opencritic": 86,
+  "opencritic_id": 2313,
+  "opencritic_pct": 93,
+  "opencritic_tier": "Mighty"
+ },
  "igdb:218744": {
   "backloggd": 2.3,
   "bl_v": 2,
@@ -11563,6 +11680,22 @@
   "opencritic_id": 14493,
   "opencritic_pct": 19,
   "opencritic_tier": "Weak"
+ },
+ "igdb:2286": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:51+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "pokemon-x"
+ },
+ "igdb:2287": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:54+00:00",
+  "mc_v": 2,
+  "metacritic": 88,
+  "metacritic_slug": "pokemon-y"
  },
  "igdb:2288": {
   "backloggd": 3.8,
@@ -12005,6 +12138,14 @@
   "metacritic_slug": "mario-kart-double-dash",
   "oc_checked": "2026-11-02T21:03:16+00:00"
  },
+ "igdb:23441": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:09+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "shin-megami-tensei-devil-survivor-2-record-breaker"
+ },
  "igdb:2345": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -12291,6 +12432,19 @@
   "metacritic_slug": "mortal-kombat",
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:24220": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:22+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "fire-emblem-fates-birthright",
+  "oc_checked": "2026-11-03T04:13:43+00:00",
+  "opencritic": 85,
+  "opencritic_id": 2274,
+  "opencritic_pct": 87,
+  "opencritic_tier": "Mighty"
+ },
  "igdb:242307": {},
  "igdb:242358": {},
  "igdb:242360": {},
@@ -12351,6 +12505,14 @@
   "opencritic_id": 15641,
   "opencritic_pct": 12,
   "opencritic_tier": "Weak"
+ },
+ "igdb:243899": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:28+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:24470": {
   "backloggd": 4.1,
@@ -13412,6 +13574,19 @@
   "opencritic_pct": 82,
   "opencritic_tier": "Strong"
  },
+ "igdb:26840": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:16+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "fire-emblem-echoes-shadows-of-valentia",
+  "oc_checked": "2026-11-03T04:13:42+00:00",
+  "opencritic": 84,
+  "opencritic_id": 4150,
+  "opencritic_pct": 83,
+  "opencritic_tier": "Mighty"
+ },
  "igdb:26845": {
   "backloggd": 4.1,
   "bl_v": 2,
@@ -13881,6 +14056,14 @@
   "opencritic_pct": 27,
   "opencritic_tier": "Fair"
  },
+ "igdb:27959": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:15+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "shin-megami-tensei-strange-journey-redux"
+ },
  "igdb:279624": {
   "backloggd": 4.3,
   "bl_v": 2,
@@ -13938,6 +14121,14 @@
   ],
   "steam_pct": 93,
   "steam_reviews": 121476
+ },
+ "igdb:281414": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:07+00:00",
+  "mc_v": 2,
+  "metacritic": 74,
+  "metacritic_slug": "shin-megami-tensei-devil-summoner-soul-hackers"
  },
  "igdb:28168": {
   "backloggd": 2.9,
@@ -15568,6 +15759,14 @@
   "metacritic_slug": "mario-luigi-partners-in-time",
   "oc_checked": "2026-10-14T15:12:28+00:00"
  },
+ "igdb:3365": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:22+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "mario-luigi-dream-team"
+ },
  "igdb:336964": {
   "backloggd": 3.6,
   "bl_v": 2,
@@ -16551,6 +16750,27 @@
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "football-manager-26-console"
+ },
+ "igdb:36792": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:00+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "pokemon-ultra-sun"
+ },
+ "igdb:36793": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:57+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "pokemon-ultra-moon",
+  "oc_checked": "2026-11-03T04:13:41+00:00",
+  "opencritic": 83,
+  "opencritic_id": 5056,
+  "opencritic_pct": 87,
+  "opencritic_tier": "Strong"
  },
  "igdb:367956": {},
  "igdb:36813": {
@@ -18767,6 +18987,14 @@
   "opencritic_pct": 80,
   "opencritic_tier": "Strong"
  },
+ "igdb:47626": {
+  "backloggd": 2.3,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:56+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:47680": {
   "backloggd": 3.0,
   "bl_v": 2,
@@ -19463,6 +19691,14 @@
   "metacritic_slug": "lego-pirates-of-the-caribbean-the-video-game",
   "oc_checked": "2026-10-14T15:12:27+00:00"
  },
+ "igdb:54220": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:29+00:00",
+  "mc_v": 2,
+  "metacritic": 81,
+  "metacritic_slug": "persona-q2-new-cinema-labyrinth"
+ },
  "igdb:5427": {
   "backloggd": 2.4,
   "bl_v": 2,
@@ -19765,6 +20001,14 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:5712": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:22+00:00",
+  "mc_v": 2,
+  "metacritic": 69,
+  "metacritic_slug": "mario-tennis-open"
  },
  "igdb:5741": {
   "backloggd": 3.1,
@@ -20184,6 +20428,19 @@
   "metacritic": 82,
   "metacritic_slug": "gt-advance-championship-racing",
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:6440": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:34+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "monster-hunter-4-ultimate",
+  "oc_checked": "2026-11-03T04:13:45+00:00",
+  "opencritic": 86,
+  "opencritic_id": 2262,
+  "opencritic_pct": 95,
+  "opencritic_tier": "Mighty"
  },
  "igdb:6450": {
   "backloggd": 3.4,
@@ -20783,6 +21040,22 @@
   "opencritic_pct": 39,
   "opencritic_tier": "Fair"
  },
+ "igdb:6862": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:40+00:00",
+  "mc_v": 2,
+  "metacritic": 71,
+  "metacritic_slug": "pilotwings-resort"
+ },
+ "igdb:6874": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:14+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "rune-factory-4"
+ },
  "igdb:6880": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -20822,6 +21095,19 @@
   "metacritic": 83,
   "metacritic_slug": "shin-megami-tensei-iv",
   "oc_checked": "2026-10-15T15:05:54+00:00"
+ },
+ "igdb:6887": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:32+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "persona-q-shadow-of-the-labyrinth",
+  "oc_checked": "2026-11-03T04:13:46+00:00",
+  "opencritic": 85,
+  "opencritic_id": 2345,
+  "opencritic_pct": 89,
+  "opencritic_tier": "Mighty"
  },
  "igdb:6890": {
   "backloggd": 3.7,
@@ -21219,6 +21505,14 @@
   "opencritic_id": 248,
   "opencritic_pct": 32,
   "opencritic_tier": "Fair"
+ },
+ "igdb:7392": {
+  "backloggd": 2.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:26+00:00",
+  "mc_v": 2,
+  "metacritic": 69,
+  "metacritic_slug": "code-name-steam"
  },
  "igdb:7431": {
   "backloggd": 3.5,
@@ -22518,6 +22812,14 @@
   "opencritic_pct": 96,
   "opencritic_tier": "Mighty"
  },
+ "igdb:8594": {
+  "backloggd": 2.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:08+00:00",
+  "mc_v": 2,
+  "metacritic": 70,
+  "metacritic_slug": "mario-vs-donkey-kong-tipping-stars"
+ },
  "igdb:8610": {
   "backloggd": 2.1,
   "bl_v": 2,
@@ -22865,6 +23167,14 @@
   "opencritic_pct": 91,
   "opencritic_tier": "Strong"
  },
+ "igdb:90108": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:29+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "warioware-gold"
+ },
  "igdb:90109": {
   "backloggd": 3.8,
   "bl_v": 2,
@@ -22877,6 +23187,14 @@
   "opencritic_id": 6737,
   "opencritic_pct": 53,
   "opencritic_tier": "Strong"
+ },
+ "igdb:90113": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:13:32+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:9028": {
   "backloggd": 3.3,
@@ -23283,6 +23601,14 @@
   "metacritic_slug": "contra-4",
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:9553": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:31+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "xenoblade-chronicles-3d"
+ },
  "igdb:9597": {
   "backloggd": 4.1,
   "bl_v": 2,
@@ -23313,6 +23639,14 @@
   "opencritic_id": 2193,
   "opencritic_pct": 44,
   "opencritic_tier": "Fair"
+ },
+ "igdb:9621": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:12:34+00:00",
+  "mc_v": 2,
+  "metacritic": 92,
+  "metacritic_slug": "super-smash-bros-for-nintendo-3ds"
  },
  "igdb:9630": {
   "backloggd": 3.4,
@@ -25223,6 +25557,13 @@
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "the-playroom"
+ },
+ "t:pokemon super mystery dungeon": {
+  "bl_v": 2,
+  "checked": "2026-11-03T04:11:46+00:00",
+  "mc_v": 2,
+  "metacritic": 69,
+  "metacritic_slug": "pokemon-super-mystery-dungeon"
  },
  "t:predator hunting grounds": {
   "bl_v": 2,

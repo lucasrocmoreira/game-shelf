@@ -1066,6 +1066,14 @@
   "hltb_name": "EarthBound Beginnings",
   "main": 16.0
  },
+ "igdb:11193": {
+  "checked": "2026-11-03T04:15:18+00:00",
+  "complete": 139.5,
+  "extra": 38.5,
+  "hltb_id": 35808,
+  "hltb_name": "Hyrule Warriors: Legends",
+  "main": 18.5
+ },
  "igdb:11197": {
   "checked": "2026-10-17T13:53:58+00:00",
   "complete": 106.0,
@@ -1145,6 +1153,22 @@
   "hltb_id": 38191,
   "hltb_name": "Shadow of the Beast",
   "main": 3.0
+ },
+ "igdb:11256": {
+  "checked": "2026-11-03T04:14:57+00:00",
+  "complete": 87.0,
+  "extra": 64.0,
+  "hltb_id": 33282,
+  "hltb_name": "Bravely Second: End Layer",
+  "main": 43.5
+ },
+ "igdb:11257": {
+  "checked": "2026-11-03T04:15:34+00:00",
+  "complete": 46.0,
+  "extra": 34.5,
+  "hltb_id": 29324,
+  "hltb_name": "LBX: Little Battlers Experience",
+  "main": 26.0
  },
  "igdb:1127": {
   "checked": "2026-11-01T00:44:49+00:00",
@@ -2574,6 +2598,14 @@
   "hltb_name": "Fallout",
   "main": 16.5
  },
+ "igdb:1303": {
+  "checked": "2026-11-03T04:15:04+00:00",
+  "complete": 51.0,
+  "extra": 36.0,
+  "hltb_id": 10438,
+  "hltb_name": "Tom Clancy's Ghost Recon: Shadow Wars",
+  "main": 26.0
+ },
  "igdb:13057": {
   "checked": "2026-11-02T10:14:20+00:00",
   "complete": 10.5,
@@ -3303,6 +3335,14 @@
   "hltb_name": "Professor Layton and the Last Specter",
   "main": 13.0
  },
+ "igdb:1401": {
+  "checked": "2026-11-03T04:14:10+00:00",
+  "complete": 35.5,
+  "extra": 24.0,
+  "hltb_id": 7340,
+  "hltb_name": "Professor Layton and the Miracle Mask",
+  "main": 18.0
+ },
  "igdb:1402": {
   "checked": "2026-10-17T13:53:40+00:00",
   "complete": 29.5,
@@ -3310,6 +3350,14 @@
   "hltb_id": 7342,
   "hltb_name": "Professor Layton vs. Phoenix Wright: Ace Attorney",
   "main": 24.0
+ },
+ "igdb:1403": {
+  "checked": "2026-11-03T04:14:08+00:00",
+  "complete": 37.5,
+  "extra": 25.5,
+  "hltb_id": 7336,
+  "hltb_name": "Professor Layton and the Azran Legacy",
+  "main": 16.0
  },
  "igdb:140500": {
   "checked": "2026-10-28T04:16:40+00:00",
@@ -3513,6 +3561,14 @@
   "hltb_id": 92904,
   "hltb_name": "Total War: Warhammer III",
   "main": 32.0
+ },
+ "igdb:1432": {
+  "checked": "2026-11-03T04:14:28+00:00",
+  "complete": 33.5,
+  "extra": 32.5,
+  "hltb_id": 12977,
+  "hltb_name": "Phoenix Wright: Ace Attorney - Dual Destinies",
+  "main": 27.0
  },
  "igdb:1435": {
   "checked": "2026-11-02T10:07:45+00:00",
@@ -4664,6 +4720,14 @@
   "hltb_name": "StarTropics",
   "main": 6.0
  },
+ "igdb:15910": {
+  "checked": "2026-11-03T04:14:47+00:00",
+  "complete": 290.0,
+  "extra": 135.5,
+  "hltb_id": 44067,
+  "hltb_name": "Story of Seasons: Trio of Towns",
+  "main": 77.5
+ },
  "igdb:159116": {
   "checked": "2026-10-16T14:57:34+00:00",
   "complete": 78.5,
@@ -5579,6 +5643,14 @@
   "hltb_name": "Dragon Quest VI: Realms of Revelation",
   "main": 40.5
  },
+ "igdb:18181": {
+  "checked": "2026-11-03T04:14:05+00:00",
+  "complete": 183.0,
+  "extra": 132.5,
+  "hltb_id": 38688,
+  "hltb_name": "Monster Hunter Generations",
+  "main": 54.5
+ },
  "igdb:18196": {
   "checked": "2026-10-17T13:53:19+00:00",
   "complete": 89.5,
@@ -5979,6 +6051,14 @@
  "igdb:19117": {
   "checked": "2026-11-02T10:13:10+00:00"
  },
+ "igdb:19131": {
+  "checked": "2026-11-03T04:14:41+00:00",
+  "complete": 132.0,
+  "extra": 57.0,
+  "hltb_id": 8434,
+  "hltb_name": "Shin Megami Tensei: Devil Survivor Overclocked",
+  "main": 42.5
+ },
  "igdb:191406": {
   "checked": "2026-10-17T13:50:17+00:00",
   "complete": 15.0,
@@ -6042,6 +6122,14 @@
   "hltb_id": 17500,
   "hltb_name": "The Sims 2: Castaway",
   "main": 6.5
+ },
+ "igdb:19329": {
+  "checked": "2026-11-03T04:14:36+00:00",
+  "complete": 91.0,
+  "extra": 63.5,
+  "hltb_id": 37429,
+  "hltb_name": "Shin Megami Tensei IV: Apocalypse",
+  "main": 44.0
  },
  "igdb:19348": {
   "checked": "2026-10-16T04:52:30+00:00",
@@ -6526,6 +6614,14 @@
   "hltb_id": 11813,
   "hltb_name": "Mighty Switch Force! 2",
   "main": 3.0
+ },
+ "igdb:20088": {
+  "checked": "2026-11-03T04:15:32+00:00",
+  "complete": null,
+  "extra": 15.0,
+  "hltb_id": 3611,
+  "hltb_name": "Fluidity: Spin Cycle",
+  "main": 11.0
  },
  "igdb:200903": {
   "checked": "2026-10-17T13:48:52+00:00",
@@ -7121,6 +7217,14 @@
   "hltb_name": "World War Z",
   "main": 7.5
  },
+ "igdb:20972": {
+  "checked": "2026-11-03T04:15:09+00:00",
+  "complete": 109.0,
+  "extra": 62.5,
+  "hltb_id": 9605,
+  "hltb_name": "Tales of the Abyss",
+  "main": 48.5
+ },
  "igdb:20984": {
   "checked": "2026-11-01T00:47:48+00:00",
   "complete": null,
@@ -7674,6 +7778,9 @@
   "hltb_name": "Enotria: The Last Song",
   "main": 13.0
  },
+ "igdb:21863": {
+  "checked": "2026-11-03T04:13:55+00:00"
+ },
  "igdb:218744": {
   "checked": "2026-10-16T15:01:16+00:00",
   "complete": 2.0,
@@ -7940,6 +8047,17 @@
   "hltb_id": 118228,
   "hltb_name": "Crime Boss: Rockay City",
   "main": 11.5
+ },
+ "igdb:2286": {
+  "checked": "2026-11-03T04:14:16+00:00",
+  "complete": 204.5,
+  "extra": 69.5,
+  "hltb_id": 13937,
+  "hltb_name": "Pokémon X and Y",
+  "main": 31.0
+ },
+ "igdb:2287": {
+  "checked": "2026-11-03T04:14:19+00:00"
  },
  "igdb:2288": {
   "checked": "2026-10-29T22:23:51+00:00",
@@ -8257,6 +8375,14 @@
   "hltb_name": "Mario Kart: Double Dash!!",
   "main": 5.0
  },
+ "igdb:23441": {
+  "checked": "2026-11-03T04:14:34+00:00",
+  "complete": 127.0,
+  "extra": 62.5,
+  "hltb_id": 23460,
+  "hltb_name": "Shin Megami Tensei: Devil Survivor 2 - Record Breaker",
+  "main": 42.0
+ },
  "igdb:2345": {
   "checked": "2026-10-17T13:51:37+00:00",
   "complete": 24.0,
@@ -8460,6 +8586,9 @@
   "hltb_name": "Mortal Kombat",
   "main": 1.0
  },
+ "igdb:24220": {
+  "checked": "2026-11-03T04:13:52+00:00"
+ },
  "igdb:24294": {
   "checked": "2026-10-17T13:54:23+00:00",
   "complete": 50.5,
@@ -8507,6 +8636,14 @@
   "hltb_id": 138653,
   "hltb_name": "Cricket 24",
   "main": 12.5
+ },
+ "igdb:243899": {
+  "checked": "2026-11-03T04:14:49+00:00",
+  "complete": 19.5,
+  "extra": 11.5,
+  "hltb_id": 19217,
+  "hltb_name": "Captain Toad: Treasure Tracker",
+  "main": 7.0
  },
  "igdb:24470": {
   "checked": "2026-10-17T13:54:12+00:00"
@@ -9165,6 +9302,14 @@
   "hltb_name": "Earth Defense Force: World Brothers 2",
   "main": null
  },
+ "igdb:26840": {
+  "checked": "2026-11-03T04:13:49+00:00",
+  "complete": 68.0,
+  "extra": 47.0,
+  "hltb_id": 43039,
+  "hltb_name": "Fire Emblem Echoes: Shadows of Valentia",
+  "main": 35.0
+ },
  "igdb:26845": {
   "checked": "2026-10-17T13:50:49+00:00",
   "complete": 211.0,
@@ -9483,6 +9628,14 @@
   "hltb_name": "Digimon Story: Cyber Sleuth - Hacker's Memory",
   "main": 47.0
  },
+ "igdb:27959": {
+  "checked": "2026-11-03T04:14:39+00:00",
+  "complete": 107.5,
+  "extra": 73.0,
+  "hltb_id": 50730,
+  "hltb_name": "Shin Megami Tensei: Strange Journey Redux",
+  "main": 48.5
+ },
  "igdb:279624": {
   "checked": "2026-10-17T13:49:05+00:00",
   "complete": 19.5,
@@ -9514,6 +9667,14 @@
   "hltb_id": 47252,
   "hltb_name": "Total War: Warhammer II",
   "main": 41.0
+ },
+ "igdb:281414": {
+  "checked": "2026-11-03T04:14:30+00:00",
+  "complete": 58.5,
+  "extra": 37.0,
+  "hltb_id": 8431,
+  "hltb_name": "Shin Megami Tensei: Devil Summoner - Soul Hackers",
+  "main": 28.0
  },
  "igdb:28168": {
   "checked": "2026-10-16T14:57:25+00:00",
@@ -10666,6 +10827,14 @@
   "hltb_name": "Mario & Luigi: Partners in Time",
   "main": 17.5
  },
+ "igdb:3365": {
+  "checked": "2026-11-03T04:14:44+00:00",
+  "complete": 57.0,
+  "extra": 46.5,
+  "hltb_id": 5620,
+  "hltb_name": "Mario & Luigi: Dream Team",
+  "main": 40.0
+ },
  "igdb:336964": {
   "checked": "2026-10-17T13:49:34+00:00",
   "complete": 171.5,
@@ -11406,6 +11575,12 @@
  },
  "igdb:367571": {
   "checked": "2026-10-28T04:12:03+00:00"
+ },
+ "igdb:36792": {
+  "checked": "2026-11-03T04:14:25+00:00"
+ },
+ "igdb:36793": {
+  "checked": "2026-11-03T04:14:22+00:00"
  },
  "igdb:36813": {
   "checked": "2026-10-16T14:56:52+00:00",
@@ -13133,6 +13308,14 @@
   "hltb_name": "Child of Light",
   "main": 11.0
  },
+ "igdb:47626": {
+  "checked": "2026-11-03T04:15:06+00:00",
+  "complete": 17.5,
+  "extra": 15.0,
+  "hltb_id": 10458,
+  "hltb_name": "Tom Clancy's Splinter Cell 3D",
+  "main": 12.0
+ },
  "igdb:47680": {
   "checked": "2026-11-01T00:43:33+00:00",
   "complete": 18.0,
@@ -13678,6 +13861,14 @@
   "hltb_name": "LEGO Pirates of the Caribbean: The Video Game",
   "main": 8.5
  },
+ "igdb:54220": {
+  "checked": "2026-11-03T04:13:57+00:00",
+  "complete": 86.5,
+  "extra": 70.5,
+  "hltb_id": 62414,
+  "hltb_name": "Persona Q2: New Cinema Labyrinth",
+  "main": 48.0
+ },
  "igdb:5427": {
   "checked": "2026-11-02T10:11:12+00:00",
   "complete": 2.5,
@@ -13862,6 +14053,14 @@
   "hltb_id": 2693,
   "hltb_name": "Donkey Kong Jr. Math",
   "main": 0.5
+ },
+ "igdb:5712": {
+  "checked": "2026-11-03T04:15:20+00:00",
+  "complete": 37.0,
+  "extra": 17.5,
+  "hltb_id": 5658,
+  "hltb_name": "Mario Tennis Open",
+  "main": 6.0
  },
  "igdb:5741": {
   "checked": "2026-10-28T05:19:38+00:00",
@@ -14186,6 +14385,14 @@
   "hltb_id": 15068,
   "hltb_name": "GT Advance Championship Racing",
   "main": 4.0
+ },
+ "igdb:6440": {
+  "checked": "2026-11-03T04:14:03+00:00",
+  "complete": 380.0,
+  "extra": 153.5,
+  "hltb_id": 21323,
+  "hltb_name": "Monster Hunter 4 Ultimate",
+  "main": 78.0
  },
  "igdb:6450": {
   "checked": "2026-11-02T09:07:14+00:00",
@@ -14681,6 +14888,22 @@
   "hltb_name": "Earth Defense Force: Iron Rain",
   "main": 11.5
  },
+ "igdb:6862": {
+  "checked": "2026-11-03T04:15:00+00:00",
+  "complete": 14.5,
+  "extra": 8.0,
+  "hltb_id": 7047,
+  "hltb_name": "Pilotwings Resort",
+  "main": 3.5
+ },
+ "igdb:6874": {
+  "checked": "2026-11-03T04:15:14+00:00",
+  "complete": 219.5,
+  "extra": 108.5,
+  "hltb_id": 13775,
+  "hltb_name": "Rune Factory 4",
+  "main": 53.5
+ },
  "igdb:6880": {
   "checked": "2026-10-28T05:21:37+00:00",
   "complete": 52.0,
@@ -14712,6 +14935,14 @@
   "hltb_id": 8426,
   "hltb_name": "Shin Megami Tensei IV",
   "main": 43.0
+ },
+ "igdb:6887": {
+  "checked": "2026-11-03T04:14:00+00:00",
+  "complete": 117.0,
+  "extra": 80.5,
+  "hltb_id": 18709,
+  "hltb_name": "Persona Q: Shadow of the Labyrinth",
+  "main": 60.0
  },
  "igdb:6890": {
   "checked": "2026-10-17T13:53:31+00:00",
@@ -14969,6 +15200,14 @@
   "hltb_id": 19264,
   "hltb_name": "Entwined",
   "main": 1.5
+ },
+ "igdb:7392": {
+  "checked": "2026-11-03T04:15:23+00:00",
+  "complete": 34.5,
+  "extra": 24.5,
+  "hltb_id": 26947,
+  "hltb_name": "Code Name: S.T.E.A.M.",
+  "main": 21.5
  },
  "igdb:7431": {
   "checked": "2026-11-01T00:45:06+00:00",
@@ -15865,6 +16104,14 @@
   "hltb_name": "The Legend of Zelda: Majora's Mask 3D",
   "main": 25.0
  },
+ "igdb:8594": {
+  "checked": "2026-11-03T04:15:12+00:00",
+  "complete": 15.0,
+  "extra": 7.5,
+  "hltb_id": 24531,
+  "hltb_name": "Mario vs. Donkey Kong: Tipping Stars",
+  "main": 3.5
+ },
  "igdb:8610": {
   "checked": "2026-10-17T13:54:35+00:00"
  },
@@ -16098,6 +16345,14 @@
   "hltb_name": "Tom Clancy's The Division 2",
   "main": 26.0
  },
+ "igdb:90108": {
+  "checked": "2026-11-03T04:15:26+00:00",
+  "complete": 29.5,
+  "extra": 6.5,
+  "hltb_id": 54138,
+  "hltb_name": "WarioWare Gold",
+  "main": 2.5
+ },
  "igdb:90109": {
   "checked": "2026-10-17T13:54:05+00:00",
   "complete": 22.0,
@@ -16105,6 +16360,14 @@
   "hltb_id": 66305,
   "hltb_name": "Luigi's Mansion 3",
   "main": 13.0
+ },
+ "igdb:90113": {
+  "checked": "2026-11-03T04:15:29+00:00",
+  "complete": 60.0,
+  "extra": 32.5,
+  "hltb_id": 54122,
+  "hltb_name": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+  "main": 24.5
  },
  "igdb:9028": {
   "checked": "2026-11-02T10:12:51+00:00",
@@ -16387,6 +16650,14 @@
   "hltb_name": "Contra 4",
   "main": 2.5
  },
+ "igdb:9553": {
+  "checked": "2026-11-03T04:14:52+00:00",
+  "complete": 142.0,
+  "extra": 82.5,
+  "hltb_id": 11401,
+  "hltb_name": "Xenoblade Chronicles",
+  "main": 56.0
+ },
  "igdb:9597": {
   "checked": "2026-10-17T13:51:11+00:00",
   "complete": 30.5,
@@ -16410,6 +16681,14 @@
   "hltb_id": 33799,
   "hltb_name": "Megadimension Neptunia VII",
   "main": 35.5
+ },
+ "igdb:9621": {
+  "checked": "2026-11-03T04:14:54+00:00",
+  "complete": 112.0,
+  "extra": 38.0,
+  "hltb_id": 20509,
+  "hltb_name": "Super Smash Bros. for Nintendo 3DS",
+  "main": 5.5
  },
  "igdb:9630": {
   "checked": "2026-10-16T14:55:26+00:00",
@@ -16802,6 +17081,14 @@
   "hltb_id": 68032,
   "hltb_name": "Planet Zoo",
   "main": 35.5
+ },
+ "t:pokemon super mystery dungeon": {
+  "checked": "2026-11-03T04:14:13+00:00",
+  "complete": 96.0,
+  "extra": 35.0,
+  "hltb_id": 31977,
+  "hltb_name": "Pokémon Super Mystery Dungeon",
+  "main": 23.5
  },
  "t:s o s sink or swim": {
   "checked": "2026-11-02T10:11:35+00:00"

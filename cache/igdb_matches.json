@@ -274,6 +274,18 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Bravely Second: End Layer": {
+  "candidates": 3,
+  "checked": "2026-11-03T04:10:49+00:00",
+  "conf": "high",
+  "id": 11256,
+  "mp": null,
+  "score": 1.135,
+  "slug": null,
+  "title": "Bravely Second: End Layer",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Bye-Bye BoxBoy!": {
   "candidates": null,
   "checked": "2026-10-08T02:58:38+00:00",
@@ -284,6 +296,30 @@
   "title": "Bye-Bye BoxBoy!",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:Captain Toad: Treasure Tracker": {
+  "candidates": 8,
+  "checked": "2026-11-03T04:10:47+00:00",
+  "conf": "high",
+  "id": 243899,
+  "mp": null,
+  "score": 1.128,
+  "slug": null,
+  "title": "Captain Toad: Treasure Tracker",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Code Name: S.T.E.A.M.": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:57+00:00",
+  "conf": "high",
+  "id": 7392,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "Code Name: S.T.E.A.M.",
+  "v": 4,
+  "via": "search"
  },
  "3DS:manual:Corpse Party": {
   "candidates": null,
@@ -417,6 +453,54 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Fire Emblem Echoes: Shadows of Valentia": {
+  "candidates": 3,
+  "checked": "2026-11-03T04:10:27+00:00",
+  "conf": "high",
+  "id": 26840,
+  "mp": null,
+  "score": 1.141,
+  "slug": null,
+  "title": "Fire Emblem Echoes: Shadows of Valentia",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Fire Emblem Fates: Birthright": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:28+00:00",
+  "conf": "high",
+  "id": 24220,
+  "mp": null,
+  "score": 1.14,
+  "slug": null,
+  "title": "Fire Emblem Fates: Birthright",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Fire Emblem Fates: Conquest": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:29+00:00",
+  "conf": "high",
+  "id": 21863,
+  "mp": null,
+  "score": 1.14,
+  "slug": null,
+  "title": "Fire Emblem Fates: Conquest",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Fluidity: Spin Cycle": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:11:00+00:00",
+  "conf": "high",
+  "id": 20088,
+  "mp": null,
+  "score": 1.125,
+  "slug": null,
+  "title": "Fluidity: Spin Cycle",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:HarmoKnight": {
   "candidates": null,
   "checked": "2026-10-08T03:09:53+00:00",
@@ -427,6 +511,18 @@
   "title": "HarmoKnight",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:Hyrule Warriors Legends": {
+  "candidates": 4,
+  "checked": "2026-11-03T04:10:55+00:00",
+  "conf": "high",
+  "id": 11193,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "Hyrule Warriors Legends",
+  "v": 4,
+  "via": "search"
  },
  "3DS:manual:Kid Icarus: Uprising": {
   "candidates": null,
@@ -494,6 +590,18 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Little Battlers eXperience": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:11:01+00:00",
+  "conf": "medium",
+  "id": 11257,
+  "mp": null,
+  "score": 1.018,
+  "slug": null,
+  "title": "Little Battlers eXperience",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Luigi's Mansion": {
   "candidates": null,
   "checked": "2026-10-08T03:08:09+00:00",
@@ -516,6 +624,30 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:59+00:00",
+  "conf": "high",
+  "id": 90113,
+  "mp": null,
+  "score": 1.053,
+  "slug": null,
+  "title": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Mario & Luigi: Dream Team": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:45+00:00",
+  "conf": "high",
+  "id": 3365,
+  "mp": null,
+  "score": 1.14,
+  "slug": null,
+  "title": "Mario & Luigi: Dream Team",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Mario & Luigi: Superstar Saga + Bowser's Minions": {
   "candidates": null,
   "checked": "2026-10-08T03:02:21+00:00",
@@ -537,6 +669,30 @@
   "title": "Mario Kart 7",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:Mario Tennis Open": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:56+00:00",
+  "conf": "high",
+  "id": 5712,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "Mario Tennis Open",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Mario vs. Donkey Kong: Tipping Stars": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:54+00:00",
+  "conf": "high",
+  "id": 8594,
+  "mp": null,
+  "score": 1.133,
+  "slug": null,
+  "title": "Mario vs. Donkey Kong: Tipping Stars",
+  "v": 4,
+  "via": "search"
  },
  "3DS:manual:Metal Gear Solid: Snake Eater 3D": {
   "candidates": null,
@@ -604,6 +760,30 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Monster Hunter 4 Ultimate": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:32+00:00",
+  "conf": "high",
+  "id": 6440,
+  "mp": null,
+  "score": 1.139,
+  "slug": null,
+  "title": "Monster Hunter 4 Ultimate",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Monster Hunter Generations": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:10:32+00:00",
+  "conf": "high",
+  "id": 18181,
+  "mp": null,
+  "score": 1.137,
+  "slug": null,
+  "title": "Monster Hunter Generations",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Monster Hunter Stories": {
   "candidates": null,
   "checked": "2026-10-08T03:04:42+00:00",
@@ -625,6 +805,42 @@
   "title": "New Super Mario Bros. 2",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:Persona Q2: New Cinema Labyrinth": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:10:30+00:00",
+  "conf": "high",
+  "id": 54220,
+  "mp": null,
+  "score": 1.135,
+  "slug": null,
+  "title": "Persona Q2: New Cinema Labyrinth",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Persona Q: Shadow of the Labyrinth": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:10:31+00:00",
+  "conf": "high",
+  "id": 6887,
+  "mp": null,
+  "score": 1.137,
+  "slug": null,
+  "title": "Persona Q: Shadow of the Labyrinth",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Phoenix Wright: Ace Attorney - Dual Destinies": {
+  "candidates": 4,
+  "checked": "2026-11-03T04:10:40+00:00",
+  "conf": "high",
+  "id": 1432,
+  "mp": null,
+  "score": 1.14,
+  "slug": null,
+  "title": "Phoenix Wright: Ace Attorney - Dual Destinies",
+  "v": 4,
+  "via": "search"
  },
  "3DS:manual:Phoenix Wright: Ace Attorney Trilogy": {
   "candidates": null,
@@ -648,6 +864,18 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Pilotwings Resort": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:50+00:00",
+  "conf": "high",
+  "id": 6862,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "Pilotwings Resort",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Pocket Card Jockey": {
   "candidates": null,
   "checked": "2026-10-08T02:58:38+00:00",
@@ -669,6 +897,78 @@
   "title": "Pokémon Omega Ruby",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:Pokémon Ultra Moon": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:38+00:00",
+  "conf": "high",
+  "id": 36793,
+  "mp": null,
+  "score": 1.141,
+  "slug": null,
+  "title": "Pokémon Ultra Moon",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Pokémon Ultra Sun": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:39+00:00",
+  "conf": "high",
+  "id": 36792,
+  "mp": null,
+  "score": 1.141,
+  "slug": null,
+  "title": "Pokémon Ultra Sun",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Pokémon X": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:36+00:00",
+  "conf": "high",
+  "id": 2286,
+  "mp": null,
+  "score": 1.145,
+  "slug": null,
+  "title": "Pokémon X",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Pokémon Y": {
+  "candidates": 4,
+  "checked": "2026-11-03T04:10:37+00:00",
+  "conf": "high",
+  "id": 2287,
+  "mp": null,
+  "score": 1.145,
+  "slug": null,
+  "title": "Pokémon Y",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Professor Layton and the Azran Legacy": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:33+00:00",
+  "conf": "high",
+  "id": 1403,
+  "mp": null,
+  "score": 1.136,
+  "slug": null,
+  "title": "Professor Layton and the Azran Legacy",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Professor Layton and the Miracle Mask": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:10:34+00:00",
+  "conf": "high",
+  "id": 1401,
+  "mp": null,
+  "score": 1.137,
+  "slug": null,
+  "title": "Professor Layton and the Miracle Mask",
+  "v": 4,
+  "via": "search"
  },
  "3DS:manual:Professor Layton vs. Ace Attorney": {
   "candidates": null,
@@ -747,6 +1047,18 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Rune Factory 4": {
+  "candidates": 6,
+  "checked": "2026-11-03T04:10:54+00:00",
+  "conf": "high",
+  "id": 6874,
+  "mp": null,
+  "score": 1.135,
+  "slug": null,
+  "title": "Rune Factory 4",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Shantae and the Pirate's Curse": {
   "candidates": null,
   "checked": "2026-10-08T03:02:20+00:00",
@@ -768,6 +1080,66 @@
   "title": "Shin Megami Tensei IV",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:Shin Megami Tensei IV: Apocalypse": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:10:42+00:00",
+  "conf": "high",
+  "id": 19329,
+  "mp": null,
+  "score": 1.136,
+  "slug": null,
+  "title": "Shin Megami Tensei IV: Apocalypse",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Shin Megami Tensei: Devil Summoner: Soul Hackers": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:41+00:00",
+  "conf": "high",
+  "id": 281414,
+  "mp": null,
+  "score": 1.12,
+  "slug": null,
+  "title": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Shin Megami Tensei: Devil Survivor 2 Record Breaker": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:41+00:00",
+  "conf": "high",
+  "id": 23441,
+  "mp": null,
+  "score": 1.131,
+  "slug": null,
+  "title": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Shin Megami Tensei: Devil Survivor Overclocked": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:44+00:00",
+  "conf": "high",
+  "id": 19131,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "Shin Megami Tensei: Devil Survivor Overclocked",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Shin Megami Tensei: Strange Journey Redux": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:43+00:00",
+  "conf": "high",
+  "id": 27959,
+  "mp": null,
+  "score": 1.133,
+  "slug": null,
+  "title": "Shin Megami Tensei: Strange Journey Redux",
+  "v": 4,
+  "via": "search"
  },
  "3DS:manual:Shovel Knight": {
   "candidates": 22,
@@ -813,6 +1185,18 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Story of Seasons: Trio of Towns": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:46+00:00",
+  "conf": "high",
+  "id": 15910,
+  "mp": null,
+  "score": 1.133,
+  "slug": null,
+  "title": "Story of Seasons: Trio of Towns",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:Stretchmo": {
   "candidates": null,
   "checked": "2026-10-08T02:58:38+00:00",
@@ -835,6 +1219,30 @@
   "v": 4,
   "via": "fix"
  },
+ "3DS:manual:Super Smash Bros. for Nintendo 3DS": {
+  "candidates": 19,
+  "checked": "2026-11-03T04:10:48+00:00",
+  "conf": "high",
+  "id": 9621,
+  "mp": null,
+  "score": 1.143,
+  "slug": null,
+  "title": "Super Smash Bros. for Nintendo 3DS",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Tales of the Abyss": {
+  "candidates": 6,
+  "checked": "2026-11-03T04:10:53+00:00",
+  "conf": "high",
+  "id": 20972,
+  "mp": null,
+  "score": 1.131,
+  "slug": null,
+  "title": "Tales of the Abyss",
+  "v": 4,
+  "via": "search"
+ },
  "3DS:manual:The Legend of Zelda: A Link Between Worlds": {
   "candidates": null,
   "checked": "2026-10-08T02:52:20+00:00",
@@ -845,6 +1253,54 @@
   "title": "The Legend of Zelda: A Link Between Worlds",
   "v": 4,
   "via": "fix"
+ },
+ "3DS:manual:Tom Clancy's Ghost Recon Shadow Wars": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:51+00:00",
+  "conf": "high",
+  "id": 1303,
+  "mp": null,
+  "score": 1.13,
+  "slug": null,
+  "title": "Tom Clancy's Ghost Recon Shadow Wars",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Tom Clancy's Splinter Cell 3D": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:10:52+00:00",
+  "conf": "high",
+  "id": 47626,
+  "mp": null,
+  "score": 1.128,
+  "slug": null,
+  "title": "Tom Clancy's Splinter Cell 3D",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:WarioWare Gold": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:58+00:00",
+  "conf": "high",
+  "id": 90108,
+  "mp": null,
+  "score": 1.136,
+  "slug": null,
+  "title": "WarioWare Gold",
+  "v": 4,
+  "via": "search"
+ },
+ "3DS:manual:Xenoblade Chronicles 3D": {
+  "candidates": 1,
+  "checked": "2026-11-03T04:10:48+00:00",
+  "conf": "high",
+  "id": 9553,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "Xenoblade Chronicles 3D",
+  "v": 4,
+  "via": "search"
  },
  "3DS:manual:Yo-kai Watch": {
   "candidates": null,

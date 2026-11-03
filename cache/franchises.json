@@ -223715,6 +223715,1052 @@
   "name": "The Elder Scrolls",
   "v": 4
  },
+ "4564": {
+  "checked": "2026-11-03T04:15:35+00:00",
+  "games": [
+   {
+    "aggregated_rating": 100.0,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 569750,
+     "image_id": "coc7me"
+    },
+    "first_release_date": 1780963200,
+    "franchises": [
+     1932,
+     4564
+    ],
+    "game_type": 10,
+    "genres": [
+     12
+    ],
+    "id": 405446,
+    "name": "Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition",
+    "parent_game": 122238,
+    "platforms": [
+     508
+    ],
+    "slug": "xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition",
+    "total_rating_count": 1
+   },
+   {
+    "bundles": [
+     236670
+    ],
+    "cover": {
+     "id": 398391,
+     "image_id": "co8jef"
+    },
+    "first_release_date": 1659052800,
+    "franchises": [
+     4564
+    ],
+    "game_type": 13,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 236666,
+    "name": "Xenoblade Chronicles 3: DLC Wave 1",
+    "parent_game": 191411,
+    "platforms": [
+     508,
+     130
+    ],
+    "slug": "xenoblade-chronicles-3-dlc-wave-1"
+   },
+   {
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 126636,
+     "image_id": "co2ppo"
+    },
+    "first_release_date": 1089763200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 127790,
+    "name": "Xenosaga: Pied Piper",
+    "platforms": [
+     55
+    ],
+    "slug": "xenosaga-pied-piper"
+   },
+   {
+    "bundles": [
+     241167
+    ],
+    "cover": {
+     "id": 286787,
+     "image_id": "co65ab"
+    },
+    "first_release_date": 1659052800,
+    "franchises": [
+     4564
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 236670,
+    "name": "Xenoblade Chronicles 3: Expansion Pass",
+    "platforms": [
+     130
+    ],
+    "slug": "xenoblade-chronicles-3-expansion-pass--1"
+   },
+   {
+    "aggregated_rating": 90.33333333333333,
+    "bundles": [
+     241167
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 218186,
+     "image_id": "co4ocq"
+    },
+    "first_release_date": 1659052800,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 191411,
+    "name": "Xenoblade Chronicles 3",
+    "platforms": [
+     130
+    ],
+    "rating": 85.02264858996509,
+    "slug": "xenoblade-chronicles-3",
+    "total_rating_count": 70
+   },
+   {
+    "bundles": [
+     236670
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 286694,
+     "image_id": "co657q"
+    },
+    "first_release_date": 1665619200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 236667,
+    "name": "Xenoblade Chronicles 3: DLC Wave 2",
+    "parent_game": 191411,
+    "platforms": [
+     508,
+     130
+    ],
+    "slug": "xenoblade-chronicles-3-dlc-wave-2"
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 187716,
+     "image_id": "co40uc"
+    },
+    "first_release_date": 1449100800,
+    "franchises": [
+     1932,
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 51145,
+    "name": "Xenoblade Chronicles X: Limited Edition",
+    "platforms": [
+     41
+    ],
+    "slug": "xenoblade-chronicles-x-limited-edition",
+    "version_parent": 2366
+   },
+   {
+    "aggregated_rating": 90.5,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 570625,
+     "image_id": "coc8ap"
+    },
+    "first_release_date": 1276128000,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2364,
+    "name": "Xenoblade Chronicles",
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 85.76670070537219,
+    "slug": "xenoblade-chronicles",
+    "total_rating_count": 151
+   },
+   {
+    "bundles": [
+     254099
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 398390,
+     "image_id": "co8jee"
+    },
+    "first_release_date": 1512086400,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 2,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 245690,
+    "name": "Xenoblade Chronicles 2: Expansion Pass",
+    "parent_game": 26766,
+    "platforms": [
+     130
+    ],
+    "slug": "xenoblade-chronicles-2-expansion-pass"
+   },
+   {
+    "bundles": [
+     236670
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524556,
+     "image_id": "cob8r0"
+    },
+    "first_release_date": 1682380800,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 2,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 236669,
+    "name": "Xenoblade Chronicles 3: Future Redeemed",
+    "parent_game": 191411,
+    "platforms": [
+     508,
+     130
+    ],
+    "rating": 85.00605316153349,
+    "slug": "xenoblade-chronicles-3-future-redeemed",
+    "total_rating_count": 22
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 569764,
+     "image_id": "coc7ms"
+    },
+    "first_release_date": 1796256000,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 405448,
+    "name": "Xenoblade Chronicles 3: Nintendo Switch 2 Edition",
+    "parent_game": 191411,
+    "platforms": [
+     508
+    ],
+    "slug": "xenoblade-chronicles-3-nintendo-switch-2-edition"
+   },
+   {
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 126622,
+     "image_id": "co2ppa"
+    },
+    "first_release_date": 1143676800,
+    "franchises": [
+     4564
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 26805,
+    "name": "Xenosaga I & II",
+    "platforms": [
+     20
+    ],
+    "rating": 87.0,
+    "slug": "xenosaga-i-and-ii",
+    "total_rating_count": 1
+   },
+   {
+    "cover": {
+     "id": 310144,
+     "image_id": "co6nb4"
+    },
+    "first_release_date": 1512086400,
+    "franchises": [
+     4564
+    ],
+    "game_type": 3,
+    "id": 254099,
+    "name": "Xenoblade Chronicles 2 and Xenoblade Chronicles 2 Expansion Pass Bundle",
+    "platforms": [
+     130
+    ],
+    "slug": "xenoblade-chronicles-2-and-xenoblade-chronicles-2-expansion-pass-bundle--1"
+   },
+   {
+    "bundles": [
+     236670
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 286691,
+     "image_id": "co657n"
+    },
+    "first_release_date": 1676419200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 236668,
+    "name": "Xenoblade Chronicles 3: DLC Wave 3",
+    "parent_game": 191411,
+    "platforms": [
+     508,
+     130
+    ],
+    "slug": "xenoblade-chronicles-3-dlc-wave-3"
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 569763,
+     "image_id": "coc7mr"
+    },
+    "first_release_date": 1785369600,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 405447,
+    "name": "Xenoblade Chronicles 2: Nintendo Switch 2 Edition",
+    "parent_game": 26766,
+    "platforms": [
+     508
+    ],
+    "slug": "xenoblade-chronicles-2-nintendo-switch-2-edition"
+   },
+   {
+    "bundles": [
+     354548
+    ],
+    "cover": {
+     "id": 473947,
+     "image_id": "coa5p7"
+    },
+    "first_release_date": 1695168000,
+    "franchises": [
+     4564
+    ],
+    "game_type": 1,
+    "genres": [
+     7
+    ],
+    "id": 354511,
+    "name": "Theatrhythm: Final Bar Line - Xenogears Pack",
+    "parent_game": 217556,
+    "platforms": [
+     130
+    ],
+    "slug": "theatrhythm-final-bar-line-xenogears-pack"
+   },
+   {
+    "aggregated_rating": 85.46666666666667,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 507627,
+     "image_id": "coavor"
+    },
+    "first_release_date": 1430265600,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2366,
+    "name": "Xenoblade Chronicles X",
+    "platforms": [
+     41
+    ],
+    "rating": 80.75410117271332,
+    "slug": "xenoblade-chronicles-x",
+    "total_rating_count": 92
+   },
+   {
+    "aggregated_rating": 82.0,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524559,
+     "image_id": "cob8r3"
+    },
+    "first_release_date": 1742428800,
+    "franchises": [
+     1932,
+     4564
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 321048,
+    "name": "Xenoblade Chronicles X: Definitive Edition",
+    "parent_game": 2366,
+    "platforms": [
+     508,
+     130
+    ],
+    "rating": 90.08260590354296,
+    "slug": "xenoblade-chronicles-x-definitive-edition",
+    "total_rating_count": 17
+   },
+   {
+    "cover": {
+     "id": 398392,
+     "image_id": "co8jeg"
+    },
+    "first_release_date": 1659052800,
+    "franchises": [
+     4564
+    ],
+    "game_type": 3,
+    "id": 241167,
+    "name": "Xenoblade Chronicles 3 + Xenoblade Chronicles 3 Expansion Pass",
+    "platforms": [
+     130
+    ],
+    "slug": "xenoblade-chronicles-3-plus-xenoblade-chronicles-3-expansion-pass"
+   },
+   {
+    "aggregated_rating": 90.0,
+    "cover": {
+     "id": 556672,
+     "image_id": "cobxj4"
+    },
+    "first_release_date": 887155200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1346,
+    "name": "Xenogears",
+    "platforms": [
+     9,
+     7,
+     38
+    ],
+    "rating": 87.75456496365761,
+    "slug": "xenogears",
+    "total_rating_count": 127
+   },
+   {
+    "aggregated_rating": 75.0,
+    "bundles": [
+     26805
+    ],
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 101095,
+     "image_id": "co2607"
+    },
+    "first_release_date": 1088035200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1228,
+    "name": "Xenosaga Episode II: Jenseits von Gut und Böse",
+    "platforms": [
+     8
+    ],
+    "rating": 76.91818335713089,
+    "slug": "xenosaga-episode-ii-jenseits-von-gut-und-bose",
+    "total_rating_count": 32
+   },
+   {
+    "aggregated_rating": 86.36363636363636,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 501883,
+     "image_id": "coar97"
+    },
+    "first_release_date": 1427932800,
+    "franchises": [
+     4564
+    ],
+    "game_type": 11,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 9553,
+    "name": "Xenoblade Chronicles 3D",
+    "parent_game": 2364,
+    "platforms": [
+     37,
+     137
+    ],
+    "rating": 79.927374044854,
+    "slug": "xenoblade-chronicles-3d",
+    "total_rating_count": 22
+   },
+   {
+    "cover": {
+     "id": 268733,
+     "image_id": "co5rct"
+    },
+    "first_release_date": 1014854400,
+    "franchises": [
+     4564,
+     2006
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 225389,
+    "name": "Xenosaga Episode 1: Der Wille zur Macht Limited Edition",
+    "platforms": [
+     8
+    ],
+    "slug": "xenosaga-episode-1-der-wille-zur-macht-limited-edition",
+    "version_parent": 1227
+   },
+   {
+    "aggregated_rating": 91.375,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524560,
+     "image_id": "cob8r4"
+    },
+    "first_release_date": 1590710400,
+    "franchises": [
+     4564
+    ],
+    "game_type": 10,
+    "genres": [
+     11,
+     12
+    ],
+    "id": 122238,
+    "name": "Xenoblade Chronicles: Definitive Edition",
+    "parent_game": 2364,
+    "platforms": [
+     130
+    ],
+    "rating": 81.09153142067085,
+    "slug": "xenoblade-chronicles-definitive-edition",
+    "total_rating_count": 91
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 604790,
+     "image_id": "cocynq"
+    },
+    "first_release_date": 1528934400,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 419419,
+    "name": "Xenoblade Chronicles 2: New Challenge Mode Pack",
+    "parent_game": 26766,
+    "platforms": [
+     130
+    ],
+    "slug": "xenoblade-chronicles-2-new-challenge-mode-pack"
+   },
+   {
+    "cover": {
+     "id": 604789,
+     "image_id": "cocynp"
+    },
+    "first_release_date": 1524700800,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 419418,
+    "name": "Xenoblade Chronicles 2: New Rare Blade Pack",
+    "parent_game": 26766,
+    "platforms": [
+     130
+    ],
+    "slug": "xenoblade-chronicles-2-new-rare-blade-pack"
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 604788,
+     "image_id": "cocyno"
+    },
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 419417,
+    "name": "Xenoblade Chronicles 2: New Quests Pack",
+    "parent_game": 26766,
+    "platforms": [
+     130
+    ],
+    "slug": "xenoblade-chronicles-2-new-quests-pack"
+   },
+   {
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 290175,
+     "image_id": "co67wf"
+    },
+    "first_release_date": 1083110400,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31,
+     34
+    ],
+    "id": 25021,
+    "name": "Xenosaga Freaks",
+    "platforms": [
+     8
+    ],
+    "slug": "xenosaga-freaks"
+   },
+   {
+    "aggregated_rating": 81.5,
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524557,
+     "image_id": "cob8r1"
+    },
+    "first_release_date": 1536883200,
+    "franchises": [
+     4564
+    ],
+    "game_type": 4,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 103340,
+    "name": "Xenoblade Chronicles 2: Torna - The Golden Country",
+    "parent_game": 26766,
+    "platforms": [
+     508,
+     130
+    ],
+    "rating": 92.38699170052774,
+    "slug": "xenoblade-chronicles-2-torna-the-golden-country",
+    "total_rating_count": 38
+   },
+   {
+    "aggregated_rating": 85.14285714285714,
+    "bundles": [
+     254099
+    ],
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524558,
+     "image_id": "cob8r2"
+    },
+    "first_release_date": 1512086400,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 26766,
+    "name": "Xenoblade Chronicles 2",
+    "platforms": [
+     130
+    ],
+    "rating": 89.96356931856816,
+    "slug": "xenoblade-chronicles-2",
+    "total_rating_count": 212
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 524736,
+     "image_id": "cob8w0"
+    },
+    "first_release_date": 1590710400,
+    "franchises": [
+     4564,
+     1932
+    ],
+    "game_type": 2,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 134328,
+    "name": "Xenoblade Chronicles: Future Connected",
+    "parent_game": 122238,
+    "platforms": [
+     508,
+     130
+    ],
+    "rating": 71.60144551692106,
+    "slug": "xenoblade-chronicles-future-connected",
+    "total_rating_count": 20
+   },
+   {
+    "aggregated_rating": 82.0,
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 159915,
+     "image_id": "co3fe3"
+    },
+    "first_release_date": 1152144000,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1229,
+    "name": "Xenosaga Episode III: Also sprach Zarathustra",
+    "platforms": [
+     8
+    ],
+    "rating": 90.24511423825714,
+    "slug": "xenosaga-episode-iii-also-sprach-zarathustra",
+    "total_rating_count": 30
+   },
+   {
+    "bundles": [
+     26805
+    ],
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 101094,
+     "image_id": "co2606"
+    },
+    "first_release_date": 1014854400,
+    "franchises": [
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1227,
+    "name": "Xenosaga Episode I: Der Wille zur Macht",
+    "platforms": [
+     8
+    ],
+    "rating": 74.78561481786772,
+    "slug": "xenosaga-episode-i-der-wille-zur-macht",
+    "total_rating_count": 44
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 187715,
+     "image_id": "co40ub"
+    },
+    "first_release_date": 1449100800,
+    "franchises": [
+     1932,
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 51143,
+    "name": "Xenoblade Chronicles X: Special Edition",
+    "platforms": [
+     41
+    ],
+    "slug": "xenoblade-chronicles-x-special-edition",
+    "version_parent": 2366
+   },
+   {
+    "collections": [
+     {
+      "id": 1161,
+      "name": "Xenoblade Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 570618,
+     "image_id": "coc8ai"
+    },
+    "first_release_date": 1830211200,
+    "franchises": [
+     1932,
+     4564
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 405450,
+    "name": "Xenoblade Genesis",
+    "platforms": [
+     508
+    ],
+    "slug": "xenoblade-genesis"
+   },
+   {
+    "collections": [
+     {
+      "id": 273,
+      "name": "Xenosaga"
+     }
+    ],
+    "cover": {
+     "id": 290487,
+     "image_id": "co6853"
+    },
+    "first_release_date": 1167523200,
+    "franchises": [
+     4564,
+     2006
+    ],
+    "game_type": 0,
+    "genres": [
+     34
+    ],
+    "id": 240497,
+    "name": "Xenosaga II to III: A Missing Year",
+    "platforms": [
+     82
+    ],
+    "slug": "xenosaga-ii-to-iii-a-missing-year"
+   }
+  ],
+  "name": "Xeno",
+  "v": 4
+ },
  "457": {
   "checked": "2026-11-02T22:38:21+00:00",
   "games": [
@@ -543875,6 +544921,581 @@
   "name": "Power Rangers",
   "v": 4
  },
+ "c3202": {
+  "checked": "2026-11-03T04:15:36+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 314586,
+     "image_id": "co6qqi"
+    },
+    "first_release_date": 1409184000,
+    "franchises": [
+     592,
+     538,
+     552
+    ],
+    "game_type": 1,
+    "genres": [
+     4,
+     12,
+     31
+    ],
+    "id": 256501,
+    "name": "Persona 4 Arena Ultimax: P4A Story",
+    "parent_game": 11445,
+    "platforms": [
+     9,
+     12
+    ],
+    "slug": "persona-4-arena-ultimax-p4a-story"
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 294082,
+     "image_id": "co6awy"
+    },
+    "first_release_date": 1295395200,
+    "franchises": [
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 242935,
+    "name": "Persona 4 Colors",
+    "platforms": [
+     55
+    ],
+    "slug": "persona-4-colors"
+   },
+   {
+    "aggregated_rating": 92.75,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 85543,
+     "image_id": "co1u07"
+    },
+    "first_release_date": 1215648000,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 9600,
+    "name": "Persona 4",
+    "platforms": [
+     9,
+     8
+    ],
+    "rating": 88.40948491469616,
+    "slug": "persona-4",
+    "total_rating_count": 285
+   },
+   {
+    "aggregated_rating": 78.0,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 259270,
+     "image_id": "co5k1y"
+    },
+    "first_release_date": 1385596800,
+    "franchises": [
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     34
+    ],
+    "id": 11445,
+    "name": "Persona 4 Arena Ultimax",
+    "platforms": [
+     52,
+     9,
+     48,
+     6,
+     12,
+     130
+    ],
+    "rating": 78.69316436723582,
+    "slug": "persona-4-arena-ultimax",
+    "total_rating_count": 50
+   },
+   {
+    "aggregated_rating": 78.33333333333333,
+    "bundles": [
+     106988
+    ],
+    "collections": [
+     {
+      "id": 9217,
+      "name": "Persona: Dancing"
+     },
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 209471,
+     "image_id": "co4hmn"
+    },
+    "first_release_date": 1435190400,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 11056,
+    "name": "Persona 4: Dancing All Night",
+    "platforms": [
+     48,
+     46
+    ],
+    "rating": 72.22379423441353,
+    "slug": "persona-4-dancing-all-night",
+    "total_rating_count": 40
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 569622,
+     "image_id": "coc7iu"
+    },
+    "first_release_date": 1802908800,
+    "franchises": [
+     552,
+     592
+    ],
+    "game_type": 8,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 348210,
+    "name": "Persona 4 Revival",
+    "parent_game": 2985,
+    "platforms": [
+     169,
+     508,
+     6,
+     167
+    ],
+    "slug": "persona-4-revival"
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 54853,
+     "image_id": "vuyohjuhjztxmo5vkoat"
+    },
+    "first_release_date": 1460678400,
+    "game_type": 0,
+    "id": 59377,
+    "name": "CR Persona 4 the Pachinko",
+    "platforms": [
+     34,
+     6,
+     39
+    ],
+    "slug": "cr-persona-4-the-pachinko"
+   },
+   {
+    "aggregated_rating": 85.91666666666667,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 76533,
+     "image_id": "co1n1x"
+    },
+    "first_release_date": 1339718400,
+    "franchises": [
+     592,
+     538,
+     552
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2985,
+    "name": "Persona 4 Golden",
+    "parent_game": 9600,
+    "platforms": [
+     46
+    ],
+    "rating": 94.3326932381879,
+    "slug": "persona-4-golden",
+    "total_rating_count": 556
+   },
+   {
+    "collections": [
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 552,
+      "name": "Persona"
+     }
+    ],
+    "cover": {
+     "id": 339131,
+     "image_id": "co79ob"
+    },
+    "first_release_date": 1698364800,
+    "franchises": [
+     538
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31,
+     34
+    ],
+    "id": 273107,
+    "name": "Persona 4: Golden Midnight Channel Edition",
+    "platforms": [
+     169,
+     48,
+     49,
+     130
+    ],
+    "slug": "persona-4-golden-midnight-channel-edition",
+    "version_parent": 234702
+   },
+   {
+    "aggregated_rating": 82.25,
+    "collections": [
+     {
+      "id": 2847,
+      "name": "Persona Q"
+     },
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     },
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     }
+    ],
+    "cover": {
+     "id": 305478,
+     "image_id": "co6jpi"
+    },
+    "first_release_date": 1401926400,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 6887,
+    "name": "Persona Q: Shadow of the Labyrinth",
+    "platforms": [
+     37
+    ],
+    "rating": 89.03703803331877,
+    "slug": "persona-q-shadow-of-the-labyrinth",
+    "total_rating_count": 53
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 1291,
+      "name": "Shin Megami Tensei"
+     }
+    ],
+    "cover": {
+     "id": 371958,
+     "image_id": "co7z06"
+    },
+    "first_release_date": 1353369600,
+    "franchises": [
+     538,
+     592
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31,
+     34
+    ],
+    "id": 89923,
+    "name": "Persona 4: Golden - Solid Gold Premium Edition",
+    "platforms": [
+     46
+    ],
+    "slug": "persona-4-golden-solid-gold-premium-edition",
+    "version_parent": 2985
+   },
+   {
+    "aggregated_rating": 88.125,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 100913,
+     "image_id": "co25v5"
+    },
+    "first_release_date": 1330560000,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     12,
+     31,
+     34
+    ],
+    "id": 5650,
+    "name": "Persona 4 Arena",
+    "platforms": [
+     52,
+     9,
+     12
+    ],
+    "rating": 71.16325015340364,
+    "slug": "persona-4-arena",
+    "total_rating_count": 56
+   },
+   {
+    "collections": [
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 391417,
+     "image_id": "co8e0p"
+    },
+    "first_release_date": 1214956800,
+    "franchises": [
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     2
+    ],
+    "id": 306679,
+    "name": "Onsen Nozokimi Daisakusen",
+    "platforms": [
+     82
+    ],
+    "slug": "onsen-nozokimi-daisakusen"
+   },
+   {
+    "aggregated_rating": 90.0,
+    "bundles": [
+     231247,
+     271123
+    ],
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     }
+    ],
+    "cover": {
+     "id": 565777,
+     "image_id": "coc4k1"
+    },
+    "first_release_date": 1592006400,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 11,
+    "genres": [
+     12,
+     31,
+     34
+    ],
+    "id": 234702,
+    "name": "Persona 4 Golden",
+    "parent_game": 2985,
+    "platforms": [
+     169,
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 86.92066819700003,
+    "slug": "persona-4-golden--1",
+    "total_rating_count": 58
+   },
+   {
+    "aggregated_rating": 79.25,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 9216,
+      "name": "Persona 5"
+     },
+     {
+      "id": 2847,
+      "name": "Persona Q"
+     }
+    ],
+    "cover": {
+     "id": 400473,
+     "image_id": "co8l09"
+    },
+    "first_release_date": 1543449600,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     31
+    ],
+    "id": 54220,
+    "name": "Persona Q2: New Cinema Labyrinth",
+    "platforms": [
+     37
+    ],
+    "rating": 96.61923096786794,
+    "slug": "persona-q2-new-cinema-labyrinth",
+    "total_rating_count": 28
+   }
+  ],
+  "name": "Persona 4",
+  "v": 4
+ },
  "c322": {
   "checked": "2026-11-02T22:39:48+00:00",
   "games": [
@@ -545335,6 +546956,354 @@
    }
   ],
   "name": "BOXBOY!",
+  "v": 4
+ },
+ "c325": {
+  "checked": "2026-11-03T04:15:36+00:00",
+  "games": [
+   {
+    "aggregated_rating": 100.0,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 95863,
+     "image_id": "co21yv"
+    },
+    "first_release_date": 1006300800,
+    "franchises": [
+     845,
+     763,
+     596,
+     756,
+     789,
+     771,
+     60,
+     123,
+     1764,
+     769,
+     1567,
+     1787
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 1627,
+    "name": "Super Smash Bros. Melee",
+    "platforms": [
+     21
+    ],
+    "rating": 88.73962057221733,
+    "slug": "super-smash-bros-melee",
+    "total_rating_count": 1112
+   },
+   {
+    "aggregated_rating": 85.0,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 131928,
+     "image_id": "co2tso"
+    },
+    "first_release_date": 916876800,
+    "franchise": 24,
+    "franchises": [
+     24,
+     596,
+     60,
+     845,
+     756,
+     763,
+     789,
+     123,
+     1764,
+     771,
+     1787,
+     1567
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 1626,
+    "name": "Super Smash Bros.",
+    "platforms": [
+     5,
+     4
+    ],
+    "rating": 81.16188516545455,
+    "slug": "super-smash-bros",
+    "total_rating_count": 475
+   },
+   {
+    "aggregated_rating": 86.6,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 96089,
+     "image_id": "co2255"
+    },
+    "first_release_date": 1544140800,
+    "franchises": [
+     756,
+     789,
+     596,
+     1228,
+     845,
+     763,
+     1764,
+     771,
+     769,
+     457,
+     60,
+     1567,
+     1518,
+     892,
+     4,
+     1932,
+     38,
+     551,
+     3081,
+     792,
+     123,
+     1820,
+     1821,
+     895,
+     1752,
+     1787,
+     5396
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 90101,
+    "name": "Super Smash Bros. Ultimate",
+    "platforms": [
+     130
+    ],
+    "rating": 86.61557927063751,
+    "slug": "super-smash-bros-ultimate",
+    "total_rating_count": 967
+   },
+   {
+    "aggregated_rating": 95.27272727272727,
+    "bundles": [
+     231788
+    ],
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 94749,
+     "image_id": "co213x"
+    },
+    "first_release_date": 1416528000,
+    "franchises": [
+     756,
+     763,
+     596,
+     789,
+     769,
+     845,
+     1764,
+     123,
+     771,
+     1820,
+     38,
+     1567,
+     60,
+     1752,
+     1518,
+     892,
+     457,
+     1787,
+     1821,
+     5396,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 9602,
+    "name": "Super Smash Bros. for Wii U",
+    "platforms": [
+     41
+    ],
+    "rating": 83.43801645273842,
+    "slug": "super-smash-bros-for-wii-u",
+    "total_rating_count": 342
+   },
+   {
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 451298,
+     "image_id": "co9o82"
+    },
+    "first_release_date": 946598400,
+    "franchises": [
+     1787
+    ],
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 328589,
+    "name": "Super Smash Bros.",
+    "platforms": [
+     82
+    ],
+    "slug": "super-smash-bros--1"
+   },
+   {
+    "aggregated_rating": 86.06666666666666,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 89264,
+     "image_id": "co1wvk"
+    },
+    "first_release_date": 1410566400,
+    "franchises": [
+     845,
+     756,
+     763,
+     596,
+     789,
+     769,
+     1764,
+     123,
+     771,
+     457,
+     892,
+     38,
+     1820,
+     1567,
+     1518,
+     1787,
+     1821,
+     60,
+     5396,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 9621,
+    "name": "Super Smash Bros. for Nintendo 3DS",
+    "platforms": [
+     37
+    ],
+    "rating": 75.83892712644675,
+    "slug": "super-smash-bros-for-nintendo-3ds",
+    "total_rating_count": 213
+   },
+   {
+    "aggregated_rating": 91.33333333333333,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 95972,
+     "image_id": "co221w"
+    },
+    "first_release_date": 1201737600,
+    "franchises": [
+     756,
+     763,
+     596,
+     60,
+     845,
+     1764,
+     771,
+     769,
+     789,
+     457,
+     1820,
+     1567,
+     1752,
+     123,
+     1518,
+     1787,
+     551,
+     5396
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 1628,
+    "name": "Super Smash Bros. Brawl",
+    "platforms": [
+     5
+    ],
+    "rating": 81.82602521550372,
+    "slug": "super-smash-bros-brawl",
+    "total_rating_count": 603
+   },
+   {
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 471566,
+     "image_id": "coa3v2"
+    },
+    "first_release_date": 1230681600,
+    "franchises": [
+     1787
+    ],
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 328674,
+    "name": "Super Smash Bros. Brawl",
+    "platforms": [
+     82
+    ],
+    "slug": "super-smash-bros-brawl--1"
+   }
+  ],
+  "name": "Super Smash Bros.",
   "v": 4
  },
  "c327": {
@@ -556287,6 +558256,795 @@
    }
   ],
   "name": "Chrono",
+  "v": 4
+ },
+ "c3451": {
+  "checked": "2026-11-03T04:15:35+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 367293,
+     "image_id": "co7vel"
+    },
+    "first_release_date": 1710201600,
+    "franchises": [
+     552
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     15,
+     31
+    ],
+    "id": 289704,
+    "name": "Persona 3 Reload: Expansion Pass",
+    "platforms": [
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "slug": "persona-3-reload-expansion-pass"
+   },
+   {
+    "aggregated_rating": 79.25,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 9216,
+      "name": "Persona 5"
+     },
+     {
+      "id": 2847,
+      "name": "Persona Q"
+     }
+    ],
+    "cover": {
+     "id": 400473,
+     "image_id": "co8l09"
+    },
+    "first_release_date": 1543449600,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     31
+    ],
+    "id": 54220,
+    "name": "Persona Q2: New Cinema Labyrinth",
+    "platforms": [
+     37
+    ],
+    "rating": 96.61923096786794,
+    "slug": "persona-q2-new-cinema-labyrinth",
+    "total_rating_count": 28
+   },
+   {
+    "aggregated_rating": 78.0,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 259270,
+     "image_id": "co5k1y"
+    },
+    "first_release_date": 1385596800,
+    "franchises": [
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     34
+    ],
+    "id": 11445,
+    "name": "Persona 4 Arena Ultimax",
+    "platforms": [
+     52,
+     9,
+     48,
+     6,
+     12,
+     130
+    ],
+    "rating": 78.69316436723582,
+    "slug": "persona-4-arena-ultimax",
+    "total_rating_count": 50
+   },
+   {
+    "collections": [
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     },
+     {
+      "id": 552,
+      "name": "Persona"
+     }
+    ],
+    "cover": {
+     "id": 299115,
+     "image_id": "co6esr"
+    },
+    "first_release_date": 1282003200,
+    "franchises": [
+     552,
+     538
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 246687,
+    "name": "Persona 3 Social",
+    "platforms": [
+     55
+    ],
+    "slug": "persona-3-social"
+   },
+   {
+    "aggregated_rating": 91.5,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 304871,
+     "image_id": "co6j8n"
+    },
+    "first_release_date": 1176940800,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 11437,
+    "name": "Persona 3 FES",
+    "parent_game": 9577,
+    "platforms": [
+     9,
+     8
+    ],
+    "rating": 88.12285576932427,
+    "slug": "persona-3-fes",
+    "total_rating_count": 150
+   },
+   {
+    "bundles": [
+     231247,
+     271123
+    ],
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 284383,
+     "image_id": "co63fj"
+    },
+    "first_release_date": 1674086400,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 11,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 234701,
+    "name": "Persona 3 Portable",
+    "parent_game": 11416,
+    "platforms": [
+     169,
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 70.78796480811606,
+    "slug": "persona-3-portable--2",
+    "total_rating_count": 12
+   },
+   {
+    "collections": [
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 325327,
+     "image_id": "co6z0v"
+    },
+    "first_release_date": 1706832000,
+    "franchises": [
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16
+    ],
+    "id": 262641,
+    "name": "Persona 3 Reload: Limited Box",
+    "platforms": [
+     48,
+     167
+    ],
+    "slug": "persona-3-reload-limited-box",
+    "version_parent": 252647
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 378822,
+     "image_id": "co84au"
+    },
+    "first_release_date": 1196035200,
+    "franchises": [
+     592
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 136488,
+    "name": "Persona 3 Em",
+    "platforms": [
+     55
+    ],
+    "slug": "persona-3-em"
+   },
+   {
+    "aggregated_rating": 88.125,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 100913,
+     "image_id": "co25v5"
+    },
+    "first_release_date": 1330560000,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     12,
+     31,
+     34
+    ],
+    "id": 5650,
+    "name": "Persona 4 Arena",
+    "platforms": [
+     52,
+     9,
+     12
+    ],
+    "rating": 71.16325015340364,
+    "slug": "persona-4-arena",
+    "total_rating_count": 56
+   },
+   {
+    "aggregated_rating": 90.0,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 262662,
+     "image_id": "co5mo6"
+    },
+    "first_release_date": 1152748800,
+    "franchises": [
+     592,
+     538,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 9577,
+    "name": "Persona 3",
+    "platforms": [
+     8
+    ],
+    "rating": 91.46051507150773,
+    "slug": "persona-3",
+    "total_rating_count": 127
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 365707,
+     "image_id": "co7u6j"
+    },
+    "first_release_date": 1294272000,
+    "franchises": [
+     592,
+     538,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     9
+    ],
+    "id": 289154,
+    "name": "Persona 3 Escape",
+    "platforms": [
+     55
+    ],
+    "slug": "persona-3-escape"
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 378640,
+     "image_id": "co845s"
+    },
+    "first_release_date": 1177632000,
+    "franchises": [
+     592,
+     538,
+     552
+    ],
+    "game_type": 0,
+    "id": 289392,
+    "name": "Megami Tensei QIX: Persona 3",
+    "platforms": [
+     55
+    ],
+    "slug": "megami-tensei-qix-persona-3"
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 365967,
+     "image_id": "co7udr"
+    },
+    "first_release_date": 1204502400,
+    "franchises": [
+     592,
+     538,
+     552
+    ],
+    "game_type": 0,
+    "id": 289391,
+    "name": "Persona 3 Illust Puzzle",
+    "platforms": [
+     55
+    ],
+    "slug": "persona-3-illust-puzzle"
+   },
+   {
+    "aggregated_rating": 87.88888888888889,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 76535,
+     "image_id": "co1n1z"
+    },
+    "first_release_date": 1257033600,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 10,
+    "genres": [
+     2,
+     12,
+     31,
+     34
+    ],
+    "id": 11416,
+    "name": "Persona 3 Portable",
+    "parent_game": 9577,
+    "platforms": [
+     46,
+     38
+    ],
+    "rating": 84.35366937310825,
+    "slug": "persona-3-portable",
+    "total_rating_count": 138
+   },
+   {
+    "aggregated_rating": 88.625,
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 565775,
+     "image_id": "coc4jz"
+    },
+    "first_release_date": 1706832000,
+    "franchises": [
+     552,
+     592
+    ],
+    "game_type": 8,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 252647,
+    "name": "Persona 3 Reload",
+    "parent_game": 9577,
+    "platforms": [
+     169,
+     48,
+     508,
+     6,
+     167,
+     49
+    ],
+    "rating": 88.28794721653713,
+    "slug": "persona-3-reload",
+    "total_rating_count": 141
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 378824,
+     "image_id": "co84aw"
+    },
+    "first_release_date": 1149120000,
+    "franchises": [
+     592
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 71158,
+    "name": "Persona 3: The Night Before",
+    "platforms": [
+     82
+    ],
+    "slug": "persona-3-the-night-before"
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 378823,
+     "image_id": "co84av"
+    },
+    "first_release_date": 1193616000,
+    "franchises": [
+     592
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 124348,
+    "name": "Aegis: The First Mission",
+    "platforms": [
+     55
+    ],
+    "slug": "aegis-the-first-mission"
+   },
+   {
+    "aggregated_rating": 76.0,
+    "bundles": [
+     106988
+    ],
+    "collections": [
+     {
+      "id": 9217,
+      "name": "Persona: Dancing"
+     },
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 78165,
+     "image_id": "co1ob9"
+    },
+    "first_release_date": 1527120000,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 54217,
+    "name": "Persona 3: Dancing in Moonlight",
+    "platforms": [
+     48,
+     46
+    ],
+    "rating": 74.85818426629257,
+    "slug": "persona-3-dancing-in-moonlight",
+    "total_rating_count": 35
+   },
+   {
+    "collections": [
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 457383,
+     "image_id": "co9sx3"
+    },
+    "first_release_date": 1717632000,
+    "franchises": [
+     592
+    ],
+    "game_type": 11,
+    "genres": [
+     12
+    ],
+    "id": 298527,
+    "name": "G-Mode Archives+: Persona 3: Aegis The First Mission",
+    "parent_game": 124348,
+    "platforms": [
+     6,
+     130
+    ],
+    "slug": "g-mode-archives-plus-persona-3-aegis-the-first-mission"
+   },
+   {
+    "collections": [
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     },
+     {
+      "id": 552,
+      "name": "Persona"
+     }
+    ],
+    "cover": {
+     "id": 34473,
+     "image_id": "cvcsocdor1n302vpi4xq"
+    },
+    "first_release_date": 1203984000,
+    "franchises": [
+     592
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 71159,
+    "name": "Persona Ain Soph",
+    "platforms": [
+     82
+    ],
+    "slug": "persona-ain-soph"
+   },
+   {
+    "collections": [
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     }
+    ],
+    "cover": {
+     "id": 365966,
+     "image_id": "co7udq"
+    },
+    "first_release_date": 1209340800,
+    "franchises": [
+     592,
+     538,
+     552
+    ],
+    "game_type": 0,
+    "id": 289390,
+    "name": "Persona 3 Broken Shadow",
+    "platforms": [
+     55
+    ],
+    "slug": "persona-3-broken-shadow"
+   },
+   {
+    "aggregated_rating": 82.25,
+    "collections": [
+     {
+      "id": 2847,
+      "name": "Persona Q"
+     },
+     {
+      "id": 552,
+      "name": "Persona"
+     },
+     {
+      "id": 3202,
+      "name": "Persona 4"
+     },
+     {
+      "id": 3451,
+      "name": "Persona 3"
+     },
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     }
+    ],
+    "cover": {
+     "id": 305478,
+     "image_id": "co6jpi"
+    },
+    "first_release_date": 1401926400,
+    "franchises": [
+     592,
+     552
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 6887,
+    "name": "Persona Q: Shadow of the Labyrinth",
+    "platforms": [
+     37
+    ],
+    "rating": 89.03703803331877,
+    "slug": "persona-q-shadow-of-the-labyrinth",
+    "total_rating_count": 53
+   }
+  ],
+  "name": "Persona 3",
   "v": 4
  },
  "c35": {
@@ -584319,6 +587077,173 @@
    }
   ],
   "name": "The Elder Scrolls",
+  "v": 4
+ },
+ "c6008": {
+  "checked": "2026-11-03T04:15:36+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 6008,
+      "name": "Devil Survivor"
+     }
+    ],
+    "cover": {
+     "id": 115750,
+     "image_id": "co2hba"
+    },
+    "first_release_date": 1365552000,
+    "franchises": [
+     592
+    ],
+    "game_type": 0,
+    "genres": [
+     15
+    ],
+    "id": 139136,
+    "name": "Devil Survivor 2: The Extra World",
+    "platforms": [
+     55
+    ],
+    "slug": "devil-survivor-2-the-extra-world"
+   },
+   {
+    "aggregated_rating": 88.33333333333333,
+    "collections": [
+     {
+      "id": 6008,
+      "name": "Devil Survivor"
+     }
+    ],
+    "cover": {
+     "id": 101751,
+     "image_id": "co26if"
+    },
+    "first_release_date": 1422489600,
+    "franchises": [
+     538
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     15,
+     24
+    ],
+    "id": 23441,
+    "name": "Shin Megami Tensei: Devil Survivor 2 - Record Breaker",
+    "parent_game": 6885,
+    "platforms": [
+     37
+    ],
+    "rating": 67.56470040970424,
+    "slug": "shin-megami-tensei-devil-survivor-2-record-breaker",
+    "total_rating_count": 12
+   },
+   {
+    "aggregated_rating": 82.4,
+    "collections": [
+     {
+      "id": 6008,
+      "name": "Devil Survivor"
+     }
+    ],
+    "cover": {
+     "id": 101743,
+     "image_id": "co26i7"
+    },
+    "first_release_date": 1311811200,
+    "franchises": [
+     592
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24
+    ],
+    "id": 6885,
+    "name": "Shin Megami Tensei: Devil Survivor 2",
+    "platforms": [
+     37,
+     20
+    ],
+    "rating": 79.69388709575173,
+    "slug": "shin-megami-tensei-devil-survivor-2",
+    "total_rating_count": 23
+   },
+   {
+    "aggregated_rating": 90.0,
+    "collections": [
+     {
+      "id": 6008,
+      "name": "Devil Survivor"
+     }
+    ],
+    "cover": {
+     "id": 101747,
+     "image_id": "co26ib"
+    },
+    "first_release_date": 1231977600,
+    "franchises": [
+     592,
+     538
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24,
+     34
+    ],
+    "id": 6884,
+    "name": "Shin Megami Tensei: Devil Survivor",
+    "platforms": [
+     20
+    ],
+    "rating": 76.56494822325476,
+    "slug": "shin-megami-tensei-devil-survivor",
+    "total_rating_count": 39
+   },
+   {
+    "aggregated_rating": 84.0,
+    "collections": [
+     {
+      "id": 6008,
+      "name": "Devil Survivor"
+     },
+     {
+      "id": 1291,
+      "name": "Shin Megami Tensei"
+     }
+    ],
+    "cover": {
+     "id": 507626,
+     "image_id": "coavoq"
+    },
+    "first_release_date": 1314057600,
+    "franchises": [
+     592,
+     538
+    ],
+    "game_type": 11,
+    "genres": [
+     12,
+     15,
+     24
+    ],
+    "id": 19131,
+    "name": "Shin Megami Tensei: Devil Survivor Overclocked",
+    "parent_game": 6884,
+    "platforms": [
+     37
+    ],
+    "rating": 91.122005054473,
+    "slug": "shin-megami-tensei-devil-survivor-overclocked",
+    "total_rating_count": 27
+   }
+  ],
+  "name": "Devil Survivor",
   "v": 4
  },
  "c603": {
@@ -620131,6 +623056,96 @@
    }
   ],
   "name": "Etrian Odyssey",
+  "v": 4
+ },
+ "c943": {
+  "checked": "2026-11-03T04:15:37+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 943,
+      "name": "Pilotwings"
+     }
+    ],
+    "cover": {
+     "id": 257550,
+     "image_id": "co5iq6"
+    },
+    "first_release_date": 835488000,
+    "game_type": 0,
+    "genres": [
+     10,
+     13,
+     14
+    ],
+    "id": 3573,
+    "name": "Pilotwings 64",
+    "platforms": [
+     4
+    ],
+    "rating": 70.20275262708547,
+    "slug": "pilotwings-64",
+    "total_rating_count": 39
+   },
+   {
+    "aggregated_rating": 72.0,
+    "collections": [
+     {
+      "id": 943,
+      "name": "Pilotwings"
+     }
+    ],
+    "cover": {
+     "id": 133485,
+     "image_id": "co2uzx"
+    },
+    "first_release_date": 1301011200,
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 6862,
+    "name": "Pilotwings Resort",
+    "platforms": [
+     37
+    ],
+    "rating": 67.02997397316187,
+    "slug": "pilotwings-resort",
+    "total_rating_count": 22
+   },
+   {
+    "collections": [
+     {
+      "id": 943,
+      "name": "Pilotwings"
+     }
+    ],
+    "cover": {
+     "id": 257549,
+     "image_id": "co5iq5"
+    },
+    "first_release_date": 661737600,
+    "game_type": 0,
+    "genres": [
+     13,
+     14
+    ],
+    "id": 9619,
+    "name": "Pilotwings",
+    "platforms": [
+     19,
+     5,
+     41,
+     137,
+     58
+    ],
+    "rating": 61.2635937962495,
+    "slug": "pilotwings",
+    "total_rating_count": 42
+   }
+  ],
+  "name": "Pilotwings",
   "v": 4
  },
  "c95": {
