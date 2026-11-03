@@ -253,12 +253,18 @@
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 8823
  },
+ "ape-academy-2": {
+  "checked": "2026-11-03T05:32:33+00:00"
+ },
  "ape-escape": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 13420
  },
  "ape-escape-2": {
   "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "ape-escape-academy": {
+  "checked": "2026-11-03T05:32:33+00:00"
  },
  "ape-escape-pumped-and-primed--1": {
   "checked": "2026-10-28T05:02:27+00:00"
@@ -1133,11 +1139,17 @@
  "crash-mind-over-mutant": {
   "checked": "2026-10-29T21:44:13+00:00"
  },
+ "crash-mind-over-mutant--1": {
+  "checked": "2026-11-03T05:32:33+00:00"
+ },
  "crash-nitro-kart--1": {
   "checked": "2026-11-02T08:49:05+00:00"
  },
  "crash-of-the-titans": {
   "checked": "2026-10-07T21:36:14+00:00"
+ },
+ "crash-of-the-titans--1": {
+  "checked": "2026-11-03T05:32:33+00:00"
  },
  "crashmo": {
   "checked": "2026-10-08T02:55:43+00:00"
@@ -3312,6 +3324,9 @@
  "lego-harry-potter-years-1-4": {
   "checked": "2026-10-08T03:35:12+00:00"
  },
+ "lego-harry-potter-years-1-4--1": {
+  "checked": "2026-11-03T05:32:33+00:00"
+ },
  "lego-horizon-adventures": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17126
@@ -3329,6 +3344,9 @@
  },
  "lego-pirates-of-the-caribbean-the-video-game": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "lego-pirates-of-the-caribbean-the-video-game--2": {
+  "checked": "2026-11-03T05:32:33+00:00"
  },
  "lego-star-wars-ii-the-original-trilogy--4": {
   "checked": "2026-10-28T05:02:27+00:00"
@@ -4209,8 +4227,14 @@
  "need-for-speed-prostreet": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
+ "need-for-speed-prostreet--1": {
+  "checked": "2026-11-03T05:32:33+00:00"
+ },
  "need-for-speed-shift": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "need-for-speed-shift--1": {
+  "checked": "2026-11-03T05:32:33+00:00"
  },
  "need-for-speed-unbound": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -4910,6 +4934,9 @@
  "prince-of-persia-the-forgotten-sands": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
+ "prince-of-persia-the-forgotten-sands--2": {
+  "checked": "2026-11-03T05:32:33+00:00"
+ },
  "prince-of-persia-the-lost-crown": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 15867
@@ -5177,6 +5204,9 @@
  },
  "resident-evil-5": {
   "checked": "2026-10-07T01:52:01+00:00"
+ },
+ "resident-evil-5-remastered": {
+  "checked": "2026-11-03T05:32:33+00:00"
  },
  "resident-evil-6-remastered": {
   "checked": "2026-10-07T01:52:04+00:00"
@@ -5999,6 +6029,9 @@
   "checked": "2026-10-08T03:28:11+00:00",
   "opencritic_id": 13038
  },
+ "star-wars-the-force-unleashed--5": {
+  "checked": "2026-11-03T05:32:33+00:00"
+ },
  "starblood-arena": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4130
@@ -6201,6 +6234,9 @@
  },
  "super-mario-bros-3": {
   "checked": "2026-10-28T05:36:43+00:00"
+ },
+ "super-mario-bros-the-lost-levels": {
+  "checked": "2026-11-03T05:32:33+00:00"
  },
  "super-mario-galaxy": {
   "checked": "2026-11-03T04:38:11+00:00"
@@ -6426,6 +6462,9 @@
  "tales-of-destiny-ii": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
+ "tales-of-eternia": {
+  "checked": "2026-11-03T05:32:33+00:00"
+ },
  "tales-of-graces-f": {
   "checked": "2026-11-03T04:23:46+00:00"
  },
@@ -6528,6 +6567,9 @@
  "test-drive-unlimited-solar-crown": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 17250
+ },
+ "tetris": {
+  "checked": "2026-11-03T05:32:33+00:00"
  },
  "tetris--1": {
   "checked": "2026-11-02T21:21:34+00:00"

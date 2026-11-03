@@ -512,6 +512,14 @@
   "hltb_name": "Picross 3D",
   "main": 40.5
  },
+ "igdb:1066": {
+  "checked": "2026-11-03T05:34:29+00:00",
+  "complete": 5.5,
+  "extra": 4.0,
+  "hltb_id": 9375,
+  "hltb_name": "Super Mario Bros.: The Lost Levels",
+  "main": 3.0
+ },
  "igdb:10662": {
   "checked": "2026-11-02T09:12:48+00:00",
   "complete": 7.0,
@@ -3623,6 +3631,14 @@
   "hltb_name": "Phoenix Wright: Ace Attorney - Justice for All",
   "main": 19.0
  },
+ "igdb:142710": {
+  "checked": "2026-11-03T05:34:18+00:00",
+  "complete": 10.5,
+  "extra": 9.0,
+  "hltb_id": 7296,
+  "hltb_name": "Prince of Persia: The Forgotten Sands",
+  "main": 8.0
+ },
  "igdb:1428": {
   "checked": "2026-10-29T22:23:39+00:00",
   "complete": 26.0,
@@ -6660,6 +6676,14 @@
   "hltb_name": "Super SWIV",
   "main": 1.0
  },
+ "igdb:197928": {
+  "checked": "2026-11-03T05:34:10+00:00",
+  "complete": 12.0,
+  "extra": 9.0,
+  "hltb_id": 1980,
+  "hltb_name": "Crash of the Titans",
+  "main": 7.0
+ },
  "igdb:19796": {
   "checked": "2026-10-28T05:17:35+00:00",
   "complete": 109.0,
@@ -7503,6 +7527,14 @@
  "igdb:21020": {
   "checked": "2026-10-17T13:56:36+00:00"
  },
+ "igdb:210229": {
+  "checked": "2026-11-03T05:34:27+00:00",
+  "complete": 12.0,
+  "extra": 9.5,
+  "hltb_id": 1987,
+  "hltb_name": "Crash: Mind over Mutant",
+  "main": 6.0
+ },
  "igdb:210237": {
   "checked": "2026-11-02T09:06:24+00:00",
   "complete": 11.0,
@@ -7518,6 +7550,14 @@
   "hltb_id": 10503,
   "hltb_name": "Tony Hawk's Underground",
   "main": 7.0
+ },
+ "igdb:210431": {
+  "checked": "2026-11-03T05:34:20+00:00",
+  "complete": 18.0,
+  "extra": 16.0,
+  "hltb_id": 6481,
+  "hltb_name": "Need for Speed: ProStreet",
+  "main": 11.5
  },
  "igdb:210434": {
   "checked": "2026-11-02T09:10:05+00:00",
@@ -8248,6 +8288,14 @@
   "hltb_name": "The Dark Pictures: Switchback VR",
   "main": 4.0
  },
+ "igdb:22454": {
+  "checked": "2026-11-03T05:34:34+00:00",
+  "complete": 6.0,
+  "extra": 4.0,
+  "hltb_id": 28641,
+  "hltb_name": "Ape Escape Academy",
+  "main": 2.5
+ },
  "igdb:22458": {
   "checked": "2026-10-17T13:56:31+00:00",
   "complete": 29.0,
@@ -8588,6 +8636,9 @@
   "hltb_name": "Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness",
   "main": 22.5
  },
+ "igdb:23215": {
+  "checked": "2026-11-03T05:34:07+00:00"
+ },
  "igdb:2322": {
   "checked": "2026-10-29T22:27:51+00:00",
   "complete": 93.5,
@@ -8817,6 +8868,14 @@
   "hltb_id": 52546,
   "hltb_name": "Tunic",
   "main": 12.5
+ },
+ "igdb:237596": {
+  "checked": "2026-11-03T05:34:25+00:00",
+  "complete": 27.5,
+  "extra": 17.5,
+  "hltb_id": 5250,
+  "hltb_name": "LEGO Harry Potter: Years 1-4",
+  "main": 12.0
  },
  "igdb:238": {
   "checked": "2026-10-28T05:22:38+00:00",
@@ -9050,6 +9109,14 @@
   "hltb_id": 7221,
   "hltb_name": "Populous",
   "main": 12.5
+ },
+ "igdb:248136": {
+  "checked": "2026-11-03T05:34:14+00:00",
+  "complete": 31.0,
+  "extra": 26.0,
+  "hltb_id": 6482,
+  "hltb_name": "Need for Speed: Shift",
+  "main": 13.0
  },
  "igdb:2485": {
   "checked": "2026-11-01T00:47:24+00:00",
@@ -10175,6 +10242,14 @@
   "hltb_name": "Puzzle Bobble",
   "main": 3.0
  },
+ "igdb:284142": {
+  "checked": "2026-11-03T05:34:16+00:00",
+  "complete": 23.0,
+  "extra": 15.0,
+  "hltb_id": 5256,
+  "hltb_name": "LEGO Pirates of the Caribbean: The Video Game",
+  "main": 8.5
+ },
  "igdb:2844": {
   "checked": "2026-11-02T09:13:36+00:00"
  },
@@ -11082,6 +11157,14 @@
   "hltb_id": 6046,
   "hltb_name": "Mighty Morphin Power Rangers: The Movie",
   "main": 1.0
+ },
+ "igdb:329316": {
+  "checked": "2026-11-03T05:34:22+00:00",
+  "complete": 73.5,
+  "extra": 42.0,
+  "hltb_id": 9584,
+  "hltb_name": "Tales of Eternia",
+  "main": 33.0
  },
  "igdb:330": {
   "checked": "2026-11-02T10:12:05+00:00",
@@ -12097,6 +12180,14 @@
   "hltb_name": "Dishonored: Death of the Outsider",
   "main": 6.5
  },
+ "igdb:37047": {
+  "checked": "2026-11-03T05:34:36+00:00",
+  "complete": 6.0,
+  "extra": 4.5,
+  "hltb_id": 78676,
+  "hltb_name": "Ape Escape Academy 2",
+  "main": 3.5
+ },
  "igdb:37062": {
   "checked": "2026-10-28T04:16:05+00:00",
   "complete": 68.5,
@@ -12553,6 +12644,14 @@
   "hltb_id": 3500,
   "hltb_name": "Final Fantasy IV (3D)",
   "main": 30.5
+ },
+ "igdb:399295": {
+  "checked": "2026-11-03T05:34:12+00:00",
+  "complete": 17.5,
+  "extra": 11.0,
+  "hltb_id": 9132,
+  "hltb_name": "Star Wars: The Force Unleashed",
+  "main": 8.0
  },
  "igdb:3998": {
   "checked": "2026-11-02T09:13:07+00:00",
@@ -16405,6 +16504,14 @@
   "hltb_id": 31590,
   "hltb_name": "Overwatch",
   "main": 93.5
+ },
+ "igdb:8197": {
+  "checked": "2026-11-03T05:34:32+00:00",
+  "complete": 13.0,
+  "extra": 5.5,
+  "hltb_id": 9715,
+  "hltb_name": "Tetris",
+  "main": 3.0
  },
  "igdb:82019": {
   "checked": "2026-11-02T09:13:54+00:00",

@@ -6034,7 +6034,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "crash-of-the-titans",
+   "igdb": "crash-of-the-titans--1",
    "last_played": null,
    "manual": true,
    "platform": "DS",
@@ -7255,7 +7255,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "star-wars-the-force-unleashed",
+   "igdb": "star-wars-the-force-unleashed--5",
    "last_played": null,
    "manual": true,
    "platform": "PSP",
@@ -7277,7 +7277,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "need-for-speed-shift",
+   "igdb": "need-for-speed-shift--1",
    "last_played": null,
    "manual": true,
    "platform": "PSP",
@@ -7299,7 +7299,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "lego-pirates-of-the-caribbean-the-video-game",
+   "igdb": "lego-pirates-of-the-caribbean-the-video-game--2",
    "last_played": null,
    "manual": true,
    "platform": "PSP",
@@ -7332,7 +7332,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "prince-of-persia-the-forgotten-sands",
+   "igdb": "prince-of-persia-the-forgotten-sands--2",
    "last_played": null,
    "manual": true,
    "platform": "PSP",
@@ -7387,7 +7387,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "need-for-speed-prostreet",
+   "igdb": "need-for-speed-prostreet--1",
    "last_played": null,
    "manual": true,
    "platform": "PSP",
@@ -7398,7 +7398,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "tales-of-destiny-ii",
+   "igdb": "tales-of-eternia",
    "last_played": null,
    "manual": true,
    "platform": "PSP",
@@ -7409,7 +7409,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "lego-harry-potter-years-1-4",
+   "igdb": "lego-harry-potter-years-1-4--1",
    "last_played": null,
    "manual": true,
    "platform": "PSP",
@@ -7871,7 +7871,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "god-of-war-origins-collection",
+   "igdb": "god-of-war-collection",
    "last_played": null,
    "manual": true,
    "platform": "PS Vita",
@@ -8575,7 +8575,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "crash-mind-over-mutant",
+   "igdb": "crash-mind-over-mutant--1",
    "last_played": null,
    "manual": true,
    "platform": "DS",
@@ -9202,7 +9202,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations",
+   "igdb": "phoenix-wright-ace-attorney-justice-for-all",
    "last_played": null,
    "manual": true,
    "platform": "DS",
@@ -9213,7 +9213,7 @@
   {
    "also_platform": null,
    "format": "digital",
-   "igdb": "phoenix-wright-ace-attorney-justice-for-all",
+   "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations",
    "last_played": null,
    "manual": true,
    "platform": "DS",
@@ -11519,7 +11519,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0105/nkAJcbaKJ1N0YP7JuRd3DdTc.png",
    "last_played": "2018-10-21",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 20.8,
    "ps_plus": false,
    "source_id": "CUSA01780_00",
@@ -11618,7 +11618,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3017/wYAvR9akyRjDjy75S4zCLAGi.png",
    "last_played": "2018-10-28",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 10.8,
    "ps_plus": false,
    "source_id": "CUSA01015_00",
@@ -11627,7 +11627,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1316/Ox5ZRVrJnq3bdPC3QaNeL6eB.png",
    "last_played": "2026-11-01",
-   "platform": "PlayStation",
+   "platform": "PS5",
    "playtime_hours": 10.6,
    "ps_plus": false,
    "source_id": "PPSA01665_00",
@@ -11753,7 +11753,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
    "last_played": "2024-01-18",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 3.7,
    "ps_plus": false,
    "source_id": "CUSA17722_00",
@@ -11789,7 +11789,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1422/i0AxG1FE1AMNq0KrcXepdYrd.png",
    "last_played": "2024-11-16",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 3.0,
    "ps_plus": false,
    "source_id": "CUSA00129_00",
@@ -11816,7 +11816,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/yM0eeJui8AFByeP5BC5XV5j9.png",
    "last_played": "2024-06-16",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 2.6,
    "ps_plus": false,
    "source_id": "CUSA31878_00",
@@ -11825,7 +11825,7 @@
   {
    "cover": "https://image.api.playstation.com/cdn/JP9000/CUSA05663_00/yvnlNvHOMTaugLAiTPSvPRcfIXHHAGTA.png",
    "last_played": "2018-10-26",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 2.3,
    "ps_plus": false,
    "source_id": "CUSA09142_00",
@@ -11870,7 +11870,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02188_00/2/i_4399a0f1cf5ea14e1927d87fe8a577def756abcfcb58e9bf85a0ad336c08bb12/i/icon0.png",
    "last_played": "2016-12-24",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 1.8,
    "ps_plus": false,
    "source_id": "CUSA02188_00",
@@ -11897,7 +11897,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00095_00/5/i_2027b533e8eefa12db0faf00bbb69f7598c1bbb1160a16ec684709397631ed60/i/icon0.png",
    "last_played": "2024-06-17",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 1.6,
    "ps_plus": false,
    "source_id": "CUSA00095_00",
@@ -11942,7 +11942,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png",
    "last_played": "2022-01-16",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 1.1,
    "ps_plus": false,
    "source_id": "CUSA02299_00",
@@ -11987,7 +11987,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02854_00/2/i_312b49d77c370ee1797be4ee74d814909845f4d5c88fe18a6dc79f9c1982bfb4/i/icon0.png",
    "last_played": "2024-06-22",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.8,
    "ps_plus": false,
    "source_id": "CUSA02412_00",
@@ -12005,7 +12005,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0715/VExUSYXX0sZXDV3LtQHrSHTS.png",
    "last_played": "2016-11-28",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.8,
    "ps_plus": false,
    "source_id": "CUSA00130_00",
@@ -12023,7 +12023,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307yTtQHHs5rGByVI5LQJK9AvsV7Q577v082BvkKfSmBsU7lzxIutUgVvcL3eofKipLaEvL_QzCJrkhL-TREkeZScQmBUo.png",
    "last_played": "2023-01-14",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.7,
    "ps_plus": false,
    "source_id": "CUSA05488_00",
@@ -12032,7 +12032,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00003_00/20/i_54ce0ebbc21f325364819a5e56ef19264803b3935e8442c4bccbda99abef8605/i/icon0.png",
    "last_played": "2015-09-08",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.7,
    "ps_plus": false,
    "source_id": "CUSA00093_00",
@@ -12041,7 +12041,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00033_00/3/i_e99bcf4848f21aeee825e0e0e730b166b9e1526bbc9c713deee49820e95be5bf/i/icon0.png",
    "last_played": "2014-12-28",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.7,
    "ps_plus": false,
    "source_id": "CUSA00101_00",
@@ -12066,7 +12066,7 @@
    "title": "Sniper Elite VR"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/0b31b8306c4fae90e94a2fbf5d14fe9cf3ea014da70309cf.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2822/9540e915e26a7168ee5dfc697d8fa756b6a6343b8969d6e5.png",
    "last_played": "2024-12-05",
    "platform": "PS5",
    "playtime_hours": 0.5,
@@ -12077,7 +12077,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0813/kiJhC325Kns3OaBzJeFWmENK.png",
    "last_played": "2024-01-20",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.5,
    "ps_plus": true,
    "source_id": "CUSA25502_00",
@@ -12104,7 +12104,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11089_00/2/i_52a8bafa3ec1f51da462f3ac9588bf9b4b1d7c46a9fd3b92ab648c22d40cb238/i/icon0.png",
    "last_played": "2018-12-09",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.4,
    "ps_plus": false,
    "source_id": "CUSA14274_00",
@@ -12158,7 +12158,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02573_00/3/i_ede47e295d67dc5ca8b83449df88e210b729f694a9072acc7754512a3fd13cdd/i/icon0.png",
    "last_played": "2019-10-20",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.3,
    "ps_plus": false,
    "source_id": "CUSA02573_00",
@@ -12167,7 +12167,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00001_00/1/i_f10c33e5f30e3b3900a201af324a2a0e3912e843c1090d66e13f378151c1afa1/i/icon0.png",
    "last_played": "2019-06-04",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.3,
    "ps_plus": false,
    "source_id": "CUSA00001_00",
@@ -12176,7 +12176,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08097_00/2/i_a37599017b2c621f9669719d9efe342c56b844920803e908951a129701b2c851/i/icon0.png",
    "last_played": "2018-10-26",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.3,
    "ps_plus": false,
    "source_id": "CUSA08926_00",
@@ -12257,7 +12257,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2621/756e3dd0b7bf31dfdbc845ba2e8e1158b1c30bc065a91ad8.png",
    "last_played": "2026-08-01",
-   "platform": "PlayStation",
+   "platform": "PS5",
    "playtime_hours": 0.1,
    "ps_plus": false,
    "source_id": "PPSA18266_00",
@@ -12338,7 +12338,7 @@
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1017/89c2a3a1eb2b1150c9583399b2fc0c1ecea8263fd5a0372c.png",
    "last_played": "2024-06-09",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.0,
    "ps_plus": false,
    "source_id": "CUSA41487_00",
@@ -12381,9 +12381,18 @@
    "title": "Batman: Return to Arkham"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3017/wYAvR9akyRjDjy75S4zCLAGi.png",
+   "last_played": "2021-01-31",
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": false,
+   "source_id": "PPSA01650_00",
+   "title": "YouTube"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1417/bbd7ccd27803c8ba919a734c6d20a34c9e2b6014ad4dfd2d.png",
    "last_played": "2016-08-07",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.0,
    "ps_plus": false,
    "source_id": "CUSA00096_00",
@@ -12392,7 +12401,7 @@
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02012_00/1/i_018d3114f496346e1705e2165d8980995ee1253dc9a85c8cc1bfb8ffff1856cb/i/icon0.png",
    "last_played": "2016-01-15",
-   "platform": "PlayStation",
+   "platform": "PS4",
    "playtime_hours": 0.0,
    "ps_plus": false,
    "source_id": "CUSA02012_00",
@@ -13351,15 +13360,6 @@
    "ps_plus": false,
    "source_id": "CUSA11032_00",
    "title": "A Plague Tale: Innocence"
-  },
-  {
-   "cover": "https://image.api.playstation.com/cdn/UP1018/CUSA05462_00/IvlcAxCgIypDBRyEfRKiibaShGIrFeSJ.png",
-   "last_played": null,
-   "platform": "PS4",
-   "playtime_hours": 0.0,
-   "ps_plus": true,
-   "source_id": "CUSA05462_00",
-   "title": "Injustice 2"
   },
   {
    "cover": "https://image.api.playstation.com/cdn/UP2613/CUSA09030_00/rJroceSRgF7FhhYHUbBhMW2zgqSGRbC1.png",
@@ -27810,8 +27810,8 @@
    "nso": true,
    "platform": "NES",
    "playtime_hours": 0.0,
-   "source_id": "nso:NES:Adventures of Lolo (NA)",
-   "title": "Adventures of Lolo (NA)"
+   "source_id": "nso:NES:Adventures of Lolo",
+   "title": "Adventures of Lolo"
   },
   {
    "also_platform": "Switch",
@@ -28523,15 +28523,6 @@
    "playtime_hours": 0.0,
    "source_id": "nso:SNES:Super Puyo Puyo 2",
    "title": "Super Puyo Puyo 2"
-  },
-  {
-   "also_platform": "Switch",
-   "last_played": null,
-   "nso": true,
-   "platform": "SNES",
-   "playtime_hours": 0.0,
-   "source_id": "nso:SNES:Super Soccer (removed on March 28, 2025)",
-   "title": "Super Soccer (removed on March 28, 2025)"
   },
   {
    "also_platform": "Switch",

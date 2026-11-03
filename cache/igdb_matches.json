@@ -1618,23 +1618,24 @@
  },
  "DS:manual:Crash of the Titans": {
   "candidates": null,
-  "checked": "2026-10-07T21:36:09+00:00",
+  "checked": "2026-11-03T05:32:07+00:00",
   "conf": "manual",
-  "id": 1190,
+  "id": 197928,
+  "mp": null,
   "score": null,
-  "slug": "crash-of-the-titans",
+  "slug": "crash-of-the-titans--1",
   "title": "Crash of the Titans",
   "v": 4,
   "via": "fix"
  },
  "DS:manual:Crash: Mind over Mutant": {
   "candidates": null,
-  "checked": "2026-10-29T21:44:02+00:00",
+  "checked": "2026-11-03T05:32:10+00:00",
   "conf": "manual",
-  "id": 1191,
+  "id": 210229,
   "mp": null,
   "score": null,
-  "slug": "crash-mind-over-mutant",
+  "slug": "crash-mind-over-mutant--1",
   "title": "Crash: Mind over Mutant",
   "v": 4,
   "via": "fix"
@@ -2262,24 +2263,24 @@
  },
  "DS:manual:Phoenix Wright: Ace Attorney – Justice for All": {
   "candidates": null,
-  "checked": "2026-10-29T22:22:24+00:00",
+  "checked": "2026-11-03T05:32:10+00:00",
   "conf": "manual",
-  "id": 1428,
+  "id": 1427,
   "mp": null,
   "score": null,
-  "slug": "phoenix-wright-ace-attorney-trials-and-tribulations",
+  "slug": "phoenix-wright-ace-attorney-justice-for-all",
   "title": "Phoenix Wright: Ace Attorney – Justice for All",
   "v": 4,
   "via": "fix"
  },
  "DS:manual:Phoenix Wright: Ace Attorney – Trials and Tribulations": {
   "candidates": null,
-  "checked": "2026-10-29T22:22:25+00:00",
+  "checked": "2026-11-03T05:32:10+00:00",
   "conf": "manual",
-  "id": 1427,
+  "id": 1428,
   "mp": null,
   "score": null,
-  "slug": "phoenix-wright-ace-attorney-justice-for-all",
+  "slug": "phoenix-wright-ace-attorney-trials-and-tribulations",
   "title": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
   "v": 4,
   "via": "fix"
@@ -8483,6 +8484,18 @@
   "v": 4,
   "via": "search"
  },
+ "NES:nso:NES:Adventures of Lolo": {
+  "candidates": 6,
+  "checked": "2026-11-03T05:32:23+00:00",
+  "conf": "high",
+  "id": 3662,
+  "mp": null,
+  "score": 1.137,
+  "slug": null,
+  "title": "Adventures of Lolo",
+  "v": 4,
+  "via": "search"
+ },
  "NES:nso:NES:Adventures of Lolo (NA)": {
   "candidates": 6,
   "checked": "2026-10-28T05:33:27+00:00",
@@ -9300,16 +9313,16 @@
   "via": "search"
  },
  "NES:nso:NES:Super Mario Bros.: The Lost Levels": {
-  "candidates": 31,
-  "checked": "2026-10-28T05:33:50+00:00",
-  "conf": "medium",
-  "id": 358,
+  "candidates": null,
+  "checked": "2026-11-03T05:32:11+00:00",
+  "conf": "manual",
+  "id": 1066,
   "mp": null,
-  "score": 1.01,
-  "slug": null,
+  "score": null,
+  "slug": "super-mario-bros-the-lost-levels",
   "title": "Super Mario Bros.: The Lost Levels",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "NES:nso:NES:Tecmo Bowl": {
   "candidates": 25,
@@ -9337,12 +9350,12 @@
  },
  "NES:nso:NES:Tetris": {
   "candidates": null,
-  "checked": "2026-11-02T21:21:26+00:00",
+  "checked": "2026-11-03T05:32:11+00:00",
   "conf": "manual",
-  "id": 86490,
+  "id": 8197,
   "mp": null,
   "score": null,
-  "slug": "tetris--1",
+  "slug": "tetris",
   "title": "Tetris",
   "v": 4,
   "via": "fix"
@@ -9739,11 +9752,12 @@
  },
  "PS Vita:manual:God of War Collection": {
   "candidates": null,
-  "checked": "2026-10-08T03:47:48+00:00",
+  "checked": "2026-11-03T05:32:09+00:00",
   "conf": "manual",
-  "id": 20579,
+  "id": 20068,
+  "mp": null,
   "score": null,
-  "slug": "god-of-war-origins-collection",
+  "slug": "god-of-war-collection",
   "title": "God of War Collection",
   "v": 4,
   "via": "fix"
@@ -10592,16 +10606,16 @@
   "via": "search"
  },
  "PS3:manual:Fallout 3": {
-  "candidates": 14,
-  "checked": "2026-11-03T04:23:15+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-11-03T05:32:11+00:00",
+  "conf": "manual",
   "id": 15,
   "mp": null,
-  "score": 1.15,
-  "slug": null,
+  "score": null,
+  "slug": "fallout-3",
   "title": "Fallout 3",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS3:manual:Folklore": {
   "candidates": 15,
@@ -10998,16 +11012,16 @@
   "via": "search"
  },
  "PS3:manual:Valkyria Chronicles": {
-  "candidates": 25,
-  "checked": "2026-11-03T04:23:36+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-11-03T05:32:11+00:00",
+  "conf": "manual",
   "id": 7477,
   "mp": null,
-  "score": 1.142,
-  "slug": null,
+  "score": null,
+  "slug": "valkyria-chronicles",
   "title": "Valkyria Chronicles",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS3:manual:Wolfenstein": {
   "candidates": 25,
@@ -11068,6 +11082,18 @@
   "v": 4,
   "via": "search"
  },
+ "PS4:CUSA00001_00": {
+  "candidates": 23,
+  "checked": "2026-11-03T05:32:21+00:00",
+  "conf": "high",
+  "id": 58783,
+  "mp": null,
+  "score": 1.132,
+  "slug": null,
+  "title": "THE PLAYROOM",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA00068_00": {
   "candidates": 10,
   "checked": "2026-10-07T01:45:26+00:00",
@@ -11112,6 +11138,54 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA00093_00": {
+  "candidates": 3,
+  "checked": "2026-11-03T05:32:18+00:00",
+  "conf": "high",
+  "id": 1940,
+  "mp": null,
+  "score": 1.141,
+  "slug": null,
+  "title": "DRIVECLUB™",
+  "v": 4,
+  "via": "search"
+ },
+ "PS4:CUSA00095_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "Crunchyroll",
+  "v": 4,
+  "via": "non-game"
+ },
+ "PS4:CUSA00096_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "Fandango at Home",
+  "v": 4,
+  "via": "non-game"
+ },
+ "PS4:CUSA00101_00": {
+  "candidates": 24,
+  "checked": "2026-11-03T05:32:19+00:00",
+  "conf": "high",
+  "id": 85700,
+  "mp": null,
+  "score": 1.12,
+  "slug": null,
+  "title": "SingStar™",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA00102_00": {
   "candidates": 7,
   "checked": "2026-10-07T01:46:02+00:00",
@@ -11133,6 +11207,30 @@
   "title": "Mad Max",
   "v": 2,
   "via": "search"
+ },
+ "PS4:CUSA00129_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "Netflix",
+  "v": 4,
+  "via": "non-game"
+ },
+ "PS4:CUSA00130_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "Prime Video",
+  "v": 4,
+  "via": "non-game"
  },
  "PS4:CUSA00131_00": {
   "candidates": null,
@@ -11421,6 +11519,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA01015_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "YouTube",
+  "v": 4,
+  "via": "non-game"
+ },
  "PS4:CUSA01037_00": {
   "candidates": 10,
   "checked": "2026-10-07T01:49:05+00:00",
@@ -11520,6 +11630,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA01780_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "Spotify",
+  "v": 4,
+  "via": "non-game"
+ },
  "PS4:CUSA01799_00": {
   "candidates": 10,
   "checked": "2026-10-07T01:49:00+00:00",
@@ -11540,6 +11662,30 @@
   "slug": null,
   "title": "Overwatch®",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA02012_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "Media Player",
+  "v": 4,
+  "via": "non-game"
+ },
+ "PS4:CUSA02188_00": {
+  "candidates": 3,
+  "checked": "2026-11-03T05:32:15+00:00",
+  "conf": "high",
+  "id": 9741,
+  "mp": null,
+  "score": 1.137,
+  "slug": null,
+  "title": "Guitar Hero Live",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA02195_00": {
@@ -11575,6 +11721,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA02299_00": {
+  "candidates": 24,
+  "checked": "2026-11-03T05:32:16+00:00",
+  "conf": "high",
+  "id": 19565,
+  "mp": null,
+  "score": 1.15,
+  "slug": null,
+  "title": "Marvel's Spider-Man",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA02320_00": {
   "candidates": 2,
   "checked": "2026-10-07T01:45:35+00:00",
@@ -11595,6 +11753,18 @@
   "slug": null,
   "title": "Assassin's Creed® Syndicate",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA02412_00": {
+  "candidates": 9,
+  "checked": "2026-11-03T05:32:17+00:00",
+  "conf": "high",
+  "id": 11059,
+  "mp": null,
+  "score": 1.143,
+  "slug": null,
+  "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA02429_00": {
@@ -11618,6 +11788,18 @@
   "title": "Fallout 4",
   "v": 2,
   "via": "search"
+ },
+ "PS4:CUSA02573_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "VEVO",
+  "v": 4,
+  "via": "non-game"
  },
  "PS4:CUSA03041_00": {
   "candidates": 6,
@@ -11730,15 +11912,16 @@
   "via": "search"
  },
  "PS4:CUSA03880_00": {
-  "candidates": 25,
-  "checked": "2026-10-07T01:49:11+00:00",
-  "conf": "high",
-  "id": 75848,
-  "score": 1.046,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-11-03T05:32:07+00:00",
+  "conf": "manual",
+  "id": 7477,
+  "mp": null,
+  "score": null,
+  "slug": "valkyria-chronicles",
   "title": "Valkyria Chronicles",
-  "v": 2,
-  "via": "search"
+  "v": 4,
+  "via": "fix"
  },
  "PS4:CUSA03881_00": {
   "candidates": 5,
@@ -11840,15 +12023,16 @@
   "via": "search"
  },
  "PS4:CUSA04437_00": {
-  "candidates": 11,
-  "checked": "2026-10-07T02:53:40+00:00",
-  "conf": "medium",
-  "id": 847,
-  "score": 0.989,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-11-03T05:32:06+00:00",
+  "conf": "manual",
+  "id": 23215,
+  "mp": null,
+  "score": null,
+  "slug": "resident-evil-5-remastered",
   "title": "Resident Evil 5",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS4:CUSA04459_00": {
   "candidates": 14,
@@ -12013,6 +12197,18 @@
   "slug": null,
   "title": "Injustice 2",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA05488_00": {
+  "candidates": 25,
+  "checked": "2026-11-03T05:32:17+00:00",
+  "conf": "high",
+  "id": 19470,
+  "mp": null,
+  "score": 1.144,
+  "slug": null,
+  "title": "Injustice 2",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA05636_00": {
@@ -12499,6 +12695,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA08926_00": {
+  "candidates": 1,
+  "checked": "2026-11-03T05:32:22+00:00",
+  "conf": "high",
+  "id": 26231,
+  "mp": null,
+  "score": 1.013,
+  "slug": null,
+  "title": "StarBlood Arena",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA08966_00": {
   "candidates": 14,
   "checked": "2026-10-07T01:47:11+00:00",
@@ -12542,6 +12750,18 @@
   "title": "The Elder Scrolls V: Skyrim VR",
   "v": 2,
   "via": "search"
+ },
+ "PS4:CUSA09142_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "PlayStation®VR Demo Disc",
+  "v": 4,
+  "via": "non-game"
  },
  "PS4:CUSA09143_00": {
   "candidates": 1,
@@ -13270,6 +13490,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA14274_00": {
+  "candidates": 4,
+  "checked": "2026-11-03T05:32:20+00:00",
+  "conf": "high",
+  "id": 75246,
+  "mp": null,
+  "score": 1.12,
+  "slug": null,
+  "title": "Megalith",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA14275_00": {
   "candidates": 10,
   "checked": "2026-10-07T01:46:10+00:00",
@@ -13665,6 +13897,18 @@
   "slug": null,
   "title": "Fall Guys: Ultimate Knockout",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA17722_00": {
+  "candidates": 4,
+  "checked": "2026-11-03T05:32:13+00:00",
+  "conf": "high",
+  "id": 134581,
+  "mp": null,
+  "score": 1.148,
+  "slug": null,
+  "title": "Marvel's Spider-Man: Miles Morales",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA17922_00": {
@@ -14095,6 +14339,18 @@
   "slug": null,
   "title": "OlliOlli World",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA25502_00": {
+  "candidates": 25,
+  "checked": "2026-11-03T05:32:20+00:00",
+  "conf": "high",
+  "id": 144072,
+  "mp": null,
+  "score": 1.138,
+  "slug": null,
+  "title": "HOT WHEELS UNLEASHED™",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA25570_00": {
@@ -14614,6 +14870,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS4:CUSA31878_00": {
+  "candidates": 5,
+  "checked": "2026-11-03T05:32:14+00:00",
+  "conf": "high",
+  "id": 205780,
+  "mp": null,
+  "score": 1.14,
+  "slug": null,
+  "title": "EA SPORTS™ FIFA 23",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:CUSA32009_00": {
   "candidates": 11,
   "checked": "2026-10-07T01:46:41+00:00",
@@ -14899,6 +15167,18 @@
   "title": "Bomb Rush Cyberfunk",
   "v": 2,
   "via": "search"
+ },
+ "PS4:CUSA41487_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "HBO Max",
+  "v": 4,
+  "via": "non-game"
  },
  "PS4:CUSA42390_00": {
   "candidates": 17,
@@ -18766,6 +19046,30 @@
   "v": 2,
   "via": "search"
  },
+ "PS5:PPSA01650_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "YouTube",
+  "v": 4,
+  "via": "non-game"
+ },
+ "PS5:PPSA01665_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "Twitch",
+  "v": 4,
+  "via": "non-game"
+ },
  "PS5:PPSA01685_00": {
   "candidates": 17,
   "checked": "2026-10-07T01:48:47+00:00",
@@ -20879,6 +21183,18 @@
   "v": 4,
   "via": "fix"
  },
+ "PS5:PPSA18266_00": {
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": null,
+  "id": null,
+  "mp": null,
+  "score": null,
+  "slug": null,
+  "title": "SONY PICTURES CORE",
+  "v": 4,
+  "via": "non-game"
+ },
  "PS5:PPSA18708_00": {
   "candidates": 1,
   "checked": "2026-10-07T01:50:01+00:00",
@@ -22411,18 +22727,18 @@
   "via": "search"
  },
  "PS5:psplus:10004810": {
-  "candidates": null,
-  "checked": "2026-10-28T04:58:17+00:00",
-  "conf": "manual",
-  "id": 1957,
+  "candidates": 4,
+  "checked": "2026-11-03T05:32:23+00:00",
+  "conf": "high",
+  "id": 22454,
   "mp": [
    "PS Classic"
   ],
-  "score": null,
-  "slug": "alone-in-the-dark-2",
+  "score": 1.13,
+  "slug": null,
   "title": "Ape Academy",
   "v": 4,
-  "via": "fix"
+  "via": "search"
  },
  "PS5:psplus:10004813": {
   "candidates": 2,
@@ -23102,18 +23418,18 @@
   "via": "fix"
  },
  "PS5:psplus:10006482": {
-  "candidates": null,
-  "checked": "2026-10-28T04:58:17+00:00",
-  "conf": "manual",
-  "id": 1957,
+  "candidates": 2,
+  "checked": "2026-11-03T05:32:24+00:00",
+  "conf": "high",
+  "id": 37047,
   "mp": [
    "PS Classic"
   ],
-  "score": null,
-  "slug": "alone-in-the-dark-2",
+  "score": 1.13,
+  "slug": null,
   "title": "Ape Academy 2",
   "v": 4,
-  "via": "fix"
+  "via": "search"
  },
  "PS5:psplus:10006483": {
   "candidates": 2,
@@ -25576,11 +25892,12 @@
  },
  "PSP:manual:Lego Harry Potter: Years 1–4": {
   "candidates": null,
-  "checked": "2026-10-08T03:35:07+00:00",
+  "checked": "2026-11-03T05:32:09+00:00",
   "conf": "manual",
-  "id": 3149,
+  "id": 237596,
+  "mp": null,
   "score": null,
-  "slug": "lego-harry-potter-years-1-4",
+  "slug": "lego-harry-potter-years-1-4--1",
   "title": "Lego Harry Potter: Years 1–4",
   "v": 4,
   "via": "fix"
@@ -25598,11 +25915,12 @@
  },
  "PSP:manual:Lego Pirates of the Caribbean": {
   "candidates": null,
-  "checked": "2026-10-08T03:31:37+00:00",
+  "checked": "2026-11-03T05:32:08+00:00",
   "conf": "manual",
-  "id": 542,
+  "id": 284142,
+  "mp": null,
   "score": null,
-  "slug": "lego-pirates-of-the-caribbean-the-video-game",
+  "slug": "lego-pirates-of-the-caribbean-the-video-game--2",
   "title": "Lego Pirates of the Caribbean",
   "v": 4,
   "via": "fix"
@@ -25697,22 +26015,24 @@
  },
  "PSP:manual:Need for Speed: ProStreet": {
   "candidates": null,
-  "checked": "2026-10-08T03:31:38+00:00",
+  "checked": "2026-11-03T05:32:08+00:00",
   "conf": "manual",
-  "id": 100,
+  "id": 210431,
+  "mp": null,
   "score": null,
-  "slug": "need-for-speed-prostreet",
+  "slug": "need-for-speed-prostreet--1",
   "title": "Need for Speed: ProStreet",
   "v": 4,
   "via": "fix"
  },
  "PSP:manual:Need for Speed: Shift": {
   "candidates": null,
-  "checked": "2026-10-08T03:31:37+00:00",
+  "checked": "2026-11-03T05:32:08+00:00",
   "conf": "manual",
-  "id": 102,
+  "id": 248136,
+  "mp": null,
   "score": null,
-  "slug": "need-for-speed-shift",
+  "slug": "need-for-speed-shift--1",
   "title": "Need for Speed: Shift",
   "v": 4,
   "via": "fix"
@@ -25774,11 +26094,12 @@
  },
  "PSP:manual:Prince of Persia: The Forgotten Sands": {
   "candidates": null,
-  "checked": "2026-10-08T03:31:38+00:00",
+  "checked": "2026-11-03T05:32:08+00:00",
   "conf": "manual",
-  "id": 2468,
+  "id": 142710,
+  "mp": null,
   "score": null,
-  "slug": "prince-of-persia-the-forgotten-sands",
+  "slug": "prince-of-persia-the-forgotten-sands--2",
   "title": "Prince of Persia: The Forgotten Sands",
   "v": 4,
   "via": "fix"
@@ -25851,22 +26172,24 @@
  },
  "PSP:manual:Star Wars: The Force Unleashed": {
   "candidates": null,
-  "checked": "2026-10-08T03:28:04+00:00",
+  "checked": "2026-11-03T05:32:07+00:00",
   "conf": "manual",
-  "id": 475,
+  "id": 399295,
+  "mp": null,
   "score": null,
-  "slug": "star-wars-the-force-unleashed",
+  "slug": "star-wars-the-force-unleashed--5",
   "title": "Star Wars: The Force Unleashed",
   "v": 4,
   "via": "fix"
  },
  "PSP:manual:Tales of Eternia": {
   "candidates": null,
-  "checked": "2026-10-08T03:31:38+00:00",
+  "checked": "2026-11-03T05:32:09+00:00",
   "conf": "manual",
-  "id": 1202,
+  "id": 329316,
+  "mp": null,
   "score": null,
-  "slug": "tales-of-destiny-ii",
+  "slug": "tales-of-eternia",
   "title": "Tales of Eternia",
   "v": 4,
   "via": "fix"
@@ -27729,16 +28052,16 @@
   "via": "search"
  },
  "SNES:emu:SNES:Lord of Darkness": {
-  "candidates": 24,
-  "checked": "2026-11-02T08:46:15+00:00",
-  "conf": "high",
-  "id": 42586,
+  "candidates": null,
+  "checked": "2026-11-03T05:32:12+00:00",
+  "conf": "manual",
+  "id": 90988,
   "mp": null,
-  "score": 1.12,
-  "slug": null,
+  "score": null,
+  "slug": "nobunagas-ambition-bushou-fuunroku",
   "title": "Lord of Darkness",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:emu:SNES:Lost Vikings 2": {
   "candidates": 2,
@@ -31034,14 +31357,16 @@
   "via": "steam"
  },
  "Steam:22370": {
-  "checked": "2026-10-07T01:05:42+00:00",
-  "conf": "exact",
-  "id": 21892,
+  "candidates": null,
+  "checked": "2026-11-03T05:32:06+00:00",
+  "conf": "manual",
+  "id": 15,
+  "mp": null,
   "score": null,
-  "slug": null,
+  "slug": "fallout-3",
   "title": "Fallout 3 - Game of the Year Edition",
-  "v": 2,
-  "via": "steam"
+  "v": 4,
+  "via": "fix"
  },
  "Steam:228200": {
   "checked": "2026-10-07T01:05:42+00:00",
@@ -31184,14 +31509,16 @@
   "via": "steam"
  },
  "Steam:294860": {
-  "checked": "2026-10-07T01:05:42+00:00",
-  "conf": "exact",
-  "id": 18967,
+  "candidates": null,
+  "checked": "2026-11-03T05:32:06+00:00",
+  "conf": "manual",
+  "id": 7477,
+  "mp": null,
   "score": null,
-  "slug": null,
+  "slug": "valkyria-chronicles",
   "title": "Valkyria Chronicles™",
-  "v": 2,
-  "via": "steam"
+  "v": 4,
+  "via": "fix"
  },
  "Steam:307690": {
   "candidates": null,
@@ -31701,12 +32028,12 @@
  },
  "Steam:703080": {
   "candidates": null,
-  "checked": "2026-10-28T11:32:33+00:00",
+  "checked": "2026-11-03T05:32:06+00:00",
   "conf": "manual",
-  "id": 284574,
+  "id": 117717,
   "mp": null,
   "score": null,
-  "slug": "planet-zoo-console-edition",
+  "slug": "planet-zoo",
   "title": "Planet Zoo",
   "v": 4,
   "via": "fix"
