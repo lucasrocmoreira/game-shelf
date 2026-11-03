@@ -3615,13 +3615,12 @@
      "sent": false
     },
     {
-     "key": "igdb:1626",
-     "best": "igdb:9621",
+     "key": "igdb:3665",
+     "best": "igdb:3665",
      "why": [
-      "Play this game to get to the amazing Super Smash Bros. for Nintendo 3DS (81). It's the earliest Super Smash Bros. game you haven't played.",
-      "Not on this console: EmuDeck (N64)",
-      "A change of genre: Fighting, Platform",
-      "About 12.5h to beat"
+      "Top-rated game you haven't played (average 84)",
+      "A change of genre: Shooter, Hack and slash",
+      "About 27h to beat"
      ],
      "sent": false
     },
@@ -3641,13 +3640,16 @@
     "igdb:2645",
     "igdb:9543",
     "igdb:19131",
-    "igdb:1626"
+    "igdb:1626",
+    "igdb:3665"
    ],
    "avoid": [
     "Fire Emblem",
-    "Animal Crossing"
+    "Animal Crossing",
+    "Mario Bros.",
+    "Super Smash Bros."
    ],
-   "date": "2026-11-03T07:43:21.966Z"
+   "date": "2026-11-03T07:43:26.366Z"
   },
   "wii": {
    "slots": [
