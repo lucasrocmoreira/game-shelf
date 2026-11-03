@@ -1545,15 +1545,16 @@
   "via": "fix"
  },
  "DS:manual:Chrono Trigger (2008)": {
-  "candidates": 17,
-  "checked": "2026-10-07T21:40:08+00:00",
-  "conf": "high",
-  "id": 20398,
-  "score": 1.158,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-11-03T05:16:25+00:00",
+  "conf": "manual",
+  "id": 1802,
+  "mp": null,
+  "score": null,
+  "slug": "chrono-trigger",
   "title": "Chrono Trigger (2008)",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "DS:manual:Contact": {
   "candidates": null,
