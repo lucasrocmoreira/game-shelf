@@ -1,3637 +1,3636 @@
 {
-  "hidden": {
-    "t:crow the legend": "Crow: The Legend"
+ "hidden": {
+  "t:crow the legend": "Crow: The Legend"
+ },
+ "unhidden": {},
+ "played": {
+  "igdb:10962": "2026-10-06",
+  "igdb:11156": "2026-10-06",
+  "igdb:112875": "2026-10-06",
+  "igdb:113598": "2026-10-06",
+  "igdb:115115": "2026-10-06",
+  "igdb:1164": "2026-10-06",
+  "igdb:1318": "2026-10-06",
+  "igdb:134581": "2026-10-06",
+  "igdb:134606": "2026-10-06",
+  "igdb:1352": "2026-10-06",
+  "igdb:135243": "2026-10-06",
+  "igdb:135254": "2026-10-06",
+  "igdb:141540": "2026-10-06",
+  "igdb:142": "2026-10-06",
+  "igdb:14362": "2026-10-06",
+  "igdb:1512": "2026-10-06",
+  "igdb:1942": "2026-10-06",
+  "igdb:194404": "2026-10-06",
+  "igdb:19560": "2026-10-06",
+  "igdb:19565": "2026-10-06",
+  "igdb:19686": "2026-10-06",
+  "igdb:20": "2026-10-06",
+  "igdb:204350": "2026-10-06",
+  "igdb:206320": "2026-10-06",
+  "igdb:21": "2026-10-06",
+  "igdb:26192": "2026-10-06",
+  "igdb:26196": "2026-10-06",
+  "igdb:338067": "2026-10-07",
+  "igdb:34293": "2026-10-06",
+  "igdb:358": "2026-10-06",
+  "igdb:36897": "2026-10-06",
+  "igdb:37094": "2026-10-06",
+  "igdb:37095": "2026-10-06",
+  "igdb:4754": "2026-10-06",
+  "igdb:4786": "2026-10-06",
+  "igdb:6036": "2026-10-06",
+  "igdb:7334": "2026-10-06",
+  "igdb:8173": "2026-10-06",
+  "igdb:8254": "2026-10-06",
+  "igdb:847": "2026-10-06",
+  "igdb:20398": "2026-10-07",
+  "igdb:1397": "2026-10-07",
+  "igdb:1348": "2026-10-07",
+  "igdb:7331": "2026-10-27",
+  "igdb:72870": "2026-10-27",
+  "igdb:138949": "2026-10-27",
+  "igdb:1103": "2026-10-28",
+  "igdb:1067": "2026-10-29",
+  "igdb:1162": "2026-10-29",
+  "igdb:1802": "2026-11-02",
+  "igdb:1009": "2026-11-02",
+  "igdb:1438": "2026-11-02"
+ },
+ "playing": {
+  "igdb:338084": "2026-10-27",
+  "igdb:1022": "2026-10-27",
+  "igdb:1520": "2026-10-27"
+ },
+ "added": [
+  {
+   "added": "2026-10-06",
+   "format": "physical",
+   "platform": "PS5",
+   "title": "Elden ring"
   },
-  "unhidden": {},
-  "played": {
-    "igdb:10962": "2026-10-06",
-    "igdb:11156": "2026-10-06",
-    "igdb:112875": "2026-10-06",
-    "igdb:113598": "2026-10-06",
-    "igdb:115115": "2026-10-06",
-    "igdb:1164": "2026-10-06",
-    "igdb:1318": "2026-10-06",
-    "igdb:134581": "2026-10-06",
-    "igdb:134606": "2026-10-06",
-    "igdb:1352": "2026-10-06",
-    "igdb:135243": "2026-10-06",
-    "igdb:135254": "2026-10-06",
-    "igdb:141540": "2026-10-06",
-    "igdb:142": "2026-10-06",
-    "igdb:14362": "2026-10-06",
-    "igdb:1512": "2026-10-06",
-    "igdb:1942": "2026-10-06",
-    "igdb:194404": "2026-10-06",
-    "igdb:19560": "2026-10-06",
-    "igdb:19565": "2026-10-06",
-    "igdb:19686": "2026-10-06",
-    "igdb:20": "2026-10-06",
-    "igdb:204350": "2026-10-06",
-    "igdb:206320": "2026-10-06",
-    "igdb:21": "2026-10-06",
-    "igdb:26192": "2026-10-06",
-    "igdb:26196": "2026-10-06",
-    "igdb:338067": "2026-10-07",
-    "igdb:34293": "2026-10-06",
-    "igdb:358": "2026-10-06",
-    "igdb:36897": "2026-10-06",
-    "igdb:37094": "2026-10-06",
-    "igdb:37095": "2026-10-06",
-    "igdb:4754": "2026-10-06",
-    "igdb:4786": "2026-10-06",
-    "igdb:6036": "2026-10-06",
-    "igdb:7334": "2026-10-06",
-    "igdb:8173": "2026-10-06",
-    "igdb:8254": "2026-10-06",
-    "igdb:847": "2026-10-06",
-    "igdb:20398": "2026-10-07",
-    "igdb:1397": "2026-10-07",
-    "igdb:1348": "2026-10-07",
-    "igdb:7331": "2026-10-27",
-    "igdb:72870": "2026-10-27",
-    "igdb:138949": "2026-10-27",
-    "igdb:1103": "2026-10-28",
-    "igdb:1067": "2026-10-29",
-    "igdb:1162": "2026-10-29",
-    "igdb:1802": "2026-11-02",
-    "igdb:1009": "2026-11-02",
-    "igdb:1438": "2026-11-02"
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "PS5",
+   "title": "Cyberpunk 2077"
   },
-  "playing": {
-    "igdb:338084": "2026-10-27",
-    "igdb:1022": "2026-10-27",
-    "igdb:1520": "2026-10-27"
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "PS5",
+   "title": "Dragon’s Dogma 2"
   },
-  "added": [
-    {
-      "added": "2026-10-06",
-      "format": "physical",
-      "platform": "PS5",
-      "title": "Elden ring"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "PS5",
-      "title": "Cyberpunk 2077"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "PS5",
-      "title": "Dragon’s Dogma 2"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "PS5",
-      "title": "Persona 3 Reload"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "PS5",
-      "title": "Nier Automata"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "PS4",
-      "title": "Red Dead Redemption"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch",
-      "title": "Catherine Full Body"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch",
-      "title": "The Legend of Zelda: Breath of the Wild"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch",
-      "title": "Fire Emblem: Three Houses"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch",
-      "title": "Triangle Strategy"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch",
-      "title": "Suikoden I&II: HD Remaster"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch",
-      "title": "Super Mario 3D All-Star"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch 2",
-      "title": "Dragon Quest I&II HD-2D Remaster"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "physical",
-      "platform": "Switch 2",
-      "title": "Fire Emblem: Fortune’s Weave"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "digital",
-      "platform": "DS",
-      "title": "Yoshi's Island DS"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "digital",
-      "platform": "DS",
-      "title": "The World Ends with You"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "digital",
-      "platform": "DS",
-      "title": "Super Mario 64 DS"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "digital",
-      "platform": "DS",
-      "title": "Sonic Classic Collection DS"
-    },
-    {
-      "added": "2026-10-07",
-      "format": "digital",
-      "platform": "DS",
-      "title": "Solatorobo: Red The Hunter"
-    },
-    {
-      "title": "Scribblenauts Collection",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Profeddor Layton and the Last Specter",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Professor Layton and the Unwound Future",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "professor-layton-and-the-unwound-future"
-    },
-    {
-      "title": "Professor Layton and the Curious Village",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "professor-layton-and-the-curious-village"
-    },
-    {
-      "title": "Pokémon SoulSilver",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "pokemon-soulsilver-version"
-    },
-    {
-      "title": "Mario & Luigi: Bowser's Inside Story",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "mario-luigi-bowser-s-inside-story"
-    },
-    {
-      "title": "Ghost Trick: Phantom Detective",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ghost-trick-phantom-detective"
-    },
-    {
-      "title": "Dragon Quest IV: Chapters of the Chosen",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Dragon Quest VI: Realms of Revelation",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Dragon Quest V: Hand of the Heavenly Bride",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Crash of the Titans",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "crash-of-the-titans--1"
-    },
-    {
-      "title": "Chrono Trigger (2008)",
-      "platform": "DS",
-      "format": "physical",
-      "added": "2026-10-07",
-      "hours": 45
-    },
-    {
-      "title": "Legend of Zelda: Ocarina of Time",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Fire Emblem Awakening",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "fire-emblem-awakening"
-    },
-    {
-      "title": "The Legend of Zelda: A Link Between Worlds",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "the-legend-of-zelda-a-link-between-worlds"
-    },
-    {
-      "title": "Super Mario 3D Land",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "super-mario-3d-land"
-    },
-    {
-      "title": "Shovel Knight",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Pushmo",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "pushmo"
-    },
-    {
-      "title": "Legend of Zelda: Majora's Mask 3D",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Zero Escape: Virtue's Last Reward",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "zero-escape-virtue-s-last-reward"
-    },
-    {
-      "title": "Animal Crossing: New Leaf",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "animal-crossing-new-leaf"
-    },
-    {
-      "title": "3D Sonic the Hedgehog",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "3d-sonic-the-hedgehog"
-    },
-    {
-      "title": "Luigi's Mansion: Dark Moon",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "luigi-s-mansion-dark-moon"
-    },
-    {
-      "title": "SteamWorld Heist",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "steamworld-heist"
-    },
-    {
-      "title": "Crashmo",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "crashmo"
-    },
-    {
-      "title": "Mario Kart 7",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "mario-kart-7"
-    },
-    {
-      "title": "Dragon Quest VIII: Journey of the Cursed King",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Radiant Historia",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "radiant-historia"
-    },
-    {
-      "title": "Bravely Default",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "bravely-default"
-    },
-    {
-      "title": "Metroid: Samus Returns",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "metroid-samus-returns"
-    },
-    {
-      "title": "Etrian Odyssey IV: Legends of the Titan",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Donkey Kong Country Returns 3D",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Pokémon Omega Ruby",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "pokemon-omega-ruby"
-    },
-    {
-      "title": "Kid Icarus: Uprising",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "kid-icarus-uprising"
-    },
-    {
-      "title": "Shin Megami Tensei IV",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "shin-megami-tensei-iv"
-    },
-    {
-      "title": "Stretchmo",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "stretchmo"
-    },
-    {
-      "title": "Bye-Bye BoxBoy!",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "bye-bye-boxboy"
-    },
-    {
-      "title": "Rhythm Heaven Megamix",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "rhythm-heaven-megamix"
-    },
-    {
-      "title": "Pocket Card Jockey",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "pocket-card-jockey"
-    },
-    {
-      "title": "Etrian Odyssey 2 Untold: The Fafnir Knight",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "etrian-odyssey-2-untold-the-fafnir-knight"
-    },
-    {
-      "title": "Resident Evil: Revelations",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "resident-evil-revelations"
-    },
-    {
-      "title": "Shantae and the Pirate's Curse",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "shantae-and-the-pirates-curse"
-    },
-    {
-      "title": "SteamWorld Dig",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "steamworld-dig"
-    },
-    {
-      "title": "Mario & Luigi: Superstar Saga + Bowser's Minions",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "mario-and-luigi-superstar-saga-plus-bowsers-minions"
-    },
-    {
-      "title": "Kirby: Planet Robobot",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "kirby-planet-robobot"
-    },
-    {
-      "title": "Phoenix Wright: Ace Attorney Trilogy",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "phoenix-wright-ace-attorney-trilogy"
-    },
-    {
-      "title": "Phoenix Wright: Ace Attorney – Spirit of Justice",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "phoenix-wright-ace-attorney-spirit-of-justice"
-    },
-    {
-      "title": "dragon-quest-vii-fragments-of-the-forgotten-past",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "dragon-quest-vii-fragments-of-the-forgotten-past"
-    },
-    {
-      "title": "Star Fox 64 3D",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "star-fox-64-3d"
-    },
-    {
-      "title": "Kirby: Triple Deluxe",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "kirby-triple-deluxe"
-    },
-    {
-      "title": "BoxBoxBoy!",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "boxboxboy"
-    },
-    {
-      "title": "BoxBoy!",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "boxboy"
-    },
-    {
-      "title": "Professor Layton vs. Ace Attorney",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "professor-layton-vs-phoenix-wright-ace-attorney"
-    },
-    {
-      "title": "Monster Hunter 3 Ultimate",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "monster-hunter-3-ultimate"
-    },
-    {
-      "title": "Monster Hunter Stories",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "monster-hunter-stories"
-    },
-    {
-      "title": "Mighty Switch Force!",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "mighty-switch-force"
-    },
-    {
-      "title": "New Super Mario Bros. 2",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "new-super-mario-bros-2"
-    },
-    {
-      "title": "Metal Gear Solid: Snake Eater 3D",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "metal-gear-solid-snake-eater-3d"
-    },
-    {
-      "title": "3d classics: kirby's adventure",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Apollo Justice: Ace Attorney",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "apollo-justice-ace-attorney"
-    },
-    {
-      "title": "3d classics: kid icterus",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Attack of the Friday Monsters! A Tokyo Tale",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "attack-of-the-friday-monsters-a-tokyo-tale"
-    },
-    {
-      "title": "Corpse Party",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "corpse-party"
-    },
-    {
-      "title": "Yo-kai Watch",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "yo-kai-watch"
-    },
-    {
-      "title": "Crimson Shroud",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "crimson-shroud"
-    },
-    {
-      "title": "Ever Oasis",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ever-oasis"
-    },
-    {
-      "title": "Luigi's Mansion",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "luigis-mansion"
-    },
-    {
-      "title": "Culdcept Revolt",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "culdcept-revolt"
-    },
-    {
-      "title": "Yo-kai Watch 2",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "yo-kai-watch-2-bony-spirits-slash-fleshy-souls"
-    },
-    {
-      "title": "Fantasy Life",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "fantasy-life"
-    },
-    {
-      "title": "Mighty Switch Force! 2",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "mighty-switch-force-2"
-    },
-    {
-      "title": "HarmoKnight",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "harmoknight"
-    },
-    {
-      "title": "Rayman Origins",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "rayman-origins"
-    },
-    {
-      "title": "Liberation Maiden",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "liberation-maiden"
-    },
-    {
-      "title": "Dillon's Rolling Western: The Last Ranger",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "dillons-rolling-western-the-last-ranger"
-    },
-    {
-      "title": "delusions of von sottendorff and his squared mind",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Rayman 3D",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "rayman-3d"
-    },
-    {
-      "title": "Michael Jackson: The Experience",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "michael-jackson-the-experience"
-    },
-    {
-      "title": "starship damrey",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "ironfall invasion",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "God of War: Chains of Olympus",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "god-of-war-chains-of-olympus"
-    },
-    {
-      "title": "grand-theft-auto-chinatown-wars",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "grand-theft-auto-chinatown-wars"
-    },
-    {
-      "title": "Persona 3 Portable",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "persona-3-portable"
-    },
-    {
-      "title": "Metal Gear Solid: Peace Walker",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "metal-gear-solid-peace-walker"
-    },
-    {
-      "title": "grand-theft-auto-liberty-city-stories",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "grand-theft-auto-liberty-city-stories"
-    },
-    {
-      "title": "Ridge Racer",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Jeanne d'Arc",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "jeanne-darc"
-    },
-    {
-      "title": "tactics ogre: let us cling together",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Metal Gear Solid: Portable Ops",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "metal-gear-solid-portable-ops"
-    },
-    {
-      "title": "LittleBigPlanet",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "littlebigplanet--1"
-    },
-    {
-      "title": "God of War: Ghost of Sparta",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "god-of-war-ghost-of-sparta"
-    },
-    {
-      "title": "grand-theft-auto-vice-city-stories",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "grand-theft-auto-vice-city-stories"
-    },
-    {
-      "title": "Patapon",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "patapon"
-    },
-    {
-      "title": "Daxter",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "daxter"
-    },
-    {
-      "title": "LocoRoco 2",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "locoroco-2"
-    },
-    {
-      "title": "Crisis Core: Final Fantasy VII",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "crisis-core-final-fantasy-vii"
-    },
-    {
-      "title": "Crush",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "crush"
-    },
-    {
-      "title": "LocoRoco",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "locoroco"
-    },
-    {
-      "title": "Kingdom Hearts: Birth by Sleep",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "kingdom-hearts-birth-by-sleep"
-    },
-    {
-      "title": "Mega Man Powered Up",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "mega-man-powered-up"
-    },
-    {
-      "title": "Patapon 2",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "patapon-2"
-    },
-    {
-      "title": "ys-the-oath-in-felghana",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ys-the-oath-in-felghana"
-    },
-    {
-      "title": "Soulcalibur: Broken Destiny",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "soulcalibur-broken-destiny"
-    },
-    {
-      "title": "Dissidia Final Fantasy",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "dissidia-final-fantasy"
-    },
-    {
-      "title": "ys-seven",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ys-seven"
-    },
-    {
-      "title": "legend of heroes: trails in the sky",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Rock Band Unplugged",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "rock-band-unplugged"
-    },
-    {
-      "title": "Shin Megami Tensei: Persona",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "shin-megami-tensei-persona"
-    },
-    {
-      "title": "Metal Slug Anthology",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "metal-slug-anthology"
-    },
-    {
-      "title": "Final Fantasy IV: The Complete Collection",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "final-fantasy-iv-the-complete-collection"
-    },
-    {
-      "title": "Lego Indiana Jones: The Original Adventures",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "lego-indiana-jones-the-original-adventures"
-    },
-    {
-      "title": "shin megami tensei: persona 2 - innocent sin",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Star Ocean: First Departure",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "star-ocean-first-departure"
-    },
-    {
-      "title": "prince of persia: rival swords",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Patapon 3",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "patapon-3"
-    },
-    {
-      "title": "Harvest Moon: Hero of Leaf Valley",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "harvest-moon-hero-of-leaf-valley"
-    },
-    {
-      "title": "Need for Speed: Underground Rivals",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "need-for-speed-underground-rivals"
-    },
-    {
-      "title": "Lego Batman: The Videogame",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "lego-batman-the-videogame"
-    },
-    {
-      "title": "Need for Speed Carbon: Own the City",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "need-for-speed-carbon-own-the-city"
-    },
-    {
-      "title": "Jak and Daxter: The Lost Frontier",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "jak-and-daxter-the-lost-frontier"
-    },
-    {
-      "title": "Dante's Inferno",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "dantes-inferno"
-    },
-    {
-      "title": "Star Wars: The Force Unleashed",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "star-wars-the-force-unleashed--5"
-    },
-    {
-      "title": "Star Wars: Battlefront II",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "star-wars-battlefront-ii"
-    },
-    {
-      "title": "Need for Speed: Shift",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "need-for-speed-shift--1"
-    },
-    {
-      "title": "tomb raider: legend",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Lego Pirates of the Caribbean",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "lego-pirates-of-the-caribbean-the-video-game--2"
-    },
-    {
-      "title": "Tales of the World: Radiant Mythology",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "tales-of-the-world-radiant-mythology"
-    },
-    {
-      "title": "prince of persia revelations",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Prince of Persia: The Forgotten Sands",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "prince-of-persia-the-forgotten-sands--2"
-    },
-    {
-      "title": "lord of the rings: tactics",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "sims 2: castaway",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "ys i & ii chronicles",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "harvest moon: boy & girl",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Need for Speed: ProStreet",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "need-for-speed-prostreet--1"
-    },
-    {
-      "title": "Tales of Eternia",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "tales-of-eternia"
-    },
-    {
-      "title": "Lego Harry Potter: Years 1–4",
-      "platform": "PSP",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "lego-harry-potter-years-1-4--1"
-    },
-    {
-      "title": "Persona 4: Golden",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "persona-4-golden"
-    },
-    {
-      "title": "Odin Sphere Leifthrasir",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "odin-sphere-leifthrasir"
-    },
-    {
-      "title": "Limbo",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "limbo"
-    },
-    {
-      "title": "spelunky",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "spelunky"
-    },
-    {
-      "title": "Rayman Origins",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "rayman-origins"
-    },
-    {
-      "title": "Tearaway",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "tearaway"
-    },
-    {
-      "title": "Guacamelee!",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "guacamelee-super-turbo-championship-edition"
-    },
-    {
-      "title": "Code: Realize − Guardian of Rebirth",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "code-realize-~guardian-of-rebirth~"
-    },
-    {
-      "title": "Final Fantasy X/X-2 HD Remaster",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "final-fantasy-x-slash-x-2-hd-remaster"
-    },
-    {
-      "title": "Mortal Kombat",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "mortal-kombat"
-    },
-    {
-      "title": "Hotline Miami",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "hotline-miami"
-    },
-    {
-      "title": "OlliOlli2",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "olliolli2-welcome-to-olliwood"
-    },
-    {
-      "title": "Grim Fandango Remastered",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "grim-fandango-remastered"
-    },
-    {
-      "title": "Child of Light",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "child-of-light"
-    },
-    {
-      "title": "Gravity Rush",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "gravity-rush"
-    },
-    {
-      "title": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien"
-    },
-    {
-      "title": "Oddworld: New 'n' Tasty!",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "oddworld-new-n-tasty"
-    },
-    {
-      "title": "Oddworld: Stranger's Wrath HD",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "oddworld-strangers-wrath-hd"
-    },
-    {
-      "title": "Severed",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "severed"
-    },
-    {
-      "title": "walking dead: a telltale game series - the complete first season",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "xcom: enemy unkown plus",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Shantae: Half-Genie Hero",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "shantae-half-genie-hero"
-    },
-    {
-      "title": "Day of the Tentacle Remastered",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "day-of-the-tentacle-remastered"
-    },
-    {
-      "title": "ys-memories-of-celceta",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ys-memories-of-celceta"
-    },
-    {
-      "title": "Metal Gear Solid HD Collection",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "metal-gear-solid-hd-collection"
-    },
-    {
-      "title": "Danganronpa 2: Goodbye Despair",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "danganronpa-2-goodbye-despair"
-    },
-    {
-      "title": "Uncharted: Golden Abyss",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "uncharted-golden-abyss"
-    },
-    {
-      "title": "sly cooper collection",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Danganronpa V3: Killing Harmony",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "danganronpa-v3-killing-harmony--1"
-    },
-    {
-      "title": "Danganronpa: Trigger Happy Havoc",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "danganronpa-trigger-happy-havoc"
-    },
-    {
-      "title": "Wipeout 2048",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "wipeout-2048"
-    },
-    {
-      "title": "Need for Speed: Most Wanted",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467"
-    },
-    {
-      "title": "OlliOlli",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "olliolli"
-    },
-    {
-      "title": "Killzone: Mercenary",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "killzone-mercenary"
-    },
-    {
-      "title": "muramasa rebirth",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Axiom Verge",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "axiom-verge"
-    },
-    {
-      "title": "plants-vs-zombies",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "plants-vs-zombies"
-    },
-    {
-      "title": "legend of heroes: trails of cold steel",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Ratchet & Clank Collection",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ratchet-and-clank-collection"
-    },
-    {
-      "title": "tales of hearts R",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Sly Cooper: Thieves in Time",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "sly-cooper-thieves-in-time"
-    },
-    {
-      "title": "God of War Collection",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "god-of-war-collection"
-    },
-    {
-      "title": "Freedom Wars",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "freedom-wars"
-    },
-    {
-      "title": "Ninja Gaiden Sigma Plus",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ninja-gaiden-sigma-plus"
-    },
-    {
-      "title": "Oddworld: Munch's Oddysee hd",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Danganronpa Another Episode: Ultra Despair Girls",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "danganronpa-another-episode-ultra-despair-girls"
-    },
-    {
-      "title": "Jak and Daxter Collection",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "jak-and-daxter-collection"
-    },
-    {
-      "title": "Hotline Miami 2: Wrong Number",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "hotline-miami-2-wrong-number"
-    },
-    {
-      "title": "Borderlands 2",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "borderlands-2"
-    },
-    {
-      "title": "Resistance: Burning Skies",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "resistance-burning-skies"
-    },
-    {
-      "title": "velocity 2x: critical mass edition",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "bit.trip limited edition",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Stardew Valley",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "stardew-valley"
-    },
-    {
-      "title": "Digimon Story: Cyber Sleuth",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "digimon-story-cyber-sleuth"
-    },
-    {
-      "title": "Papers, Please",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "papers-please"
-    },
-    {
-      "title": "Don't Starve: Giant Edition",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "dont-starve-giant-edition"
-    },
-    {
-      "title": "Injustice: Gods Among Us Ultimate Edition",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "injustice-gods-among-us-ultimate-edition"
-    },
-    {
-      "title": "ys-origin",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ys-origin"
-    },
-    {
-      "title": "ys-viii-lacrimosa-of-dana",
-      "platform": "PS Vita",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "ys-viii-lacrimosa-of-dana"
-    },
-    {
-      "title": "God of War II HD",
-      "platform": "PS3",
-      "format": "digital",
-      "added": "2026-10-07"
-    },
-    {
-      "title": "Metal Gear Solid 2: Sons of Liberty",
-      "platform": "PS3",
-      "format": "digital",
-      "added": "2026-10-07",
-      "igdb": "metal-gear-solid-2-sons-of-liberty"
-    },
-    {
-      "title": "Mario Kart World",
-      "platform": "Switch 2",
-      "format": "physical",
-      "added": "2026-10-07",
-      "igdb": "mario-kart-world"
-    },
-    {
-      "title": "sly Cooper collection",
-      "platform": "PS3",
-      "format": "digital",
-      "added": "2026-10-08"
-    },
-    {
-      "title": "Breath of Fire",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "breath-of-fire"
-    },
-    {
-      "title": "Breath of Fire II",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "breath-of-fire-ii"
-    },
-    {
-      "title": "Claymates",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "claymates"
-    },
-    {
-      "title": "Donkey Kong Country",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "donkey-kong-country"
-    },
-    {
-      "title": "Donkey Kong Country 2: Diddy's Kong Quest",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "donkey-kong-country-2-diddy-s-kong-quest"
-    },
-    {
-      "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "donkey-kong-country-3-dixie-kong-s-double-trouble"
-    },
-    {
-      "title": "Super Mario All-Stars",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "super-mario-all-stars"
-    },
-    {
-      "title": "super-mario-world",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "super-mario-world"
-    },
-    {
-      "title": "Super Punch-Out!!",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "super-punch-out"
-    },
-    {
-      "title": "The Legend of Zelda: A Link to the Past",
-      "platform": "Switch 2",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "the-legend-of-zelda-a-link-to-the-past"
-    },
-    {
-      "title": "Fire emblem",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08"
-    },
-    {
-      "title": "Fire Emblem: The Sacred Stones",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "fire-emblem-the-sacred-stones"
-    },
-    {
-      "title": "Golden Sun",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "golden-sun"
-    },
-    {
-      "title": "Golden Sun: The Lost Age",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "golden-sun-the-lost-age"
-    },
-    {
-      "title": "Klonoa: Empire of Dreams",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "klonoa-empire-of-dreams"
-    },
-    {
-      "title": "Metroid: Zero Mission",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "metroid-zero-mission"
-    },
-    {
-      "title": "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "pokemon-mystery-dungeon-red-rescue-team"
-    },
-    {
-      "title": "Super Mario World: Super Mario Advance 2",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "super-mario-world-super-mario-advance-2"
-    },
-    {
-      "title": "Super Mario Advance",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "super-mario-advance"
-    },
-    {
-      "title": "Super Mario Advance 4: Super Mario Bros. 3",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "super-mario-advance-4-super-mario-bros-3"
-    },
-    {
-      "title": "The Legend of Zelda: The Minish Cap",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "the-legend-of-zelda-the-minish-cap"
-    },
-    {
-      "title": "Wario Land 4",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "wario-land-4"
-    },
-    {
-      "title": "WarioWare, Inc.: Mega Microgames!",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "warioware-inc-dot-mega-microgame$"
-    },
-    {
-      "title": "Yoshi's Island: Super Mario Advance 3",
-      "platform": "GBA",
-      "format": "digital",
-      "added": "2026-10-08",
-      "igdb": "yoshis-island-super-mario-advance-3"
-    },
-    {
-      "title": "Advance Wars: Days of Ruin",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "advance-wars-days-of-ruin"
-    },
-    {
-      "title": "Advance Wars: Dual Strike",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "advance-wars-dual-strike"
-    },
-    {
-      "title": "Aliens Infestation",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "aliens-infestation"
-    },
-    {
-      "title": "Animal Crossing: Wild World",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "animal-crossing-wild-world"
-    },
-    {
-      "title": "Anno Create a New World",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29"
-    },
-    {
-      "title": "Anno 1701",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "anno-1701"
-    },
-    {
-      "title": "Avalon Code",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "avalon-code"
-    },
-    {
-      "title": "Bangai-O Spirits",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "bangai-o-spirits"
-    },
-    {
-      "title": "Bomberman Land Touch!",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "bomberman-land-touch"
-    },
-    {
-      "title": "Castlevania: Dawn of Sorrow",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "castlevania-dawn-of-sorrow"
-    },
-    {
-      "title": "Castlevania: Order of Ecclesia",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "castlevania-order-of-ecclesia"
-    },
-    {
-      "title": "Castlevania: Portrait of Ruin",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "castlevania-portrait-of-ruin"
-    },
-    {
-      "title": "Chibi-Robo!: Park Patrol",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "chibi-robo-park-patrol"
-    },
-    {
-      "title": "Contact",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "contact"
-    },
-    {
-      "title": "Contra 4",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "contra-4"
-    },
-    {
-      "title": "Cooking Mama",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "cooking-mama"
-    },
-    {
-      "title": "Cooking Mama 2: Dinner with Friends",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "cooking-mama-2-dinner-with-friends"
-    },
-    {
-      "title": "Cooking Mama 3: Shop & Chop",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "cooking-mama-3-shop-chop"
-    },
-    {
-      "title": "Crash: Mind over Mutant",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "crash-mind-over-mutant--1"
-    },
-    {
-      "title": "Dementium: The Ward",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "dementium-the-ward"
-    },
-    {
-      "title": "Dig Dug: Digging Strike",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "dig-dug-digging-strike"
-    },
-    {
-      "title": "Digimon World DS",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "digimon-world-ds"
-    },
-    {
-      "title": "Disgaea DS",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29"
-    },
-    {
-      "title": "Dragon Quest Heroes: Rocket Slime",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "dragon-quest-heroes-rocket-slime"
-    },
-    {
-      "title": "dragon quest iv chapters of the chosen",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29"
-    },
-    {
-      "title": "Dragon Quest IX",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "dragon-quest-ix-sentinels-of-the-starry-skies"
-    },
-    {
-      "title": "Dragon Quest Monsters: Joker",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "dragon-quest-monsters-joker"
-    },
-    {
-      "title": "Dragon Quest Monsters: Joker 2",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "dragon-quest-monsters-joker-2"
-    },
-    {
-      "title": "dragon quest v hand of the heavenly bride",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29"
-    },
-    {
-      "title": "dragon quest vi realms of revelation",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29"
-    },
-    {
-      "title": "Elite Beat Agents",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "elite-beat-agents"
-    },
-    {
-      "title": "Etrian Odyssey",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "etrian-odyssey"
-    },
-    {
-      "title": "Etrian Odyssey II",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "etrian-odyssey-ii-heroes-of-lagaard"
-    },
-    {
-      "title": "Etrian Odyssey III",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "etrian-odyssey-iii-the-drowned-city"
-    },
-    {
-      "title": "Final Fantasy III",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "final-fantasy-iii"
-    },
-    {
-      "title": "Final Fantasy IV",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "final-fantasy-iv"
-    },
-    {
-      "title": "Final Fantasy Tactics A2: Grimoire of the Rift",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "final-fantasy-tactics-a2-grimoire-of-the-rift"
-    },
-    {
-      "title": "Fire Emblem: Shadow Dragon",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "fire-emblem-shadow-dragon"
-    },
-    {
-      "title": "Geometry Wars: Galaxies",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "geometry-wars-galaxies"
-    },
-    {
-      "title": "Golden Sun: Dark Dawn",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "golden-sun-dark-dawn"
-    },
-    {
-      "title": "Grand Theft Auto: Chinatown Wars",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "grand-theft-auto-chinatown-wars"
-    },
-    {
-      "title": "Harvest Moon DS",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "harvest-moon-ds"
-    },
-    {
-      "title": "harvest moon the tale of two towns",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29"
-    },
-    {
-      "title": "Hotel Dusk: Room 215",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "hotel-dusk-room-215"
-    },
-    {
-      "title": "Kingdom Hearts 358/2 Days",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "kingdom-hearts-358-2-days"
-    },
-    {
-      "title": "Kirby: Canvas Curse",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "kirby-canvas-curse"
-    },
-    {
-      "title": "Kirby: Squeak Squad",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "kirby-squeak-squad"
-    },
-    {
-      "title": "Kirby Mass Attack",
-      "platform": "DS",
-      "format": "physical",
-      "added": "2026-10-29",
-      "igdb": "kirby-mass-attack"
-    },
-    {
-      "title": "Kirby Super Star Ultra",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "kirby-super-star-ultra"
-    },
-    {
-      "title": "Last Window: The Secret of Cape West",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "last-window-the-secret-of-cape-west"
-    },
-    {
-      "title": "The Legend of Zelda: Phantom Hourglass",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "the-legend-of-zelda-phantom-hourglass"
-    },
-    {
-      "title": "The Legend of Zelda: Spirit Tracks",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "the-legend-of-zelda-spirit-tracks"
-    },
-    {
-      "title": "Lufia: Curse of the Sinistrals",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "lufia-curse-of-the-sinistrals"
-    },
-    {
-      "title": "Lunar Knights",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "lunar-knights"
-    },
-    {
-      "title": "Mario & Luigi: Partners in Time",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "mario-luigi-partners-in-time"
-    },
-    {
-      "title": "Mario & Sonic at the Olympic Winter Games",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "mario-and-sonic-at-the-olympic-winter-games--1"
-    },
-    {
-      "title": "Mario Kart DS",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "mario-kart-ds"
-    },
-    {
-      "title": "Mario Party DS",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "mario-party-ds"
-    },
-    {
-      "title": "mario vs donkey kong mini-land mayhem!",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29"
-    },
-    {
-      "title": "Mario vs. Donkey Kong 2: March of the Minis",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "mario-vs-donkey-kong-2-march-of-the-minis"
-    },
-    {
-      "title": "Meteos",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "meteos"
-    },
-    {
-      "title": "Metroid Prime Hunters",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "metroid-prime-hunters"
-    },
-    {
-      "title": "Might & Magic: Clash of Heroes",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "might-and-magic-clash-of-heroes"
-    },
-    {
-      "title": "Moon",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "moon"
-    },
-    {
-      "title": "N+",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "n-plus"
-    },
-    {
-      "title": "Nanostray",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "nanostray"
-    },
-    {
-      "title": "Nanostray 2",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "nanostray-2"
-    },
-    {
-      "title": "New Super Mario Bros.",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "new-super-mario-bros"
-    },
-    {
-      "title": "Nine Hours, Nine Persons, Nine Doors",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "nine-hours-nine-persons-nine-doors"
-    },
-    {
-      "title": "Ninja Gaiden: Dragon Sword",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "ninja-gaiden-dragon-sword"
-    },
-    {
-      "title": "Ninjatown",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "ninjatown"
-    },
-    {
-      "title": "Nostalgia",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "nostalgia"
-    },
-    {
-      "title": "Ōkamiden",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "okamiden"
-    },
-    {
-      "title": "Peggle: Dual Shot",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "peggle-dual-shot"
-    },
-    {
-      "title": "Phoenix Wright: Ace Attorney",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "phoenix-wright-ace-attorney"
-    },
-    {
-      "title": "Phoenix Wright: Ace Attorney – Justice for All",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "phoenix-wright-ace-attorney-justice-for-all"
-    },
-    {
-      "title": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations"
-    },
-    {
-      "title": "Picross 3D",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "picross-3d"
-    },
-    {
-      "title": "Picross DS",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "picross-ds"
-    },
-    {
-      "title": "Planet Puzzle League",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "planet-puzzle-league"
-    },
-    {
-      "title": "Pokémon Black and White",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-black-version"
-    },
-    {
-      "title": "Pokémon Black 2 and White 2",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-white-version-2"
-    },
-    {
-      "title": "Pokémon Diamond and Pearl",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-diamond-version"
-    },
-    {
-      "title": "Pokémon Platinum",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-platinum-version"
-    },
-    {
-      "title": "Pokémon Conquest",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-conquest"
-    },
-    {
-      "title": "Pokémon Mystery Dungeon: Blue Rescue Team",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-mystery-dungeon-blue-rescue-team"
-    },
-    {
-      "title": "Pokémon Mystery Dungeon: Explorers of Darkness",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-mystery-dungeon-explorers-of-darkness"
-    },
-    {
-      "title": "Pokémon Mystery Dungeon: Explorers of Sky",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-mystery-dungeon-explorers-of-sky"
-    },
-    {
-      "title": "Pokémon Mystery Dungeon: Explorers of Time",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "pokemon-mystery-dungeon-explorers-of-time"
-    },
-    {
-      "title": "Professor Layton and the Diabolical Box",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "professor-layton-and-the-diabolical-box"
-    },
-    {
-      "title": "Professor Layton and the Last Specter",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "professor-layton-and-the-last-specter"
-    },
-    {
-      "title": "Radiant Historia",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "radiant-historia"
-    },
-    {
-      "title": "Retro Game Challenge",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "retro-game-challenge"
-    },
-    {
-      "title": "Rhapsody: A Musical Adventure",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "rhapsody-a-musical-adventure"
-    },
-    {
-      "title": "Rhythm Heaven",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "rhythm-heaven"
-    },
-    {
-      "title": "Rune Factory: A Fantasy Harvest Moon",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "rune-factory-a-fantasy-harvest-moon"
-    },
-    {
-      "title": "Rune Factory 2",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "rune-factory-2-a-fantasy-harvest-moon"
-    },
-    {
-      "title": "Rune Factory 3",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "rune-factory-3-a-fantasy-harvest-moon"
-    },
-    {
-      "title": "Scribblenauts",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "scribblenauts"
-    },
-    {
-      "title": "Shin Megami Tensei: Devil Survivor",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "shin-megami-tensei-devil-survivor"
-    },
-    {
-      "title": "Shin Megami Tensei: Devil Survivor 2",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "shin-megami-tensei-devil-survivor-2"
-    },
-    {
-      "title": "Shin Megami Tensei: Strange Journey",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "shin-megami-tensei-strange-journey"
-    },
-    {
-      "title": "Sonic Rush",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "sonic-rush"
-    },
-    {
-      "title": "Sonic Rush Adventure",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "sonic-rush-adventure"
-    },
-    {
-      "title": "Soul Bubbles",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "soul-bubbles"
-    },
-    {
-      "title": "Super Dodgeball Brawlers",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "super-dodgeball-brawlers"
-    },
-    {
-      "title": "Super Princess Peach",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "super-princess-peach"
-    },
-    {
-      "title": "Super Scribblenauts",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "super-scribblenauts"
-    },
-    {
-      "title": "Tales of Innocence",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "tales-of-innocence"
-    },
-    {
-      "title": "Tetris DS",
-      "platform": "DS",
-      "format": "physical",
-      "added": "2026-10-29",
-      "igdb": "tetris-ds"
-    },
-    {
-      "title": "Tony Hawk's American Sk8land",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "tony-hawk-s-american-sk8land"
-    },
-    {
-      "title": "Trauma Center: Under the Knife 2",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "trauma-center-under-the-knife-2"
-    },
-    {
-      "title": "Viva Piñata: Pocket Paradise",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "viva-pinata-pocket-paradise"
-    },
-    {
-      "title": "WarioWare D.I.Y.",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "warioware-d-i-y"
-    },
-    {
-      "title": "WarioWare: Touched!",
-      "platform": "DS",
-      "format": "digital",
-      "added": "2026-10-29",
-      "igdb": "warioware-touched"
-    },
-    {
-      "title": "Fire Emblem Echoes: Shadows of Valentia",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Fire Emblem Fates: Birthright",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Fire Emblem Fates: Conquest",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Persona Q2: New Cinema Labyrinth",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Persona Q: Shadow of the Labyrinth",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Monster Hunter 4 Ultimate",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Monster Hunter Generations",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Professor Layton and the Azran Legacy",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Professor Layton and the Miracle Mask",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Pokémon Super Mystery Dungeon",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02",
-      "igdb": "pokemon-super-mystery-dungeon--1"
-    },
-    {
-      "title": "Pokémon X",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Pokémon Y",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Pokémon Ultra Moon",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Pokémon Ultra Sun",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Phoenix Wright: Ace Attorney - Dual Destinies",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Shin Megami Tensei IV: Apocalypse",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Shin Megami Tensei: Strange Journey Redux",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Shin Megami Tensei: Devil Survivor Overclocked",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario & Luigi: Dream Team",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Story of Seasons: Trio of Towns",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Captain Toad: Treasure Tracker",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Xenoblade Chronicles 3D",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Super Smash Bros. for Nintendo 3DS",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Bravely Second: End Layer",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Pilotwings Resort",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tom Clancy's Ghost Recon Shadow Wars",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tom Clancy's Splinter Cell 3D",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tales of the Abyss",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario vs. Donkey Kong: Tipping Stars",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Rune Factory 4",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Hyrule Warriors Legends",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario Tennis Open",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Code Name: S.T.E.A.M.",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "WarioWare Gold",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Fluidity: Spin Cycle",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Little Battlers eXperience",
-      "platform": "3DS",
-      "format": "digital",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Alice: Madness Returns",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Asura's Wrath",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Dante's Inferno",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Dead Space 2",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Dead Space 3",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion 5th Anniversary Edition",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Fallout 3",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Folklore",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "God of War: Ascension",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "God of War Collection",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Guitar Hero III: Legends of Rock",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Heavenly Sword",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Hitman HD Trilogy",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Ico & Shadow of the Colossus Collection",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Killzone 2",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "NieR",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Prince of Persia: The Forgotten Sands",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Puppeteer",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Ratchet & Clank Future: Tools of Destruction",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Ratchet & Clank: Into the Nexus",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Ratchet & Clank Future: Quest for Booty",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Ratchet & Clank Future: A Crack in Time",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Resistance: Fall of Man",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Silent Hill HD Collection",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "SingStar Vol. 3",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Siren: Blood Curse",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tales of Xillia 2",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tales of Xillia",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tales of Symphonia Chronicles",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tales of Graces f",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Orange Box",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tokyo Jungle",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Tomb Raider Trilogy",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Valkyria Chronicles",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Wolfenstein",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Yakuza: Dead Souls",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "inFamous 2",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Braid",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "LittleBigPlanet",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mirror's Edge",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Ratchet & Clank",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "inFamous",
-      "platform": "PS3",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Animal Crossing: City Folk",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Boom Blox",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Disaster: Day of Crisis",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Escape from Bug Island",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Fire Emblem: Radiant Dawn",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Ghost Squad",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Just Dance 4",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Kirby's Return to Dream Land",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario & Sonic at the London 2012 Olympic Games",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario & Sonic at the Olympic Games",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario Kart Wii",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario Party 8",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Metroid Prime Trilogy",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Michael Jackson: The Experience",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mini Ninjas",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "New Super Mario Bros. Wii",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "No More Heroes",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "No More Heroes 2: Desperate Struggle",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "New Play Control! Pikmin",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "New Play Control! Pikmin 2",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Punch-Out!!",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Rabbids Go Home",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Rayman Raving Rabbids",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Rayman Raving Rabbids 2",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Rhythm Heaven Fever",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Rune Factory Frontier",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Rune Factory: Tides of Destiny",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Sin & Punishment: Star Successor",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Super Mario All-Stars 25th Anniversary Edition",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02",
-      "igdb": "super-mario-all-stars-limited-edition"
-    },
-    {
-      "title": "Super Mario Galaxy",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Super Mario Galaxy 2",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Super Paper Mario",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Super Smash Bros. Brawl",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Tetris Party Deluxe",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Legend of Zelda: Skyward Sword",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Legend of Zelda: Twilight Princess",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Wario Land: Shake It!",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "WarioWare: Smooth Moves",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Wii Party",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Wii Sports Resort",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Zack & Wiki: Quest for Barbaros' Treasure",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Okami",
-      "platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Fire Emblem: Path of Radiance",
-      "platform": "GameCube",
-      "also_platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Legend of Zelda: The Wind Waker",
-      "platform": "GameCube",
-      "also_platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Mario Party 4",
-      "platform": "GameCube",
-      "also_platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Paper Mario: The Thousand-Year Door",
-      "platform": "GameCube",
-      "also_platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Super Mario Sunshine",
-      "platform": "GameCube",
-      "also_platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "The Legend of Zelda: Four Swords Adventures",
-      "platform": "GameCube",
-      "also_platform": "Wii",
-      "format": "physical",
-      "added": "2026-11-02"
-    },
-    {
-      "title": "Resident Evil 4",
-      "platform": "PS5",
-      "format": "physical",
-      "added": "2026-11-03",
-      "igdb": "resident-evil-4--1"
-    }
-  ],
-  "match": {
-    "batman": "batman-the-telltale-series",
-    "kingdom hearts vr experience": "kingdom-hearts-vr-experience",
-    "sonic classic collection ds": "sonic-classic-collection",
-    "profeddor layton and the last specter": "professor-layton-and-the-last-specter",
-    "yo kai watch 2": "yo-kai-watch-2-fleshy-souls",
-    "dantes inferno": "dante-s-inferno",
-    "code realize guardian of rebirth": "code-realize-guardian-of-rebirth",
-    "bit trip limited edition": "the-bit-dot-trip",
-    "2 xtreme": "2xtreme--2",
-    "a train exp": "the-train-giant",
-    "a train express": "the-train-giant",
-    "alone in the dark 2": "alone-in-the-dark-2",
-    "alone in the dark 2 1996": "alone-in-the-dark-2",
-    "ape escape p": "ape-escape-pumped-and-primed--1",
-    "armored core": "armored-core",
-    "hollow knight voidheart edition": "hollow-knight",
-    "farcry 6": "far-cry-6",
-    "jet rider 2": "jet-moto-2",
-    "mystic pillars 10 kantara": "mystic-pillars",
-    "sly raccoon": "sly-cooper-and-the-thievius-raccoonus",
-    "soccer": "soccer--2",
-    "nobunagas ambition lord of darkness": "nobunagas-ambition-bushou-fuunroku",
-    "planet zoo": "planet-zoo-console-edition",
-    "until dawn 2015": "until-dawn",
-    "death end request": "death-end-re-quest",
-    "new monopoly": "monopoly--19",
-    "wrc generations the fia wrc official game": "wrc-generations",
-    "pac man": "pac-man--5",
-    "disneypixar wall e": "wall-e--7",
-    "key of heaven": "kingdom-of-paradise",
-    "summoner ps 2 emulation 2000": "summoner",
-    "disneypixar up": "up--4",
-    "kunio kun no dodgeball da yo zen in shugo": "kunios-dodgeball-time-cmon-guys",
-    "musha": "m-u-s-h-a",
-    "battletoads double dragon": "battletoads-slash-double-dragon",
-    "lilo and stitch": "disneys-lilo-and-stitch",
-    "motoracer advance": "moto-racer-advance",
-    "utchan nanchan no hono no challenger denryuu ira ira bou": "ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou",
-    "go for it goemon the twinkling journey the reason i became a dancer": "ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake",
-    "hammer lock wrestling": "tenryu-genichiro-no-pro-wrestling-revolution",
-    "jim lees wildc a t s covert action teams": "jim-lees-wild-c-dot-a-t-dot-s-covert-action-teams",
-    "knights of the round": "knights-of-the-round",
-    "mobile suit gundam wing endless duel": "shin-kidou-senki-gundam-wing-endless-duel",
-    "mysterious dungeon 2 shiren the wanderer": "fushigi-no-dungeon-2-fuurai-no-shiren",
-    "ninjawarriors": "the-ninja-warriors",
-    "s o s sink or swim": "man-overboard",
-    "torneco no daibouken fushigi no dungeon": "fushigi-no-dungeon-torneko-no-daibouken",
-    "tetris": "tetris--1"
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "PS5",
+   "title": "Persona 3 Reload"
   },
-  "sent": {
-    "steam": {
-      "igdb:158983": {
-        "from": "Switch 2",
-        "why": "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played.",
-        "date": "2026-10-30T18:59:03.436Z"
-      }
-    }
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "PS5",
+   "title": "Nier Automata"
   },
-  "suggest": {
-    "vr": {
-      "slots": [
-        {
-          "key": "igdb:49875",
-          "best": "igdb:135999",
-          "why": [
-            "Play this game to get to the amazing Tetris Effect: Connected (88). It's the earliest Tetris game you haven't played.",
-            "Not on this console: Switch Online (Switch + Game Boy)",
-            "A change of genre: Puzzle, Strategy",
-            "Shorter than what you're playing: about 1.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:83731",
-          "best": "igdb:83731",
-          "why": [
-            "Top-rated game you haven't played (average 84)",
-            "A change of genre: Music, Sport",
-            "Shorter than what you're playing: about 24.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:1545",
-          "best": "igdb:26195",
-          "why": [
-            "Play this game to get to the amazing WipEout: Omega Collection (84). It's the earliest entry in the series you haven't played.",
-            "Not on this console: you have it on PS Vita",
-            "A change of genre: Racing",
-            "Shorter than what you're playing: about 14.5h to beat"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:49875",
-        "igdb:83731",
-        "igdb:1545"
-      ],
-      "date": "2026-10-30T13:24:27.170Z"
-    },
-    "steam": {
-      "slots": [
-        {
-          "key": "igdb:158983",
-          "best": "igdb:158983",
-          "why": [
-            "Sent here from your Switch 2 suggestions",
-            "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played."
-          ],
-          "sent": true
-        },
-        {
-          "key": "igdb:231",
-          "best": "igdb:233",
-          "why": [
-            "Play this game to get to the amazing Half-Life 2 (90). It's the earliest Half-Life game you haven't played.",
-            "Shorter than what you're playing: about 14h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:28981",
-          "best": "igdb:28981",
-          "why": [
-            "Top-rated game you haven't played (average 86)",
-            "A change of genre: RTS, Strategy",
-            "Shorter than what you're playing: about 24h to beat"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:158983",
-        "igdb:231",
-        "igdb:28981"
-      ],
-      "date": "2026-10-30T18:35:08.776Z"
-    },
-    "ps5": {
-      "slots": [
-        {
-          "key": "igdb:26226",
-          "best": "igdb:26226",
-          "why": [
-            "Top-rated game you haven't played (average 90)",
-            "Shorter than what you're playing: about 14.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:18696",
-          "best": "igdb:18699",
-          "why": [
-            "Play this game to get to the amazing R4: Ridge Racer Type 4 (87). It's the earliest entry in the series you haven't played.",
-            "A change of genre: Racing",
-            "Shorter than what you're playing: about 2.5h to beat",
-            "Included with PS Plus"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:170995",
-          "best": "igdb:103298",
-          "why": [
-            "Play this game to get to the amazing Doom Eternal (86). It's the earliest entry in the series you haven't played.",
-            "A change of genre: Shooter",
-            "Shorter than what you're playing: about 10h to beat",
-            "Included with PS Plus"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:49875",
-        "igdb:18696",
-        "igdb:170995",
-        "igdb:18599",
-        "igdb:135999",
-        "igdb:26226"
-      ],
-      "date": "2026-10-30T19:07:53.929Z"
-    },
-    "ps3": {
-      "slots": [
-        {
-          "key": "igdb:376",
-          "best": "igdb:376",
-          "why": [
-            "Top-rated game you haven't played (average 91)",
-            "Shorter than what you're playing: about 15.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:1798",
-          "best": "igdb:7458",
-          "why": [
-            "Play this game to get to the amazing The Sly Collection (84). It's the earliest entry in the series you haven't played.",
-            "Not on this console: in the PS Plus catalog (PS4, PS5, PS2)",
-            "Shorter than what you're playing: about 7.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:117882",
-          "best": "igdb:117882",
-          "why": [
-            "Top-rated game you haven't played (average 82)",
-            "Shorter than what you're playing: about 11h to beat"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:376",
-        "igdb:1798",
-        "igdb:117882"
-      ],
-      "date": "2026-10-30T18:35:37.992Z"
-    },
-    "vita": {
-      "slots": [
-        {
-          "key": "igdb:1384",
-          "best": "igdb:1384",
-          "why": [
-            "Top-rated game you haven't played (average 84)",
-            "A change of genre: Shooter, Indie",
-            "Shorter than what you're playing: about 7.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:7812",
-          "best": "igdb:7812",
-          "why": [
-            "Top-rated game you haven't played (average 81)",
-            "A change of genre: Music, RTS",
-            "Shorter than what you're playing: about 19h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:1459",
-          "best": "igdb:1461",
-          "why": [
-            "Play this game to get to the amazing LocoRoco 2 (85). It's the earliest entry in the series you haven't played.",
-            "Shorter than what you're playing: about 9h to beat"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:1384",
-        "igdb:7812",
-        "igdb:1459"
-      ],
-      "date": "2026-10-30T18:35:48.351Z"
-    },
-    "switch2": {
-      "slots": [
-        {
-          "key": "igdb:3490",
-          "best": "igdb:3492",
-          "why": [
-            "Play this game to get to the amazing F-Zero GX (86). It's the earliest F-Zero game you haven't played.",
-            "A change of genre: Racing",
-            "About 4h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:1439",
-          "best": "igdb:366896",
-          "why": [
-            "Play this game to get to the amazing Fire Emblem: Fortune's Weave (88). It's the earliest Fire Emblem game you haven't played.",
-            "Not on this console: you have it on GBA",
-            "A change of genre: RPG, Strategy",
-            "A longer one this time: about 33.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:80174",
-          "best": "igdb:80174",
-          "why": [
-            "Top-rated game you haven't played (average 79)",
-            "A change of genre: Puzzle",
-            "A longer one this time: about 30.5h to beat"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:158983",
-        "igdb:1439",
-        "igdb:71976",
-        "igdb:207026",
-        "igdb:3490",
-        "igdb:80174"
-      ],
-      "date": "2026-11-02T15:24:57.551Z"
-    },
-    "ds": {
-      "slots": [
-        {
-          "key": "igdb:1398",
-          "best": "igdb:1399",
-          "why": [
-            "Play this game to get to the amazing Professor Layton and the Unwound Future (88). It's the earliest Professor Layton game you haven't played.",
-            "A change of genre: Point-and-click, Puzzle",
-            "Shorter than what you're playing: about 15h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:2345",
-          "best": "igdb:2345",
-          "why": [
-            "Top-rated game you haven't played (average 85)",
-            "A change of genre: Racing, Arcade",
-            "Shorter than what you're playing: about 10.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:8167",
-          "best": "igdb:8167",
-          "why": [
-            "Top-rated game you haven't played (average 85)",
-            "A change of genre: Music",
-            "Shorter than what you're playing: about 11h to beat"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:1398",
-        "igdb:2332",
-        "igdb:8167",
-        "igdb:2345"
-      ],
-      "date": "2026-10-30T18:59:29.208Z"
-    },
-    "3ds": {
-      "slots": [
-        {
-          "key": "igdb:1439",
-          "best": "igdb:1443",
-          "why": [
-            "Play this game to get to the amazing Fire Emblem Awakening (87). It's the earliest Fire Emblem game you haven't played.",
-            "Not on this console: you have it on GBA",
-            "A change of genre: RPG, Strategy",
-            "A longer one this time: about 33.5h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:2645",
-          "best": "igdb:2687",
-          "why": [
-            "Play this game to get to the amazing Animal Crossing: New Leaf (86). It's the earliest Animal Crossing game you haven't played.",
-            "Not on this console: you have it on DS",
-            "A change of genre: Simulator",
-            "A longer one this time: about 119h to beat"
-          ],
-          "sent": false
-        },
-        {
-          "key": "igdb:9543",
-          "best": "igdb:6614",
-          "why": [
-            "Play this game to get to the amazing Zero Escape: Virtue's Last Reward (85). It's the earliest entry in the series you haven't played.",
-            "Not on this console: you have it on DS",
-            "About 17h to beat"
-          ],
-          "sent": false
-        }
-      ],
-      "skip": [
-        "igdb:1439",
-        "igdb:2645",
-        "igdb:9543"
-      ],
-      "date": "2026-10-30T18:59:35.210Z"
-    }
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "PS4",
+   "title": "Red Dead Redemption"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch",
+   "title": "Catherine Full Body"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch",
+   "title": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch",
+   "title": "Fire Emblem: Three Houses"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch",
+   "title": "Triangle Strategy"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch",
+   "title": "Suikoden I&II: HD Remaster"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch",
+   "title": "Super Mario 3D All-Star"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch 2",
+   "title": "Dragon Quest I&II HD-2D Remaster"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "physical",
+   "platform": "Switch 2",
+   "title": "Fire Emblem: Fortune’s Weave"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "digital",
+   "platform": "DS",
+   "title": "Yoshi's Island DS"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "digital",
+   "platform": "DS",
+   "title": "The World Ends with You"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "digital",
+   "platform": "DS",
+   "title": "Super Mario 64 DS"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "digital",
+   "platform": "DS",
+   "title": "Sonic Classic Collection DS"
+  },
+  {
+   "added": "2026-10-07",
+   "format": "digital",
+   "platform": "DS",
+   "title": "Solatorobo: Red The Hunter"
+  },
+  {
+   "title": "Scribblenauts Collection",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Profeddor Layton and the Last Specter",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Professor Layton and the Unwound Future",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "professor-layton-and-the-unwound-future"
+  },
+  {
+   "title": "Professor Layton and the Curious Village",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "professor-layton-and-the-curious-village"
+  },
+  {
+   "title": "Pokémon SoulSilver",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "pokemon-soulsilver-version"
+  },
+  {
+   "title": "Mario & Luigi: Bowser's Inside Story",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mario-luigi-bowser-s-inside-story"
+  },
+  {
+   "title": "Ghost Trick: Phantom Detective",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ghost-trick-phantom-detective"
+  },
+  {
+   "title": "Dragon Quest IV: Chapters of the Chosen",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Dragon Quest VI: Realms of Revelation",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Dragon Quest V: Hand of the Heavenly Bride",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Crash of the Titans",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "crash-of-the-titans--1"
+  },
+  {
+   "title": "Chrono Trigger (2008)",
+   "platform": "DS",
+   "format": "physical",
+   "added": "2026-10-07",
+   "hours": 45
+  },
+  {
+   "title": "Legend of Zelda: Ocarina of Time",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Fire Emblem Awakening",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "fire-emblem-awakening"
+  },
+  {
+   "title": "The Legend of Zelda: A Link Between Worlds",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "the-legend-of-zelda-a-link-between-worlds"
+  },
+  {
+   "title": "Super Mario 3D Land",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "super-mario-3d-land"
+  },
+  {
+   "title": "Shovel Knight",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Pushmo",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "pushmo"
+  },
+  {
+   "title": "Legend of Zelda: Majora's Mask 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Zero Escape: Virtue's Last Reward",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "zero-escape-virtue-s-last-reward"
+  },
+  {
+   "title": "Animal Crossing: New Leaf",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "animal-crossing-new-leaf"
+  },
+  {
+   "title": "3D Sonic the Hedgehog",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "3d-sonic-the-hedgehog"
+  },
+  {
+   "title": "Luigi's Mansion: Dark Moon",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "luigi-s-mansion-dark-moon"
+  },
+  {
+   "title": "SteamWorld Heist",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "steamworld-heist"
+  },
+  {
+   "title": "Crashmo",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "crashmo"
+  },
+  {
+   "title": "Mario Kart 7",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mario-kart-7"
+  },
+  {
+   "title": "Dragon Quest VIII: Journey of the Cursed King",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Radiant Historia",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "radiant-historia"
+  },
+  {
+   "title": "Bravely Default",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "bravely-default"
+  },
+  {
+   "title": "Metroid: Samus Returns",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metroid-samus-returns"
+  },
+  {
+   "title": "Etrian Odyssey IV: Legends of the Titan",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Donkey Kong Country Returns 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Pokémon Omega Ruby",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "pokemon-omega-ruby"
+  },
+  {
+   "title": "Kid Icarus: Uprising",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "kid-icarus-uprising"
+  },
+  {
+   "title": "Shin Megami Tensei IV",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "shin-megami-tensei-iv"
+  },
+  {
+   "title": "Stretchmo",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "stretchmo"
+  },
+  {
+   "title": "Bye-Bye BoxBoy!",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "bye-bye-boxboy"
+  },
+  {
+   "title": "Rhythm Heaven Megamix",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "rhythm-heaven-megamix"
+  },
+  {
+   "title": "Pocket Card Jockey",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "pocket-card-jockey"
+  },
+  {
+   "title": "Etrian Odyssey 2 Untold: The Fafnir Knight",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "etrian-odyssey-2-untold-the-fafnir-knight"
+  },
+  {
+   "title": "Resident Evil: Revelations",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "resident-evil-revelations"
+  },
+  {
+   "title": "Shantae and the Pirate's Curse",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "shantae-and-the-pirates-curse"
+  },
+  {
+   "title": "SteamWorld Dig",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "steamworld-dig"
+  },
+  {
+   "title": "Mario & Luigi: Superstar Saga + Bowser's Minions",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mario-and-luigi-superstar-saga-plus-bowsers-minions"
+  },
+  {
+   "title": "Kirby: Planet Robobot",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "kirby-planet-robobot"
+  },
+  {
+   "title": "Phoenix Wright: Ace Attorney Trilogy",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "phoenix-wright-ace-attorney-trilogy"
+  },
+  {
+   "title": "Phoenix Wright: Ace Attorney – Spirit of Justice",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "phoenix-wright-ace-attorney-spirit-of-justice"
+  },
+  {
+   "title": "dragon-quest-vii-fragments-of-the-forgotten-past",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "dragon-quest-vii-fragments-of-the-forgotten-past"
+  },
+  {
+   "title": "Star Fox 64 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "star-fox-64-3d"
+  },
+  {
+   "title": "Kirby: Triple Deluxe",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "kirby-triple-deluxe"
+  },
+  {
+   "title": "BoxBoxBoy!",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "boxboxboy"
+  },
+  {
+   "title": "BoxBoy!",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "boxboy"
+  },
+  {
+   "title": "Professor Layton vs. Ace Attorney",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "professor-layton-vs-phoenix-wright-ace-attorney"
+  },
+  {
+   "title": "Monster Hunter 3 Ultimate",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "monster-hunter-3-ultimate"
+  },
+  {
+   "title": "Monster Hunter Stories",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "monster-hunter-stories"
+  },
+  {
+   "title": "Mighty Switch Force!",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mighty-switch-force"
+  },
+  {
+   "title": "New Super Mario Bros. 2",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "new-super-mario-bros-2"
+  },
+  {
+   "title": "Metal Gear Solid: Snake Eater 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metal-gear-solid-snake-eater-3d"
+  },
+  {
+   "title": "3d classics: kirby's adventure",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Apollo Justice: Ace Attorney",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "apollo-justice-ace-attorney"
+  },
+  {
+   "title": "3d classics: kid icterus",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Attack of the Friday Monsters! A Tokyo Tale",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "attack-of-the-friday-monsters-a-tokyo-tale"
+  },
+  {
+   "title": "Corpse Party",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "corpse-party"
+  },
+  {
+   "title": "Yo-kai Watch",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "yo-kai-watch"
+  },
+  {
+   "title": "Crimson Shroud",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "crimson-shroud"
+  },
+  {
+   "title": "Ever Oasis",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ever-oasis"
+  },
+  {
+   "title": "Luigi's Mansion",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "luigis-mansion"
+  },
+  {
+   "title": "Culdcept Revolt",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "culdcept-revolt"
+  },
+  {
+   "title": "Yo-kai Watch 2",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "yo-kai-watch-2-bony-spirits-slash-fleshy-souls"
+  },
+  {
+   "title": "Fantasy Life",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "fantasy-life"
+  },
+  {
+   "title": "Mighty Switch Force! 2",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mighty-switch-force-2"
+  },
+  {
+   "title": "HarmoKnight",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "harmoknight"
+  },
+  {
+   "title": "Rayman Origins",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "rayman-origins"
+  },
+  {
+   "title": "Liberation Maiden",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "liberation-maiden"
+  },
+  {
+   "title": "Dillon's Rolling Western: The Last Ranger",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "dillons-rolling-western-the-last-ranger"
+  },
+  {
+   "title": "delusions of von sottendorff and his squared mind",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Rayman 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "rayman-3d"
+  },
+  {
+   "title": "Michael Jackson: The Experience",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "michael-jackson-the-experience"
+  },
+  {
+   "title": "starship damrey",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "ironfall invasion",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "God of War: Chains of Olympus",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "god-of-war-chains-of-olympus"
+  },
+  {
+   "title": "grand-theft-auto-chinatown-wars",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "grand-theft-auto-chinatown-wars"
+  },
+  {
+   "title": "Persona 3 Portable",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "persona-3-portable"
+  },
+  {
+   "title": "Metal Gear Solid: Peace Walker",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metal-gear-solid-peace-walker"
+  },
+  {
+   "title": "grand-theft-auto-liberty-city-stories",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "grand-theft-auto-liberty-city-stories"
+  },
+  {
+   "title": "Ridge Racer",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Jeanne d'Arc",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "jeanne-darc"
+  },
+  {
+   "title": "tactics ogre: let us cling together",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Metal Gear Solid: Portable Ops",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metal-gear-solid-portable-ops"
+  },
+  {
+   "title": "LittleBigPlanet",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "littlebigplanet--1"
+  },
+  {
+   "title": "God of War: Ghost of Sparta",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "god-of-war-ghost-of-sparta"
+  },
+  {
+   "title": "grand-theft-auto-vice-city-stories",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "grand-theft-auto-vice-city-stories"
+  },
+  {
+   "title": "Patapon",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "patapon"
+  },
+  {
+   "title": "Daxter",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "daxter"
+  },
+  {
+   "title": "LocoRoco 2",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "locoroco-2"
+  },
+  {
+   "title": "Crisis Core: Final Fantasy VII",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "crisis-core-final-fantasy-vii"
+  },
+  {
+   "title": "Crush",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "crush"
+  },
+  {
+   "title": "LocoRoco",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "locoroco"
+  },
+  {
+   "title": "Kingdom Hearts: Birth by Sleep",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "kingdom-hearts-birth-by-sleep"
+  },
+  {
+   "title": "Mega Man Powered Up",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mega-man-powered-up"
+  },
+  {
+   "title": "Patapon 2",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "patapon-2"
+  },
+  {
+   "title": "ys-the-oath-in-felghana",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ys-the-oath-in-felghana"
+  },
+  {
+   "title": "Soulcalibur: Broken Destiny",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "soulcalibur-broken-destiny"
+  },
+  {
+   "title": "Dissidia Final Fantasy",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "dissidia-final-fantasy"
+  },
+  {
+   "title": "ys-seven",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ys-seven"
+  },
+  {
+   "title": "legend of heroes: trails in the sky",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Rock Band Unplugged",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "rock-band-unplugged"
+  },
+  {
+   "title": "Shin Megami Tensei: Persona",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "shin-megami-tensei-persona"
+  },
+  {
+   "title": "Metal Slug Anthology",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metal-slug-anthology"
+  },
+  {
+   "title": "Final Fantasy IV: The Complete Collection",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "final-fantasy-iv-the-complete-collection"
+  },
+  {
+   "title": "Lego Indiana Jones: The Original Adventures",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "lego-indiana-jones-the-original-adventures"
+  },
+  {
+   "title": "shin megami tensei: persona 2 - innocent sin",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Star Ocean: First Departure",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "star-ocean-first-departure"
+  },
+  {
+   "title": "prince of persia: rival swords",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Patapon 3",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "patapon-3"
+  },
+  {
+   "title": "Harvest Moon: Hero of Leaf Valley",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "harvest-moon-hero-of-leaf-valley"
+  },
+  {
+   "title": "Need for Speed: Underground Rivals",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "need-for-speed-underground-rivals"
+  },
+  {
+   "title": "Lego Batman: The Videogame",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "lego-batman-the-videogame"
+  },
+  {
+   "title": "Need for Speed Carbon: Own the City",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "need-for-speed-carbon-own-the-city"
+  },
+  {
+   "title": "Jak and Daxter: The Lost Frontier",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "jak-and-daxter-the-lost-frontier"
+  },
+  {
+   "title": "Dante's Inferno",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "dantes-inferno"
+  },
+  {
+   "title": "Star Wars: The Force Unleashed",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "star-wars-the-force-unleashed--5"
+  },
+  {
+   "title": "Star Wars: Battlefront II",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "star-wars-battlefront-ii"
+  },
+  {
+   "title": "Need for Speed: Shift",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "need-for-speed-shift--1"
+  },
+  {
+   "title": "tomb raider: legend",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Lego Pirates of the Caribbean",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "lego-pirates-of-the-caribbean-the-video-game--2"
+  },
+  {
+   "title": "Tales of the World: Radiant Mythology",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "tales-of-the-world-radiant-mythology"
+  },
+  {
+   "title": "prince of persia revelations",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Prince of Persia: The Forgotten Sands",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "prince-of-persia-the-forgotten-sands--2"
+  },
+  {
+   "title": "lord of the rings: tactics",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "sims 2: castaway",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "ys i & ii chronicles",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "harvest moon: boy & girl",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Need for Speed: ProStreet",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "need-for-speed-prostreet--1"
+  },
+  {
+   "title": "Tales of Eternia",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "tales-of-eternia"
+  },
+  {
+   "title": "Lego Harry Potter: Years 1–4",
+   "platform": "PSP",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "lego-harry-potter-years-1-4--1"
+  },
+  {
+   "title": "Persona 4: Golden",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "persona-4-golden"
+  },
+  {
+   "title": "Odin Sphere Leifthrasir",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "odin-sphere-leifthrasir"
+  },
+  {
+   "title": "Limbo",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "limbo"
+  },
+  {
+   "title": "spelunky",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "spelunky"
+  },
+  {
+   "title": "Rayman Origins",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "rayman-origins"
+  },
+  {
+   "title": "Tearaway",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "tearaway"
+  },
+  {
+   "title": "Guacamelee!",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "guacamelee-super-turbo-championship-edition"
+  },
+  {
+   "title": "Code: Realize − Guardian of Rebirth",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "code-realize-~guardian-of-rebirth~"
+  },
+  {
+   "title": "Final Fantasy X/X-2 HD Remaster",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "final-fantasy-x-slash-x-2-hd-remaster"
+  },
+  {
+   "title": "Mortal Kombat",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "mortal-kombat"
+  },
+  {
+   "title": "Hotline Miami",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "hotline-miami"
+  },
+  {
+   "title": "OlliOlli2",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "olliolli2-welcome-to-olliwood"
+  },
+  {
+   "title": "Grim Fandango Remastered",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "grim-fandango-remastered"
+  },
+  {
+   "title": "Child of Light",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "child-of-light"
+  },
+  {
+   "title": "Gravity Rush",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "gravity-rush"
+  },
+  {
+   "title": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien"
+  },
+  {
+   "title": "Oddworld: New 'n' Tasty!",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "oddworld-new-n-tasty"
+  },
+  {
+   "title": "Oddworld: Stranger's Wrath HD",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "oddworld-strangers-wrath-hd"
+  },
+  {
+   "title": "Severed",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "severed"
+  },
+  {
+   "title": "walking dead: a telltale game series - the complete first season",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "xcom: enemy unkown plus",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Shantae: Half-Genie Hero",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "shantae-half-genie-hero"
+  },
+  {
+   "title": "Day of the Tentacle Remastered",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "day-of-the-tentacle-remastered"
+  },
+  {
+   "title": "ys-memories-of-celceta",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ys-memories-of-celceta"
+  },
+  {
+   "title": "Metal Gear Solid HD Collection",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metal-gear-solid-hd-collection"
+  },
+  {
+   "title": "Danganronpa 2: Goodbye Despair",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "danganronpa-2-goodbye-despair"
+  },
+  {
+   "title": "Uncharted: Golden Abyss",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "uncharted-golden-abyss"
+  },
+  {
+   "title": "sly cooper collection",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Danganronpa V3: Killing Harmony",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "danganronpa-v3-killing-harmony--1"
+  },
+  {
+   "title": "Danganronpa: Trigger Happy Havoc",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "danganronpa-trigger-happy-havoc"
+  },
+  {
+   "title": "Wipeout 2048",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "wipeout-2048"
+  },
+  {
+   "title": "Need for Speed: Most Wanted",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467"
+  },
+  {
+   "title": "OlliOlli",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "olliolli"
+  },
+  {
+   "title": "Killzone: Mercenary",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "killzone-mercenary"
+  },
+  {
+   "title": "muramasa rebirth",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Axiom Verge",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "axiom-verge"
+  },
+  {
+   "title": "plants-vs-zombies",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "plants-vs-zombies"
+  },
+  {
+   "title": "legend of heroes: trails of cold steel",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Ratchet & Clank Collection",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ratchet-and-clank-collection"
+  },
+  {
+   "title": "tales of hearts R",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Sly Cooper: Thieves in Time",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "sly-cooper-thieves-in-time"
+  },
+  {
+   "title": "God of War Collection",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "god-of-war-collection"
+  },
+  {
+   "title": "Freedom Wars",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "freedom-wars"
+  },
+  {
+   "title": "Ninja Gaiden Sigma Plus",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ninja-gaiden-sigma-plus"
+  },
+  {
+   "title": "Oddworld: Munch's Oddysee hd",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Danganronpa Another Episode: Ultra Despair Girls",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "danganronpa-another-episode-ultra-despair-girls"
+  },
+  {
+   "title": "Jak and Daxter Collection",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "jak-and-daxter-collection"
+  },
+  {
+   "title": "Hotline Miami 2: Wrong Number",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "hotline-miami-2-wrong-number"
+  },
+  {
+   "title": "Borderlands 2",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "borderlands-2"
+  },
+  {
+   "title": "Resistance: Burning Skies",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "resistance-burning-skies"
+  },
+  {
+   "title": "velocity 2x: critical mass edition",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "bit.trip limited edition",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Stardew Valley",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "stardew-valley"
+  },
+  {
+   "title": "Digimon Story: Cyber Sleuth",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "digimon-story-cyber-sleuth"
+  },
+  {
+   "title": "Papers, Please",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "papers-please"
+  },
+  {
+   "title": "Don't Starve: Giant Edition",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "dont-starve-giant-edition"
+  },
+  {
+   "title": "Injustice: Gods Among Us Ultimate Edition",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "injustice-gods-among-us-ultimate-edition"
+  },
+  {
+   "title": "ys-origin",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ys-origin"
+  },
+  {
+   "title": "ys-viii-lacrimosa-of-dana",
+   "platform": "PS Vita",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "ys-viii-lacrimosa-of-dana"
+  },
+  {
+   "title": "God of War II HD",
+   "platform": "PS3",
+   "format": "digital",
+   "added": "2026-10-07"
+  },
+  {
+   "title": "Metal Gear Solid 2: Sons of Liberty",
+   "platform": "PS3",
+   "format": "digital",
+   "added": "2026-10-07",
+   "igdb": "metal-gear-solid-2-sons-of-liberty"
+  },
+  {
+   "title": "Mario Kart World",
+   "platform": "Switch 2",
+   "format": "physical",
+   "added": "2026-10-07",
+   "igdb": "mario-kart-world"
+  },
+  {
+   "title": "sly Cooper collection",
+   "platform": "PS3",
+   "format": "digital",
+   "added": "2026-10-08"
+  },
+  {
+   "title": "Breath of Fire",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "breath-of-fire"
+  },
+  {
+   "title": "Breath of Fire II",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "breath-of-fire-ii"
+  },
+  {
+   "title": "Claymates",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "claymates"
+  },
+  {
+   "title": "Donkey Kong Country",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "donkey-kong-country"
+  },
+  {
+   "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "donkey-kong-country-2-diddy-s-kong-quest"
+  },
+  {
+   "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "donkey-kong-country-3-dixie-kong-s-double-trouble"
+  },
+  {
+   "title": "Super Mario All-Stars",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-mario-all-stars"
+  },
+  {
+   "title": "super-mario-world",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-mario-world"
+  },
+  {
+   "title": "Super Punch-Out!!",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-punch-out"
+  },
+  {
+   "title": "The Legend of Zelda: A Link to the Past",
+   "platform": "Switch 2",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "the-legend-of-zelda-a-link-to-the-past"
+  },
+  {
+   "title": "Fire emblem",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08"
+  },
+  {
+   "title": "Fire Emblem: The Sacred Stones",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "fire-emblem-the-sacred-stones"
+  },
+  {
+   "title": "Golden Sun",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "golden-sun"
+  },
+  {
+   "title": "Golden Sun: The Lost Age",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "golden-sun-the-lost-age"
+  },
+  {
+   "title": "Klonoa: Empire of Dreams",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "klonoa-empire-of-dreams"
+  },
+  {
+   "title": "Metroid: Zero Mission",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "metroid-zero-mission"
+  },
+  {
+   "title": "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "pokemon-mystery-dungeon-red-rescue-team"
+  },
+  {
+   "title": "Super Mario World: Super Mario Advance 2",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-mario-world-super-mario-advance-2"
+  },
+  {
+   "title": "Super Mario Advance",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-mario-advance"
+  },
+  {
+   "title": "Super Mario Advance 4: Super Mario Bros. 3",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "super-mario-advance-4-super-mario-bros-3"
+  },
+  {
+   "title": "The Legend of Zelda: The Minish Cap",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "the-legend-of-zelda-the-minish-cap"
+  },
+  {
+   "title": "Wario Land 4",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "wario-land-4"
+  },
+  {
+   "title": "WarioWare, Inc.: Mega Microgames!",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "warioware-inc-dot-mega-microgame$"
+  },
+  {
+   "title": "Yoshi's Island: Super Mario Advance 3",
+   "platform": "GBA",
+   "format": "digital",
+   "added": "2026-10-08",
+   "igdb": "yoshis-island-super-mario-advance-3"
+  },
+  {
+   "title": "Advance Wars: Days of Ruin",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "advance-wars-days-of-ruin"
+  },
+  {
+   "title": "Advance Wars: Dual Strike",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "advance-wars-dual-strike"
+  },
+  {
+   "title": "Aliens Infestation",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "aliens-infestation"
+  },
+  {
+   "title": "Animal Crossing: Wild World",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "animal-crossing-wild-world"
+  },
+  {
+   "title": "Anno Create a New World",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29"
+  },
+  {
+   "title": "Anno 1701",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "anno-1701"
+  },
+  {
+   "title": "Avalon Code",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "avalon-code"
+  },
+  {
+   "title": "Bangai-O Spirits",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "bangai-o-spirits"
+  },
+  {
+   "title": "Bomberman Land Touch!",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "bomberman-land-touch"
+  },
+  {
+   "title": "Castlevania: Dawn of Sorrow",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "castlevania-dawn-of-sorrow"
+  },
+  {
+   "title": "Castlevania: Order of Ecclesia",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "castlevania-order-of-ecclesia"
+  },
+  {
+   "title": "Castlevania: Portrait of Ruin",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "castlevania-portrait-of-ruin"
+  },
+  {
+   "title": "Chibi-Robo!: Park Patrol",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "chibi-robo-park-patrol"
+  },
+  {
+   "title": "Contact",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "contact"
+  },
+  {
+   "title": "Contra 4",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "contra-4"
+  },
+  {
+   "title": "Cooking Mama",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "cooking-mama"
+  },
+  {
+   "title": "Cooking Mama 2: Dinner with Friends",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "cooking-mama-2-dinner-with-friends"
+  },
+  {
+   "title": "Cooking Mama 3: Shop & Chop",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "cooking-mama-3-shop-chop"
+  },
+  {
+   "title": "Crash: Mind over Mutant",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "crash-mind-over-mutant--1"
+  },
+  {
+   "title": "Dementium: The Ward",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dementium-the-ward"
+  },
+  {
+   "title": "Dig Dug: Digging Strike",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dig-dug-digging-strike"
+  },
+  {
+   "title": "Digimon World DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "digimon-world-ds"
+  },
+  {
+   "title": "Disgaea DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29"
+  },
+  {
+   "title": "Dragon Quest Heroes: Rocket Slime",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dragon-quest-heroes-rocket-slime"
+  },
+  {
+   "title": "dragon quest iv chapters of the chosen",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29"
+  },
+  {
+   "title": "Dragon Quest IX",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dragon-quest-ix-sentinels-of-the-starry-skies"
+  },
+  {
+   "title": "Dragon Quest Monsters: Joker",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dragon-quest-monsters-joker"
+  },
+  {
+   "title": "Dragon Quest Monsters: Joker 2",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "dragon-quest-monsters-joker-2"
+  },
+  {
+   "title": "dragon quest v hand of the heavenly bride",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29"
+  },
+  {
+   "title": "dragon quest vi realms of revelation",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29"
+  },
+  {
+   "title": "Elite Beat Agents",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "elite-beat-agents"
+  },
+  {
+   "title": "Etrian Odyssey",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "etrian-odyssey"
+  },
+  {
+   "title": "Etrian Odyssey II",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "etrian-odyssey-ii-heroes-of-lagaard"
+  },
+  {
+   "title": "Etrian Odyssey III",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "etrian-odyssey-iii-the-drowned-city"
+  },
+  {
+   "title": "Final Fantasy III",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "final-fantasy-iii"
+  },
+  {
+   "title": "Final Fantasy IV",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "final-fantasy-iv"
+  },
+  {
+   "title": "Final Fantasy Tactics A2: Grimoire of the Rift",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "final-fantasy-tactics-a2-grimoire-of-the-rift"
+  },
+  {
+   "title": "Fire Emblem: Shadow Dragon",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "fire-emblem-shadow-dragon"
+  },
+  {
+   "title": "Geometry Wars: Galaxies",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "geometry-wars-galaxies"
+  },
+  {
+   "title": "Golden Sun: Dark Dawn",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "golden-sun-dark-dawn"
+  },
+  {
+   "title": "Grand Theft Auto: Chinatown Wars",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "grand-theft-auto-chinatown-wars"
+  },
+  {
+   "title": "Harvest Moon DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "harvest-moon-ds"
+  },
+  {
+   "title": "harvest moon the tale of two towns",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29"
+  },
+  {
+   "title": "Hotel Dusk: Room 215",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "hotel-dusk-room-215"
+  },
+  {
+   "title": "Kingdom Hearts 358/2 Days",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "kingdom-hearts-358-2-days"
+  },
+  {
+   "title": "Kirby: Canvas Curse",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "kirby-canvas-curse"
+  },
+  {
+   "title": "Kirby: Squeak Squad",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "kirby-squeak-squad"
+  },
+  {
+   "title": "Kirby Mass Attack",
+   "platform": "DS",
+   "format": "physical",
+   "added": "2026-10-29",
+   "igdb": "kirby-mass-attack"
+  },
+  {
+   "title": "Kirby Super Star Ultra",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "kirby-super-star-ultra"
+  },
+  {
+   "title": "Last Window: The Secret of Cape West",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "last-window-the-secret-of-cape-west"
+  },
+  {
+   "title": "The Legend of Zelda: Phantom Hourglass",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "the-legend-of-zelda-phantom-hourglass"
+  },
+  {
+   "title": "The Legend of Zelda: Spirit Tracks",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "the-legend-of-zelda-spirit-tracks"
+  },
+  {
+   "title": "Lufia: Curse of the Sinistrals",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "lufia-curse-of-the-sinistrals"
+  },
+  {
+   "title": "Lunar Knights",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "lunar-knights"
+  },
+  {
+   "title": "Mario & Luigi: Partners in Time",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "mario-luigi-partners-in-time"
+  },
+  {
+   "title": "Mario & Sonic at the Olympic Winter Games",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "mario-and-sonic-at-the-olympic-winter-games--1"
+  },
+  {
+   "title": "Mario Kart DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "mario-kart-ds"
+  },
+  {
+   "title": "Mario Party DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "mario-party-ds"
+  },
+  {
+   "title": "mario vs donkey kong mini-land mayhem!",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29"
+  },
+  {
+   "title": "Mario vs. Donkey Kong 2: March of the Minis",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "mario-vs-donkey-kong-2-march-of-the-minis"
+  },
+  {
+   "title": "Meteos",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "meteos"
+  },
+  {
+   "title": "Metroid Prime Hunters",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "metroid-prime-hunters"
+  },
+  {
+   "title": "Might & Magic: Clash of Heroes",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "might-and-magic-clash-of-heroes"
+  },
+  {
+   "title": "Moon",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "moon"
+  },
+  {
+   "title": "N+",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "n-plus"
+  },
+  {
+   "title": "Nanostray",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "nanostray"
+  },
+  {
+   "title": "Nanostray 2",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "nanostray-2"
+  },
+  {
+   "title": "New Super Mario Bros.",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "new-super-mario-bros"
+  },
+  {
+   "title": "Nine Hours, Nine Persons, Nine Doors",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "nine-hours-nine-persons-nine-doors"
+  },
+  {
+   "title": "Ninja Gaiden: Dragon Sword",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "ninja-gaiden-dragon-sword"
+  },
+  {
+   "title": "Ninjatown",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "ninjatown"
+  },
+  {
+   "title": "Nostalgia",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "nostalgia"
+  },
+  {
+   "title": "Ōkamiden",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "okamiden"
+  },
+  {
+   "title": "Peggle: Dual Shot",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "peggle-dual-shot"
+  },
+  {
+   "title": "Phoenix Wright: Ace Attorney",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "phoenix-wright-ace-attorney"
+  },
+  {
+   "title": "Phoenix Wright: Ace Attorney – Justice for All",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "phoenix-wright-ace-attorney-justice-for-all"
+  },
+  {
+   "title": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations"
+  },
+  {
+   "title": "Picross 3D",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "picross-3d"
+  },
+  {
+   "title": "Picross DS",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "picross-ds"
+  },
+  {
+   "title": "Planet Puzzle League",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "planet-puzzle-league"
+  },
+  {
+   "title": "Pokémon Black and White",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-black-version"
+  },
+  {
+   "title": "Pokémon Black 2 and White 2",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-white-version-2"
+  },
+  {
+   "title": "Pokémon Diamond and Pearl",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-diamond-version"
+  },
+  {
+   "title": "Pokémon Platinum",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-platinum-version"
+  },
+  {
+   "title": "Pokémon Conquest",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-conquest"
+  },
+  {
+   "title": "Pokémon Mystery Dungeon: Blue Rescue Team",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-mystery-dungeon-blue-rescue-team"
+  },
+  {
+   "title": "Pokémon Mystery Dungeon: Explorers of Darkness",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-mystery-dungeon-explorers-of-darkness"
+  },
+  {
+   "title": "Pokémon Mystery Dungeon: Explorers of Sky",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-mystery-dungeon-explorers-of-sky"
+  },
+  {
+   "title": "Pokémon Mystery Dungeon: Explorers of Time",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "pokemon-mystery-dungeon-explorers-of-time"
+  },
+  {
+   "title": "Professor Layton and the Diabolical Box",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "professor-layton-and-the-diabolical-box"
+  },
+  {
+   "title": "Professor Layton and the Last Specter",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "professor-layton-and-the-last-specter"
+  },
+  {
+   "title": "Radiant Historia",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "radiant-historia"
+  },
+  {
+   "title": "Retro Game Challenge",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "retro-game-challenge"
+  },
+  {
+   "title": "Rhapsody: A Musical Adventure",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "rhapsody-a-musical-adventure"
+  },
+  {
+   "title": "Rhythm Heaven",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "rhythm-heaven"
+  },
+  {
+   "title": "Rune Factory: A Fantasy Harvest Moon",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "rune-factory-a-fantasy-harvest-moon"
+  },
+  {
+   "title": "Rune Factory 2",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "rune-factory-2-a-fantasy-harvest-moon"
+  },
+  {
+   "title": "Rune Factory 3",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "rune-factory-3-a-fantasy-harvest-moon"
+  },
+  {
+   "title": "Scribblenauts",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "scribblenauts"
+  },
+  {
+   "title": "Shin Megami Tensei: Devil Survivor",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "shin-megami-tensei-devil-survivor"
+  },
+  {
+   "title": "Shin Megami Tensei: Devil Survivor 2",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "shin-megami-tensei-devil-survivor-2"
+  },
+  {
+   "title": "Shin Megami Tensei: Strange Journey",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "shin-megami-tensei-strange-journey"
+  },
+  {
+   "title": "Sonic Rush",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "sonic-rush"
+  },
+  {
+   "title": "Sonic Rush Adventure",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "sonic-rush-adventure"
+  },
+  {
+   "title": "Soul Bubbles",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "soul-bubbles"
+  },
+  {
+   "title": "Super Dodgeball Brawlers",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "super-dodgeball-brawlers"
+  },
+  {
+   "title": "Super Princess Peach",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "super-princess-peach"
+  },
+  {
+   "title": "Super Scribblenauts",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "super-scribblenauts"
+  },
+  {
+   "title": "Tales of Innocence",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "tales-of-innocence"
+  },
+  {
+   "title": "Tetris DS",
+   "platform": "DS",
+   "format": "physical",
+   "added": "2026-10-29",
+   "igdb": "tetris-ds"
+  },
+  {
+   "title": "Tony Hawk's American Sk8land",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "tony-hawk-s-american-sk8land"
+  },
+  {
+   "title": "Trauma Center: Under the Knife 2",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "trauma-center-under-the-knife-2"
+  },
+  {
+   "title": "Viva Piñata: Pocket Paradise",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "viva-pinata-pocket-paradise"
+  },
+  {
+   "title": "WarioWare D.I.Y.",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "warioware-d-i-y"
+  },
+  {
+   "title": "WarioWare: Touched!",
+   "platform": "DS",
+   "format": "digital",
+   "added": "2026-10-29",
+   "igdb": "warioware-touched"
+  },
+  {
+   "title": "Fire Emblem Echoes: Shadows of Valentia",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Fire Emblem Fates: Birthright",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Fire Emblem Fates: Conquest",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Persona Q2: New Cinema Labyrinth",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Persona Q: Shadow of the Labyrinth",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Monster Hunter 4 Ultimate",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Monster Hunter Generations",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Professor Layton and the Azran Legacy",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Professor Layton and the Miracle Mask",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Pokémon Super Mystery Dungeon",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02",
+   "igdb": "pokemon-super-mystery-dungeon--1"
+  },
+  {
+   "title": "Pokémon X",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Pokémon Y",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Pokémon Ultra Moon",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Pokémon Ultra Sun",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Phoenix Wright: Ace Attorney - Dual Destinies",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Shin Megami Tensei IV: Apocalypse",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Shin Megami Tensei: Strange Journey Redux",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Shin Megami Tensei: Devil Survivor Overclocked",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario & Luigi: Dream Team",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Story of Seasons: Trio of Towns",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Captain Toad: Treasure Tracker",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Xenoblade Chronicles 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Super Smash Bros. for Nintendo 3DS",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Bravely Second: End Layer",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Pilotwings Resort",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tom Clancy's Ghost Recon Shadow Wars",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tom Clancy's Splinter Cell 3D",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tales of the Abyss",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario vs. Donkey Kong: Tipping Stars",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Rune Factory 4",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Hyrule Warriors Legends",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario Tennis Open",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Code Name: S.T.E.A.M.",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "WarioWare Gold",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Fluidity: Spin Cycle",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Little Battlers eXperience",
+   "platform": "3DS",
+   "format": "digital",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Alice: Madness Returns",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Asura's Wrath",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Dante's Inferno",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Dead Space 2",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Dead Space 3",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Elder Scrolls IV: Oblivion 5th Anniversary Edition",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Fallout 3",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Folklore",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "God of War: Ascension",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "God of War Collection",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Guitar Hero III: Legends of Rock",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Heavenly Sword",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Hitman HD Trilogy",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Ico & Shadow of the Colossus Collection",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Killzone 2",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "NieR",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Prince of Persia: The Forgotten Sands",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Puppeteer",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Ratchet & Clank Future: Tools of Destruction",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Ratchet & Clank: Into the Nexus",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Ratchet & Clank Future: Quest for Booty",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Ratchet & Clank Future: A Crack in Time",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Resistance: Fall of Man",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Silent Hill HD Collection",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "SingStar Vol. 3",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Siren: Blood Curse",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tales of Xillia 2",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tales of Xillia",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tales of Symphonia Chronicles",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tales of Graces f",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Orange Box",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tokyo Jungle",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Tomb Raider Trilogy",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Valkyria Chronicles",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Wolfenstein",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Yakuza: Dead Souls",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "inFamous 2",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Braid",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "LittleBigPlanet",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mirror's Edge",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Ratchet & Clank",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "inFamous",
+   "platform": "PS3",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Animal Crossing: City Folk",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Boom Blox",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Disaster: Day of Crisis",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Escape from Bug Island",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Fire Emblem: Radiant Dawn",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Ghost Squad",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Just Dance 4",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Kirby's Return to Dream Land",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario & Sonic at the London 2012 Olympic Games",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario & Sonic at the Olympic Games",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario Kart Wii",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario Party 8",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Metroid Prime Trilogy",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Michael Jackson: The Experience",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mini Ninjas",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "New Super Mario Bros. Wii",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "No More Heroes",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "No More Heroes 2: Desperate Struggle",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "New Play Control! Pikmin",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "New Play Control! Pikmin 2",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Punch-Out!!",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Rabbids Go Home",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Rayman Raving Rabbids",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Rayman Raving Rabbids 2",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Rhythm Heaven Fever",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Rune Factory Frontier",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Rune Factory: Tides of Destiny",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Sin & Punishment: Star Successor",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Super Mario All-Stars 25th Anniversary Edition",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02",
+   "igdb": "super-mario-all-stars-limited-edition"
+  },
+  {
+   "title": "Super Mario Galaxy",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Super Mario Galaxy 2",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Super Paper Mario",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Super Smash Bros. Brawl",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Tetris Party Deluxe",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Legend of Zelda: Skyward Sword",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Legend of Zelda: Twilight Princess",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Wario Land: Shake It!",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "WarioWare: Smooth Moves",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Wii Party",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Wii Sports Resort",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Zack & Wiki: Quest for Barbaros' Treasure",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Okami",
+   "platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Fire Emblem: Path of Radiance",
+   "platform": "GameCube",
+   "also_platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Legend of Zelda: The Wind Waker",
+   "platform": "GameCube",
+   "also_platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Mario Party 4",
+   "platform": "GameCube",
+   "also_platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Paper Mario: The Thousand-Year Door",
+   "platform": "GameCube",
+   "also_platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Super Mario Sunshine",
+   "platform": "GameCube",
+   "also_platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "The Legend of Zelda: Four Swords Adventures",
+   "platform": "GameCube",
+   "also_platform": "Wii",
+   "format": "physical",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "Resident Evil 4",
+   "platform": "PS5",
+   "format": "physical",
+   "added": "2026-11-03",
+   "igdb": "resident-evil-4--1"
   }
+ ],
+ "match": {
+  "batman": "batman-the-telltale-series",
+  "kingdom hearts vr experience": "kingdom-hearts-vr-experience",
+  "sonic classic collection ds": "sonic-classic-collection",
+  "profeddor layton and the last specter": "professor-layton-and-the-last-specter",
+  "yo kai watch 2": "yo-kai-watch-2-fleshy-souls",
+  "dantes inferno": "dante-s-inferno",
+  "code realize guardian of rebirth": "code-realize-guardian-of-rebirth",
+  "bit trip limited edition": "the-bit-dot-trip",
+  "2 xtreme": "2xtreme--2",
+  "a train exp": "the-train-giant",
+  "a train express": "the-train-giant",
+  "alone in the dark 2": "alone-in-the-dark-2",
+  "alone in the dark 2 1996": "alone-in-the-dark-2",
+  "ape escape p": "ape-escape-pumped-and-primed--1",
+  "armored core": "armored-core",
+  "hollow knight voidheart edition": "hollow-knight",
+  "farcry 6": "far-cry-6",
+  "jet rider 2": "jet-moto-2",
+  "mystic pillars 10 kantara": "mystic-pillars",
+  "sly raccoon": "sly-cooper-and-the-thievius-raccoonus",
+  "soccer": "soccer--2",
+  "nobunagas ambition lord of darkness": "nobunagas-ambition-bushou-fuunroku",
+  "planet zoo": "planet-zoo-console-edition",
+  "until dawn 2015": "until-dawn",
+  "death end request": "death-end-re-quest",
+  "new monopoly": "monopoly--19",
+  "wrc generations the fia wrc official game": "wrc-generations",
+  "pac man": "pac-man--5",
+  "disneypixar wall e": "wall-e--7",
+  "key of heaven": "kingdom-of-paradise",
+  "summoner ps 2 emulation 2000": "summoner",
+  "disneypixar up": "up--4",
+  "kunio kun no dodgeball da yo zen in shugo": "kunios-dodgeball-time-cmon-guys",
+  "musha": "m-u-s-h-a",
+  "battletoads double dragon": "battletoads-slash-double-dragon",
+  "lilo and stitch": "disneys-lilo-and-stitch",
+  "motoracer advance": "moto-racer-advance",
+  "utchan nanchan no hono no challenger denryuu ira ira bou": "ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou",
+  "go for it goemon the twinkling journey the reason i became a dancer": "ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake",
+  "hammer lock wrestling": "tenryu-genichiro-no-pro-wrestling-revolution",
+  "jim lees wildc a t s covert action teams": "jim-lees-wild-c-dot-a-t-dot-s-covert-action-teams",
+  "knights of the round": "knights-of-the-round",
+  "mobile suit gundam wing endless duel": "shin-kidou-senki-gundam-wing-endless-duel",
+  "mysterious dungeon 2 shiren the wanderer": "fushigi-no-dungeon-2-fuurai-no-shiren",
+  "ninjawarriors": "the-ninja-warriors",
+  "s o s sink or swim": "man-overboard",
+  "torneco no daibouken fushigi no dungeon": "fushigi-no-dungeon-torneko-no-daibouken",
+  "tetris": "tetris--1"
+ },
+ "sent": {
+  "steam": {
+   "igdb:158983": {
+    "from": "Switch 2",
+    "why": "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played.",
+    "date": "2026-10-30T18:59:03.436Z"
+   }
+  }
+ },
+ "suggest": {
+  "vr": {
+   "slots": [
+    {
+     "key": "igdb:49875",
+     "best": "igdb:135999",
+     "why": [
+      "Play this game to get to the amazing Tetris Effect: Connected (88). It's the earliest Tetris game you haven't played.",
+      "Not on this console: Switch Online (Switch + Game Boy)",
+      "A change of genre: Puzzle, Strategy",
+      "Shorter than what you're playing: about 1.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:83731",
+     "best": "igdb:83731",
+     "why": [
+      "Top-rated game you haven't played (average 84)",
+      "A change of genre: Music, Sport",
+      "Shorter than what you're playing: about 24.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1545",
+     "best": "igdb:26195",
+     "why": [
+      "Play this game to get to the amazing WipEout: Omega Collection (84). It's the earliest entry in the series you haven't played.",
+      "Not on this console: you have it on PS Vita",
+      "A change of genre: Racing",
+      "Shorter than what you're playing: about 14.5h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:49875",
+    "igdb:83731",
+    "igdb:1545"
+   ],
+   "date": "2026-10-30T13:24:27.170Z"
+  },
+  "steam": {
+   "slots": [
+    {
+     "key": "igdb:158983",
+     "best": "igdb:158983",
+     "why": [
+      "Sent here from your Switch 2 suggestions",
+      "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played."
+     ],
+     "sent": true
+    },
+    {
+     "key": "igdb:231",
+     "best": "igdb:233",
+     "why": [
+      "Play this game to get to the amazing Half-Life 2 (90). It's the earliest Half-Life game you haven't played.",
+      "Shorter than what you're playing: about 14h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:28981",
+     "best": "igdb:28981",
+     "why": [
+      "Top-rated game you haven't played (average 86)",
+      "A change of genre: RTS, Strategy",
+      "Shorter than what you're playing: about 24h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:158983",
+    "igdb:231",
+    "igdb:28981"
+   ],
+   "date": "2026-10-30T18:35:08.776Z"
+  },
+  "ps5": {
+   "slots": [
+    {
+     "key": "igdb:86490",
+     "best": "igdb:135999",
+     "why": [
+      "Play this game to get to the amazing Tetris Effect: Connected (88). It's the earliest Tetris game you haven't played.",
+      "Not on this console: Switch Online (Switch + Game Boy)",
+      "A change of genre: Puzzle",
+      "Shorter than what you're playing: about 5.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:18696",
+     "best": "igdb:18699",
+     "why": [
+      "Play this game to get to the amazing R4: Ridge Racer Type 4 (87). It's the earliest entry in the series you haven't played.",
+      "A change of genre: Racing",
+      "Shorter than what you're playing: about 2.5h to beat",
+      "Included with PS Plus"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:170995",
+     "best": "igdb:103298",
+     "why": [
+      "Play this game to get to the amazing Doom Eternal (86). It's the earliest entry in the series you haven't played.",
+      "A change of genre: Shooter",
+      "Shorter than what you're playing: about 10h to beat",
+      "Included with PS Plus"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:86490",
+    "igdb:18696",
+    "igdb:170995"
+   ],
+   "date": "2026-11-03T07:34:26.569Z"
+  },
+  "ps3": {
+   "slots": [
+    {
+     "key": "igdb:376",
+     "best": "igdb:376",
+     "why": [
+      "Top-rated game you haven't played (average 91)",
+      "Shorter than what you're playing: about 15.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1798",
+     "best": "igdb:7458",
+     "why": [
+      "Play this game to get to the amazing The Sly Collection (84). It's the earliest entry in the series you haven't played.",
+      "Not on this console: in the PS Plus catalog (PS4, PS5, PS2)",
+      "Shorter than what you're playing: about 7.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:117882",
+     "best": "igdb:117882",
+     "why": [
+      "Top-rated game you haven't played (average 82)",
+      "Shorter than what you're playing: about 11h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:376",
+    "igdb:1798",
+    "igdb:117882"
+   ],
+   "date": "2026-10-30T18:35:37.992Z"
+  },
+  "vita": {
+   "slots": [
+    {
+     "key": "igdb:1384",
+     "best": "igdb:1384",
+     "why": [
+      "Top-rated game you haven't played (average 84)",
+      "A change of genre: Shooter, Indie",
+      "Shorter than what you're playing: about 7.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:7812",
+     "best": "igdb:7812",
+     "why": [
+      "Top-rated game you haven't played (average 81)",
+      "A change of genre: Music, RTS",
+      "Shorter than what you're playing: about 19h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1459",
+     "best": "igdb:1461",
+     "why": [
+      "Play this game to get to the amazing LocoRoco 2 (85). It's the earliest entry in the series you haven't played.",
+      "Shorter than what you're playing: about 9h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:1384",
+    "igdb:7812",
+    "igdb:1459"
+   ],
+   "date": "2026-10-30T18:35:48.351Z"
+  },
+  "switch2": {
+   "slots": [
+    {
+     "key": "igdb:3490",
+     "best": "igdb:3492",
+     "why": [
+      "Play this game to get to the amazing F-Zero GX (86). It's the earliest F-Zero game you haven't played.",
+      "A change of genre: Racing",
+      "About 4h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1439",
+     "best": "igdb:366896",
+     "why": [
+      "Play this game to get to the amazing Fire Emblem: Fortune's Weave (88). It's the earliest Fire Emblem game you haven't played.",
+      "Not on this console: you have it on GBA",
+      "A change of genre: RPG, Strategy",
+      "A longer one this time: about 33.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:80174",
+     "best": "igdb:80174",
+     "why": [
+      "Top-rated game you haven't played (average 79)",
+      "A change of genre: Puzzle",
+      "A longer one this time: about 30.5h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:158983",
+    "igdb:1439",
+    "igdb:71976",
+    "igdb:207026",
+    "igdb:3490",
+    "igdb:80174"
+   ],
+   "date": "2026-11-02T15:24:57.551Z"
+  },
+  "ds": {
+   "slots": [
+    {
+     "key": "igdb:1398",
+     "best": "igdb:1399",
+     "why": [
+      "Play this game to get to the amazing Professor Layton and the Unwound Future (88). It's the earliest Professor Layton game you haven't played.",
+      "A change of genre: Point-and-click, Puzzle",
+      "Shorter than what you're playing: about 15h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:2345",
+     "best": "igdb:2345",
+     "why": [
+      "Top-rated game you haven't played (average 85)",
+      "A change of genre: Racing, Arcade",
+      "Shorter than what you're playing: about 10.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:8167",
+     "best": "igdb:8167",
+     "why": [
+      "Top-rated game you haven't played (average 85)",
+      "A change of genre: Music",
+      "Shorter than what you're playing: about 11h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:1398",
+    "igdb:2332",
+    "igdb:8167",
+    "igdb:2345"
+   ],
+   "date": "2026-10-30T18:59:29.208Z"
+  },
+  "3ds": {
+   "slots": [
+    {
+     "key": "igdb:1439",
+     "best": "igdb:1443",
+     "why": [
+      "Play this game to get to the amazing Fire Emblem Awakening (87). It's the earliest Fire Emblem game you haven't played.",
+      "Not on this console: you have it on GBA",
+      "A change of genre: RPG, Strategy",
+      "A longer one this time: about 33.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:2645",
+     "best": "igdb:2687",
+     "why": [
+      "Play this game to get to the amazing Animal Crossing: New Leaf (86). It's the earliest Animal Crossing game you haven't played.",
+      "Not on this console: you have it on DS",
+      "A change of genre: Simulator",
+      "A longer one this time: about 119h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:9543",
+     "best": "igdb:6614",
+     "why": [
+      "Play this game to get to the amazing Zero Escape: Virtue's Last Reward (85). It's the earliest entry in the series you haven't played.",
+      "Not on this console: you have it on DS",
+      "About 17h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:1439",
+    "igdb:2645",
+    "igdb:9543"
+   ],
+   "date": "2026-10-30T18:59:35.210Z"
+  }
+ }
 }
