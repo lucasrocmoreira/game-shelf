@@ -387,7 +387,9 @@ def metadata_of(game) -> dict:
     franchises = _names(g.get("franchises"))
     if isinstance(g.get("franchise"), dict) and g["franchise"].get("name") and g["franchise"]["name"] not in franchises:
         franchises.insert(0, g["franchise"]["name"])
-    franchises = [f for f in franchises if franchise_ok(g, f, len(franchises))] or franchises[:1]
+    kept = [f for f in franchises if franchise_ok(g, f, len(franchises))]
+    removed = FRANCHISE_REMOVE.get(g.get("id"), ())
+    franchises = kept or [f for f in franchises[:1] if f not in removed]
     series = _names(g.get("collections")) or _names([g.get("collection")] if isinstance(g.get("collection"), dict) else [])
     devs, pubs = [], []
     for ic in g.get("involved_companies") or []:
