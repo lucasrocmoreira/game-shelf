@@ -211,6 +211,9 @@
  "an-american-tail-fievel-goes-west": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
+ "animal-crossing-city-folk": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "animal-crossing-new-leaf": {
   "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 7228
@@ -717,6 +720,9 @@
  },
  "bonkers": {
   "checked": "2026-11-02T09:53:32+00:00"
+ },
+ "boom-blox": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "borderlands-2": {
   "checked": "2026-10-08T03:51:23+00:00",
@@ -1451,6 +1457,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10252
  },
+ "disaster-day-of-crisis": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "disco-elysium-the-final-cut": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 11148
@@ -1877,6 +1886,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 8152
  },
+ "escape-from-bug-island": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "eswat-city-under-siege": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
@@ -2192,6 +2204,9 @@
  "fire-emblem-path-of-radiance": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
+ "fire-emblem-radiant-dawn": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "fire-emblem-shadow-dragon": {
   "checked": "2026-10-07T21:36:14+00:00"
  },
@@ -2385,6 +2400,9 @@
  "ghost-signal-a-stellaris-game": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 14478
+ },
+ "ghost-squad": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "ghost-trick-phantom-detective": {
   "checked": "2026-10-07T21:36:14+00:00",
@@ -3025,6 +3043,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 8486
  },
+ "just-dance-4": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "ka-blooey": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
@@ -3188,6 +3209,9 @@
  "kirby-triple-deluxe": {
   "checked": "2026-10-08T03:04:44+00:00",
   "opencritic_id": 2359
+ },
+ "kirbys-return-to-dream-land": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "klonoa-2-dream-champ-tournament": {
   "checked": "2026-11-02T08:49:05+00:00"
@@ -3514,6 +3538,9 @@
   "checked": "2026-10-08T03:02:44+00:00",
   "opencritic_id": 4959
  },
+ "mario-and-sonic-at-the-olympic-games": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "mario-and-sonic-at-the-olympic-winter-games--1": {
   "checked": "2026-10-29T22:15:26+00:00"
  },
@@ -3547,6 +3574,9 @@
  "mario-kart-super-circuit": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
+ "mario-kart-wii": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "mario-kart-world": {
   "checked": "2026-10-07T06:01:50+00:00",
   "opencritic_id": 18333
@@ -3575,11 +3605,20 @@
  "mario-party-3": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
+ "mario-party-4": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
+ "mario-party-8": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "mario-party-ds": {
   "checked": "2026-10-29T22:15:26+00:00"
  },
  "mario-pinball-land": {
   "checked": "2026-11-02T08:49:05+00:00"
+ },
+ "mario-sonic-at-the-london-2012-olympic-games": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "mario-tennis": {
   "checked": "2026-11-01T00:33:39+00:00"
@@ -3879,6 +3918,9 @@
  "metroid-prime-hunters": {
   "checked": "2026-10-29T22:15:26+00:00"
  },
+ "metroid-prime-trilogy": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "metroid-samus-returns": {
   "checked": "2026-10-08T02:55:43+00:00",
   "opencritic_id": 4498
@@ -3947,6 +3989,9 @@
  "minecraft-legends": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 14349
+ },
+ "mini-ninjas": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "mirror-s-edge": {
   "checked": "2026-10-07T01:08:00+00:00"
@@ -4198,6 +4243,9 @@
  "new-super-mario-bros-2": {
   "checked": "2026-10-08T03:06:40+00:00"
  },
+ "new-super-mario-bros-wii": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "nhl-94": {
   "checked": "2026-11-02T14:41:22+00:00"
  },
@@ -4275,6 +4323,14 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 2393
  },
+ "no-more-heroes": {
+  "checked": "2026-11-03T04:38:11+00:00",
+  "opencritic_id": 10455
+ },
+ "no-more-heroes-2-desperate-struggle": {
+  "checked": "2026-11-03T04:38:11+00:00",
+  "opencritic_id": 10473
+ },
  "no-more-heroes-iii": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 11616
@@ -4351,6 +4407,9 @@
  },
  "okage-shadow-king": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "okami": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "okamiden": {
   "checked": "2026-10-07T21:28:53+00:00"
@@ -4463,6 +4522,9 @@
  },
  "paper-mario": {
   "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "paper-mario-the-thousand-year-door": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "papers-please": {
   "checked": "2026-10-08T03:51:23+00:00",
@@ -4604,6 +4666,12 @@
  },
  "picross-ds": {
   "checked": "2026-10-07T21:28:53+00:00"
+ },
+ "pikmin--2": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
+ "pikmin-2--4": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "pile-up-box-by-box": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -4897,6 +4965,9 @@
  "pulseman": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
+ "punch-out": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "puppeteer": {
   "checked": "2026-11-03T04:23:46+00:00"
  },
@@ -4946,6 +5017,9 @@
  "r4-ridge-racer-type-4--1": {
   "checked": "2026-10-28T05:02:28+00:00",
   "opencritic_id": 14472
+ },
+ "rabbids-go-home": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "rabbids-invasion-the-interactive-tv-show": {
   "checked": "2026-10-28T05:02:25+00:00"
@@ -5032,6 +5106,12 @@
  },
  "rayman-origins": {
   "checked": "2026-10-08T03:09:56+00:00"
+ },
+ "rayman-raving-rabbids": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
+ "rayman-raving-rabbids-2": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "rc-pro-am": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -5157,6 +5237,9 @@
  },
  "rhythm-heaven": {
   "checked": "2026-10-29T22:26:48+00:00"
+ },
+ "rhythm-heaven-fever": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "rhythm-heaven-megamix": {
   "checked": "2026-10-08T02:58:42+00:00"
@@ -5301,6 +5384,12 @@
  },
  "rune-factory-a-fantasy-harvest-moon": {
   "checked": "2026-10-29T22:26:48+00:00"
+ },
+ "rune-factory-frontier": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
+ "rune-factory-tides-of-destiny": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "runescape-dragonwilds": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -5542,6 +5631,9 @@
  },
  "sin-and-punishment": {
   "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "sin-punishment-star-successor": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "singstar--2": {
   "checked": "2026-10-07T01:52:01+00:00"
@@ -6107,6 +6199,12 @@
  "super-mario-bros-3": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "super-mario-galaxy": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
+ "super-mario-galaxy-2": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "super-mario-kart": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -6153,6 +6251,9 @@
  "super-off-road--3": {
   "checked": "2026-11-02T14:43:38+00:00"
  },
+ "super-paper-mario": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "super-princess-peach": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
@@ -6182,6 +6283,9 @@
  },
  "super-smash-bros": {
   "checked": "2026-11-02T09:53:32+00:00"
+ },
+ "super-smash-bros-brawl": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "super-smash-bros-for-nintendo-3ds": {
   "checked": "2026-11-03T04:11:09+00:00"
@@ -6447,6 +6551,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 10254
  },
+ "tetris-party-deluxe": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "tetrisphere": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
@@ -6637,6 +6744,9 @@
   "checked": "2026-10-07T05:58:30+00:00",
   "opencritic_id": 1548
  },
+ "the-legend-of-zelda-four-swords-adventures": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "the-legend-of-zelda-link-s-awakening-dx": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
@@ -6665,6 +6775,9 @@
  "the-legend-of-zelda-phantom-hourglass": {
   "checked": "2026-10-07T21:32:53+00:00"
  },
+ "the-legend-of-zelda-skyward-sword": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "the-legend-of-zelda-spirit-tracks": {
   "checked": "2026-10-29T22:13:34+00:00"
  },
@@ -6676,6 +6789,9 @@
  },
  "the-legend-of-zelda-twilight-princess": {
   "checked": "2026-11-02T09:53:32+00:00"
+ },
+ "the-legend-of-zelda-twilight-princess--1": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "the-lego-movie-videogame": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -7380,6 +7496,9 @@
  "wario-land-4": {
   "checked": "2026-10-09T04:03:43+00:00"
  },
+ "wario-land-shake-it": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
  "wario-land-super-mario-land-3": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
@@ -7398,6 +7517,9 @@
  },
  "warioware-inc-dot-mega-microgame$": {
   "checked": "2026-10-09T04:03:43+00:00"
+ },
+ "warioware-smooth-moves": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "warioware-touched": {
   "checked": "2026-10-29T22:31:28+00:00"
@@ -7442,6 +7564,12 @@
  },
  "wheel-of-fortune--6": {
   "checked": "2026-10-28T05:02:27+00:00"
+ },
+ "wii-party": {
+  "checked": "2026-11-03T04:38:11+00:00"
+ },
+ "wii-sports-resort": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "wild-arms": {
   "checked": "2026-10-28T05:02:28+00:00",
@@ -7666,6 +7794,9 @@
  "ys-viii-lacrimosa-of-dana": {
   "checked": "2026-10-08T03:51:23+00:00",
   "opencritic_id": 4757
+ },
+ "zack-and-wiki-quest-for-barbaros-treasure--1": {
+  "checked": "2026-11-03T04:38:11+00:00"
  },
  "zelda-ii-the-adventure-of-link": {
   "checked": "2026-10-28T05:36:43+00:00",

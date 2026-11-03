@@ -501,6 +501,15 @@
   "opencritic_pct": 85,
   "opencritic_tier": "Strong"
  },
+ "igdb:1034": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:44+00:00",
+  "mc_v": 2,
+  "metacritic": 86,
+  "metacritic_slug": "the-legend-of-zelda-four-swords-adventures",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
  "igdb:103496": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -929,6 +938,24 @@
   "metacritic": 89,
   "metacritic_slug": "new-super-mario-bros",
   "oc_checked": "2026-10-12T19:50:12+00:00"
+ },
+ "igdb:1077": {
+  "backloggd": 4.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:39+00:00",
+  "mc_v": 2,
+  "metacritic": 97,
+  "metacritic_slug": "super-mario-galaxy",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
+ "igdb:1078": {
+  "backloggd": 4.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:41+00:00",
+  "mc_v": 2,
+  "metacritic": 98,
+  "metacritic_slug": "super-mario-galaxy-2",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:1079": {
   "backloggd": 3.6,
@@ -1448,6 +1475,15 @@
   "opencritic_id": 2843,
   "opencritic_pct": 89,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:1112": {
+  "backloggd": 4.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:23+00:00",
+  "mc_v": 2,
+  "metacritic": 91,
+  "metacritic_slug": "metroid-prime-trilogy",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:11123": {
   "backloggd": 3.1,
@@ -3062,7 +3098,8 @@
   "checked": "2026-11-03T04:25:25+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:121242": {
   "backloggd": 3.2,
@@ -3092,7 +3129,8 @@
   "checked": "2026-11-03T04:25:23+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:1214": {
   "backloggd": 3.6,
@@ -3675,6 +3713,15 @@
   "opencritic_pct": 90,
   "opencritic_tier": "Mighty"
  },
+ "igdb:1271": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:36+00:00",
+  "mc_v": 2,
+  "metacritic": 93,
+  "metacritic_slug": "okami",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
  "igdb:127165": {
   "backloggd": 3.6,
   "bl_v": 2,
@@ -4226,6 +4273,15 @@
   "opencritic_id": 11382,
   "opencritic_pct": 100,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:134014": {
+  "backloggd": 4.3,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:58+00:00",
+  "mc_v": 2,
+  "metacritic": 95,
+  "metacritic_slug": "the-legend-of-zelda-twilight-princess",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:134070": {
   "backloggd": 3.8,
@@ -5666,6 +5722,15 @@
   "opencritic_pct": 34,
   "opencritic_tier": "Fair"
  },
+ "igdb:1442": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:38:49+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "fire-emblem-radiant-dawn",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
  "igdb:1443": {
   "backloggd": 4.0,
   "bl_v": 2,
@@ -5980,6 +6045,14 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:1468": {
+  "backloggd": 4.2,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:28+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "sin-punishment-star-successor"
  },
  "igdb:1469": {
   "backloggd": 3.4,
@@ -7250,6 +7323,15 @@
   "metacritic_slug": "super-smash-bros-melee",
   "oc_checked": "2026-11-02T21:03:01+00:00"
  },
+ "igdb:1628": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:49+00:00",
+  "mc_v": 2,
+  "metacritic": 93,
+  "metacritic_slug": "super-smash-bros-brawl",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
  "igdb:16288": {
   "backloggd": 2.9,
   "bl_v": 2,
@@ -7633,6 +7715,14 @@
   "opencritic_pct": 99,
   "opencritic_tier": "Mighty"
  },
+ "igdb:1702": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:01+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "wario-land-shake-it"
+ },
  "igdb:1703": {
   "backloggd": 3.9,
   "bl_v": 2,
@@ -7680,6 +7770,15 @@
   "metacritic": 81,
   "metacritic_slug": "warioware-touched",
   "oc_checked": "2026-10-30T01:07:29+00:00"
+ },
+ "igdb:1706": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:05+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "warioware-smooth-moves",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:1708": {
   "backloggd": 3.7,
@@ -9902,7 +10001,8 @@
   "checked": "2026-11-03T04:24:14+00:00",
   "mc_v": 2,
   "metacritic": 91,
-  "metacritic_slug": "god-of-war-collection"
+  "metacritic_slug": "god-of-war-collection",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:20081": {
   "backloggd": 3.4,
@@ -10326,7 +10426,8 @@
   "checked": "2026-11-03T04:25:31+00:00",
   "mc_v": 2,
   "metacritic": null,
-  "metacritic_slug": null
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:204460": {
   "backloggd": 2.9,
@@ -11005,6 +11106,14 @@
   "metacritic_slug": "mario-vs-donkey-kong-mini-land-mayhem",
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:21099": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:51+00:00",
+  "mc_v": 2,
+  "metacritic": 72,
+  "metacritic_slug": "tetris-party-deluxe"
+ },
  "igdb:211243": {},
  "igdb:2113": {
   "backloggd": 3.0,
@@ -11506,6 +11615,15 @@
   "metacritic_slug": "final-fantasy-iv-the-complete-collection",
   "oc_checked": "2026-10-20T15:08:54+00:00"
  },
+ "igdb:2178": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:28+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "new-super-mario-bros-wii",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
  "igdb:217909": {
   "backloggd": 4.3,
   "bl_v": 2,
@@ -11518,6 +11636,24 @@
   "opencritic_id": 18206,
   "opencritic_pct": 84,
   "opencritic_tier": "Strong"
+ },
+ "igdb:2182": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:11+00:00",
+  "mc_v": 2,
+  "metacritic": 80,
+  "metacritic_slug": "wii-sports-resort",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
+ "igdb:2183": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:17+00:00",
+  "mc_v": 2,
+  "metacritic": 82,
+  "metacritic_slug": "mario-kart-wii",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:218372": {},
  "igdb:21840": {
@@ -11586,6 +11722,15 @@
   "opencritic_pct": 31,
   "opencritic_tier": "Weak"
  },
+ "igdb:2189": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:07+00:00",
+  "mc_v": 2,
+  "metacritic": 68,
+  "metacritic_slug": "wii-party",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
  "igdb:21892": {
   "backloggd": 3.7,
   "bl_v": 2,
@@ -11609,6 +11754,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:2190": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:52+00:00",
+  "mc_v": 2,
+  "metacritic": 78,
+  "metacritic_slug": "rabbids-go-home"
+ },
  "igdb:21904": {
   "backloggd": 3.1,
   "bl_v": 2,
@@ -11626,6 +11779,15 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:19+00:00"
+ },
+ "igdb:2191": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:46+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "super-paper-mario",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:21911": {
   "backloggd": 3.6,
@@ -11648,6 +11810,33 @@
   "opencritic_id": 18961,
   "opencritic_pct": 83,
   "opencritic_tier": "Mighty"
+ },
+ "igdb:2192": {
+  "backloggd": 3.3,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:25+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "mini-ninjas",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
+ "igdb:2193": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:20+00:00",
+  "mc_v": 2,
+  "metacritic": 62,
+  "metacritic_slug": "mario-party-8",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
+ "igdb:2194": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:47+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:219442": {
   "backloggd": 3.0,
@@ -11845,6 +12034,22 @@
   "metacritic_slug": "prince-of-persia-revelations",
   "oc_checked": "2026-10-19T17:00:31+00:00"
  },
+ "igdb:2259": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:38:21+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "boom-blox"
+ },
+ "igdb:2264": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:15+00:00",
+  "mc_v": 2,
+  "metacritic": 87,
+  "metacritic_slug": "zack-wiki-quest-for-barbaros-treasure"
+ },
  "igdb:226521": {
   "backloggd": 4.1,
   "bl_v": 2,
@@ -11861,6 +12066,24 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-10-16T04:52:22+00:00"
+ },
+ "igdb:2272": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:31+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "no-more-heroes",
+  "oc_checked": "2026-11-03T04:41:44+00:00"
+ },
+ "igdb:2273": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:37+00:00",
+  "mc_v": 2,
+  "metacritic": 84,
+  "metacritic_slug": "no-more-heroes-2-desperate-struggle",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:22739": {
   "backloggd": 3.0,
@@ -11879,6 +12102,15 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:2277": {
+  "backloggd": 2.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:55+00:00",
+  "mc_v": 2,
+  "metacritic": 76,
+  "metacritic_slug": "rayman-raving-rabbids",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:22788": {
   "backloggd": 3.9,
@@ -12292,6 +12524,15 @@
   ],
   "steam_pct": 98,
   "steam_reviews": 280413
+ },
+ "igdb:2330": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:39+00:00",
+  "mc_v": 2,
+  "metacritic": 70,
+  "metacritic_slug": "mario-party-4",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:2332": {
   "backloggd": 2.9,
@@ -13951,6 +14192,15 @@
   "opencritic_pct": 16,
   "opencritic_tier": "Weak"
  },
+ "igdb:2688": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:38:13+00:00",
+  "mc_v": 2,
+  "metacritic": 73,
+  "metacritic_slug": "animal-crossing-city-folk",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
  "igdb:269079": {},
  "igdb:26995": {
   "backloggd": 3.2,
@@ -13960,6 +14210,23 @@
   "metacritic": 75,
   "metacritic_slug": "pursuit-force",
   "oc_checked": "2026-11-03T04:18:06+00:00"
+ },
+ "igdb:2706": {
+  "backloggd": 3.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:15+00:00",
+  "mc_v": 2,
+  "metacritic": 67,
+  "metacritic_slug": "mario-and-sonic-at-the-olympic-games",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
+ },
+ "igdb:2708": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:03+00:00",
+  "mc_v": 2,
+  "metacritic": 66,
+  "metacritic_slug": "mario-sonic-at-the-london-2012-olympic-games"
  },
  "igdb:27092": {
   "backloggd": 2.8,
@@ -14219,6 +14486,14 @@
   "opencritic_id": 4213,
   "opencritic_pct": 76,
   "opencritic_tier": "Strong"
+ },
+ "igdb:2745": {
+  "backloggd": 3.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:57+00:00",
+  "mc_v": 2,
+  "metacritic": 67,
+  "metacritic_slug": "rayman-raving-rabbids-2"
  },
  "igdb:27461": {
   "backloggd": 3.7,
@@ -15763,6 +16038,14 @@
  "igdb:325150": {},
  "igdb:325157": {},
  "igdb:325261": {},
+ "igdb:3255": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:38:57+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "just-dance-4"
+ },
  "igdb:325580": {
   "backloggd": 3.7,
   "bl_v": 2,
@@ -16024,6 +16307,15 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:3349": {
+  "backloggd": 4.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:41:41+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:335050": {},
  "igdb:3351": {
@@ -17391,6 +17683,15 @@
   "metacritic": 83,
   "metacritic_slug": "kirby-mass-attack",
   "oc_checked": "2026-10-18T14:03:22+00:00"
+ },
+ "igdb:3725": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:00+00:00",
+  "mc_v": 2,
+  "metacritic": 77,
+  "metacritic_slug": "kirbys-return-to-dream-land",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:3726": {
   "backloggd": 3.7,
@@ -19416,6 +19717,14 @@
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:4805": {
+  "backloggd": 3.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:38:24+00:00",
+  "mc_v": 2,
+  "metacritic": 69,
+  "metacritic_slug": "disaster-day-of-crisis"
+ },
  "igdb:48052": {
   "backloggd": 3.2,
   "bl_v": 2,
@@ -19478,6 +19787,14 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:4835": {
+  "backloggd": 2.2,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:38:26+00:00",
+  "mc_v": 2,
+  "metacritic": 37,
+  "metacritic_slug": "escape-from-bug-island"
  },
  "igdb:4840": {
   "backloggd": 3.2,
@@ -19571,6 +19888,14 @@
   "metacritic": 80,
   "metacritic_slug": "geometry-wars-galaxies",
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:4890": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:38:52+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:48916": {
   "backloggd": 3.2,
@@ -19811,6 +20136,22 @@
   "steam_pct": 92,
   "steam_reviews": 11917
  },
+ "igdb:5122": {
+  "backloggd": 4.4,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:59+00:00",
+  "mc_v": 2,
+  "metacritic": 83,
+  "metacritic_slug": "rhythm-heaven-fever"
+ },
+ "igdb:5132": {
+  "backloggd": 3.7,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:02+00:00",
+  "mc_v": 2,
+  "metacritic": 79,
+  "metacritic_slug": "rune-factory-frontier"
+ },
  "igdb:51329": {
   "backloggd": 2.9,
   "bl_v": 2,
@@ -19819,6 +20160,14 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-10-22T15:20:40+00:00"
+ },
+ "igdb:5133": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:25+00:00",
+  "mc_v": 2,
+  "metacritic": 55,
+  "metacritic_slug": "rune-factory-tides-of-destiny"
  },
  "igdb:515": {
   "backloggd": 3.9,
@@ -19952,6 +20301,15 @@
   "metacritic": 77,
   "metacritic_slug": "strider",
   "oc_checked": "2026-11-02T21:24:17+00:00"
+ },
+ "igdb:534": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:56+00:00",
+  "mc_v": 2,
+  "metacritic": 93,
+  "metacritic_slug": "the-legend-of-zelda-skyward-sword",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:5346": {
   "backloggd": 3.3,
@@ -21809,7 +22167,8 @@
   "checked": "2026-11-03T04:24:20+00:00",
   "mc_v": 2,
   "metacritic": 79,
-  "metacritic_slug": "heavenly-sword"
+  "metacritic_slug": "heavenly-sword",
+  "oc_checked": "2026-11-03T04:41:45+00:00"
  },
  "igdb:7323": {
   "backloggd": 3.7,
@@ -21961,7 +22320,8 @@
   "checked": "2026-11-03T04:24:33+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "puppeteer"
+  "metacritic_slug": "puppeteer",
+  "oc_checked": "2026-11-03T04:42:16+00:00"
  },
  "igdb:7392": {
   "backloggd": 2.8,
@@ -23208,6 +23568,22 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:17+00:00"
+ },
+ "igdb:84696": {
+  "backloggd": 4.0,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:40+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
+ "igdb:84697": {
+  "backloggd": 4.1,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:39:44+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:847": {
   "backloggd": 3.3,
@@ -26408,6 +26784,13 @@
  "t:summoner ps 2 emulation 2000": {
   "bl_v": 2,
   "checked": "2026-10-28T05:08:58+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
+ "t:super mario all stars 25 th": {
+  "bl_v": 2,
+  "checked": "2026-11-03T04:40:38+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null

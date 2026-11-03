@@ -76232,6 +76232,1451 @@
   "name": "Spider-Man",
   "v": 3
  },
+ "1518": {
+  "checked": "2026-11-03T04:43:53+00:00",
+  "games": [
+   {
+    "bundles": [
+     353537
+    ],
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353510,
+    "name": "Pikmin Puzzle Card e+: No.00 - Teku-teku Pikmin: Ki Pikmin",
+    "parent_game": 232901,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-00-teku-teku-pikmin-ki-pikmin"
+   },
+   {
+    "first_release_date": 1083196800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "genres": [
+     9
+    ],
+    "id": 220852,
+    "name": "Pikmin Puzzle Card e+",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus"
+   },
+   {
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 328047,
+     "image_id": "co714f"
+    },
+    "first_release_date": 1693526400,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "id": 264892,
+    "name": "Pikmin Finder",
+    "platforms": [
+     82
+    ],
+    "slug": "pikmin-finder"
+   },
+   {
+    "bundles": [
+     353540
+    ],
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353525,
+    "name": "Pikmin Puzzle Card e+: No.13 - Teku-teku Pikmin: Daiou Deme Madara",
+    "parent_game": 232901,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-13-teku-teku-pikmin-daiou-deme-madara"
+   },
+   {
+    "cover": {
+     "id": 484071,
+     "image_id": "coadif"
+    },
+    "first_release_date": 1060300800,
+    "franchises": [
+     1820,
+     1518
+    ],
+    "game_type": 13,
+    "id": 364448,
+    "name": "Doubutsu no Mori e+: D07 - Design Card: Pikmin Moyou",
+    "parent_game": 124007,
+    "platforms": [
+     510
+    ],
+    "slug": "doubutsu-no-mori-e-plus-d07-design-card-pikmin-moyou"
+   },
+   {
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 296030,
+     "image_id": "co6cf2"
+    },
+    "first_release_date": 1385942400,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 59551,
+    "name": "Issho ni Photo Pikmin",
+    "platforms": [
+     37
+    ],
+    "slug": "issho-ni-photo-pikmin"
+   },
+   {
+    "bundles": [
+     353532
+    ],
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353529,
+    "name": "Pikmin Puzzle Card e+: Hikkonuki Pikmin - Buta Dokkuri",
+    "parent_game": 232900,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-hikkonuki-pikmin-buta-dokkuri"
+   },
+   {
+    "collections": [
+     {
+      "id": 8569,
+      "name": "Pikmin Puzzle Card e+"
+     }
+    ],
+    "cover": {
+     "id": 416891,
+     "image_id": "co8xob"
+    },
+    "first_release_date": 1083196800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 13,
+    "genres": [
+     9,
+     33
+    ],
+    "id": 232900,
+    "name": "Hikkonuki Pikmin",
+    "parent_game": 2240,
+    "platforms": [
+     510
+    ],
+    "slug": "hikkonuki-pikmin"
+   },
+   {
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 466884,
+     "image_id": "coa090"
+    },
+    "first_release_date": 1721347200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 342715,
+    "name": "Pikmin 100",
+    "platforms": [
+     82
+    ],
+    "slug": "pikmin-100"
+   },
+   {
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "genres": [
+     11,
+     15
+    ],
+    "id": 353528,
+    "name": "Pikmin 2",
+    "platforms": [
+     21
+    ],
+    "slug": "pikmin-2--2"
+   },
+   {
+    "aggregated_rating": 91.33333333333333,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 95972,
+     "image_id": "co221w"
+    },
+    "first_release_date": 1201737600,
+    "franchises": [
+     756,
+     763,
+     596,
+     60,
+     845,
+     1764,
+     771,
+     769,
+     789,
+     457,
+     1820,
+     1567,
+     1752,
+     123,
+     1518,
+     1787,
+     551,
+     5396
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 1628,
+    "name": "Super Smash Bros. Brawl",
+    "platforms": [
+     5
+    ],
+    "rating": 81.82602521550372,
+    "slug": "super-smash-bros-brawl",
+    "total_rating_count": 603
+   },
+   {
+    "bundles": [
+     254343
+    ],
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 526519,
+     "image_id": "coba9j"
+    },
+    "first_release_date": 1687305600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 9,
+    "genres": [
+     11,
+     15,
+     31
+    ],
+    "id": 254335,
+    "name": "Pikmin 2",
+    "parent_game": 2240,
+    "platforms": [
+     130
+    ],
+    "rating": 77.31557602931468,
+    "slug": "pikmin-2--1",
+    "total_rating_count": 9
+   },
+   {
+    "aggregated_rating": 66.0,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 193821,
+     "image_id": "co45jx"
+    },
+    "first_release_date": 1635292800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     13,
+     31
+    ],
+    "id": 178290,
+    "name": "Pikmin Bloom",
+    "platforms": [
+     34,
+     39
+    ],
+    "rating": 69.93989987318872,
+    "slug": "pikmin-bloom",
+    "total_rating_count": 10
+   },
+   {
+    "aggregated_rating": 75.0,
+    "bundles": [
+     231707,
+     231835
+    ],
+    "cover": {
+     "id": 79392,
+     "image_id": "co1p9c"
+    },
+    "first_release_date": 1353196800,
+    "franchises": [
+     845,
+     763,
+     1567,
+     1820,
+     596,
+     1518,
+     756,
+     1764
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     9,
+     10,
+     31,
+     33
+    ],
+    "id": 2172,
+    "name": "Nintendo Land",
+    "platforms": [
+     41
+    ],
+    "rating": 75.28399283184149,
+    "slug": "nintendo-land",
+    "total_rating_count": 93
+   },
+   {
+    "aggregated_rating": 95.27272727272727,
+    "bundles": [
+     231788
+    ],
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 94749,
+     "image_id": "co213x"
+    },
+    "first_release_date": 1416528000,
+    "franchises": [
+     756,
+     763,
+     596,
+     789,
+     769,
+     845,
+     1764,
+     123,
+     771,
+     1820,
+     38,
+     1567,
+     60,
+     1752,
+     1518,
+     892,
+     457,
+     1787,
+     1821,
+     5396,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 9602,
+    "name": "Super Smash Bros. for Wii U",
+    "platforms": [
+     41
+    ],
+    "rating": 83.43801645273842,
+    "slug": "super-smash-bros-for-wii-u",
+    "total_rating_count": 342
+   },
+   {
+    "aggregated_rating": 87.0,
+    "bundles": [
+     353528
+    ],
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 277586,
+     "image_id": "co5y6q"
+    },
+    "first_release_date": 1083196800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2240,
+    "name": "Pikmin 2",
+    "platforms": [
+     21
+    ],
+    "rating": 86.65204526168834,
+    "slug": "pikmin-2",
+    "total_rating_count": 115
+   },
+   {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 277584,
+     "image_id": "co5y6o"
+    },
+    "first_release_date": 1230163200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 11,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 84696,
+    "name": "Pikmin",
+    "parent_game": 2239,
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 80.03888198000793,
+    "slug": "pikmin--2",
+    "total_rating_count": 11
+   },
+   {
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "first_release_date": 1097625600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     26
+    ],
+    "id": 342714,
+    "name": "Pikmin Treasure Hunt",
+    "platforms": [
+     82
+    ],
+    "slug": "pikmin-treasure-hunt"
+   },
+   {
+    "bundles": [
+     353537
+    ],
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353513,
+    "name": "Pikmin Puzzle Card e+: No.02 - Teku-teku Pikmin: Ke Chappy",
+    "parent_game": 232901,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-02-teku-teku-pikmin-ke-chappy"
+   },
+   {
+    "bundles": [
+     353546
+    ],
+    "cover": {
+     "id": 470928,
+     "image_id": "coa3dc"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353543,
+    "name": "Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 3",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-tsunagete-pikmin-pack-3"
+   },
+   {
+    "bundles": [
+     353546
+    ],
+    "cover": {
+     "id": 470920,
+     "image_id": "coa3d4"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353535,
+    "name": "Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 4",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-hikkonuki-pikmin-pack-4"
+   },
+   {
+    "bundles": [
+     220852
+    ],
+    "cover": {
+     "id": 470908,
+     "image_id": "coa3cs"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353506,
+    "name": "Pikmin Puzzle Card e+: Teku-teku Pikmin - President",
+    "parent_game": 232901,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-teku-teku-pikmin-president"
+   },
+   {
+    "bundles": [
+     220852
+    ],
+    "cover": {
+     "id": 470906,
+     "image_id": "coa3cq"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353505,
+    "name": "Pikmin Puzzle Card e+: Hikkonuki Pikmin - Olimar",
+    "parent_game": 232900,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-hikkonuki-pikmin-olimar"
+   },
+   {
+    "bundles": [
+     220852
+    ],
+    "cover": {
+     "id": 470910,
+     "image_id": "coa3cu"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353508,
+    "name": "Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie",
+    "parent_game": 232902,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-tsunagete-pikmin-louie"
+   },
+   {
+    "bundles": [
+     353532
+    ],
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353509,
+    "name": "Pikmin Puzzle Card e+: No.00 - Hikkonuki Pikmin: Aka Pikmin",
+    "parent_game": 232900,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-00-hikkonuki-pikmin-aka-pikmin"
+   },
+   {
+    "bundles": [
+     353537
+    ],
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353516,
+    "name": "Pikmin Puzzle Card e+: No.05 - Teku-teku Pikmin: Yuki Chappy",
+    "parent_game": 232901,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-05-teku-teku-pikmin-yuki-chappy"
+   },
+   {
+    "bundles": [
+     353545
+    ],
+    "cover": {
+     "id": 470927,
+     "image_id": "coa3db"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353542,
+    "name": "Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 2",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-tsunagete-pikmin-pack-2"
+   },
+   {
+    "bundles": [
+     353538
+    ],
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 353520,
+    "name": "Pikmin Puzzle Card e+: No.09 - Teku-teku Pikmin: Baby Chappy",
+    "parent_game": 232901,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-09-teku-teku-pikmin-baby-chappy"
+   },
+   {
+    "bundles": [
+     353545
+    ],
+    "cover": {
+     "id": 470923,
+     "image_id": "coa3d7"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353538,
+    "name": "Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 2",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-teku-teku-pikmin-pack-2"
+   },
+   {
+    "bundles": [
+     353545
+    ],
+    "cover": {
+     "id": 470926,
+     "image_id": "coa3da"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353541,
+    "name": "Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 1",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-tsunagete-pikmin-pack-1"
+   },
+   {
+    "bundles": [
+     353545
+    ],
+    "cover": {
+     "id": 470918,
+     "image_id": "coa3d2"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353533,
+    "name": "Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 2",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-hikkonuki-pikmin-pack-2"
+   },
+   {
+    "bundles": [
+     353546
+    ],
+    "cover": {
+     "id": 470925,
+     "image_id": "coa3d9"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353540,
+    "name": "Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 4",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-teku-teku-pikmin-pack-4"
+   },
+   {
+    "bundles": [
+     353546
+    ],
+    "cover": {
+     "id": 470929,
+     "image_id": "coa3dd"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353544,
+    "name": "Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 4",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-tsunagete-pikmin-pack-4"
+   },
+   {
+    "collections": [
+     {
+      "id": 8569,
+      "name": "Pikmin Puzzle Card e+"
+     }
+    ],
+    "cover": {
+     "id": 282238,
+     "image_id": "co61ry"
+    },
+    "first_release_date": 1083196800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 13,
+    "genres": [
+     9,
+     33
+    ],
+    "id": 232902,
+    "name": "Tsunagete Pikmin",
+    "parent_game": 2240,
+    "platforms": [
+     510
+    ],
+    "slug": "tsunagete-pikmin"
+   },
+   {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 277587,
+     "image_id": "co5y6r"
+    },
+    "first_release_date": 1236816000,
+    "franchises": [
+     1518
+    ],
+    "game_type": 11,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 84697,
+    "name": "Pikmin 2",
+    "parent_game": 2240,
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 83.39394791887676,
+    "slug": "pikmin-2--4",
+    "total_rating_count": 10
+   },
+   {
+    "bundles": [
+     254343
+    ],
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 526518,
+     "image_id": "coba9i"
+    },
+    "first_release_date": 1687305600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 9,
+    "genres": [
+     11,
+     15,
+     31
+    ],
+    "id": 254334,
+    "name": "Pikmin 1",
+    "parent_game": 2239,
+    "platforms": [
+     130
+    ],
+    "rating": 73.16105131591853,
+    "slug": "pikmin-1",
+    "total_rating_count": 10
+   },
+   {
+    "aggregated_rating": 86.6,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 96089,
+     "image_id": "co2255"
+    },
+    "first_release_date": 1544140800,
+    "franchises": [
+     756,
+     789,
+     596,
+     1228,
+     845,
+     763,
+     1764,
+     771,
+     769,
+     457,
+     60,
+     1567,
+     1518,
+     892,
+     4,
+     1932,
+     38,
+     551,
+     3081,
+     792,
+     123,
+     1820,
+     1821,
+     895,
+     1752,
+     1787,
+     5396
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 90101,
+    "name": "Super Smash Bros. Ultimate",
+    "platforms": [
+     130
+    ],
+    "rating": 86.61557927063751,
+    "slug": "super-smash-bros-ultimate",
+    "total_rating_count": 967
+   },
+   {
+    "collections": [
+     {
+      "id": 8569,
+      "name": "Pikmin Puzzle Card e+"
+     }
+    ],
+    "cover": {
+     "id": 416887,
+     "image_id": "co8xo7"
+    },
+    "first_release_date": 1083196800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 13,
+    "genres": [
+     9,
+     33
+    ],
+    "id": 232901,
+    "name": "Tekuteku Pikmin",
+    "parent_game": 2240,
+    "platforms": [
+     510
+    ],
+    "slug": "tekuteku-pikmin"
+   },
+   {
+    "aggregated_rating": 86.0909090909091,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 394976,
+     "image_id": "co8grk"
+    },
+    "first_release_date": 1603929600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 10,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 136498,
+    "name": "Pikmin 3 Deluxe",
+    "parent_game": 2241,
+    "platforms": [
+     508,
+     130
+    ],
+    "rating": 77.93832708424861,
+    "slug": "pikmin-3-deluxe",
+    "total_rating_count": 39
+   },
+   {
+    "cover": {
+     "id": 354178,
+     "image_id": "co7laa"
+    },
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     15,
+     31
+    ],
+    "id": 281778,
+    "name": "Picky",
+    "platforms": [
+     4
+    ],
+    "slug": "picky"
+   },
+   {
+    "cover": {
+     "id": 484026,
+     "image_id": "coadh6"
+    },
+    "first_release_date": 1041292800,
+    "franchises": [
+     1820,
+     1518
+    ],
+    "game_type": 13,
+    "id": 354824,
+    "name": "Animal Crossing-e: D04 - Design Card: Pikmin Pattern",
+    "parent_game": 2655,
+    "platforms": [
+     510
+    ],
+    "slug": "animal-crossing-e-d04-design-card-pikmin-pattern"
+   },
+   {
+    "bundles": [
+     363806
+    ],
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 363792,
+    "name": "Pikmin Puzzle Card e+: No.054 - Pongashigusa",
+    "parent_game": 232900,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-054-pongashigusa"
+   },
+   {
+    "bundles": [
+     353544
+    ],
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 363800,
+    "name": "Pikmin Puzzle Card e+: No.061 - Tsunagete Pikmin: Oopanmodoki",
+    "parent_game": 232902,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-061-tsunagete-pikmin-oopanmodoki"
+   },
+   {
+    "bundles": [
+     353545
+    ],
+    "cover": {
+     "id": 470917,
+     "image_id": "coa3d1"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353532,
+    "name": "Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 1",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-hikkonuki-pikmin-pack-1"
+   },
+   {
+    "bundles": [
+     353546
+    ],
+    "cover": {
+     "id": 470919,
+     "image_id": "coa3d3"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353534,
+    "name": "Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 3",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-hikkonuki-pikmin-pack-3"
+   },
+   {
+    "bundles": [
+     353545
+    ],
+    "cover": {
+     "id": 470922,
+     "image_id": "coa3d6"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353537,
+    "name": "Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 1",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-teku-teku-pikmin-pack-1"
+   },
+   {
+    "bundles": [
+     363806
+    ],
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 363778,
+    "name": "Pikmin Puzzle Card e+: No.041 - Shoigumo",
+    "parent_game": 232900,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-041-shoigumo"
+   },
+   {
+    "bundles": [
+     353543
+    ],
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 363803,
+    "name": "Pikmin Puzzle Card e+: No.064 - Tsunagete Pikmin: Ujadani",
+    "parent_game": 232902,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-064-tsunagete-pikmin-ujadani"
+   },
+   {
+    "bundles": [
+     363806
+    ],
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 363787,
+    "name": "Pikmin Puzzle Card e+: No.046 - Otama",
+    "parent_game": 232900,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-046-otama"
+   },
+   {
+    "bundles": [
+     363806
+    ],
+    "franchises": [
+     1518
+    ],
+    "game_type": 6,
+    "id": 363795,
+    "name": "Pikmin Puzzle Card e+: No.049 - Popongashigusa",
+    "parent_game": 232900,
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-no-dot-049-popongashigusa"
+   },
+   {
+    "aggregated_rating": 86.06666666666666,
+    "collections": [
+     {
+      "id": 325,
+      "name": "Super Smash Bros."
+     }
+    ],
+    "cover": {
+     "id": 89264,
+     "image_id": "co1wvk"
+    },
+    "first_release_date": 1410566400,
+    "franchises": [
+     845,
+     756,
+     763,
+     596,
+     789,
+     769,
+     1764,
+     123,
+     771,
+     457,
+     892,
+     38,
+     1820,
+     1567,
+     1518,
+     1787,
+     1821,
+     60,
+     5396,
+     1932
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 9621,
+    "name": "Super Smash Bros. for Nintendo 3DS",
+    "platforms": [
+     37
+    ],
+    "rating": 75.83892712644675,
+    "slug": "super-smash-bros-for-nintendo-3ds",
+    "total_rating_count": 213
+   },
+   {
+    "bundles": [
+     353546
+    ],
+    "cover": {
+     "id": 470924,
+     "image_id": "coa3d8"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "id": 353539,
+    "name": "Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 3",
+    "platforms": [
+     510
+    ],
+    "slug": "pikmin-puzzle-card-e-plus-teku-teku-pikmin-pack-3"
+   },
+   {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 310696,
+     "image_id": "co6nqg"
+    },
+    "first_release_date": 1004054400,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2239,
+    "name": "Pikmin",
+    "platforms": [
+     21
+    ],
+    "rating": 80.76662512907815,
+    "slug": "pikmin",
+    "total_rating_count": 184
+   },
+   {
+    "aggregated_rating": 85.0,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 310542,
+     "image_id": "co6nm6"
+    },
+    "first_release_date": 1687305600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 3,
+    "genres": [
+     11,
+     15,
+     31
+    ],
+    "id": 254343,
+    "name": "Pikmin 1+2 Bundle",
+    "platforms": [
+     130
+    ],
+    "slug": "pikmin-1-plus-2-bundle",
+    "total_rating_count": 1
+   },
+   {
+    "aggregated_rating": 86.22222222222223,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 79394,
+     "image_id": "co1p9e"
+    },
+    "first_release_date": 1373673600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     31
+    ],
+    "id": 2241,
+    "name": "Pikmin 3",
+    "platforms": [
+     41
+    ],
+    "rating": 79.10516949373022,
+    "slug": "pikmin-3",
+    "total_rating_count": 91
+   },
+   {
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 402564,
+     "image_id": "co8mmc"
+    },
+    "first_release_date": 1004572800,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "id": 312310,
+    "name": "Pikmin.com SpaceForce",
+    "platforms": [
+     82
+    ],
+    "slug": "pikmin-dot-com-spaceforce"
+   },
+   {
+    "aggregated_rating": 87.5,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 526517,
+     "image_id": "coba9h"
+    },
+    "first_release_date": 1689897600,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     15,
+     31
+    ],
+    "id": 59843,
+    "name": "Pikmin 4",
+    "platforms": [
+     130
+    ],
+    "rating": 85.3158082445315,
+    "slug": "pikmin-4",
+    "total_rating_count": 44
+   },
+   {
+    "aggregated_rating": 66.58333333333333,
+    "collections": [
+     {
+      "id": 454,
+      "name": "Pikmin"
+     }
+    ],
+    "cover": {
+     "id": 115703,
+     "image_id": "co2h9z"
+    },
+    "first_release_date": 1499904000,
+    "franchises": [
+     1518
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 28124,
+    "name": "Hey! Pikmin",
+    "platforms": [
+     37
+    ],
+    "rating": 67.83010674413588,
+    "slug": "hey-pikmin",
+    "total_rating_count": 21
+   }
+  ],
+  "name": "Pikmin",
+  "v": 4
+ },
  "1525": {
   "checked": "2026-11-02T22:38:56+00:00",
   "games": [
@@ -95399,6 +96844,1567 @@
    }
   ],
   "name": "F-Zero",
+  "v": 4
+ },
+ "1766": {
+  "checked": "2026-11-03T04:43:53+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     },
+     {
+      "id": 206,
+      "name": "Rayman"
+     }
+    ],
+    "cover": {
+     "id": 212192,
+     "image_id": "co4jq8"
+    },
+    "first_release_date": 1224028800,
+    "franchises": [
+     994,
+     1766
+    ],
+    "game_type": 11,
+    "id": 193367,
+    "name": "Rayman Raving Rabbids TV Party",
+    "parent_game": 5117,
+    "platforms": [
+     55
+    ],
+    "slug": "rayman-raving-rabbids-tv-party--2"
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 375229,
+     "image_id": "co81j1"
+    },
+    "first_release_date": 1163462400,
+    "franchises": [
+     994,
+     1766
+    ],
+    "game_type": 11,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 151927,
+    "name": "Rayman Raving Rabbids",
+    "parent_game": 2277,
+    "platforms": [
+     24
+    ],
+    "slug": "rayman-raving-rabbids--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 466442,
+     "image_id": "co9zwq"
+    },
+    "first_release_date": 1628121600,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     7,
+     9,
+     12,
+     15,
+     31
+    ],
+    "id": 201254,
+    "name": "Rabbids: Party of Legends",
+    "platforms": [
+     170,
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "rabbids-party-of-legends"
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 375228,
+     "image_id": "co81j0"
+    },
+    "first_release_date": 1173139200,
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 11,
+    "id": 193363,
+    "name": "Rayman Raving Rabbids",
+    "parent_game": 2277,
+    "platforms": [
+     20
+    ],
+    "slug": "rayman-raving-rabbids--3"
+   },
+   {
+    "collections": [
+     {
+      "id": 7415,
+      "name": "Nickelodeon Super Brawl"
+     },
+     {
+      "id": 3138,
+      "name": "Nickelodeon"
+     }
+    ],
+    "cover": {
+     "id": 357128,
+     "image_id": "co7nk8"
+    },
+    "first_release_date": 1388448000,
+    "franchises": [
+     100,
+     289,
+     195,
+     173,
+     324,
+     77,
+     1766,
+     5069,
+     5070,
+     147,
+     330,
+     3456
+    ],
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 63643,
+    "name": "Super Brawl 3: Good vs. Evil",
+    "platforms": [
+     82
+    ],
+    "slug": "super-brawl-3-good-vs-evil"
+   },
+   {
+    "collections": [
+     {
+      "id": 7094,
+      "name": "Mario + Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 96768,
+     "image_id": "co22o0"
+    },
+    "first_release_date": 1510790400,
+    "franchises": [
+     845,
+     1766,
+     763
+    ],
+    "game_type": 3,
+    "genres": [
+     15,
+     31
+    ],
+    "id": 121506,
+    "name": "Mario + Rabbids Kingdom Battle: Gold Edition",
+    "platforms": [
+     130
+    ],
+    "slug": "mario-plus-rabbids-kingdom-battle-gold-edition",
+    "version_parent": 28414
+   },
+   {
+    "collections": [
+     {
+      "id": 7693,
+      "name": "Rabbids Invasion"
+     }
+    ],
+    "cover": {
+     "id": 58491,
+     "image_id": "e2o1833qrbopucqly0dx"
+    },
+    "first_release_date": 1418083200,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "id": 82425,
+    "name": "Rabbids Invasion: Gold Edition",
+    "platforms": [
+     49
+    ],
+    "rating": 80.0,
+    "slug": "rabbids-invasion-gold-edition",
+    "total_rating_count": 0,
+    "version_parent": 20308
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     },
+     {
+      "id": 206,
+      "name": "Rayman"
+     }
+    ],
+    "cover": {
+     "id": 379876,
+     "image_id": "co8544"
+    },
+    "first_release_date": 1226534400,
+    "franchises": [
+     994,
+     1766
+    ],
+    "game_type": 11,
+    "genres": [
+     9,
+     33
+    ],
+    "id": 193365,
+    "name": "Rayman Raving Rabbids TV Party",
+    "parent_game": 5117,
+    "platforms": [
+     20
+    ],
+    "slug": "rayman-raving-rabbids-tv-party--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 274125,
+     "image_id": "co5vil"
+    },
+    "first_release_date": 1577750400,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     33,
+     35
+    ],
+    "id": 228663,
+    "name": "Rabbids & Ladders",
+    "platforms": [
+     52
+    ],
+    "slug": "rabbids-and-ladders"
+   },
+   {
+    "cover": {
+     "id": 488279,
+     "image_id": "coagrb"
+    },
+    "first_release_date": 1580256000,
+    "franchises": [
+     1766
+    ],
+    "game_type": 13,
+    "genres": [
+     4
+    ],
+    "id": 338184,
+    "name": "Super Smash Bros Ultimate: Rabbids Hat",
+    "parent_game": 90101,
+    "platforms": [
+     130
+    ],
+    "slug": "super-smash-bros-ultimate-rabbids-hat"
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212190,
+     "image_id": "co4jq6"
+    },
+    "first_release_date": 1194912000,
+    "franchises": [
+     994,
+     1766
+    ],
+    "game_type": 11,
+    "id": 193364,
+    "name": "Rayman Raving Rabbids 2",
+    "parent_game": 2745,
+    "platforms": [
+     20
+    ],
+    "slug": "rayman-raving-rabbids-2--1"
+   },
+   {
+    "aggregated_rating": 60.0,
+    "bundles": [
+     50646
+    ],
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 161752,
+     "image_id": "co3gt4"
+    },
+    "first_release_date": 1194912000,
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 0,
+    "genres": [
+     7,
+     8,
+     9
+    ],
+    "id": 2745,
+    "name": "Rayman Raving Rabbids 2",
+    "platforms": [
+     5
+    ],
+    "rating": 65.99018876160056,
+    "slug": "rayman-raving-rabbids-2",
+    "total_rating_count": 23
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212194,
+     "image_id": "co4jqa"
+    },
+    "first_release_date": 1257120000,
+    "franchises": [
+     1766
+    ],
+    "game_type": 11,
+    "genres": [
+     9
+    ],
+    "id": 193295,
+    "name": "Rabbids Go Home",
+    "parent_game": 2190,
+    "platforms": [
+     20
+    ],
+    "slug": "rabbids-go-home--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 179346,
+     "image_id": "co3udu"
+    },
+    "first_release_date": 1631923200,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     13,
+     31
+    ],
+    "id": 171258,
+    "name": "Rabbids at Versailles",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "rabbids-at-versailles"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 322669,
+     "image_id": "co6wz1"
+    },
+    "first_release_date": 1381968000,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     9
+    ],
+    "id": 61635,
+    "name": "Rabbids Big Bang",
+    "platforms": [
+     74,
+     34,
+     6,
+     39
+    ],
+    "slug": "rabbids-big-bang"
+   },
+   {
+    "cover": {
+     "id": 290258,
+     "image_id": "co67yq"
+    },
+    "first_release_date": 1666224000,
+    "franchises": [
+     845,
+     1766,
+     994
+    ],
+    "game_type": 3,
+    "genres": [
+     16,
+     24,
+     31
+    ],
+    "id": 240308,
+    "name": "Mario + Rabbids Sparks of Hope: Season Pass",
+    "platforms": [
+     130
+    ],
+    "slug": "mario-plus-rabbids-sparks-of-hope-season-pass"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 101562,
+     "image_id": "co26d6"
+    },
+    "first_release_date": 1570492800,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     9
+    ],
+    "id": 125162,
+    "name": "Rabbids Coding!",
+    "platforms": [
+     34,
+     6,
+     39
+    ],
+    "slug": "rabbids-coding"
+   },
+   {
+    "collections": [
+     {
+      "id": 7692,
+      "name": "Rabbids Go Phone"
+     }
+    ],
+    "cover": {
+     "id": 36879,
+     "image_id": "xuwf2pouwuu9nywzy1c8"
+    },
+    "first_release_date": 1333584000,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "id": 62904,
+    "name": "Rabbids Go Phone Again",
+    "platforms": [
+     39
+    ],
+    "slug": "rabbids-go-phone-again"
+   },
+   {
+    "cover": {
+     "id": 27641,
+     "image_id": "xd6h03h3wyzdc0fg4fuy"
+    },
+    "first_release_date": 1285545600,
+    "franchises": [
+     1766
+    ],
+    "game_type": 3,
+    "id": 50646,
+    "name": "Raving Rabbids: Party Collection",
+    "platforms": [
+     5
+    ],
+    "slug": "raving-rabbids-party-collection"
+   },
+   {
+    "aggregated_rating": 70.5,
+    "bundles": [
+     50646,
+     409325
+    ],
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 375226,
+     "image_id": "co81iy"
+    },
+    "first_release_date": 1163894400,
+    "franchises": [
+     994,
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 2277,
+    "name": "Rayman Raving Rabbids",
+    "platforms": [
+     5,
+     6,
+     41
+    ],
+    "rating": 70.58671326704682,
+    "slug": "rayman-raving-rabbids",
+    "total_rating_count": 101
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212198,
+     "image_id": "co4jqe"
+    },
+    "first_release_date": 1290297600,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "id": 193391,
+    "name": "Raving Rabbids: Travel in Time - Collector's Edition",
+    "platforms": [
+     5
+    ],
+    "slug": "raving-rabbids-travel-in-time-collectors-edition",
+    "version_parent": 5116
+   },
+   {
+    "aggregated_rating": 80.0,
+    "bundles": [
+     121506
+    ],
+    "collections": [
+     {
+      "id": 7094,
+      "name": "Mario + Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 66491,
+     "image_id": "jlykqx4kfyijctwoj8t1"
+    },
+    "first_release_date": 1529971200,
+    "franchises": [
+     763,
+     845,
+     1766
+    ],
+    "game_type": 1,
+    "genres": [
+     8,
+     24,
+     31
+    ],
+    "id": 103317,
+    "name": "Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
+    "parent_game": 28414,
+    "platforms": [
+     130
+    ],
+    "rating": 85.05193259057859,
+    "slug": "mario-plus-rabbids-kingdom-battle-donkey-kong-adventure",
+    "total_rating_count": 17
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 313028,
+     "image_id": "co6pj8"
+    },
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 0,
+    "id": 193362,
+    "name": "Rayman Raving Rabbids",
+    "platforms": [
+     9,
+     5,
+     6,
+     12
+    ],
+    "slug": "rayman-raving-rabbids--2"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212156,
+     "image_id": "co4jp8"
+    },
+    "first_release_date": 1483142400,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "id": 193378,
+    "name": "Rabbids Heroes",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "rabbids-heroes"
+   },
+   {
+    "aggregated_rating": 45.0,
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     },
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 96976,
+     "image_id": "co22ts"
+    },
+    "first_release_date": 1320278400,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 20221,
+    "name": "Raving Rabbids: Alive and Kicking",
+    "platforms": [
+     12
+    ],
+    "rating": 75.0,
+    "slug": "raving-rabbids-alive-and-kicking",
+    "total_rating_count": 4
+   },
+   {
+    "aggregated_rating": 60.0,
+    "collections": [
+     {
+      "id": 7693,
+      "name": "Rabbids Invasion"
+     }
+    ],
+    "cover": {
+     "id": 507953,
+     "image_id": "coavxt"
+    },
+    "first_release_date": 1416268800,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 20308,
+    "name": "Rabbids Invasion: The Interactive TV Show",
+    "platforms": [
+     48,
+     12,
+     49
+    ],
+    "rating": 75.0,
+    "slug": "rabbids-invasion-the-interactive-tv-show",
+    "total_rating_count": 1
+   },
+   {
+    "aggregated_rating": 50.0,
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 225136,
+     "image_id": "co4tps"
+    },
+    "first_release_date": 1353196800,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     9
+    ],
+    "id": 5320,
+    "name": "Rabbids Land",
+    "platforms": [
+     41
+    ],
+    "rating": 58.0,
+    "slug": "rabbids-land",
+    "total_rating_count": 5
+   },
+   {
+    "bundles": [
+     56449
+    ],
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 304515,
+     "image_id": "co6iyr"
+    },
+    "first_release_date": 1302566400,
+    "franchises": [
+     1766
+    ],
+    "game_type": 11,
+    "genres": [
+     31
+    ],
+    "id": 47641,
+    "name": "Rabbids Travel in Time 3D",
+    "parent_game": 5116,
+    "platforms": [
+     37
+    ],
+    "slug": "rabbids-travel-in-time-3d"
+   },
+   {
+    "cover": {
+     "id": 198341,
+     "image_id": "co491h"
+    },
+    "first_release_date": 1414108800,
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 3,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 56449,
+    "name": "Rayman and Rabbids Family Pack",
+    "platforms": [
+     37
+    ],
+    "slug": "rayman-and-rabbids-family-pack"
+   },
+   {
+    "aggregated_rating": 83.36842105263158,
+    "bundles": [
+     121506,
+     422192
+    ],
+    "collections": [
+     {
+      "id": 7094,
+      "name": "Mario + Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 96160,
+     "image_id": "co2274"
+    },
+    "first_release_date": 1503964800,
+    "franchises": [
+     845,
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     12,
+     15,
+     24,
+     31
+    ],
+    "id": 28414,
+    "name": "Mario + Rabbids Kingdom Battle",
+    "platforms": [
+     130
+    ],
+    "rating": 77.39978410667784,
+    "slug": "mario-plus-rabbids-kingdom-battle",
+    "total_rating_count": 208
+   },
+   {
+    "bundles": [
+     240308,
+     207390,
+     207391
+    ],
+    "cover": {
+     "id": 526296,
+     "image_id": "coba3c"
+    },
+    "first_release_date": 1677715200,
+    "franchises": [
+     845,
+     1766
+    ],
+    "game_type": 1,
+    "genres": [
+     16,
+     24
+    ],
+    "id": 240300,
+    "name": "Mario + Rabbids Sparks of Hope: The Tower of Doooom",
+    "parent_game": 152201,
+    "platforms": [
+     130
+    ],
+    "slug": "mario-plus-rabbids-sparks-of-hope-the-tower-of-doooom"
+   },
+   {
+    "aggregated_rating": 70.0,
+    "bundles": [
+     50646
+    ],
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     },
+     {
+      "id": 206,
+      "name": "Rayman"
+     }
+    ],
+    "cover": {
+     "id": 379875,
+     "image_id": "co8543"
+    },
+    "first_release_date": 1226534400,
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 0,
+    "genres": [
+     10,
+     14,
+     15
+    ],
+    "id": 5117,
+    "name": "Rayman Raving Rabbids: TV Party",
+    "platforms": [
+     5
+    ],
+    "rating": 60.04400917374326,
+    "slug": "rayman-raving-rabbids-tv-party",
+    "total_rating_count": 10
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 375227,
+     "image_id": "co81iz"
+    },
+    "first_release_date": 1165276800,
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 11,
+    "genres": [
+     33
+    ],
+    "id": 254520,
+    "name": "Rayman Raving Rabbids",
+    "parent_game": 2277,
+    "platforms": [
+     8
+    ],
+    "rating": 69.962616042641,
+    "slug": "rayman-raving-rabbids--5",
+    "total_rating_count": 5
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212172,
+     "image_id": "co4jpo"
+    },
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 0,
+    "id": 193368,
+    "name": "Rayman Raving Rabbids Activity Centre",
+    "platforms": [
+     6
+    ],
+    "slug": "rayman-raving-rabbids-activity-centre"
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 362321,
+     "image_id": "co7rkh"
+    },
+    "first_release_date": 1167523200,
+    "franchises": [
+     1766,
+     994
+    ],
+    "game_type": 11,
+    "id": 193366,
+    "name": "Rayman Raving Rabbids",
+    "parent_game": 2277,
+    "platforms": [
+     55
+    ],
+    "slug": "rayman-raving-rabbids--4"
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212189,
+     "image_id": "co4jq5"
+    },
+    "first_release_date": 1195084800,
+    "franchises": [
+     994,
+     1766
+    ],
+    "game_type": 11,
+    "id": 193376,
+    "name": "Rayman Raving Rabbids 2",
+    "parent_game": 2745,
+    "platforms": [
+     6
+    ],
+    "slug": "rayman-raving-rabbids-2--2"
+   },
+   {
+    "aggregated_rating": 79.25,
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 199706,
+     "image_id": "co4a3e"
+    },
+    "first_release_date": 1257033600,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 2190,
+    "name": "Rabbids Go Home",
+    "platforms": [
+     5
+    ],
+    "rating": 73.58086756716156,
+    "slug": "rabbids-go-home",
+    "total_rating_count": 23
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 469691,
+     "image_id": "coa2ez"
+    },
+    "first_release_date": 1717632000,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     35
+    ],
+    "id": 300343,
+    "name": "Rabbids: Legends of the Multiverse",
+    "platforms": [
+     39,
+     14
+    ],
+    "slug": "rabbids-legends-of-the-multiverse"
+   },
+   {
+    "bundles": [
+     56449
+    ],
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 403259,
+     "image_id": "co8n5n"
+    },
+    "first_release_date": 1352764800,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 6867,
+    "name": "Rabbids Rumble",
+    "platforms": [
+     37
+    ],
+    "rating": 60.0,
+    "slug": "rabbids-rumble",
+    "total_rating_count": 1
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212157,
+     "image_id": "co4jp9"
+    },
+    "first_release_date": 1464825600,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "id": 193379,
+    "name": "Rabbids Smart Brush",
+    "platforms": [
+     39
+    ],
+    "slug": "rabbids-smart-brush"
+   },
+   {
+    "collections": [
+     {
+      "id": 7692,
+      "name": "Rabbids Go Phone"
+     }
+    ],
+    "cover": {
+     "id": 212212,
+     "image_id": "co4jqs"
+    },
+    "first_release_date": 1261612800,
+    "franchises": [
+     1766
+    ],
+    "game_type": 11,
+    "id": 86172,
+    "name": "Rabbids Go Phone",
+    "parent_game": 2190,
+    "platforms": [
+     74,
+     39
+    ],
+    "slug": "rabbids-go-phone"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 48737,
+     "image_id": "tcugsponpjipkllnwmd4"
+    },
+    "first_release_date": 1259280000,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "id": 50699,
+    "name": "Rabbids Lab",
+    "platforms": [
+     5
+    ],
+    "rating": 63.0,
+    "slug": "rabbids-lab",
+    "total_rating_count": 0
+   },
+   {
+    "collections": [
+     {
+      "id": 7693,
+      "name": "Rabbids Invasion"
+     }
+    ],
+    "cover": {
+     "id": 212158,
+     "image_id": "co4jpa"
+    },
+    "first_release_date": 1333411200,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 131366,
+    "name": "Rabbids Invasion",
+    "platforms": [
+     82
+    ],
+    "slug": "rabbids-invasion"
+   },
+   {
+    "cover": {
+     "id": 458314,
+     "image_id": "co9tmy"
+    },
+    "first_release_date": 1507075200,
+    "franchises": [
+     1766,
+     845
+    ],
+    "game_type": 13,
+    "id": 237995,
+    "name": "Mario + Rabbids Kingdom Battle: Pixel Pack",
+    "parent_game": 28414,
+    "platforms": [
+     130
+    ],
+    "slug": "mario-plus-rabbids-kingdom-battle-pixel-pack--1"
+   },
+   {
+    "aggregated_rating": 56.0,
+    "cover": {
+     "id": 135117,
+     "image_id": "co2w99"
+    },
+    "first_release_date": 1253577600,
+    "franchise": 77,
+    "franchises": [
+     77,
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 5214,
+    "name": "Teenage Mutant Ninja Turtles: Smash-Up",
+    "platforms": [
+     5
+    ],
+    "rating": 72.22228950271229,
+    "slug": "teenage-mutant-ninja-turtles-smash-up",
+    "total_rating_count": 11
+   },
+   {
+    "collections": [
+     {
+      "id": 7094,
+      "name": "Mario + Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 458318,
+     "image_id": "co9tn2"
+    },
+    "first_release_date": 1508198400,
+    "franchises": [
+     845,
+     1766
+    ],
+    "game_type": 13,
+    "genres": [
+     9,
+     12,
+     15,
+     24,
+     31
+    ],
+    "id": 237938,
+    "name": "Mario + Rabbids Kingdom Battle: Ultra Challenge Pack",
+    "parent_game": 28414,
+    "platforms": [
+     130
+    ],
+    "slug": "mario-plus-rabbids-kingdom-battle-ultra-challenge-pack"
+   },
+   {
+    "bundles": [
+     240308,
+     268551,
+     207390,
+     207391
+    ],
+    "cover": {
+     "id": 526288,
+     "image_id": "coba34"
+    },
+    "first_release_date": 1693353600,
+    "franchises": [
+     994,
+     845,
+     1766
+    ],
+    "game_type": 1,
+    "genres": [
+     16,
+     24,
+     31
+    ],
+    "id": 240306,
+    "name": "Mario + Rabbids Sparks of Hope: Rayman in the Phantom Show",
+    "parent_game": 152201,
+    "platforms": [
+     130
+    ],
+    "slug": "mario-plus-rabbids-sparks-of-hope-rayman-in-the-phantom-show"
+   },
+   {
+    "bundles": [
+     240308,
+     207390,
+     207391
+    ],
+    "cover": {
+     "id": 526283,
+     "image_id": "coba2z"
+    },
+    "first_release_date": 1687305600,
+    "franchises": [
+     1766,
+     845
+    ],
+    "game_type": 1,
+    "genres": [
+     16,
+     24,
+     31
+    ],
+    "id": 240301,
+    "name": "Mario + Rabbids Sparks of Hope: The Last Spark Hunter",
+    "parent_game": 152201,
+    "platforms": [
+     130
+    ],
+    "slug": "mario-plus-rabbids-sparks-of-hope-the-last-spark-hunter"
+   },
+   {
+    "aggregated_rating": 71.0,
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     },
+     {
+      "id": 206,
+      "name": "Rayman"
+     }
+    ],
+    "cover": {
+     "id": 375230,
+     "image_id": "co81j2"
+    },
+    "first_release_date": 1175817600,
+    "franchises": [
+     994,
+     1766
+    ],
+    "game_type": 11,
+    "id": 254521,
+    "name": "Rayman Raving Rabbids",
+    "parent_game": 2277,
+    "platforms": [
+     12
+    ],
+    "slug": "rayman-raving-rabbids--6",
+    "total_rating_count": 2
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 516887,
+     "image_id": "cob2tz"
+    },
+    "first_release_date": 1546214400,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 125784,
+    "name": "Rabbids Hollywood",
+    "platforms": [
+     52
+    ],
+    "slug": "rabbids-hollywood"
+   },
+   {
+    "aggregated_rating": 64.6,
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212202,
+     "image_id": "co4jqi"
+    },
+    "first_release_date": 1290297600,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     9
+    ],
+    "id": 5116,
+    "name": "Raving Rabbids: Travel in Time",
+    "platforms": [
+     5
+    ],
+    "rating": 49.92069347977022,
+    "slug": "raving-rabbids-travel-in-time",
+    "total_rating_count": 10
+   },
+   {
+    "aggregated_rating": 88.5,
+    "bundles": [
+     268551,
+     207390,
+     207391,
+     422192
+    ],
+    "collections": [
+     {
+      "id": 7094,
+      "name": "Mario + Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 523919,
+     "image_id": "cob89b"
+    },
+    "first_release_date": 1666224000,
+    "franchises": [
+     845,
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     15,
+     16,
+     24,
+     31
+    ],
+    "id": 152201,
+    "name": "Mario + Rabbids Sparks of Hope",
+    "platforms": [
+     130
+    ],
+    "rating": 80.58666260388472,
+    "slug": "mario-plus-rabbids-sparks-of-hope",
+    "total_rating_count": 30
+   },
+   {
+    "collections": [
+     {
+      "id": 7691,
+      "name": "Raving Rabbids"
+     }
+    ],
+    "franchises": [
+     1766
+    ],
+    "game_type": 11,
+    "id": 83902,
+    "name": "Raving Rabbids Travel in Time Browser",
+    "parent_game": 5116,
+    "platforms": [
+     82
+    ],
+    "slug": "raving-rabbids-travel-in-time-browser"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 116009,
+     "image_id": "co2hih"
+    },
+    "first_release_date": 1493164800,
+    "franchises": [
+     1766
+    ],
+    "game_type": 0,
+    "genres": [
+     33
+    ],
+    "id": 90356,
+    "name": "Rabbids Crazy Rush",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "rabbids-crazy-rush"
+   },
+   {
+    "collections": [
+     {
+      "id": 3676,
+      "name": "Rabbids"
+     }
+    ],
+    "cover": {
+     "id": 212193,
+     "image_id": "co4jq9"
+    },
+    "first_release_date": 1281571200,
+    "franchises": [
+     1766
+    ],
+    "game_type": 11,
+    "id": 193377,
+    "name": "Rabbids Go Home",
+    "parent_game": 2190,
+    "platforms": [
+     6
+    ],
+    "slug": "rabbids-go-home--2"
+   }
+  ],
+  "name": "Raving Rabbids",
   "v": 4
  },
  "1777": {
@@ -178714,6 +181720,1186 @@
   "name": "Kunio-kun",
   "v": 4
  },
+ "3439": {
+  "checked": "2026-11-03T04:43:53+00:00",
+  "games": [
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89681,
+     "image_id": "co1x75"
+    },
+    "first_release_date": 1317945600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 2705,
+    "name": "Just Dance 3",
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 72.51426018186982,
+    "slug": "just-dance-3",
+    "total_rating_count": 29
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 75121,
+     "image_id": "co1lyp"
+    },
+    "first_release_date": 1572912000,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 119256,
+    "name": "Just Dance 2020",
+    "platforms": [
+     170,
+     48,
+     5,
+     6,
+     49,
+     130
+    ],
+    "rating": 70.52671787556592,
+    "slug": "just-dance-2020",
+    "total_rating_count": 15
+   },
+   {
+    "cover": {
+     "id": 319585,
+     "image_id": "co6uld"
+    },
+    "first_release_date": 1384387200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 3,
+    "id": 231835,
+    "name": "Just Dance 2014 Basic Pack",
+    "platforms": [
+     41
+    ],
+    "slug": "just-dance-2014-basic-pack"
+   },
+   {
+    "collections": [
+     {
+      "id": 9999,
+      "name": "Just Dance: Disney Party"
+     },
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 90009,
+     "image_id": "co1xg9"
+    },
+    "first_release_date": 1350950400,
+    "franchises": [
+     26,
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3254,
+    "name": "Just Dance: Disney Party",
+    "platforms": [
+     5,
+     12
+    ],
+    "rating": 69.9627566470552,
+    "slug": "just-dance-disney-party",
+    "total_rating_count": 5
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 366155,
+     "image_id": "co7uiz"
+    },
+    "first_release_date": 1317945600,
+    "franchises": [
+     845,
+     3439
+    ],
+    "game_type": 10,
+    "genres": [
+     7
+    ],
+    "id": 288945,
+    "name": "Just Dance 3",
+    "parent_game": 2705,
+    "platforms": [
+     5
+    ],
+    "slug": "just-dance-3--1"
+   },
+   {
+    "cover": {
+     "id": 501553,
+     "image_id": "coar01"
+    },
+    "first_release_date": 1317945600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 375276,
+    "name": "Just Dance 3: Target Exclusive Edition",
+    "platforms": [
+     9,
+     5,
+     12
+    ],
+    "slug": "just-dance-3-target-exclusive-edition",
+    "version_parent": 2705
+   },
+   {
+    "aggregated_rating": 69.0,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 90003,
+     "image_id": "co1xg3"
+    },
+    "first_release_date": 1445299200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 11206,
+    "name": "Just Dance 2016",
+    "platforms": [
+     9,
+     48,
+     5,
+     41,
+     12,
+     49
+    ],
+    "rating": 76.74046602005801,
+    "slug": "just-dance-2016",
+    "total_rating_count": 26
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 501598,
+     "image_id": "coar1a"
+    },
+    "first_release_date": 1760400000,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 358527,
+    "name": "Just Dance 2026 Edition",
+    "platforms": [
+     169,
+     167,
+     130
+    ],
+    "slug": "just-dance-2026-edition"
+   },
+   {
+    "aggregated_rating": 77.66666666666667,
+    "bundles": [
+     231835
+    ],
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89967,
+     "image_id": "co1xf3"
+    },
+    "first_release_date": 1380585600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3256,
+    "name": "Just Dance 2014",
+    "platforms": [
+     9,
+     48,
+     5,
+     41,
+     12,
+     49
+    ],
+    "rating": 79.1597873949695,
+    "slug": "just-dance-2014",
+    "total_rating_count": 33
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 127618,
+     "image_id": "co2qgy"
+    },
+    "first_release_date": 1310860800,
+    "franchises": [
+     3439
+    ],
+    "game_type": 4,
+    "genres": [
+     7
+    ],
+    "id": 14982,
+    "name": "Just Dance: Summer Party",
+    "parent_game": 2664,
+    "platforms": [
+     5
+    ],
+    "slug": "just-dance-summer-party"
+   },
+   {
+    "aggregated_rating": 76.66666666666667,
+    "bundles": [
+     279827
+    ],
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89969,
+     "image_id": "co1xf5"
+    },
+    "first_release_date": 1413849600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 15559,
+    "name": "Just Dance 2015",
+    "platforms": [
+     9,
+     48,
+     5,
+     41,
+     12,
+     49
+    ],
+    "rating": 88.6501596014732,
+    "slug": "just-dance-2015",
+    "total_rating_count": 24
+   },
+   {
+    "aggregated_rating": 62.5,
+    "collections": [
+     {
+      "id": 13984,
+      "name": "Just Dance Kids"
+     },
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 90007,
+     "image_id": "co1xg7"
+    },
+    "first_release_date": 1319500800,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3300,
+    "name": "Just Dance Kids 2",
+    "platforms": [
+     9,
+     5,
+     12
+    ],
+    "rating": 70.0,
+    "slug": "just-dance-kids-2",
+    "total_rating_count": 3
+   },
+   {
+    "aggregated_rating": 78.75,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 243058,
+     "image_id": "co57jm"
+    },
+    "first_release_date": 1669075200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 216318,
+    "name": "Just Dance 2023 Edition",
+    "platforms": [
+     169,
+     167,
+     130
+    ],
+    "rating": 70.14781650580757,
+    "slug": "just-dance-2023-edition",
+    "total_rating_count": 14
+   },
+   {
+    "aggregated_rating": 40.0,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     },
+     {
+      "id": 14024,
+      "name": "Just Dance Wii"
+     }
+    ],
+    "cover": {
+     "id": 90010,
+     "image_id": "co1xga"
+    },
+    "first_release_date": 1318464000,
+    "franchises": [
+     845,
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3297,
+    "name": "Just Dance Wii",
+    "platforms": [
+     5
+    ],
+    "slug": "just-dance-wii",
+    "total_rating_count": 1
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89971,
+     "image_id": "co1xf7"
+    },
+    "first_release_date": 1332979200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3303,
+    "name": "Just Dance: Best Of",
+    "platforms": [
+     5,
+     12
+    ],
+    "slug": "just-dance-best-of"
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 291781,
+     "image_id": "co6951"
+    },
+    "franchises": [
+     3439
+    ],
+    "game_type": 11,
+    "genres": [
+     7
+    ],
+    "id": 241440,
+    "name": "Just Dance 2",
+    "parent_game": 2664,
+    "platforms": [
+     9
+    ],
+    "slug": "just-dance-2--1"
+   },
+   {
+    "aggregated_rating": 81.5,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 198232,
+     "image_id": "co48yg"
+    },
+    "first_release_date": 1635897600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 152199,
+    "name": "Just Dance 2022",
+    "platforms": [
+     170,
+     169,
+     48,
+     167,
+     49,
+     130
+    ],
+    "rating": 44.55122578436541,
+    "slug": "just-dance-2022",
+    "total_rating_count": 11
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 100174,
+     "image_id": "co25am"
+    },
+    "first_release_date": 1411603200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7,
+     33
+    ],
+    "id": 86997,
+    "name": "Just Dance Now",
+    "platforms": [
+     82,
+     34,
+     39,
+     14
+    ],
+    "rating": 64.506796560355,
+    "slug": "just-dance-now",
+    "total_rating_count": 5
+   },
+   {
+    "aggregated_rating": 70.71428571428571,
+    "bundles": [
+     279827
+    ],
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89966,
+     "image_id": "co1xf2"
+    },
+    "first_release_date": 1477353600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 19550,
+    "name": "Just Dance 2017",
+    "platforms": [
+     9,
+     48,
+     5,
+     6,
+     41,
+     12,
+     49,
+     130
+    ],
+    "rating": 76.72455474959933,
+    "slug": "just-dance-2017",
+    "total_rating_count": 37
+   },
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 308821,
+     "image_id": "co6mad"
+    },
+    "first_release_date": 1698105600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 252986,
+    "name": "Just Dance 2024 Edition",
+    "platforms": [
+     169,
+     167,
+     130
+    ],
+    "slug": "just-dance-2024-edition",
+    "total_rating_count": 3
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 414678,
+     "image_id": "co8vyu"
+    },
+    "first_release_date": 1445299200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 83795,
+    "name": "Just Dance 2016: Gold Edition",
+    "platforms": [
+     48,
+     41,
+     49
+    ],
+    "slug": "just-dance-2016-gold-edition",
+    "version_parent": 11206
+   },
+   {
+    "cover": {
+     "id": 291780,
+     "image_id": "co6950"
+    },
+    "first_release_date": 1349136000,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 241439,
+    "name": "Just Dance 4: Special Edition",
+    "platforms": [
+     5
+    ],
+    "slug": "just-dance-4-special-edition",
+    "version_parent": 3255
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 388729,
+     "image_id": "co8by1"
+    },
+    "first_release_date": 1728950400,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 241442,
+    "name": "Just Dance VR",
+    "platforms": [
+     386,
+     471
+    ],
+    "slug": "just-dance-vr"
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     },
+     {
+      "id": 14024,
+      "name": "Just Dance Wii"
+     }
+    ],
+    "cover": {
+     "id": 90005,
+     "image_id": "co1xg5"
+    },
+    "first_release_date": 1396483200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 15560,
+    "name": "Just Dance Wii U",
+    "platforms": [
+     41
+    ],
+    "slug": "just-dance-wii-u"
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 303840,
+     "image_id": "co6ig0"
+    },
+    "first_release_date": 1469491200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 250329,
+    "name": "Just Dance: Vitality School",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "just-dance-vitality-school"
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 393334,
+     "image_id": "co8fhy"
+    },
+    "first_release_date": 1728950400,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 306150,
+    "name": "Just Dance 2025 Edition",
+    "platforms": [
+     169,
+     167,
+     130
+    ],
+    "slug": "just-dance-2025-edition"
+   },
+   {
+    "aggregated_rating": 72.5,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89970,
+     "image_id": "co1xf6"
+    },
+    "first_release_date": 1349136000,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3255,
+    "name": "Just Dance 4",
+    "platforms": [
+     9,
+     5,
+     41,
+     12
+    ],
+    "rating": 80.05006383133363,
+    "slug": "just-dance-4",
+    "total_rating_count": 35
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89679,
+     "image_id": "co1x73"
+    },
+    "first_release_date": 1286841600,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 2664,
+    "name": "Just Dance 2",
+    "platforms": [
+     5
+    ],
+    "rating": 69.97357032879832,
+    "slug": "just-dance-2",
+    "total_rating_count": 17
+   },
+   {
+    "collections": [
+     {
+      "id": 13984,
+      "name": "Just Dance Kids"
+     },
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 90008,
+     "image_id": "co1xg8"
+    },
+    "first_release_date": 1382400000,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3301,
+    "name": "Just Dance Kids 2014",
+    "platforms": [
+     5,
+     41,
+     12
+    ],
+    "rating": 60.0,
+    "slug": "just-dance-kids-2014",
+    "total_rating_count": 0
+   },
+   {
+    "aggregated_rating": 30.0,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 362381,
+     "image_id": "co7rm5"
+    },
+    "first_release_date": 1258416000,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 2704,
+    "name": "Just Dance",
+    "platforms": [
+     5
+    ],
+    "rating": 59.97491404464795,
+    "slug": "just-dance",
+    "total_rating_count": 21
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 303844,
+     "image_id": "co6ig4"
+    },
+    "franchises": [
+     3439
+    ],
+    "game_type": 11,
+    "genres": [
+     7
+    ],
+    "id": 250330,
+    "name": "Just Dance 2023 Edition",
+    "parent_game": 216318,
+    "platforms": [
+     170
+    ],
+    "slug": "just-dance-2023-edition--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 13984,
+      "name": "Just Dance Kids"
+     },
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 90006,
+     "image_id": "co1xg6"
+    },
+    "first_release_date": 1289260800,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3299,
+    "name": "Just Dance Kids",
+    "platforms": [
+     9,
+     5,
+     12
+    ],
+    "slug": "just-dance-kids"
+   },
+   {
+    "aggregated_rating": 71.66666666666667,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89968,
+     "image_id": "co1xf4"
+    },
+    "first_release_date": 1508803200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 37067,
+    "name": "Just Dance 2018",
+    "platforms": [
+     9,
+     48,
+     5,
+     41,
+     12,
+     49,
+     130
+    ],
+    "rating": 67.73435302528652,
+    "slug": "just-dance-2018",
+    "total_rating_count": 17
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 291783,
+     "image_id": "co6953"
+    },
+    "first_release_date": 1340928000,
+    "franchises": [
+     3439
+    ],
+    "game_type": 10,
+    "genres": [
+     7
+    ],
+    "id": 241441,
+    "name": "Just Dance: Greatest Hits",
+    "parent_game": 3303,
+    "platforms": [
+     5,
+     12
+    ],
+    "slug": "just-dance-greatest-hits"
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 349483,
+     "image_id": "co7hnv"
+    },
+    "franchises": [
+     3439
+    ],
+    "game_type": 3,
+    "genres": [
+     7
+    ],
+    "id": 279827,
+    "name": "Just Dance 2015 China and Just Dance 2017 China Combo Pack",
+    "platforms": [
+     49
+    ],
+    "slug": "just-dance-2015-china-and-just-dance-2017-china-combo-pack"
+   },
+   {
+    "collections": [
+     {
+      "id": 9999,
+      "name": "Just Dance: Disney Party"
+     },
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 127617,
+     "image_id": "co2qgx"
+    },
+    "first_release_date": 1445299200,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7,
+     14
+    ],
+    "id": 19340,
+    "name": "Just Dance: Disney Party 2",
+    "platforms": [
+     5,
+     41,
+     12,
+     49
+    ],
+    "rating": 65.0,
+    "slug": "just-dance-disney-party-2",
+    "total_rating_count": 2
+   },
+   {
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 90013,
+     "image_id": "co1xgd"
+    },
+    "first_release_date": 1449273600,
+    "franchises": [
+     961,
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 59946,
+    "name": "Yo-kai Watch Dance: Just Dance Special Edition",
+    "platforms": [
+     41
+    ],
+    "slug": "yo-kai-watch-dance-just-dance-special-edition"
+   },
+   {
+    "aggregated_rating": 55.0,
+    "collections": [
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 89965,
+     "image_id": "co1xf1"
+    },
+    "first_release_date": 1540252800,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 103315,
+    "name": "Just Dance 2019",
+    "platforms": [
+     48,
+     5,
+     41,
+     12,
+     49,
+     130
+    ],
+    "rating": 68.41672446313325,
+    "slug": "just-dance-2019",
+    "total_rating_count": 19
+   },
+   {
+    "collections": [
+     {
+      "id": 14024,
+      "name": "Just Dance Wii"
+     },
+     {
+      "id": 527,
+      "name": "Just Dance"
+     }
+    ],
+    "cover": {
+     "id": 90012,
+     "image_id": "co1xgc"
+    },
+    "first_release_date": 1343260800,
+    "franchises": [
+     3439
+    ],
+    "game_type": 0,
+    "genres": [
+     7
+    ],
+    "id": 3298,
+    "name": "Just Dance Wii 2",
+    "platforms": [
+     5
+    ],
+    "slug": "just-dance-wii-2"
+   }
+  ],
+  "name": "Just Dance",
+  "v": 4
+ },
  "3456": {
   "checked": "2026-11-02T22:38:28+00:00",
   "games": [
@@ -251110,6 +255296,1402 @@
    }
   ],
   "name": "Jurassic Park",
+  "v": 4
+ },
+ "4883": {
+  "checked": "2026-11-03T04:43:53+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 423463,
+     "image_id": "co92qv"
+    },
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 323056,
+    "name": "Sydney 2000",
+    "parent_game": 8333,
+    "platforms": [
+     22
+    ],
+    "slug": "sydney-2000--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     },
+     {
+      "id": 10205,
+      "name": "Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 32223,
+     "image_id": "mppxacqij8iupnjjz5tz"
+    },
+    "first_release_date": 1212278400,
+    "franchises": [
+     457,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 56926,
+    "name": "Sonic at the Olympic Games",
+    "parent_game": 2706,
+    "platforms": [
+     55
+    ],
+    "slug": "sonic-at-the-olympic-games"
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 452367,
+     "image_id": "co9p1r"
+    },
+    "first_release_date": 1341014400,
+    "franchises": [
+     845,
+     457,
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     35
+    ],
+    "id": 294652,
+    "name": "Mario & Sonic at the London 2012 Olympic Games: Virtual Card Album",
+    "platforms": [
+     37
+    ],
+    "slug": "mario-and-sonic-at-the-london-2012-olympic-games-virtual-card-album"
+   },
+   {
+    "aggregated_rating": 68.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 93823,
+     "image_id": "co20e7"
+    },
+    "first_release_date": 1466640000,
+    "franchises": [
+     457,
+     845,
+     4883,
+     763
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 11258,
+    "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+    "platforms": [
+     41
+    ],
+    "rating": 63.9548858431973,
+    "slug": "mario-and-sonic-at-the-rio-2016-olympic-games",
+    "total_rating_count": 19
+   },
+   {
+    "aggregated_rating": 53.33333333333334,
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 171695,
+     "image_id": "co3ohb"
+    },
+    "first_release_date": 1263254400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 2709,
+    "name": "Vancouver 2010",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 65.0,
+    "slug": "vancouver-2010",
+    "total_rating_count": 6
+   },
+   {
+    "cover": {
+     "id": 486269,
+     "image_id": "coaf7h"
+    },
+    "first_release_date": 757296000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 365674,
+    "name": "Winter Olympic Games",
+    "platforms": [
+     13,
+     16
+    ],
+    "slug": "winter-olympic-games--2"
+   },
+   {
+    "cover": {
+     "id": 511298,
+     "image_id": "coayiq"
+    },
+    "first_release_date": 725760000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 345179,
+    "name": "Olympic Gold: Barcelona '92",
+    "parent_game": 46266,
+    "platforms": [
+     35,
+     64
+    ],
+    "slug": "olympic-gold-barcelona-92--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97074,
+     "image_id": "co22wi"
+    },
+    "first_release_date": 1328745600,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132110,
+    "name": "Mario & Sonic at the London 2012 Olympic Games",
+    "parent_game": 2708,
+    "platforms": [
+     37
+    ],
+    "rating": 58.74200426439232,
+    "slug": "mario-and-sonic-at-the-london-2012-olympic-games",
+    "total_rating_count": 6
+   },
+   {
+    "cover": {
+     "id": 554506,
+     "image_id": "cobvuy"
+    },
+    "first_release_date": 725760000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 3,
+    "genres": [
+     14
+    ],
+    "id": 397365,
+    "name": "Mega Sports",
+    "platforms": [
+     25
+    ],
+    "slug": "mega-sports--1"
+   },
+   {
+    "cover": {
+     "id": 554508,
+     "image_id": "cobvv0"
+    },
+    "first_release_date": 725760000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 3,
+    "genres": [
+     14
+    ],
+    "id": 397366,
+    "name": "Mega Sports",
+    "platforms": [
+     16
+    ],
+    "slug": "mega-sports--2"
+   },
+   {
+    "cover": {
+     "id": 554509,
+     "image_id": "cobvv1"
+    },
+    "first_release_date": 725760000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 3,
+    "genres": [
+     14
+    ],
+    "id": 397367,
+    "name": "Mega Sports",
+    "platforms": [
+     26
+    ],
+    "slug": "mega-sports--3"
+   },
+   {
+    "collections": [
+     {
+      "id": 2922,
+      "name": "Track & Field"
+     }
+    ],
+    "first_release_date": 579398400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 278574,
+    "name": "Hyper Olympic '84",
+    "platforms": [
+     52
+    ],
+    "slug": "hyper-olympic-84"
+   },
+   {
+    "bundles": [
+     323110
+    ],
+    "collections": [
+     {
+      "id": 2370,
+      "name": "Summer Games"
+     }
+    ],
+    "cover": {
+     "id": 355710,
+     "image_id": "co7mgu"
+    },
+    "first_release_date": 460166400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 281679,
+    "name": "Summer Games",
+    "parent_game": 12340,
+    "platforms": [
+     65
+    ],
+    "slug": "summer-games--10"
+   },
+   {
+    "aggregated_rating": 65.0,
+    "collections": [
+     {
+      "id": 10205,
+      "name": "Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 131373,
+     "image_id": "co2td9"
+    },
+    "first_release_date": 1588809600,
+    "franchises": [
+     457,
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 116802,
+    "name": "Sonic at the Olympic Games: Tokyo 2020",
+    "platforms": [
+     132,
+     34,
+     39
+    ],
+    "slug": "sonic-at-the-olympic-games-tokyo-2020",
+    "total_rating_count": 6
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97075,
+     "image_id": "co22wj"
+    },
+    "first_release_date": 1455753600,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132111,
+    "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+    "parent_game": 11258,
+    "platforms": [
+     37
+    ],
+    "slug": "mario-and-sonic-at-the-rio-2016-olympic-games--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 443763,
+     "image_id": "co9ier"
+    },
+    "first_release_date": 757296000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     10,
+     14
+    ],
+    "id": 4507,
+    "name": "Winter Olympic Games",
+    "platforms": [
+     19,
+     29
+    ],
+    "slug": "winter-olympic-games"
+   },
+   {
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 122145,
+     "image_id": "co2m8x"
+    },
+    "first_release_date": 837648000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 43735,
+    "name": "Olympic Summer Games: Atlanta '96",
+    "platforms": [
+     50,
+     32,
+     7
+    ],
+    "slug": "olympic-summer-games-atlanta-96"
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 161102,
+     "image_id": "co3gb2"
+    },
+    "first_release_date": 1579737600,
+    "franchises": [
+     845,
+     457,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14,
+     33
+    ],
+    "id": 158975,
+    "name": "Mario & Sonic at the Olympic Games Tokyo 2020: Arcade Edition",
+    "parent_game": 116795,
+    "platforms": [
+     52
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-games-tokyo-2020-arcade-edition"
+   },
+   {
+    "cover": {
+     "id": 265642,
+     "image_id": "co5oyy"
+    },
+    "first_release_date": 698457600,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 46266,
+    "name": "Olympic Gold: Barcelona '92",
+    "platforms": [
+     29
+    ],
+    "rating": 74.92514970059881,
+    "slug": "olympic-gold-barcelona-92",
+    "total_rating_count": 7
+   },
+   {
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 198254,
+     "image_id": "co48z2"
+    },
+    "first_release_date": 831340800,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     13,
+     14
+    ],
+    "id": 4264,
+    "name": "Olympic Games: Atlanta 1996",
+    "platforms": [
+     50
+    ],
+    "slug": "olympic-games-atlanta-1996"
+   },
+   {
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 412006,
+     "image_id": "co8twm"
+    },
+    "first_release_date": 851990400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 299314,
+    "name": "Olympic Summer Games",
+    "parent_game": 4493,
+    "platforms": [
+     33
+    ],
+    "slug": "olympic-summer-games--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 10205,
+      "name": "Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 32224,
+     "image_id": "wevnyfc52sr0dpfr8wej"
+    },
+    "first_release_date": 1264723200,
+    "franchises": [
+     457,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 56927,
+    "name": "Sonic at the Olympic Winter Games",
+    "parent_game": 2707,
+    "platforms": [
+     39
+    ],
+    "slug": "sonic-at-the-olympic-winter-games"
+   },
+   {
+    "aggregated_rating": 60.0,
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 265660,
+     "image_id": "co5ozg"
+    },
+    "first_release_date": 831340800,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 4493,
+    "name": "Olympic Summer Games",
+    "platforms": [
+     19,
+     29
+    ],
+    "slug": "olympic-summer-games",
+    "total_rating_count": 1
+   },
+   {
+    "aggregated_rating": 63.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97077,
+     "image_id": "co22wl"
+    },
+    "first_release_date": 1572566400,
+    "franchises": [
+     845,
+     457,
+     763,
+     4883,
+     1567,
+     1752
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 116795,
+    "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
+    "platforms": [
+     130
+    ],
+    "rating": 71.99529662351432,
+    "slug": "mario-and-sonic-at-the-olympic-games-tokyo-2020",
+    "total_rating_count": 22
+   },
+   {
+    "aggregated_rating": 67.0,
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 96926,
+     "image_id": "co22se"
+    },
+    "first_release_date": 1340668800,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 7055,
+    "name": "London 2012: The Official Video Game",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 64.57377691516623,
+    "slug": "london-2012-the-official-video-game",
+    "total_rating_count": 20
+   },
+   {
+    "collections": [
+     {
+      "id": 12219,
+      "name": "Sam the Olympic Eagle"
+     }
+    ],
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 349452,
+    "name": "Sam the Olympic Eagle: Rings",
+    "platforms": [
+     411
+    ],
+    "slug": "sam-the-olympic-eagle-rings"
+   },
+   {
+    "collections": [
+     {
+      "id": 12219,
+      "name": "Sam the Olympic Eagle"
+     }
+    ],
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "id": 349451,
+    "name": "Sam the Olympic Eagle: Torch",
+    "platforms": [
+     411
+    ],
+    "slug": "sam-the-olympic-eagle-torch"
+   },
+   {
+    "cover": {
+     "id": 224940,
+     "image_id": "co4tkc"
+    },
+    "first_release_date": 851990400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 4455,
+    "name": "Izzy's Quest for the Olympic Rings",
+    "platforms": [
+     19,
+     29
+    ],
+    "slug": "izzy-s-quest-for-the-olympic-rings"
+   },
+   {
+    "aggregated_rating": 60.0,
+    "cover": {
+     "id": 80418,
+     "image_id": "co1q1u"
+    },
+    "first_release_date": 1088726400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 22298,
+    "name": "Athens 2004",
+    "platforms": [
+     6,
+     8
+    ],
+    "rating": 30.46573321311207,
+    "slug": "athens-2004",
+    "total_rating_count": 9
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97071,
+     "image_id": "co22wf"
+    },
+    "first_release_date": 1200528000,
+    "franchises": [
+     457,
+     845,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132108,
+    "name": "Mario & Sonic at the Olympic Games",
+    "parent_game": 2706,
+    "platforms": [
+     20
+    ],
+    "rating": 63.75403237349176,
+    "slug": "mario-and-sonic-at-the-olympic-games--1",
+    "total_rating_count": 19
+   },
+   {
+    "aggregated_rating": 70.75,
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 101522,
+     "image_id": "co26c2"
+    },
+    "first_release_date": 1563926400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 116797,
+    "name": "Olympic Games Tokyo 2020: The Official Video Game",
+    "platforms": [
+     170,
+     169,
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 69.91780730436213,
+    "slug": "olympic-games-tokyo-2020-the-official-video-game",
+    "total_rating_count": 13
+   },
+   {
+    "collections": [
+     {
+      "id": 2922,
+      "name": "Track & Field"
+     }
+    ],
+    "cover": {
+     "id": 427955,
+     "image_id": "co967n"
+    },
+    "first_release_date": 488160000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 278484,
+    "name": "Hyper Olympic",
+    "parent_game": 278573,
+    "platforms": [
+     99
+    ],
+    "slug": "hyper-olympic"
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97072,
+     "image_id": "co22wg"
+    },
+    "first_release_date": 1255392000,
+    "franchises": [
+     457,
+     845,
+     4883,
+     763
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132109,
+    "name": "Mario & Sonic at the Olympic Winter Games",
+    "parent_game": 2707,
+    "platforms": [
+     20
+    ],
+    "rating": 79.78507734791462,
+    "slug": "mario-and-sonic-at-the-olympic-winter-games--1",
+    "total_rating_count": 11
+   },
+   {
+    "cover": {
+     "id": 486268,
+     "image_id": "coaf7g"
+    },
+    "first_release_date": 754704000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 365676,
+    "name": "Winter Olympic Games",
+    "parent_game": 4507,
+    "platforms": [
+     35,
+     64
+    ],
+    "slug": "winter-olympic-games--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 2370,
+      "name": "Summer Games"
+     }
+    ],
+    "cover": {
+     "id": 355704,
+     "image_id": "co7mgo"
+    },
+    "first_release_date": 460166400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 281678,
+    "name": "Summer Games",
+    "parent_game": 12340,
+    "platforms": [
+     75
+    ],
+    "slug": "summer-games--9"
+   },
+   {
+    "cover": {
+     "id": 554510,
+     "image_id": "cobvv2"
+    },
+    "first_release_date": 725760000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 3,
+    "genres": [
+     14
+    ],
+    "id": 397368,
+    "name": "Mega Sports",
+    "platforms": [
+     63
+    ],
+    "slug": "mega-sports--4"
+   },
+   {
+    "aggregated_rating": 74.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 89271,
+     "image_id": "co1wvr"
+    },
+    "first_release_date": 1255392000,
+    "franchises": [
+     845,
+     457,
+     4883,
+     763
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 2707,
+    "name": "Mario & Sonic at the Olympic Winter Games",
+    "platforms": [
+     5
+    ],
+    "rating": 68.92615000070866,
+    "slug": "mario-and-sonic-at-the-olympic-winter-games",
+    "total_rating_count": 42
+   },
+   {
+    "cover": {
+     "id": 486273,
+     "image_id": "coaf7l"
+    },
+    "first_release_date": 757382400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 365673,
+    "name": "Winter Olympic Games",
+    "parent_game": 4507,
+    "platforms": [
+     33
+    ],
+    "slug": "winter-olympic-games--3"
+   },
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 427698,
+     "image_id": "co960i"
+    },
+    "first_release_date": 965001600,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 8333,
+    "name": "Sydney 2000",
+    "platforms": [
+     4,
+     6,
+     7,
+     23
+    ],
+    "rating": 70.66759971893187,
+    "slug": "sydney-2000",
+    "total_rating_count": 15
+   },
+   {
+    "aggregated_rating": 58.4,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 89287,
+     "image_id": "co1ww7"
+    },
+    "first_release_date": 1383868800,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883,
+     1567
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 3990,
+    "name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+    "platforms": [
+     41
+    ],
+    "rating": 65.02946088260622,
+    "slug": "mario-sonic-at-the-sochi-2014-olympic-winter-games",
+    "total_rating_count": 19
+   },
+   {
+    "collections": [
+     {
+      "id": 2922,
+      "name": "Track & Field"
+     }
+    ],
+    "cover": {
+     "id": 399042,
+     "image_id": "co8jwi"
+    },
+    "first_release_date": 431222400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14,
+     33
+    ],
+    "id": 278573,
+    "name": "Hyper Olympic",
+    "platforms": [
+     52
+    ],
+    "slug": "hyper-olympic--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 2370,
+      "name": "Summer Games"
+     }
+    ],
+    "cover": {
+     "id": 554478,
+     "image_id": "cobvu6"
+    },
+    "first_release_date": 586396800,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 281676,
+    "name": "Summer Games",
+    "parent_game": 12340,
+    "platforms": [
+     60
+    ],
+    "slug": "summer-games--7"
+   },
+   {
+    "cover": {
+     "id": 554504,
+     "image_id": "cobvuw"
+    },
+    "first_release_date": 725760000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 3,
+    "genres": [
+     14
+    ],
+    "id": 94333,
+    "name": "Mega Sports",
+    "platforms": [
+     15
+    ],
+    "slug": "mega-sports"
+   },
+   {
+    "collections": [
+     {
+      "id": 3731,
+      "name": "Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 389405,
+     "image_id": "co8cgt"
+    },
+    "first_release_date": 1711843200,
+    "franchises": [
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 305715,
+    "name": "Olympics Go! Paris 2024",
+    "platforms": [
+     34,
+     6,
+     39
+    ],
+    "slug": "olympics-go-paris-2024"
+   },
+   {
+    "cover": {
+     "id": 471448,
+     "image_id": "coa3rs"
+    },
+    "first_release_date": 963446400,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 266555,
+    "name": "Ganbare! Nippon! Olympics 2000",
+    "parent_game": 3517,
+    "platforms": [
+     4,
+     7
+    ],
+    "slug": "ganbare-nippon-olympics-2000"
+   },
+   {
+    "bundles": [
+     397368
+    ],
+    "collections": [
+     {
+      "id": 2370,
+      "name": "Summer Games"
+     }
+    ],
+    "cover": {
+     "id": 554503,
+     "image_id": "cobvuv"
+    },
+    "first_release_date": 725760000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 281682,
+    "name": "Summer Games",
+    "parent_game": 12340,
+    "platforms": [
+     63
+    ],
+    "slug": "summer-games--11"
+   },
+   {
+    "bundles": [
+     281674
+    ],
+    "collections": [
+     {
+      "id": 2370,
+      "name": "Summer Games"
+     }
+    ],
+    "cover": {
+     "id": 355703,
+     "image_id": "co7mgn"
+    },
+    "first_release_date": 560044800,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 281670,
+    "name": "Summer Games",
+    "parent_game": 12340,
+    "platforms": [
+     59
+    ],
+    "slug": "summer-games--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 2370,
+      "name": "Summer Games"
+     }
+    ],
+    "cover": {
+     "id": 554480,
+     "image_id": "cobvu8"
+    },
+    "first_release_date": 520560000,
+    "franchises": [
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 281677,
+    "name": "Summer Games",
+    "parent_game": 12340,
+    "platforms": [
+     125
+    ],
+    "slug": "summer-games--8"
+   },
+   {
+    "aggregated_rating": 65.5,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     },
+     {
+      "id": 240,
+      "name": "Super Mario"
+     },
+     {
+      "id": 2156,
+      "name": "Sonic the Hedgehog"
+     }
+    ],
+    "cover": {
+     "id": 89269,
+     "image_id": "co1wvp"
+    },
+    "first_release_date": 1194307200,
+    "franchises": [
+     845,
+     457,
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 2706,
+    "name": "Mario & Sonic at the Olympic Games",
+    "platforms": [
+     5
+    ],
+    "rating": 63.72728112968648,
+    "slug": "mario-and-sonic-at-the-olympic-games",
+    "total_rating_count": 72
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 96616,
+     "image_id": "co22js"
+    },
+    "first_release_date": 1454284800,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 85273,
+    "name": "Mario & Sonic at the Rio 2016 Olympic Games: Arcade Edition",
+    "parent_game": 11258,
+    "platforms": [
+     52
+    ],
+    "slug": "mario-and-sonic-at-the-rio-2016-olympic-games-arcade-edition"
+   },
+   {
+    "aggregated_rating": 62.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 93254,
+     "image_id": "co1zye"
+    },
+    "first_release_date": 1321315200,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 2708,
+    "name": "Mario & Sonic at the London 2012 Olympic Games",
+    "platforms": [
+     5
+    ],
+    "rating": 67.10833357510552,
+    "slug": "mario-sonic-at-the-london-2012-olympic-games",
+    "total_rating_count": 39
+   }
+  ],
+  "name": "Olympic Games",
   "v": 4
  },
  "4911": {
@@ -462869,6 +468451,461 @@
   "name": "Bioshock",
   "v": 4
  },
+ "c10204": {
+  "checked": "2026-11-03T04:43:54+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     },
+     {
+      "id": 10205,
+      "name": "Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 32223,
+     "image_id": "mppxacqij8iupnjjz5tz"
+    },
+    "first_release_date": 1212278400,
+    "franchises": [
+     457,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 56926,
+    "name": "Sonic at the Olympic Games",
+    "parent_game": 2706,
+    "platforms": [
+     55
+    ],
+    "slug": "sonic-at-the-olympic-games"
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 452367,
+     "image_id": "co9p1r"
+    },
+    "first_release_date": 1341014400,
+    "franchises": [
+     845,
+     457,
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     35
+    ],
+    "id": 294652,
+    "name": "Mario & Sonic at the London 2012 Olympic Games: Virtual Card Album",
+    "platforms": [
+     37
+    ],
+    "slug": "mario-and-sonic-at-the-london-2012-olympic-games-virtual-card-album"
+   },
+   {
+    "aggregated_rating": 68.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 93823,
+     "image_id": "co20e7"
+    },
+    "first_release_date": 1466640000,
+    "franchises": [
+     457,
+     845,
+     4883,
+     763
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 11258,
+    "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+    "platforms": [
+     41
+    ],
+    "rating": 63.9548858431973,
+    "slug": "mario-and-sonic-at-the-rio-2016-olympic-games",
+    "total_rating_count": 19
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97074,
+     "image_id": "co22wi"
+    },
+    "first_release_date": 1328745600,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132110,
+    "name": "Mario & Sonic at the London 2012 Olympic Games",
+    "parent_game": 2708,
+    "platforms": [
+     37
+    ],
+    "rating": 58.74200426439232,
+    "slug": "mario-and-sonic-at-the-london-2012-olympic-games",
+    "total_rating_count": 6
+   },
+   {
+    "aggregated_rating": 74.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 89271,
+     "image_id": "co1wvr"
+    },
+    "first_release_date": 1255392000,
+    "franchises": [
+     845,
+     457,
+     4883,
+     763
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 2707,
+    "name": "Mario & Sonic at the Olympic Winter Games",
+    "platforms": [
+     5
+    ],
+    "rating": 68.92615000070866,
+    "slug": "mario-and-sonic-at-the-olympic-winter-games",
+    "total_rating_count": 42
+   },
+   {
+    "aggregated_rating": 58.4,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 89287,
+     "image_id": "co1ww7"
+    },
+    "first_release_date": 1383868800,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883,
+     1567
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 3990,
+    "name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+    "platforms": [
+     41
+    ],
+    "rating": 65.02946088260622,
+    "slug": "mario-sonic-at-the-sochi-2014-olympic-winter-games",
+    "total_rating_count": 19
+   },
+   {
+    "aggregated_rating": 65.5,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     },
+     {
+      "id": 240,
+      "name": "Super Mario"
+     },
+     {
+      "id": 2156,
+      "name": "Sonic the Hedgehog"
+     }
+    ],
+    "cover": {
+     "id": 89269,
+     "image_id": "co1wvp"
+    },
+    "first_release_date": 1194307200,
+    "franchises": [
+     845,
+     457,
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 2706,
+    "name": "Mario & Sonic at the Olympic Games",
+    "platforms": [
+     5
+    ],
+    "rating": 63.72728112968648,
+    "slug": "mario-and-sonic-at-the-olympic-games",
+    "total_rating_count": 72
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 96616,
+     "image_id": "co22js"
+    },
+    "first_release_date": 1454284800,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 85273,
+    "name": "Mario & Sonic at the Rio 2016 Olympic Games: Arcade Edition",
+    "parent_game": 11258,
+    "platforms": [
+     52
+    ],
+    "slug": "mario-and-sonic-at-the-rio-2016-olympic-games-arcade-edition"
+   },
+   {
+    "aggregated_rating": 62.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 93254,
+     "image_id": "co1zye"
+    },
+    "first_release_date": 1321315200,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 2708,
+    "name": "Mario & Sonic at the London 2012 Olympic Games",
+    "platforms": [
+     5
+    ],
+    "rating": 67.10833357510552,
+    "slug": "mario-sonic-at-the-london-2012-olympic-games",
+    "total_rating_count": 39
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 161102,
+     "image_id": "co3gb2"
+    },
+    "first_release_date": 1579737600,
+    "franchises": [
+     845,
+     457,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14,
+     33
+    ],
+    "id": 158975,
+    "name": "Mario & Sonic at the Olympic Games Tokyo 2020: Arcade Edition",
+    "parent_game": 116795,
+    "platforms": [
+     52
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-games-tokyo-2020-arcade-edition"
+   },
+   {
+    "aggregated_rating": 63.0,
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97077,
+     "image_id": "co22wl"
+    },
+    "first_release_date": 1572566400,
+    "franchises": [
+     845,
+     457,
+     763,
+     4883,
+     1567,
+     1752
+    ],
+    "game_type": 0,
+    "genres": [
+     14
+    ],
+    "id": 116795,
+    "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
+    "platforms": [
+     130
+    ],
+    "rating": 71.99529662351432,
+    "slug": "mario-and-sonic-at-the-olympic-games-tokyo-2020",
+    "total_rating_count": 22
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97075,
+     "image_id": "co22wj"
+    },
+    "first_release_date": 1455753600,
+    "franchises": [
+     457,
+     845,
+     763,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132111,
+    "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+    "parent_game": 11258,
+    "platforms": [
+     37
+    ],
+    "slug": "mario-and-sonic-at-the-rio-2016-olympic-games--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97071,
+     "image_id": "co22wf"
+    },
+    "first_release_date": 1200528000,
+    "franchises": [
+     457,
+     845,
+     4883
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132108,
+    "name": "Mario & Sonic at the Olympic Games",
+    "parent_game": 2706,
+    "platforms": [
+     20
+    ],
+    "rating": 63.75403237349176,
+    "slug": "mario-and-sonic-at-the-olympic-games--1",
+    "total_rating_count": 19
+   },
+   {
+    "collections": [
+     {
+      "id": 10204,
+      "name": "Mario & Sonic at the Olympic Games"
+     }
+    ],
+    "cover": {
+     "id": 97072,
+     "image_id": "co22wg"
+    },
+    "first_release_date": 1255392000,
+    "franchises": [
+     457,
+     845,
+     4883,
+     763
+    ],
+    "game_type": 11,
+    "genres": [
+     14
+    ],
+    "id": 132109,
+    "name": "Mario & Sonic at the Olympic Winter Games",
+    "parent_game": 2707,
+    "platforms": [
+     20
+    ],
+    "rating": 79.78507734791462,
+    "slug": "mario-and-sonic-at-the-olympic-winter-games--1",
+    "total_rating_count": 11
+   }
+  ],
+  "name": "Mario & Sonic at the Olympic Games",
+  "v": 4
+ },
  "c1024": {
   "checked": "2026-11-02T22:39:07+00:00",
   "games": [
@@ -574559,6 +580596,384 @@
   "name": "Mario Kart",
   "v": 4
  },
+ "c452": {
+  "checked": "2026-11-03T04:43:54+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 435194,
+     "image_id": "co9bsq"
+    },
+    "first_release_date": 564451200,
+    "franchises": [
+     1821
+    ],
+    "game_type": 8,
+    "genres": [
+     14
+    ],
+    "id": 329510,
+    "name": "Punch-Out!!: Shouhin-ban",
+    "parent_game": 9150,
+    "platforms": [
+     99
+    ],
+    "slug": "punch-out-shouhin-ban"
+   },
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 446632,
+     "image_id": "co9kmg"
+    },
+    "first_release_date": 462844800,
+    "franchises": [
+     1821
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     14
+    ],
+    "id": 9152,
+    "name": "Super Punch-Out!!",
+    "platforms": [
+     52
+    ],
+    "rating": 65.18298071896959,
+    "slug": "super-punch-out--1",
+    "total_rating_count": 7
+   },
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 113000,
+     "image_id": "co2f6w"
+    },
+    "first_release_date": 1256601600,
+    "franchises": [
+     1821
+    ],
+    "game_type": 4,
+    "genres": [
+     4,
+     14
+    ],
+    "id": 9153,
+    "name": "Doc Louis's Punch-Out!!",
+    "parent_game": 2194,
+    "platforms": [
+     5
+    ],
+    "rating": 70.0,
+    "slug": "doc-louiss-punch-out",
+    "total_rating_count": 2
+   },
+   {
+    "aggregated_rating": 90.0,
+    "bundles": [
+     213363
+    ],
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 151841,
+     "image_id": "co395t"
+    },
+    "first_release_date": 782956800,
+    "franchises": [
+     1821
+    ],
+    "game_type": 8,
+    "genres": [
+     4,
+     14
+    ],
+    "id": 9151,
+    "name": "Super Punch-Out!!",
+    "parent_game": 9152,
+    "platforms": [
+     19,
+     5,
+     41,
+     137,
+     58
+    ],
+    "rating": 77.65241632714837,
+    "slug": "super-punch-out",
+    "total_rating_count": 64
+   },
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 137202,
+     "image_id": "co2xv6"
+    },
+    "first_release_date": 1522368000,
+    "franchises": [
+     1821
+    ],
+    "game_type": 11,
+    "genres": [
+     4,
+     14,
+     33
+    ],
+    "id": 68357,
+    "name": "Arcade Archives: Punch-Out!!",
+    "parent_game": 9150,
+    "platforms": [
+     130
+    ],
+    "rating": 77.0,
+    "slug": "arcade-archives-punch-out",
+    "total_rating_count": 1
+   },
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 284118,
+     "image_id": "co6386"
+    },
+    "first_release_date": 561513600,
+    "franchises": [
+     1821,
+     3257
+    ],
+    "game_type": 10,
+    "genres": [
+     4,
+     14
+    ],
+    "id": 2195,
+    "name": "Mike Tyson's Punch-Out!!",
+    "parent_game": 329510,
+    "platforms": [
+     52,
+     99,
+     18
+    ],
+    "rating": 83.09245428121704,
+    "slug": "mike-tysons-punch-out",
+    "total_rating_count": 114
+   },
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 209145,
+     "image_id": "co4hdl"
+    },
+    "first_release_date": 1512432000,
+    "franchises": [
+     1821
+    ],
+    "game_type": 11,
+    "genres": [
+     4,
+     33
+    ],
+    "id": 191439,
+    "name": "Punch-Out!!",
+    "parent_game": 2194,
+    "platforms": [
+     34
+    ],
+    "slug": "punch-out--2"
+   },
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 210418,
+     "image_id": "co4icy"
+    },
+    "first_release_date": 1597363200,
+    "franchises": [
+     1821
+    ],
+    "game_type": 11,
+    "genres": [
+     14,
+     33
+    ],
+    "id": 147118,
+    "name": "Arcade Archives: Super Punch-Out!!",
+    "parent_game": 9152,
+    "platforms": [
+     130
+    ],
+    "slug": "arcade-archives-super-punch-out"
+   },
+   {
+    "bundles": [
+     213361
+    ],
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 457419,
+     "image_id": "co9sy3"
+    },
+    "first_release_date": 649555200,
+    "franchises": [
+     1821
+    ],
+    "game_type": 11,
+    "genres": [
+     14,
+     33
+    ],
+    "id": 84799,
+    "name": "Punch-Out!!",
+    "parent_game": 2195,
+    "platforms": [
+     37,
+     5,
+     99,
+     41,
+     18
+    ],
+    "rating": 79.9905247662975,
+    "slug": "punch-out--3",
+    "total_rating_count": 39
+   },
+   {
+    "aggregated_rating": 86.8,
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 113006,
+     "image_id": "co2f72"
+    },
+    "first_release_date": 1242604800,
+    "franchises": [
+     1821
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     14,
+     31
+    ],
+    "id": 2194,
+    "name": "Punch-Out!!",
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 84.85678655850188,
+    "slug": "punch-out",
+    "total_rating_count": 58
+   },
+   {
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 182245,
+     "image_id": "co3wmd"
+    },
+    "first_release_date": 483753600,
+    "franchises": [
+     1821
+    ],
+    "game_type": 0,
+    "genres": [
+     14,
+     33
+    ],
+    "id": 38517,
+    "name": "Arm Wrestling",
+    "platforms": [
+     52
+    ],
+    "slug": "arm-wrestling"
+   },
+   {
+    "aggregated_rating": 100.0,
+    "collections": [
+     {
+      "id": 452,
+      "name": "Punch-Out!!"
+     }
+    ],
+    "cover": {
+     "id": 198263,
+     "image_id": "co48zb"
+    },
+    "first_release_date": 445824000,
+    "franchises": [
+     1821
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     14,
+     33
+    ],
+    "id": 9150,
+    "name": "Punch-Out!!",
+    "platforms": [
+     52
+    ],
+    "rating": 52.17381318351266,
+    "slug": "punch-out--1",
+    "total_rating_count": 10
+   }
+  ],
+  "name": "Punch-Out!!",
+  "v": 4
+ },
  "c453": {
   "checked": "2026-11-02T22:39:26+00:00",
   "games": [
@@ -584210,6 +590625,537 @@
   "name": "Super Mario Advance",
   "v": 4
  },
+ "c521": {
+  "checked": "2026-11-03T04:43:53+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 77913,
+     "image_id": "co1o49"
+    },
+    "first_release_date": 987206400,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 44042,
+    "name": "Doubutsu no Mori",
+    "platforms": [
+     4,
+     416
+    ],
+    "slug": "doubutsu-no-mori--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 529946,
+     "image_id": "cobcwq"
+    },
+    "first_release_date": 1008288000,
+    "franchises": [
+     1820
+    ],
+    "game_type": 10,
+    "genres": [
+     13
+    ],
+    "id": 353228,
+    "name": "Doubutsu no Mori+",
+    "parent_game": 44042,
+    "platforms": [
+     21
+    ],
+    "slug": "doubutsu-no-mori-plus--2"
+   },
+   {
+    "aggregated_rating": 69.6,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 526568,
+     "image_id": "cobaaw"
+    },
+    "first_release_date": 1226793600,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 2688,
+    "name": "Animal Crossing: City Folk",
+    "platforms": [
+     5
+    ],
+    "rating": 78.50896229694106,
+    "slug": "animal-crossing-city-folk",
+    "total_rating_count": 94
+   },
+   {
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 489279,
+     "image_id": "coahj3"
+    },
+    "first_release_date": 1008288000,
+    "franchises": [
+     1820
+    ],
+    "game_type": 13,
+    "genres": [
+     13
+    ],
+    "id": 353227,
+    "name": "Animal Island",
+    "parent_game": 353228,
+    "platforms": [
+     24
+    ],
+    "slug": "animal-island"
+   },
+   {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 182255,
+     "image_id": "co3wmn"
+    },
+    "first_release_date": 1032134400,
+    "franchises": [
+     1820
+    ],
+    "game_type": 10,
+    "genres": [
+     13
+    ],
+    "id": 2655,
+    "name": "Animal Crossing",
+    "parent_game": 353228,
+    "platforms": [
+     21
+    ],
+    "rating": 78.21296162134479,
+    "slug": "animal-crossing",
+    "total_rating_count": 148
+   },
+   {
+    "aggregated_rating": 90.18181818181819,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 182224,
+     "image_id": "co3wls"
+    },
+    "first_release_date": 1584662400,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 109462,
+    "name": "Animal Crossing: New Horizons",
+    "platforms": [
+     130
+    ],
+    "rating": 82.11401774128463,
+    "slug": "animal-crossing-new-horizons",
+    "total_rating_count": 511
+   },
+   {
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 202018,
+     "image_id": "co4bvm"
+    },
+    "first_release_date": 1375833600,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 61463,
+    "name": "Animal Crossing Plaza",
+    "platforms": [
+     41
+    ],
+    "slug": "animal-crossing-plaza"
+   },
+   {
+    "aggregated_rating": 51.5,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 129984,
+     "image_id": "co2sao"
+    },
+    "first_release_date": 1447286400,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     26
+    ],
+    "id": 11190,
+    "name": "Animal Crossing: Amiibo Festival",
+    "platforms": [
+     41
+    ],
+    "rating": 25.4307700836068,
+    "slug": "animal-crossing-amiibo-festival",
+    "total_rating_count": 18
+   },
+   {
+    "aggregated_rating": 88.3,
+    "bundles": [
+     210422
+    ],
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 524382,
+     "image_id": "cob8m6"
+    },
+    "first_release_date": 1352332800,
+    "franchises": [
+     1820,
+     1814
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 2687,
+    "name": "Animal Crossing: New Leaf",
+    "platforms": [
+     37
+    ],
+    "rating": 85.54778775066397,
+    "slug": "animal-crossing-new-leaf",
+    "total_rating_count": 270
+   },
+   {
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 490090,
+     "image_id": "coai5m"
+    },
+    "first_release_date": 1149120000,
+    "franchises": [
+     1820
+    ],
+    "game_type": 11,
+    "genres": [
+     13
+    ],
+    "id": 359837,
+    "name": "Dòngwù Sēnlín",
+    "parent_game": 44042,
+    "platforms": [
+     4
+    ],
+    "slug": "dongwu-senlin"
+   },
+   {
+    "aggregated_rating": 75.0,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 182260,
+     "image_id": "co3wms"
+    },
+    "first_release_date": 1132704000,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 2645,
+    "name": "Animal Crossing: Wild World",
+    "platforms": [
+     41,
+     20
+    ],
+    "rating": 78.43911828439202,
+    "slug": "animal-crossing-wild-world",
+    "total_rating_count": 158
+   },
+   {
+    "aggregated_rating": 91.0,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 525070,
+     "image_id": "cob95a"
+    },
+    "first_release_date": 1636070400,
+    "franchises": [
+     1820
+    ],
+    "game_type": 2,
+    "genres": [
+     13
+    ],
+    "id": 176552,
+    "name": "Animal Crossing: New Horizons - Happy Home Paradise",
+    "parent_game": 109462,
+    "platforms": [
+     508,
+     130
+    ],
+    "rating": 91.33044330428108,
+    "slug": "animal-crossing-new-horizons-happy-home-paradise",
+    "total_rating_count": 39
+   },
+   {
+    "aggregated_rating": 65.55555555555556,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 182100,
+     "image_id": "co3wic"
+    },
+    "first_release_date": 1438214400,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 10143,
+    "name": "Animal Crossing: Happy Home Designer",
+    "platforms": [
+     37
+    ],
+    "rating": 63.00613180202432,
+    "slug": "animal-crossing-happy-home-designer",
+    "total_rating_count": 43
+   },
+   {
+    "bundles": [
+     354778
+    ],
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 472242,
+     "image_id": "coa4du"
+    },
+    "first_release_date": 1056672000,
+    "franchises": [
+     1820
+    ],
+    "game_type": 10,
+    "genres": [
+     13
+    ],
+    "id": 124007,
+    "name": "Doubutsu no Mori e+",
+    "parent_game": 2655,
+    "platforms": [
+     21
+    ],
+    "rating": 74.0,
+    "slug": "doubutsu-no-mori-e-plus",
+    "total_rating_count": 1
+   },
+   {
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 186886,
+     "image_id": "co407a"
+    },
+    "first_release_date": 1436486400,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 59998,
+    "name": "Photos with Animal Crossing",
+    "platforms": [
+     37
+    ],
+    "rating": 53.0,
+    "slug": "photos-with-animal-crossing",
+    "total_rating_count": 2
+   },
+   {
+    "aggregated_rating": 77.5,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 77729,
+     "image_id": "co1nz5"
+    },
+    "first_release_date": 1508889600,
+    "franchises": [
+     1820
+    ],
+    "game_type": 0,
+    "genres": [
+     13
+    ],
+    "id": 58630,
+    "name": "Animal Crossing: Pocket Camp",
+    "platforms": [
+     34,
+     39
+    ],
+    "rating": 60.08741009167912,
+    "slug": "animal-crossing-pocket-camp",
+    "total_rating_count": 74
+   },
+   {
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 419478,
+     "image_id": "co8zo6"
+    },
+    "first_release_date": 1733184000,
+    "franchises": [
+     1820
+    ],
+    "game_type": 10,
+    "genres": [
+     13
+    ],
+    "id": 321011,
+    "name": "Animal Crossing: Pocket Camp Complete",
+    "parent_game": 58630,
+    "platforms": [
+     34,
+     39
+    ],
+    "rating": 79.67705740383042,
+    "slug": "animal-crossing-pocket-camp-complete",
+    "total_rating_count": 5
+   },
+   {
+    "aggregated_rating": 90.0,
+    "collections": [
+     {
+      "id": 521,
+      "name": "Animal Crossing"
+     }
+    ],
+    "cover": {
+     "id": 602865,
+     "image_id": "cocx69"
+    },
+    "first_release_date": 1768435200,
+    "franchises": [
+     1820
+    ],
+    "game_type": 11,
+    "genres": [
+     13
+    ],
+    "id": 375733,
+    "name": "Animal Crossing: New Horizons - Nintendo Switch 2 Edition",
+    "parent_game": 109462,
+    "platforms": [
+     508
+    ],
+    "slug": "animal-crossing-new-horizons-nintendo-switch-2-edition",
+    "total_rating_count": 1
+   }
+  ],
+  "name": "Animal Crossing",
+  "v": 4
+ },
  "c5443": {
   "checked": "2026-11-02T22:39:12+00:00",
   "games": [
@@ -588428,6 +595374,424 @@
    }
   ],
   "name": "Mafia",
+  "v": 4
+ },
+ "c593": {
+  "checked": "2026-11-03T04:43:54+00:00",
+  "games": [
+   {
+    "aggregated_rating": 78.0,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 526324,
+     "image_id": "coba44"
+    },
+    "first_release_date": 1176076800,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     12,
+     31
+    ],
+    "id": 2191,
+    "name": "Super Paper Mario",
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 78.20800965887362,
+    "slug": "super-paper-mario",
+    "total_rating_count": 197
+   },
+   {
+    "aggregated_rating": 81.0909090909091,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 523927,
+     "image_id": "cob89j"
+    },
+    "first_release_date": 1594944000,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     12,
+     31
+    ],
+    "id": 133923,
+    "name": "Paper Mario: The Origami King",
+    "platforms": [
+     130
+    ],
+    "rating": 76.56574834289323,
+    "slug": "paper-mario-the-origami-king",
+    "total_rating_count": 78
+   },
+   {
+    "aggregated_rating": 75.0,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 526497,
+     "image_id": "coba8x"
+    },
+    "first_release_date": 1475712000,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 18169,
+    "name": "Paper Mario: Color Splash",
+    "platforms": [
+     41
+    ],
+    "rating": 64.54694530234647,
+    "slug": "paper-mario-color-splash",
+    "total_rating_count": 48
+   },
+   {
+    "aggregated_rating": 92.6,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 526102,
+     "image_id": "cob9xy"
+    },
+    "first_release_date": 1716422400,
+    "franchises": [
+     845
+    ],
+    "game_type": 8,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 266690,
+    "name": "Paper Mario: The Thousand-Year Door",
+    "parent_game": 3349,
+    "platforms": [
+     130
+    ],
+    "rating": 96.4747694853118,
+    "slug": "paper-mario-the-thousand-year-door--1",
+    "total_rating_count": 45
+   },
+   {
+    "aggregated_rating": 90.0,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     },
+     {
+      "id": 240,
+      "name": "Super Mario"
+     }
+    ],
+    "cover": {
+     "id": 80830,
+     "image_id": "co1qda"
+    },
+    "first_release_date": 965952000,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 3340,
+    "name": "Paper Mario",
+    "platforms": [
+     5,
+     4,
+     41
+    ],
+    "rating": 87.1245283789709,
+    "slug": "paper-mario",
+    "total_rating_count": 280
+   },
+   {
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 319350,
+     "image_id": "co6ueu"
+    },
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     12
+    ],
+    "id": 231489,
+    "name": "Super Paper Mario",
+    "platforms": [
+     21
+    ],
+    "slug": "super-paper-mario--1"
+   },
+   {
+    "aggregated_rating": 78.81818181818181,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 84805,
+     "image_id": "co1tfp"
+    },
+    "first_release_date": 1352505600,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     12,
+     31
+    ],
+    "id": 3350,
+    "name": "Paper Mario: Sticker Star",
+    "platforms": [
+     37
+    ],
+    "rating": 68.85758510895838,
+    "slug": "paper-mario-sticker-star",
+    "total_rating_count": 70
+   },
+   {
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 452873,
+     "image_id": "co9pft"
+    },
+    "first_release_date": 978220800,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     26
+    ],
+    "id": 328608,
+    "name": "Chuck Quizmo's Quiz",
+    "platforms": [
+     82
+    ],
+    "slug": "chuck-quizmos-quiz"
+   },
+   {
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 454666,
+     "image_id": "co9qtm"
+    },
+    "first_release_date": 1199059200,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     9
+    ],
+    "id": 231568,
+    "name": "Super Paper Mario Memory Match",
+    "platforms": [
+     82
+    ],
+    "slug": "super-paper-mario-memory-match"
+   },
+   {
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 434376,
+     "image_id": "co9b60"
+    },
+    "first_release_date": 978220800,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 328623,
+    "name": "Goombario and the Adventure of the Hot Lava Rocks",
+    "platforms": [
+     82
+    ],
+    "slug": "goombario-and-the-adventure-of-the-hot-lava-rocks"
+   },
+   {
+    "aggregated_rating": 89.5,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 100900,
+     "image_id": "co25us"
+    },
+    "first_release_date": 1090454400,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 3349,
+    "name": "Paper Mario: The Thousand-Year Door",
+    "platforms": [
+     21
+    ],
+    "rating": 92.14312272467298,
+    "slug": "paper-mario-the-thousand-year-door",
+    "total_rating_count": 567
+   },
+   {
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 467158,
+     "image_id": "coa0gm"
+    },
+    "first_release_date": 978220800,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     26
+    ],
+    "id": 328602,
+    "name": "Bowser's Diary: Take the Quiz!",
+    "platforms": [
+     82
+    ],
+    "slug": "bowsers-diary-take-the-quiz"
+   },
+   {
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     }
+    ],
+    "cover": {
+     "id": 452372,
+     "image_id": "co9p1w"
+    },
+    "first_release_date": 1104451200,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     9
+    ],
+    "id": 328663,
+    "name": "Paper Mario: The Thousand-Year Door",
+    "platforms": [
+     82
+    ],
+    "slug": "paper-mario-the-thousand-year-door--2"
+   },
+   {
+    "aggregated_rating": 74.93333333333334,
+    "collections": [
+     {
+      "id": 593,
+      "name": "Paper Mario"
+     },
+     {
+      "id": 595,
+      "name": "Mario & Luigi"
+     }
+    ],
+    "cover": {
+     "id": 200223,
+     "image_id": "co4ahr"
+    },
+    "first_release_date": 1449100800,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 11195,
+    "name": "Mario & Luigi: Paper Jam",
+    "platforms": [
+     37
+    ],
+    "rating": 65.34199092859919,
+    "slug": "mario-and-luigi-paper-jam",
+    "total_rating_count": 42
+   }
+  ],
+  "name": "Paper Mario",
   "v": 4
  },
  "c595": {
@@ -597696,6 +605060,418 @@
    }
   ],
   "name": "Super Mario Land",
+  "v": 4
+ },
+ "c6124": {
+  "checked": "2026-11-03T04:43:54+00:00",
+  "games": [
+   {
+    "aggregated_rating": 77.08333333333333,
+    "bundles": [
+     233975
+    ],
+    "collections": [
+     {
+      "id": 240,
+      "name": "Super Mario"
+     },
+     {
+      "id": 6118,
+      "name": "Super Mario Bros."
+     },
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 526553,
+     "image_id": "cobaah"
+    },
+    "first_release_date": 1343433600,
+    "franchise": 24,
+    "franchises": [
+     24,
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 1080,
+    "name": "New Super Mario Bros. 2",
+    "platforms": [
+     37
+    ],
+    "rating": 72.97407112336664,
+    "slug": "new-super-mario-bros-2",
+    "total_rating_count": 181
+   },
+   {
+    "aggregated_rating": 82.77777777777777,
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     },
+     {
+      "id": 240,
+      "name": "Super Mario"
+     },
+     {
+      "id": 6118,
+      "name": "Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 86169,
+     "image_id": "co1uhl"
+    },
+    "first_release_date": 1547164800,
+    "franchises": [
+     845
+    ],
+    "game_type": 10,
+    "genres": [
+     8
+    ],
+    "id": 109457,
+    "name": "New Super Mario Bros. U Deluxe",
+    "parent_game": 119120,
+    "platforms": [
+     508,
+     130
+    ],
+    "rating": 71.68545336784037,
+    "slug": "new-super-mario-bros-u-deluxe",
+    "total_rating_count": 86
+   },
+   {
+    "aggregated_rating": 95.0,
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     },
+     {
+      "id": 6118,
+      "name": "Super Mario Bros."
+     },
+     {
+      "id": 240,
+      "name": "Super Mario"
+     }
+    ],
+    "cover": {
+     "id": 95602,
+     "image_id": "co21rm"
+    },
+    "first_release_date": 1147651200,
+    "franchise": 24,
+    "franchises": [
+     24,
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 1076,
+    "name": "New Super Mario Bros.",
+    "platforms": [
+     41,
+     20
+    ],
+    "rating": 80.67192813173119,
+    "slug": "new-super-mario-bros",
+    "total_rating_count": 416
+   },
+   {
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 320039,
+     "image_id": "co6uxz"
+    },
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 175961,
+    "name": "New Super Mario Bros. Mii",
+    "platforms": [
+     41
+    ],
+    "slug": "new-super-mario-bros-mii"
+   },
+   {
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 97727,
+     "image_id": "co23en"
+    },
+    "first_release_date": 1308787200,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     33
+    ],
+    "id": 132003,
+    "name": "New Super Mario Bros. Wii Coin World",
+    "platforms": [
+     52
+    ],
+    "slug": "new-super-mario-bros-wii-coin-world"
+   },
+   {
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 615640,
+     "image_id": "cod714"
+    },
+    "first_release_date": 1349136000,
+    "franchises": [
+     845
+    ],
+    "game_type": 1,
+    "genres": [
+     8
+    ],
+    "id": 134172,
+    "name": "New Super Mario Bros. 2: Gold Rush Pack",
+    "parent_game": 1080,
+    "platforms": [
+     37
+    ],
+    "slug": "new-super-mario-bros-2-gold-rush-pack"
+   },
+   {
+    "aggregated_rating": 79.88888888888889,
+    "bundles": [
+     119120
+    ],
+    "collections": [
+     {
+      "id": 240,
+      "name": "Super Mario"
+     },
+     {
+      "id": 6118,
+      "name": "Super Mario Bros."
+     },
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 95680,
+     "image_id": "co21ts"
+    },
+    "first_release_date": 1353196800,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 2171,
+    "name": "New Super Mario Bros. U",
+    "platforms": [
+     41
+    ],
+    "rating": 78.3666872594796,
+    "slug": "new-super-mario-bros-u",
+    "total_rating_count": 195
+   },
+   {
+    "collections": [
+     {
+      "id": 240,
+      "name": "Super Mario"
+     },
+     {
+      "id": 6118,
+      "name": "Super Mario Bros."
+     },
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 209562,
+     "image_id": "co4hp6"
+    },
+    "first_release_date": 1512432000,
+    "franchises": [
+     845
+    ],
+    "game_type": 11,
+    "genres": [
+     8
+    ],
+    "id": 191436,
+    "name": "New Super Mario Bros. Wii",
+    "parent_game": 2178,
+    "platforms": [
+     34
+    ],
+    "slug": "new-super-mario-bros-wii--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 455250,
+     "image_id": "co9r9u"
+    },
+    "first_release_date": 1167523200,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "id": 231648,
+    "name": "New Super Mario Bros.: 1-Up Hunt!",
+    "platforms": [
+     82
+    ],
+    "slug": "new-super-mario-bros-dot-1-up-hunt"
+   },
+   {
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 298815,
+     "image_id": "co6ekf"
+    },
+    "first_release_date": 1577750400,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "id": 246453,
+    "name": "New Super Mario Bros. U Deluxe: Spot the Difference",
+    "platforms": [
+     82
+    ],
+    "slug": "new-super-mario-bros-u-deluxe-spot-the-difference"
+   },
+   {
+    "aggregated_rating": 71.375,
+    "bundles": [
+     119120
+    ],
+    "collections": [
+     {
+      "id": 240,
+      "name": "Super Mario"
+     },
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     },
+     {
+      "id": 6118,
+      "name": "Super Mario Bros."
+     }
+    ],
+    "cover": {
+     "id": 95681,
+     "image_id": "co21tt"
+    },
+    "first_release_date": 1371686400,
+    "franchises": [
+     845
+    ],
+    "game_type": 4,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 2173,
+    "name": "New Super Luigi U",
+    "parent_game": 2171,
+    "platforms": [
+     41
+    ],
+    "rating": 75.27657647593193,
+    "slug": "new-super-luigi-u",
+    "total_rating_count": 42
+   },
+   {
+    "aggregated_rating": 81.25,
+    "collections": [
+     {
+      "id": 6124,
+      "name": "New Super Mario Bros."
+     },
+     {
+      "id": 6118,
+      "name": "Super Mario Bros."
+     },
+     {
+      "id": 240,
+      "name": "Super Mario"
+     }
+    ],
+    "cover": {
+     "id": 95671,
+     "image_id": "co21tj"
+    },
+    "first_release_date": 1257984000,
+    "franchises": [
+     845
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 2178,
+    "name": "New Super Mario Bros. Wii",
+    "platforms": [
+     5,
+     41
+    ],
+    "rating": 81.76554388144928,
+    "slug": "new-super-mario-bros-wii",
+    "total_rating_count": 351
+   }
+  ],
+  "name": "New Super Mario Bros.",
   "v": 4
  },
  "c614": {

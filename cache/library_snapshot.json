@@ -5713,6 +5713,7 @@
  ],
  "manual": [
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5723,6 +5724,7 @@
    "title": "Elden ring"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5733,6 +5735,7 @@
    "title": "Cyberpunk 2077"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5743,6 +5746,7 @@
    "title": "Dragon’s Dogma 2"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5753,6 +5757,7 @@
    "title": "Persona 3 Reload"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5763,6 +5768,7 @@
    "title": "Nier Automata"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5773,6 +5779,7 @@
    "title": "Red Dead Redemption"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5783,6 +5790,7 @@
    "title": "Catherine Full Body"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5793,6 +5801,7 @@
    "title": "The Legend of Zelda: Breath of the Wild"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5803,6 +5812,7 @@
    "title": "Fire Emblem: Three Houses"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5813,6 +5823,7 @@
    "title": "Triangle Strategy"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5823,6 +5834,7 @@
    "title": "Suikoden I&II: HD Remaster"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5833,6 +5845,7 @@
    "title": "Super Mario 3D All-Star"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5843,6 +5856,7 @@
    "title": "Dragon Quest I&II HD-2D Remaster"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -5853,6 +5867,7 @@
    "title": "Fire Emblem: Fortune’s Weave"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5863,6 +5878,7 @@
    "title": "Yoshi's Island DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5873,6 +5889,7 @@
    "title": "The World Ends with You"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5883,6 +5900,7 @@
    "title": "Super Mario 64 DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5893,6 +5911,7 @@
    "title": "Sonic Classic Collection DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5903,6 +5922,7 @@
    "title": "Solatorobo: Red The Hunter"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5913,6 +5933,7 @@
    "title": "Scribblenauts Collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5923,6 +5944,7 @@
    "title": "Profeddor Layton and the Last Specter"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "professor-layton-and-the-unwound-future",
    "last_played": null,
@@ -5933,6 +5955,7 @@
    "title": "Professor Layton and the Unwound Future"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "professor-layton-and-the-curious-village",
    "last_played": null,
@@ -5943,6 +5966,7 @@
    "title": "Professor Layton and the Curious Village"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-soulsilver-version",
    "last_played": null,
@@ -5953,6 +5977,7 @@
    "title": "Pokémon SoulSilver"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-luigi-bowser-s-inside-story",
    "last_played": null,
@@ -5963,6 +5988,7 @@
    "title": "Mario & Luigi: Bowser's Inside Story"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ghost-trick-phantom-detective",
    "last_played": null,
@@ -5973,6 +5999,7 @@
    "title": "Ghost Trick: Phantom Detective"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5983,6 +6010,7 @@
    "title": "Dragon Quest IV: Chapters of the Chosen"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -5993,6 +6021,7 @@
    "title": "Dragon Quest VI: Realms of Revelation"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6003,6 +6032,7 @@
    "title": "Dragon Quest V: Hand of the Heavenly Bride"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "crash-of-the-titans",
    "last_played": null,
@@ -6013,6 +6043,7 @@
    "title": "Crash of the Titans"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": null,
    "last_played": null,
@@ -6023,6 +6054,7 @@
    "title": "Chrono Trigger (2008)"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6033,6 +6065,7 @@
    "title": "Legend of Zelda: Ocarina of Time"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "fire-emblem-awakening",
    "last_played": null,
@@ -6043,6 +6076,7 @@
    "title": "Fire Emblem Awakening"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "the-legend-of-zelda-a-link-between-worlds",
    "last_played": null,
@@ -6053,6 +6087,7 @@
    "title": "The Legend of Zelda: A Link Between Worlds"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-mario-3d-land",
    "last_played": null,
@@ -6063,6 +6098,7 @@
    "title": "Super Mario 3D Land"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6073,6 +6109,7 @@
    "title": "Shovel Knight"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pushmo",
    "last_played": null,
@@ -6083,6 +6120,7 @@
    "title": "Pushmo"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6093,6 +6131,7 @@
    "title": "Legend of Zelda: Majora's Mask 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "zero-escape-virtue-s-last-reward",
    "last_played": null,
@@ -6103,6 +6142,7 @@
    "title": "Zero Escape: Virtue's Last Reward"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "animal-crossing-new-leaf",
    "last_played": null,
@@ -6113,6 +6153,7 @@
    "title": "Animal Crossing: New Leaf"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "3d-sonic-the-hedgehog",
    "last_played": null,
@@ -6123,6 +6164,7 @@
    "title": "3D Sonic the Hedgehog"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "luigi-s-mansion-dark-moon",
    "last_played": null,
@@ -6133,6 +6175,7 @@
    "title": "Luigi's Mansion: Dark Moon"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "steamworld-heist",
    "last_played": null,
@@ -6143,6 +6186,7 @@
    "title": "SteamWorld Heist"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "crashmo",
    "last_played": null,
@@ -6153,6 +6197,7 @@
    "title": "Crashmo"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-kart-7",
    "last_played": null,
@@ -6163,6 +6208,7 @@
    "title": "Mario Kart 7"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6173,6 +6219,7 @@
    "title": "Dragon Quest VIII: Journey of the Cursed King"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "radiant-historia",
    "last_played": null,
@@ -6183,6 +6230,7 @@
    "title": "Radiant Historia"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "bravely-default",
    "last_played": null,
@@ -6193,6 +6241,7 @@
    "title": "Bravely Default"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metroid-samus-returns",
    "last_played": null,
@@ -6203,6 +6252,7 @@
    "title": "Metroid: Samus Returns"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6213,6 +6263,7 @@
    "title": "Etrian Odyssey IV: Legends of the Titan"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6223,6 +6274,7 @@
    "title": "Donkey Kong Country Returns 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-omega-ruby",
    "last_played": null,
@@ -6233,6 +6285,7 @@
    "title": "Pokémon Omega Ruby"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kid-icarus-uprising",
    "last_played": null,
@@ -6243,6 +6296,7 @@
    "title": "Kid Icarus: Uprising"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "shin-megami-tensei-iv",
    "last_played": null,
@@ -6253,6 +6307,7 @@
    "title": "Shin Megami Tensei IV"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "stretchmo",
    "last_played": null,
@@ -6263,6 +6318,7 @@
    "title": "Stretchmo"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "bye-bye-boxboy",
    "last_played": null,
@@ -6273,6 +6329,7 @@
    "title": "Bye-Bye BoxBoy!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rhythm-heaven-megamix",
    "last_played": null,
@@ -6283,6 +6340,7 @@
    "title": "Rhythm Heaven Megamix"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pocket-card-jockey",
    "last_played": null,
@@ -6293,6 +6351,7 @@
    "title": "Pocket Card Jockey"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "etrian-odyssey-2-untold-the-fafnir-knight",
    "last_played": null,
@@ -6303,6 +6362,7 @@
    "title": "Etrian Odyssey 2 Untold: The Fafnir Knight"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "resident-evil-revelations",
    "last_played": null,
@@ -6313,6 +6373,7 @@
    "title": "Resident Evil: Revelations"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "shantae-and-the-pirates-curse",
    "last_played": null,
@@ -6323,6 +6384,7 @@
    "title": "Shantae and the Pirate's Curse"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "steamworld-dig",
    "last_played": null,
@@ -6333,6 +6395,7 @@
    "title": "SteamWorld Dig"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-and-luigi-superstar-saga-plus-bowsers-minions",
    "last_played": null,
@@ -6343,6 +6406,7 @@
    "title": "Mario & Luigi: Superstar Saga + Bowser's Minions"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kirby-planet-robobot",
    "last_played": null,
@@ -6353,6 +6417,7 @@
    "title": "Kirby: Planet Robobot"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "phoenix-wright-ace-attorney-trilogy",
    "last_played": null,
@@ -6363,6 +6428,7 @@
    "title": "Phoenix Wright: Ace Attorney Trilogy"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "phoenix-wright-ace-attorney-spirit-of-justice",
    "last_played": null,
@@ -6373,6 +6439,7 @@
    "title": "Phoenix Wright: Ace Attorney – Spirit of Justice"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dragon-quest-vii-fragments-of-the-forgotten-past",
    "last_played": null,
@@ -6383,6 +6450,7 @@
    "title": "dragon-quest-vii-fragments-of-the-forgotten-past"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "star-fox-64-3d",
    "last_played": null,
@@ -6393,6 +6461,7 @@
    "title": "Star Fox 64 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kirby-triple-deluxe",
    "last_played": null,
@@ -6403,6 +6472,7 @@
    "title": "Kirby: Triple Deluxe"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "boxboxboy",
    "last_played": null,
@@ -6413,6 +6483,7 @@
    "title": "BoxBoxBoy!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "boxboy",
    "last_played": null,
@@ -6423,6 +6494,7 @@
    "title": "BoxBoy!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "professor-layton-vs-phoenix-wright-ace-attorney",
    "last_played": null,
@@ -6433,6 +6505,7 @@
    "title": "Professor Layton vs. Ace Attorney"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "monster-hunter-3-ultimate",
    "last_played": null,
@@ -6443,6 +6516,7 @@
    "title": "Monster Hunter 3 Ultimate"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "monster-hunter-stories",
    "last_played": null,
@@ -6453,6 +6527,7 @@
    "title": "Monster Hunter Stories"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mighty-switch-force",
    "last_played": null,
@@ -6463,6 +6538,7 @@
    "title": "Mighty Switch Force!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "new-super-mario-bros-2",
    "last_played": null,
@@ -6473,6 +6549,7 @@
    "title": "New Super Mario Bros. 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metal-gear-solid-snake-eater-3d",
    "last_played": null,
@@ -6483,6 +6560,7 @@
    "title": "Metal Gear Solid: Snake Eater 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6493,6 +6571,7 @@
    "title": "3d classics: kirby's adventure"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "apollo-justice-ace-attorney",
    "last_played": null,
@@ -6503,6 +6582,7 @@
    "title": "Apollo Justice: Ace Attorney"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6513,6 +6593,7 @@
    "title": "3d classics: kid icterus"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "attack-of-the-friday-monsters-a-tokyo-tale",
    "last_played": null,
@@ -6523,6 +6604,7 @@
    "title": "Attack of the Friday Monsters! A Tokyo Tale"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "corpse-party",
    "last_played": null,
@@ -6533,6 +6615,7 @@
    "title": "Corpse Party"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "yo-kai-watch",
    "last_played": null,
@@ -6543,6 +6626,7 @@
    "title": "Yo-kai Watch"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "crimson-shroud",
    "last_played": null,
@@ -6553,6 +6637,7 @@
    "title": "Crimson Shroud"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ever-oasis",
    "last_played": null,
@@ -6563,6 +6648,7 @@
    "title": "Ever Oasis"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "luigis-mansion",
    "last_played": null,
@@ -6573,6 +6659,7 @@
    "title": "Luigi's Mansion"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "culdcept-revolt",
    "last_played": null,
@@ -6583,6 +6670,7 @@
    "title": "Culdcept Revolt"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "yo-kai-watch-2-bony-spirits-slash-fleshy-souls",
    "last_played": null,
@@ -6593,6 +6681,7 @@
    "title": "Yo-kai Watch 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "fantasy-life",
    "last_played": null,
@@ -6603,6 +6692,7 @@
    "title": "Fantasy Life"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mighty-switch-force-2",
    "last_played": null,
@@ -6613,6 +6703,7 @@
    "title": "Mighty Switch Force! 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "harmoknight",
    "last_played": null,
@@ -6623,6 +6714,7 @@
    "title": "HarmoKnight"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rayman-origins",
    "last_played": null,
@@ -6633,6 +6725,7 @@
    "title": "Rayman Origins"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "liberation-maiden",
    "last_played": null,
@@ -6643,6 +6736,7 @@
    "title": "Liberation Maiden"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dillons-rolling-western-the-last-ranger",
    "last_played": null,
@@ -6653,6 +6747,7 @@
    "title": "Dillon's Rolling Western: The Last Ranger"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6663,6 +6758,7 @@
    "title": "delusions of von sottendorff and his squared mind"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rayman-3d",
    "last_played": null,
@@ -6673,6 +6769,7 @@
    "title": "Rayman 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "michael-jackson-the-experience",
    "last_played": null,
@@ -6683,6 +6780,7 @@
    "title": "Michael Jackson: The Experience"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6693,6 +6791,7 @@
    "title": "starship damrey"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6703,6 +6802,7 @@
    "title": "ironfall invasion"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "god-of-war-chains-of-olympus",
    "last_played": null,
@@ -6713,6 +6813,7 @@
    "title": "God of War: Chains of Olympus"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "grand-theft-auto-chinatown-wars",
    "last_played": null,
@@ -6723,6 +6824,7 @@
    "title": "grand-theft-auto-chinatown-wars"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "persona-3-portable",
    "last_played": null,
@@ -6733,6 +6835,7 @@
    "title": "Persona 3 Portable"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metal-gear-solid-peace-walker",
    "last_played": null,
@@ -6743,6 +6846,7 @@
    "title": "Metal Gear Solid: Peace Walker"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "grand-theft-auto-liberty-city-stories",
    "last_played": null,
@@ -6753,6 +6857,7 @@
    "title": "grand-theft-auto-liberty-city-stories"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6763,6 +6868,7 @@
    "title": "Ridge Racer"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "jeanne-darc",
    "last_played": null,
@@ -6773,6 +6879,7 @@
    "title": "Jeanne d'Arc"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6783,6 +6890,7 @@
    "title": "tactics ogre: let us cling together"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metal-gear-solid-portable-ops",
    "last_played": null,
@@ -6793,6 +6901,7 @@
    "title": "Metal Gear Solid: Portable Ops"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "littlebigplanet--1",
    "last_played": null,
@@ -6803,6 +6912,7 @@
    "title": "LittleBigPlanet"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "god-of-war-ghost-of-sparta",
    "last_played": null,
@@ -6813,6 +6923,7 @@
    "title": "God of War: Ghost of Sparta"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "grand-theft-auto-vice-city-stories",
    "last_played": null,
@@ -6823,6 +6934,7 @@
    "title": "grand-theft-auto-vice-city-stories"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "patapon",
    "last_played": null,
@@ -6833,6 +6945,7 @@
    "title": "Patapon"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "daxter",
    "last_played": null,
@@ -6843,6 +6956,7 @@
    "title": "Daxter"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "locoroco-2",
    "last_played": null,
@@ -6853,6 +6967,7 @@
    "title": "LocoRoco 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "crisis-core-final-fantasy-vii",
    "last_played": null,
@@ -6863,6 +6978,7 @@
    "title": "Crisis Core: Final Fantasy VII"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "crush",
    "last_played": null,
@@ -6873,6 +6989,7 @@
    "title": "Crush"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "locoroco",
    "last_played": null,
@@ -6883,6 +7000,7 @@
    "title": "LocoRoco"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kingdom-hearts-birth-by-sleep",
    "last_played": null,
@@ -6893,6 +7011,7 @@
    "title": "Kingdom Hearts: Birth by Sleep"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mega-man-powered-up",
    "last_played": null,
@@ -6903,6 +7022,7 @@
    "title": "Mega Man Powered Up"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "patapon-2",
    "last_played": null,
@@ -6913,6 +7033,7 @@
    "title": "Patapon 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ys-the-oath-in-felghana",
    "last_played": null,
@@ -6923,6 +7044,7 @@
    "title": "ys-the-oath-in-felghana"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "soulcalibur-broken-destiny",
    "last_played": null,
@@ -6933,6 +7055,7 @@
    "title": "Soulcalibur: Broken Destiny"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dissidia-final-fantasy",
    "last_played": null,
@@ -6943,6 +7066,7 @@
    "title": "Dissidia Final Fantasy"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ys-seven",
    "last_played": null,
@@ -6953,6 +7077,7 @@
    "title": "ys-seven"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -6963,6 +7088,7 @@
    "title": "legend of heroes: trails in the sky"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rock-band-unplugged",
    "last_played": null,
@@ -6973,6 +7099,7 @@
    "title": "Rock Band Unplugged"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "shin-megami-tensei-persona",
    "last_played": null,
@@ -6983,6 +7110,7 @@
    "title": "Shin Megami Tensei: Persona"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metal-slug-anthology",
    "last_played": null,
@@ -6993,6 +7121,7 @@
    "title": "Metal Slug Anthology"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "final-fantasy-iv-the-complete-collection",
    "last_played": null,
@@ -7003,6 +7132,7 @@
    "title": "Final Fantasy IV: The Complete Collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "lego-indiana-jones-the-original-adventures",
    "last_played": null,
@@ -7013,6 +7143,7 @@
    "title": "Lego Indiana Jones: The Original Adventures"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7023,6 +7154,7 @@
    "title": "shin megami tensei: persona 2 - innocent sin"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "star-ocean-first-departure",
    "last_played": null,
@@ -7033,6 +7165,7 @@
    "title": "Star Ocean: First Departure"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7043,6 +7176,7 @@
    "title": "prince of persia: rival swords"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "patapon-3",
    "last_played": null,
@@ -7053,6 +7187,7 @@
    "title": "Patapon 3"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "harvest-moon-hero-of-leaf-valley",
    "last_played": null,
@@ -7063,6 +7198,7 @@
    "title": "Harvest Moon: Hero of Leaf Valley"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "need-for-speed-underground-rivals",
    "last_played": null,
@@ -7073,6 +7209,7 @@
    "title": "Need for Speed: Underground Rivals"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "lego-batman-the-videogame",
    "last_played": null,
@@ -7083,6 +7220,7 @@
    "title": "Lego Batman: The Videogame"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "need-for-speed-carbon-own-the-city",
    "last_played": null,
@@ -7093,6 +7231,7 @@
    "title": "Need for Speed Carbon: Own the City"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "jak-and-daxter-the-lost-frontier",
    "last_played": null,
@@ -7103,6 +7242,7 @@
    "title": "Jak and Daxter: The Lost Frontier"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dantes-inferno",
    "last_played": null,
@@ -7113,6 +7253,7 @@
    "title": "Dante's Inferno"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "star-wars-the-force-unleashed",
    "last_played": null,
@@ -7123,6 +7264,7 @@
    "title": "Star Wars: The Force Unleashed"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "star-wars-battlefront-ii",
    "last_played": null,
@@ -7133,6 +7275,7 @@
    "title": "Star Wars: Battlefront II"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "need-for-speed-shift",
    "last_played": null,
@@ -7143,6 +7286,7 @@
    "title": "Need for Speed: Shift"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7153,6 +7297,7 @@
    "title": "tomb raider: legend"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "lego-pirates-of-the-caribbean-the-video-game",
    "last_played": null,
@@ -7163,6 +7308,7 @@
    "title": "Lego Pirates of the Caribbean"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "tales-of-the-world-radiant-mythology",
    "last_played": null,
@@ -7173,6 +7319,7 @@
    "title": "Tales of the World: Radiant Mythology"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7183,6 +7330,7 @@
    "title": "prince of persia revelations"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "prince-of-persia-the-forgotten-sands",
    "last_played": null,
@@ -7193,6 +7341,7 @@
    "title": "Prince of Persia: The Forgotten Sands"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7203,6 +7352,7 @@
    "title": "lord of the rings: tactics"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7213,6 +7363,7 @@
    "title": "sims 2: castaway"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7223,6 +7374,7 @@
    "title": "ys i & ii chronicles"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7233,6 +7385,7 @@
    "title": "harvest moon: boy & girl"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "need-for-speed-prostreet",
    "last_played": null,
@@ -7243,6 +7396,7 @@
    "title": "Need for Speed: ProStreet"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "tales-of-destiny-ii",
    "last_played": null,
@@ -7253,6 +7407,7 @@
    "title": "Tales of Eternia"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "lego-harry-potter-years-1-4",
    "last_played": null,
@@ -7263,6 +7418,7 @@
    "title": "Lego Harry Potter: Years 1–4"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "persona-4-golden",
    "last_played": null,
@@ -7273,6 +7429,7 @@
    "title": "Persona 4: Golden"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "odin-sphere-leifthrasir",
    "last_played": null,
@@ -7283,6 +7440,7 @@
    "title": "Odin Sphere Leifthrasir"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "limbo",
    "last_played": null,
@@ -7293,6 +7451,7 @@
    "title": "Limbo"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "spelunky",
    "last_played": null,
@@ -7303,6 +7462,7 @@
    "title": "spelunky"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rayman-origins",
    "last_played": null,
@@ -7313,6 +7473,7 @@
    "title": "Rayman Origins"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "tearaway",
    "last_played": null,
@@ -7323,6 +7484,7 @@
    "title": "Tearaway"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "guacamelee-super-turbo-championship-edition",
    "last_played": null,
@@ -7333,6 +7495,7 @@
    "title": "Guacamelee!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "code-realize-~guardian-of-rebirth~",
    "last_played": null,
@@ -7343,6 +7506,7 @@
    "title": "Code: Realize − Guardian of Rebirth"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "final-fantasy-x-slash-x-2-hd-remaster",
    "last_played": null,
@@ -7353,6 +7517,7 @@
    "title": "Final Fantasy X/X-2 HD Remaster"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mortal-kombat",
    "last_played": null,
@@ -7363,6 +7528,7 @@
    "title": "Mortal Kombat"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "hotline-miami",
    "last_played": null,
@@ -7373,6 +7539,7 @@
    "title": "Hotline Miami"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "olliolli2-welcome-to-olliwood",
    "last_played": null,
@@ -7383,6 +7550,7 @@
    "title": "OlliOlli2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "grim-fandango-remastered",
    "last_played": null,
@@ -7393,6 +7561,7 @@
    "title": "Grim Fandango Remastered"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "child-of-light",
    "last_played": null,
@@ -7403,6 +7572,7 @@
    "title": "Child of Light"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "gravity-rush",
    "last_played": null,
@@ -7413,6 +7583,7 @@
    "title": "Gravity Rush"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien",
    "last_played": null,
@@ -7423,6 +7594,7 @@
    "title": "bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "oddworld-new-n-tasty",
    "last_played": null,
@@ -7433,6 +7605,7 @@
    "title": "Oddworld: New 'n' Tasty!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "oddworld-strangers-wrath-hd",
    "last_played": null,
@@ -7443,6 +7616,7 @@
    "title": "Oddworld: Stranger's Wrath HD"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "severed",
    "last_played": null,
@@ -7453,6 +7627,7 @@
    "title": "Severed"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7463,6 +7638,7 @@
    "title": "walking dead: a telltale game series - the complete first season"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7473,6 +7649,7 @@
    "title": "xcom: enemy unkown plus"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "shantae-half-genie-hero",
    "last_played": null,
@@ -7483,6 +7660,7 @@
    "title": "Shantae: Half-Genie Hero"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "day-of-the-tentacle-remastered",
    "last_played": null,
@@ -7493,6 +7671,7 @@
    "title": "Day of the Tentacle Remastered"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ys-memories-of-celceta",
    "last_played": null,
@@ -7503,6 +7682,7 @@
    "title": "ys-memories-of-celceta"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metal-gear-solid-hd-collection",
    "last_played": null,
@@ -7513,6 +7693,7 @@
    "title": "Metal Gear Solid HD Collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "danganronpa-2-goodbye-despair",
    "last_played": null,
@@ -7523,6 +7704,7 @@
    "title": "Danganronpa 2: Goodbye Despair"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "uncharted-golden-abyss",
    "last_played": null,
@@ -7533,6 +7715,7 @@
    "title": "Uncharted: Golden Abyss"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7543,6 +7726,7 @@
    "title": "sly cooper collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "danganronpa-v3-killing-harmony--1",
    "last_played": null,
@@ -7553,6 +7737,7 @@
    "title": "Danganronpa V3: Killing Harmony"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "danganronpa-trigger-happy-havoc",
    "last_played": null,
@@ -7563,6 +7748,7 @@
    "title": "Danganronpa: Trigger Happy Havoc"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "wipeout-2048",
    "last_played": null,
@@ -7573,6 +7759,7 @@
    "title": "Wipeout 2048"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467",
    "last_played": null,
@@ -7583,6 +7770,7 @@
    "title": "Need for Speed: Most Wanted"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "olliolli",
    "last_played": null,
@@ -7593,6 +7781,7 @@
    "title": "OlliOlli"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "killzone-mercenary",
    "last_played": null,
@@ -7603,6 +7792,7 @@
    "title": "Killzone: Mercenary"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7613,6 +7803,7 @@
    "title": "muramasa rebirth"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "axiom-verge",
    "last_played": null,
@@ -7623,6 +7814,7 @@
    "title": "Axiom Verge"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "plants-vs-zombies",
    "last_played": null,
@@ -7633,6 +7825,7 @@
    "title": "plants-vs-zombies"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7643,6 +7836,7 @@
    "title": "legend of heroes: trails of cold steel"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ratchet-and-clank-collection",
    "last_played": null,
@@ -7653,6 +7847,7 @@
    "title": "Ratchet & Clank Collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7663,6 +7858,7 @@
    "title": "tales of hearts R"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "sly-cooper-thieves-in-time",
    "last_played": null,
@@ -7673,6 +7869,7 @@
    "title": "Sly Cooper: Thieves in Time"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "god-of-war-origins-collection",
    "last_played": null,
@@ -7683,6 +7880,7 @@
    "title": "God of War Collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "freedom-wars",
    "last_played": null,
@@ -7693,6 +7891,7 @@
    "title": "Freedom Wars"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ninja-gaiden-sigma-plus",
    "last_played": null,
@@ -7703,6 +7902,7 @@
    "title": "Ninja Gaiden Sigma Plus"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7713,6 +7913,7 @@
    "title": "Oddworld: Munch's Oddysee hd"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "danganronpa-another-episode-ultra-despair-girls",
    "last_played": null,
@@ -7723,6 +7924,7 @@
    "title": "Danganronpa Another Episode: Ultra Despair Girls"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "jak-and-daxter-collection",
    "last_played": null,
@@ -7733,6 +7935,7 @@
    "title": "Jak and Daxter Collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "hotline-miami-2-wrong-number",
    "last_played": null,
@@ -7743,6 +7946,7 @@
    "title": "Hotline Miami 2: Wrong Number"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "borderlands-2",
    "last_played": null,
@@ -7753,6 +7957,7 @@
    "title": "Borderlands 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "resistance-burning-skies",
    "last_played": null,
@@ -7763,6 +7968,7 @@
    "title": "Resistance: Burning Skies"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7773,6 +7979,7 @@
    "title": "velocity 2x: critical mass edition"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7783,6 +7990,7 @@
    "title": "bit.trip limited edition"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "stardew-valley",
    "last_played": null,
@@ -7793,6 +8001,7 @@
    "title": "Stardew Valley"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "digimon-story-cyber-sleuth",
    "last_played": null,
@@ -7803,6 +8012,7 @@
    "title": "Digimon Story: Cyber Sleuth"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "papers-please",
    "last_played": null,
@@ -7813,6 +8023,7 @@
    "title": "Papers, Please"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dont-starve-giant-edition",
    "last_played": null,
@@ -7823,6 +8034,7 @@
    "title": "Don't Starve: Giant Edition"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "injustice-gods-among-us-ultimate-edition",
    "last_played": null,
@@ -7833,6 +8045,7 @@
    "title": "Injustice: Gods Among Us Ultimate Edition"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ys-origin",
    "last_played": null,
@@ -7843,6 +8056,7 @@
    "title": "ys-origin"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ys-viii-lacrimosa-of-dana",
    "last_played": null,
@@ -7853,6 +8067,7 @@
    "title": "ys-viii-lacrimosa-of-dana"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7863,6 +8078,7 @@
    "title": "God of War II HD"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metal-gear-solid-2-sons-of-liberty",
    "last_played": null,
@@ -7873,6 +8089,7 @@
    "title": "Metal Gear Solid 2: Sons of Liberty"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": "mario-kart-world",
    "last_played": null,
@@ -7883,6 +8100,7 @@
    "title": "Mario Kart World"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -7893,6 +8111,7 @@
    "title": "sly Cooper collection"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "breath-of-fire",
    "last_played": null,
@@ -7903,6 +8122,7 @@
    "title": "Breath of Fire"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "breath-of-fire-ii",
    "last_played": null,
@@ -7913,6 +8133,7 @@
    "title": "Breath of Fire II"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "claymates",
    "last_played": null,
@@ -7923,6 +8144,7 @@
    "title": "Claymates"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "donkey-kong-country",
    "last_played": null,
@@ -7933,6 +8155,7 @@
    "title": "Donkey Kong Country"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "donkey-kong-country-2-diddy-s-kong-quest",
    "last_played": null,
@@ -7943,6 +8166,7 @@
    "title": "Donkey Kong Country 2: Diddy's Kong Quest"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "donkey-kong-country-3-dixie-kong-s-double-trouble",
    "last_played": null,
@@ -7953,6 +8177,7 @@
    "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-mario-all-stars",
    "last_played": null,
@@ -7963,6 +8188,7 @@
    "title": "Super Mario All-Stars"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-mario-world",
    "last_played": null,
@@ -7973,6 +8199,7 @@
    "title": "super-mario-world"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-punch-out",
    "last_played": null,
@@ -7983,6 +8210,7 @@
    "title": "Super Punch-Out!!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "the-legend-of-zelda-a-link-to-the-past",
    "last_played": null,
@@ -7993,6 +8221,7 @@
    "title": "The Legend of Zelda: A Link to the Past"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8003,6 +8232,7 @@
    "title": "Fire emblem"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "fire-emblem-the-sacred-stones",
    "last_played": null,
@@ -8013,6 +8243,7 @@
    "title": "Fire Emblem: The Sacred Stones"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "golden-sun",
    "last_played": null,
@@ -8023,6 +8254,7 @@
    "title": "Golden Sun"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "golden-sun-the-lost-age",
    "last_played": null,
@@ -8033,6 +8265,7 @@
    "title": "Golden Sun: The Lost Age"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "klonoa-empire-of-dreams",
    "last_played": null,
@@ -8043,6 +8276,7 @@
    "title": "Klonoa: Empire of Dreams"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metroid-zero-mission",
    "last_played": null,
@@ -8053,6 +8287,7 @@
    "title": "Metroid: Zero Mission"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-mystery-dungeon-red-rescue-team",
    "last_played": null,
@@ -8063,6 +8298,7 @@
    "title": "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-mario-world-super-mario-advance-2",
    "last_played": null,
@@ -8073,6 +8309,7 @@
    "title": "Super Mario World: Super Mario Advance 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-mario-advance",
    "last_played": null,
@@ -8083,6 +8320,7 @@
    "title": "Super Mario Advance"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-mario-advance-4-super-mario-bros-3",
    "last_played": null,
@@ -8093,6 +8331,7 @@
    "title": "Super Mario Advance 4: Super Mario Bros. 3"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "the-legend-of-zelda-the-minish-cap",
    "last_played": null,
@@ -8103,6 +8342,7 @@
    "title": "The Legend of Zelda: The Minish Cap"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "wario-land-4",
    "last_played": null,
@@ -8113,6 +8353,7 @@
    "title": "Wario Land 4"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "warioware-inc-dot-mega-microgame$",
    "last_played": null,
@@ -8123,6 +8364,7 @@
    "title": "WarioWare, Inc.: Mega Microgames!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "yoshis-island-super-mario-advance-3",
    "last_played": null,
@@ -8133,6 +8375,7 @@
    "title": "Yoshi's Island: Super Mario Advance 3"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "advance-wars-days-of-ruin",
    "last_played": null,
@@ -8143,6 +8386,7 @@
    "title": "Advance Wars: Days of Ruin"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "advance-wars-dual-strike",
    "last_played": null,
@@ -8153,6 +8397,7 @@
    "title": "Advance Wars: Dual Strike"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "aliens-infestation",
    "last_played": null,
@@ -8163,6 +8408,7 @@
    "title": "Aliens Infestation"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "animal-crossing-wild-world",
    "last_played": null,
@@ -8173,6 +8419,7 @@
    "title": "Animal Crossing: Wild World"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8183,6 +8430,7 @@
    "title": "Anno Create a New World"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "anno-1701",
    "last_played": null,
@@ -8193,6 +8441,7 @@
    "title": "Anno 1701"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "avalon-code",
    "last_played": null,
@@ -8203,6 +8452,7 @@
    "title": "Avalon Code"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "bangai-o-spirits",
    "last_played": null,
@@ -8213,6 +8463,7 @@
    "title": "Bangai-O Spirits"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "bomberman-land-touch",
    "last_played": null,
@@ -8223,6 +8474,7 @@
    "title": "Bomberman Land Touch!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "castlevania-dawn-of-sorrow",
    "last_played": null,
@@ -8233,6 +8485,7 @@
    "title": "Castlevania: Dawn of Sorrow"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "castlevania-order-of-ecclesia",
    "last_played": null,
@@ -8243,6 +8496,7 @@
    "title": "Castlevania: Order of Ecclesia"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "castlevania-portrait-of-ruin",
    "last_played": null,
@@ -8253,6 +8507,7 @@
    "title": "Castlevania: Portrait of Ruin"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "chibi-robo-park-patrol",
    "last_played": null,
@@ -8263,6 +8518,7 @@
    "title": "Chibi-Robo!: Park Patrol"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "contact",
    "last_played": null,
@@ -8273,6 +8529,7 @@
    "title": "Contact"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "contra-4",
    "last_played": null,
@@ -8283,6 +8540,7 @@
    "title": "Contra 4"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "cooking-mama",
    "last_played": null,
@@ -8293,6 +8551,7 @@
    "title": "Cooking Mama"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "cooking-mama-2-dinner-with-friends",
    "last_played": null,
@@ -8303,6 +8562,7 @@
    "title": "Cooking Mama 2: Dinner with Friends"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "cooking-mama-3-shop-chop",
    "last_played": null,
@@ -8313,6 +8573,7 @@
    "title": "Cooking Mama 3: Shop & Chop"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "crash-mind-over-mutant",
    "last_played": null,
@@ -8323,6 +8584,7 @@
    "title": "Crash: Mind over Mutant"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dementium-the-ward",
    "last_played": null,
@@ -8333,6 +8595,7 @@
    "title": "Dementium: The Ward"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dig-dug-digging-strike",
    "last_played": null,
@@ -8343,6 +8606,7 @@
    "title": "Dig Dug: Digging Strike"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "digimon-world-ds",
    "last_played": null,
@@ -8353,6 +8617,7 @@
    "title": "Digimon World DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8363,6 +8628,7 @@
    "title": "Disgaea DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dragon-quest-heroes-rocket-slime",
    "last_played": null,
@@ -8373,6 +8639,7 @@
    "title": "Dragon Quest Heroes: Rocket Slime"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8383,6 +8650,7 @@
    "title": "dragon quest iv chapters of the chosen"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dragon-quest-ix-sentinels-of-the-starry-skies",
    "last_played": null,
@@ -8393,6 +8661,7 @@
    "title": "Dragon Quest IX"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dragon-quest-monsters-joker",
    "last_played": null,
@@ -8403,6 +8672,7 @@
    "title": "Dragon Quest Monsters: Joker"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "dragon-quest-monsters-joker-2",
    "last_played": null,
@@ -8413,6 +8683,7 @@
    "title": "Dragon Quest Monsters: Joker 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8423,6 +8694,7 @@
    "title": "dragon quest v hand of the heavenly bride"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8433,6 +8705,7 @@
    "title": "dragon quest vi realms of revelation"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "elite-beat-agents",
    "last_played": null,
@@ -8443,6 +8716,7 @@
    "title": "Elite Beat Agents"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "etrian-odyssey",
    "last_played": null,
@@ -8453,6 +8727,7 @@
    "title": "Etrian Odyssey"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "etrian-odyssey-ii-heroes-of-lagaard",
    "last_played": null,
@@ -8463,6 +8738,7 @@
    "title": "Etrian Odyssey II"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "etrian-odyssey-iii-the-drowned-city",
    "last_played": null,
@@ -8473,6 +8749,7 @@
    "title": "Etrian Odyssey III"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "final-fantasy-iii",
    "last_played": null,
@@ -8483,6 +8760,7 @@
    "title": "Final Fantasy III"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "final-fantasy-iv",
    "last_played": null,
@@ -8493,6 +8771,7 @@
    "title": "Final Fantasy IV"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "final-fantasy-tactics-a2-grimoire-of-the-rift",
    "last_played": null,
@@ -8503,6 +8782,7 @@
    "title": "Final Fantasy Tactics A2: Grimoire of the Rift"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "fire-emblem-shadow-dragon",
    "last_played": null,
@@ -8513,6 +8793,7 @@
    "title": "Fire Emblem: Shadow Dragon"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "geometry-wars-galaxies",
    "last_played": null,
@@ -8523,6 +8804,7 @@
    "title": "Geometry Wars: Galaxies"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "golden-sun-dark-dawn",
    "last_played": null,
@@ -8533,6 +8815,7 @@
    "title": "Golden Sun: Dark Dawn"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "grand-theft-auto-chinatown-wars",
    "last_played": null,
@@ -8543,6 +8826,7 @@
    "title": "Grand Theft Auto: Chinatown Wars"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "harvest-moon-ds",
    "last_played": null,
@@ -8553,6 +8837,7 @@
    "title": "Harvest Moon DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8563,6 +8848,7 @@
    "title": "harvest moon the tale of two towns"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "hotel-dusk-room-215",
    "last_played": null,
@@ -8573,6 +8859,7 @@
    "title": "Hotel Dusk: Room 215"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kingdom-hearts-358-2-days",
    "last_played": null,
@@ -8583,6 +8870,7 @@
    "title": "Kingdom Hearts 358/2 Days"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kirby-canvas-curse",
    "last_played": null,
@@ -8593,6 +8881,7 @@
    "title": "Kirby: Canvas Curse"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kirby-squeak-squad",
    "last_played": null,
@@ -8603,6 +8892,7 @@
    "title": "Kirby: Squeak Squad"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": "kirby-mass-attack",
    "last_played": null,
@@ -8613,6 +8903,7 @@
    "title": "Kirby Mass Attack"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "kirby-super-star-ultra",
    "last_played": null,
@@ -8623,6 +8914,7 @@
    "title": "Kirby Super Star Ultra"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "last-window-the-secret-of-cape-west",
    "last_played": null,
@@ -8633,6 +8925,7 @@
    "title": "Last Window: The Secret of Cape West"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "the-legend-of-zelda-phantom-hourglass",
    "last_played": null,
@@ -8643,6 +8936,7 @@
    "title": "The Legend of Zelda: Phantom Hourglass"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "the-legend-of-zelda-spirit-tracks",
    "last_played": null,
@@ -8653,6 +8947,7 @@
    "title": "The Legend of Zelda: Spirit Tracks"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "lufia-curse-of-the-sinistrals",
    "last_played": null,
@@ -8663,6 +8958,7 @@
    "title": "Lufia: Curse of the Sinistrals"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "lunar-knights",
    "last_played": null,
@@ -8673,6 +8969,7 @@
    "title": "Lunar Knights"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-luigi-partners-in-time",
    "last_played": null,
@@ -8683,6 +8980,7 @@
    "title": "Mario & Luigi: Partners in Time"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-and-sonic-at-the-olympic-winter-games--1",
    "last_played": null,
@@ -8693,6 +8991,7 @@
    "title": "Mario & Sonic at the Olympic Winter Games"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-kart-ds",
    "last_played": null,
@@ -8703,6 +9002,7 @@
    "title": "Mario Kart DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-party-ds",
    "last_played": null,
@@ -8713,6 +9013,7 @@
    "title": "Mario Party DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -8723,6 +9024,7 @@
    "title": "mario vs donkey kong mini-land mayhem!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "mario-vs-donkey-kong-2-march-of-the-minis",
    "last_played": null,
@@ -8733,6 +9035,7 @@
    "title": "Mario vs. Donkey Kong 2: March of the Minis"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "meteos",
    "last_played": null,
@@ -8743,6 +9046,7 @@
    "title": "Meteos"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "metroid-prime-hunters",
    "last_played": null,
@@ -8753,6 +9057,7 @@
    "title": "Metroid Prime Hunters"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "might-and-magic-clash-of-heroes",
    "last_played": null,
@@ -8763,6 +9068,7 @@
    "title": "Might & Magic: Clash of Heroes"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "moon",
    "last_played": null,
@@ -8773,6 +9079,7 @@
    "title": "Moon"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "n-plus",
    "last_played": null,
@@ -8783,6 +9090,7 @@
    "title": "N+"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "nanostray",
    "last_played": null,
@@ -8793,6 +9101,7 @@
    "title": "Nanostray"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "nanostray-2",
    "last_played": null,
@@ -8803,6 +9112,7 @@
    "title": "Nanostray 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "new-super-mario-bros",
    "last_played": null,
@@ -8813,6 +9123,7 @@
    "title": "New Super Mario Bros."
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "nine-hours-nine-persons-nine-doors",
    "last_played": null,
@@ -8823,6 +9134,7 @@
    "title": "Nine Hours, Nine Persons, Nine Doors"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ninja-gaiden-dragon-sword",
    "last_played": null,
@@ -8833,6 +9145,7 @@
    "title": "Ninja Gaiden: Dragon Sword"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "ninjatown",
    "last_played": null,
@@ -8843,6 +9156,7 @@
    "title": "Ninjatown"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "nostalgia",
    "last_played": null,
@@ -8853,6 +9167,7 @@
    "title": "Nostalgia"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "okamiden",
    "last_played": null,
@@ -8863,6 +9178,7 @@
    "title": "Ōkamiden"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "peggle-dual-shot",
    "last_played": null,
@@ -8873,6 +9189,7 @@
    "title": "Peggle: Dual Shot"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "phoenix-wright-ace-attorney",
    "last_played": null,
@@ -8883,6 +9200,7 @@
    "title": "Phoenix Wright: Ace Attorney"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations",
    "last_played": null,
@@ -8893,6 +9211,7 @@
    "title": "Phoenix Wright: Ace Attorney – Justice for All"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "phoenix-wright-ace-attorney-justice-for-all",
    "last_played": null,
@@ -8903,6 +9222,7 @@
    "title": "Phoenix Wright: Ace Attorney – Trials and Tribulations"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "picross-3d",
    "last_played": null,
@@ -8913,6 +9233,7 @@
    "title": "Picross 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "picross-ds",
    "last_played": null,
@@ -8923,6 +9244,7 @@
    "title": "Picross DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "planet-puzzle-league",
    "last_played": null,
@@ -8933,6 +9255,7 @@
    "title": "Planet Puzzle League"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-black-version",
    "last_played": null,
@@ -8943,6 +9266,7 @@
    "title": "Pokémon Black and White"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-white-version-2",
    "last_played": null,
@@ -8953,6 +9277,7 @@
    "title": "Pokémon Black 2 and White 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-diamond-version",
    "last_played": null,
@@ -8963,6 +9288,7 @@
    "title": "Pokémon Diamond and Pearl"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-platinum-version",
    "last_played": null,
@@ -8973,6 +9299,7 @@
    "title": "Pokémon Platinum"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-conquest",
    "last_played": null,
@@ -8983,6 +9310,7 @@
    "title": "Pokémon Conquest"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-mystery-dungeon-blue-rescue-team",
    "last_played": null,
@@ -8993,6 +9321,7 @@
    "title": "Pokémon Mystery Dungeon: Blue Rescue Team"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-mystery-dungeon-explorers-of-darkness",
    "last_played": null,
@@ -9003,6 +9332,7 @@
    "title": "Pokémon Mystery Dungeon: Explorers of Darkness"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-mystery-dungeon-explorers-of-sky",
    "last_played": null,
@@ -9013,6 +9343,7 @@
    "title": "Pokémon Mystery Dungeon: Explorers of Sky"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-mystery-dungeon-explorers-of-time",
    "last_played": null,
@@ -9023,6 +9354,7 @@
    "title": "Pokémon Mystery Dungeon: Explorers of Time"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "professor-layton-and-the-diabolical-box",
    "last_played": null,
@@ -9033,6 +9365,7 @@
    "title": "Professor Layton and the Diabolical Box"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "professor-layton-and-the-last-specter",
    "last_played": null,
@@ -9043,6 +9376,7 @@
    "title": "Professor Layton and the Last Specter"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "radiant-historia",
    "last_played": null,
@@ -9053,6 +9387,7 @@
    "title": "Radiant Historia"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "retro-game-challenge",
    "last_played": null,
@@ -9063,6 +9398,7 @@
    "title": "Retro Game Challenge"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rhapsody-a-musical-adventure",
    "last_played": null,
@@ -9073,6 +9409,7 @@
    "title": "Rhapsody: A Musical Adventure"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rhythm-heaven",
    "last_played": null,
@@ -9083,6 +9420,7 @@
    "title": "Rhythm Heaven"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rune-factory-a-fantasy-harvest-moon",
    "last_played": null,
@@ -9093,6 +9431,7 @@
    "title": "Rune Factory: A Fantasy Harvest Moon"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rune-factory-2-a-fantasy-harvest-moon",
    "last_played": null,
@@ -9103,6 +9442,7 @@
    "title": "Rune Factory 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "rune-factory-3-a-fantasy-harvest-moon",
    "last_played": null,
@@ -9113,6 +9453,7 @@
    "title": "Rune Factory 3"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "scribblenauts",
    "last_played": null,
@@ -9123,6 +9464,7 @@
    "title": "Scribblenauts"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "shin-megami-tensei-devil-survivor",
    "last_played": null,
@@ -9133,6 +9475,7 @@
    "title": "Shin Megami Tensei: Devil Survivor"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "shin-megami-tensei-devil-survivor-2",
    "last_played": null,
@@ -9143,6 +9486,7 @@
    "title": "Shin Megami Tensei: Devil Survivor 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "shin-megami-tensei-strange-journey",
    "last_played": null,
@@ -9153,6 +9497,7 @@
    "title": "Shin Megami Tensei: Strange Journey"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "sonic-rush",
    "last_played": null,
@@ -9163,6 +9508,7 @@
    "title": "Sonic Rush"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "sonic-rush-adventure",
    "last_played": null,
@@ -9173,6 +9519,7 @@
    "title": "Sonic Rush Adventure"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "soul-bubbles",
    "last_played": null,
@@ -9183,6 +9530,7 @@
    "title": "Soul Bubbles"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-dodgeball-brawlers",
    "last_played": null,
@@ -9193,6 +9541,7 @@
    "title": "Super Dodgeball Brawlers"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-princess-peach",
    "last_played": null,
@@ -9203,6 +9552,7 @@
    "title": "Super Princess Peach"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "super-scribblenauts",
    "last_played": null,
@@ -9213,6 +9563,7 @@
    "title": "Super Scribblenauts"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "tales-of-innocence",
    "last_played": null,
@@ -9223,6 +9574,7 @@
    "title": "Tales of Innocence"
   },
   {
+   "also_platform": null,
    "format": "physical",
    "igdb": "tetris-ds",
    "last_played": null,
@@ -9233,6 +9585,7 @@
    "title": "Tetris DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "tony-hawk-s-american-sk8land",
    "last_played": null,
@@ -9243,6 +9596,7 @@
    "title": "Tony Hawk's American Sk8land"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "trauma-center-under-the-knife-2",
    "last_played": null,
@@ -9253,6 +9607,7 @@
    "title": "Trauma Center: Under the Knife 2"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "viva-pinata-pocket-paradise",
    "last_played": null,
@@ -9263,6 +9618,7 @@
    "title": "Viva Piñata: Pocket Paradise"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "warioware-d-i-y",
    "last_played": null,
@@ -9273,6 +9629,7 @@
    "title": "WarioWare D.I.Y."
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "warioware-touched",
    "last_played": null,
@@ -9283,6 +9640,7 @@
    "title": "WarioWare: Touched!"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9293,6 +9651,7 @@
    "title": "Fire Emblem Echoes: Shadows of Valentia"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9303,6 +9662,7 @@
    "title": "Fire Emblem Fates: Birthright"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9313,6 +9673,7 @@
    "title": "Fire Emblem Fates: Conquest"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9323,6 +9684,7 @@
    "title": "Persona Q2: New Cinema Labyrinth"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9333,6 +9695,7 @@
    "title": "Persona Q: Shadow of the Labyrinth"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9343,6 +9706,7 @@
    "title": "Monster Hunter 4 Ultimate"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9353,6 +9717,7 @@
    "title": "Monster Hunter Generations"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9363,6 +9728,7 @@
    "title": "Professor Layton and the Azran Legacy"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9373,6 +9739,7 @@
    "title": "Professor Layton and the Miracle Mask"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": "pokemon-super-mystery-dungeon--1",
    "last_played": null,
@@ -9383,6 +9750,7 @@
    "title": "Pokémon Super Mystery Dungeon"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9393,6 +9761,7 @@
    "title": "Pokémon X"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9403,6 +9772,7 @@
    "title": "Pokémon Y"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9413,6 +9783,7 @@
    "title": "Pokémon Ultra Moon"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9423,6 +9794,7 @@
    "title": "Pokémon Ultra Sun"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9433,6 +9805,7 @@
    "title": "Phoenix Wright: Ace Attorney - Dual Destinies"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9443,6 +9816,7 @@
    "title": "Shin Megami Tensei: Devil Summoner: Soul Hackers"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9453,6 +9827,7 @@
    "title": "Shin Megami Tensei: Devil Survivor 2 Record Breaker"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9463,6 +9838,7 @@
    "title": "Shin Megami Tensei IV: Apocalypse"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9473,6 +9849,7 @@
    "title": "Shin Megami Tensei: Strange Journey Redux"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9483,6 +9860,7 @@
    "title": "Shin Megami Tensei: Devil Survivor Overclocked"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9493,6 +9871,7 @@
    "title": "Mario & Luigi: Dream Team"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9503,6 +9882,7 @@
    "title": "Story of Seasons: Trio of Towns"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9513,6 +9893,7 @@
    "title": "Captain Toad: Treasure Tracker"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9523,6 +9904,7 @@
    "title": "Xenoblade Chronicles 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9533,6 +9915,7 @@
    "title": "Super Smash Bros. for Nintendo 3DS"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9543,6 +9926,7 @@
    "title": "Bravely Second: End Layer"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9553,6 +9937,7 @@
    "title": "Pilotwings Resort"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9563,6 +9948,7 @@
    "title": "Tom Clancy's Ghost Recon Shadow Wars"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9573,6 +9959,7 @@
    "title": "Tom Clancy's Splinter Cell 3D"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9583,6 +9970,7 @@
    "title": "Tales of the Abyss"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9593,6 +9981,7 @@
    "title": "Mario vs. Donkey Kong: Tipping Stars"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9603,6 +9992,7 @@
    "title": "Rune Factory 4"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9613,6 +10003,7 @@
    "title": "Hyrule Warriors Legends"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9623,6 +10014,7 @@
    "title": "Mario Tennis Open"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9633,6 +10025,7 @@
    "title": "Code Name: S.T.E.A.M."
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9643,6 +10036,7 @@
    "title": "WarioWare Gold"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9653,6 +10047,7 @@
    "title": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9663,6 +10058,7 @@
    "title": "Fluidity: Spin Cycle"
   },
   {
+   "also_platform": null,
    "format": "digital",
    "igdb": null,
    "last_played": null,
@@ -9673,6 +10069,7 @@
    "title": "Little Battlers eXperience"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9683,6 +10080,7 @@
    "title": "Alice: Madness Returns"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9693,6 +10091,7 @@
    "title": "Asura's Wrath"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9703,6 +10102,7 @@
    "title": "Dante's Inferno"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9713,6 +10113,7 @@
    "title": "Dead Space 2"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9723,6 +10124,7 @@
    "title": "Dead Space 3"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9733,6 +10135,7 @@
    "title": "The Elder Scrolls IV: Oblivion 5th Anniversary Edition"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9743,6 +10146,7 @@
    "title": "Fallout 3"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9753,6 +10157,7 @@
    "title": "Folklore"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9763,6 +10168,7 @@
    "title": "God of War: Ascension"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9773,6 +10179,7 @@
    "title": "God of War Collection"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9783,6 +10190,7 @@
    "title": "Guitar Hero III: Legends of Rock"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9793,6 +10201,7 @@
    "title": "Heavenly Sword"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9803,6 +10212,7 @@
    "title": "Hitman HD Trilogy"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9813,6 +10223,7 @@
    "title": "The Ico & Shadow of the Colossus Collection"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9823,6 +10234,7 @@
    "title": "Killzone 2"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9833,6 +10245,7 @@
    "title": "NieR"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9843,6 +10256,7 @@
    "title": "Prince of Persia: The Forgotten Sands"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9853,6 +10267,7 @@
    "title": "Puppeteer"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9863,6 +10278,7 @@
    "title": "Ratchet & Clank Future: Tools of Destruction"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9873,6 +10289,7 @@
    "title": "Ratchet & Clank: Into the Nexus"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9883,6 +10300,7 @@
    "title": "Ratchet & Clank Future: Quest for Booty"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9893,6 +10311,7 @@
    "title": "Ratchet & Clank Future: A Crack in Time"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9903,6 +10322,7 @@
    "title": "Resistance: Fall of Man"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9913,6 +10333,7 @@
    "title": "Silent Hill HD Collection"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9923,6 +10344,7 @@
    "title": "SingStar Vol. 3"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9933,6 +10355,7 @@
    "title": "Siren: Blood Curse"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9943,6 +10366,7 @@
    "title": "Tales of Xillia 2"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9953,6 +10377,7 @@
    "title": "Tales of Xillia"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9963,6 +10388,7 @@
    "title": "Tales of Symphonia Chronicles"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9973,6 +10399,7 @@
    "title": "Tales of Graces f"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9983,6 +10410,7 @@
    "title": "The Orange Box"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -9993,6 +10421,7 @@
    "title": "Tokyo Jungle"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10003,6 +10432,7 @@
    "title": "The Tomb Raider Trilogy"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10013,6 +10443,7 @@
    "title": "Valkyria Chronicles"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10023,6 +10454,7 @@
    "title": "Wolfenstein"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10033,6 +10465,7 @@
    "title": "Yakuza: Dead Souls"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10043,6 +10476,7 @@
    "title": "inFamous 2"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10053,6 +10487,7 @@
    "title": "Braid"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10063,6 +10498,7 @@
    "title": "LittleBigPlanet"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10073,6 +10509,7 @@
    "title": "Mirror's Edge"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10083,6 +10520,7 @@
    "title": "Ratchet & Clank"
   },
   {
+   "also_platform": null,
    "format": null,
    "igdb": null,
    "last_played": null,
@@ -10091,6 +10529,534 @@
    "playtime_hours": 0.0,
    "source_id": "manual:inFamous",
    "title": "inFamous"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Animal Crossing: City Folk",
+   "title": "Animal Crossing: City Folk"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Boom Blox",
+   "title": "Boom Blox"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Disaster: Day of Crisis",
+   "title": "Disaster: Day of Crisis"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Escape from Bug Island",
+   "title": "Escape from Bug Island"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Fire Emblem: Radiant Dawn",
+   "title": "Fire Emblem: Radiant Dawn"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ghost Squad",
+   "title": "Ghost Squad"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Just Dance 4",
+   "title": "Just Dance 4"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Kirby's Return to Dream Land",
+   "title": "Kirby's Return to Dream Land"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario & Sonic at the London 2012 Olympic Games",
+   "title": "Mario & Sonic at the London 2012 Olympic Games"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario & Sonic at the Olympic Games",
+   "title": "Mario & Sonic at the Olympic Games"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Kart Wii",
+   "title": "Mario Kart Wii"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Party 8",
+   "title": "Mario Party 8"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metroid Prime Trilogy",
+   "title": "Metroid Prime Trilogy"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Michael Jackson: The Experience",
+   "title": "Michael Jackson: The Experience"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mini Ninjas",
+   "title": "Mini Ninjas"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:New Super Mario Bros. Wii",
+   "title": "New Super Mario Bros. Wii"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:No More Heroes",
+   "title": "No More Heroes"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:No More Heroes 2: Desperate Struggle",
+   "title": "No More Heroes 2: Desperate Struggle"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:New Play Control! Pikmin",
+   "title": "New Play Control! Pikmin"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:New Play Control! Pikmin 2",
+   "title": "New Play Control! Pikmin 2"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Punch-Out!!",
+   "title": "Punch-Out!!"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rabbids Go Home",
+   "title": "Rabbids Go Home"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rayman Raving Rabbids",
+   "title": "Rayman Raving Rabbids"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rayman Raving Rabbids 2",
+   "title": "Rayman Raving Rabbids 2"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rhythm Heaven Fever",
+   "title": "Rhythm Heaven Fever"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rune Factory Frontier",
+   "title": "Rune Factory Frontier"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Rune Factory: Tides of Destiny",
+   "title": "Rune Factory: Tides of Destiny"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Sin & Punishment: Star Successor",
+   "title": "Sin & Punishment: Star Successor"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Mario All-Stars 25th Anniversary Edition",
+   "title": "Super Mario All-Stars 25th Anniversary Edition"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Mario Galaxy",
+   "title": "Super Mario Galaxy"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Mario Galaxy 2",
+   "title": "Super Mario Galaxy 2"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Paper Mario",
+   "title": "Super Paper Mario"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Smash Bros. Brawl",
+   "title": "Super Smash Bros. Brawl"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Tetris Party Deluxe",
+   "title": "Tetris Party Deluxe"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: Skyward Sword",
+   "title": "The Legend of Zelda: Skyward Sword"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: Twilight Princess",
+   "title": "The Legend of Zelda: Twilight Princess"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Wario Land: Shake It!",
+   "title": "Wario Land: Shake It!"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:WarioWare: Smooth Moves",
+   "title": "WarioWare: Smooth Moves"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Wii Party",
+   "title": "Wii Party"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Wii Sports Resort",
+   "title": "Wii Sports Resort"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Zack & Wiki: Quest for Barbaros' Treasure",
+   "title": "Zack & Wiki: Quest for Barbaros' Treasure"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "Wii",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Okami",
+   "title": "Okami"
+  },
+  {
+   "also_platform": "Wii",
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Fire Emblem: Path of Radiance",
+   "title": "Fire Emblem: Path of Radiance"
+  },
+  {
+   "also_platform": "Wii",
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: The Wind Waker",
+   "title": "The Legend of Zelda: The Wind Waker"
+  },
+  {
+   "also_platform": "Wii",
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mario Party 4",
+   "title": "Mario Party 4"
+  },
+  {
+   "also_platform": "Wii",
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Paper Mario: The Thousand-Year Door",
+   "title": "Paper Mario: The Thousand-Year Door"
+  },
+  {
+   "also_platform": "Wii",
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Super Mario Sunshine",
+   "title": "Super Mario Sunshine"
+  },
+  {
+   "also_platform": "Wii",
+   "format": "physical",
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
+   "source_id": "manual:The Legend of Zelda: Four Swords Adventures",
+   "title": "The Legend of Zelda: Four Swords Adventures"
   }
  ],
  "nintendo_eshop": [
@@ -19595,17 +20561,17 @@
    "title": "Metro Exodus"
   },
   {
-   "also_platform": null,
+   "also_platform": "PS4",
    "concept": "10009198",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2821/51d6eb5a4a96c0a546c0f7e475a6477a6c4a29196c95820b.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
-   "platform": "PS4",
+   "platform": "PS5",
    "playtime_hours": 0.0,
    "source_id": "psplus:10009198",
    "store_url": "https://store.playstation.com/en-us/concept/10009198",
-   "streaming": false,
+   "streaming": true,
    "tier": "Game Catalog",
    "title": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
