@@ -5939,16 +5939,16 @@
   "via": "search"
  },
  "GameCube:emu:GameCube:The Legend of Zelda - Twilight Princess": {
-  "candidates": 8,
-  "checked": "2026-11-02T08:42:37+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-11-03T05:14:15+00:00",
+  "conf": "manual",
   "id": 1036,
   "mp": null,
-  "score": 1.209,
-  "slug": null,
+  "score": null,
+  "slug": "the-legend-of-zelda-twilight-princess",
   "title": "The Legend of Zelda: Twilight Princess",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "GameCube:manual:Fire Emblem: Path of Radiance": {
   "candidates": 1,
@@ -6323,16 +6323,16 @@
   "via": "search"
  },
  "Genesis:nso:Genesis:Earthworm Jim": {
-  "candidates": 25,
-  "checked": "2026-11-01T00:32:29+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-11-03T05:14:15+00:00",
+  "conf": "manual",
   "id": 3480,
   "mp": null,
-  "score": 1.144,
-  "slug": null,
+  "score": null,
+  "slug": "earthworm-jim",
   "title": "Earthworm Jim",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "Genesis:nso:Genesis:Ecco the Dolphin": {
   "candidates": 9,
@@ -15120,15 +15120,16 @@
   "via": "search"
  },
  "PS4:CUSA48389_00": {
-  "candidates": 9,
-  "checked": "2026-10-07T01:46:42+00:00",
-  "conf": "high",
-  "id": 305560,
-  "score": 1.12,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-11-03T05:14:14+00:00",
+  "conf": "manual",
+  "id": 1161,
+  "mp": null,
+  "score": null,
+  "slug": "tomb-raider-legend",
   "title": "Tomb Raider: Legend",
-  "v": 2,
-  "via": "search"
+  "v": 4,
+  "via": "fix"
  },
  "PS4:CUSA48887_00": {
   "candidates": 25,
@@ -21065,15 +21066,16 @@
   "via": "search"
  },
  "PS5:PPSA22453_00": {
-  "candidates": 9,
-  "checked": "2026-10-07T01:46:42+00:00",
-  "conf": "high",
-  "id": 305560,
-  "score": 1.12,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-11-03T05:14:14+00:00",
+  "conf": "manual",
+  "id": 1161,
+  "mp": null,
+  "score": null,
+  "slug": "tomb-raider-legend",
   "title": "Tomb Raider: Legend",
-  "v": 2,
-  "via": "search"
+  "v": 4,
+  "via": "fix"
  },
  "PS5:PPSA23088_00": {
   "candidates": 25,
@@ -24283,18 +24285,18 @@
   "via": "search"
  },
  "PS5:psplus:10010747": {
-  "candidates": 9,
-  "checked": "2026-10-28T05:01:12+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-11-03T05:14:16+00:00",
+  "conf": "manual",
   "id": 1161,
   "mp": [
    "PS Classic"
   ],
-  "score": 1.145,
-  "slug": null,
+  "score": null,
+  "slug": "tomb-raider-legend",
   "title": "Tomb Raider: Legend",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PS5:psplus:10010892": {
   "candidates": 3,
@@ -26001,15 +26003,16 @@
   "via": "search"
  },
  "PSP:manual:tomb raider: legend": {
-  "candidates": 9,
-  "checked": "2026-10-08T03:31:39+00:00",
-  "conf": "high",
-  "id": 248535,
-  "score": 1.123,
-  "slug": null,
+  "candidates": null,
+  "checked": "2026-11-03T05:14:14+00:00",
+  "conf": "manual",
+  "id": 1161,
+  "mp": null,
+  "score": null,
+  "slug": "tomb-raider-legend",
   "title": "tomb raider: legend",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "PSP:manual:ys i & ii chronicles": {
   "candidates": 3,
@@ -26729,16 +26732,16 @@
   "via": "search"
  },
  "SNES:emu:SNES:Chrono Trigger": {
-  "candidates": 17,
-  "checked": "2026-11-02T08:44:53+00:00",
-  "conf": "high",
+  "candidates": null,
+  "checked": "2026-11-03T05:14:15+00:00",
+  "conf": "manual",
   "id": 1802,
   "mp": null,
-  "score": 1.21,
-  "slug": null,
+  "score": null,
+  "slug": "chrono-trigger",
   "title": "Chrono Trigger",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:emu:SNES:Chuck Rock": {
   "candidates": 5,
@@ -26993,16 +26996,16 @@
   "via": "search"
  },
  "SNES:emu:SNES:Earthworm Jim": {
-  "candidates": 25,
-  "checked": "2026-11-02T08:45:13+00:00",
-  "conf": "high",
-  "id": 362035,
+  "candidates": null,
+  "checked": "2026-11-03T05:14:16+00:00",
+  "conf": "manual",
+  "id": 3480,
   "mp": null,
-  "score": 1.18,
-  "slug": null,
+  "score": null,
+  "slug": "earthworm-jim",
   "title": "Earthworm Jim",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "SNES:emu:SNES:Earthworm Jim 2": {
   "candidates": 9,
@@ -31612,14 +31615,16 @@
   "via": "steam"
  },
  "Steam:613830": {
-  "checked": "2026-10-07T01:05:42+00:00",
-  "conf": "exact",
-  "id": 206320,
+  "candidates": null,
+  "checked": "2026-11-03T05:14:13+00:00",
+  "conf": "manual",
+  "id": 1802,
+  "mp": null,
   "score": null,
-  "slug": null,
+  "slug": "chrono-trigger",
   "title": "CHRONO TRIGGER",
-  "v": 2,
-  "via": "steam"
+  "v": 4,
+  "via": "fix"
  },
  "Steam:620": {
   "checked": "2026-10-07T01:05:42+00:00",
@@ -31682,14 +31687,16 @@
   "via": "steam"
  },
  "Steam:7000": {
-  "checked": "2026-10-07T01:05:42+00:00",
-  "conf": "exact",
+  "candidates": null,
+  "checked": "2026-11-03T05:14:13+00:00",
+  "conf": "manual",
   "id": 1161,
+  "mp": null,
   "score": null,
-  "slug": null,
+  "slug": "tomb-raider-legend",
   "title": "Tomb Raider: Legend",
-  "v": 2,
-  "via": "steam"
+  "v": 4,
+  "via": "fix"
  },
  "Steam:703080": {
   "candidates": null,
@@ -32724,16 +32731,16 @@
   "via": "search"
  },
  "Wii:manual:The Legend of Zelda: Twilight Princess": {
-  "candidates": 8,
-  "checked": "2026-11-03T04:37:52+00:00",
-  "conf": "high",
-  "id": 134014,
+  "candidates": null,
+  "checked": "2026-11-03T05:14:15+00:00",
+  "conf": "manual",
+  "id": 1036,
   "mp": null,
-  "score": 1.14,
-  "slug": null,
+  "score": null,
+  "slug": "the-legend-of-zelda-twilight-princess",
   "title": "The Legend of Zelda: Twilight Princess",
   "v": 4,
-  "via": "search"
+  "via": "fix"
  },
  "Wii:manual:Wario Land: Shake It!": {
   "candidates": 2,
