@@ -4102,6 +4102,19 @@
   "opencritic_pct": 76,
   "opencritic_tier": "Strong"
  },
+ "igdb:132181": {
+  "backloggd": 4.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T06:10:31+00:00",
+  "mc_v": 2,
+  "metacritic": 93,
+  "metacritic_slug": "resident-evil-4",
+  "oc_checked": "2026-11-03T06:10:31+00:00",
+  "opencritic": 92,
+  "opencritic_id": 14200,
+  "opencritic_pct": 98,
+  "opencritic_tier": "Mighty"
+ },
  "igdb:132220": {
   "backloggd": 2.4,
   "bl_v": 2,
@@ -12121,7 +12134,8 @@
   "checked": "2026-10-28T03:59:09+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "pathfinder-wrath-of-the-righteous"
+  "metacritic_slug": "pathfinder-wrath-of-the-righteous",
+  "oc_checked": "2026-11-03T06:11:02+00:00"
  },
  "igdb:2271": {
   "backloggd": 3.9,

@@ -11057,6 +11057,17 @@
    "playtime_hours": 0.0,
    "source_id": "manual:The Legend of Zelda: Four Swords Adventures",
    "title": "The Legend of Zelda: Four Swords Adventures"
+  },
+  {
+   "also_platform": null,
+   "format": "physical",
+   "igdb": "resident-evil-4--1",
+   "last_played": null,
+   "manual": true,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Resident Evil 4",
+   "title": "Resident Evil 4"
   }
  ],
  "nintendo_eshop": [
@@ -20561,17 +20572,17 @@
    "title": "Metro Exodus"
   },
   {
-   "also_platform": null,
+   "also_platform": "PS4",
    "concept": "10009198",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2821/51d6eb5a4a96c0a546c0f7e475a6477a6c4a29196c95820b.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
-   "platform": "PS4",
+   "platform": "PS5",
    "playtime_hours": 0.0,
    "source_id": "psplus:10009198",
    "store_url": "https://store.playstation.com/en-us/concept/10009198",
-   "streaming": false,
+   "streaming": true,
    "tier": "Game Catalog",
    "title": "Mighty Morphin Power Rangers: Rita's Rewind"
   },

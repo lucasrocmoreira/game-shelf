@@ -21680,6 +21680,18 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:manual:Resident Evil 4": {
+  "candidates": null,
+  "checked": "2026-11-03T06:10:06+00:00",
+  "conf": "manual",
+  "id": 132181,
+  "mp": null,
+  "score": null,
+  "slug": "resident-evil-4--1",
+  "title": "Resident Evil 4",
+  "v": 4,
+  "via": "fix"
+ },
  "PS5:psplus:10000176": {
   "candidates": 25,
   "checked": "2026-10-28T03:43:39+00:00",
