@@ -3637,6 +3637,48 @@
     "igdb:9543"
    ],
    "date": "2026-10-30T18:59:35.210Z"
+  },
+  "wii": {
+   "slots": [
+    {
+     "key": "igdb:1068",
+     "best": "igdb:1077",
+     "why": [
+      "Play this game to get to the amazing Super Mario Galaxy (93). It's the earliest Mario game you haven't played.",
+      "Not on this console: Switch Online (Switch + NES)",
+      "Shorter than what you're playing: about 6h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:6557",
+     "best": "igdb:5122",
+     "why": [
+      "Play this game to get to the amazing Rhythm Heaven Fever (83). It's the earliest entry in the series you haven't played.",
+      "Not on this console: EmuDeck (GBA)",
+      "A change of genre: Music",
+      "Shorter than what you're playing: about 6.5h to beat"
+     ],
+     "sent": false
+    },
+    {
+     "key": "igdb:1467",
+     "best": "igdb:1468",
+     "why": [
+      "Play this game to get to the amazing Sin & Punishment: Star Successor (83). It's the earliest entry in the series you haven't played.",
+      "Not on this console: Switch Online or EmuDeck (N64)",
+      "A change of genre: Shooter",
+      "Shorter than what you're playing: about 2.5h to beat"
+     ],
+     "sent": false
+    }
+   ],
+   "skip": [
+    "igdb:1068",
+    "igdb:6557",
+    "igdb:1467"
+   ],
+   "date": "2026-11-03T07:35:38.459Z"
   }
  }
 }
