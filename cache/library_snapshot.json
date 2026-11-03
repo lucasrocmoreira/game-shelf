@@ -10041,6 +10041,66 @@
    "playtime_hours": 0.0,
    "source_id": "manual:inFamous 2",
    "title": "inFamous 2"
+  },
+  {
+   "format": null,
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS3",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Braid",
+   "title": "Braid"
+  },
+  {
+   "format": null,
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS3",
+   "playtime_hours": 0.0,
+   "source_id": "manual:LittleBigPlanet",
+   "title": "LittleBigPlanet"
+  },
+  {
+   "format": null,
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS3",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Metal Gear Solid 2: Sons of Liberty HD",
+   "title": "Metal Gear Solid 2: Sons of Liberty HD"
+  },
+  {
+   "format": null,
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS3",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Mirror's Edge",
+   "title": "Mirror's Edge"
+  },
+  {
+   "format": null,
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS3",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Ratchet & Clank",
+   "title": "Ratchet & Clank"
+  },
+  {
+   "format": null,
+   "igdb": null,
+   "last_played": null,
+   "manual": true,
+   "platform": "PS3",
+   "playtime_hours": 0.0,
+   "source_id": "manual:inFamous",
+   "title": "inFamous"
   }
  ],
  "nintendo_eshop": [

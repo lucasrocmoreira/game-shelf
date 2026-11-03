@@ -440,6 +440,14 @@
   "hltb_name": "Phogs!",
   "main": 8.0
  },
+ "igdb:1058": {
+  "checked": "2026-11-03T04:31:04+00:00",
+  "complete": 42.0,
+  "extra": 17.5,
+  "hltb_id": 5334,
+  "hltb_name": "LittleBigPlanet",
+  "main": 9.0
+ },
  "igdb:10605": {
   "checked": "2026-10-28T05:20:31+00:00",
   "complete": 14.0,
@@ -9095,6 +9103,14 @@
   "hltb_name": "Citizen Sleeper 2: Starward Vector",
   "main": 10.0
  },
+ "igdb:253141": {
+  "checked": "2026-11-03T04:31:10+00:00",
+  "complete": 12.5,
+  "extra": 7.0,
+  "hltb_id": 14324,
+  "hltb_name": "Ratchet & Clank: Into the Nexus",
+  "main": 5.5
+ },
  "igdb:25358": {
   "checked": "2026-10-16T04:52:54+00:00",
   "complete": 39.5,
@@ -9953,6 +9969,14 @@
   "hltb_id": 10314,
   "hltb_name": "Thrillville",
   "main": 7.0
+ },
+ "igdb:2853": {
+  "checked": "2026-11-03T04:30:57+00:00",
+  "complete": 8.0,
+  "extra": 6.0,
+  "hltb_id": 1290,
+  "hltb_name": "Braid",
+  "main": 5.0
  },
  "igdb:28540": {
   "checked": "2026-10-16T14:58:45+00:00",
@@ -13912,6 +13936,9 @@
   "hltb_name": "Descenders",
   "main": 5.0
  },
+ "igdb:523": {
+  "checked": "2026-11-03T04:31:12+00:00"
+ },
  "igdb:5254": {
   "checked": "2026-10-28T12:00:05+00:00"
  },
@@ -14120,6 +14147,14 @@
   "hltb_id": 61650,
   "hltb_name": "Anno 1800",
   "main": 15.5
+ },
+ "igdb:55041": {
+  "checked": "2026-11-03T04:31:08+00:00",
+  "complete": 28.5,
+  "extra": 15.5,
+  "hltb_id": 5910,
+  "hltb_name": "Metal Gear Solid 2: Sons of Liberty",
+  "main": 13.0
  },
  "igdb:55047": {
   "checked": "2026-10-16T14:56:34+00:00",

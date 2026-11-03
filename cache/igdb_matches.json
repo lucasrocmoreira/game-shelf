@@ -10470,6 +10470,18 @@
   "v": 4,
   "via": "search"
  },
+ "PS3:manual:Braid": {
+  "candidates": 2,
+  "checked": "2026-11-03T04:29:46+00:00",
+  "conf": "high",
+  "id": 2853,
+  "mp": null,
+  "score": 1.148,
+  "slug": null,
+  "title": "Braid",
+  "v": 4,
+  "via": "search"
+ },
  "PS3:manual:Dante's Inferno": {
   "candidates": null,
   "checked": "2026-11-03T04:23:10+00:00",
@@ -10613,6 +10625,18 @@
   "v": 4,
   "via": "search"
  },
+ "PS3:manual:LittleBigPlanet": {
+  "candidates": 24,
+  "checked": "2026-11-03T04:29:46+00:00",
+  "conf": "high",
+  "id": 1058,
+  "mp": null,
+  "score": 1.145,
+  "slug": null,
+  "title": "LittleBigPlanet",
+  "v": 4,
+  "via": "search"
+ },
  "PS3:manual:Metal Gear Solid 2: Sons of Liberty": {
   "candidates": null,
   "checked": "2026-10-08T04:10:03+00:00",
@@ -10623,6 +10647,30 @@
   "title": "Metal Gear Solid 2: Sons of Liberty",
   "v": 4,
   "via": "fix"
+ },
+ "PS3:manual:Metal Gear Solid 2: Sons of Liberty HD": {
+  "candidates": 14,
+  "checked": "2026-11-03T04:29:49+00:00",
+  "conf": "medium",
+  "id": 55041,
+  "mp": null,
+  "score": 0.998,
+  "slug": null,
+  "title": "Metal Gear Solid 2: Sons of Liberty HD",
+  "v": 4,
+  "via": "search"
+ },
+ "PS3:manual:Mirror's Edge": {
+  "candidates": 7,
+  "checked": "2026-11-03T04:29:49+00:00",
+  "conf": "high",
+  "id": 1051,
+  "mp": null,
+  "score": 1.15,
+  "slug": null,
+  "title": "Mirror's Edge",
+  "v": 4,
+  "via": "search"
  },
  "PS3:manual:NieR": {
   "candidates": 25,
@@ -10657,6 +10705,18 @@
   "score": 1.136,
   "slug": null,
   "title": "Puppeteer",
+  "v": 4,
+  "via": "search"
+ },
+ "PS3:manual:Ratchet & Clank": {
+  "candidates": 23,
+  "checked": "2026-11-03T04:29:50+00:00",
+  "conf": "high",
+  "id": 253141,
+  "mp": null,
+  "score": 1.132,
+  "slug": null,
+  "title": "Ratchet & Clank",
   "v": 4,
   "via": "search"
  },
@@ -10897,6 +10957,18 @@
   "score": 1.132,
   "slug": null,
   "title": "Yakuza: Dead Souls",
+  "v": 4,
+  "via": "search"
+ },
+ "PS3:manual:inFamous": {
+  "candidates": 23,
+  "checked": "2026-11-03T04:29:51+00:00",
+  "conf": "high",
+  "id": 523,
+  "mp": null,
+  "score": 1.146,
+  "slug": null,
+  "title": "inFamous",
   "v": 4,
   "via": "search"
  },

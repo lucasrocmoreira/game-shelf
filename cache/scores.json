@@ -574,7 +574,8 @@
   "checked": "2026-11-03T04:23:48+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "alice-madness-returns"
+  "metacritic_slug": "alice-madness-returns",
+  "oc_checked": "2026-11-03T04:30:24+00:00"
  },
  "igdb:1041": {
   "backloggd": 3.7,
@@ -651,6 +652,15 @@
   "opencritic_id": 10612,
   "opencritic_pct": 71,
   "opencritic_tier": "Strong"
+ },
+ "igdb:1058": {
+  "backloggd": 3.9,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:30:11+00:00",
+  "mc_v": 2,
+  "metacritic": 95,
+  "metacritic_slug": "littlebigplanet",
+  "oc_checked": "2026-11-03T04:30:24+00:00"
  },
  "igdb:10605": {
   "backloggd": 4.1,
@@ -3822,7 +3832,8 @@
   "checked": "2026-11-03T04:24:11+00:00",
   "mc_v": 2,
   "metacritic": 80,
-  "metacritic_slug": "god-of-war-ascension"
+  "metacritic_slug": "god-of-war-ascension",
+  "oc_checked": "2026-11-03T04:30:54+00:00"
  },
  "igdb:129274": {
   "backloggd": 2.1,
@@ -13265,6 +13276,14 @@
   "opencritic_pct": 98,
   "opencritic_tier": "Mighty"
  },
+ "igdb:253141": {
+  "backloggd": 3.8,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:30:21+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:25358": {
   "backloggd": 4.3,
   "bl_v": 2,
@@ -13831,7 +13850,8 @@
   "checked": "2026-11-03T04:24:17+00:00",
   "mc_v": 2,
   "metacritic": 85,
-  "metacritic_slug": "guitar-hero-iii-legends-of-rock"
+  "metacritic_slug": "guitar-hero-iii-legends-of-rock",
+  "oc_checked": "2026-11-03T04:30:24+00:00"
  },
  "igdb:267775": {
   "backloggd": 3.3,
@@ -14588,6 +14608,15 @@
   "metacritic": 69,
   "metacritic_slug": "thrillville",
   "oc_checked": "2026-11-03T04:17:56+00:00"
+ },
+ "igdb:2853": {
+  "backloggd": 3.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:30:07+00:00",
+  "mc_v": 2,
+  "metacritic": 93,
+  "metacritic_slug": "braid",
+  "oc_checked": "2026-11-03T04:30:24+00:00"
  },
  "igdb:28540": {
   "backloggd": 3.5,
@@ -19790,7 +19819,8 @@
   "checked": "2026-11-03T04:25:58+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "infamous-2"
+  "metacritic_slug": "infamous-2",
+  "oc_checked": "2026-11-03T04:30:24+00:00"
  },
  "igdb:517": {
   "backloggd": 3.9,
@@ -19873,6 +19903,15 @@
   "metacritic": 75,
   "metacritic_slug": "descenders",
   "oc_checked": "2026-10-16T14:55:15+00:00"
+ },
+ "igdb:523": {
+  "backloggd": 3.6,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:30:24+00:00",
+  "mc_v": 2,
+  "metacritic": 85,
+  "metacritic_slug": "infamous",
+  "oc_checked": "2026-11-03T04:30:24+00:00"
  },
  "igdb:5254": {
   "backloggd": 2.8,
@@ -20173,6 +20212,14 @@
   "opencritic_pct": 95,
   "opencritic_tier": "Strong"
  },
+ "igdb:55041": {
+  "backloggd": 4.5,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:30:14+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
+ },
  "igdb:55047": {
   "backloggd": 2.7,
   "bl_v": 2,
@@ -20349,7 +20396,8 @@
   "checked": "2026-11-03T04:25:51+00:00",
   "mc_v": 2,
   "metacritic": 72,
-  "metacritic_slug": "wolfenstein"
+  "metacritic_slug": "wolfenstein",
+  "oc_checked": "2026-11-03T04:30:24+00:00"
  },
  "igdb:5692": {
   "backloggd": 1.6,
