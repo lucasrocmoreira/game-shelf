@@ -3388,13 +3388,12 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:3612",
+     "key": "igdb:3339",
      "best": "igdb:135999",
      "why": [
       "Play this game to get to the amazing Tetris Effect: Connected (88). It's the earliest Tetris game you haven't played.",
       "Not on this console: EmuDeck (N64)",
-      "A change of genre: Puzzle",
-      "Shorter than what you're playing: about 7h to beat"
+      "A change of genre: Puzzle"
      ],
      "sent": false
     },
@@ -3426,9 +3425,11 @@
     "igdb:18696",
     "igdb:170995",
     "igdb:14531",
-    "igdb:3612"
+    "igdb:3612",
+    "igdb:49875",
+    "igdb:3339"
    ],
-   "date": "2026-11-03T07:34:45.362Z"
+   "date": "2026-11-03T07:34:48.195Z"
   },
   "ps3": {
    "slots": [
