@@ -3539,14 +3539,13 @@
      "sent": false
     },
     {
-     "key": "igdb:80174",
-     "best": "igdb:80174",
+     "key": "igdb:1068",
+     "best": "igdb:1068",
      "why": [
-      "Top-rated game you haven't played (average 79)",
-      "A change of genre: Puzzle",
-      "A longer one this time: about 30.5h to beat"
+      "Sent here from your Wii suggestions",
+      "Play this game to get to the amazing Super Mario Galaxy (93). It's the earliest Mario game you haven't played."
      ],
-     "sent": false
+     "sent": true
     }
    ],
    "skip": [
@@ -3555,9 +3554,11 @@
     "igdb:71976",
     "igdb:207026",
     "igdb:3490",
-    "igdb:80174"
+    "igdb:80174",
+    "igdb:1068"
    ],
-   "date": "2026-11-02T15:24:57.551Z"
+   "avoid": [],
+   "date": "2026-11-03T07:42:19.669Z"
   },
   "ds": {
    "slots": [
