@@ -43,6 +43,10 @@ def load_overrides(ed):
         for plat, fixes in (data.get("igdb_by_platform") or {}).items()
         for t, slug in (fixes or {}).items()
     }
+    from . import igdb as _igdb
+    _igdb.FRANCHISE_REMOVE.clear()
+    for k, names in (data.get("franchise_remove") or {}).items():
+        _igdb.FRANCHISE_REMOVE[int(str(k).split(":")[-1])] = set(names or [])
     return {
         "igdb_by_platform": by_plat,
         "exclude": {edits.source_key(t) for t in data.get("exclude") or []},
@@ -632,6 +636,14 @@ def original_console(game):
     return next((name for pid, name in LEGACY_CONSOLES if pid in plats), None)
 
 
+def _root_of(key, igdb_games):
+    """The original game behind a remaster or edition (God of War III Remastered -> God of War III)."""
+    if not str(key).startswith("igdb:"):
+        return None
+    gid = int(key.split(":")[1])
+    return (igdb_games.get(gid) or {}).get("_root") or gid
+
+
 def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, hl_cache, status):
     """site/psplus.json: the PS Plus catalogs with the same scores and details as your library."""
     seen = load_json(CACHE_DIR / "psplus_seen.json", {})
@@ -653,13 +665,14 @@ def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, 
             d["added"] = max(d.get("added") or "", seen[e["concept"]])
     save_json(CACHE_DIR / "psplus_seen.json", seen)
 
+    owned_roots = {_root_of(k, igdb_games) for k, r in library.items() if not r["hidden"]} - {None}
     games = []
     for k, row in catalog.items():
         out = to_site_row(row, cache.get(k, {}), hl_cache.get(k))
         d = details.get(k, {})
         out["tiers"] = sorted(d.get("tiers", []))
         out["streaming"] = d.get("streaming", False)
-        out["owned"] = k in library and not library[k]["hidden"]
+        out["owned"] = (k in library and not library[k]["hidden"]) or _root_of(k, igdb_games) in owned_roots
         out["added"] = d.get("added")  # date it first appeared in the catalog (empty for the initial import)
         if d.get("store_url"):
             out["links"]["store"] = d["store_url"]

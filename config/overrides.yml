@@ -44,3 +44,23 @@ rename:
   "igdb:426": "Final Fantasy VI (Final Fantasy III in the US)"
   "igdb:144651": "Dragon Quest III (Super Famicom)"
   # "DOOM": Doom (2016)
+
+# Franchise tags IGDB adds for a cameo or crossover, by library key.
+franchise_remove:
+  "igdb:5495": [Street Fighter]          # Asura's Wrath
+  "igdb:2687": [Panel de Pon]            # Animal Crossing: New Leaf
+  "igdb:36662": [Formula 1]              # Need for Speed: Payback
+  "igdb:227987": [The Legend of Zelda]   # SoulCalibur II
+  "igdb:1568": [God of War]              # SoulCalibur: Broken Destiny
+  "igdb:2723": [Banjo-Kazooie, Banjo & Kazooie]  # Diddy Kong Racing
+  "igdb:210237": [Spyro, Spyro the Dragon]  # Crash Nitro Kart
+  "igdb:6601": [NiGHTS]                  # Sonic Pinball Party
+  "igdb:2345": [Donkey Kong]             # Mario Kart DS
+  "igdb:2328": [Donkey Kong]             # Mario Party 2
+  "igdb:2708": [Donkey Kong]             # Mario & Sonic at the Olympic Games
+  "igdb:132109": [Donkey Kong]           # Mario & Sonic (London 2012)
+  "igdb:6495": [Castlevania, Metal Gear, Power Pros, Jikkyou Powerful Pro Yakyuu]  # Konami Krazy Racers
+  "igdb:86428": [Mario, Mario Bros.]     # Pinball
+  "igdb:3629": [Kawasaki Motors]         # Wave Race 64
+  "igdb:133301": [Colin McRae, Colin McRae Rally]  # Dirt 5
+  "igdb:2933": [Disney]                  # Kingdom Hearts III

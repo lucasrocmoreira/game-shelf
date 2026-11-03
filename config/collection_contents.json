@@ -175,7 +175,8 @@
    376,
    379,
    374,
-   377
+   377,
+   382
   ],
   "games": [
    "Metal Gear Solid 2: Sons of Liberty",
@@ -315,7 +316,7 @@
  "igdb:21020": {
   "title": "Ys I & II Chronicles",
   "contains": [
-   145897,
+   2411,
    15449
   ],
   "games": [
@@ -367,6 +368,62 @@
   "games": [
    "Tales of Symphonia",
    "Tales of Symphonia: Dawn of the New World"
+  ]
+ },
+ "igdb:1112": {
+  "title": "Metroid Prime: Trilogy",
+  "contains": [
+   1105,
+   1108,
+   1111
+  ]
+ },
+ "igdb:84920": {
+  "title": "Super Mario All-Stars: Limited Edition",
+  "contains": [
+   358,
+   1066,
+   1067,
+   1068
+  ]
+ },
+ "igdb:16617": {
+  "title": "Super Mario Advance 2",
+  "contains": [
+   1070
+  ]
+ },
+ "igdb:16747": {
+  "title": "Super Mario Advance 3",
+  "contains": [
+   1073
+  ]
+ },
+ "igdb:81197": {
+  "title": "Super Mario Advance",
+  "contains": [
+   1067
+  ]
+ },
+ "igdb:16748": {
+  "title": "Super Mario Advance 4",
+  "contains": [
+   1068
+  ]
+ },
+ "igdb:1727": {
+  "title": "Mega Man: The Wily Wars",
+  "contains": [
+   1714,
+   170742,
+   1716
+  ]
+ },
+ "igdb:21084": {
+  "title": "The Ico & Shadow of the Colossus Collection",
+  "contains": [
+   7170,
+   2207
   ]
  }
 }

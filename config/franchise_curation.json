@@ -820,12 +820,24 @@
    {
     "id": 366884,
     "remake_of": 1818
+   },
+   {
+    "id": 1812,
+    "remake_of": 205229
+   },
+   {
+    "id": 1813,
+    "remake_of": 205592
+   },
+   {
+    "id": 1814,
+    "remake_of": 205589
    }
   ],
   "drop": [
    271211
   ],
-  "notes": "Main = I to XI (XII unreleased). Monsters, Heroes, Builders, Torneko, Slime are spin-off series per Wikipedia. Remakes listed are the console remakes Wikipedia names; the mobile-derived ids 1812, 1813, 1814 (2004/2005/2009 'Dragon Quest', 'II: Luminaries', 'III: Seeds of Salvation') are left out of main and will show as spin-offs. 271211 is a duplicate JP entry of the DS Dragon Quest IV (1815).",
+  "notes": "Main = I to XI (XII unreleased). Monsters, Heroes, Builders, Torneko, Slime are spin-off series per Wikipedia. Remakes listed are the console remakes Wikipedia names; the mobile-derived ids 1812, 1813, 1814 (2004/2005/2009 'Dragon Quest', 'II: Luminaries', 'III: Seeds of Salvation') are left out of main and will show as spin-offs. 271211 is a duplicate JP entry of the DS Dragon Quest IV (1815). Update 2026-11-02: the 2004/2005/2009 remakes 1812-1814 (the Switch/mobile versions) are listed as remakes so owning them counts.",
   "curated_at": "2026-10-30"
  },
  "Fallout": {
@@ -1813,7 +1825,12 @@
    9621,
    60852,
    90109,
-   109455
+   109455,
+   192277,
+   270345,
+   270346,
+   270350,
+   270351
   ],
   "notes": "Sections follow Wikipedia's List of video games featuring Mario. Super Mario Bros. 2 (1067) is typed as a port of Doki Doki Panic in IGDB. Yoshi's Island is kept in Super Mario because Wikipedia lists it there. Super Mario Run is mobile but in Wikipedia's Super Mario list. Compilations (All-Stars, 3D All-Stars), Mario Kart 8 Deluxe and 3D World + Bowser's Fury are left out as re-releases; Super Mario Maker for 3DS is a port. Mario Kart Tour and Dr. Mario World (mobile) omitted. Drops: Smash Bros. and Luigi's Mansion entries attached to Mario.",
   "curated_at": "2026-10-30"
@@ -2375,7 +2392,10 @@
    }
   ],
   "notes": "Wikipedia main line: NES trilogy plus the numbered 3D games. IGDB types the 1988 NES game (210484) as a port of the arcade game (7558), so the NES id is used. Shadow, Dragon Sword, Yaiba and Ragebound are spin-offs per Wikipedia; Black, Sigma, Sigma 2, Razor's Edge and Ninja Gaiden II Black are enhanced versions, not separate entries.",
-  "curated_at": "2026-10-30"
+  "curated_at": "2026-10-30",
+  "drop": [
+   7558
+  ]
  },
  "Persona": {
   "franchise": "Persona",
@@ -3035,11 +3055,7 @@
    },
    {
     "id": 1210,
-    "title": "Tales of Hearts (Anime Movie Edition)"
-   },
-   {
-    "id": 222922,
-    "title": "Tales of Hearts (CG Movie Edition)"
+    "title": "Tales of Hearts"
    },
    {
     "id": 1211
@@ -3069,7 +3085,10 @@
    }
   ],
   "notes": "Mothership titles per Wikipedia. IGDB 1202 'Tales of Destiny II' is Tales of Eternia (its NA name); 1203 is the separate 2002 Tales of Destiny 2. Tales of Hearts exists in IGDB only as its two paired DS editions, both listed. Tempest and Legendia are listed as mothership per Wikipedia although later reclassified by Bandai Namco. Dawn of the New World is an escort title (spin-off). Phantasia Full Voice Edition (PSP) treated as a port, not listed.",
-  "curated_at": "2026-10-30"
+  "curated_at": "2026-10-30",
+  "drop": [
+   222922
+  ]
  },
  "The Legend of Zelda": {
   "franchise": "The Legend of Zelda",
@@ -4877,7 +4896,9 @@
    }
   ],
   "drop": [
-   36701
+   36701,
+   145897,
+   146074
   ],
   "notes": "Main = Ys I to X plus Origin, with Falcom remakes Ys Eternal (Ys I), The Oath in Felghana (Ys III) and Memories of Celceta (Ys IV). Ys IV only existed as two licensed 1993 versions (Mask of the Sun, The Dawn of Ys); both listed, Celceta marked as remake of Mask of the Sun. Taito PS2 remakes (Ys IV A New Theory, Ys V Lost Kefin PS2), Ys 2 Special, compilations (Complete, Chronicles) and Memoire remasters left out of main. Ys X: Nordics was wrongly in spin-offs. Zwei is a separate Falcom series (dropped).",
   "curated_at": "2026-10-30"
@@ -5754,7 +5775,11 @@
    337034,
    405904
   ],
-  "curated_at": "2026-11-02"
+  "curated_at": "2026-11-02",
+  "not_remakes": [
+   20900,
+   178228
+  ]
  },
  "Punch-Out!!": {
   "franchise": "Punch-Out!!",
@@ -5777,7 +5802,10 @@
     "id": 2194
    }
   ],
-  "curated_at": "2026-11-02"
+  "curated_at": "2026-11-02",
+  "drop": [
+   329510
+  ]
  },
  "Shinobi": {
   "franchise": "Shinobi",
@@ -5830,7 +5858,10 @@
     "id": 279630
    }
   ],
-  "curated_at": "2026-11-02"
+  "curated_at": "2026-11-02",
+  "not_remakes": [
+   10217
+  ]
  },
  "SimCity": {
   "franchise": "SimCity",
@@ -6311,6 +6342,94 @@
    }
   ],
   "notes": "Follows Wikipedia's main-series list. Worms: The Director's Cut (Amiga special edition) included because Wikipedia lists it. Worms Forts: Under Siege sits in Wikipedia's main list but its prose calls it a spin-off; most players count it as a spin-off, so it is left out of main. Worms Battlegrounds only exists in IGDB as a port of Clan Wars (8967), used as-is. Worms (2007 console release, a port of Open Warfare) has no distinct IGDB entry and is omitted. Ultimate Mayhem marked as remake of Worms 4: Mayhem. Worms Blast moved to spin-offs; Worms Pinball not in cache (by name). Worms Galactic Tactics (2027) unreleased.",
+  "curated_at": "2026-11-02"
+ },
+ "Ico": {
+  "franchise": "Ico",
+  "source": "https://en.wikipedia.org/wiki/Team_Ico",
+  "main": [
+   {
+    "id": 7170,
+    "title": "Ico"
+   },
+   {
+    "id": 2207,
+    "title": "Shadow of the Colossus"
+   },
+   {
+    "id": 37094,
+    "remake_of": 2207
+   },
+   {
+    "id": 117,
+    "title": "The Last Guardian"
+   }
+  ],
+  "notes": "Team Ico trilogy plus the 2018 Shadow of the Colossus remake.",
+  "curated_at": "2026-11-02"
+ },
+ "Xeno": {
+  "franchise": "Xeno",
+  "source": "https://en.wikipedia.org/wiki/Xeno_(franchise)",
+  "main": [
+   {
+    "name": "Xenogears",
+    "year": 1998
+   },
+   {
+    "name": "Xenosaga Episode I: Der Wille zur Macht",
+    "year": 2002
+   },
+   {
+    "name": "Xenosaga Episode II: Jenseits von Gut und Böse",
+    "year": 2004
+   },
+   {
+    "name": "Xenosaga Episode III: Also sprach Zarathustra",
+    "year": 2006
+   },
+   {
+    "name": "Xenoblade Chronicles",
+    "year": 2010
+   },
+   {
+    "name": "Xenoblade Chronicles X",
+    "year": 2015
+   },
+   {
+    "name": "Xenoblade Chronicles 2",
+    "year": 2017
+   },
+   {
+    "name": "Xenoblade Chronicles 3",
+    "year": 2022
+   }
+  ],
+  "notes": "Main = Xenogears, the Xenosaga trilogy and the four Xenoblade games; ports and Definitive Editions are not separate entries.",
+  "curated_at": "2026-11-02"
+ },
+ "Pikmin": {
+  "franchise": "Pikmin",
+  "source": "https://en.wikipedia.org/wiki/Pikmin",
+  "main": [
+   {
+    "name": "Pikmin",
+    "year": 2001
+   },
+   {
+    "name": "Pikmin 2",
+    "year": 2004
+   },
+   {
+    "name": "Pikmin 3",
+    "year": 2013
+   },
+   {
+    "name": "Pikmin 4",
+    "year": 2023
+   }
+  ],
+  "notes": "Main = the four numbered games; Hey! Pikmin and Pikmin Bloom are spin-offs.",
   "curated_at": "2026-11-02"
  }
 }

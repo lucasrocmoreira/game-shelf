@@ -10,6 +10,7 @@ Matching strategy, best evidence first:
 """
 import math
 import time
+import re
 
 import requests
 
@@ -358,11 +359,35 @@ def genres_of(game) -> list[str]:
     return [GENRE_SHORT.get(n, n) for n in _names((game or {}).get("genres"))]
 
 
+# Franchise tags IGDB attaches by cameo or crossover (Asura's Wrath -> Street Fighter): {igdb id: {names}}.
+# Filled from config/overrides.yml "franchise_remove" by the build.
+FRANCHISE_REMOVE = {}
+
+
+def _fnorm(s):
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).split())
+
+
+def franchise_ok(g, name, total):
+    """Whether a franchise tag really belongs to this game. Crossovers like Smash Bros. list 20 franchises;
+    then only the main one and those named in the title or series are kept."""
+    if name in FRANCHISE_REMOVE.get((g or {}).get("id"), ()):
+        return False
+    if total <= 4:
+        return True
+    main = (g.get("franchise") or {}).get("name") if isinstance(g.get("franchise"), dict) else None
+    if name == main:
+        return True
+    text = " " + _fnorm(" ".join([g.get("name") or ""] + _names(g.get("collections")))) + " "
+    return " " + _fnorm(name) + " " in text
+
+
 def metadata_of(game) -> dict:
     g = game or {}
     franchises = _names(g.get("franchises"))
     if isinstance(g.get("franchise"), dict) and g["franchise"].get("name") and g["franchise"]["name"] not in franchises:
         franchises.insert(0, g["franchise"]["name"])
+    franchises = [f for f in franchises if franchise_ok(g, f, len(franchises))] or franchises[:1]
     series = _names(g.get("collections")) or _names([g.get("collection")] if isinstance(g.get("collection"), dict) else [])
     devs, pubs = [], []
     for ic in g.get("involved_companies") or []:

@@ -21,6 +21,7 @@ Two layers:
 A franchise is shown when it has at least 5 main games, at least 3 of them widely rated on IGDB, and you
 own at least 2 of its games. Played/playing status is worked out in the app, so it is always current.
 """
+from .igdb import franchise_ok
 import re
 import time
 
@@ -268,6 +269,7 @@ def build(igdb_client, igdb_games, rows):
         frs = [f for f in g.get("franchises") or [] if isinstance(f, dict) and f.get("id")]
         if isinstance(g.get("franchise"), dict) and g["franchise"].get("id"):
             frs.append(g["franchise"])
+        frs = [f for f in frs if franchise_ok(g, f.get("name"), len(frs))]
         for f in frs:
             owned.setdefault(f["id"], set()).add(key)
             names[f["id"]] = f.get("name")
@@ -384,6 +386,12 @@ def build(igdb_client, igdb_games, rows):
             if f is not o and o["id"] not in drop and len(a) < len(b) and len(a & b) >= 0.6 * len(a):
                 drop.add(f["id"])
     out = [f for f in out if f["id"] not in drop]
+    # An enhanced edition that is itself a main entry (Pokémon Yellow, Monster Hunter 3 Ultimate) shouldn't
+    # also count as owning the game it expands (Red / Blue, Tri).
+    for f in out:
+        mains = {e["id"] for e in f["games"] if not e["spin"]}
+        for e in f["games"]:
+            e["keys"] = [k for k in e["keys"] if not (k.startswith("igdb:") and int(k[5:]) in mains and int(k[5:]) != e["id"])]
     out.sort(key=lambda f: -sum(bool(e["keys"]) for e in f["games"] if not e["spin"]))
     log(f"Franchises: {len(out)} shown ({sum(bool(f.get('curated')) for f in out)} curated)")
     return {"generated": now_iso(), "franchises": out}
@@ -631,8 +639,10 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
                 e["ratings"] = max(e.get("ratings") or 0, best.get("total_rating_count") or 0)
             if it.get("title"):
                 e["title"] = it["title"]
-            if it.get("remake_of"):
-                e["remake_of"] = int(it["remake_of"])
+            if "remake_of" in it:  # a number, or null for "not a remake" when IGDB says otherwise
+                e["remake_of"] = int(it["remake_of"]) if it["remake_of"] else None
+            if not e.get("year") and it.get("year"):
+                e["year"] = it["year"]  # IGDB has no release date for some early games
             chosen[g["id"]] = e
             order.append(g["id"])
     if not chosen:
@@ -661,6 +671,9 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
         e["section"] = (e.get("section") if e.get("section") in sections else (sections[-1] if sections else None)) \
             if not e["spin"] else None
         out.append(e)
+    for e in out:
+        if e["id"] in {int(i) for i in cur.get("not_remakes") or []}:
+            e["remake_of"] = None
     # Remake years for originals found through curation
     ids = {e["id"]: e for e in out}
     for e in out:
