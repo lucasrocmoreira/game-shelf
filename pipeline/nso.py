@@ -121,6 +121,9 @@ def parse(html):
             if re.search(r"[\u3040-\u30ff\u4e00-\u9fff]", row[gi]):
                 continue  # Japanese-language title
             title = re.sub(r"\s*\[[^\]]*\]$", "", row[gi]).strip(" *†‡")
+            if re.search(r"\(removed on [^)]*\)", title, re.I):
+                continue  # no longer on Switch Online
+            title = re.sub(r"\s*\((?:NA|EU|JP|PAL)\)$", "", title)
             if re.search(r"\bSP(\s*\(.*\))?$", title):
                 continue  # "Super Metroid SP": a save-state version of a game already in the list
             if title and title.lower() not in ("game", "title"):

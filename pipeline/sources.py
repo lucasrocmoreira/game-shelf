@@ -62,11 +62,16 @@ def fetch_steam(api_key: str, steam_id: str):
 
 
 # ---------------------------------------------------------------- PlayStation
-def _platform_from_category(cat) -> str:
+def _platform_from_category(cat, title_id="") -> str:
     c = str(getattr(cat, "value", cat) or "").lower()
     if "ps5" in c:
         return "PS5"
     if "ps4" in c:
+        return "PS4"
+    tid = str(title_id or "").upper()
+    if tid.startswith("PPSA"):
+        return "PS5"
+    if tid.startswith("CUSA"):
         return "PS4"
     return "PlayStation"
 
@@ -112,7 +117,7 @@ def fetch_psn(npsso: str):
         last = getattr(t, "last_played_date_time", None)
         tid = str(getattr(t, "title_id", None) or name)
         by_id[tid] = {
-            "platform": _platform_from_category(getattr(t, "category", "")),
+            "platform": _platform_from_category(getattr(t, "category", ""), getattr(t, "title_id", "")),
             "source_id": tid,
             "title": name,
             "playtime_hours": round(dur.total_seconds() / 3600, 1) if dur else 0.0,

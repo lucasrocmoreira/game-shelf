@@ -247,7 +247,7 @@
       "platform": "DS",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "crash-of-the-titans"
+      "igdb": "crash-of-the-titans--1"
     },
     {
       "title": "Chrono Trigger (2008)",
@@ -1008,7 +1008,7 @@
       "platform": "PSP",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "star-wars-the-force-unleashed"
+      "igdb": "star-wars-the-force-unleashed--5"
     },
     {
       "title": "Star Wars: Battlefront II",
@@ -1022,7 +1022,7 @@
       "platform": "PSP",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "need-for-speed-shift"
+      "igdb": "need-for-speed-shift--1"
     },
     {
       "title": "tomb raider: legend",
@@ -1035,7 +1035,7 @@
       "platform": "PSP",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "lego-pirates-of-the-caribbean-the-video-game"
+      "igdb": "lego-pirates-of-the-caribbean-the-video-game--2"
     },
     {
       "title": "Tales of the World: Radiant Mythology",
@@ -1055,7 +1055,7 @@
       "platform": "PSP",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "prince-of-persia-the-forgotten-sands"
+      "igdb": "prince-of-persia-the-forgotten-sands--2"
     },
     {
       "title": "lord of the rings: tactics",
@@ -1086,21 +1086,21 @@
       "platform": "PSP",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "need-for-speed-prostreet"
+      "igdb": "need-for-speed-prostreet--1"
     },
     {
       "title": "Tales of Eternia",
       "platform": "PSP",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "tales-of-destiny-ii"
+      "igdb": "tales-of-eternia"
     },
     {
       "title": "Lego Harry Potter: Years 1–4",
       "platform": "PSP",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "lego-harry-potter-years-1-4"
+      "igdb": "lego-harry-potter-years-1-4--1"
     },
     {
       "title": "Persona 4: Golden",
@@ -1388,7 +1388,7 @@
       "platform": "PS Vita",
       "format": "digital",
       "added": "2026-10-07",
-      "igdb": "god-of-war-origins-collection"
+      "igdb": "god-of-war-collection"
     },
     {
       "title": "Freedom Wars",
@@ -1829,7 +1829,7 @@
       "platform": "DS",
       "format": "digital",
       "added": "2026-10-29",
-      "igdb": "crash-mind-over-mutant"
+      "igdb": "crash-mind-over-mutant--1"
     },
     {
       "title": "Dementium: The Ward",
@@ -2222,14 +2222,14 @@
       "platform": "DS",
       "format": "digital",
       "added": "2026-10-29",
-      "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations"
+      "igdb": "phoenix-wright-ace-attorney-justice-for-all"
     },
     {
       "title": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
       "platform": "DS",
       "format": "digital",
       "added": "2026-10-29",
-      "igdb": "phoenix-wright-ace-attorney-justice-for-all"
+      "igdb": "phoenix-wright-ace-attorney-trials-and-tribulations"
     },
     {
       "title": "Picross 3D",
@@ -3252,8 +3252,6 @@
     "a train express": "the-train-giant",
     "alone in the dark 2": "alone-in-the-dark-2",
     "alone in the dark 2 1996": "alone-in-the-dark-2",
-    "ape academy": "alone-in-the-dark-2",
-    "ape academy 2": "alone-in-the-dark-2",
     "ape escape p": "ape-escape-pumped-and-primed--1",
     "armored core": "armored-core",
     "hollow knight voidheart edition": "hollow-knight",

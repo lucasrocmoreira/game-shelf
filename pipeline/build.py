@@ -37,11 +37,19 @@ def load_overrides(ed):
     data = (yaml.safe_load(path.read_text(encoding="utf-8")) if path.exists() else None) or {}
     igdb_fix = {edits.source_key(k): v for k, v in (data.get("igdb") or {}).items()}
     igdb_fix.update(ed["match"])  # fixes made in the app win
+    # Same title, different game per console (e.g. NES vs Game Boy Tetris): {platform: {title: slug}}
+    by_plat = {
+        (plat, edits.source_key(t)): slug
+        for plat, fixes in (data.get("igdb_by_platform") or {}).items()
+        for t, slug in (fixes or {}).items()
+    }
     return {
+        "igdb_by_platform": by_plat,
         "exclude": {edits.source_key(t) for t in data.get("exclude") or []},
         "igdb": igdb_fix,
         "metacritic": {edits.source_key(k): v for k, v in (data.get("metacritic") or {}).items()},
         "title": {edits.source_key(k): v for k, v in (data.get("rename") or {}).items()},
+        "title_by_key": {k: v for k, v in (data.get("rename") or {}).items() if str(k).startswith("igdb:")},
     }
 
 
@@ -90,7 +98,12 @@ def match_to_igdb(entries, igdb, overrides):
     matches = load_json(CACHE_DIR / "igdb_matches.json", {})
 
     def fix_for(e):
-        return overrides["igdb"].get(edits.source_key(e["title"])) or e.get("igdb")
+        sk = edits.source_key(e["title"])
+        return (
+            overrides["igdb_by_platform"].get((e["platform"], sk))
+            or overrides["igdb"].get(sk)
+            or e.get("igdb")
+        )
 
     def needs(e):
         m = matches.get(ekey(e))
@@ -246,7 +259,7 @@ def merge(entries, match_info, igdb_games, overrides, ed):
             row["cover"] = e["cover"]
 
     for row in merged.values():
-        rename = overrides["title"].get(edits.source_key(row["title"]))
+        rename = overrides["title_by_key"].get(row["key"]) or overrides["title"].get(edits.source_key(row["title"]))
         if rename:
             row["title"] = rename
         keys = {row["key"]} | {f"t:{s}" for s in row["src"]} | {f"t:{edits.source_key(row['title'])}"}

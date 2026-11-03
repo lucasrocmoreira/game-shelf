@@ -3,6 +3,10 @@
 
 # Hide things that aren't really games (demos, betas, apps, tools).
 exclude:
+  - "Kingdom Hearts: VR Experience"
+  - "Spider-Man: Far From Home - Virtual Reality Experience"
+  - "Spider-Man: Far From Home VR"
+  - "The Matrix Awakens: An Unreal Engine 5 Experience"
   # - Steamworks Common Redistributables
   # - Spacewar
 
@@ -15,11 +19,28 @@ igdb:
   "Chrono Trigger (2008)": chrono-trigger
   "Earthworm Jim": earthworm-jim
   "Tomb Raider: Legend": tomb-raider-legend
+  "Lord of Darkness": nobunagas-ambition-bushou-fuunroku
+  "Fallout 3": fallout-3
+  "Valkyria Chronicles": valkyria-chronicles
+  "Super Mario Bros.: The Lost Levels": super-mario-bros-the-lost-levels
+
+# Same title, but a different game on a specific console.
+igdb_by_platform:
+  NES:
+    "Tetris": tetris
+  Steam:
+    "Planet Zoo": planet-zoo
+  PS4:
+    "Resident Evil 5": resident-evil-5-remastered
 
 # Force a specific Metacritic page. The slug is the last part of metacritic.com/game/<slug>/
 metacritic:
+  "Chrono Trigger": chrono-trigger
   # "Final Fantasy VII Remake Intergrade": final-fantasy-vii-remake-intergrade
 
 # Change the displayed title.
 rename:
+  # by library key when two different games share a name
+  "igdb:426": "Final Fantasy VI (Final Fantasy III in the US)"
+  "igdb:144651": "Dragon Quest III (Super Famicom)"
   # "DOOM": Doom (2016)
