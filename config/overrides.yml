@@ -9,6 +9,11 @@ exclude:
 # Force a specific IGDB entry. The slug is the last part of the igdb.com/games/<slug> URL.
 igdb:
   # "NieR Replicant ver.1.22474487139...": nier-replicant-ver-dot-1-dot-22474487139
+  # Same game on several consoles, kept as one entry:
+  "The Legend of Zelda: Twilight Princess": the-legend-of-zelda-twilight-princess
+  "Chrono Trigger": chrono-trigger
+  "Earthworm Jim": earthworm-jim
+  "Tomb Raider: Legend": tomb-raider-legend
 
 # Force a specific Metacritic page. The slug is the last part of metacritic.com/game/<slug>/
 metacritic:
