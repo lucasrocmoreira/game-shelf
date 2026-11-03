@@ -3646,13 +3646,12 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:1072",
-     "best": "igdb:1077",
+     "key": "igdb:21099",
+     "best": "igdb:21099",
      "why": [
-      "Play this game to get to the amazing Super Mario Galaxy (93). It's the earliest entry in the series you haven't played.",
-      "Not on this console: Switch Online (Switch + Game Boy)",
-      "A change of genre: Platform",
-      "Shorter than what you're playing: about 5h to beat"
+      "Top-rated game you haven't played (average 76)",
+      "A change of genre: Puzzle",
+      "Shorter than what you're playing: about <1h to beat"
      ],
      "sent": false
     },
@@ -3692,10 +3691,19 @@
     "igdb:22301",
     "igdb:1076",
     "igdb:5199",
-    "igdb:1072"
+    "igdb:1072",
+    "igdb:21099"
    ],
-   "avoid": [],
-   "date": "2026-11-03T07:42:37.742Z"
+   "avoid": [
+    "Super Mario Land",
+    "Wario Land",
+    "Super Mario",
+    "Mario Bros.",
+    "Wario",
+    "Super Mario Galaxy",
+    "Mario"
+   ],
+   "date": "2026-11-03T07:42:48.618Z"
   }
  }
 }
