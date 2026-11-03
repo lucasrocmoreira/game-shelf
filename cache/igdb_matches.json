@@ -32639,6 +32639,18 @@
   "v": 4,
   "via": "search"
  },
+ "Wii:manual:Super Mario All-Stars 25th Anniversary Edition": {
+  "candidates": null,
+  "checked": "2026-11-03T04:45:26+00:00",
+  "conf": "manual",
+  "id": 84920,
+  "mp": null,
+  "score": null,
+  "slug": "super-mario-all-stars-limited-edition",
+  "title": "Super Mario All-Stars 25th Anniversary Edition",
+  "v": 4,
+  "via": "fix"
+ },
  "Wii:manual:Super Mario Galaxy": {
   "candidates": 25,
   "checked": "2026-11-03T04:37:46+00:00",

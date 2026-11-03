@@ -6052,7 +6052,8 @@
   "checked": "2026-11-03T04:40:28+00:00",
   "mc_v": 2,
   "metacritic": 87,
-  "metacritic_slug": "sin-punishment-star-successor"
+  "metacritic_slug": "sin-punishment-star-successor",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:1469": {
   "backloggd": 3.4,
@@ -7721,7 +7722,8 @@
   "checked": "2026-11-03T04:41:01+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "wario-land-shake-it"
+  "metacritic_slug": "wario-land-shake-it",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:1703": {
   "backloggd": 3.9,
@@ -11449,7 +11451,8 @@
   "checked": "2026-11-03T04:25:13+00:00",
   "mc_v": 2,
   "metacritic": 70,
-  "metacritic_slug": "silent-hill-hd-collection"
+  "metacritic_slug": "silent-hill-hd-collection",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:21610": {
   "backloggd": 4.4,
@@ -14226,7 +14229,8 @@
   "checked": "2026-11-03T04:39:03+00:00",
   "mc_v": 2,
   "metacritic": 66,
-  "metacritic_slug": "mario-sonic-at-the-london-2012-olympic-games"
+  "metacritic_slug": "mario-sonic-at-the-london-2012-olympic-games",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:27092": {
   "backloggd": 2.8,
@@ -16044,7 +16048,8 @@
   "checked": "2026-11-03T04:38:57+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "just-dance-4"
+  "metacritic_slug": "just-dance-4",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:325580": {
   "backloggd": 3.7,
@@ -20142,7 +20147,8 @@
   "checked": "2026-11-03T04:39:59+00:00",
   "mc_v": 2,
   "metacritic": 83,
-  "metacritic_slug": "rhythm-heaven-fever"
+  "metacritic_slug": "rhythm-heaven-fever",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:5132": {
   "backloggd": 3.7,
@@ -22131,7 +22137,8 @@
   "checked": "2026-11-03T04:24:09+00:00",
   "mc_v": 2,
   "metacritic": 75,
-  "metacritic_slug": "folklore"
+  "metacritic_slug": "folklore",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:73083": {
   "backloggd": 2.5,
@@ -22382,7 +22389,8 @@
   "checked": "2026-11-03T04:25:20+00:00",
   "mc_v": 2,
   "metacritic": 78,
-  "metacritic_slug": "siren-blood-curse"
+  "metacritic_slug": "siren-blood-curse",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:7458": {
   "backloggd": 4.2,
@@ -22399,7 +22407,8 @@
   "checked": "2026-11-03T04:25:28+00:00",
   "mc_v": 2,
   "metacritic": 77,
-  "metacritic_slug": "tales-of-symphonia-chronicles"
+  "metacritic_slug": "tales-of-symphonia-chronicles",
+  "oc_checked": "2026-11-03T04:46:10+00:00"
  },
  "igdb:7467": {
   "backloggd": 3.5,
@@ -22407,7 +22416,8 @@
   "checked": "2026-11-03T04:25:40+00:00",
   "mc_v": 2,
   "metacritic": 74,
-  "metacritic_slug": "tokyo-jungle"
+  "metacritic_slug": "tokyo-jungle",
+  "oc_checked": "2026-11-03T04:45:39+00:00"
  },
  "igdb:7470": {
   "backloggd": 3.9,
@@ -23611,6 +23621,14 @@
   "metacritic": null,
   "metacritic_slug": null,
   "oc_checked": "2026-11-02T21:12:16+00:00"
+ },
+ "igdb:84920": {
+  "backloggd": 3.2,
+  "bl_v": 2,
+  "checked": "2026-11-03T04:45:39+00:00",
+  "mc_v": 2,
+  "metacritic": null,
+  "metacritic_slug": null
  },
  "igdb:8497": {
   "backloggd": 3.1,
