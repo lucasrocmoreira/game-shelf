@@ -3605,13 +3605,12 @@
   "3ds": {
    "slots": [
     {
-     "key": "igdb:1439",
-     "best": "igdb:1443",
+     "key": "igdb:19131",
+     "best": "igdb:19131",
      "why": [
-      "Play this game to get to the amazing Fire Emblem Awakening (87). It's the earliest Fire Emblem game you haven't played.",
-      "Not on this console: you have it on GBA",
+      "Top-rated game you haven't played (average 84)",
       "A change of genre: RPG, Strategy",
-      "A longer one this time: about 33.5h to beat"
+      "A longer one this time: about 57h to beat"
      ],
      "sent": false
     },
@@ -3640,10 +3639,13 @@
    "skip": [
     "igdb:1439",
     "igdb:2645",
-    "igdb:9543"
+    "igdb:9543",
+    "igdb:19131"
    ],
-   "avoid": [],
-   "date": "2026-11-03T07:43:05.861Z"
+   "avoid": [
+    "Fire Emblem"
+   ],
+   "date": "2026-11-03T07:43:09.532Z"
   },
   "wii": {
    "slots": [
