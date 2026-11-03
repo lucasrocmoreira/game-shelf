@@ -3648,12 +3648,11 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:1073",
+     "key": "igdb:1075",
      "best": "igdb:1077",
      "why": [
       "Play this game to get to the amazing Super Mario Galaxy (93). It's the earliest Mario game you haven't played.",
-      "Not on this console: Switch Online or EmuDeck (SNES)",
-      "Shorter than what you're playing: about 11h to beat"
+      "Shorter than what you're playing: about 20h to beat"
      ],
      "sent": false
     },
@@ -3687,9 +3686,11 @@
     "igdb:1069",
     "igdb:1070",
     "igdb:1071",
-    "igdb:1073"
+    "igdb:1073",
+    "igdb:1074",
+    "igdb:1075"
    ],
-   "date": "2026-11-03T07:35:57.723Z"
+   "date": "2026-11-03T07:35:59.387Z"
   }
  }
 }
