@@ -487,7 +487,7 @@ function filtered(){
     (!state.length || (()=>{ const h=beat(g), [lo,hi]=state.length.split("-").map(Number); return h!=null && h>=lo && h<hi; })()) &&
     (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played) &&
     (!state.hideNso || !g.nso || g._played || g._playing) &&
-    (!state.hideEmu || !g.emu || g._played || g._playing) &&
+    (!state.hideEmu || !(g.emu_only ?? g.emu) || g._played || g._playing) &&
     (state.view!=="steam" || !state.hideEmuSteam || !emuOnlySteam(g)) &&
     (!psToggle(state.view) || !state.hidePsCat || !g._catalog));
 }

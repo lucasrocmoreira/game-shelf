@@ -213,6 +213,7 @@ def merge(entries, match_info, igdb_games, overrides, ed):
                 "ps_plus": True,
                 "nso": True,
                 "emu": False,
+                "emu_only": True,
                 "steam_native": False,
                 "src": set(),
                 "conf": None,
@@ -225,6 +226,7 @@ def merge(entries, match_info, igdb_games, overrides, ed):
         row["ps_plus"] = row["ps_plus"] and bool(e.get("ps_plus"))
         row["nso"] = row["nso"] and bool(e.get("nso"))
         row["emu"] = row["emu"] or bool(e.get("emu"))  # you can emulate it with EmuDeck
+        row["emu_only"] = row["emu_only"] and bool(e.get("emu"))  # and you own no real copy
         if not e.get("emu") and "Steam" in (e["platform"], e.get("also_platform")):
             row["steam_native"] = True  # a real Steam copy, not only the emulated one
         if e.get("also_platform") and e["also_platform"] not in row["platforms"]:
@@ -584,6 +586,7 @@ def to_site_row(row, sc, hl=None):
         "ps_plus": row["ps_plus"],
         "nso": row["nso"],
         "emu": row.get("emu", False),
+        "emu_only": bool(row.get("emu") and row.get("emu_only", True)),
         "steam_native": row.get("steam_native", False),
         "manual": row["manual"],
         "scores": {
