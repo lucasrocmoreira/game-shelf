@@ -20572,17 +20572,17 @@
    "title": "Metro Exodus"
   },
   {
-   "also_platform": "PS4",
+   "also_platform": null,
    "concept": "10009198",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2821/51d6eb5a4a96c0a546c0f7e475a6477a6c4a29196c95820b.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
-   "platform": "PS5",
+   "platform": "PS4",
    "playtime_hours": 0.0,
    "source_id": "psplus:10009198",
    "store_url": "https://store.playstation.com/en-us/concept/10009198",
-   "streaming": true,
+   "streaming": false,
    "tier": "Game Catalog",
    "title": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
@@ -25232,6 +25232,23 @@
    "streaming": true,
    "tier": "Classics",
    "title": "Mega Man X: Command Mission"
+  },
+  {
+   "also_platform": "PS4",
+   "concept": "202806",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2111/0280a6d70e309b7cb3509600a500b728ada3626192e19b74.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:202806",
+   "store_url": "https://store.playstation.com/en-us/concept/202806",
+   "streaming": true,
+   "tier": "Classics",
+   "title": "METRO Redux"
   },
   {
    "also_platform": null,

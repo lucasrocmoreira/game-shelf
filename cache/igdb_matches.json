@@ -25261,6 +25261,20 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:202806": {
+  "candidates": 26,
+  "checked": "2026-11-03T17:53:12+00:00",
+  "conf": "medium",
+  "id": 6880,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.902,
+  "slug": null,
+  "title": "METRO Redux",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:psplus:203897": {
   "candidates": 1,
   "checked": "2026-10-28T03:44:50+00:00",
