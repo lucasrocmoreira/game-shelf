@@ -688,6 +688,14 @@
   "hltb_name": "Donkey Kong Country",
   "main": 4.0
  },
+ "igdb:10906": {
+  "checked": "2026-11-03T04:20:47+00:00",
+  "complete": 96.0,
+  "extra": 35.0,
+  "hltb_id": 31977,
+  "hltb_name": "Pokémon Super Mystery Dungeon",
+  "main": 23.5
+ },
  "igdb:1091": {
   "checked": "2026-10-28T06:00:09+00:00",
   "complete": 4.0,

@@ -900,12 +900,12 @@
  },
  "3DS:manual:Pokémon Super Mystery Dungeon": {
   "candidates": null,
-  "checked": "2026-11-03T04:17:17+00:00",
+  "checked": "2026-11-03T04:19:55+00:00",
   "conf": "manual",
-  "id": null,
+  "id": 10906,
   "mp": null,
   "score": null,
-  "slug": "pokemon-super-mystery-dungeon",
+  "slug": "pokemon-super-mystery-dungeon--1",
   "title": "Pokémon Super Mystery Dungeon",
   "v": 4,
   "via": "fix"
