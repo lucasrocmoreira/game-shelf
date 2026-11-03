@@ -3236,6 +3236,13 @@
       "also_platform": "Wii",
       "format": "physical",
       "added": "2026-11-02"
+    },
+    {
+      "title": "Resident Evil 4",
+      "platform": "PS5",
+      "format": "physical",
+      "added": "2026-11-03",
+      "igdb": "resident-evil-4--1"
     }
   ],
   "match": {
