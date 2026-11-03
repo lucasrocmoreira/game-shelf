@@ -121375,6 +121375,258 @@
   "name": "Uncharted",
   "v": 4
  },
+ "2151": {
+  "checked": "2026-11-03T04:28:14+00:00",
+  "games": [
+   {
+    "aggregated_rating": 95.25,
+    "cover": {
+     "id": 200328,
+     "image_id": "co4ako"
+    },
+    "first_release_date": 1316649600,
+    "franchises": [
+     2151
+    ],
+    "game_type": 3,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 21084,
+    "name": "The Ico & Shadow of the Colossus Collection",
+    "platforms": [
+     9
+    ],
+    "rating": 89.4714649766563,
+    "slug": "the-ico-and-shadow-of-the-colossus-collection",
+    "total_rating_count": 25
+   },
+   {
+    "aggregated_rating": 93.23076923076923,
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 542253,
+     "image_id": "cobmel"
+    },
+    "first_release_date": 1517875200,
+    "franchises": [
+     2151
+    ],
+    "game_type": 8,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 37094,
+    "name": "Shadow of the Colossus",
+    "parent_game": 2207,
+    "platforms": [
+     48
+    ],
+    "rating": 84.46055258894064,
+    "slug": "shadow-of-the-colossus--1",
+    "total_rating_count": 389
+   },
+   {
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 114063,
+     "image_id": "co2g0f"
+    },
+    "first_release_date": 1132272000,
+    "franchises": [
+     2151
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 43387,
+    "name": "Shadow of the Colossus: Limited Edition",
+    "platforms": [
+     8
+    ],
+    "slug": "shadow-of-the-colossus-limited-edition",
+    "version_parent": 2207
+   },
+   {
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 455473,
+     "image_id": "co9rg1"
+    },
+    "first_release_date": 1316649600,
+    "franchises": [
+     2151
+    ],
+    "game_type": 3,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 145166,
+    "name": "Ico & Shadow of the Colossus Collection: Limited Box",
+    "platforms": [
+     9
+    ],
+    "slug": "ico-and-shadow-of-the-colossus-collection-limited-box",
+    "version_parent": 21084
+   },
+   {
+    "aggregated_rating": 88.5,
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 79055,
+     "image_id": "co1ozz"
+    },
+    "first_release_date": 1129593600,
+    "franchises": [
+     2151
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 2207,
+    "name": "Shadow of the Colossus",
+    "platforms": [
+     8
+    ],
+    "rating": 89.1255028721778,
+    "slug": "shadow-of-the-colossus",
+    "total_rating_count": 1348
+   },
+   {
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 114062,
+     "image_id": "co2g0e"
+    },
+    "first_release_date": 1517875200,
+    "franchises": [
+     2151
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 52192,
+    "name": "Shadow of the Colossus: Special Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "shadow-of-the-colossus-special-edition",
+    "version_parent": 37094
+   },
+   {
+    "bundles": [
+     21084,
+     145166
+    ],
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 329257,
+     "image_id": "co7221"
+    },
+    "first_release_date": 1326326400,
+    "franchises": [
+     2151
+    ],
+    "game_type": 9,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 144612,
+    "name": "Ico",
+    "parent_game": 7170,
+    "platforms": [
+     9
+    ],
+    "rating": 74.657741517592,
+    "slug": "ico--1",
+    "total_rating_count": 46
+   },
+   {
+    "bundles": [
+     21084,
+     145166
+    ],
+    "collections": [
+     {
+      "id": 6461,
+      "name": "Ico"
+     }
+    ],
+    "cover": {
+     "id": 117344,
+     "image_id": "co2ijk"
+    },
+    "first_release_date": 1326326400,
+    "franchises": [
+     2151
+    ],
+    "game_type": 9,
+    "genres": [
+     8,
+     9,
+     31
+    ],
+    "id": 139896,
+    "name": "Shadow of the Colossus",
+    "parent_game": 2207,
+    "platforms": [
+     9
+    ],
+    "rating": 83.43058715029103,
+    "slug": "shadow-of-the-colossus--2",
+    "total_rating_count": 55
+   }
+  ],
+  "name": "Ico",
+  "v": 4
+ },
  "2154": {
   "checked": "2026-11-02T22:38:20+00:00",
   "games": [
@@ -134886,6 +135138,937 @@
    }
   ],
   "name": "Diablo",
+  "v": 4
+ },
+ "2483": {
+  "checked": "2026-11-03T04:28:14+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "id": 391942,
+    "name": "Untitled NieR:Automata Project",
+    "slug": "untitled-nier-automata-project"
+   },
+   {
+    "cover": {
+     "id": 135125,
+     "image_id": "co2w9h"
+    },
+    "first_release_date": 1488844800,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 144330,
+    "name": "NieR: Automata - Day One Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "nier-automata-day-one-edition",
+    "version_parent": 11208
+   },
+   {
+    "bundles": [
+     139071
+    ],
+    "cover": {
+     "id": 483223,
+     "image_id": "coacuv"
+    },
+    "first_release_date": 1619136000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 360511,
+    "name": "NieR Replicant ver.1.22474487139...: 4 YoRHa",
+    "parent_game": 131999,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "nier-replicant-ver-dot-1-22474487139-dot-dot-dot-4-yorha"
+   },
+   {
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 508523,
+     "image_id": "coawdn"
+    },
+    "first_release_date": 1089244800,
+    "franchises": [
+     2483
+    ],
+    "game_type": 11,
+    "genres": [
+     5,
+     25
+    ],
+    "id": 322841,
+    "name": "Drakengard",
+    "parent_game": 11635,
+    "platforms": [
+     55
+    ],
+    "slug": "drakengard--1"
+   },
+   {
+    "aggregated_rating": 78.0,
+    "bundles": [
+     103294,
+     206805,
+     113345
+    ],
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 321276,
+     "image_id": "co6vwc"
+    },
+    "first_release_date": 1493683200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 28180,
+    "name": "Nier: Automata - 3C3C1D119440927",
+    "parent_game": 11208,
+    "platforms": [
+     48,
+     6
+    ],
+    "rating": 70.39652705589253,
+    "slug": "nier-automata-3c3c1d119440927",
+    "total_rating_count": 17
+   },
+   {
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 132797,
+     "image_id": "co2ugt"
+    },
+    "first_release_date": 1273536000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 27981,
+    "name": "NieR: The World of Recycled Vessel",
+    "parent_game": 7120,
+    "platforms": [
+     9,
+     12
+    ],
+    "slug": "nier-the-world-of-recycled-vessel"
+   },
+   {
+    "cover": {
+     "id": 132885,
+     "image_id": "co2uj9"
+    },
+    "first_release_date": 1488844800,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 144331,
+    "name": "NieR: Automata - Black Box Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "nier-automata-black-box-edition",
+    "version_parent": 11208
+   },
+   {
+    "aggregated_rating": 85.72,
+    "bundles": [
+     103294,
+     206805,
+     113345
+    ],
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 266131,
+     "image_id": "co5pcj"
+    },
+    "first_release_date": 1487808000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 11208,
+    "name": "NieR: Automata",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 89.77848641306662,
+    "slug": "nier-automata",
+    "total_rating_count": 1606
+   },
+   {
+    "bundles": [
+     206805
+    ],
+    "cover": {
+     "id": 511165,
+     "image_id": "coayf1"
+    },
+    "first_release_date": 1665014400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 312117,
+    "name": "NieR: Automata - 6C2P4A118680823",
+    "parent_game": 206805,
+    "platforms": [
+     130
+    ],
+    "slug": "nier-automata-6c2p4a118680823"
+   },
+   {
+    "cover": {
+     "id": 135131,
+     "image_id": "co2w9n"
+    },
+    "first_release_date": 1489104000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 44539,
+    "name": "NieR: Automata - Limited Edition Steelbook",
+    "platforms": [
+     48
+    ],
+    "slug": "nier-automata-limited-edition-steelbook",
+    "version_parent": 11208
+   },
+   {
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 320752,
+     "image_id": "co6vhs"
+    },
+    "first_release_date": 1634688000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 14,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 259657,
+    "name": "NieR Re[in]carnation: The Sun and the Moon",
+    "parent_game": 132005,
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "nier-re-in-carnation-the-sun-and-the-moon"
+   },
+   {
+    "aggregated_rating": 89.0,
+    "cover": {
+     "id": 258319,
+     "image_id": "co5jbj"
+    },
+    "first_release_date": 1665014400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 206805,
+    "name": "Nier: Automata - The End of Yorha Edition",
+    "platforms": [
+     130
+    ],
+    "rating": 78.73506442808377,
+    "slug": "nier-automata-the-end-of-yorha-edition",
+    "total_rating_count": 16,
+    "version_parent": 11208
+   },
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 200193,
+     "image_id": "co4agx"
+    },
+    "first_release_date": 1063238400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 11635,
+    "name": "Drakengard",
+    "platforms": [
+     8
+    ],
+    "rating": 68.46886141013137,
+    "slug": "drakengard",
+    "total_rating_count": 63
+   },
+   {
+    "aggregated_rating": 56.25,
+    "bundles": [
+     378980,
+     378981
+    ],
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 576595,
+     "image_id": "coccwj"
+    },
+    "first_release_date": 1387411200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     25,
+     31
+    ],
+    "id": 8576,
+    "name": "Drakengard 3",
+    "platforms": [
+     9
+    ],
+    "rating": 74.61755146825627,
+    "slug": "drakengard-3",
+    "total_rating_count": 57
+   },
+   {
+    "aggregated_rating": 89.0,
+    "cover": {
+     "id": 137961,
+     "image_id": "co2yg9"
+    },
+    "first_release_date": 1529971200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 103294,
+    "name": "Nier: Automata - Become as Gods Edition",
+    "platforms": [
+     6,
+     49
+    ],
+    "rating": 87.62101167215974,
+    "slug": "nier-automata-become-as-gods-edition",
+    "total_rating_count": 29,
+    "version_parent": 11208
+   },
+   {
+    "bundles": [
+     378981
+    ],
+    "cover": {
+     "id": 508535,
+     "image_id": "coawdz"
+    },
+    "first_release_date": 1402963200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378989,
+    "name": "Drakengard 3: Nier's Garb",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-niers-garb"
+   },
+   {
+    "aggregated_rating": 69.0,
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     },
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 499371,
+     "image_id": "coapbf"
+    },
+    "first_release_date": 1271894400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     12,
+     13,
+     15,
+     31
+    ],
+    "id": 7120,
+    "name": "NieR",
+    "platforms": [
+     9,
+     12,
+     49
+    ],
+    "rating": 80.6174778009847,
+    "slug": "nier",
+    "total_rating_count": 128
+   },
+   {
+    "collections": [
+     {
+      "id": 3242,
+      "name": "Soul Calibur"
+     }
+    ],
+    "cover": {
+     "id": 183783,
+     "image_id": "co3xt3"
+    },
+    "first_release_date": 1545091200,
+    "franchises": [
+     2483,
+     2005
+    ],
+    "game_type": 1,
+    "genres": [
+     4
+    ],
+    "id": 168722,
+    "name": "SoulCalibur VI: 2B",
+    "parent_game": 76885,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "soulcalibur-vi-2b"
+   },
+   {
+    "cover": {
+     "id": 508534,
+     "image_id": "coawdy"
+    },
+    "first_release_date": 1400544000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378988,
+    "name": "Drakengard 3: Tokyo Tower",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-tokyo-tower"
+   },
+   {
+    "cover": {
+     "id": 508533,
+     "image_id": "coawdx"
+    },
+    "first_release_date": 1402963200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378987,
+    "name": "Drakengard 3: Zero's Garb (Variety Pack)",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-zeros-garb-variety-pack"
+   },
+   {
+    "cover": {
+     "id": 508530,
+     "image_id": "coawdu"
+    },
+    "first_release_date": 1401753600,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378985,
+    "name": "Drakengard 3: Eris's Garb",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-eriss-garb"
+   },
+   {
+    "bundles": [
+     378981
+    ],
+    "cover": {
+     "id": 508529,
+     "image_id": "coawdt"
+    },
+    "first_release_date": 1402963200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378984,
+    "name": "Drakengard 3: Caim's Garb",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-caims-garb"
+   },
+   {
+    "cover": {
+     "id": 508537,
+     "image_id": "coawe1"
+    },
+    "first_release_date": 1401753600,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378991,
+    "name": "Drakengard 3: Furiae's Garb",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-furiaes-garb"
+   },
+   {
+    "cover": {
+     "id": 508536,
+     "image_id": "coawe0"
+    },
+    "first_release_date": 1400544000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378990,
+    "name": "Drakengard 3: Manah's Garb",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-manahs-garb"
+   },
+   {
+    "bundles": [
+     378981
+    ],
+    "cover": {
+     "id": 508531,
+     "image_id": "coawdv"
+    },
+    "first_release_date": 1402963200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378986,
+    "name": "Drakengard 3: Experimental Weapon 7",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-experimental-weapon-7"
+   },
+   {
+    "cover": {
+     "id": 508520,
+     "image_id": "coawdk"
+    },
+    "first_release_date": 1387411200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 3,
+    "id": 378980,
+    "name": "Drag-on Dragoon 10th Anniversary",
+    "platforms": [
+     9
+    ],
+    "slug": "drag-on-dragoon-10th-anniversary",
+    "version_parent": 8576
+   },
+   {
+    "bundles": [
+     378981,
+     378980
+    ],
+    "cover": {
+     "id": 508524,
+     "image_id": "coawdo"
+    },
+    "first_release_date": 1402963200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378982,
+    "name": "Drakengard 3: Kainé's Garb",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-kaines-garb"
+   },
+   {
+    "bundles": [
+     378981
+    ],
+    "cover": {
+     "id": 508526,
+     "image_id": "coawdq"
+    },
+    "first_release_date": 1402963200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 13,
+    "id": 378983,
+    "name": "Drakengard 3: Beautiful Child",
+    "parent_game": 8576,
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-beautiful-child"
+   },
+   {
+    "cover": {
+     "id": 508522,
+     "image_id": "coawdm"
+    },
+    "first_release_date": 1400544000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 3,
+    "id": 378981,
+    "name": "Drakengard 3: Collector's Edition",
+    "platforms": [
+     9
+    ],
+    "slug": "drakengard-3-collectors-edition",
+    "version_parent": 8576
+   },
+   {
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     },
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 511572,
+     "image_id": "coayqc"
+    },
+    "first_release_date": 1271894400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 80468,
+    "name": "Nier Replicant",
+    "platforms": [
+     9
+    ],
+    "rating": 88.24006082581903,
+    "slug": "nier-replicant",
+    "total_rating_count": 21
+   },
+   {
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 341644,
+     "image_id": "co7bm4"
+    },
+    "first_release_date": 1613606400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 132005,
+    "name": "NieR Re[in]carnation",
+    "platforms": [
+     34,
+     39
+    ],
+    "rating": 62.48465188305708,
+    "slug": "nier-re-in-carnation",
+    "total_rating_count": 10
+   },
+   {
+    "aggregated_rating": 82.16666666666667,
+    "bundles": [
+     139071
+    ],
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 255335,
+     "image_id": "co5h0n"
+    },
+    "first_release_date": 1619136000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 9,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 131999,
+    "name": "NieR Replicant ver.1.22474487139...",
+    "parent_game": 80468,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 84.2964495169604,
+    "slug": "nier-replicant-ver-dot-1-22474487139-dot-dot-dot",
+    "total_rating_count": 211
+   },
+   {
+    "aggregated_rating": 63.0,
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 100689,
+     "image_id": "co25ox"
+    },
+    "first_release_date": 1118880000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 11663,
+    "name": "Drakengard 2",
+    "platforms": [
+     8
+    ],
+    "rating": 70.63401589872849,
+    "slug": "drakengard-2",
+    "total_rating_count": 20
+   },
+   {
+    "cover": {
+     "id": 115498,
+     "image_id": "co2h4a"
+    },
+    "first_release_date": 1619136000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 139071,
+    "name": "NieR Replicant Ver. 1.22474487139...: White Snow Edition",
+    "platforms": [
+     48,
+     49
+    ],
+    "slug": "nier-replicant-ver-1-dot-22474487139-dot-dot-dot-white-snow-edition",
+    "version_parent": 131999
+   },
+   {
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 372503,
+     "image_id": "co7zfb"
+    },
+    "first_release_date": 1684368000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 14,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 259669,
+    "name": "NieR Re[in]carnation: The People and the World",
+    "parent_game": 132005,
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "nier-re-in-carnation-the-people-and-the-world"
+   },
+   {
+    "aggregated_rating": 0.0,
+    "cover": {
+     "id": 265798,
+     "image_id": "co5p3a"
+    },
+    "first_release_date": 1550707200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 113345,
+    "name": "Nier: Automata - Game of the Yorha Edition",
+    "platforms": [
+     48,
+     6
+    ],
+    "rating": 86.22839789139789,
+    "slug": "nier-automata-game-of-the-yorha-edition",
+    "total_rating_count": 63,
+    "version_parent": 11208
+   }
+  ],
+  "name": "Drakengard",
   "v": 4
  },
  "251": {
@@ -476396,6 +477579,2197 @@
   "name": "Warhammer 40,000: Dawn of War",
   "v": 4
  },
+ "c1284": {
+  "checked": "2026-11-03T04:28:15+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136145,
+     "image_id": "co2x1t"
+    },
+    "first_release_date": 1309910400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139557,
+    "name": "Valkyria Chronicles 3: Extra Mission - Hard-Ex What Lurks in the Desert",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-mission-hard-ex-what-lurks-in-the-desert"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 114417,
+     "image_id": "co2ga9"
+    },
+    "first_release_date": 1521590400,
+    "franchises": [
+     736
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24
+    ],
+    "id": 132179,
+    "name": "Valkyria Chronicles 4: Memoirs From Battle Edition",
+    "platforms": [
+     48,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-memoirs-from-battle-edition",
+    "version_parent": 75848
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136123,
+     "image_id": "co2x17"
+    },
+    "first_release_date": 1273708800,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140329,
+    "name": "Valkyria Chronicles 2: Battle at Roendahl EX",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-battle-at-roendahl-ex"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 387847,
+     "image_id": "co8b9j"
+    },
+    "first_release_date": 1522195200,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 181184,
+    "name": "Valkyria Chronicles 4 : Squad E, to the Beach!",
+    "parent_game": 75848,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-squad-e-to-the-beach"
+   },
+   {
+    "aggregated_rating": 56.27272727272727,
+    "collections": [
+     {
+      "id": 1877,
+      "name": "Valkyria Revolution"
+     },
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 92180,
+     "image_id": "co1z4k"
+    },
+    "first_release_date": 1484784000,
+    "franchises": [
+     736
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15
+    ],
+    "id": 14673,
+    "name": "Valkyria Revolution",
+    "platforms": [
+     48,
+     46,
+     49
+    ],
+    "slug": "valkyria-revolution",
+    "total_rating_count": 11
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136150,
+     "image_id": "co2x1y"
+    },
+    "first_release_date": 1297900800,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139562,
+    "name": "Valkyria Chronicles 3: Penalty Mission - Fangs of the Viper",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-penalty-mission-fangs-of-the-viper"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 117037,
+     "image_id": "co2ib1"
+    },
+    "first_release_date": 1296086400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 14675,
+    "name": "Valkyria Chronicles 3: Unrecorded Chronicles",
+    "platforms": [
+     38
+    ],
+    "rating": 76.02261933736679,
+    "slug": "valkyria-chronicles-3-unrecorded-chronicles",
+    "total_rating_count": 5
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 114499,
+     "image_id": "co2gcj"
+    },
+    "first_release_date": 1343260800,
+    "franchises": [
+     736
+    ],
+    "game_type": 0,
+    "genres": [
+     16
+    ],
+    "id": 77367,
+    "name": "Senjo no Valkyria Duel",
+    "platforms": [
+     82,
+     34,
+     39
+    ],
+    "slug": "senjo-no-valkyria-duel"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136116,
+     "image_id": "co2x10"
+    },
+    "first_release_date": 1270684800,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140343,
+    "name": "Valkyria Chronicles 2: Final Lancer Exam",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-final-lancer-exam"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136136,
+     "image_id": "co2x1k"
+    },
+    "first_release_date": 1303344000,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139548,
+    "name": "Valkyria Chronicles 3: Extra Episode - A Clash Battle! Welkin vs. Dahau",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-episode-a-clash-battle-welkin-vs-dahau"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136125,
+     "image_id": "co2x19"
+    },
+    "first_release_date": 1264032000,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140340,
+    "name": "Valkyria Chronicles 2: Mellvere Crisis",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-mellvere-crisis"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136118,
+     "image_id": "co2x12"
+    },
+    "first_release_date": 1275523200,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140344,
+    "name": "Valkyria Chronicles 2: Final Tech Exam",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-final-tech-exam"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 605959,
+     "image_id": "coczk7"
+    },
+    "first_release_date": 1455062400,
+    "franchises": [
+     736
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 38491,
+    "name": "Valkyria Chronicles: Remastered - Steelbook Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "valkyria-chronicles-remastered-steelbook-edition",
+    "version_parent": 18967
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 114407,
+     "image_id": "co2g9z"
+    },
+    "first_release_date": 1455062400,
+    "franchises": [
+     736
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     16,
+     24,
+     31
+    ],
+    "id": 42957,
+    "name": "Valkyria Chronicles: Remastered - Europa Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "valkyria-chronicles-remastered-europa-edition",
+    "version_parent": 18967
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136143,
+     "image_id": "co2x1r"
+    },
+    "first_release_date": 1309910400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139556,
+    "name": "Valkyria Chronicles 3: Extra Mission - Hard-Ex Liberate the Aqueduct",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-mission-hard-ex-liberate-the-aqueduct"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 387849,
+     "image_id": "co8b9l"
+    },
+    "first_release_date": 1521417600,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     13,
+     15,
+     16,
+     24
+    ],
+    "id": 181185,
+    "name": "Valkyria Chronicles 4: A United Front with Squad 7",
+    "parent_game": 75848,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-a-united-front-with-squad-7"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136124,
+     "image_id": "co2x18"
+    },
+    "first_release_date": 1268265600,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140341,
+    "name": "Valkyria Chronicles 2: Mine Offensive",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-mine-offensive"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136137,
+     "image_id": "co2x1l"
+    },
+    "first_release_date": 1302134400,
+    "franchises": [
+     2012,
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139549,
+    "name": "Valkyria Chronicles 3: Extra Episode - The War Ends and His Journey Begins",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-episode-the-war-ends-and-his-journey-begins"
+   },
+   {
+    "bundles": [
+     42957,
+     38491
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 114594,
+     "image_id": "co2gf6"
+    },
+    "first_release_date": 1218153600,
+    "franchises": [
+     736
+    ],
+    "game_type": 2,
+    "genres": [
+     12,
+     15,
+     16,
+     31
+    ],
+    "id": 138836,
+    "name": "Valkyria Chronicles: Hard EX Mode",
+    "parent_game": 7477,
+    "platforms": [
+     9
+    ],
+    "slug": "valkyria-chronicles-hard-ex-mode"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136112,
+     "image_id": "co2x0w"
+    },
+    "first_release_date": 1270080000,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140348,
+    "name": "Valkyria Chronicles 2: Exercise vs. Class D",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-exercise-vs-class-d"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136140,
+     "image_id": "co2x1o"
+    },
+    "first_release_date": 1300924800,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139552,
+    "name": "Valkyria Chronicles 3: Extra Episode - Selvaria at Naggiar",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-episode-selvaria-at-naggiar"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136129,
+     "image_id": "co2x1d"
+    },
+    "first_release_date": 1267056000,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140335,
+    "name": "Valkyria Chronicles 2: Ultimate Challenge",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-ultimate-challenge"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136134,
+     "image_id": "co2x1i"
+    },
+    "first_release_date": 1297296000,
+    "franchises": [
+     2012,
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139543,
+    "name": "Valkyria Chronicles 3: The Secret of Her Powers",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-the-secret-of-her-powers"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136141,
+     "image_id": "co2x1p"
+    },
+    "first_release_date": 1309910400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139553,
+    "name": "Valkyria Chronicles 3: Extra Episode - A Clash Battle? Edy vs. Dahau",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-episode-a-clash-battle-edy-vs-dahau"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136138,
+     "image_id": "co2x1m"
+    },
+    "first_release_date": 1299628800,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139550,
+    "name": "Valkyria Chronicles 3: Extra Episode - Behind the Scenes of Cardinal Borgia Escort",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-episode-behind-the-scenes-of-cardinal-borgia-escort"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136142,
+     "image_id": "co2x1q"
+    },
+    "first_release_date": 1309910400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139555,
+    "name": "Valkyria Chronicles 3: Extra Mission - Hard-Ex The Targeted Stockpile Goods",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-mission-hard-ex-the-targeted-stockpile-goods"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136107,
+     "image_id": "co2x0r"
+    },
+    "first_release_date": 1273104000,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140347,
+    "name": "Valkyria Chronicles 2: Exercise vs. Class C",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-exercise-vs-class-c"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136127,
+     "image_id": "co2x1b"
+    },
+    "first_release_date": 1276732800,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140337,
+    "name": "Valkyria Chronicles 2: Two-Pronged Assault",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-two-pronged-assault"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 329788,
+     "image_id": "co72gs"
+    },
+    "first_release_date": 1322006400,
+    "franchises": [
+     736
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     15,
+     16,
+     24,
+     31
+    ],
+    "id": 38466,
+    "name": "Valkyria Chronicles 3: Extra Edition",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-edition"
+   },
+   {
+    "bundles": [
+     38491,
+     42957
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 114592,
+     "image_id": "co2gf4"
+    },
+    "first_release_date": 1218153600,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 138834,
+    "name": "Valkyria Chronicles: Edy's Mission \"Enter the Edy Detachment\"",
+    "parent_game": 7477,
+    "platforms": [
+     9,
+     6
+    ],
+    "slug": "valkyria-chronicles-edys-mission-enter-the-edy-detachment"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136147,
+     "image_id": "co2x1v"
+    },
+    "first_release_date": 1309910400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139559,
+    "name": "Valkyria Chronicles 3: Extra Mission - Hard-Ex The Looming Nightmare",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-mission-hard-ex-the-looming-nightmare"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 114416,
+     "image_id": "co2ga8"
+    },
+    "first_release_date": 1521590400,
+    "franchises": [
+     736
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     31
+    ],
+    "id": 136324,
+    "name": "Valkyria Chronicles 4: Launch Edition",
+    "platforms": [
+     48,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-launch-edition",
+    "version_parent": 75848
+   },
+   {
+    "aggregated_rating": 84.0909090909091,
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 94290,
+     "image_id": "co20r6"
+    },
+    "first_release_date": 1521590400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     13,
+     15,
+     16,
+     24
+    ],
+    "id": 75848,
+    "name": "Valkyria Chronicles 4",
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 80.03485160676448,
+    "slug": "valkyria-chronicles-4",
+    "total_rating_count": 41
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136122,
+     "image_id": "co2x16"
+    },
+    "first_release_date": 1265760000,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140331,
+    "name": "Valkyria Chronicles 2: Battle at Mellvere EX",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-battle-at-mellvere-ex"
+   },
+   {
+    "bundles": [
+     38491,
+     42957
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 114593,
+     "image_id": "co2gf5"
+    },
+    "first_release_date": 1225411200,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 138835,
+    "name": "Valkyria Chronicles: Selveria's Mission - Behind Her Blue Flame",
+    "parent_game": 7477,
+    "platforms": [
+     9,
+     6
+    ],
+    "slug": "valkyria-chronicles-selverias-mission-behind-her-blue-flame"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136093,
+     "image_id": "co2x0d"
+    },
+    "first_release_date": 1569888000,
+    "franchises": [
+     2012
+    ],
+    "game_type": 3,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     31
+    ],
+    "id": 138811,
+    "name": "Valkyria Chronicles Bundle",
+    "platforms": [
+     48,
+     6,
+     130
+    ],
+    "slug": "valkyria-chronicles-bundle"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136120,
+     "image_id": "co2x14"
+    },
+    "first_release_date": 1271289600,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140330,
+    "name": "Valkyria Chronicles 2: Battle at Doeffein EX",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-battle-at-doeffein-ex"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136135,
+     "image_id": "co2x1j"
+    },
+    "first_release_date": 1302739200,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139545,
+    "name": "Valkyria Chronicles 3: Penalty Mission - The Barricaded Harbour",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-penalty-mission-the-barricaded-harbour"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136128,
+     "image_id": "co2x1c"
+    },
+    "first_release_date": 1266451200,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140336,
+    "name": "Valkyria Chronicles 2: Race Against Time",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-race-against-time"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 387850,
+     "image_id": "co8b9m"
+    },
+    "first_release_date": 1523404800,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     13,
+     15,
+     16,
+     24
+    ],
+    "id": 304755,
+    "name": "Valkyria Chronicles 4: Expert Level Skirmishes",
+    "parent_game": 75848,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-expert-level-skirmishes"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136133,
+     "image_id": "co2x1h"
+    },
+    "first_release_date": 1268870400,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140351,
+    "name": "Valkyria Chronicles 2: Additional Stickers DLC",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-additional-stickers-dlc"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136131,
+     "image_id": "co2x1f"
+    },
+    "first_release_date": 1269475200,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140333,
+    "name": "Valkyria Chronicles 2: Seven Secrets",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-seven-secrets"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136139,
+     "image_id": "co2x1n"
+    },
+    "first_release_date": 1301529600,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139551,
+    "name": "Valkyria Chronicles 3: Extra Episode - The Treacherous Valkyria",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-episode-the-treacherous-valkyria"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136105,
+     "image_id": "co2x0p"
+    },
+    "first_release_date": 1271894400,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140338,
+    "name": "Valkyria Chronicles 2: Banquet of Ghosts",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-banquet-of-ghosts"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 329787,
+     "image_id": "co72gr"
+    },
+    "first_release_date": 1296086400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139542,
+    "name": "Valkyria Chronicles 3: Kurt Irving's First Mission",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-kurt-irvings-first-mission"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136130,
+     "image_id": "co2x1e"
+    },
+    "first_release_date": 1274918400,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140334,
+    "name": "Valkyria Chronicles 2: Warship Showdown",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-warship-showdown"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 387851,
+     "image_id": "co8b9n"
+    },
+    "first_release_date": 1522800000,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     13,
+     15,
+     16,
+     24
+    ],
+    "id": 238635,
+    "name": "Valkyria Chronicles 4: A Captainless Squad",
+    "parent_game": 75848,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-a-captainless-squad"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136121,
+     "image_id": "co2x15"
+    },
+    "first_release_date": 1276128000,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140332,
+    "name": "Valkyria Chronicles 2: Battle at Lanseal EX",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-battle-at-lanseal-ex"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136113,
+     "image_id": "co2x0x"
+    },
+    "first_release_date": 1267660800,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     16,
+     24
+    ],
+    "id": 140349,
+    "name": "Valkyria Chronicles 2: Exercise vs. Class E",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-exercise-vs-class-e"
+   },
+   {
+    "bundles": [
+     138811
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 101438,
+     "image_id": "co269q"
+    },
+    "first_release_date": 1537833600,
+    "franchises": [
+     736
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 120621,
+    "name": "Valkyria Chronicles 4: Complete Edition",
+    "platforms": [
+     170,
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-complete-edition",
+    "version_parent": 75848
+   },
+   {
+    "bundles": [
+     42957,
+     38491
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 118776,
+     "image_id": "co2jnc"
+    },
+    "first_release_date": 1245974400,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     15,
+     16,
+     31
+    ],
+    "id": 138837,
+    "name": "Valkyria Chronicles: Challenge of the Edy Detachment",
+    "parent_game": 7477,
+    "platforms": [
+     9,
+     6
+    ],
+    "slug": "valkyria-chronicles-challenge-of-the-edy-detachment"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136119,
+     "image_id": "co2x13"
+    },
+    "first_release_date": 1268870400,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140346,
+    "name": "Valkyria Chronicles 2: Final Trooper Exam",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-final-trooper-exam"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136115,
+     "image_id": "co2x0z"
+    },
+    "first_release_date": 1274313600,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140345,
+    "name": "Valkyria Chronicles 2: Final Engineer Exam",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-final-engineer-exam"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136117,
+     "image_id": "co2x11"
+    },
+    "first_release_date": 1266451200,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140342,
+    "name": "Valkyria Chronicles 2: Final Scout Exam",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-final-scout-exam"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136151,
+     "image_id": "co2x1z"
+    },
+    "first_release_date": 1309910400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139563,
+    "name": "Valkyria Chronicles 3: Penalty Mission - Things to Shoot Through",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-penalty-mission-things-to-shoot-through"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136114,
+     "image_id": "co2x0y"
+    },
+    "first_release_date": 1265241600,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140350,
+    "name": "Valkyria Chronicles 2: Exercise vs. Class F",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-exercise-vs-class-f"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136132,
+     "image_id": "co2x1g"
+    },
+    "first_release_date": 1257120000,
+    "franchises": [
+     736
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 138838,
+    "name": "Valkyria Chronicles 2: DLC Pack 2",
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-dlc-pack-2"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136146,
+     "image_id": "co2x1u"
+    },
+    "first_release_date": 1309910400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139558,
+    "name": "Valkyria Chronicles 3: Extra Mission - Hard-Ex Steel Trap",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-mission-hard-ex-steel-trap"
+   },
+   {
+    "bundles": [
+     138838
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136126,
+     "image_id": "co2x1a"
+    },
+    "first_release_date": 1277337600,
+    "franchises": [
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 140339,
+    "name": "Valkyria Chronicles 2: Cerculean Catastrophe",
+    "parent_game": 14674,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-2-cerculean-catastrophe"
+   },
+   {
+    "aggregated_rating": 85.44444444444444,
+    "bundles": [
+     138811
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 102958,
+     "image_id": "co27fy"
+    },
+    "first_release_date": 1455062400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 9,
+    "genres": [
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 18967,
+    "name": "Valkyria Chronicles Remastered",
+    "parent_game": 7477,
+    "platforms": [
+     48,
+     6,
+     130
+    ],
+    "rating": 82.27366735457458,
+    "slug": "valkyria-chronicles-remastered",
+    "total_rating_count": 50
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 387852,
+     "image_id": "co8b9o"
+    },
+    "first_release_date": 1538006400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     13,
+     15,
+     16,
+     24
+    ],
+    "id": 171139,
+    "name": "Valkyria Chronicles 4: The Two Valkyria",
+    "parent_game": 75848,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-the-two-valkyria"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 134094,
+     "image_id": "co2vgu"
+    },
+    "first_release_date": 1297382400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139544,
+    "name": "Valkyria Chronicles 3: No.1 is Restless",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-no-dot-1-is-restless"
+   },
+   {
+    "aggregated_rating": 88.0,
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 101074,
+     "image_id": "co25zm"
+    },
+    "first_release_date": 1264032000,
+    "franchises": [
+     736
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 14674,
+    "name": "Valkyria Chronicles 2",
+    "platforms": [
+     38
+    ],
+    "rating": 73.97218872459516,
+    "slug": "valkyria-chronicles-2",
+    "total_rating_count": 20
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136148,
+     "image_id": "co2x1w"
+    },
+    "first_release_date": 1300752000,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139560,
+    "name": "Valkyria Chronicles 3: Extra Mission - Hard-Ex The Uninvited Crows",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-extra-mission-hard-ex-the-uninvited-crows"
+   },
+   {
+    "aggregated_rating": 90.125,
+    "bundles": [
+     42957,
+     38491
+    ],
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 29822,
+     "image_id": "bvmjjiorjpcclmdorauw"
+    },
+    "first_release_date": 1208995200,
+    "franchises": [
+     736
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 7477,
+    "name": "Valkyria Chronicles",
+    "platforms": [
+     9
+    ],
+    "rating": 85.17293298313754,
+    "slug": "valkyria-chronicles",
+    "total_rating_count": 144
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 136149,
+     "image_id": "co2x1x"
+    },
+    "first_release_date": 1299110400,
+    "franchises": [
+     736,
+     2012
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 139561,
+    "name": "Valkyria Chronicles 3: Penalty Mission - Things That Stand in the Way",
+    "parent_game": 14675,
+    "platforms": [
+     38
+    ],
+    "slug": "valkyria-chronicles-3-penalty-mission-things-that-stand-in-the-way"
+   },
+   {
+    "collections": [
+     {
+      "id": 1284,
+      "name": "Valkyria Chronicles"
+     }
+    ],
+    "cover": {
+     "id": 387848,
+     "image_id": "co8b9k"
+    },
+    "first_release_date": 1521417600,
+    "franchises": [
+     2012,
+     736
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     15,
+     16,
+     24
+    ],
+    "id": 304734,
+    "name": "Valkyria Chronicles 4: Advance Ops",
+    "parent_game": 75848,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "slug": "valkyria-chronicles-4-advance-ops"
+   }
+  ],
+  "name": "Valkyria Chronicles",
+  "v": 4
+ },
  "c1291": {
   "checked": "2026-11-02T22:39:29+00:00",
   "games": [
@@ -531692,6 +535066,789 @@
   "name": "Guitar Hero",
   "v": 4
  },
+ "c286": {
+  "checked": "2026-11-03T04:28:16+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 412566,
+     "image_id": "co8uc6"
+    },
+    "first_release_date": 1726531200,
+    "franchises": [
+     2416
+    ],
+    "game_type": 11,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 317376,
+    "name": "Secret Agent Clank",
+    "parent_game": 1793,
+    "platforms": [
+     48,
+     167
+    ],
+    "slug": "secret-agent-clank--1"
+   },
+   {
+    "aggregated_rating": 90.66666666666667,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 130671,
+     "image_id": "co2str"
+    },
+    "first_release_date": 1623369600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 134582,
+    "name": "Ratchet & Clank: Rift Apart",
+    "platforms": [
+     6,
+     167
+    ],
+    "rating": 85.89187767477864,
+    "slug": "ratchet-and-clank-rift-apart",
+    "total_rating_count": 330
+   },
+   {
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 105769,
+     "image_id": "co29m1"
+    },
+    "first_release_date": 1130889600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8
+    ],
+    "id": 134656,
+    "name": "Ratchet & Clank: Going Mobile",
+    "platforms": [
+     55
+    ],
+    "slug": "ratchet-and-clank-going-mobile"
+   },
+   {
+    "aggregated_rating": 81.0,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 117803,
+     "image_id": "co2iwb"
+    },
+    "first_release_date": 1213660800,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     8,
+     31
+    ],
+    "id": 1793,
+    "name": "Secret Agent Clank",
+    "platforms": [
+     38,
+     8
+    ],
+    "rating": 76.15946284457199,
+    "slug": "secret-agent-clank",
+    "total_rating_count": 43
+   },
+   {
+    "bundles": [
+     19994
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 311784,
+     "image_id": "co6oko"
+    },
+    "first_release_date": 1340755200,
+    "franchises": [
+     2416
+    ],
+    "game_type": 9,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 253148,
+    "name": "Ratchet & Clank: Up Your Arsenal",
+    "parent_game": 1773,
+    "platforms": [
+     9,
+     46
+    ],
+    "rating": 80.00433158308286,
+    "slug": "ratchet-and-clank-up-your-arsenal",
+    "total_rating_count": 10
+   },
+   {
+    "aggregated_rating": 58.0,
+    "bundles": [
+     80014
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 97224,
+     "image_id": "co230o"
+    },
+    "first_release_date": 1353974400,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     15,
+     31
+    ],
+    "id": 1797,
+    "name": "Ratchet & Clank: Full Frontal Assault",
+    "platforms": [
+     9,
+     46
+    ],
+    "rating": 63.49164524281568,
+    "slug": "ratchet-clank-full-frontal-assault",
+    "total_rating_count": 41
+   },
+   {
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 97229,
+     "image_id": "co230t"
+    },
+    "first_release_date": 1387324800,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     8
+    ],
+    "id": 78234,
+    "name": "Ratchet & Clank: Before the Nexus",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "ratchet-and-clank-before-the-nexus"
+   },
+   {
+    "bundles": [
+     19994
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 311786,
+     "image_id": "co6okq"
+    },
+    "first_release_date": 1340755200,
+    "franchises": [
+     2416
+    ],
+    "game_type": 9,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 253141,
+    "name": "Ratchet & Clank",
+    "parent_game": 1289,
+    "platforms": [
+     9,
+     46
+    ],
+    "rating": 75.39548268897663,
+    "slug": "ratchet-and-clank--2",
+    "total_rating_count": 16
+   },
+   {
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 311787,
+     "image_id": "co6okr"
+    },
+    "first_release_date": 1369094400,
+    "franchises": [
+     2416
+    ],
+    "game_type": 9,
+    "genres": [
+     5,
+     8,
+     12,
+     31
+    ],
+    "id": 254579,
+    "name": "Ratchet: Deadlocked",
+    "parent_game": 1790,
+    "platforms": [
+     9
+    ],
+    "rating": 70.21575281695401,
+    "slug": "ratchet-deadlocked--1",
+    "total_rating_count": 8
+   },
+   {
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 395284,
+     "image_id": "co8h04"
+    },
+    "first_release_date": 1721088000,
+    "franchises": [
+     2416
+    ],
+    "game_type": 11,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 308039,
+    "name": "Ratchet & Clank: Size Matters",
+    "parent_game": 1791,
+    "platforms": [
+     48,
+     167
+    ],
+    "slug": "ratchet-and-clank-size-matters"
+   },
+   {
+    "aggregated_rating": 70.5,
+    "bundles": [
+     80014
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 89585,
+     "image_id": "co1x4h"
+    },
+    "first_release_date": 1219276800,
+    "franchises": [
+     2416
+    ],
+    "game_type": 4,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1794,
+    "name": "Ratchet & Clank Future: Quest for Booty",
+    "parent_game": 1792,
+    "platforms": [
+     9
+    ],
+    "rating": 69.93837992261506,
+    "slug": "ratchet-clank-future-quest-for-booty",
+    "total_rating_count": 107
+   },
+   {
+    "aggregated_rating": 84.22222222222223,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 97220,
+     "image_id": "co230k"
+    },
+    "first_release_date": 1460419200,
+    "franchises": [
+     2416
+    ],
+    "game_type": 8,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 11065,
+    "name": "Ratchet & Clank",
+    "parent_game": 1289,
+    "platforms": [
+     48,
+     167
+    ],
+    "rating": 79.37711149116407,
+    "slug": "ratchet-and-clank",
+    "total_rating_count": 487
+   },
+   {
+    "aggregated_rating": 60.33333333333334,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 497119,
+     "image_id": "coankv"
+    },
+    "first_release_date": 1171324800,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1791,
+    "name": "Ratchet & Clank: Size Matters",
+    "platforms": [
+     38,
+     8
+    ],
+    "rating": 68.93176418629278,
+    "slug": "ratchet-clank-size-matters",
+    "total_rating_count": 96
+   },
+   {
+    "aggregated_rating": 73.4,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 97228,
+     "image_id": "co230s"
+    },
+    "first_release_date": 1318896000,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1796,
+    "name": "Ratchet & Clank: All 4 One",
+    "platforms": [
+     9
+    ],
+    "rating": 59.50656745482995,
+    "slug": "ratchet-clank-all-4-one",
+    "total_rating_count": 64
+   },
+   {
+    "bundles": [
+     19994
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 311785,
+     "image_id": "co6okp"
+    },
+    "first_release_date": 1340755200,
+    "franchises": [
+     2416
+    ],
+    "game_type": 9,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 253138,
+    "name": "Ratchet & Clank: Going Commando",
+    "parent_game": 1770,
+    "platforms": [
+     9,
+     46
+    ],
+    "rating": 81.71558643837346,
+    "slug": "ratchet-and-clank-going-commando",
+    "total_rating_count": 14
+   },
+   {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 79006,
+     "image_id": "co1oym"
+    },
+    "first_release_date": 1036368000,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1289,
+    "name": "Ratchet & Clank",
+    "platforms": [
+     8
+    ],
+    "rating": 81.26780736780208,
+    "slug": "ratchet-clank",
+    "total_rating_count": 302
+   },
+   {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 79007,
+     "image_id": "co1oyn"
+    },
+    "first_release_date": 1099353600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1773,
+    "name": "Ratchet & Clank: Up Your Arsenal",
+    "platforms": [
+     8
+    ],
+    "rating": 80.73465223990878,
+    "slug": "ratchet-clank-up-your-arsenal",
+    "total_rating_count": 202
+   },
+   {
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 598180,
+     "image_id": "coctk4"
+    },
+    "first_release_date": 1798675200,
+    "franchises": [
+     2416
+    ],
+    "game_type": 11,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 416114,
+    "name": "Ratchet & Clank",
+    "parent_game": 1289,
+    "platforms": [
+     48,
+     167
+    ],
+    "slug": "ratchet-and-clank--3"
+   },
+   {
+    "aggregated_rating": 69.28571428571429,
+    "bundles": [
+     80014
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 89586,
+     "image_id": "co1x4i"
+    },
+    "first_release_date": 1383696000,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     15,
+     31
+    ],
+    "id": 2589,
+    "name": "Ratchet & Clank: Into the Nexus",
+    "platforms": [
+     9
+    ],
+    "rating": 78.40143579729697,
+    "slug": "ratchet-clank-into-the-nexus",
+    "total_rating_count": 84
+   },
+   {
+    "aggregated_rating": 82.85714285714286,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 300089,
+     "image_id": "co6fjt"
+    },
+    "first_release_date": 1256601600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31,
+     33
+    ],
+    "id": 1795,
+    "name": "Ratchet & Clank Future: A Crack in Time",
+    "platforms": [
+     9
+    ],
+    "rating": 79.98032618495708,
+    "slug": "ratchet-clank-future-a-crack-in-time",
+    "total_rating_count": 158
+   },
+   {
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 505856,
+     "image_id": "coaubk"
+    },
+    "first_release_date": 1773100800,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 377637,
+    "name": "Ratchet & Clank: Ranger Rumble",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "ratchet-and-clank-ranger-rumble"
+   },
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 79008,
+     "image_id": "co1oyo"
+    },
+    "first_release_date": 1130198400,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1790,
+    "name": "Ratchet: Deadlocked",
+    "platforms": [
+     8
+    ],
+    "rating": 73.46308515689375,
+    "slug": "ratchet-deadlocked",
+    "total_rating_count": 123
+   },
+   {
+    "aggregated_rating": 91.5,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 379874,
+     "image_id": "co8542"
+    },
+    "first_release_date": 1193097600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     9
+    ],
+    "id": 1792,
+    "name": "Ratchet & Clank Future: Tools of Destruction",
+    "platforms": [
+     9
+    ],
+    "rating": 78.64115810640509,
+    "slug": "ratchet-clank-future-tools-of-destruction",
+    "total_rating_count": 146
+   },
+   {
+    "aggregated_rating": 90.0,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     }
+    ],
+    "cover": {
+     "id": 97223,
+     "image_id": "co230n"
+    },
+    "first_release_date": 1068508800,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1770,
+    "name": "Ratchet & Clank: Going Commando",
+    "platforms": [
+     8
+    ],
+    "rating": 81.25982622153592,
+    "slug": "ratchet-clank-going-commando",
+    "total_rating_count": 190
+   }
+  ],
+  "name": "Ratchet & Clank",
+  "v": 4
+ },
  "c2879": {
   "checked": "2026-11-02T22:39:46+00:00",
   "games": [
@@ -559654,6 +563811,283 @@
   "name": "Half-Life",
   "v": 4
  },
+ "c350": {
+  "checked": "2026-11-03T04:28:15+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 577984,
+     "image_id": "cocdz4"
+    },
+    "first_release_date": 1687219200,
+    "franchises": [
+     2111
+    ],
+    "game_type": 11,
+    "genres": [
+     5
+    ],
+    "id": 408989,
+    "name": "Killzone: Liberation",
+    "parent_game": 1868,
+    "platforms": [
+     48,
+     167
+    ],
+    "slug": "killzone-liberation--1"
+   },
+   {
+    "aggregated_rating": 75.44444444444444,
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 86977,
+     "image_id": "co1v41"
+    },
+    "first_release_date": 1378252800,
+    "franchises": [
+     2111
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 1869,
+    "name": "Killzone: Mercenary",
+    "platforms": [
+     46
+    ],
+    "rating": 75.76709161884008,
+    "slug": "killzone-mercenary",
+    "total_rating_count": 42
+   },
+   {
+    "aggregated_rating": 55.0,
+    "bundles": [
+     23729
+    ],
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 164956,
+     "image_id": "co3ja4"
+    },
+    "first_release_date": 1350950400,
+    "franchises": [
+     2111
+    ],
+    "game_type": 9,
+    "genres": [
+     5
+    ],
+    "id": 20003,
+    "name": "Killzone HD",
+    "parent_game": 1865,
+    "platforms": [
+     9
+    ],
+    "rating": 61.13122879408352,
+    "slug": "killzone-hd",
+    "total_rating_count": 18
+   },
+   {
+    "aggregated_rating": 90.25,
+    "bundles": [
+     23729
+    ],
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 164951,
+     "image_id": "co3j9z"
+    },
+    "first_release_date": 1235520000,
+    "franchises": [
+     2111
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 1866,
+    "name": "Killzone 2",
+    "platforms": [
+     9
+    ],
+    "rating": 78.2154225237015,
+    "slug": "killzone-2",
+    "total_rating_count": 173
+   },
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 166759,
+     "image_id": "co3ko7"
+    },
+    "first_release_date": 1099353600,
+    "franchises": [
+     2111
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 1865,
+    "name": "Killzone",
+    "platforms": [
+     8
+    ],
+    "rating": 73.79910290984769,
+    "slug": "killzone",
+    "total_rating_count": 126
+   },
+   {
+    "aggregated_rating": 78.0,
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 86979,
+     "image_id": "co1v43"
+    },
+    "first_release_date": 1403568000,
+    "franchises": [
+     2111
+    ],
+    "game_type": 4,
+    "genres": [
+     5
+    ],
+    "id": 21609,
+    "name": "Killzone: Shadow Fall - Intercept",
+    "parent_game": 1937,
+    "platforms": [
+     48
+    ],
+    "slug": "killzone-shadow-fall-intercept",
+    "total_rating_count": 3
+   },
+   {
+    "aggregated_rating": 65.0,
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 86976,
+     "image_id": "co1v40"
+    },
+    "first_release_date": 1384473600,
+    "franchises": [
+     2111
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 1937,
+    "name": "Killzone: Shadow Fall",
+    "platforms": [
+     48
+    ],
+    "rating": 69.7807288105096,
+    "slug": "killzone-shadow-fall",
+    "total_rating_count": 169
+   },
+   {
+    "aggregated_rating": 84.0,
+    "bundles": [
+     23729
+    ],
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 122355,
+     "image_id": "co2mer"
+    },
+    "first_release_date": 1298332800,
+    "franchises": [
+     2111
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 1867,
+    "name": "Killzone 3",
+    "platforms": [
+     9
+    ],
+    "rating": 77.43885266720761,
+    "slug": "killzone-3",
+    "total_rating_count": 150
+   },
+   {
+    "aggregated_rating": 80.0,
+    "collections": [
+     {
+      "id": 350,
+      "name": "Killzone"
+     }
+    ],
+    "cover": {
+     "id": 165279,
+     "image_id": "co3jj3"
+    },
+    "first_release_date": 1162252800,
+    "franchises": [
+     2111
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 1868,
+    "name": "Killzone: Liberation",
+    "platforms": [
+     38
+    ],
+    "rating": 68.92625780285915,
+    "slug": "killzone-liberation",
+    "total_rating_count": 34
+   }
+  ],
+  "name": "Killzone",
+  "v": 4
+ },
  "c3550": {
   "checked": "2026-11-02T22:39:23+00:00",
   "games": [
@@ -568028,6 +572462,409 @@
    }
   ],
   "name": "Final Fantasy",
+  "v": 4
+ },
+ "c4": {
+  "checked": "2026-11-03T04:28:14+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 328090,
+     "image_id": "co715m"
+    },
+    "franchises": [
+     1386
+    ],
+    "game_type": 11,
+    "id": 264868,
+    "name": "Dead Space 2",
+    "parent_game": 38,
+    "platforms": [
+     5
+    ],
+    "slug": "dead-space-2--1"
+   },
+   {
+    "aggregated_rating": 55.0,
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 141468,
+     "image_id": "co315o"
+    },
+    "first_release_date": 1363046400,
+    "franchises": [
+     1386
+    ],
+    "game_type": 1,
+    "genres": [
+     5
+    ],
+    "id": 10173,
+    "name": "Dead Space 3: Awakened",
+    "parent_game": 1216,
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 72.23182632695801,
+    "slug": "dead-space-3-awakened",
+    "total_rating_count": 36
+   },
+   {
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 180925,
+     "image_id": "co3vlp"
+    },
+    "first_release_date": 1592438400,
+    "franchises": [
+     1386
+    ],
+    "game_type": 1,
+    "genres": [
+     5
+    ],
+    "id": 165944,
+    "name": "Dead Space 3: Enervator",
+    "parent_game": 1216,
+    "platforms": [
+     6
+    ],
+    "slug": "dead-space-3-enervator"
+   },
+   {
+    "aggregated_rating": 88.16666666666667,
+    "bundles": [
+     371743
+    ],
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 114332,
+     "image_id": "co2g7w"
+    },
+    "first_release_date": 1223942400,
+    "franchises": [
+     1386
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     9
+    ],
+    "id": 37,
+    "name": "Dead Space",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 85.6683621672242,
+    "slug": "dead-space",
+    "total_rating_count": 1262
+   },
+   {
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 271484,
+     "image_id": "co5th8"
+    },
+    "first_release_date": 1295913600,
+    "franchises": [
+     1386
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 131931,
+    "name": "Dead Space",
+    "platforms": [
+     34,
+     39
+    ],
+    "rating": 74.33338688629001,
+    "slug": "dead-space--2",
+    "total_rating_count": 43
+   },
+   {
+    "aggregated_rating": 73.66666666666667,
+    "bundles": [
+     371743
+    ],
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 117497,
+     "image_id": "co2int"
+    },
+    "first_release_date": 1360022400,
+    "franchises": [
+     1386
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     9,
+     31
+    ],
+    "id": 1216,
+    "name": "Dead Space 3",
+    "platforms": [
+     9,
+     6,
+     12,
+     49
+    ],
+    "rating": 72.54284775360388,
+    "slug": "dead-space-3",
+    "total_rating_count": 457
+   },
+   {
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 180930,
+     "image_id": "co3vlu"
+    },
+    "first_release_date": 1298592000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 44668,
+    "name": "Dead Space 2: Collector's Edition",
+    "platforms": [
+     9,
+     12
+    ],
+    "slug": "dead-space-2-collectors-edition",
+    "version_parent": 38
+   },
+   {
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 180927,
+     "image_id": "co3vlr"
+    },
+    "first_release_date": 1298592000,
+    "game_type": 3,
+    "genres": [
+     5
+    ],
+    "id": 44613,
+    "name": "Dead Space 2: Limited Edition",
+    "platforms": [
+     9
+    ],
+    "slug": "dead-space-2-limited-edition",
+    "version_parent": 38
+   },
+   {
+    "aggregated_rating": 81.33333333333333,
+    "bundles": [
+     44613
+    ],
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 88309,
+     "image_id": "co1w51"
+    },
+    "first_release_date": 1253750400,
+    "franchises": [
+     1386
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 985,
+    "name": "Dead Space: Extraction",
+    "platforms": [
+     9,
+     5
+    ],
+    "rating": 69.43005938027311,
+    "slug": "dead-space-extraction",
+    "total_rating_count": 38
+   },
+   {
+    "aggregated_rating": 90.57142857142857,
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 540257,
+     "image_id": "cobkv5"
+    },
+    "first_release_date": 1674777600,
+    "franchises": [
+     1386
+    ],
+    "game_type": 8,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 159119,
+    "name": "Dead Space",
+    "parent_game": 37,
+    "platforms": [
+     169,
+     6,
+     167
+    ],
+    "rating": 83.39862601483901,
+    "slug": "dead-space--1",
+    "total_rating_count": 244
+   },
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 161253,
+     "image_id": "co3gf9"
+    },
+    "first_release_date": 1298937600,
+    "franchises": [
+     1386
+    ],
+    "game_type": 1,
+    "genres": [
+     5
+    ],
+    "id": 20440,
+    "name": "Dead Space 2: Severed",
+    "parent_game": 38,
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 69.82053911186541,
+    "slug": "dead-space-2-severed",
+    "total_rating_count": 9
+   },
+   {
+    "aggregated_rating": 90.0,
+    "bundles": [
+     44613,
+     371743
+    ],
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 94526,
+     "image_id": "co20xq"
+    },
+    "first_release_date": 1295913600,
+    "franchises": [
+     1386
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 38,
+    "name": "Dead Space 2",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 86.42633337361139,
+    "slug": "dead-space-2",
+    "total_rating_count": 1101
+   },
+   {
+    "collections": [
+     {
+      "id": 4,
+      "name": "Dead Space"
+     }
+    ],
+    "cover": {
+     "id": 141476,
+     "image_id": "co315w"
+    },
+    "first_release_date": 1362441600,
+    "franchises": [
+     1386
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 44604,
+    "name": "Dead Space 3: Limited Edition",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "slug": "dead-space-3-limited-edition",
+    "version_parent": 1216
+   }
+  ],
+  "name": "Dead Space",
   "v": 4
  },
  "c43": {
@@ -595080,6 +599917,852 @@
   "name": "Nintendo Sports",
   "v": 4
  },
+ "c63": {
+  "checked": "2026-11-03T04:28:16+00:00",
+  "games": [
+   {
+    "aggregated_rating": 88.0,
+    "bundles": [
+     43551,
+     144966
+    ],
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 166773,
+     "image_id": "co3kol"
+    },
+    "first_release_date": 1053648000,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 482,
+    "name": "Silent Hill 3",
+    "platforms": [
+     6,
+     8
+    ],
+    "rating": 84.12745960889845,
+    "slug": "silent-hill-3",
+    "total_rating_count": 431
+   },
+   {
+    "aggregated_rating": 82.0,
+    "bundles": [
+     144966
+    ],
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134726,
+     "image_id": "co2vye"
+    },
+    "first_release_date": 919814400,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 480,
+    "name": "Silent Hill",
+    "platforms": [
+     9,
+     7,
+     38
+    ],
+    "rating": 83.7644737904491,
+    "slug": "silent-hill",
+    "total_rating_count": 593
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134744,
+     "image_id": "co2vyw"
+    },
+    "first_release_date": 1407801600,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 11654,
+    "name": "P.T.",
+    "platforms": [
+     48
+    ],
+    "rating": 83.79413717515783,
+    "slug": "pt",
+    "total_rating_count": 111
+   },
+   {
+    "aggregated_rating": 66.66666666666667,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134735,
+     "image_id": "co2vyn"
+    },
+    "first_release_date": 1222732800,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 485,
+    "name": "Silent Hill: Homecoming",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 67.13544781882223,
+    "slug": "silent-hill-homecoming",
+    "total_rating_count": 181
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 442145,
+     "image_id": "co9h5t"
+    },
+    "first_release_date": 985132800,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 77257,
+    "name": "Silent Hill: Play Novel",
+    "platforms": [
+     24
+    ],
+    "rating": 79.55202771081672,
+    "slug": "silent-hill-play-novel",
+    "total_rating_count": 7
+   },
+   {
+    "aggregated_rating": 63.4,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134741,
+     "image_id": "co2vyt"
+    },
+    "first_release_date": 1350345600,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 9714,
+    "name": "Silent Hill: Book of Memories",
+    "platforms": [
+     46
+    ],
+    "rating": 59.62293010512658,
+    "slug": "silent-hill-book-of-memories",
+    "total_rating_count": 20
+   },
+   {
+    "aggregated_rating": 30.0,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 359314,
+     "image_id": "co7p8y"
+    },
+    "first_release_date": 1706659200,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 218744,
+    "name": "Silent Hill: The Short Message",
+    "platforms": [
+     167
+    ],
+    "rating": 61.87696285757974,
+    "slug": "silent-hill-the-short-message",
+    "total_rating_count": 41
+   },
+   {
+    "aggregated_rating": 72.33333333333333,
+    "bundles": [
+     43551,
+     144966
+    ],
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134732,
+     "image_id": "co2vyk"
+    },
+    "first_release_date": 1087430400,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 483,
+    "name": "Silent Hill 4: The Room",
+    "platforms": [
+     11,
+     9,
+     6,
+     8
+    ],
+    "rating": 76.39300122041087,
+    "slug": "silent-hill-4-the-room",
+    "total_rating_count": 298
+   },
+   {
+    "aggregated_rating": 80.25,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134738,
+     "image_id": "co2vyq"
+    },
+    "first_release_date": 1194307200,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 484,
+    "name": "Silent Hill: Origins",
+    "platforms": [
+     38,
+     8
+    ],
+    "rating": 72.70667159612944,
+    "slug": "silent-hill-origins",
+    "total_rating_count": 141
+   },
+   {
+    "bundles": [
+     21600
+    ],
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 275499,
+     "image_id": "co5wkr"
+    },
+    "first_release_date": 1332201600,
+    "franchises": [
+     554
+    ],
+    "game_type": 9,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 222485,
+    "name": "Silent Hill 2",
+    "parent_game": 22066,
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 92.23195853698445,
+    "slug": "silent-hill-2--2",
+    "total_rating_count": 38
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 103899,
+     "image_id": "co2863"
+    },
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "id": 7611,
+    "name": "Silent Hills",
+    "platforms": [
+     48
+    ],
+    "slug": "silent-hills"
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 388916,
+     "image_id": "co8c38"
+    },
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "id": 282697,
+    "name": "Silent Hill 5",
+    "slug": "silent-hill-5"
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 103902,
+     "image_id": "co2866"
+    },
+    "first_release_date": 1152057600,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 134261,
+    "name": "Silent Hill: Mobile DX",
+    "platforms": [
+     55
+    ],
+    "slug": "silent-hill-mobile-dx"
+   },
+   {
+    "aggregated_rating": 59.5,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 103844,
+     "image_id": "co284k"
+    },
+    "first_release_date": 1332201600,
+    "franchises": [
+     554
+    ],
+    "game_type": 3,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 21600,
+    "name": "Silent Hill HD Collection",
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 65.66545075179712,
+    "slug": "silent-hill-hd-collection",
+    "total_rating_count": 28
+   },
+   {
+    "aggregated_rating": 69.875,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134736,
+     "image_id": "co2vyo"
+    },
+    "first_release_date": 1331596800,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 487,
+    "name": "Silent Hill: Downpour",
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 68.99223007941129,
+    "slug": "silent-hill-downpour",
+    "total_rating_count": 101
+   },
+   {
+    "aggregated_rating": 86.6,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 507111,
+     "image_id": "coavaf"
+    },
+    "first_release_date": 1728345600,
+    "franchises": [
+     554
+    ],
+    "game_type": 8,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 222341,
+    "name": "Silent Hill 2",
+    "parent_game": 481,
+    "platforms": [
+     169,
+     6,
+     167
+    ],
+    "rating": 90.55836000777447,
+    "slug": "silent-hill-2--1",
+    "total_rating_count": 305
+   },
+   {
+    "aggregated_rating": 86.4,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 462604,
+     "image_id": "co9wy4"
+    },
+    "first_release_date": 1758758400,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 222343,
+    "name": "Silent Hill f",
+    "platforms": [
+     169,
+     6,
+     167
+    ],
+    "rating": 71.0490742512969,
+    "slug": "silent-hill-f",
+    "total_rating_count": 131
+   },
+   {
+    "aggregated_rating": 90.0,
+    "bundles": [
+     43551
+    ],
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134728,
+     "image_id": "co2vyg"
+    },
+    "first_release_date": 1001289600,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 481,
+    "name": "Silent Hill 2",
+    "platforms": [
+     8
+    ],
+    "rating": 91.02163739623532,
+    "slug": "silent-hill-2",
+    "total_rating_count": 1231
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 341333,
+     "image_id": "co7bdh"
+    },
+    "first_release_date": 1698710400,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 274880,
+    "name": "Silent Hill: Ascension",
+    "platforms": [
+     82,
+     34,
+     39
+    ],
+    "rating": 41.2927991500396,
+    "slug": "silent-hill-ascension--4",
+    "total_rating_count": 13
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 545986,
+     "image_id": "cobpaa"
+    },
+    "franchises": [
+     554
+    ],
+    "game_type": 8,
+    "id": 349441,
+    "name": "Silent Hill",
+    "parent_game": 480,
+    "slug": "silent-hill--1"
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134733,
+     "image_id": "co2vyl"
+    },
+    "first_release_date": 1185321600,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 12075,
+    "name": "Silent Hill: The Arcade",
+    "platforms": [
+     52
+    ],
+    "rating": 50.19198548190138,
+    "slug": "silent-hill-the-arcade",
+    "total_rating_count": 8
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     },
+     {
+      "id": 9134,
+      "name": "Silent Hill: Orphan"
+     }
+    ],
+    "cover": {
+     "id": 134740,
+     "image_id": "co2vys"
+    },
+    "first_release_date": 1193875200,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 59007,
+    "name": "Silent Hill: Orphan",
+    "platforms": [
+     55
+    ],
+    "rating": 69.81312260960928,
+    "slug": "silent-hill-orphan",
+    "total_rating_count": 9
+   },
+   {
+    "aggregated_rating": 75.0,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134737,
+     "image_id": "co2vyp"
+    },
+    "first_release_date": 1260230400,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 486,
+    "name": "Silent Hill: Shattered Memories",
+    "platforms": [
+     5,
+     38,
+     8
+    ],
+    "rating": 70.25980603780744,
+    "slug": "silent-hill-shattered-memories",
+    "total_rating_count": 123
+   },
+   {
+    "bundles": [
+     21600
+    ],
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 275498,
+     "image_id": "co5wkq"
+    },
+    "first_release_date": 1332201600,
+    "franchises": [
+     554
+    ],
+    "game_type": 9,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 222486,
+    "name": "Silent Hill 3",
+    "parent_game": 482,
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 85.26671192701883,
+    "slug": "silent-hill-3--1",
+    "total_rating_count": 19
+   },
+   {
+    "aggregated_rating": 84.5,
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 567392,
+     "image_id": "coc5sw"
+    },
+    "first_release_date": 1790208000,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 222342,
+    "name": "Silent Hill: Townfall",
+    "platforms": [
+     6,
+     167
+    ],
+    "rating": 72.94767185842483,
+    "slug": "silent-hill-townfall",
+    "total_rating_count": 32
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 134739,
+     "image_id": "co2vyr"
+    },
+    "first_release_date": 1198022400,
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 69187,
+    "name": "Silent Hill: The Escape",
+    "platforms": [
+     39,
+     55
+    ],
+    "rating": 38.34475623949308,
+    "slug": "silent-hill-the-escape",
+    "total_rating_count": 5
+   },
+   {
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 433161,
+     "image_id": "co9a89"
+    },
+    "franchises": [
+     554
+    ],
+    "game_type": 0,
+    "id": 282700,
+    "name": "Silent Hill: Cold Heart",
+    "platforms": [
+     5
+    ],
+    "slug": "silent-hill-cold-heart"
+   },
+   {
+    "aggregated_rating": 90.0,
+    "bundles": [
+     144966
+    ],
+    "collections": [
+     {
+      "id": 63,
+      "name": "Silent Hill"
+     }
+    ],
+    "cover": {
+     "id": 181961,
+     "image_id": "co3weh"
+    },
+    "first_release_date": 1008720000,
+    "franchises": [
+     554
+    ],
+    "game_type": 10,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 22066,
+    "name": "Silent Hill 2: Restless Dreams",
+    "parent_game": 481,
+    "platforms": [
+     11,
+     6,
+     8
+    ],
+    "rating": 91.61853294735663,
+    "slug": "silent-hill-2-restless-dreams--1",
+    "total_rating_count": 54
+   }
+  ],
+  "name": "Silent Hill",
+  "v": 4
+ },
  "c6304": {
   "checked": "2026-11-02T22:39:09+00:00",
   "games": [
@@ -598109,6 +603792,198 @@
    }
   ],
   "name": "Castlevania",
+  "v": 4
+ },
+ "c6731": {
+  "checked": "2026-11-03T04:28:16+00:00",
+  "games": [
+   {
+    "aggregated_rating": 69.28571428571429,
+    "bundles": [
+     80014
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 89586,
+     "image_id": "co1x4i"
+    },
+    "first_release_date": 1383696000,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     15,
+     31
+    ],
+    "id": 2589,
+    "name": "Ratchet & Clank: Into the Nexus",
+    "platforms": [
+     9
+    ],
+    "rating": 78.40143579729697,
+    "slug": "ratchet-clank-into-the-nexus",
+    "total_rating_count": 84
+   },
+   {
+    "aggregated_rating": 82.85714285714286,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 300089,
+     "image_id": "co6fjt"
+    },
+    "first_release_date": 1256601600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31,
+     33
+    ],
+    "id": 1795,
+    "name": "Ratchet & Clank Future: A Crack in Time",
+    "platforms": [
+     9
+    ],
+    "rating": 79.98032618495708,
+    "slug": "ratchet-clank-future-a-crack-in-time",
+    "total_rating_count": 158
+   },
+   {
+    "aggregated_rating": 91.5,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 379874,
+     "image_id": "co8542"
+    },
+    "first_release_date": 1193097600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     9
+    ],
+    "id": 1792,
+    "name": "Ratchet & Clank Future: Tools of Destruction",
+    "platforms": [
+     9
+    ],
+    "rating": 78.64115810640509,
+    "slug": "ratchet-clank-future-tools-of-destruction",
+    "total_rating_count": 146
+   },
+   {
+    "aggregated_rating": 70.5,
+    "bundles": [
+     80014
+    ],
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 89585,
+     "image_id": "co1x4h"
+    },
+    "first_release_date": 1219276800,
+    "franchises": [
+     2416
+    ],
+    "game_type": 4,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1794,
+    "name": "Ratchet & Clank Future: Quest for Booty",
+    "parent_game": 1792,
+    "platforms": [
+     9
+    ],
+    "rating": 69.93837992261506,
+    "slug": "ratchet-clank-future-quest-for-booty",
+    "total_rating_count": 107
+   },
+   {
+    "aggregated_rating": 90.66666666666667,
+    "collections": [
+     {
+      "id": 286,
+      "name": "Ratchet & Clank"
+     },
+     {
+      "id": 6731,
+      "name": "Ratchet & Clank Future"
+     }
+    ],
+    "cover": {
+     "id": 130671,
+     "image_id": "co2str"
+    },
+    "first_release_date": 1623369600,
+    "franchises": [
+     2416
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 134582,
+    "name": "Ratchet & Clank: Rift Apart",
+    "platforms": [
+     6,
+     167
+    ],
+    "rating": 85.89187767477864,
+    "slug": "ratchet-and-clank-rift-apart",
+    "total_rating_count": 330
+   }
+  ],
+  "name": "Ratchet & Clank Future",
   "v": 4
  },
  "c682": {
@@ -624822,6 +630697,339 @@
    }
   ],
   "name": "Wolfenstein: The New Order",
+  "v": 4
+ },
+ "c98": {
+  "checked": "2026-11-03T04:28:15+00:00",
+  "games": [
+   {
+    "aggregated_rating": 75.0,
+    "bundles": [
+     23828
+    ],
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 91332,
+     "image_id": "co1yh0"
+    },
+    "first_release_date": 1319500800,
+    "franchises": [
+     2240
+    ],
+    "game_type": 4,
+    "genres": [
+     8,
+     25,
+     31
+    ],
+    "id": 7850,
+    "name": "Infamous: Festival of Blood",
+    "parent_game": 515,
+    "platforms": [
+     9
+    ],
+    "rating": 71.81740991284916,
+    "slug": "infamous-festival-of-blood",
+    "total_rating_count": 67
+   },
+   {
+    "aggregated_rating": 79.26666666666667,
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 71278,
+     "image_id": "co1izy"
+    },
+    "first_release_date": 1395360000,
+    "franchises": [
+     2240
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 1941,
+    "name": "Infamous: Second Son",
+    "platforms": [
+     48
+    ],
+    "rating": 77.62651318267663,
+    "slug": "infamous-second-son",
+    "total_rating_count": 534
+   },
+   {
+    "aggregated_rating": 70.0,
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 269488,
+     "image_id": "co5rxs"
+    },
+    "first_release_date": 1346112000,
+    "franchises": [
+     2240
+    ],
+    "game_type": 3,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 23828,
+    "name": "Infamous Collection",
+    "platforms": [
+     9
+    ],
+    "rating": 77.87827849703018,
+    "slug": "infamous-collection",
+    "total_rating_count": 6
+   },
+   {
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 499741,
+     "image_id": "coaplp"
+    },
+    "first_release_date": 1242950400,
+    "game_type": 0,
+    "id": 374313,
+    "name": "Infamous: Precinct Assault",
+    "platforms": [
+     82
+    ],
+    "slug": "infamous-precinct-assault"
+   },
+   {
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 140114,
+     "image_id": "co3042"
+    },
+    "first_release_date": 1398038400,
+    "franchises": [
+     2240
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 42940,
+    "name": "Infamous: Second Son - Limited Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "infamous-second-son-limited-edition",
+    "version_parent": 1941
+   },
+   {
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 140161,
+     "image_id": "co305d"
+    },
+    "first_release_date": 1395360000,
+    "franchises": [
+     2240
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 147293,
+    "name": "Infamous: Second Son - Collector's Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "infamous-second-son-collectors-edition",
+    "version_parent": 1941
+   },
+   {
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 269497,
+     "image_id": "co5ry1"
+    },
+    "first_release_date": 1395360000,
+    "franchises": [
+     2240
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 89873,
+    "name": "Infamous Second Son - Special Edition",
+    "platforms": [
+     48
+    ],
+    "slug": "infamous-second-son-special-edition",
+    "version_parent": 1941
+   },
+   {
+    "aggregated_rating": 84.5,
+    "bundles": [
+     23828
+    ],
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 236082,
+     "image_id": "co525u"
+    },
+    "first_release_date": 1307404800,
+    "franchises": [
+     2240
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     25,
+     31
+    ],
+    "id": 515,
+    "name": "Infamous 2",
+    "platforms": [
+     9
+    ],
+    "rating": 81.44118079303394,
+    "slug": "infamous-2",
+    "total_rating_count": 292
+   },
+   {
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 269495,
+     "image_id": "co5rxz"
+    },
+    "first_release_date": 1395360000,
+    "franchises": [
+     2240
+    ],
+    "game_type": 1,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 210087,
+    "name": "Infamous: Second Son - Cole's Legacy",
+    "parent_game": 1941,
+    "platforms": [
+     48
+    ],
+    "slug": "infamous-second-son-coles-legacy"
+   },
+   {
+    "aggregated_rating": 86.25,
+    "bundles": [
+     23828
+    ],
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 236081,
+     "image_id": "co525t"
+    },
+    "first_release_date": 1243296000,
+    "franchises": [
+     2240
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 523,
+    "name": "Infamous",
+    "platforms": [
+     9
+    ],
+    "rating": 76.38601555495062,
+    "slug": "infamous",
+    "total_rating_count": 372
+   },
+   {
+    "aggregated_rating": 75.85714285714286,
+    "collections": [
+     {
+      "id": 98,
+      "name": "Infamous"
+     }
+    ],
+    "cover": {
+     "id": 91326,
+     "image_id": "co1ygu"
+    },
+    "first_release_date": 1409011200,
+    "franchises": [
+     2240
+    ],
+    "game_type": 4,
+    "genres": [
+     5,
+     8,
+     31
+    ],
+    "id": 7328,
+    "name": "Infamous: First Light",
+    "parent_game": 1941,
+    "platforms": [
+     48
+    ],
+    "rating": 74.24072591666364,
+    "slug": "infamous-first-light",
+    "total_rating_count": 192
+   }
+  ],
+  "name": "Infamous",
   "v": 4
  }
 }

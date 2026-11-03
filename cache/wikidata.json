@@ -135,6 +135,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 12067
  },
+ "alice-madness-returns": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "alien-3": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
@@ -389,6 +392,9 @@
  "astros-playroom": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 10482
+ },
+ "asura-s-wrath": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "atari-flashback-classics-vol-1": {
   "checked": "2026-10-28T05:02:27+00:00",
@@ -1279,6 +1285,9 @@
  "dead-space-2": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "dead-space-3": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "deadcraft": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13159
@@ -1975,6 +1984,9 @@
  "fallout-2": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "fallout-3": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "fallout-3-game-of-the-year-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -2246,6 +2258,9 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 16271
  },
+ "folklore": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "football-manager-26-console": {
   "checked": "2026-10-28T03:48:11+00:00"
  },
@@ -2414,8 +2429,14 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 5434
  },
+ "god-of-war-ascension": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "god-of-war-chains-of-olympus": {
   "checked": "2026-10-08T03:15:47+00:00"
+ },
+ "god-of-war-collection": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "god-of-war-ghost-of-sparta": {
   "checked": "2026-10-08T03:19:30+00:00"
@@ -2593,6 +2614,9 @@
  "guitar-hero-ii": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
+ "guitar-hero-iii-legends-of-rock": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "guitar-hero-live": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1544
@@ -2665,6 +2689,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 12448
  },
+ "heavenly-sword": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "heavy-rain": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 1535
@@ -2699,6 +2726,9 @@
  "hitman-2": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 6215
+ },
+ "hitman-hd-trilogy": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "hitman-world-of-assassination": {
   "checked": "2026-10-07T01:52:06+00:00"
@@ -2840,6 +2870,9 @@
  "indika": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16627
+ },
+ "infamous-2": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "infamous-first-light": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -3023,6 +3056,9 @@
  "killing-floor-2": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 3282
+ },
+ "killzone-2": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "killzone-liberation": {
   "checked": "2026-10-28T05:02:27+00:00"
@@ -4165,6 +4201,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15730
  },
+ "nier": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "nier-automata": {
   "checked": "2026-10-07T05:55:24+00:00",
   "opencritic_id": 6310
@@ -4846,6 +4885,9 @@
  "pulseman": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
+ "puppeteer": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "pure-pool": {
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 146
@@ -4944,6 +4986,18 @@
  "ratchet-and-clank-rift-apart": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10994
+ },
+ "ratchet-clank-future-a-crack-in-time": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
+ "ratchet-clank-future-quest-for-booty": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
+ "ratchet-clank-future-tools-of-destruction": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
+ "ratchet-clank-into-the-nexus": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "ratchet-clank-size-matters": {
   "checked": "2026-10-28T05:02:28+00:00"
@@ -5057,6 +5111,9 @@
  },
  "resistance-burning-skies": {
   "checked": "2026-10-08T03:51:23+00:00"
+ },
+ "resistance-fall-of-man": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "resistance-retribution": {
   "checked": "2026-10-28T05:02:28+00:00"
@@ -5449,6 +5506,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16791
  },
+ "silent-hill-hd-collection": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "silent-hill-the-short-message": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 16206
@@ -5470,6 +5530,12 @@
  },
  "singstar--2": {
   "checked": "2026-10-07T01:52:01+00:00"
+ },
+ "singstar-vol-3": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
+ "siren-blood-curse": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "skate-story": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -6238,6 +6304,9 @@
  "tales-of-destiny-ii": {
   "checked": "2026-10-08T03:31:49+00:00"
  },
+ "tales-of-graces-f": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "tales-of-hearts-r": {
   "checked": "2026-10-08T03:45:56+00:00"
  },
@@ -6247,11 +6316,20 @@
  "tales-of-phantasia": {
   "checked": "2026-11-02T14:43:38+00:00"
  },
+ "tales-of-symphonia-chronicles": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "tales-of-the-abyss--1": {
   "checked": "2026-11-03T04:11:09+00:00"
  },
  "tales-of-the-world-radiant-mythology": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "tales-of-xillia": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
+ "tales-of-xillia-2": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "target-earth": {
   "checked": "2026-11-01T00:33:39+00:00"
@@ -6411,6 +6489,9 @@
  "the-delusions-of-von-sottendorff-and-his-squared-mind": {
   "checked": "2026-10-08T03:13:36+00:00"
  },
+ "the-elder-scrolls-iv-oblivion-5th-anniversary-edition": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "the-elder-scrolls-online": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 2212
@@ -6457,6 +6538,9 @@
  },
  "the-humans": {
   "checked": "2026-11-02T14:43:38+00:00"
+ },
+ "the-ico-and-shadow-of-the-colossus-collection": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "the-ignition-factor": {
   "checked": "2026-10-28T05:36:43+00:00"
@@ -6637,6 +6721,9 @@
  "the-ninja-warriors": {
   "checked": "2026-11-02T21:16:20+00:00"
  },
+ "the-orange-box": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "the-outlast-trials": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 14938
@@ -6730,6 +6817,9 @@
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 16393
  },
+ "the-tomb-raider-trilogy": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "the-tower-of-druaga": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
@@ -6820,6 +6910,9 @@
  },
  "toejam-and-earl-in-panic-on-funkotron": {
   "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "tokyo-jungle": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "tom-clancy-s-ghost-recon-shadow-wars": {
   "checked": "2026-11-03T04:11:09+00:00"
@@ -7147,6 +7240,10 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 242
  },
+ "valkyria-chronicles": {
+  "checked": "2026-11-03T04:23:46+00:00",
+  "opencritic_id": 1273
+ },
  "valkyria-chronicles-4": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 6114
@@ -7384,6 +7481,9 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 18648
  },
+ "wolfenstein": {
+  "checked": "2026-11-03T04:23:46+00:00"
+ },
  "wolfenstein-ii-the-new-colossus": {
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 4490
@@ -7484,6 +7584,9 @@
  "yakuza-0-directors-cut": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 18341
+ },
+ "yakuza-dead-souls": {
+  "checked": "2026-11-03T04:23:46+00:00"
  },
  "yakuza-kiwami": {
   "checked": "2026-10-07T01:52:04+00:00",
