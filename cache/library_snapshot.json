@@ -10069,16 +10069,6 @@
    "manual": true,
    "platform": "PS3",
    "playtime_hours": 0.0,
-   "source_id": "manual:Metal Gear Solid 2: Sons of Liberty HD",
-   "title": "Metal Gear Solid 2: Sons of Liberty HD"
-  },
-  {
-   "format": null,
-   "igdb": null,
-   "last_played": null,
-   "manual": true,
-   "platform": "PS3",
-   "playtime_hours": 0.0,
    "source_id": "manual:Mirror's Edge",
    "title": "Mirror's Edge"
   },
@@ -19605,17 +19595,17 @@
    "title": "Metro Exodus"
   },
   {
-   "also_platform": "PS4",
+   "also_platform": null,
    "concept": "10009198",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2821/51d6eb5a4a96c0a546c0f7e475a6477a6c4a29196c95820b.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
-   "platform": "PS5",
+   "platform": "PS4",
    "playtime_hours": 0.0,
    "source_id": "psplus:10009198",
    "store_url": "https://store.playstation.com/en-us/concept/10009198",
-   "streaming": true,
+   "streaming": false,
    "tier": "Game Catalog",
    "title": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
