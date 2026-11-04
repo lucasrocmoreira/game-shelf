@@ -25275,6 +25275,20 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:202807": {
+  "candidates": 6,
+  "checked": "2026-11-04T18:01:01+00:00",
+  "conf": "medium",
+  "id": 80853,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.986,
+  "slug": null,
+  "title": "METRO 2033 Redux",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:psplus:203897": {
   "candidates": 1,
   "checked": "2026-10-28T03:44:50+00:00",
@@ -25338,6 +25352,20 @@
   "score": 1.137,
   "slug": null,
   "title": "Skull and Bones",
+  "v": 4,
+  "via": "search"
+ },
+ "PS5:psplus:226459": {
+  "candidates": 8,
+  "checked": "2026-11-04T18:01:03+00:00",
+  "conf": "medium",
+  "id": 539,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.039,
+  "slug": null,
+  "title": "METRO Last Light Redux",
   "v": 4,
   "via": "search"
  },

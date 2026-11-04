@@ -19223,21 +19223,6 @@
   },
   {
    "also_platform": null,
-   "concept": "231486",
-   "image": "https://image.api.playstation.com/cdn/UP0001/CUSA10357_00/YoJmqdJ3jDHz0ZQI6DrkzofAXaATiA8K.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS4",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:231486",
-   "store_url": "https://store.playstation.com/en-us/concept/231486",
-   "streaming": false,
-   "tier": "Game Catalog",
-   "title": "Far Cry® 3 Classic Edition"
-  },
-  {
-   "also_platform": null,
    "concept": "201624",
    "image": "https://image.api.playstation.com/vulcan/img/cfn/113076px2b27B2ofcw5IzONcQEr6vlx2oSWvfJEutr9o7jAcP9vbVFjtbYjYoX2MOkkuepqwRRkk8Krf08MR2BKeTPw-FyY7.png",
    "last_played": null,
@@ -19280,6 +19265,21 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "FAR: Changing Tides PS4 & PS5"
+  },
+  {
+   "also_platform": null,
+   "concept": "231486",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2413/d1b2bc237dc9b35e0d592a994ef8c7c3b9697680f8e410e1.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:231486",
+   "store_url": "https://store.playstation.com/en-us/concept/231486",
+   "streaming": false,
+   "tier": "Game Catalog",
+   "title": "FARCRY 3 Classic Edition"
   },
   {
    "also_platform": "PS4",
@@ -25232,6 +25232,40 @@
    "streaming": true,
    "tier": "Classics",
    "title": "Mega Man X: Command Mission"
+  },
+  {
+   "also_platform": "PS4",
+   "concept": "202807",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/4c217e661408017edc10e775d9fd6c74d17246395e10b338.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:202807",
+   "store_url": "https://store.playstation.com/en-us/concept/202807",
+   "streaming": true,
+   "tier": "Classics",
+   "title": "METRO 2033 Redux"
+  },
+  {
+   "also_platform": "PS4",
+   "concept": "226459",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/d0c2b40c5db44a73d3b3605fdd9a07f80df8fd33716a93c3.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:226459",
+   "store_url": "https://store.playstation.com/en-us/concept/226459",
+   "streaming": true,
+   "tier": "Classics",
+   "title": "METRO Last Light Redux"
   },
   {
    "also_platform": "PS4",
