@@ -1292,6 +1292,10 @@
   "checked": "2026-10-07T01:52:04+00:00",
   "opencritic_id": 6386
  },
+ "dead-island-2": {
+  "checked": "2026-11-05T18:05:39+00:00",
+  "opencritic_id": 1551
+ },
  "dead-island-game-of-the-year-edition": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -4084,6 +4088,10 @@
  "monster-train": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 9508
+ },
+ "monster-train-2": {
+  "checked": "2026-11-05T18:05:39+00:00",
+  "opencritic_id": 18503
  },
  "monster-truck-championship": {
   "checked": "2026-10-28T05:02:25+00:00",
@@ -7140,6 +7148,10 @@
  "tomb-raider-i-star-ii-star-iii-remastered": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15618
+ },
+ "tomb-raider-iv-star-v-star-vi-remastered": {
+  "checked": "2026-11-05T18:05:39+00:00",
+  "opencritic_id": 17745
  },
  "tomb-raider-legend": {
   "checked": "2026-10-07T01:08:00+00:00"

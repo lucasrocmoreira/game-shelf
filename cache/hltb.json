@@ -10974,6 +10974,9 @@
   "hltb_name": "Sword of Vermilion",
   "main": 16.0
  },
+ "igdb:319480": {
+  "checked": "2026-11-05T18:05:57+00:00"
+ },
  "igdb:3197": {
   "checked": "2026-11-01T00:45:37+00:00",
   "complete": 37.5,
@@ -11196,6 +11199,14 @@
   "extra": 6.5,
   "hltb_id": 163835,
   "hltb_name": "Metal Eden",
+  "main": 5.5
+ },
+ "igdb:332273": {
+  "checked": "2026-11-05T18:05:55+00:00",
+  "complete": 134.0,
+  "extra": 37.5,
+  "hltb_id": 164271,
+  "hltb_name": "Monster Train 2",
   "main": 5.5
  },
  "igdb:3324": {
@@ -15815,6 +15826,14 @@
   "hltb_id": 20787,
   "hltb_name": "inFAMOUS: First Light",
   "main": 4.0
+ },
+ "igdb:7329": {
+  "checked": "2026-11-05T18:05:53+00:00",
+  "complete": 40.0,
+  "extra": 26.5,
+  "hltb_id": 21273,
+  "hltb_name": "Dead Island 2",
+  "main": 16.0
  },
  "igdb:7330": {
   "checked": "2026-10-16T04:59:25+00:00",

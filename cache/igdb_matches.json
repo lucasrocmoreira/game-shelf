@@ -11234,7 +11234,7 @@
  },
  "PS4:CUSA00131_00": {
   "candidates": null,
-  "checked": "2026-11-02T17:38:00+00:00",
+  "checked": "2026-11-05T18:05:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11517,6 +11517,18 @@
   "slug": null,
   "title": "Mortal Kombat X",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA01014_00": {
+  "candidates": 22,
+  "checked": "2026-11-05T18:05:28+00:00",
+  "conf": "high",
+  "id": 7329,
+  "mp": null,
+  "score": 1.142,
+  "slug": null,
+  "title": "Dead Island 2",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA01015_00": {
@@ -13403,7 +13415,7 @@
  },
  "PS4:CUSA14043_00": {
   "candidates": 25,
-  "checked": "2026-11-02T17:38:02+00:00",
+  "checked": "2026-11-05T18:05:28+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -13658,7 +13670,7 @@
  },
  "PS4:CUSA15607_00": {
   "candidates": null,
-  "checked": "2026-11-02T17:38:00+00:00",
+  "checked": "2026-11-05T18:05:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -14155,7 +14167,7 @@
  },
  "PS4:CUSA20387_00": {
   "candidates": null,
-  "checked": "2026-11-02T17:38:00+00:00",
+  "checked": "2026-11-05T18:05:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -15321,6 +15333,18 @@
   "slug": null,
   "title": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA44837_00": {
+  "candidates": 1,
+  "checked": "2026-11-05T18:05:30+00:00",
+  "conf": "high",
+  "id": 319480,
+  "mp": null,
+  "score": 1.053,
+  "slug": null,
+  "title": "Tomb Raider IV-VI Remastered",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA45307_00": {
@@ -19697,6 +19721,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS5:PPSA03098_00": {
+  "candidates": 22,
+  "checked": "2026-11-05T18:05:28+00:00",
+  "conf": "high",
+  "id": 7329,
+  "mp": null,
+  "score": 1.142,
+  "slug": null,
+  "title": "Dead Island 2",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:PPSA03235_00": {
   "candidates": 3,
   "checked": "2026-10-07T01:51:30+00:00",
@@ -21183,6 +21219,18 @@
   "v": 4,
   "via": "fix"
  },
+ "PS5:PPSA18154_00": {
+  "candidates": 1,
+  "checked": "2026-11-05T18:05:30+00:00",
+  "conf": "high",
+  "id": 319480,
+  "mp": null,
+  "score": 1.053,
+  "slug": null,
+  "title": "Tomb Raider IV-VI Remastered",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:PPSA18266_00": {
   "candidates": null,
   "checked": "2026-11-03T05:32:12+00:00",
@@ -21502,6 +21550,18 @@
   "slug": null,
   "title": "Nine Sols",
   "v": 2,
+  "via": "search"
+ },
+ "PS5:PPSA25758_00": {
+  "candidates": 2,
+  "checked": "2026-11-05T18:05:29+00:00",
+  "conf": "high",
+  "id": 332273,
+  "mp": null,
+  "score": 1.133,
+  "slug": null,
+  "title": "Monster Train 2",
+  "v": 4,
   "via": "search"
  },
  "PS5:PPSA27597_00": {

@@ -15281,6 +15281,24 @@
    "title": "Dead Space"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1916/fVsiqUOxnTrnyl4woUQyWda5.png",
+   "last_played": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "CUSA01014_00",
+   "title": "Dead Island 2"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1916/fVsiqUOxnTrnyl4woUQyWda5.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "PPSA03098_00",
+   "title": "Dead Island 2"
+  },
+  {
    "cover": "https://image.api.playstation.com/cdn/EP2026/CUSA12940_00/Wy3SzmeoMDTWzy55GToC8lLv1qtwuvzf.png",
    "last_played": null,
    "platform": "PS4",
@@ -17133,6 +17151,33 @@
    "ps_plus": true,
    "source_id": "PPSA14251_00",
    "title": "Mafia: The Old Country"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1815/3ea7456f6925d14bd479d7b9bd251be1575e0e5fc37ad88d.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "PPSA25758_00",
+   "title": "Monster Train 2"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png",
+   "last_played": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "CUSA44837_00",
+   "title": "Tomb Raider IV-VI Remastered"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "PPSA18154_00",
+   "title": "Tomb Raider IV-VI Remastered"
   }
  ],
  "psplus": [
