@@ -295,7 +295,6 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
       <summary>Scores in the average and other options</summary>
       <div id="srcBoxes"></div>
       <label><input type="checkbox" id="hideUnscored"> Hide games with no score</label>
-      <label class="lib-only"><input type="checkbox" id="hidePlus"> Hide unplayed PS Plus claims</label>
       <label class="lib-only"><input type="checkbox" id="hideNso"> Hide unplayed Switch Online classics</label>
       <label class="lib-only"><input type="checkbox" id="hideEmu"> Hide unplayed EmuDeck games</label>
       <label><input type="checkbox" id="showHidden"> Show hidden games and apps</label>
@@ -343,10 +342,10 @@ const store = {
 const prefs = store.get("shelf-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", platforms:new Set(), played:prefs.played||"all",
-  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hidePlus:(prefs.pv||0) < 2 ? true : !!prefs.hidePlus, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, hideEmuSteam:prefs.hideEmuSteam ?? true, hidePsCat:prefs.hidePsCat ?? true, showHidden:false,
+  filters:{}, tags:[], length:"", view:prefs.view||"library", tier:"all", hideOwned:!!prefs.hideOwned, hideUnscored:!!prefs.hideUnscored, hideNso:!!prefs.hideNso, hideEmu:!!prefs.hideEmu, hideEmuSteam:prefs.hideEmuSteam ?? true, hidePsCat:prefs.hidePsCat ?? true, showHidden:false,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){ store.set("shelf-prefs",{pv:2,sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hidePlus:state.hidePlus,hideNso:state.hideNso,hideEmu:state.hideEmu,hideEmuSteam:state.hideEmuSteam,hidePsCat:state.hidePsCat,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
+function savePrefs(){ store.set("shelf-prefs",{pv:2,sort:state.sort,group:state.group,played:state.played,hideUnscored:state.hideUnscored,hideNso:state.hideNso,hideEmu:state.hideEmu,hideEmuSteam:state.hideEmuSteam,hidePsCat:state.hidePsCat,hideOwned:state.hideOwned,view:state.view,srcOn:[...state.srcOn]}); }
 
 // Which repository this site belongs to: <owner>.github.io/<repo>/
 const REPO = store.get("shelf-repo", null) || (()=>{
@@ -485,7 +484,6 @@ function filtered(){
     (state.played==="all" || (state.played==="played" ? !!g._played : !g._played)) &&
     (!state.hideUnscored || avg(g)!=null) &&
     (!state.length || (()=>{ const h=beat(g), [lo,hi]=state.length.split("-").map(Number); return h!=null && h>=lo && h<hi; })()) &&
-    (!state.hidePlus || !g.ps_plus || g.playtime>0 || g._played) &&
     (!state.hideNso || !g.nso || g._played || g._playing) &&
     (!state.hideEmu || !(g.emu_only ?? g.emu) || g._played || g._playing) &&
     (state.view!=="steam" || !state.hideEmuSteam || !emuOnlySteam(g)) &&
@@ -1163,7 +1161,6 @@ function setup(){
   $("f_length").onchange = e=>{ state.length = e.target.value; render(); };
   $("srcBoxes").innerHTML = Object.entries(SOURCES).map(([k,v])=>`<label><input type="checkbox" data-src="${k}" ${state.srcOn.has(k)?"checked":""}> ${v.label}</label>`).join("");
   $("hideUnscored").checked = state.hideUnscored;
-  $("hidePlus").checked = state.hidePlus;
   $("hideNso").checked = state.hideNso;
   $("hideEmu").checked = state.hideEmu;
   for(const b of $("playedSeg").querySelectorAll("button")) b.setAttribute("aria-pressed", b.dataset.v===state.played);
@@ -1173,7 +1170,6 @@ function setup(){
   $("group").onchange = e=>{state.group=e.target.value;render()};
   for(const f of Object.keys(FILTERS)) $("f_"+f).onchange = e=>{state.filters[f]=e.target.value;render()};
   $("hideUnscored").onchange = e=>{state.hideUnscored=e.target.checked;render()};
-  $("hidePlus").onchange = e=>{state.hidePlus=e.target.checked;render()};
   $("hideNso").onchange = e=>{state.hideNso=e.target.checked;render()};
   $("hideEmu").onchange = e=>{state.hideEmu=e.target.checked;render()};
   $("showHidden").onchange = e=>{state.showHidden=e.target.checked;render()};
