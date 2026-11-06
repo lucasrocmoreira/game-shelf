@@ -163,7 +163,7 @@
  "igdb:102129": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:58+00:00",
+  "checked": "2026-11-06T17:38:42+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "astro-bot-rescue-mission",
@@ -198,7 +198,7 @@
  "igdb:10239": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:48+00:00",
+  "checked": "2026-11-06T17:43:01+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "ark-survival-evolved",
@@ -278,7 +278,7 @@
  "igdb:103018": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:51+00:00",
+  "checked": "2026-11-06T17:43:04+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "team-sonic-racing",
@@ -339,7 +339,7 @@
  "igdb:103210": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:17+00:00",
+  "checked": "2026-11-06T17:42:34+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "hitman-2",
@@ -452,7 +452,7 @@
  "igdb:103329": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:26+00:00",
+  "checked": "2026-11-06T17:41:49+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "control",
@@ -465,7 +465,7 @@
  "igdb:103330": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:32+00:00",
+  "checked": "2026-11-06T17:43:39+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "nioh-2",
@@ -491,7 +491,7 @@
  "igdb:103341": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:50+00:00",
+  "checked": "2026-11-06T17:38:37+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "overcooked-2",
@@ -598,7 +598,7 @@
  "igdb:105049": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:39+00:00",
+  "checked": "2026-11-06T17:42:01+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "remnant-from-the-ashes",
@@ -611,22 +611,24 @@
  "igdb:1051": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:51+00:00",
+  "checked": "2026-11-06T17:33:24+00:00",
   "mc_v": 2,
-  "metacritic": 79,
-  "metacritic_slug": "mirrors-edge",
+  "metacritic": 81,
+  "metacritic_slug": "mirrors-edge-2008",
   "oc_checked": "2026-10-11T16:21:09+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
   ],
-  "steam_pct": 88,
-  "steam_reviews": 39435
+  "steam_mc": 81,
+  "steam_mc_slug": "mirrors-edge-2008",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:105416": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:37+00:00",
+  "checked": "2026-11-06T17:39:09+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "the-walking-dead-saints-and-sinners",
@@ -710,7 +712,7 @@
  "igdb:1062": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:56+00:00",
+  "checked": "2026-11-06T17:34:24+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "alan-wake",
@@ -719,8 +721,10 @@
    "Action",
    "Adventure"
   ],
-  "steam_pct": 90,
-  "steam_reviews": 60227
+  "steam_mc": 83,
+  "steam_mc_slug": "alan-wake",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1063": {
   "backloggd": 3.2,
@@ -1009,17 +1013,19 @@
  "igdb:109": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:58+00:00",
+  "checked": "2026-11-06T17:34:28+00:00",
   "mc_v": 2,
-  "metacritic": 89,
-  "metacritic_slug": "l-a-noire",
+  "metacritic": 83,
+  "metacritic_slug": "la-noire-the-complete-edition",
   "oc_checked": "2026-10-11T16:21:07+00:00",
   "steam_genres": [
    "Adventure",
    "Strategy"
   ],
-  "steam_pct": 86,
-  "steam_reviews": 37020
+  "steam_mc": 83,
+  "steam_mc_slug": "la-noire-the-complete-edition",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1090": {
   "backloggd": 4.0,
@@ -1197,7 +1203,7 @@
  "igdb:10962": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:58+00:00",
+  "checked": "2026-11-06T17:38:05+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "uncharted-the-nathan-drake-collection",
@@ -1320,7 +1326,7 @@
  "igdb:11059": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:10+00:00",
+  "checked": "2026-11-06T17:39:34+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "naruto-shippuden-ultimate-ninja-storm-4",
@@ -1542,7 +1548,7 @@
  "igdb:11156": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:06+00:00",
+  "checked": "2026-11-06T17:37:35+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "horizon-zero-dawn",
@@ -1581,7 +1587,7 @@
  "igdb:11169": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:36+00:00",
+  "checked": "2026-11-06T17:41:59+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "final-fantasy-vii-remake",
@@ -1804,7 +1810,7 @@
  "igdb:112875": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:11+00:00",
+  "checked": "2026-11-06T17:37:38+00:00",
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "god-of-war-ragnarok",
@@ -1826,7 +1832,7 @@
  "igdb:112916": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:06+00:00",
+  "checked": "2026-11-06T17:38:10+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "mortal-kombat-11",
@@ -1950,7 +1956,7 @@
  "igdb:113598": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:25+00:00",
+  "checked": "2026-11-06T17:37:43+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "deathloop",
@@ -1981,7 +1987,7 @@
  "igdb:11397": {
   "backloggd": 4.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:29+00:00",
+  "checked": "2026-11-06T17:40:29+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -2082,7 +2088,7 @@
  "igdb:115115": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:53+00:00",
+  "checked": "2026-11-06T17:38:39+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "resident-evil-3",
@@ -2143,7 +2149,7 @@
  "igdb:115478": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:53+00:00",
+  "checked": "2026-11-06T17:40:04+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "until-you-fall",
@@ -2195,7 +2201,7 @@
  "igdb:116": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:10+00:00",
+  "checked": "2026-11-06T17:33:40+00:00",
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "star-wars-knights-of-the-old-republic",
@@ -2208,8 +2214,10 @@
    "Adventure",
    "RPG"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 34069
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:11603": {
   "backloggd": 2.6,
@@ -2223,17 +2231,19 @@
  "igdb:1161": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:11+00:00",
+  "checked": "2026-11-06T17:32:45+00:00",
   "mc_v": 2,
-  "metacritic": 80,
+  "metacritic": 82,
   "metacritic_slug": "tomb-raider-legend",
   "oc_checked": "2026-10-07T01:21:26+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
   ],
-  "steam_pct": 88,
-  "steam_reviews": 6169
+  "steam_mc": 82,
+  "steam_mc_slug": "tomb-raider-legend",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:11616": {
   "backloggd": 3.5,
@@ -2265,7 +2275,7 @@
  "igdb:116200": {
   "backloggd": 2.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:48+00:00",
+  "checked": "2026-11-06T17:39:19+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "back-4-blood",
@@ -2309,7 +2319,7 @@
  "igdb:1164": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:08+00:00",
+  "checked": "2026-11-06T17:34:37+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "tomb-raider",
@@ -2322,8 +2332,10 @@
    "Action",
    "Adventure"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 270961
+  "steam_mc": 86,
+  "steam_mc_slug": "tomb-raider",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:116403": {
   "backloggd": 3.1,
@@ -2354,7 +2366,7 @@
  "igdb:116466": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:29+00:00",
+  "checked": "2026-11-06T17:39:49+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "sniper-elite-vr",
@@ -2389,7 +2401,7 @@
  "igdb:117": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:59+00:00",
+  "checked": "2026-11-06T17:41:31+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "the-last-guardian",
@@ -2518,7 +2530,7 @@
  "igdb:117717": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:09+00:00",
+  "checked": "2026-11-06T17:36:26+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "planet-zoo",
@@ -2532,8 +2544,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 97998
+  "steam_mc": 81,
+  "steam_mc_slug": "planet-zoo",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:117731": {
   "backloggd": 3.6,
@@ -2613,7 +2627,7 @@
  "igdb:11800": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:45+00:00",
+  "checked": "2026-11-06T17:36:08+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "divinity-original-sin-ii",
@@ -2627,8 +2641,10 @@
    "RPG",
    "Strategy"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 206592
+  "steam_mc": 93,
+  "steam_mc_slug": "divinity-original-sin-ii",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1181": {
   "backloggd": 2.9,
@@ -2668,7 +2684,7 @@
  "igdb:118272": {
   "backloggd": 2.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:19+00:00",
+  "checked": "2026-11-06T17:42:36+00:00",
   "mc_v": 2,
   "metacritic": 56,
   "metacritic_slug": "predator-hunting-grounds",
@@ -2756,7 +2772,7 @@
  "igdb:119137": {
   "backloggd": 1.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:09+00:00",
+  "checked": "2026-11-06T17:42:31+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "hunters-arena-legends",
@@ -2769,7 +2785,7 @@
  "igdb:119161": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:22+00:00",
+  "checked": "2026-11-06T17:43:31+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "need-for-speed-heat",
@@ -2793,9 +2809,9 @@
   "opencritic_tier": "Weak"
  },
  "igdb:119234": {
-  "backloggd": 3.0,
+  "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:44+00:00",
+  "checked": "2026-11-06T17:42:06+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "zombie-army-4-dead-war",
@@ -2808,7 +2824,7 @@
  "igdb:119239": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:00+00:00",
+  "checked": "2026-11-06T17:43:11+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -2904,7 +2920,7 @@
  "igdb:119313": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:23+00:00",
+  "checked": "2026-11-06T17:39:02+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "fall-guys",
@@ -3070,7 +3086,7 @@
  "igdb:120619": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:04+00:00",
+  "checked": "2026-11-06T17:43:14+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "tribes-of-midgard",
@@ -3181,7 +3197,7 @@
  "igdb:121618": {
   "backloggd": 2.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:55+00:00",
+  "checked": "2026-11-06T17:39:22+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "plants-vs-zombies-battle-for-neighborville",
@@ -3194,7 +3210,7 @@
  "igdb:121697": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:34+00:00",
+  "checked": "2026-11-06T17:43:41+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "heavenly-bodies",
@@ -3229,7 +3245,7 @@
  "igdb:121752": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:53+00:00",
+  "checked": "2026-11-06T17:43:07+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "ghostrunner",
@@ -3281,7 +3297,7 @@
  "igdb:121898": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:27+00:00",
+  "checked": "2026-11-06T17:42:44+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "first-class-trouble",
@@ -3294,7 +3310,7 @@
  "igdb:122": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:30+00:00",
+  "checked": "2026-11-06T17:32:04+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "left-4-dead",
@@ -3302,8 +3318,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 68392
+  "steam_mc": 89,
+  "steam_mc_slug": "left-4-dead",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1220": {
   "backloggd": 3.2,
@@ -3330,7 +3348,7 @@
  "igdb:122120": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:24+00:00",
+  "checked": "2026-11-06T17:43:34+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "the-dark-pictures-anthology-little-hope",
@@ -3418,7 +3436,7 @@
  "igdb:124": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:33+00:00",
+  "checked": "2026-11-06T17:32:07+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "left-4-dead-2",
@@ -3426,8 +3444,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 98,
-  "steam_reviews": 1062239
+  "steam_mc": 89,
+  "steam_mc_slug": "left-4-dead-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:124131": {
   "backloggd": 2.7,
@@ -3458,7 +3478,7 @@
  "igdb:124954": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:29+00:00",
+  "checked": "2026-11-06T17:36:46+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "crusader-kings-iii",
@@ -3472,8 +3492,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 90,
-  "steam_reviews": 142404
+  "steam_mc": 91,
+  "steam_mc_slug": "crusader-kings-iii",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:12511": {
   "backloggd": 3.3,
@@ -3565,7 +3587,7 @@
  "igdb:125373": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:06+00:00",
+  "checked": "2026-11-06T17:43:16+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "curse-of-the-dead-gods",
@@ -3617,7 +3639,7 @@
  "igdb:125627": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:46+00:00",
+  "checked": "2026-11-06T17:42:59+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -3774,7 +3796,7 @@
  "igdb:127343": {
   "backloggd": 2.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:31+00:00",
+  "checked": "2026-11-06T17:42:49+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "godfall",
@@ -3944,16 +3966,18 @@
  "igdb:13": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:23+00:00",
+  "checked": "2026-11-06T17:33:53+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 89,
+  "metacritic_slug": "fallout",
   "oc_checked": "2026-10-07T01:21:25+00:00",
   "steam_genres": [
    "RPG"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 25289
+  "steam_mc": 89,
+  "steam_mc_slug": "fallout",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1303": {
   "backloggd": 3.1,
@@ -3994,7 +4018,7 @@
  "igdb:1318": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:04+00:00",
+  "checked": "2026-11-06T17:34:34+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "xcom-enemy-unknown",
@@ -4002,8 +4026,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 58775
+  "steam_mc": 89,
+  "steam_mc_slug": "xcom-enemy-unknown",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:13182": {
   "backloggd": 3.1,
@@ -4032,9 +4058,9 @@
   "opencritic_tier": "Strong"
  },
  "igdb:132038": {
-  "backloggd": 2.8,
+  "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:34+00:00",
+  "checked": "2026-11-06T17:41:56+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "maquette",
@@ -4060,7 +4086,7 @@
  "igdb:132050": {
   "backloggd": 2.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:34+00:00",
+  "checked": "2026-11-06T17:42:51+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "mortal-shell",
@@ -4158,7 +4184,7 @@
  "igdb:132956": {
   "backloggd": 1.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:07+00:00",
+  "checked": "2026-11-06T17:42:29+00:00",
   "mc_v": 2,
   "metacritic": 60,
   "metacritic_slug": "wwe-2k-battlegrounds",
@@ -4193,9 +4219,9 @@
  "igdb:1331": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:45+00:00",
+  "checked": "2026-11-06T17:34:15+00:00",
   "mc_v": 2,
-  "metacritic": 90,
+  "metacritic": 88,
   "metacritic_slug": "limbo",
   "oc_checked": "2026-10-07T01:20:26+00:00",
   "opencritic": null,
@@ -4207,13 +4233,15 @@
    "Adventure",
    "Indie"
   ],
-  "steam_pct": 92,
-  "steam_reviews": 62214
+  "steam_mc": 88,
+  "steam_mc_slug": "limbo",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:133301": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:39+00:00",
+  "checked": "2026-11-06T17:42:54+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "dirt-5",
@@ -4274,7 +4302,7 @@
  "igdb:133887": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:17+00:00",
+  "checked": "2026-11-06T17:43:26+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "tony-hawks-pro-skater-1-plus-2",
@@ -4375,7 +4403,7 @@
  "igdb:134438": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:29+00:00",
+  "checked": "2026-11-06T17:42:46+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "kingdoms-of-amalur-re-reckoning",
@@ -4401,7 +4429,7 @@
  "igdb:134581": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:14+00:00",
+  "checked": "2026-11-06T17:38:18+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "marvels-spider-man-miles-morales",
@@ -4453,7 +4481,7 @@
  "igdb:134587": {
   "backloggd": 2.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:29+00:00",
+  "checked": "2026-11-06T17:41:51+00:00",
   "mc_v": 2,
   "metacritic": 62,
   "metacritic_slug": "destruction-allstars",
@@ -4466,7 +4494,7 @@
  "igdb:134597": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:42+00:00",
+  "checked": "2026-11-06T17:39:14+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "astros-playroom",
@@ -4501,7 +4529,7 @@
  "igdb:134606": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:48+00:00",
+  "checked": "2026-11-06T17:37:55+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "demons-souls",
@@ -4514,7 +4542,7 @@
  "igdb:134706": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:56+00:00",
+  "checked": "2026-11-06T17:42:19+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "star-wars-squadrons",
@@ -4536,7 +4564,7 @@
  "igdb:134822": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:54+00:00",
+  "checked": "2026-11-06T17:42:16+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "operation-tango",
@@ -4571,7 +4599,7 @@
  "igdb:135254": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:11+00:00",
+  "checked": "2026-11-06T17:38:15+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "crash-bandicoot-4-its-about-time",
@@ -4602,7 +4630,7 @@
  "igdb:135554": {
   "backloggd": 1.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:47+00:00",
+  "checked": "2026-11-06T17:41:23+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "worms-rumble",
@@ -4646,7 +4674,7 @@
  "igdb:135915": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:49+00:00",
+  "checked": "2026-11-06T17:40:45+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "overcooked-all-you-can-eat",
@@ -4733,7 +4761,7 @@
  "igdb:136512": {
   "backloggd": 2.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:57+00:00",
+  "checked": "2026-11-06T17:43:10+00:00",
   "mc_v": 2,
   "metacritic": 63,
   "metacritic_slug": "hood-outlaws-and-legends",
@@ -5081,7 +5109,7 @@
  "igdb:14": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:26+00:00",
+  "checked": "2026-11-06T17:33:56+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "fallout-2",
@@ -5089,8 +5117,10 @@
   "steam_genres": [
    "RPG"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 17543
+  "steam_mc": 86,
+  "steam_mc_slug": "fallout-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1400": {
   "backloggd": 3.8,
@@ -5157,7 +5187,7 @@
  "igdb:140839": {
   "backloggd": 4.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:00+00:00",
+  "checked": "2026-11-06T17:38:08+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "mass-effect-legendary-edition",
@@ -5216,7 +5246,7 @@
  "igdb:141540": {
   "backloggd": 4.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:51+00:00",
+  "checked": "2026-11-06T17:37:58+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "disco-elysium-the-final-cut",
@@ -5269,7 +5299,7 @@
  "igdb:14159": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:24+00:00",
+  "checked": "2026-11-06T17:41:13+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "kingdom-hearts-hd-28-final-chapter-prologue",
@@ -5295,9 +5325,9 @@
  "igdb:14177": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:25+00:00",
+  "checked": "2026-11-06T17:35:51+00:00",
   "mc_v": 2,
-  "metacritic": 88,
+  "metacritic": 94,
   "metacritic_slug": "divinity-original-sin-enhanced-edition",
   "oc_checked": "2026-10-07T01:20:35+00:00",
   "opencritic": 88,
@@ -5310,8 +5340,10 @@
    "RPG",
    "Strategy"
   ],
-  "steam_pct": 89,
-  "steam_reviews": 33243
+  "steam_mc": 94,
+  "steam_mc_slug": "divinity-original-sin-enhanced-edition",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:141959": {
   "backloggd": 2.9,
@@ -5325,16 +5357,18 @@
  "igdb:142": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:02+00:00",
+  "checked": "2026-11-06T17:32:35+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 78,
+  "metacritic_slug": "star-wars-battlefront-ii",
   "oc_checked": "2026-10-07T01:21:29+00:00",
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 54339
+  "steam_mc": 78,
+  "steam_mc_slug": "star-wars-battlefront-ii",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:142453": {
   "backloggd": 1.9,
@@ -5457,7 +5491,7 @@
  "igdb:143114": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:26+00:00",
+  "checked": "2026-11-06T17:36:43+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "total-war-warhammer-iii",
@@ -5470,8 +5504,10 @@
    "Action",
    "Strategy"
   ],
-  "steam_pct": 72,
-  "steam_reviews": 149986
+  "steam_mc": 86,
+  "steam_mc_slug": "total-war-warhammer-iii",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1432": {
   "backloggd": 3.4,
@@ -5542,7 +5578,7 @@
  "igdb:143615": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:24+00:00",
+  "checked": "2026-11-06T17:42:41+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "knockout-city",
@@ -5555,7 +5591,7 @@
  "igdb:14362": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:41+00:00",
+  "checked": "2026-11-06T17:38:32+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "detroit-become-human",
@@ -5581,7 +5617,7 @@
  "igdb:14366": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:08+00:00",
+  "checked": "2026-11-06T17:38:49+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "until-dawn-rush-of-blood",
@@ -5630,7 +5666,7 @@
  "igdb:14389": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:05+00:00",
+  "checked": "2026-11-06T17:39:32+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "friday-the-13th-the-game",
@@ -5705,7 +5741,7 @@
  "igdb:144072": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:35+00:00",
+  "checked": "2026-11-06T17:39:52+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "hot-wheels-unleashed",
@@ -5812,7 +5848,7 @@
  "igdb:145004": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:20+00:00",
+  "checked": "2026-11-06T17:36:36+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "total-war-rome-remastered",
@@ -5824,8 +5860,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 77,
-  "steam_reviews": 13831
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:14501": {
   "backloggd": 3.3,
@@ -6332,7 +6370,7 @@
  "igdb:148696": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:04+00:00",
+  "checked": "2026-11-06T17:42:26+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "virtua-fighter-5-ultimate-showdown",
@@ -6551,7 +6589,7 @@
  "igdb:152": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:59+00:00",
+  "checked": "2026-11-06T17:32:33+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "star-wars-jedi-knight-ii-jedi-outcast",
@@ -6563,8 +6601,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 4975
+  "steam_mc": 89,
+  "steam_mc_slug": "star-wars-jedi-knight-ii-jedi-outcast",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1520": {
   "backloggd": 4.3,
@@ -6984,7 +7024,7 @@
  "igdb:154814": {
   "backloggd": 2.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:12+00:00",
+  "checked": "2026-11-06T17:43:22+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "arcadegeddon",
@@ -7051,7 +7091,7 @@
  "igdb:156151": {
   "backloggd": 2.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:09+00:00",
+  "checked": "2026-11-06T17:43:19+00:00",
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "nickelodeon-all-star-brawl",
@@ -7188,7 +7228,7 @@
  "igdb:158983": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:35+00:00",
+  "checked": "2026-11-06T17:36:52+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -7200,8 +7240,10 @@
   "steam_genres": [
    "RPG"
   ],
-  "steam_pct": 92,
-  "steam_reviews": 3085
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:15901": {
   "backloggd": 3.4,
@@ -7607,7 +7649,7 @@
  "igdb:168670": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:21+00:00",
+  "checked": "2026-11-06T17:38:20+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "uncharted-legacy-of-thieves-collection",
@@ -7718,7 +7760,7 @@
  "igdb:17": {
   "backloggd": 2.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:29+00:00",
+  "checked": "2026-11-06T17:33:59+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "fallout-tactics-brotherhood-of-steel",
@@ -7726,8 +7768,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 79,
-  "steam_reviews": 2957
+  "steam_mc": 82,
+  "steam_mc_slug": "fallout-tactics-brotherhood-of-steel",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1700": {
   "backloggd": 3.3,
@@ -7772,10 +7816,10 @@
  "igdb:17032": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:59+00:00",
+  "checked": "2026-11-06T17:35:29+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 80,
+  "metacritic_slug": "darkwood",
   "oc_checked": "2026-10-07T01:21:01+00:00",
   "opencritic": 77,
   "opencritic_id": 4738,
@@ -7787,8 +7831,10 @@
    "RPG",
    "Strategy"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 25085
+  "steam_mc": 80,
+  "steam_mc_slug": "darkwood",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1704": {
   "backloggd": 4.0,
@@ -8205,7 +8251,7 @@
  "igdb:178123": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:06+00:00",
+  "checked": "2026-11-06T17:40:12+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -8276,7 +8322,7 @@
  "igdb:178351": {
   "backloggd": 2.4,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:41+00:00",
+  "checked": "2026-11-06T17:36:58+00:00",
   "mc_v": 2,
   "metacritic": 91,
   "metacritic_slug": "crab-game",
@@ -8292,8 +8338,10 @@
    "Indie",
    "Racing"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 150989
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:178361": {
   "backloggd": 2.9,
@@ -8381,7 +8429,7 @@
  "igdb:18": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:34+00:00",
+  "checked": "2026-11-06T17:33:08+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "max-payne",
@@ -8393,8 +8441,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 89,
-  "steam_reviews": 15915
+  "steam_mc": 89,
+  "steam_mc_slug": "max-payne",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1800": {
   "backloggd": 4.1,
@@ -8435,7 +8485,7 @@
  "igdb:180298": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:43+00:00",
+  "checked": "2026-11-06T17:42:56+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
@@ -8634,7 +8684,7 @@
  "igdb:18320": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:57+00:00",
+  "checked": "2026-11-06T17:41:29+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "battlefield-1",
@@ -8647,7 +8697,7 @@
  "igdb:18357": {
   "backloggd": 2.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:41+00:00",
+  "checked": "2026-11-06T17:42:04+00:00",
   "mc_v": 2,
   "metacritic": 67,
   "metacritic_slug": "oddworld-soulstorm",
@@ -8704,7 +8754,7 @@
  "igdb:18433": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:18+00:00",
+  "checked": "2026-11-06T17:38:57+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "overcooked",
@@ -8885,7 +8935,7 @@
  "igdb:186725": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:23:09+00:00",
+  "checked": "2026-11-06T17:37:30+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "vampire-survivors",
@@ -8934,16 +8984,18 @@
  "igdb:1871": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:11+00:00",
+  "checked": "2026-11-06T17:34:40+00:00",
   "mc_v": 2,
-  "metacritic": 32,
-  "metacritic_slug": "the-walking-dead",
+  "metacritic": 82,
+  "metacritic_slug": "the-walking-dead-episode-1---a-new-day",
   "oc_checked": "2026-10-07T01:21:32+00:00",
   "steam_genres": [
    "Adventure"
   ],
-  "steam_pct": 97,
-  "steam_reviews": 80762
+  "steam_mc": 82,
+  "steam_mc_slug": "the-walking-dead-episode-1---a-new-day",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:18718": {
   "backloggd": 3.6,
@@ -8958,7 +9010,7 @@
  "igdb:1876": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:47+00:00",
+  "checked": "2026-11-06T17:33:20+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "spore",
@@ -8971,13 +9023,15 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 72916
+  "steam_mc": 84,
+  "steam_mc_slug": "spore",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1877": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:13+00:00",
+  "checked": "2026-11-06T17:39:37+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "cyberpunk-2077",
@@ -9091,7 +9145,7 @@
  "igdb:18918": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:49+00:00",
+  "checked": "2026-11-06T17:36:11+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "northgard",
@@ -9106,8 +9160,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 85,
-  "steam_reviews": 68809
+  "steam_mc": 81,
+  "steam_mc_slug": "northgard",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:18967": {
   "backloggd": 3.8,
@@ -9132,7 +9188,7 @@
  "igdb:19": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:38+00:00",
+  "checked": "2026-11-06T17:33:11+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "max-payne-2-the-fall-of-max-payne",
@@ -9144,8 +9200,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 14820
+  "steam_mc": 86,
+  "steam_mc_slug": "max-payne-2-the-fall-of-max-payne",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1905": {
   "backloggd": 3.1,
@@ -9203,7 +9261,7 @@
  "igdb:191406": {
   "backloggd": 4.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:23:01+00:00",
+  "checked": "2026-11-06T17:37:23+00:00",
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "portal-companion-collection",
@@ -9238,7 +9296,7 @@
  "igdb:19245": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:51+00:00",
+  "checked": "2026-11-06T17:40:47+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "batman-return-to-arkham",
@@ -9300,7 +9358,7 @@
  "igdb:19348": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:28+00:00",
+  "checked": "2026-11-06T17:32:01+00:00",
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "half-life-deathmatch-source",
@@ -9308,13 +9366,15 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 76,
-  "steam_reviews": 5604
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:1937": {
   "backloggd": 2.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:42+00:00",
+  "checked": "2026-11-06T17:40:40+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "killzone-shadow-fall",
@@ -9327,7 +9387,7 @@
  "igdb:1940": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:21+00:00",
+  "checked": "2026-11-06T17:39:44+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "driveclub",
@@ -9340,7 +9400,7 @@
  "igdb:1941": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:04+00:00",
+  "checked": "2026-11-06T17:41:37+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "infamous-second-son",
@@ -9415,7 +9475,7 @@
  "igdb:194404": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:48+00:00",
+  "checked": "2026-11-06T17:38:34+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "the-quarry",
@@ -9463,7 +9523,7 @@
  "igdb:19456": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:23:06+00:00",
+  "checked": "2026-11-06T17:37:28+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "ori-and-the-blind-forest-definitive-edition",
@@ -9489,7 +9549,7 @@
  "igdb:19470": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:19+00:00",
+  "checked": "2026-11-06T17:39:42+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "injustice-2",
@@ -9589,7 +9649,7 @@
  "igdb:19560": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:27+00:00",
+  "checked": "2026-11-06T17:37:45+00:00",
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "god-of-war",
@@ -9602,7 +9662,7 @@
  "igdb:19561": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:02+00:00",
+  "checked": "2026-11-06T17:41:34+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "days-gone",
@@ -9615,7 +9675,7 @@
  "igdb:19562": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:46+00:00",
+  "checked": "2026-11-06T17:40:43+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "resident-evil-7-biohazard",
@@ -9641,7 +9701,7 @@
  "igdb:19565": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:45+00:00",
+  "checked": "2026-11-06T17:37:53+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "marvels-spider-man",
@@ -9707,7 +9767,7 @@
  "igdb:1968": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:40+00:00",
+  "checked": "2026-11-06T17:39:12+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "rayman-legends",
@@ -9850,7 +9910,7 @@
  "igdb:19839": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:31+00:00",
+  "checked": "2026-11-06T17:38:26+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "bioshock-the-collection",
@@ -9987,7 +10047,7 @@
  "igdb:20": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:14+00:00",
+  "checked": "2026-11-06T17:32:49+00:00",
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "bioshock",
@@ -9996,8 +10056,10 @@
    "Action",
    "RPG"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 32249
+  "steam_mc": 96,
+  "steam_mc_slug": "bioshock",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:20008": {
   "backloggd": 3.9,
@@ -10011,7 +10073,7 @@
  "igdb:2003": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:14+00:00",
+  "checked": "2026-11-06T17:34:44+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "batman-arkham-origins",
@@ -10020,8 +10082,10 @@
    "Action",
    "Adventure"
   ],
-  "steam_pct": 90,
-  "steam_reviews": 65764
+  "steam_mc": 74,
+  "steam_mc_slug": "batman-arkham-origins",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:20031": {
   "backloggd": 2.8,
@@ -10237,9 +10301,9 @@
   "oc_checked": "2026-10-28T04:07:46+00:00"
  },
  "igdb:202539": {
-  "backloggd": 3.5,
+  "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:00+00:00",
+  "checked": "2026-11-06T17:39:27+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "drums-rock",
@@ -10984,7 +11048,7 @@
  "igdb:21": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:18+00:00",
+  "checked": "2026-11-06T17:32:52+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "bioshock-2",
@@ -10992,8 +11056,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 89,
-  "steam_reviews": 14998
+  "steam_mc": 88,
+  "steam_mc_slug": "bioshock-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:21007": {
   "backloggd": 3.2,
@@ -11097,7 +11163,7 @@
  "igdb:21063": {
   "backloggd": 1.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:19+00:00",
+  "checked": "2026-11-06T17:40:23+00:00",
   "mc_v": 2,
   "metacritic": 57,
   "metacritic_slug": "sonic-forces",
@@ -11566,17 +11632,19 @@
  "igdb:21704": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:02+00:00",
+  "checked": "2026-11-06T17:34:31+00:00",
   "mc_v": 2,
-  "metacritic": 99,
-  "metacritic_slug": "batman-arkham-city-game-of-the-year-edition",
+  "metacritic": 91,
+  "metacritic_slug": "batman-arkham-city",
   "oc_checked": "2026-10-14T15:12:21+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 78610
+  "steam_mc": 91,
+  "steam_mc_slug": "batman-arkham-city",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:21727": {
   "backloggd": 3.9,
@@ -11932,7 +12000,7 @@
  "igdb:22": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:37+00:00",
+  "checked": "2026-11-06T17:35:06+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "system-shock-2",
@@ -11941,8 +12009,10 @@
    "Action",
    "RPG"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 7850
+  "steam_mc": 92,
+  "steam_mc_slug": "system-shock-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:22012": {
   "backloggd": 2.8,
@@ -11978,7 +12048,7 @@
  "igdb:222803": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:44+00:00",
+  "checked": "2026-11-06T17:37:00+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "age-of-mythology-retold",
@@ -11990,8 +12060,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 90,
-  "steam_reviews": 23653
+  "steam_mc": 83,
+  "steam_mc_slug": "age-of-mythology-retold",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:22301": {
   "backloggd": 3.7,
@@ -12006,17 +12078,19 @@
  "igdb:22344": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:05+00:00",
+  "checked": "2026-11-06T17:35:35+00:00",
   "mc_v": 2,
-  "metacritic": 93,
-  "metacritic_slug": "rise-of-nations-extended-edition",
+  "metacritic": 89,
+  "metacritic_slug": "rise-of-nations",
   "oc_checked": "2026-10-19T17:00:33+00:00",
   "steam_genres": [
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 15925
+  "steam_mc": 89,
+  "steam_mc_slug": "rise-of-nations",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:22358": {
   "backloggd": 3.2,
@@ -12419,7 +12493,7 @@
  "igdb:231": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:17+00:00",
+  "checked": "2026-11-06T17:31:51+00:00",
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "half-life",
@@ -12427,8 +12501,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 164695
+  "steam_mc": 96,
+  "steam_mc_slug": "half-life",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:231090": {
   "backloggd": 3.5,
@@ -12545,7 +12621,7 @@
  "igdb:23248": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:15+00:00",
+  "checked": "2026-11-06T17:35:41+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "frostpunk",
@@ -12558,8 +12634,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 137851
+  "steam_mc": 84,
+  "steam_mc_slug": "frostpunk",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:232699": {
   "backloggd": 3.8,
@@ -12604,7 +12682,7 @@
  "igdb:233": {
   "backloggd": 4.4,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:20+00:00",
+  "checked": "2026-11-06T17:31:54+00:00",
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "half-life-2",
@@ -12612,8 +12690,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 98,
-  "steam_reviews": 280413
+  "steam_mc": 96,
+  "steam_mc_slug": "half-life-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:2330": {
   "backloggd": 3.5,
@@ -12658,7 +12738,7 @@
  "igdb:23354": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:43+00:00",
+  "checked": "2026-11-06T17:39:57+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "injustice-gods-among-us-ultimate-edition",
@@ -12798,9 +12878,9 @@
  "igdb:2354": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:17+00:00",
+  "checked": "2026-11-06T17:34:47+00:00",
   "mc_v": 2,
-  "metacritic": 68,
+  "metacritic": 78,
   "metacritic_slug": "deadlight",
   "oc_checked": "2026-10-07T01:21:36+00:00",
   "steam_genres": [
@@ -12808,8 +12888,10 @@
    "Adventure",
    "Indie"
   ],
-  "steam_pct": 79,
-  "steam_reviews": 12779
+  "steam_mc": 78,
+  "steam_mc_slug": "deadlight",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:236": {
   "backloggd": 3.6,
@@ -13017,9 +13099,9 @@
   "oc_checked": "2026-11-03T04:17:54+00:00"
  },
  "igdb:241954": {
-  "backloggd": 3.1,
+  "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:50+00:00",
+  "checked": "2026-11-06T17:37:07+00:00",
   "mc_v": 2,
   "metacritic": 60,
   "metacritic_slug": "little-big-adventure-twinsens-quest",
@@ -13033,8 +13115,10 @@
    "Adventure",
    "Indie"
   ],
-  "steam_pct": 89,
-  "steam_reviews": 816
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:242151": {
   "backloggd": 3.0,
@@ -13307,7 +13391,7 @@
  "igdb:25009": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:12+00:00",
+  "checked": "2026-11-06T17:35:39+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "fahrenheit-indigo-prophecy-remastered",
@@ -13320,8 +13404,10 @@
    "Adventure",
    "RPG"
   ],
-  "steam_pct": 79,
-  "steam_reviews": 8947
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:250106": {},
  "igdb:250107": {},
@@ -13450,7 +13536,7 @@
  "igdb:25076": {
   "backloggd": 4.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:10+00:00",
+  "checked": "2026-11-06T17:41:02+00:00",
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "red-dead-redemption-2",
@@ -13643,7 +13729,7 @@
  "igdb:25358": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:05+00:00",
+  "checked": "2026-11-06T17:32:39+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "deus-ex",
@@ -13651,13 +13737,15 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 15718
+  "steam_mc": 90,
+  "steam_mc_slug": "deus-ex",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:253646": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:23:04+00:00",
+  "checked": "2026-11-06T17:37:25+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "the-lara-croft-collection",
@@ -13727,7 +13815,7 @@
  "igdb:25632": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:26+00:00",
+  "checked": "2026-11-06T17:39:05+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "superhot-vr",
@@ -13860,7 +13948,7 @@
  "igdb:260": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:42+00:00",
+  "checked": "2026-11-06T17:34:12+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "the-sims-3",
@@ -13872,8 +13960,10 @@
   "steam_genres": [
    "Simulation"
   ],
-  "steam_pct": 86,
-  "steam_reviews": 34407
+  "steam_mc": 86,
+  "steam_mc_slug": "the-sims-3",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:260028": {
   "backloggd": 3.3,
@@ -13913,7 +14003,7 @@
  "igdb:26192": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:53+00:00",
+  "checked": "2026-11-06T17:38:01+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "the-last-of-us-part-ii",
@@ -13926,7 +14016,7 @@
  "igdb:26195": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:46+00:00",
+  "checked": "2026-11-06T17:39:59+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "wipeout-omega-collection",
@@ -13939,7 +14029,7 @@
  "igdb:26196": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:08+00:00",
+  "checked": "2026-11-06T17:38:13+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "crash-bandicoot-n-sane-trilogy",
@@ -13982,7 +14072,7 @@
  "igdb:26228": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:58+00:00",
+  "checked": "2026-11-06T17:39:24+00:00",
   "mc_v": 2,
   "metacritic": 65,
   "metacritic_slug": "dino-frontier",
@@ -14004,7 +14094,7 @@
  "igdb:26231": {
   "backloggd": 2.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:01+00:00",
+  "checked": "2026-11-06T17:40:07+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "starblood-arena",
@@ -14342,7 +14432,7 @@
  "igdb:27092": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:14+00:00",
+  "checked": "2026-11-06T17:41:44+00:00",
   "mc_v": 2,
   "metacritic": 72,
   "metacritic_slug": "greedfall",
@@ -14364,7 +14454,7 @@
  "igdb:27134": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:16+00:00",
+  "checked": "2026-11-06T17:38:54+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "deep-rock-galactic",
@@ -14485,7 +14575,7 @@
  "igdb:27316": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:01+00:00",
+  "checked": "2026-11-06T17:42:24+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "a-plague-tale-innocence",
@@ -14588,7 +14678,7 @@
  "igdb:27421": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:36+00:00",
+  "checked": "2026-11-06T17:41:21+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "middle-earth-shadow-of-war",
@@ -14627,7 +14717,7 @@
  "igdb:27506": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:37+00:00",
+  "checked": "2026-11-06T17:39:54+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "sprint-vector",
@@ -14697,46 +14787,52 @@
  "igdb:27827": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:44+00:00",
+  "checked": "2026-11-06T17:33:17+00:00",
   "mc_v": 2,
-  "metacritic": 81,
+  "metacritic": 79,
   "metacritic_slug": "assassins-creed-directors-cut-edition",
   "oc_checked": "2026-10-07T01:21:31+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
   ],
-  "steam_pct": 81,
-  "steam_reviews": 25513
+  "steam_mc": 79,
+  "steam_mc_slug": "assassins-creed-directors-cut-edition",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:27862": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:20+00:00",
+  "checked": "2026-11-06T17:33:50+00:00",
   "mc_v": 2,
-  "metacritic": 96,
-  "metacritic_slug": "batman-arkham-asylum-game-of-the-year-edition",
+  "metacritic": 91,
+  "metacritic_slug": "batman-arkham-asylum",
   "oc_checked": "2026-10-07T01:21:30+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 88070
+  "steam_mc": 91,
+  "steam_mc_slug": "batman-arkham-asylum",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:27911": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:39+00:00",
+  "checked": "2026-11-06T17:34:09+00:00",
   "mc_v": 2,
-  "metacritic": 96,
-  "metacritic_slug": "dragon-age-origins-ultimate-edition",
+  "metacritic": 91,
+  "metacritic_slug": "dragon-age-origins",
   "oc_checked": "2026-10-16T04:52:10+00:00",
   "steam_genres": [
    "RPG"
   ],
-  "steam_pct": 86,
-  "steam_reviews": 31537
+  "steam_mc": 91,
+  "steam_mc_slug": "dragon-age-origins",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:27920": {
   "backloggd": 3.8,
@@ -14806,7 +14902,7 @@
  "igdb:28028": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:55+00:00",
+  "checked": "2026-11-06T17:36:17+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "total-war-warhammer-ii",
@@ -14819,8 +14915,10 @@
    "Action",
    "Strategy"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 121476
+  "steam_mc": 87,
+  "steam_mc_slug": "total-war-warhammer-ii",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:281414": {
   "backloggd": 3.8,
@@ -15076,17 +15174,19 @@
  "igdb:28723": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:52+00:00",
+  "checked": "2026-11-06T17:34:21+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 81,
+  "metacritic_slug": "age-of-empires-iii",
   "oc_checked": "2026-10-19T17:00:21+00:00",
   "steam_genres": [
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 32264
+  "steam_mc": 81,
+  "steam_mc_slug": "age-of-empires-iii",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:287835": {},
  "igdb:287848": {
@@ -15197,16 +15297,18 @@
  "igdb:28981": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:46+00:00",
+  "checked": "2026-11-06T17:32:20+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 86,
+  "metacritic_slug": "warhammer-40000-dawn-of-war",
   "oc_checked": "2026-10-10T15:56:29+00:00",
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 11966
+  "steam_mc": 86,
+  "steam_mc_slug": "warhammer-40000-dawn-of-war",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:2899": {
   "backloggd": 4.3,
@@ -15220,7 +15322,7 @@
  "igdb:2903": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:04+00:00",
+  "checked": "2026-11-06T17:40:09+00:00",
   "mc_v": 2,
   "metacritic": 64,
   "metacritic_slug": "warframe",
@@ -15288,7 +15390,7 @@
  "igdb:294041": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:02+00:00",
+  "checked": "2026-11-06T17:39:29+00:00",
   "mc_v": 2,
   "metacritic": 74,
   "metacritic_slug": "marvel-rivals",
@@ -15314,7 +15416,7 @@
  "igdb:2950": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:24+00:00",
+  "checked": "2026-11-06T17:34:53+00:00",
   "mc_v": 2,
   "metacritic": 68,
   "metacritic_slug": "age-of-empires-ii-hd-edition",
@@ -15322,8 +15424,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 102897
+  "steam_mc": 68,
+  "steam_mc_slug": "age-of-empires-ii-hd-edition",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:2955": {
   "backloggd": 3.3,
@@ -15341,7 +15445,7 @@
  "igdb:2957": {
   "backloggd": 2.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:15+00:00",
+  "checked": "2026-11-06T17:37:40+00:00",
   "mc_v": 2,
   "metacritic": 54,
   "metacritic_slug": "knack",
@@ -15363,7 +15467,7 @@
  "igdb:2963": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:36+00:00",
+  "checked": "2026-11-06T17:32:10+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "dota-2",
@@ -15377,8 +15481,10 @@
    "Strategy",
    "Free To Play"
   ],
-  "steam_pct": 80,
-  "steam_reviews": 2792140
+  "steam_mc": 90,
+  "steam_mc_slug": "dota-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:296843": {
   "backloggd": 3.5,
@@ -15436,18 +15542,20 @@
  "igdb:2993": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:46+00:00",
+  "checked": "2026-11-06T17:35:16+00:00",
   "mc_v": 2,
-  "metacritic": 80,
-  "metacritic_slug": "the-wolf-among-us",
+  "metacritic": 85,
+  "metacritic_slug": "the-wolf-among-us-episode-1---faith",
   "oc_checked": "2026-10-11T16:21:02+00:00",
   "steam_genres": [
    "Action",
    "Adventure",
    "Casual"
   ],
-  "steam_pct": 98,
-  "steam_reviews": 40338
+  "steam_mc": 85,
+  "steam_mc_slug": "the-wolf-among-us-episode-1---faith",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:299391": {},
  "igdb:299582": {
@@ -15490,7 +15598,7 @@
  "igdb:3025": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:21+00:00",
+  "checked": "2026-11-06T17:38:59+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "middle-earth-shadow-of-mordor",
@@ -15684,7 +15792,7 @@
  "igdb:306148": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:23:16+00:00",
+  "checked": "2026-11-06T17:37:33+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "super-mario-party-jamboree",
@@ -15884,7 +15992,7 @@
  "igdb:3146": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:22+00:00",
+  "checked": "2026-11-06T17:40:26+00:00",
   "mc_v": 2,
   "metacritic": 76,
   "metacritic_slug": "plants-vs-zombies-garden-warfare",
@@ -15942,7 +16050,7 @@
  "igdb:317407": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:30+00:00",
+  "checked": "2026-11-06T17:39:07+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "battlefield-6",
@@ -16121,7 +16229,7 @@
  "igdb:3225": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:13+00:00",
+  "checked": "2026-11-06T17:40:18+00:00",
   "mc_v": 2,
   "metacritic": 71,
   "metacritic_slug": "no-mans-sky",
@@ -16135,7 +16243,7 @@
  "igdb:32365": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:08:22+00:00",
+  "checked": "2026-11-06T17:42:39+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -16627,7 +16735,7 @@
  "igdb:338084": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:26+00:00",
+  "checked": "2026-11-06T17:38:24+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "yakuza-0-directors-cut",
@@ -16820,10 +16928,10 @@
  "igdb:34293": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:39+00:00",
+  "checked": "2026-11-06T17:36:01+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 80,
+  "metacritic_slug": "bioshock-the-collection",
   "oc_checked": "2026-10-07T01:20:50+00:00",
   "opencritic": null,
   "opencritic_id": 9556,
@@ -16833,13 +16941,15 @@
    "Action",
    "RPG"
   ],
-  "steam_pct": 83,
-  "steam_reviews": 65319
+  "steam_mc": 80,
+  "steam_mc_slug": "bioshock-the-collection",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:34294": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:42+00:00",
+  "checked": "2026-11-06T17:36:05+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -16852,8 +16962,10 @@
    "Action",
    "RPG"
   ],
-  "steam_pct": 72,
-  "steam_reviews": 30433
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:343397": {
   "backloggd": 3.3,
@@ -16962,9 +17074,9 @@
  "igdb:347127": {},
  "igdb:347129": {},
  "igdb:347132": {
-  "backloggd": 3.7,
+  "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:16+00:00",
+  "checked": "2026-11-06T17:39:39+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "marvel-tokon-fighting-souls",
@@ -17067,7 +17179,7 @@
  "igdb:349524": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:54+00:00",
+  "checked": "2026-11-06T17:37:13+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "peak",
@@ -17081,8 +17193,10 @@
    "Adventure",
    "Indie"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 377784
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:349562": {
   "backloggd": 3.4,
@@ -17261,7 +17375,7 @@
  "igdb:359": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:09+00:00",
+  "checked": "2026-11-06T17:41:39+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "final-fantasy-xv",
@@ -17396,7 +17510,7 @@
  "igdb:36550": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:15+00:00",
+  "checked": "2026-11-06T17:43:24+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "yakuza-like-a-dragon",
@@ -17505,7 +17619,7 @@
  "igdb:36662": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:31+00:00",
+  "checked": "2026-11-06T17:41:16+00:00",
   "mc_v": 2,
   "metacritic": 61,
   "metacritic_slug": "need-for-speed-payback",
@@ -17603,7 +17717,7 @@
  "igdb:36897": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:00+00:00",
+  "checked": "2026-11-06T17:38:44+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "a-way-out",
@@ -17720,7 +17834,7 @@
  "igdb:37088": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:08+00:00",
+  "checked": "2026-11-06T17:40:15+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "the-elder-scrolls-v-skyrim-vr",
@@ -17892,9 +18006,9 @@
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:37282": {
-  "backloggd": 2.6,
+  "backloggd": 2.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:51+00:00",
+  "checked": "2026-11-06T17:40:02+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -17944,7 +18058,7 @@
  "igdb:3772": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:51+00:00",
+  "checked": "2026-11-06T17:42:14+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "wreckfest",
@@ -17970,7 +18084,7 @@
  "igdb:37777": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:12+00:00",
+  "checked": "2026-11-06T17:41:41+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "shadow-of-the-tomb-raider",
@@ -17992,17 +18106,19 @@
  "igdb:38": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:36+00:00",
+  "checked": "2026-11-06T17:34:05+00:00",
   "mc_v": 2,
-  "metacritic": 90,
+  "metacritic": 87,
   "metacritic_slug": "dead-space-2",
   "oc_checked": "2026-10-11T16:21:06+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 30130
+  "steam_mc": 87,
+  "steam_mc_slug": "dead-space-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:381": {
   "backloggd": 2.9,
@@ -18342,7 +18458,7 @@
  "igdb:40477": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:04+00:00",
+  "checked": "2026-11-06T17:36:20+00:00",
   "mc_v": 2,
   "metacritic": 89,
   "metacritic_slug": "slay-the-spire",
@@ -18355,13 +18471,15 @@
    "Indie",
    "Strategy"
   ],
-  "steam_pct": 97,
-  "steam_reviews": 219177
+  "steam_mc": 89,
+  "steam_mc_slug": "slay-the-spire",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:405028": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:59+00:00",
+  "checked": "2026-11-06T17:37:21+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "meccha-chameleon",
@@ -18373,8 +18491,10 @@
   "steam_genres": [
    "Casual"
   ],
-  "steam_pct": 88,
-  "steam_reviews": 90398
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:40531": {
   "backloggd": 2.4,
@@ -18569,7 +18689,7 @@
  "igdb:41595": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:38+00:00",
+  "checked": "2026-11-06T17:40:37+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -18616,16 +18736,18 @@
  "igdb:42": {
   "backloggd": 2.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:08+00:00",
+  "checked": "2026-11-06T17:32:42+00:00",
   "mc_v": 2,
-  "metacritic": 84,
+  "metacritic": 80,
   "metacritic_slug": "deus-ex-invisible-war",
   "oc_checked": "2026-10-15T15:05:31+00:00",
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 58,
-  "steam_reviews": 2514
+  "steam_mc": 80,
+  "steam_mc_slug": "deus-ex-invisible-war",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:4207": {
   "backloggd": 2.6,
@@ -19160,7 +19282,7 @@
  "igdb:438": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:52+00:00",
+  "checked": "2026-11-06T17:32:27+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "rome-total-war",
@@ -19168,8 +19290,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 16760
+  "steam_mc": 92,
+  "steam_mc_slug": "rome-total-war",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:4380": {
   "backloggd": 2.8,
@@ -19327,7 +19451,7 @@
  "igdb:446": {
   "backloggd": 2.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:55+00:00",
+  "checked": "2026-11-06T17:32:29+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "rome-total-war-alexander",
@@ -19335,8 +19459,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 76,
-  "steam_reviews": 933
+  "steam_mc": 79,
+  "steam_mc_slug": "rome-total-war-alexander",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:4471": {
   "backloggd": 1.7,
@@ -19628,7 +19754,7 @@
  "igdb:465": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:28+00:00",
+  "checked": "2026-11-06T17:33:02+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "warhammer-40-000-dawn-of-war-winter-assault",
@@ -19636,8 +19762,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 88,
-  "steam_reviews": 2544
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:46557": {},
  "igdb:46586": {
@@ -19652,16 +19780,18 @@
  "igdb:467": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:49+00:00",
+  "checked": "2026-11-06T17:32:23+00:00",
   "mc_v": 2,
   "metacritic": 87,
-  "metacritic_slug": "warhammer-40-000-dawn-of-war-dark-crusade",
+  "metacritic_slug": "warhammer-40000-dawn-of-war---dark-crusade",
   "oc_checked": "2026-10-15T15:05:49+00:00",
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 9552
+  "steam_mc": 87,
+  "steam_mc_slug": "warhammer-40000-dawn-of-war---dark-crusade",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:46768": {
   "backloggd": 2.9,
@@ -19675,7 +19805,7 @@
  "igdb:468": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:32+00:00",
+  "checked": "2026-11-06T17:33:05+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "warhammer-40-000-dawn-of-war-soulstorm",
@@ -19683,8 +19813,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 18545
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:46800": {
   "backloggd": 3.1,
@@ -19769,14 +19901,16 @@
  "igdb:47400": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:49+00:00",
+  "checked": "2026-11-06T17:34:19+00:00",
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "dead-island-game-of-the-year-edition",
   "oc_checked": "2026-10-07T01:21:38+00:00",
   "steam_genres": [],
-  "steam_pct": 87,
-  "steam_reviews": 20533
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:47498": {
   "backloggd": 2.6,
@@ -19870,7 +20004,7 @@
  "igdb:4786": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:43+00:00",
+  "checked": "2026-11-06T17:37:50+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "the-evil-within",
@@ -20302,7 +20436,7 @@
  "igdb:5082": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:30+00:00",
+  "checked": "2026-11-06T17:35:00+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "divinity-original-sin",
@@ -20317,8 +20451,10 @@
    "RPG",
    "Strategy"
   ],
-  "steam_pct": 92,
-  "steam_reviews": 11917
+  "steam_mc": 87,
+  "steam_mc_slug": "divinity-original-sin",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:5122": {
   "backloggd": 4.4,
@@ -20368,44 +20504,50 @@
  "igdb:517": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:54+00:00",
+  "checked": "2026-11-06T17:33:27+00:00",
   "mc_v": 2,
   "metacritic": 88,
-  "metacritic_slug": "f-e-a-r",
+  "metacritic_slug": "fear",
   "oc_checked": "2026-10-07T01:21:35+00:00",
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 19628
+  "steam_mc": 88,
+  "steam_mc_slug": "fear",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:518": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:57+00:00",
+  "checked": "2026-11-06T17:33:30+00:00",
   "mc_v": 2,
-  "metacritic": 75,
-  "metacritic_slug": "f-e-a-r-extraction-point",
+  "metacritic": 88,
+  "metacritic_slug": "fear",
   "oc_checked": "2026-10-15T15:05:32+00:00",
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 87,
-  "steam_reviews": 1887
+  "steam_mc": 88,
+  "steam_mc_slug": "fear",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:519": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:01+00:00",
+  "checked": "2026-11-06T17:33:33+00:00",
   "mc_v": 2,
-  "metacritic": 61,
-  "metacritic_slug": "f-e-a-r-perseus-mandate",
+  "metacritic": 88,
+  "metacritic_slug": "fear",
   "oc_checked": "2026-10-15T15:05:43+00:00",
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 86,
-  "steam_reviews": 1398
+  "steam_mc": 88,
+  "steam_mc_slug": "fear",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:51948": {
   "backloggd": 3.3,
@@ -20468,7 +20610,7 @@
  "igdb:529": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:20+00:00",
+  "checked": "2026-11-06T17:34:50+00:00",
   "mc_v": 2,
   "metacritic": 88,
   "metacritic_slug": "far-cry-3",
@@ -20477,8 +20619,10 @@
    "Action",
    "Adventure"
   ],
-  "steam_pct": 88,
-  "steam_reviews": 134728
+  "steam_mc": 88,
+  "steam_mc_slug": "far-cry-3",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:5333": {
   "backloggd": 3.3,
@@ -20546,7 +20690,7 @@
  "igdb:538": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:21+00:00",
+  "checked": "2026-11-06T17:32:56+00:00",
   "mc_v": 2,
   "metacritic": 94,
   "metacritic_slug": "bioshock-infinite",
@@ -20554,8 +20698,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 145874
+  "steam_mc": 94,
+  "steam_mc_slug": "bioshock-infinite",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:5385": {
   "backloggd": 3.2,
@@ -20676,7 +20822,7 @@
  "igdb:54842": {
   "backloggd": 2.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:35+00:00",
+  "checked": "2026-11-06T17:40:35+00:00",
   "mc_v": 2,
   "metacritic": 66,
   "metacritic_slug": "biomutant",
@@ -20696,9 +20842,9 @@
   "oc_checked": "2026-11-03T04:33:31+00:00"
  },
  "igdb:54996": {
-  "backloggd": 3.3,
+  "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:06+00:00",
+  "checked": "2026-11-06T17:36:23+00:00",
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "jurassic-world-evolution",
@@ -20711,8 +20857,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 87,
-  "steam_reviews": 55330
+  "steam_mc": 69,
+  "steam_mc_slug": "jurassic-world-evolution",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:550": {
   "backloggd": 3.7,
@@ -20726,7 +20874,7 @@
  "igdb:55029": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:38+00:00",
+  "checked": "2026-11-06T17:36:54+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "age-of-empires-iv",
@@ -20738,13 +20886,15 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 86,
-  "steam_reviews": 96007
+  "steam_mc": 81,
+  "steam_mc_slug": "age-of-empires-iv",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:5503": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:04+00:00",
+  "checked": "2026-11-06T17:40:57+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "batman-arkham-knight",
@@ -20800,7 +20950,7 @@
  "igdb:55056": {
   "backloggd": 4.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:16+00:00",
+  "checked": "2026-11-06T17:36:33+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "age-of-empires-ii-definitive-edition",
@@ -20812,8 +20962,10 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 183099
+  "steam_mc": 84,
+  "steam_mc_slug": "age-of-empires-ii-definitive-edition",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:55059": {
   "backloggd": 3.5,
@@ -20827,7 +20979,7 @@
  "igdb:55163": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:04:27+00:00",
+  "checked": "2026-11-06T17:39:47+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "resident-evil-village",
@@ -20902,9 +21054,9 @@
  "igdb:5591": {
   "backloggd": 2.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:52+00:00",
+  "checked": "2026-11-06T17:35:22+00:00",
   "mc_v": 2,
-  "metacritic": 69,
+  "metacritic": 45,
   "metacritic_slug": "deus-ex-the-fall",
   "oc_checked": "2026-10-07T01:21:08+00:00",
   "opencritic": 47,
@@ -20916,8 +21068,10 @@
    "Adventure",
    "RPG"
   ],
-  "steam_pct": 37,
-  "steam_reviews": 4668
+  "steam_mc": 45,
+  "steam_mc_slug": "deus-ex-the-fall",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:5592": {
   "backloggd": 3.3,
@@ -21068,7 +21222,7 @@
  "igdb:6036": {
   "backloggd": 4.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:11+00:00",
+  "checked": "2026-11-06T17:38:52+00:00",
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "the-last-of-us-remastered",
@@ -21081,7 +21235,7 @@
  "igdb:6044": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:43+00:00",
+  "checked": "2026-11-06T17:35:13+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "invisible-inc",
@@ -21095,8 +21249,10 @@
    "Indie",
    "Strategy"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 5793
+  "steam_mc": 82,
+  "steam_mc_slug": "invisible-inc",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:6060": {
   "backloggd": 3.2,
@@ -21468,16 +21624,18 @@
  "igdb:65": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:06+00:00",
+  "checked": "2026-11-06T17:33:37+00:00",
   "mc_v": 2,
-  "metacritic": 88,
+  "metacritic": 86,
   "metacritic_slug": "the-secret-of-monkey-island-special-edition",
   "oc_checked": "2026-10-10T15:56:24+00:00",
   "steam_genres": [
    "Adventure"
   ],
-  "steam_pct": 95,
-  "steam_reviews": 6258
+  "steam_mc": 86,
+  "steam_mc_slug": "the-secret-of-monkey-island-special-edition",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:6502": {
   "backloggd": 3.0,
@@ -21581,7 +21739,7 @@
  "igdb:654": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:27+00:00",
+  "checked": "2026-11-06T17:34:56+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "company-of-heroes",
@@ -21590,8 +21748,10 @@
    "Action",
    "Strategy"
   ],
-  "steam_pct": 94,
-  "steam_reviews": 18842
+  "steam_mc": 93,
+  "steam_mc_slug": "company-of-heroes",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:65445": {
   "backloggd": 2.5,
@@ -22237,7 +22397,7 @@
  "igdb:72": {
   "backloggd": 4.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:39+00:00",
+  "checked": "2026-11-06T17:32:14+00:00",
   "mc_v": 2,
   "metacritic": 95,
   "metacritic_slug": "portal-2",
@@ -22246,13 +22406,15 @@
    "Action",
    "Adventure"
   ],
-  "steam_pct": 99,
-  "steam_reviews": 467822
+  "steam_mc": 95,
+  "steam_mc_slug": "portal-2",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:7205": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:27+00:00",
+  "checked": "2026-11-06T17:43:36+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "superhot",
@@ -22335,9 +22497,9 @@
  "igdb:731": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:41+00:00",
+  "checked": "2026-11-06T17:33:14+00:00",
   "mc_v": 2,
-  "metacritic": 98,
+  "metacritic": 90,
   "metacritic_slug": "grand-theft-auto-iv",
   "oc_checked": "2026-10-07T01:20:40+00:00",
   "opencritic": 95,
@@ -22348,8 +22510,10 @@
    "Action",
    "Adventure"
   ],
-  "steam_pct": 83,
-  "steam_reviews": 205633
+  "steam_mc": 90,
+  "steam_mc_slug": "grand-theft-auto-iv",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:7318": {
   "backloggd": 3.0,
@@ -22363,7 +22527,7 @@
  "igdb:7323": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:13+00:00",
+  "checked": "2026-11-06T17:41:05+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "rise-of-the-tomb-raider",
@@ -22376,7 +22540,7 @@
  "igdb:7327": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:58+00:00",
+  "checked": "2026-11-06T17:40:52+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "valiant-hearts-the-great-war",
@@ -22415,7 +22579,7 @@
  "igdb:7330": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:01+00:00",
+  "checked": "2026-11-06T17:40:55+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "littlebigplanet-3",
@@ -22441,7 +22605,7 @@
  "igdb:7334": {
   "backloggd": 4.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:40+00:00",
+  "checked": "2026-11-06T17:37:48+00:00",
   "mc_v": 2,
   "metacritic": 92,
   "metacritic_slug": "bloodborne",
@@ -22467,7 +22631,7 @@
  "igdb:7348": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:24+00:00",
+  "checked": "2026-11-06T17:36:40+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "halo-the-master-chief-collection",
@@ -22479,8 +22643,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 92,
-  "steam_reviews": 263081
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:7351": {
   "backloggd": 3.9,
@@ -22627,7 +22793,7 @@
  "igdb:74701": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:01:55+00:00",
+  "checked": "2026-11-06T17:38:03+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "star-wars-jedi-fallen-order",
@@ -22658,10 +22824,10 @@
  "igdb:7504": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:40+00:00",
+  "checked": "2026-11-06T17:35:09+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 83,
+  "metacritic_slug": "the-forest",
   "oc_checked": "2026-10-12T19:50:18+00:00",
   "opencritic": 81,
   "opencritic_id": 6029,
@@ -22673,8 +22839,10 @@
    "Indie",
    "Simulation"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 684020
+  "steam_mc": 83,
+  "steam_mc_slug": "the-forest",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:75235": {
   "backloggd": 4.2,
@@ -22692,7 +22860,7 @@
  "igdb:75238": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:31+00:00",
+  "checked": "2026-11-06T17:41:54+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "concrete-genie",
@@ -22705,7 +22873,7 @@
  "igdb:75240": {
   "backloggd": 2.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:15+00:00",
+  "checked": "2026-11-06T17:41:08+00:00",
   "mc_v": 2,
   "metacritic": 69,
   "metacritic_slug": "erica",
@@ -22770,7 +22938,7 @@
  "igdb:7599": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:24+00:00",
+  "checked": "2026-11-06T17:41:46+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "life-is-strange",
@@ -22884,17 +23052,19 @@
  "igdb:769": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:17+00:00",
+  "checked": "2026-11-06T17:33:46+00:00",
   "mc_v": 2,
-  "metacritic": 85,
+  "metacritic": 82,
   "metacritic_slug": "lara-croft-and-the-guardian-of-light",
   "oc_checked": "2026-10-10T15:56:25+00:00",
   "steam_genres": [
    "Action",
    "Adventure"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 4804
+  "steam_mc": 82,
+  "steam_mc_slug": "lara-croft-and-the-guardian-of-light",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:76904": {
   "backloggd": 3.1,
@@ -22922,7 +23092,7 @@
  "igdb:76966": {
   "backloggd": 2.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:16+00:00",
+  "checked": "2026-11-06T17:40:21+00:00",
   "mc_v": 2,
   "metacritic": 79,
   "metacritic_slug": "firewall-zero-hour",
@@ -22944,7 +23114,7 @@
  "igdb:7725": {
   "backloggd": 3.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:56+00:00",
+  "checked": "2026-11-06T17:40:50+00:00",
   "mc_v": 2,
   "metacritic": 75,
   "metacritic_slug": "resident-evil-revelations-2",
@@ -23202,7 +23372,7 @@
  "igdb:79653": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:37+00:00",
+  "checked": "2026-11-06T17:35:58+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -23212,8 +23382,10 @@
    "Adventure",
    "RPG"
   ],
-  "steam_pct": 98,
-  "steam_reviews": 940
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:79669": {
   "backloggd": 2.9,
@@ -23324,7 +23496,7 @@
  "igdb:80961": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:22:13+00:00",
+  "checked": "2026-11-06T17:36:29+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "total-war-three-kingdoms",
@@ -23337,13 +23509,15 @@
    "Action",
    "Strategy"
   ],
-  "steam_pct": 82,
-  "steam_reviews": 93875
+  "steam_mc": 85,
+  "steam_mc_slug": "total-war-three-kingdoms",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:81085": {
   "backloggd": 4.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:05:29+00:00",
+  "checked": "2026-11-06T17:40:31+00:00",
   "mc_v": 2,
   "metacritic": 84,
   "metacritic_slug": "dark-souls-remastered",
@@ -23485,7 +23659,7 @@
  "igdb:82117": {
   "backloggd": 3.2,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:52+00:00",
+  "checked": "2026-11-06T17:36:13+00:00",
   "mc_v": 2,
   "metacritic": 83,
   "metacritic_slug": "two-point-hospital",
@@ -23498,8 +23672,10 @@
    "Indie",
    "Simulation"
   ],
-  "steam_pct": 92,
-  "steam_reviews": 35014
+  "steam_mc": 83,
+  "steam_mc_slug": "two-point-hospital",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:8223": {
   "backloggd": 2.8,
@@ -23544,7 +23720,7 @@
  "igdb:8258": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:18+00:00",
+  "checked": "2026-11-06T17:41:10+00:00",
   "mc_v": 2,
   "metacritic": 77,
   "metacritic_slug": "street-fighter-v",
@@ -23592,7 +23768,7 @@
  "igdb:8351": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:03+00:00",
+  "checked": "2026-11-06T17:35:33+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "tabletop-simulator",
@@ -23604,8 +23780,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 74682
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:8353": {
   "backloggd": 4.4,
@@ -23632,7 +23810,7 @@
  "igdb:83728": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:46+00:00",
+  "checked": "2026-11-06T17:42:09+00:00",
   "mc_v": 2,
   "metacritic": 81,
   "metacritic_slug": "battlefield-v",
@@ -23645,7 +23823,7 @@
  "igdb:83731": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:06+00:00",
+  "checked": "2026-11-06T17:38:47+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "beat-saber",
@@ -23729,17 +23907,19 @@
  "igdb:84532": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:43+00:00",
+  "checked": "2026-11-06T17:32:17+00:00",
   "mc_v": 2,
-  "metacritic": null,
-  "metacritic_slug": null,
+  "metacritic": 93,
+  "metacritic_slug": "company-of-heroes",
   "oc_checked": "2026-10-07T01:21:37+00:00",
   "steam_genres": [
    "Action",
    "Strategy"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 7304
+  "steam_mc": 93,
+  "steam_mc_slug": "company-of-heroes",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:84616": {
   "backloggd": 3.0,
@@ -23852,7 +24032,7 @@
  "igdb:8515": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:32+00:00",
+  "checked": "2026-11-06T17:35:55+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -23862,8 +24042,10 @@
    "Adventure",
    "RPG"
   ],
-  "steam_pct": 88,
-  "steam_reviews": 456
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:85454": {
   "backloggd": 1.7,
@@ -24045,7 +24227,7 @@
  "igdb:866": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:18:26+00:00",
+  "checked": "2026-11-06T17:32:58+00:00",
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "sid-meiers-civilization-v",
@@ -24053,23 +24235,27 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 211023
+  "steam_mc": 90,
+  "steam_mc_slug": "sid-meiers-civilization-v",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:86652": {
   "backloggd": 3.7,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:33+00:00",
+  "checked": "2026-11-06T17:34:02+00:00",
   "mc_v": 2,
-  "metacritic": 93,
-  "metacritic_slug": "stronghold-hd",
+  "metacritic": 81,
+  "metacritic_slug": "stronghold",
   "oc_checked": "2026-10-18T14:03:35+00:00",
   "steam_genres": [
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 96,
-  "steam_reviews": 10460
+  "steam_mc": 81,
+  "steam_mc_slug": "stronghold",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:8682": {
   "backloggd": 4.0,
@@ -24087,7 +24273,7 @@
  "igdb:87210": {
   "backloggd": 2.7,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:07+00:00",
+  "checked": "2026-11-06T17:41:00+00:00",
   "mc_v": 2,
   "metacritic": 73,
   "metacritic_slug": "farming-simulator-19",
@@ -24100,7 +24286,7 @@
  "igdb:8729": {
   "backloggd": 3.0,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:33+00:00",
+  "checked": "2026-11-06T17:41:18+00:00",
   "mc_v": 2,
   "metacritic": 70,
   "metacritic_slug": "vampyr",
@@ -24122,7 +24308,7 @@
  "igdb:8751": {
   "backloggd": 2.3,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:49+00:00",
+  "checked": "2026-11-06T17:42:12+00:00",
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
@@ -24131,7 +24317,7 @@
  "igdb:87683": {
   "backloggd": 3.9,
   "bl_v": 2,
-  "checked": "2026-10-06T22:02:34+00:00",
+  "checked": "2026-11-06T17:38:28+00:00",
   "mc_v": 2,
   "metacritic": 82,
   "metacritic_slug": "spyro-reignited-trilogy",
@@ -24385,7 +24571,7 @@
  "igdb:9066": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:49+00:00",
+  "checked": "2026-11-06T17:35:19+00:00",
   "mc_v": 2,
   "metacritic": 85,
   "metacritic_slug": "cities-skylines",
@@ -24398,8 +24584,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 291181
+  "steam_mc": 85,
+  "steam_mc_slug": "cities-skylines",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:9083": {
   "backloggd": 2.3,
@@ -24502,7 +24690,7 @@
  "igdb:9174": {
   "backloggd": 3.8,
   "bl_v": 2,
-  "checked": "2026-10-06T22:09:19+00:00",
+  "checked": "2026-11-06T17:43:29+00:00",
   "mc_v": 2,
   "metacritic": 78,
   "metacritic_slug": "little-nightmares",
@@ -24586,7 +24774,7 @@
  "igdb:93832": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:19:14+00:00",
+  "checked": "2026-11-06T17:33:44+00:00",
   "mc_v": 2,
   "metacritic": 96,
   "metacritic_slug": "star-wars-empire-at-war-gold-pack",
@@ -24594,13 +24782,15 @@
   "steam_genres": [
    "Strategy"
   ],
-  "steam_pct": 98,
-  "steam_reviews": 43285
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:9471": {
   "backloggd": 3.1,
   "bl_v": 2,
-  "checked": "2026-10-06T21:17:24+00:00",
+  "checked": "2026-11-06T17:31:58+00:00",
   "mc_v": 2,
   "metacritic": 97,
   "metacritic_slug": "half-life-2-deathmatch",
@@ -24608,8 +24798,10 @@
   "steam_genres": [
    "Action"
   ],
-  "steam_pct": 91,
-  "steam_reviews": 15404
+  "steam_mc": null,
+  "steam_mc_slug": null,
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:948": {
   "backloggd": 3.9,
@@ -24624,9 +24816,9 @@
  "igdb:9498": {
   "backloggd": 3.6,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:18+00:00",
+  "checked": "2026-11-06T17:35:45+00:00",
   "mc_v": 2,
-  "metacritic": 84,
+  "metacritic": 83,
   "metacritic_slug": "deus-ex-mankind-divided",
   "oc_checked": "2026-10-07T01:20:44+00:00",
   "opencritic": 81,
@@ -24637,8 +24829,10 @@
    "Action",
    "RPG"
   ],
-  "steam_pct": 76,
-  "steam_reviews": 42373
+  "steam_mc": 83,
+  "steam_mc_slug": "deus-ex-mankind-divided",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:95062": {
   "backloggd": 3.9,
@@ -24801,7 +24995,7 @@
  "igdb:9630": {
   "backloggd": 3.4,
   "bl_v": 2,
-  "checked": "2026-10-06T22:07:59+00:00",
+  "checked": "2026-11-06T17:42:22+00:00",
   "mc_v": 2,
   "metacritic": 87,
   "metacritic_slug": "fallout-4",
@@ -24946,22 +25140,24 @@
  "igdb:9740": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:33+00:00",
+  "checked": "2026-11-06T17:35:03+00:00",
   "mc_v": 2,
-  "metacritic": 88,
-  "metacritic_slug": "deus-ex-human-revolution-directors-cut",
+  "metacritic": 91,
+  "metacritic_slug": "deus-ex-human-revolution---directors-cut",
   "oc_checked": "2026-10-14T15:12:14+00:00",
   "steam_genres": [
    "Action",
    "RPG"
   ],
-  "steam_pct": 92,
-  "steam_reviews": 30061
+  "steam_mc": 91,
+  "steam_mc_slug": "deus-ex-human-revolution---directors-cut",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:9741": {
   "backloggd": 2.5,
   "bl_v": 2,
-  "checked": "2026-10-06T22:03:45+00:00",
+  "checked": "2026-11-06T17:39:17+00:00",
   "mc_v": 2,
   "metacritic": 80,
   "metacritic_slug": "guitar-hero-live",
@@ -25045,7 +25241,7 @@
  "igdb:9898": {
   "backloggd": 3.5,
   "bl_v": 2,
-  "checked": "2026-10-06T21:21:22+00:00",
+  "checked": "2026-11-06T17:35:48+00:00",
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "total-war-warhammer",
@@ -25058,13 +25254,15 @@
    "Action",
    "Strategy"
   ],
-  "steam_pct": 79,
-  "steam_reviews": 52351
+  "steam_mc": 86,
+  "steam_mc_slug": "total-war-warhammer",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:9902": {
   "backloggd": 4.0,
   "bl_v": 2,
-  "checked": "2026-10-06T21:20:56+00:00",
+  "checked": "2026-11-06T17:35:25+00:00",
   "mc_v": 2,
   "metacritic": 66,
   "metacritic_slug": "age-of-mythology-extended-edition",
@@ -25073,8 +25271,10 @@
    "Simulation",
    "Strategy"
   ],
-  "steam_pct": 93,
-  "steam_reviews": 36316
+  "steam_mc": 66,
+  "steam_mc_slug": "age-of-mythology-extended-edition",
+  "steam_pct": null,
+  "steam_reviews": null
  },
  "igdb:9907": {
   "backloggd": 2.3,
@@ -25118,7 +25318,7 @@
  "igdb:9927": {
   "backloggd": 4.2,
   "bl_v": 2,
-  "checked": "2026-10-06T22:06:54+00:00",
+  "checked": "2026-11-06T17:41:26+00:00",
   "mc_v": 2,
   "metacritic": 93,
   "metacritic_slug": "persona-5",
