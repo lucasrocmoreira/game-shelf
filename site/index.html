@@ -227,6 +227,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
   .hero img{animation:lift .6s cubic-bezier(.2,.8,.2,1) both}
   @keyframes lift{from{opacity:0;transform:translateY(14px) rotate(-2deg)}to{opacity:1;transform:none}}
 }
+.status ol{margin:.3em 0 .5em 1.3em;padding:0}.status li{margin:.25em 0}.status .status-err{font-size:.8em;opacity:.7;word-break:break-word}
 </style>
 </head>
 <body>
@@ -1233,9 +1234,23 @@ function setup(){
 
   const bad = Object.entries(DATA.status||{}).filter(([,v])=>v!=="ok"&&v!=="not configured");
   const names = {psplus:"PS Plus catalog",steam:"Steam",playstation:"PlayStation",nintendo_eshop:"Nintendo eShop receipts",manual:"Manual list",igdb:"IGDB",opencritic:"OpenCritic",switch_online:"Switch Online classics",hltb:"HowLongToBeat"};
-  const hints = {playstation:". Your PlayStation sign-in token has probably expired; generate a new one and update the PSN_NPSSO secret.",
-                 nintendo_eshop:". Check that the GMAIL_APP_PASSWORD secret is still valid."};
-  $("status").innerHTML = bad.length ? `<div class="status">${bad.map(([k,v])=>`<p><b>${names[k]||k}:</b> ${esc(v)}${hints[k]||""}</p>`).join("")}</div>` : "";
+  // Plain-language fix for each source that can break, with direct links. The technical error is kept, small, at the end.
+  const REPO = "https://github.com/lucasrocmoreira/game-shelf", SECRET = REPO+"/settings/secrets/actions/",
+        RUN = `<li>Open <a href="${REPO}/actions/workflows/update.yml" target="_blank" rel="noopener">Update game shelf</a>, tap <b>Run workflow</b>, then the green <b>Run workflow</b> button. When it finishes (5 to 30 minutes), reload this page and this note goes away.</li>`;
+  const fixes = {
+    playstation: {what:"Your PlayStation sign-in token expired (it lasts about two months). Your PlayStation games are still here from the last update; new games, PS Plus additions and playtime are paused until you renew it. About 3 minutes:",
+      steps:`<li>Sign in at <a href="https://www.playstation.com" target="_blank" rel="noopener">playstation.com</a> with your PS5 account (sign out and back in if you're already signed in).</li>
+        <li>In the same browser, open <a href="https://ca.account.sony.com/api/v1/ssocookie" target="_blank" rel="noopener">this Sony page</a>. It shows <code>{"npsso":"…"}</code>. Copy only the long code between the quotes after npsso.</li>
+        <li>Open the <a href="${SECRET}PSN_NPSSO" target="_blank" rel="noopener">PSN_NPSSO secret</a> on GitHub, paste the code into <b>Value</b> and tap <b>Update secret</b>. Treat the code like a password: paste it only there.</li>${RUN}`},
+    nintendo_eshop: {what:"The app couldn't read your Nintendo eShop receipts in Gmail, usually because the Gmail app password stopped working (Google cancels them when you change your Google password). Your Nintendo games stay; only new eShop purchases are paused.",
+      steps:`<li>Create a new app password at <a href="https://myaccount.google.com/apppasswords" target="_blank" rel="noopener">myaccount.google.com/apppasswords</a> (name it "Game Shelf") and copy the 16 letters.</li>
+        <li>Open the <a href="${SECRET}GMAIL_APP_PASSWORD" target="_blank" rel="noopener">GMAIL_APP_PASSWORD secret</a> on GitHub, paste it into <b>Value</b> and tap <b>Update secret</b>.</li>${RUN}`},
+  };
+  $("status").innerHTML = bad.length ? `<div class="status">${bad.map(([k,v])=>{
+      const f = fixes[k];
+      return f ? `<p><b>${names[k]||k}: needs your help.</b> ${f.what}</p><ol>${f.steps}</ol><p class="status-err">Error: ${esc(v)}</p>`
+               : `<p><b>${names[k]||k}:</b> ${esc(v)}</p>`;
+    }).join("")}</div>` : "";
   const when = DATA.generated ? new Date(DATA.generated).toLocaleString([], {dateStyle:"medium",timeStyle:"short"}) : "never";
   $("foot").textContent = CONSOLES[state.view] ? `${CONSOLES[state.view].note} Last updated ${when}.` : state.view==="psplus" ? `PS Plus catalog checked ${when}. Checked daily; Sony refreshes it every month.` : `Last updated ${when}. Updates daily.`;
 }
