@@ -3336,13 +3336,12 @@
      "sent": false
     },
     {
-     "key": "igdb:1545",
-     "best": "igdb:26195",
+     "key": "igdb:119341",
+     "best": "igdb:119341",
      "why": [
-      "Play this game to get to the amazing WipEout: Omega Collection (84). It's the earliest entry in the series you haven't played.",
-      "Not on this console: you have it on PS Vita",
-      "A change of genre: Racing",
-      "Shorter than what you're playing: about 14.5h to beat"
+      "Top-rated game you haven't played (average 82)",
+      "A change of genre: Shooter, Music",
+      "Shorter than what you're playing: about 4h to beat"
      ],
      "sent": false
     }
@@ -3351,12 +3350,14 @@
     "igdb:49875",
     "igdb:83731",
     "igdb:1545",
-    "igdb:20065"
+    "igdb:20065",
+    "igdb:119341"
    ],
    "avoid": [
-    "Tetris"
+    "Tetris",
+    "Wipeout"
    ],
-   "date": "2026-11-07T22:34:37.763Z"
+   "date": "2026-11-07T22:34:42.454Z"
   },
   "steam": {
    "slots": [
