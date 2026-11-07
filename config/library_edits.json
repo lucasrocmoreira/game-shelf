@@ -3542,13 +3542,13 @@
      "sent": false
     },
     {
-     "key": "igdb:1068",
-     "best": "igdb:1068",
+     "key": "igdb:1026",
+     "best": "igdb:7346",
      "why": [
-      "Sent here from your Wii suggestions",
-      "Play this game to get to the amazing Super Mario Galaxy (93). It's the earliest Mario game you haven't played."
+      "Play this game to get to the amazing The Legend of Zelda: Breath of the Wild (95). It's the earliest The Legend of Zelda game you haven't played.",
+      "About 17h to beat"
      ],
-     "sent": true
+     "sent": false
     }
    ],
    "skip": [
@@ -3558,10 +3558,11 @@
     "igdb:207026",
     "igdb:3490",
     "igdb:80174",
-    "igdb:1068"
+    "igdb:1068",
+    "igdb:1026"
    ],
    "avoid": [],
-   "date": "2026-11-03T07:42:19.669Z"
+   "date": "2026-11-07T22:33:31.018Z"
   },
   "ds": {
    "slots": [
