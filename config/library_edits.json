@@ -3316,12 +3316,11 @@
   "vr": {
    "slots": [
     {
-     "key": "igdb:20065",
-     "best": "igdb:19562",
+     "key": "igdb:154839",
+     "best": "igdb:154839",
      "why": [
-      "Play this game to get to the amazing Resident Evil 7: Biohazard (85). It's the earliest Resident Evil game you haven't played.",
-      "Not on this console: you have it on PS4",
-      "Shorter than what you're playing: about 22h to beat"
+      "Top-rated game you haven't played (average 85)",
+      "Shorter than what you're playing: about 6h to beat"
      ],
      "sent": false
     },
@@ -3351,13 +3350,15 @@
     "igdb:83731",
     "igdb:1545",
     "igdb:20065",
-    "igdb:119341"
+    "igdb:119341",
+    "igdb:154839"
    ],
    "avoid": [
     "Tetris",
-    "Wipeout"
+    "Wipeout",
+    "Resident Evil"
    ],
-   "date": "2026-11-07T22:34:42.454Z"
+   "date": "2026-11-07T22:34:44.671Z"
   },
   "steam": {
    "slots": [
