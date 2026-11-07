@@ -524,6 +524,7 @@ function detail(g){
       <button type="button" data-act="played" class="${g._played?"on":""}">${g._played?"Played ✓":"Mark as played"}</button>
       <button type="button" data-act="hide">${g._hidden?"Unhide":"Hide"}</button>
       <button type="button" data-act="fix">Wrong match?</button>
+      ${frPlaces(g).map(({f,e},_,all)=>`<button type="button" data-act="fr:${f.id}:${e.id}">${all.length>1?`In ${esc(f.name)}`:"See in Franchises"}</button>`).join("")}
     </div>
     ${note}
     ${g.summary?`<p class="summary">${esc(g.summary)}</p>`:""}
@@ -589,7 +590,27 @@ function renderActive(){
   state.tags.forEach((t,i)=>parts.push(`<button type="button" class="tagchip" data-clear-tag="${i}">${esc(t.value)} ✕</button>`));
   $("active").innerHTML = parts.join("");
 }
+/* Where a game sits in the franchise guides: owned through its library key, or the same IGDB game. */
+function frPlaces(g){
+  if(!FR.data) return [];
+  const out = [];
+  for(const f of FR.data.franchises||[]){
+    const e = f.games.find(x=>(x.keys||[]).includes(g.key)) || f.games.find(x=>"igdb:"+x.id===g.key);
+    if(e) out.push({f, e});
+  }
+  return out.sort((a,b)=>(a.e.spin-b.e.spin) || a.f.name.localeCompare(b.f.name)).slice(0,4);
+}
+async function goFranchise(fid, eid){
+  FR.q = ""; FR.open = fid;
+  const f = FR.data.franchises.find(x=>x.id===fid), e = f && f.games.find(x=>x.id===eid);
+  FR.spin = !!(e && e.spin);  // spin-offs are folded away unless shown
+  await showView("franchises");
+  window.scrollTo({top:0});
+  const li = document.getElementById("fr-"+eid);
+  if(li){ li.scrollIntoView({behavior:"smooth", block:"center"}); li.classList.remove("flash"); void li.offsetWidth; li.classList.add("flash"); }
+}
 function runAct(a, g){
+  if(a.startsWith("fr:")){ const [,fid,eid] = a.split(":"); goFranchise(+fid, +eid); return; }
   if(a==="played") togglePlayed(g); if(a==="playing") togglePlaying(g); if(a==="hide") toggleHidden(g); if(a==="fix") openFix(g);
 }
 function renderNow(){
