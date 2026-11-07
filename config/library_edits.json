@@ -3316,13 +3316,12 @@
   "vr": {
    "slots": [
     {
-     "key": "igdb:49875",
-     "best": "igdb:135999",
+     "key": "igdb:20065",
+     "best": "igdb:19562",
      "why": [
-      "Play this game to get to the amazing Tetris Effect: Connected (88). It's the earliest Tetris game you haven't played.",
-      "Not on this console: Switch Online (Switch + Game Boy)",
-      "A change of genre: Puzzle, Strategy",
-      "Shorter than what you're playing: about 1.5h to beat"
+      "Play this game to get to the amazing Resident Evil 7: Biohazard (85). It's the earliest Resident Evil game you haven't played.",
+      "Not on this console: you have it on PS4",
+      "Shorter than what you're playing: about 22h to beat"
      ],
      "sent": false
     },
@@ -3351,10 +3350,13 @@
    "skip": [
     "igdb:49875",
     "igdb:83731",
-    "igdb:1545"
+    "igdb:1545",
+    "igdb:20065"
    ],
-   "avoid": [],
-   "date": "2026-11-07T22:34:29.450Z"
+   "avoid": [
+    "Tetris"
+   ],
+   "date": "2026-11-07T22:34:37.763Z"
   },
   "steam": {
    "slots": [
