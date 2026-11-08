@@ -11367,9 +11367,9 @@
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2119/654f0b61e6ed9137704ba4679152d2749f676a62f6af1f42.png",
-   "last_played": "2026-10-10",
+   "last_played": "2026-11-08",
    "platform": "PS5",
-   "playtime_hours": 63.3,
+   "playtime_hours": 64.1,
    "ps_plus": false,
    "source_id": "PPSA07805_00",
    "title": "Overwatch®"
@@ -11474,6 +11474,15 @@
    "title": "Crash Bandicoot N. Sane Trilogy"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-11-08",
+   "platform": "PS5",
+   "playtime_hours": 29.8,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1602/TYk0GalUXvrSG0J6aAyfd1h6.png",
    "last_played": "2023-09-30",
    "platform": "PS5",
@@ -11481,15 +11490,6 @@
    "ps_plus": true,
    "source_id": "PPSA02432_00",
    "title": "Crash Bandicoot™ 4: It’s About Time"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-11-01",
-   "platform": "PS5",
-   "playtime_hours": 29.0,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
