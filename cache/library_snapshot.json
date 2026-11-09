@@ -11456,6 +11456,15 @@
    "title": "Resident Evil"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-11-09",
+   "platform": "PS5",
+   "playtime_hours": 31.1,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png",
    "last_played": "2023-06-08",
    "platform": "PS5",
@@ -11472,15 +11481,6 @@
    "ps_plus": false,
    "source_id": "CUSA07402_00",
    "title": "Crash Bandicoot N. Sane Trilogy"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-11-08",
-   "platform": "PS5",
-   "playtime_hours": 29.8,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1602/TYk0GalUXvrSG0J6aAyfd1h6.png",
