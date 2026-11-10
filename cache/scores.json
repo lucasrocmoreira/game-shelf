@@ -635,7 +635,8 @@
   "steam_mc": 81,
   "steam_mc_slug": "mirrors-edge-2008",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:105416": {
   "backloggd": 3.8,
@@ -740,7 +741,8 @@
   "steam_mc": 83,
   "steam_mc_slug": "alan-wake",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1063": {
   "backloggd": 3.2,
@@ -1046,7 +1048,8 @@
   "steam_mc": 83,
   "steam_mc_slug": "la-noire-the-complete-edition",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1090": {
   "backloggd": 4.0,
@@ -2261,7 +2264,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:11603": {
   "backloggd": 2.6,
@@ -2288,7 +2292,8 @@
   "steam_mc": 82,
   "steam_mc_slug": "tomb-raider-legend",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:11616": {
   "backloggd": 3.5,
@@ -2382,7 +2387,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "tomb-raider",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:116403": {
   "backloggd": 3.1,
@@ -2600,7 +2606,8 @@
   "steam_mc": 81,
   "steam_mc_slug": "planet-zoo",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:117731": {
   "backloggd": 3.6,
@@ -2700,7 +2707,8 @@
   "steam_mc": 93,
   "steam_mc_slug": "divinity-original-sin-ii",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1181": {
   "backloggd": 2.9,
@@ -3395,7 +3403,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "left-4-dead",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1220": {
   "backloggd": 3.2,
@@ -3523,7 +3532,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "left-4-dead-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:124131": {
   "backloggd": 2.7,
@@ -3574,7 +3584,8 @@
   "steam_mc": 91,
   "steam_mc_slug": "crusader-kings-iii",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:12511": {
   "backloggd": 3.3,
@@ -4072,7 +4083,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "fallout",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1303": {
   "backloggd": 3.1,
@@ -4124,7 +4136,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "xcom-enemy-unknown",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:13182": {
   "backloggd": 3.1,
@@ -4338,7 +4351,8 @@
   "steam_mc": 88,
   "steam_mc_slug": "limbo",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:133301": {
   "backloggd": 2.8,
@@ -5240,7 +5254,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "fallout-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1400": {
   "backloggd": 3.8,
@@ -5465,7 +5480,8 @@
   "steam_mc": 94,
   "steam_mc_slug": "divinity-original-sin-enhanced-edition",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:141959": {
   "backloggd": 2.9,
@@ -5490,7 +5506,8 @@
   "steam_mc": 78,
   "steam_mc_slug": "star-wars-battlefront-ii",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:142453": {
   "backloggd": 1.9,
@@ -5631,7 +5648,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "total-war-warhammer-iii",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1432": {
   "backloggd": 3.4,
@@ -5840,8 +5858,9 @@
   ],
   "steam_mc": 80,
   "steam_mc_slug": "battle-brothers",
-  "steam_pct": 88,
-  "steam_reviews": 29053
+  "steam_pct": null,
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1440": {
   "backloggd": 3.8,
@@ -5990,7 +6009,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:14501": {
   "backloggd": 3.3,
@@ -6400,8 +6420,9 @@
   ],
   "steam_mc": 91,
   "steam_mc_slug": "against-the-storm",
-  "steam_pct": 94,
-  "steam_reviews": 37765
+  "steam_pct": null,
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:14758": {
   "backloggd": 3.9,
@@ -6584,7 +6605,13 @@
   "metacritic": 93,
   "metacritic_n": 84,
   "metacritic_slug": "fallout-3",
-  "oc_checked": "2026-11-03T04:25:58+00:00"
+  "oc_checked": "2026-11-03T04:25:58+00:00",
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": null,
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:150005": {
   "backloggd": 2.8,
@@ -6748,7 +6775,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "star-wars-jedi-knight-ii-jedi-outcast",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1520": {
   "backloggd": 4.3,
@@ -7397,7 +7425,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:15901": {
   "backloggd": 3.4,
@@ -7932,7 +7961,8 @@
   "steam_mc": 82,
   "steam_mc_slug": "fallout-tactics-brotherhood-of-steel",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1700": {
   "backloggd": 3.3,
@@ -7995,7 +8025,8 @@
   "steam_mc": 80,
   "steam_mc_slug": "darkwood",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1704": {
   "backloggd": 4.0,
@@ -8505,7 +8536,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:178361": {
   "backloggd": 2.9,
@@ -8609,7 +8641,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "max-payne",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1800": {
   "backloggd": 4.1,
@@ -8645,7 +8678,13 @@
   "mc_v": 2,
   "metacritic": null,
   "metacritic_slug": null,
-  "oc_checked": "2026-11-02T21:02:59+00:00"
+  "oc_checked": "2026-11-02T21:02:59+00:00",
+  "steam_genres": [
+   "RPG"
+  ],
+  "steam_pct": null,
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:180298": {
   "backloggd": 3.0,
@@ -9166,7 +9205,8 @@
   "steam_mc": 82,
   "steam_mc_slug": "the-walking-dead-episode-1---a-new-day",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:18718": {
   "backloggd": 3.6,
@@ -9198,7 +9238,8 @@
   "steam_mc": 84,
   "steam_mc_slug": "spore",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1877": {
   "backloggd": 4.2,
@@ -9338,7 +9379,8 @@
   "steam_mc": 81,
   "steam_mc_slug": "northgard",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:18967": {
   "backloggd": 3.8,
@@ -9378,7 +9420,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "max-payne-2-the-fall-of-max-payne",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1905": {
   "backloggd": 3.1,
@@ -9544,7 +9587,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:1937": {
   "backloggd": 2.6,
@@ -10245,7 +10289,8 @@
   "steam_mc": 96,
   "steam_mc_slug": "bioshock",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:20008": {
   "backloggd": 3.9,
@@ -10271,7 +10316,8 @@
   "steam_mc": 74,
   "steam_mc_slug": "batman-arkham-origins",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:20031": {
   "backloggd": 2.8,
@@ -10463,8 +10509,9 @@
   ],
   "steam_mc": null,
   "steam_mc_slug": null,
-  "steam_pct": 94,
-  "steam_reviews": 80296
+  "steam_pct": null,
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:202417": {
   "backloggd": 1.6,
@@ -11255,7 +11302,8 @@
   "steam_mc": 88,
   "steam_mc_slug": "bioshock-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:21007": {
   "backloggd": 3.2,
@@ -11847,7 +11895,8 @@
   "steam_mc": 91,
   "steam_mc_slug": "batman-arkham-city",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:21727": {
   "backloggd": 3.9,
@@ -12219,7 +12268,8 @@
   "steam_mc": 92,
   "steam_mc_slug": "system-shock-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:22012": {
   "backloggd": 2.8,
@@ -12271,7 +12321,8 @@
   "steam_mc": 83,
   "steam_mc_slug": "age-of-mythology-retold",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:22301": {
   "backloggd": 3.8,
@@ -12299,7 +12350,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "rise-of-nations",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:22358": {
   "backloggd": 3.2,
@@ -12727,7 +12779,8 @@
   "steam_mc": 96,
   "steam_mc_slug": "half-life",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:231090": {
   "backloggd": 3.5,
@@ -12860,7 +12913,8 @@
   "steam_mc": 84,
   "steam_mc_slug": "frostpunk",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:232699": {
   "backloggd": 3.8,
@@ -12918,7 +12972,8 @@
   "steam_mc": 96,
   "steam_mc_slug": "half-life-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:2330": {
   "backloggd": 3.5,
@@ -13119,7 +13174,8 @@
   "steam_mc": 78,
   "steam_mc_slug": "deadlight",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:236": {
   "backloggd": 3.6,
@@ -13347,7 +13403,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:242151": {
   "backloggd": 3.0,
@@ -13642,7 +13699,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:250106": {},
  "igdb:250107": {},
@@ -13983,7 +14041,8 @@
   "steam_mc": 90,
   "steam_mc_slug": "deus-ex",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:253646": {
   "backloggd": 3.5,
@@ -14212,7 +14271,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "the-sims-3",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:260028": {
   "backloggd": 3.3,
@@ -15066,7 +15126,8 @@
   "steam_mc": 79,
   "steam_mc_slug": "assassins-creed-directors-cut-edition",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:27862": {
   "backloggd": 4.0,
@@ -15083,7 +15144,8 @@
   "steam_mc": 91,
   "steam_mc_slug": "batman-arkham-asylum",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:27911": {
   "backloggd": 4.3,
@@ -15099,7 +15161,8 @@
   "steam_mc": 91,
   "steam_mc_slug": "dragon-age-origins",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:27920": {
   "backloggd": 3.8,
@@ -15185,7 +15248,8 @@
   "steam_mc": 87,
   "steam_mc_slug": "total-war-warhammer-ii",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:281414": {
   "backloggd": 3.8,
@@ -15457,7 +15521,8 @@
   "steam_mc": 81,
   "steam_mc_slug": "age-of-empires-iii",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:287835": {},
  "igdb:287848": {
@@ -15581,7 +15646,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "warhammer-40000-dawn-of-war",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:2899": {
   "backloggd": 4.3,
@@ -15702,7 +15768,8 @@
   "steam_mc": 68,
   "steam_mc_slug": "age-of-empires-ii-hd-edition",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:2955": {
   "backloggd": 3.3,
@@ -15762,7 +15829,8 @@
   "steam_mc": 90,
   "steam_mc_slug": "dota-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:296843": {
   "backloggd": 3.5,
@@ -15834,7 +15902,8 @@
   "steam_mc": 85,
   "steam_mc_slug": "the-wolf-among-us-episode-1---faith",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:299391": {},
  "igdb:299582": {
@@ -17250,7 +17319,8 @@
   "steam_mc": 80,
   "steam_mc_slug": "bioshock-the-collection",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:34294": {
   "backloggd": 3.8,
@@ -17271,7 +17341,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:343397": {
   "backloggd": 3.3,
@@ -17504,7 +17575,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:349562": {
   "backloggd": 3.4,
@@ -18438,7 +18510,8 @@
   "steam_mc": 87,
   "steam_mc_slug": "dead-space-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:381": {
   "backloggd": 2.9,
@@ -18795,7 +18868,8 @@
   "steam_mc": 89,
   "steam_mc_slug": "slay-the-spire",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:405028": {
   "backloggd": 3.3,
@@ -18815,7 +18889,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:40531": {
   "backloggd": 2.4,
@@ -19070,7 +19145,8 @@
   "steam_mc": 80,
   "steam_mc_slug": "deus-ex-invisible-war",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:4207": {
   "backloggd": 2.6,
@@ -19617,7 +19693,8 @@
   "steam_mc": 92,
   "steam_mc_slug": "rome-total-war",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:4380": {
   "backloggd": 2.8,
@@ -19787,7 +19864,8 @@
   "steam_mc": 79,
   "steam_mc_slug": "rome-total-war-alexander",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:4471": {
   "backloggd": 1.7,
@@ -20092,7 +20170,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:46557": {},
  "igdb:46586": {
@@ -20118,7 +20197,8 @@
   "steam_mc": 87,
   "steam_mc_slug": "warhammer-40000-dawn-of-war---dark-crusade",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:46768": {
   "backloggd": 2.9,
@@ -20143,7 +20223,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:46800": {
   "backloggd": 3.1,
@@ -20237,7 +20318,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:47498": {
   "backloggd": 2.6,
@@ -20786,7 +20868,8 @@
   "steam_mc": 87,
   "steam_mc_slug": "divinity-original-sin",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:5122": {
   "backloggd": 4.4,
@@ -20847,7 +20930,8 @@
   "steam_mc": 88,
   "steam_mc_slug": "fear",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:518": {
   "backloggd": 3.6,
@@ -20864,7 +20948,8 @@
   "steam_mc": 88,
   "steam_mc_slug": "fear",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:519": {
   "backloggd": 3.1,
@@ -20880,7 +20965,8 @@
   "steam_mc": 88,
   "steam_mc_slug": "fear",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:51948": {
   "backloggd": 3.3,
@@ -20956,7 +21042,8 @@
   "steam_mc": 88,
   "steam_mc_slug": "far-cry-3",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:5333": {
   "backloggd": 3.3,
@@ -21037,7 +21124,8 @@
   "steam_mc": 94,
   "steam_mc_slug": "bioshock-infinite",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:5385": {
   "backloggd": 3.2,
@@ -21196,7 +21284,8 @@
   "steam_mc": 69,
   "steam_mc_slug": "jurassic-world-evolution",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:550": {
   "backloggd": 3.7,
@@ -21225,7 +21314,8 @@
   "steam_mc": 81,
   "steam_mc_slug": "age-of-empires-iv",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:5503": {
   "backloggd": 4.1,
@@ -21302,7 +21392,8 @@
   "steam_mc": 84,
   "steam_mc_slug": "age-of-empires-ii-definitive-edition",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:55059": {
   "backloggd": 3.5,
@@ -21410,7 +21501,8 @@
   "steam_mc": 45,
   "steam_mc_slug": "deus-ex-the-fall",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:5592": {
   "backloggd": 3.3,
@@ -21596,7 +21688,8 @@
   "steam_mc": 82,
   "steam_mc_slug": "invisible-inc",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:6060": {
   "backloggd": 3.2,
@@ -21981,7 +22074,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "the-secret-of-monkey-island-special-edition",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:6502": {
   "backloggd": 3.0,
@@ -22100,7 +22194,8 @@
   "steam_mc": 93,
   "steam_mc_slug": "company-of-heroes",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:65445": {
   "backloggd": 2.5,
@@ -22766,7 +22861,8 @@
   "steam_mc": 95,
   "steam_mc_slug": "portal-2",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:7205": {
   "backloggd": 3.6,
@@ -22871,7 +22967,8 @@
   "steam_mc": 90,
   "steam_mc_slug": "grand-theft-auto-iv",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:7318": {
   "backloggd": 3.0,
@@ -23004,7 +23101,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:7351": {
   "backloggd": 3.9,
@@ -23170,7 +23268,15 @@
   "mc_v": 2,
   "metacritic": 86,
   "metacritic_slug": "valkyria-chronicles",
-  "oc_checked": "2026-11-03T04:25:58+00:00"
+  "oc_checked": "2026-11-03T04:25:58+00:00",
+  "steam_genres": [
+   "Action",
+   "RPG",
+   "Strategy"
+  ],
+  "steam_pct": null,
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:7489": {
   "backloggd": 3.0,
@@ -23203,7 +23309,8 @@
   "steam_mc": 83,
   "steam_mc_slug": "the-forest",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:75235": {
   "backloggd": 4.2,
@@ -23430,7 +23537,8 @@
   "steam_mc": 82,
   "steam_mc_slug": "lara-croft-and-the-guardian-of-light",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:76904": {
   "backloggd": 3.1,
@@ -23755,7 +23863,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:79669": {
   "backloggd": 2.9,
@@ -23884,7 +23993,8 @@
   "steam_mc": 85,
   "steam_mc_slug": "total-war-three-kingdoms",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:81085": {
   "backloggd": 4.3,
@@ -24049,7 +24159,8 @@
   "steam_mc": 83,
   "steam_mc_slug": "two-point-hospital",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:8223": {
   "backloggd": 2.8,
@@ -24158,7 +24269,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:8353": {
   "backloggd": 4.4,
@@ -24297,7 +24409,8 @@
   "steam_mc": 93,
   "steam_mc_slug": "company-of-heroes",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:84616": {
   "backloggd": 3.0,
@@ -24424,7 +24537,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:85454": {
   "backloggd": 1.7,
@@ -24618,7 +24732,8 @@
   "steam_mc": 90,
   "steam_mc_slug": "sid-meiers-civilization-v",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:86652": {
   "backloggd": 3.7,
@@ -24635,7 +24750,8 @@
   "steam_mc": 81,
   "steam_mc_slug": "stronghold",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:8682": {
   "backloggd": 4.0,
@@ -24973,7 +25089,8 @@
   "steam_mc": 85,
   "steam_mc_slug": "cities-skylines",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:9083": {
   "backloggd": 2.3,
@@ -25173,7 +25290,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:9471": {
   "backloggd": 3.1,
@@ -25189,7 +25307,8 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:948": {
   "backloggd": 3.9,
@@ -25220,7 +25339,8 @@
   "steam_mc": 83,
   "steam_mc_slug": "deus-ex-mankind-divided",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:95062": {
   "backloggd": 4.0,
@@ -25546,7 +25666,8 @@
   "steam_mc": 91,
   "steam_mc_slug": "deus-ex-human-revolution---directors-cut",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:9741": {
   "backloggd": 2.5,
@@ -25654,7 +25775,8 @@
   "steam_mc": 86,
   "steam_mc_slug": "total-war-warhammer",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:9902": {
   "backloggd": 4.0,
@@ -25671,7 +25793,8 @@
   "steam_mc": 66,
   "steam_mc_slug": "age-of-mythology-extended-edition",
   "steam_pct": null,
-  "steam_reviews": null
+  "steam_reviews": null,
+  "steam_v": 2
  },
  "igdb:9907": {
   "backloggd": 2.3,
