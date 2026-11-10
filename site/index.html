@@ -228,6 +228,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
   @keyframes lift{from{opacity:0;transform:translateY(14px) rotate(-2deg)}to{opacity:1;transform:none}}
 }
 .status ol{margin:.3em 0 .5em 1.3em;padding:0}.status li{margin:.25em 0}.status .status-err{font-size:.8em;opacity:.7;word-break:break-word}
+.score.est{opacity:.6}.why-score p{margin:.2em 0}.why-score{margin:.4em 0 .6em}
 </style>
 </head>
 <body>
@@ -320,7 +321,7 @@ const SOURCES = {
   steam:       {label:"Steam reviews"},
 };
 const SORTS = [
-  ["avg","Average score"], ...Object.entries(SOURCES).map(([k,v])=>[k,v.label]),
+  ["avg","Score"], ...Object.entries(SOURCES).map(([k,v])=>[k,v.label]),
   ["added","Newest in catalog"], ["ttb_short","Shortest to beat"], ["ttb_long","Longest to beat"], ["playtime","Most played"], ["recent","Recently played"], ["year","Newest release"], ["title","Title A to Z"],
 ];
 const GROUPS = [["","No grouping"],["genres","Group by genre"],["themes","Group by theme"],["franchises","Group by franchise"],
@@ -361,7 +362,11 @@ let EDITS = EMPTY_EDITS();
 let liveEdits = false;
 const $ = id => document.getElementById(id);
 const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const tone = v => v==null?"na":v>=80?"hi":v>=65?"mid":"lo";
+let RM = {map:{metacritic:[1,0],opencritic:[1.03,-2.8],igdb_critic:[0.88,10.1],backloggd:[0.85,19.6],igdb_user:[0.99,3.6]},
+  mu:78, rho:0.65, lam_igc:0.9, lam_igc_round:0.6, lam_player_single:0.88, clash_critic:8, clash_player:15, split_badge:15, tone:{hi:85, lo:70}};
+const tone = v => v==null?"na":v>=RM.tone.hi?"hi":v>=RM.tone.lo?"mid":"lo";
+// A single source's own number, coloured as it would count on the shared (Metacritic) scale.
+const toneSrc = (k,v) => v==null ? "na" : RM.map[k] ? tone(RM.map[k][0]*v+RM.map[k][1]) : tone(v);
 const today = () => new Date().toLocaleDateString("en-CA");  // local date, YYYY-MM-DD
 
 /* ---------------- GitHub storage for your edits ---------------- */
@@ -443,12 +448,57 @@ function toggleHidden(g){
 }
 
 /* ---------------- Scores, sorting, filtering ---------------- */
-function avg(g){
-  const vals = [...state.srcOn].map(k=>g.scores[k]).filter(v=>typeof v==="number");
-  return vals.length ? Math.round(vals.reduce((a,b)=>a+b,0)/vals.length) : null;
+/* The score: a "two-pillar midpoint". Line-for-line copy of pipeline/rating.py compute(); keep them in step.
+   Every source is put on Metacritic's scale; critics (Metacritic + OpenCritic, IGDB critics only when
+   neither exists) and players (Backloggd + IGDB users) are combined separately; the score is their midpoint.
+   A side with no data is estimated from the other ("est."); a side you switched off is left out. */
+const CRITICS = ["metacritic","opencritic","igdb_critic"], PLAYERS = ["backloggd","igdb_user"];
+function rateGame(scores, on){
+  const M = RM, mu = M.mu, notes = [], m = (k,x)=>M.map[k][0]*x+M.map[k][1];
+  const v = {}; for(const k of [...CRITICS,...PLAYERS]) if(on.has(k) && typeof scores[k]==="number") v[k] = scores[k];
+  const mc = v.metacritic ?? null, oc = v.opencritic ?? null, oc_ = oc!=null ? m("opencritic",oc) : null;
+  const igc = v.igdb_critic ?? null, igc_ = igc!=null ? m("igdb_critic",igc) : null;
+  let C = null, cWeak = false;
+  if(mc!=null && oc_!=null){
+    if(Math.abs(mc-oc_) >= M.clash_critic && igc_!=null){ C = [mc,oc_,igc_].sort((a,b)=>a-b)[1]; notes.push("Metacritic and OpenCritic disagree, so the middle of the three critic scores is used"); }
+    else C = (mc+oc_)/2;
+  } else if(mc!=null || oc_!=null) C = mc!=null ? mc : oc_;
+  else if(igc_!=null){ const lam = igc%10===0 ? M.lam_igc_round : M.lam_igc; C = mu + lam*(igc_-mu); cWeak = true; }
+  if(igc!=null && (mc!=null || oc!=null)) notes.push(`IGDB critics ${Math.round(igc)}: not used, Metacritic/OpenCritic available`);
+  const bl = v.backloggd ?? null, igu = v.igdb_user ?? null;
+  const bl_ = bl!=null ? m("backloggd",bl) : null; let igu_ = igu!=null ? m("igdb_user",igu) : null;
+  let P = null, pWeak = false;
+  if(bl_!=null && igu_!=null && Math.abs(bl_-igu_) >= M.clash_player){ notes.push(`IGDB players ${Math.round(igu)}: set aside, disagrees with Backloggd`); igu_ = null; }
+  if(bl_!=null && igu_!=null) P = (bl_+igu_)/2;
+  else if(bl_!=null || igu_!=null){ P = mu + M.lam_player_single*((bl_!=null?bl_:igu_)-mu); pWeak = true; }
+  const cOn = CRITICS.some(k=>on.has(k)), pOn = PLAYERS.some(k=>on.has(k));
+  if(C==null && P==null) return null;
+  let cEst = false, pEst = false;
+  if(C==null && cOn){ C = mu + M.rho*(P-mu); cEst = true; }
+  if(P==null && pOn){ P = mu + M.rho*(C-mu); pEst = true; }
+  const parts = [C,P].filter(x=>x!=null), score = parts.reduce((a,b)=>a+b,0)/parts.length;
+  const conf = (cEst||pEst) ? "low" : (cWeak||pWeak||C==null||P==null) ? "medium" : "high";
+  const split = C!=null && P!=null && !cEst && !pEst && Math.abs(C-P) >= M.split_badge;
+  const r1 = x => x==null ? null : Math.round(x*10)/10;
+  return {score:r1(score), C:r1(C), P:r1(P), cEst, pEst, cWeak, pWeak, conf, split, notes};
+}
+let RATE_KEY = "";
+function rating(g){
+  const key = [...state.srcOn].sort().join();
+  if(g._rk !== key || g._rv !== RATE_KEY){ g._r = rateGame(g.scores||{}, state.srcOn); g._rk = key; g._rv = RATE_KEY; }
+  return g._r;
+}
+function scoreOf(g){ const r = rating(g); return r ? r.score : null; }        // unrounded: for sorting
+function avg(g){ const r = rating(g); return r ? Math.round(r.score) : null; } // the number shown
+function scoreText(g){ const r = rating(g); if(!r) return "–"; return (r.conf==="low" ? "~" : "") + Math.round(r.score); }
+function pillarLine(g){
+  const r = rating(g); if(!r) return "";
+  const side = (name, x, est, weak, why) => x==null ? "" : `${name} ${est?"~":""}${Math.round(x)}${est?" est.":weak?` <span class="na">(${why})</span>`:""}`;
+  const cWhy = "IGDB, few reviews", pWhy = typeof g.scores.backloggd==="number" && state.srcOn.has("backloggd") ? "Backloggd only" : "IGDB only";
+  return [side("Critics", r.C, r.cEst, r.cWeak, cWhy), side("Players", r.P, r.pEst, r.pWeak, pWhy)].filter(Boolean).join(" · ");
 }
 function value(g,key){
-  if(key==="avg") return avg(g);
+  if(key==="avg") return scoreOf(g);
   if(key in SOURCES) return g.scores[key];
   if(key==="playtime") return g.playtime||null;
   if(key==="recent") return g.last_played?Date.parse(g.last_played):null;
@@ -464,8 +514,8 @@ function sorted(list){
     const va=value(a,k), vb=value(b,k);
     if(va==null&&vb==null) return a.title.localeCompare(b.title);
     if(va==null) return 1; if(vb==null) return -1;
-    if(k==="ttb_short") return va-vb || (avg(b)??-1)-(avg(a)??-1) || a.title.localeCompare(b.title);
-    return vb-va || (avg(b)??-1)-(avg(a)??-1) || a.title.localeCompare(b.title);
+    if(k==="ttb_short") return va-vb || (scoreOf(b)??-1)-(scoreOf(a)??-1) || a.title.localeCompare(b.title);
+    return vb-va || (scoreOf(b)??-1)-(scoreOf(a)??-1) || a.title.localeCompare(b.title);
   });
 }
 function haystack(g){
@@ -495,8 +545,9 @@ function shown(g){
   if(k==="playtime") return {v:g.playtime?Math.round(g.playtime):null, unit:"h", cls:""};
   if(k==="year") return {v:g.year, unit:"", cls:""};
   if(k==="ttb_short"||k==="ttb_long"){ const h=beat(g); return {v:h==null?null:(h<1?"<1":Math.round(h)), unit:"h", cls:""}; }
-  if(k==="recent"||k==="title"||k==="added") { const a=avg(g); return {v:a,unit:"",cls:tone(a)}; }
-  const v=value(g,k); return {v, unit:"", cls:tone(v)};
+  if(k==="avg"||k==="recent"||k==="title"||k==="added"){ const a=avg(g), r=rating(g);
+    return {v:a==null?null:scoreText(g), unit:"", cls:tone(a)+(r&&r.conf==="low"?" est":"")}; }
+  const v=value(g,k); return {v, unit:"", cls:toneSrc(k,v)};
 }
 
 /* ---------------- Rendering ---------------- */
@@ -510,7 +561,10 @@ function detail(g){
     let extra = "";
     if(k==="backloggd" && g.backloggd_stars!=null) extra = ` <span class="na">(${g.backloggd_stars}★)</span>`;
     if(k==="opencritic" && g.opencritic_tier) extra = ` <span class="na">(${esc(g.opencritic_tier)})</span>`;
-    return `<div><span>${v.label}</span><b class="${tone(val)}">${val??"–"}${extra}</b></div>`;
+    const n = (g.counts||{})[k];
+    if(n) extra += ` <span class="na">· ${n>=1000?(n/1000).toFixed(n>=10000?0:1)+"k":n} ${k==="metacritic"||k==="opencritic"||k==="igdb_critic"?"reviews":"ratings"}</span>`;
+    if(k==="metacritic" && val!=null && g.mc_verified===false) extra += ` <span class="na">· re-checking</span>`;
+    return `<div><span>${v.label}</span><b class="${toneSrc(k,val)}">${val??"–"}${extra}</b></div>`;
   }).join("") + (g.playtime?`<div><span>Played</span><b>${g.playtime} h</b></div>`:"");
   const links = Object.entries(g.links||{}).map(([k,u])=>`<a href="${esc(u)}" target="_blank" rel="noopener">${LINK_LABELS[k]||k}</a>`).join("");
   const people = [g.developers?.length ? `Developed by ${g.developers.map(esc).join(", ")}` : "",
@@ -518,6 +572,10 @@ function detail(g){
   let note = "";
   if(!g.matched) note = `<p class="note">Not found on IGDB, so genres and some scores are missing. Use “Wrong match?” to link it.</p>`;
   else if(g.match==="medium") note = `<p class="note">This match was a close call. If it's the wrong game, use “Wrong match?”.</p>`;
+  const rt = rating(g);
+  const why = rt ? `<div class="why-score"><p><b class="${tone(avg(g))}">${scoreText(g)}</b> ${rt.C!=null&&rt.P!=null ? "is midway between" : "comes from"} ${pillarLine(g)}${rt.split?` <span class="pill warn">critics ≠ players</span>`:""}</p>
+      ${rt.conf==="low"?`<p class="na">Only ${rt.cEst?"players":"critics"} have rated it, so the ${rt.cEst?"critics":"players"} side is estimated.</p>`:""}
+      ${rt.notes.length?`<p class="na">${rt.notes.map(esc).join(". ")}.</p>`:""}</div>` : "";
   return `<div class="detail">
     <div class="actions">
       <button type="button" data-act="playing" class="${g._playing?"on":""}">${g._playing?"Playing now ✓":"Playing now"}</button>
@@ -527,6 +585,7 @@ function detail(g){
       ${frPlaces(g).map(({f,e},_,all)=>`<button type="button" data-act="fr:${f.id}:${e.id}">${all.length>1?`In ${esc(f.name)}`:"See in Franchises"}</button>`).join("")}
     </div>
     ${note}
+    ${why}
     ${g.summary?`<p class="summary">${esc(g.summary)}</p>`:""}
     <div class="breakdown">${breakdown}</div>
     ${g.ttb?`<div class="facts"><div><b>Time to beat</b> <span class="na">(${esc(g.ttb.src)})</span></div>
@@ -554,6 +613,7 @@ function gameRow(g,i){
     + (state.view==="psplus" && g.owned ? `<span class="pill played">In your library</span>` : "")
     + ((CONSOLES[state.view] || state.view==="library") && g._catalog ? `<span class="pill">PS Plus catalog</span>` : "")
     + (g.added && (Date.now()-Date.parse(g.added)) < 30*864e5 ? `<span class="pill new">New</span>` : "")
+    + (rating(g)?.split ? `<span class="pill" title="Critics and players disagree by 15+ points">critics ≠ players</span>` : "")
     + (g._played?`<span class="pill played">Played</span>`:"")
     + (g._hidden?`<span class="pill">${g._hidden==="auto"?"App, hidden":"Hidden"}</span>`:"")
     + (!g.matched?`<span class="pill warn">Not on IGDB</span>`:"");
@@ -681,7 +741,7 @@ function earliestUnplayed(g, pool){
   const same = ser.length ? x=>(x.series||[]).some(n=>ser.includes(n))
                           : x=>!!fr && (x.franchises||[])[0]===fr && !(x.series||[]).length;
   const prev = pool.filter(x=>x!==g && yr(x) && yr(x) < yr(g) && same(x) && (x.genres||[]).some(n=>genres.has(n))
-                              && avg(x)!=null && avg(x) >= 70).sort((a,b)=>yr(a)-yr(b));
+                              && avg(x)!=null && avg(x) >= 75).sort((a,b)=>yr(a)-yr(b));
   return prev.length ? {game:prev[0]} : null;
 }
 function consoleFor(g){  // the console tab a game from elsewhere can be sent to
@@ -745,7 +805,7 @@ function suggestions(keep=[null,null,null]){
                         for(const x of [...seriesOf(p.game), ...seriesOf(p.best||p.game)]) usedSeries.add(x); };
   slots.forEach(p=>{ if(p) register(p); });  // picks you kept shape the replacements
   const rate = g=>{
-    const a = avg(g); if(a==null) return null;
+    const a = scoreOf(g); if(a==null) return null;
     let s = a; const why = [];
     const genres = g.genres||[], ser = seriesOf(g), h = beat(g);
     if(ser.some(n=>curSeries.has(n))) s -= 25;
@@ -774,7 +834,7 @@ function suggestions(keep=[null,null,null]){
     const prev = guidePrev(best, everywhere) || earliestUnplayed(best, everywhere);
     if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest ${prev.guide ? `${esc(prev.guide)} game` : "entry in the series"} you haven't played.`);
       if(!inTab.has(game.key)) why.push(`Not on this console: ${whereIs(game)}`); }
-    else why.push(`Top-rated game you haven't played (average ${avg(game)})`);
+    else why.push(`Top-rated game you haven't played (score ${avg(game)})`);
     const others = (game.genres||[]).filter(x=>!curGenres.has(x));
     if(current.length && others.length && !(game.genres||[]).some(x=>curGenres.has(x))) why.push(`A change of genre: ${others.slice(0,2).join(", ")}`);
     const h = beat(game);
@@ -890,7 +950,7 @@ function frGames(f){
   for(const e of list){
     e.remakes = list.filter(x=>sameAs(x.remake_of, e));
     e.original = e.remake_of ? list.find(x=>sameAs(e.remake_of, x)) || null : null;
-    e.skip = e.score!=null && e.score < 65;  // poorly reviewed: not worth your time
+    e.skip = e.score!=null && e.score < RM.tone.lo;  // poorly reviewed: not worth your time
   }
   // Everything stays in release order. A remake in the main list brings its original along
   // (Dragon Warrior III for the 2009 Dragon Quest III), so both show, linked to each other.
@@ -1398,7 +1458,14 @@ async function loadView(v){
     return VIEWS[v].data;
   }
   if(!VIEWS[v]) v = "library";
-  if(!VIEWS[v].data) VIEWS[v].data = await fetch(VIEWS[v].file,{cache:"no-store"}).then(r=>r.ok?r.json():{games:[]}).catch(()=>({games:[]}));
+  if(!VIEWS[v].data){
+    VIEWS[v].data = await fetch(VIEWS[v].file,{cache:"no-store"}).then(r=>r.ok?r.json():{games:[]}).catch(()=>({games:[]}));
+    const d = VIEWS[v].data;
+    if(d.rating_model){ RM = d.rating_model; RATE_KEY = String(RM.version); }
+    // The page's copy of the formula must match the build's (pipeline/rating.py).
+    const all = new Set([...CRITICS,...PLAYERS]), off = (d.games||[]).filter(g=>g.rating && Math.abs((rateGame(g.scores,all)||{}).score - g.rating.score) > 0.15);
+    if(off.length) console.warn(`Score formula out of step with the build for ${off.length} games, e.g.`, off[0].title, off[0].rating, rateGame(off[0].scores, all));
+  }
   return VIEWS[v].data;
 }
 async function showView(v){

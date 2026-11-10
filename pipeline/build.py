@@ -12,7 +12,7 @@ import traceback
 
 import yaml
 
-from . import edits, franchises, hltb, nso, psplus, scores, sources, titles, wikidata
+from . import edits, franchises, hltb, nso, psplus, scores, sources, titles, wikidata, rating
 from .igdb import IGDB, genres_of, metadata_of
 from .util import CACHE_DIR, CONFIG_DIR, SITE_DIR, days_since, load_json, log, now_iso, save_json
 
@@ -367,6 +367,7 @@ def _year(g):
 
 def fetch_metacritic(row, c, wd, overrides):
     """Most reliable source first: your fix, Wikidata, Steam's link, then IGDB slug / title with a year check."""
+    prev_v = c.get("mc_v")
     g = row["igdb"] or {}
     year = _year(g)
     fix = None
@@ -383,20 +384,28 @@ def fetch_metacritic(row, c, wd, overrides):
         if g.get("slug"):
             tries.append((g["slug"], year))
         tries.append((scores.slugify(titles.clean(row["title"])), year))
-    c["metacritic"], c["metacritic_slug"] = None, None
+    prev = (c.get("metacritic"), c.get("metacritic_slug"), c.get("metacritic_n"))
+    c["metacritic"], c["metacritic_slug"], c["metacritic_n"] = None, None, None
     c["mc_v"] = METACRITIC_VERSION
     if not fix and c.get("steam_mc"):  # Steam lists the exact Metacritic score for its own games
         c["metacritic"], c["metacritic_slug"] = c["steam_mc"], c.get("steam_mc_slug")
         return
-    seen = set()
+    seen, answered = set(), False
     for slug, expect in tries:
         if not slug or slug in seen:
             continue
         seen.add(slug)
         score = scores.metacritic(slug, is_slug=True, expect_year=expect)
+        last = getattr(scores.metacritic, "last", {}) or {}
+        answered = answered or last.get("status") in ("ok", "missing")
         if score:
-            c["metacritic"], c["metacritic_slug"] = score, slug
+            c["metacritic"], c["metacritic_slug"], c["metacritic_n"] = score, slug, last.get("count")
             break
+    if c["metacritic"] is None and not answered and prev[0] is not None:
+        # Metacritic didn't answer at all (outage, blocking): keep the score we had instead of erasing it.
+        c["metacritic"], c["metacritic_slug"], c["metacritic_n"] = prev
+        c["mc_v"] = prev_v
+        return
     c["mc_v"] = METACRITIC_VERSION
 
 
@@ -425,6 +434,7 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
         bl = scores.backloggd(g.get("slug"))
         if bl is not None:
             c["backloggd"] = bl
+            c["backloggd_n"] = getattr(scores.backloggd, "last_count", None) or c.get("backloggd_n")
         c["bl_v"] = scores.BACKLOGGD_PARSER_VERSION
         c["checked"] = now_iso()
         cache[row["key"]] = c
@@ -456,6 +466,7 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
                 bl = scores.backloggd(row["igdb"]["slug"])
                 if bl is not None:
                     c["backloggd"] = bl
+                    c["backloggd_n"] = getattr(scores.backloggd, "last_count", None) or c.get("backloggd_n")
                 c["bl_v"] = scores.BACKLOGGD_PARSER_VERSION
         save_json(CACHE_DIR / "scores.json", cache)
         refresh_opencritic(rows, cache, wd_cache)
@@ -620,6 +631,15 @@ def to_site_row(row, sc, hl=None):
             "igdb_user": r1(g.get("rating")),
             "steam": sc.get("steam_pct"),
         },
+        "counts": {k: v for k, v in {
+            "metacritic": sc.get("metacritic_n"),
+            "opencritic": sc.get("opencritic_n"),
+            "backloggd": sc.get("backloggd_n"),
+            "igdb_critic": g.get("aggregated_rating_count"),
+            "igdb_user": g.get("rating_count"),
+            "steam": sc.get("steam_reviews"),
+        }.items() if v},
+        "mc_verified": sc.get("mc_v") == METACRITIC_VERSION if sc.get("metacritic") is not None else None,
         "backloggd_stars": bl,
         "opencritic_pct": sc.get("opencritic_pct"),
         "opencritic_tier": sc.get("opencritic_tier"),
@@ -630,6 +650,7 @@ def to_site_row(row, sc, hl=None):
         out["links"]["hltb"] = f"https://howlongtobeat.com/game/{hl['hltb_id']}"
     if g:
         out.update(metadata_of(g))
+    out["rating"] = rating.compute(out["scores"])
     return out
 
 
@@ -691,7 +712,7 @@ def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, 
     games.sort(key=lambda g: g["title"].lower())
     save_json(
         SITE_DIR / "psplus.json",
-        {"generated": now_iso(), "status": {"psplus": status.get("psplus")}, "count": len(games), "games": games},
+        {"generated": now_iso(), "status": {"psplus": status.get("psplus")}, "rating_model": rating.MODEL, "count": len(games), "games": games},
         pretty=False,
     )
     log(f"PS Plus catalog: {len(games)} games written ({sum(g['owned'] for g in games)} also in your library)")
@@ -777,7 +798,7 @@ def main():
     games.sort(key=lambda g: g["title"].lower())
     save_json(
         SITE_DIR / "data.json",
-        {"generated": now_iso(), "status": status, "count": len(games), "games": games},
+        {"generated": now_iso(), "status": status, "rating_model": rating.MODEL, "count": len(games), "games": games},
         pretty=False,
     )
     write_catalog(cat_entries, catalog, match_info, igdb_games, merged, cache, hl_cache, status)

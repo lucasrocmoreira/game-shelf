@@ -21,6 +21,7 @@ Two layers:
 A franchise is shown when it has at least 5 main games, at least 3 of them widely rated on IGDB, and you
 own at least 2 of its games. Played/playing status is worked out in the app, so it is always current.
 """
+from . import rating
 from .igdb import franchise_ok
 import re
 import time
@@ -55,7 +56,7 @@ CHILD_PLATS = {}
 DEBUG = None  # set to {} to record why each game was dropped or made a spin-off
 
 FIELDS = ("name,slug,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
-          "rating,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres,bundles")
+          "aggregated_rating_count,rating,rating_count,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres,bundles")
 CACHE_VERSION = 4  # bump when FIELDS change, to fetch everything again
 
 
@@ -120,8 +121,9 @@ def _cover(g):
 
 
 def _score(g):
-    scores = [v for v in (g.get("aggregated_rating"), g.get("rating")) if isinstance(v, (int, float)) and v > 0]
-    return round(sum(scores) / len(scores)) if scores else None
+    """Same two-pillar score as the library, from what IGDB knows (critics and players)."""
+    r = rating.compute({"igdb_critic": g.get("aggregated_rating") or None, "igdb_user": g.get("rating") or None})
+    return round(r["score"]) if r else None
 
 
 def _pair_versions(entries):

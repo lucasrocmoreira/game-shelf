@@ -58,7 +58,7 @@ def steam_store(appid):
     r = polite_get(
         f"https://store.steampowered.com/appreviews/{appid}",
         host_delay=1.6,
-        params={"json": 1, "language": "all", "purchase_type": "all", "num_per_page": 0},
+        params={"json": 1, "language": "all", "purchase_type": "all", "filter": "all", "review_type": "all", "num_per_page": 0},
     )
     try:
         s = r.json()["query_summary"]
@@ -73,6 +73,7 @@ def steam_store(appid):
 
 # ---------------------------------------------------------------- Metacritic
 _MC_TITLE = re.compile(r"Metascore\s+(\d{1,3})\s+out of 100", re.I)
+_MC_COUNT = re.compile(r"Based on\s+(\d[\d,]*)\s+Critic Reviews?", re.I)
 _MC_NONE = re.compile(r"Metascore\s+(?:tbd|is not available|not yet available)|No score yet|\btbd\b|Not enough reviews|Awaiting \d+ more", re.I)
 
 
@@ -83,15 +84,20 @@ _MC_YEAR = [
 ]
 
 
-def metacritic(slug_or_title, is_slug=False, expect_year=None):
+def metacritic(slug_or_title, is_slug=False, expect_year=None):  # noqa: C901
     """Metascore from a Metacritic game page. With expect_year, a page for a different game that
     happens to share the name (e.g. a 2010 "Humanity" vs the 2023 one) is rejected."""
     slug = slug_or_title if is_slug else slugify(slug_or_title)
     if not slug:
         return None
+    metacritic.last = {"status": "error", "count": None}  # read by the build: failed fetch vs "no score"
     r = polite_get(f"https://www.metacritic.com/game/{slug}/", host_delay=2.0)
     if r is None or r.status_code != 200:
+        if r is not None and r.status_code == 404:
+            metacritic.last["status"] = "missing"
         return None
+    metacritic.last["status"] = "ok"
+    cm = _MC_COUNT.search(r.text)
     if expect_year:
         page_year = None
         for pat in _MC_YEAR:
@@ -104,6 +110,7 @@ def metacritic(slug_or_title, is_slug=False, expect_year=None):
             return None
     # The page's own rating data is about this game; prefer it.
     ld = _ld_json_rating(r.text)
+    metacritic.last["count"] = (ld[2] if ld and ld[1] == 100.0 else None) or (int(cm.group(1)) if cm else None)
     if ld and ld[1] == 100.0 and ld[0] > 10:
         return round(ld[0])
     # Otherwise read the visible Metascore, but only if it comes before any "no score" marker.
@@ -206,12 +213,15 @@ class OpenCritic:
             "opencritic_pct": round(pct) if isinstance(pct, (int, float)) and pct >= 0 else None,
             "opencritic_tier": tier if isinstance(tier, str) else None,
             "opencritic_year": year,
+            "opencritic_n": g.get("numTopCriticReviews") if isinstance(g.get("numTopCriticReviews"), int) else None,
+            "opencritic_n_all": g.get("numReviews") if isinstance(g.get("numReviews"), int) else None,
         }
 
 
 # ---------------------------------------------------------------- Backloggd
-BACKLOGGD_PARSER_VERSION = 2  # bump when the parser changes, so missing scores get retried
+BACKLOGGD_PARSER_VERSION = 3  # bump when the parser changes, so missing scores get retried
 
+_BL_COUNT = re.compile(r"(\d[\d,]*)\s+Ratings?\b", re.I)
 _BL_LABEL = r"(?:Avg\.?|Average)\s*Rating"
 _BL_PATTERNS = [
     # The page shows a label "Avg Rating" next to a heading with the number, e.g. <h1>4.4</h1>.
@@ -230,11 +240,14 @@ def backloggd(igdb_slug):
     """
     if not igdb_slug or os.environ.get("BACKLOGGD", "1") == "0":
         return None
+    backloggd.last_count = None
     r = polite_get(f"https://backloggd.com/games/{igdb_slug}/", host_delay=2.5)
     if r is None or r.status_code != 200:
         log(f"    Backloggd: HTTP {getattr(r, 'status_code', 'no response')} for {igdb_slug}")
         return None
     ld = _ld_json_rating(r.text)
+    cm = _BL_COUNT.search(r.text)
+    backloggd.last_count = (ld[2] if ld else None) or (int(cm.group(1).replace(",", "")) if cm else None)
     if ld and ld[0] <= 5:
         return round(ld[0], 2)
     for pat in _BL_PATTERNS:
