@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 10 * * *"   # daily, about 5:17 AM in Dallas (10:17 UTC)
   workflow_dispatch:         # "Run workflow" button for a manual refresh
+    inputs:
+      max_rechecks:
+        description: "Games to re-check per site this run (default 200; higher catches up faster but scrapes more)"
+        required: false
+        default: "200"
   push:
     branches: [main]
     paths: ["config/**", "site/index.html"]   # editing your Nintendo list or overrides triggers a run
@@ -45,6 +50,7 @@ jobs:
           OPENCRITIC_RAPIDAPI_KEY: ${{ secrets.OPENCRITIC_RAPIDAPI_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAX_RECHECKS: ${{ github.event.inputs.max_rechecks || '200' }}
         run: python -m pipeline.build
 
       - name: Alert me if a library source broke
