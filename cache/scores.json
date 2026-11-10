@@ -10,7 +10,7 @@
  },
  "igdb:1000": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:13+00:00",
   "mc_v": 3,
@@ -45,7 +45,7 @@
  },
  "igdb:100413": {
   "backloggd": 2.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:10+00:00",
   "mc_v": 3,
@@ -60,7 +60,7 @@
  },
  "igdb:1009": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:53+00:00",
   "mc_v": 3,
@@ -71,7 +71,7 @@
  },
  "igdb:101006": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:24+00:00",
   "mc_v": 3,
@@ -185,7 +185,7 @@
  },
  "igdb:102129": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:42+00:00",
   "mc_v": 3,
@@ -367,7 +367,7 @@
  },
  "igdb:103168": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:03+00:00",
   "mc_v": 3,
@@ -494,7 +494,7 @@
  },
  "igdb:103316": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:43+00:00",
   "mc_v": 3,
@@ -509,7 +509,7 @@
  },
  "igdb:103320": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:52+00:00",
   "mc_v": 3,
@@ -524,7 +524,7 @@
  },
  "igdb:103329": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:49+00:00",
   "mc_v": 3,
@@ -568,7 +568,7 @@
  },
  "igdb:103341": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:37+00:00",
   "mc_v": 3,
@@ -664,7 +664,7 @@
  },
  "igdb:10392": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:43+00:00",
   "mc_v": 3,
@@ -711,7 +711,7 @@
  },
  "igdb:1051": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:24+00:00",
   "mc_v": 3,
@@ -732,7 +732,7 @@
  },
  "igdb:105416": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:09+00:00",
   "mc_v": 3,
@@ -788,7 +788,7 @@
  },
  "igdb:10605": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:17+00:00",
   "mc_v": 3,
@@ -831,7 +831,7 @@
  },
  "igdb:1062": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:24+00:00",
   "mc_v": 3,
@@ -1032,7 +1032,7 @@
  },
  "igdb:107233": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:05:12+00:00",
   "mc_v": 3,
@@ -1191,7 +1191,7 @@
  },
  "igdb:109": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:28+00:00",
   "mc_v": 3,
@@ -1416,7 +1416,7 @@
  },
  "igdb:10962": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:05+00:00",
   "mc_v": 3,
@@ -1561,7 +1561,7 @@
  },
  "igdb:11059": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:34+00:00",
   "mc_v": 3,
@@ -1591,7 +1591,7 @@
  },
  "igdb:11065": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:02:05+00:00",
   "mc_v": 3,
@@ -1668,7 +1668,7 @@
  },
  "igdb:110846": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:49+00:00",
   "mc_v": 3,
@@ -1716,7 +1716,7 @@
  },
  "igdb:111090": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:05+00:00",
   "mc_v": 3,
@@ -1820,7 +1820,7 @@
  },
  "igdb:11156": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:35+00:00",
   "mc_v": 3,
@@ -1880,7 +1880,7 @@
  },
  "igdb:11171": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:07+00:00",
   "mc_v": 3,
@@ -1895,7 +1895,7 @@
  },
  "igdb:11172": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:30+00:00",
   "mc_v": 3,
@@ -1955,7 +1955,7 @@
  },
  "igdb:11198": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:51+00:00",
   "mc_v": 3,
@@ -1996,7 +1996,7 @@
  },
  "igdb:1121": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:13+00:00",
   "mc_v": 3,
@@ -2011,7 +2011,7 @@
  },
  "igdb:112105": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:26+00:00",
   "mc_v": 3,
@@ -2126,7 +2126,7 @@
  },
  "igdb:112875": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:38+00:00",
   "mc_v": 3,
@@ -2152,7 +2152,7 @@
  },
  "igdb:112916": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:10+00:00",
   "mc_v": 3,
@@ -2286,7 +2286,7 @@
  },
  "igdb:113431": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:47+00:00",
   "mc_v": 3,
@@ -2297,7 +2297,7 @@
  },
  "igdb:113598": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:43+00:00",
   "mc_v": 3,
@@ -2334,7 +2334,7 @@
  },
  "igdb:11397": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:29+00:00",
   "mc_v": 3,
@@ -2360,7 +2360,7 @@
  },
  "igdb:114058": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:25+00:00",
   "mc_v": 3,
@@ -2412,7 +2412,7 @@
  },
  "igdb:11491": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:52+00:00",
   "mc_v": 3,
@@ -2453,7 +2453,7 @@
  },
  "igdb:115115": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:39+00:00",
   "mc_v": 3,
@@ -2523,7 +2523,7 @@
  },
  "igdb:115478": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:04+00:00",
   "mc_v": 3,
@@ -2538,7 +2538,7 @@
  },
  "igdb:11590": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:05:15+00:00",
   "mc_v": 3,
@@ -2553,7 +2553,7 @@
  },
  "igdb:115912": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:27+00:00",
   "mc_v": 3,
@@ -2583,7 +2583,7 @@
  },
  "igdb:116": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:40+00:00",
   "mc_v": 3,
@@ -2619,7 +2619,7 @@
  },
  "igdb:1161": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:45+00:00",
   "mc_v": 3,
@@ -2662,7 +2662,7 @@
  },
  "igdb:1162": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:14+00:00",
   "mc_v": 3,
@@ -2673,7 +2673,7 @@
  },
  "igdb:116200": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:19+00:00",
   "mc_v": 3,
@@ -2725,7 +2725,7 @@
  },
  "igdb:1164": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:37+00:00",
   "mc_v": 3,
@@ -2780,7 +2780,7 @@
  },
  "igdb:116466": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:49+00:00",
   "mc_v": 3,
@@ -2821,7 +2821,7 @@
  },
  "igdb:117": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:31+00:00",
   "mc_v": 3,
@@ -2910,7 +2910,7 @@
  },
  "igdb:11739": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:05+00:00",
   "mc_v": 3,
@@ -2954,7 +2954,7 @@
  },
  "igdb:11759": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:25+00:00",
   "mc_v": 3,
@@ -2976,7 +2976,7 @@
  },
  "igdb:117717": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:26+00:00",
   "mc_v": 3,
@@ -3068,7 +3068,7 @@
  },
  "igdb:11789": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:16+00:00",
   "mc_v": 3,
@@ -3079,7 +3079,7 @@
  },
  "igdb:11790": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:50+00:00",
   "mc_v": 3,
@@ -3090,7 +3090,7 @@
  },
  "igdb:11800": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:08+00:00",
   "mc_v": 3,
@@ -3142,7 +3142,7 @@
  },
  "igdb:118218": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:09+00:00",
   "mc_v": 3,
@@ -3172,7 +3172,7 @@
  },
  "igdb:11852": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:10+00:00",
   "mc_v": 3,
@@ -3341,7 +3341,7 @@
  },
  "igdb:119255": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:24+00:00",
   "mc_v": 3,
@@ -3351,7 +3351,7 @@
  },
  "igdb:119256": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:06+00:00",
   "mc_v": 3,
@@ -3366,7 +3366,7 @@
  },
  "igdb:119262": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:15+00:00",
   "mc_v": 3,
@@ -3426,7 +3426,7 @@
  },
  "igdb:119313": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:02+00:00",
   "mc_v": 3,
@@ -3704,7 +3704,7 @@
  },
  "igdb:1214": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:07+00:00",
   "mc_v": 3,
@@ -3715,7 +3715,7 @@
  },
  "igdb:1215": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:10+00:00",
   "mc_v": 3,
@@ -3726,7 +3726,7 @@
  },
  "igdb:121503": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:15+00:00",
   "mc_v": 3,
@@ -3748,7 +3748,7 @@
  },
  "igdb:121618": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:22+00:00",
   "mc_v": 3,
@@ -3877,7 +3877,7 @@
  },
  "igdb:122": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:04+00:00",
   "mc_v": 3,
@@ -4026,7 +4026,7 @@
  },
  "igdb:124": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:07+00:00",
   "mc_v": 3,
@@ -4076,7 +4076,7 @@
  },
  "igdb:124954": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:46+00:00",
   "mc_v": 3,
@@ -4177,7 +4177,7 @@
  },
  "igdb:12529": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:23+00:00",
   "mc_v": 3,
@@ -4248,7 +4248,7 @@
  },
  "igdb:125625": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:21+00:00",
   "mc_v": 3,
@@ -4319,7 +4319,7 @@
  },
  "igdb:12596": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:10+00:00",
   "mc_v": 3,
@@ -4644,7 +4644,7 @@
  },
  "igdb:13": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:53+00:00",
   "mc_v": 3,
@@ -4708,7 +4708,7 @@
  },
  "igdb:1318": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:34+00:00",
   "mc_v": 3,
@@ -4758,7 +4758,7 @@
  },
  "igdb:132038": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:56+00:00",
   "mc_v": 3,
@@ -4942,7 +4942,7 @@
  },
  "igdb:1331": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:15+00:00",
   "mc_v": 3,
@@ -5185,7 +5185,7 @@
  },
  "igdb:134581": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:18+00:00",
   "mc_v": 3,
@@ -5245,7 +5245,7 @@
  },
  "igdb:134587": {
   "backloggd": 2.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:51+00:00",
   "mc_v": 3,
@@ -5260,7 +5260,7 @@
  },
  "igdb:134597": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:14+00:00",
   "mc_v": 3,
@@ -5286,7 +5286,7 @@
  },
  "igdb:134602": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:02:02+00:00",
   "mc_v": 3,
@@ -5301,7 +5301,7 @@
  },
  "igdb:134606": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:55+00:00",
   "mc_v": 3,
@@ -5357,7 +5357,7 @@
  },
  "igdb:1352": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:13+00:00",
   "mc_v": 3,
@@ -5368,7 +5368,7 @@
  },
  "igdb:135243": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:54+00:00",
   "mc_v": 3,
@@ -5383,7 +5383,7 @@
  },
  "igdb:135254": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:15+00:00",
   "mc_v": 3,
@@ -5419,7 +5419,7 @@
  },
  "igdb:135554": {
   "backloggd": 1.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:23+00:00",
   "mc_v": 3,
@@ -5444,7 +5444,7 @@
  },
  "igdb:135671": {
   "backloggd": 2.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:39+00:00",
   "mc_v": 3,
@@ -5470,7 +5470,7 @@
  },
  "igdb:135915": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:45+00:00",
   "mc_v": 3,
@@ -5801,7 +5801,7 @@
  },
  "igdb:138884": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:45+00:00",
   "mc_v": 3,
@@ -5971,7 +5971,7 @@
  },
  "igdb:14": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:56+00:00",
   "mc_v": 3,
@@ -6065,7 +6065,7 @@
  },
  "igdb:140839": {
   "backloggd": 4.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:08+00:00",
   "mc_v": 3,
@@ -6087,7 +6087,7 @@
  },
  "igdb:141060": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:35+00:00",
   "mc_v": 3,
@@ -6132,7 +6132,7 @@
  },
  "igdb:141540": {
   "backloggd": 4.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:58+00:00",
   "mc_v": 3,
@@ -6193,7 +6193,7 @@
  "igdb:141568": {},
  "igdb:14159": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:13+00:00",
   "mc_v": 3,
@@ -6208,7 +6208,7 @@
  },
  "igdb:141704": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:57+00:00",
   "mc_v": 3,
@@ -6223,7 +6223,7 @@
  },
  "igdb:14177": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:51+00:00",
   "mc_v": 3,
@@ -6261,7 +6261,7 @@
  },
  "igdb:142": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:35+00:00",
   "mc_v": 3,
@@ -6366,7 +6366,7 @@
  },
  "igdb:142815": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:29+00:00",
   "mc_v": 3,
@@ -6387,7 +6387,7 @@
  },
  "igdb:143": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:45+00:00",
   "mc_v": 3,
@@ -6419,7 +6419,7 @@
  },
  "igdb:143114": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:43+00:00",
   "mc_v": 3,
@@ -6537,7 +6537,7 @@
  },
  "igdb:14362": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:32+00:00",
   "mc_v": 3,
@@ -6567,7 +6567,7 @@
  },
  "igdb:14366": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:49+00:00",
   "mc_v": 3,
@@ -6626,7 +6626,7 @@
  },
  "igdb:14389": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:32+00:00",
   "mc_v": 3,
@@ -6652,7 +6652,7 @@
  },
  "igdb:14390": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:44+00:00",
   "mc_v": 3,
@@ -6667,7 +6667,7 @@
  },
  "igdb:14394": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-17T13:46:29+00:00",
   "mc_v": 3,
@@ -6715,7 +6715,7 @@
  },
  "igdb:144072": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:52+00:00",
   "mc_v": 3,
@@ -6741,7 +6741,7 @@
  },
  "igdb:14411": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:59+00:00",
   "mc_v": 3,
@@ -6843,7 +6843,7 @@
  },
  "igdb:145004": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:36+00:00",
   "mc_v": 3,
@@ -6892,7 +6892,7 @@
  },
  "igdb:145028": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:03+00:00",
   "mc_v": 3,
@@ -7059,7 +7059,7 @@
  },
  "igdb:14593": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:59+00:00",
   "mc_v": 3,
@@ -7122,7 +7122,7 @@
  },
  "igdb:1462": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:27+00:00",
   "mc_v": 3,
@@ -7313,7 +7313,7 @@
  },
  "igdb:14746": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-07T03:08:50+00:00",
   "mc_v": 3,
@@ -7324,7 +7324,7 @@
  },
  "igdb:147519": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-17T13:46:33+00:00",
   "mc_v": 3,
@@ -7409,7 +7409,7 @@
  },
  "igdb:148228": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:54+00:00",
   "mc_v": 3,
@@ -7540,7 +7540,7 @@
  },
  "igdb:15": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-03T04:24:04+00:00",
   "mc_v": 3,
@@ -7723,7 +7723,7 @@
  },
  "igdb:152": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:33+00:00",
   "mc_v": 3,
@@ -7880,7 +7880,7 @@
  },
  "igdb:152204": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:27+00:00",
   "mc_v": 3,
@@ -8017,7 +8017,7 @@
  },
  "igdb:1528": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:41+00:00",
   "mc_v": 3,
@@ -8028,7 +8028,7 @@
  },
  "igdb:1529": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:34+00:00",
   "mc_v": 3,
@@ -8050,7 +8050,7 @@
  },
  "igdb:1530": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:31+00:00",
   "mc_v": 3,
@@ -8072,7 +8072,7 @@
  },
  "igdb:1532": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:36+00:00",
   "mc_v": 3,
@@ -8347,7 +8347,7 @@
  },
  "igdb:1566": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:43+00:00",
   "mc_v": 3,
@@ -8399,7 +8399,7 @@
  },
  "igdb:158": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:49+00:00",
   "mc_v": 3,
@@ -8477,7 +8477,7 @@
  },
  "igdb:158983": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:52+00:00",
   "mc_v": 3,
@@ -8644,7 +8644,7 @@
  },
  "igdb:162": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:52+00:00",
   "mc_v": 3,
@@ -8936,7 +8936,7 @@
  },
  "igdb:1677": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-07T03:12:32+00:00",
   "mc_v": 3,
@@ -8946,7 +8946,7 @@
  },
  "igdb:1678": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:37+00:00",
   "mc_v": 3,
@@ -8957,7 +8957,7 @@
  },
  "igdb:1679": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:17:20+00:00",
   "mc_v": 3,
@@ -8968,7 +8968,7 @@
  },
  "igdb:1681": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:58+00:00",
   "mc_v": 3,
@@ -8979,7 +8979,7 @@
  },
  "igdb:168670": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:20+00:00",
   "mc_v": 3,
@@ -9112,7 +9112,7 @@
  },
  "igdb:17": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:59+00:00",
   "mc_v": 3,
@@ -9179,7 +9179,7 @@
  },
  "igdb:17032": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:29+00:00",
   "mc_v": 3,
@@ -9261,7 +9261,7 @@
  },
  "igdb:170995": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:08+00:00",
   "mc_v": 3,
@@ -9313,7 +9313,7 @@
  },
  "igdb:17158": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:22+00:00",
   "mc_v": 3,
@@ -9518,7 +9518,7 @@
  },
  "igdb:1751": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:47+00:00",
   "mc_v": 3,
@@ -9705,7 +9705,7 @@
  },
  "igdb:178123": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:12+00:00",
   "mc_v": 3,
@@ -9789,7 +9789,7 @@
  },
  "igdb:178351": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:58+00:00",
   "mc_v": 3,
@@ -9838,7 +9838,7 @@
  },
  "igdb:1791": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:49+00:00",
   "mc_v": 3,
@@ -9859,7 +9859,7 @@
  },
  "igdb:1793": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:27+00:00",
   "mc_v": 3,
@@ -9892,7 +9892,7 @@
  },
  "igdb:1798": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T06:30:49+00:00",
   "mc_v": 3,
@@ -9903,7 +9903,7 @@
  },
  "igdb:1799": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:34+00:00",
   "mc_v": 3,
@@ -9914,7 +9914,7 @@
  },
  "igdb:18": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:08+00:00",
   "mc_v": 3,
@@ -9938,7 +9938,7 @@
  },
  "igdb:1800": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:38+00:00",
   "mc_v": 3,
@@ -9971,7 +9971,7 @@
  },
  "igdb:1802": {
   "backloggd": 4.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-02T09:05:23+00:00",
   "mc_v": 3,
@@ -10003,7 +10003,7 @@
  },
  "igdb:18050": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:28+00:00",
   "mc_v": 3,
@@ -10188,7 +10188,7 @@
  },
  "igdb:18264": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:25+00:00",
   "mc_v": 3,
@@ -10225,7 +10225,7 @@
  },
  "igdb:18320": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:29+00:00",
   "mc_v": 3,
@@ -10292,7 +10292,7 @@
  },
  "igdb:18399": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:18+00:00",
   "mc_v": 3,
@@ -10307,7 +10307,7 @@
  },
  "igdb:18433": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:57+00:00",
   "mc_v": 3,
@@ -10533,7 +10533,7 @@
  },
  "igdb:1868": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:54+00:00",
   "mc_v": 3,
@@ -10555,7 +10555,7 @@
  },
  "igdb:18696": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:08+00:00",
   "mc_v": 3,
@@ -10566,7 +10566,7 @@
  },
  "igdb:18699": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:41+00:00",
   "mc_v": 3,
@@ -10577,7 +10577,7 @@
  },
  "igdb:1871": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:40+00:00",
   "mc_v": 3,
@@ -10609,7 +10609,7 @@
  "igdb:187562": {},
  "igdb:1876": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:20+00:00",
   "mc_v": 3,
@@ -10634,7 +10634,7 @@
  },
  "igdb:1877": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:37+00:00",
   "mc_v": 3,
@@ -10659,7 +10659,7 @@
  },
  "igdb:1879": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:36+00:00",
   "mc_v": 3,
@@ -10767,7 +10767,7 @@
  },
  "igdb:18918": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:11+00:00",
   "mc_v": 3,
@@ -10814,7 +10814,7 @@
  },
  "igdb:19": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:11+00:00",
   "mc_v": 3,
@@ -10838,7 +10838,7 @@
  },
  "igdb:1905": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:29+00:00",
   "mc_v": 3,
@@ -10942,7 +10942,7 @@
  },
  "igdb:19245": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:47+00:00",
   "mc_v": 3,
@@ -11016,7 +11016,7 @@
  },
  "igdb:19348": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:01+00:00",
   "mc_v": 3,
@@ -11035,7 +11035,7 @@
  },
  "igdb:1937": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:40+00:00",
   "mc_v": 3,
@@ -11050,7 +11050,7 @@
  },
  "igdb:1940": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:44+00:00",
   "mc_v": 3,
@@ -11065,7 +11065,7 @@
  },
  "igdb:1941": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:37+00:00",
   "mc_v": 3,
@@ -11080,7 +11080,7 @@
  },
  "igdb:19419": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:48+00:00",
   "mc_v": 3,
@@ -11091,7 +11091,7 @@
  },
  "igdb:1942": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:31+00:00",
   "mc_v": 3,
@@ -11121,7 +11121,7 @@
  },
  "igdb:19424": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:16+00:00",
   "mc_v": 3,
@@ -11131,7 +11131,7 @@
  },
  "igdb:19428": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:19+00:00",
   "mc_v": 3,
@@ -11141,7 +11141,7 @@
  },
  "igdb:19430": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:22+00:00",
   "mc_v": 3,
@@ -11152,7 +11152,7 @@
  },
  "igdb:194404": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:34+00:00",
   "mc_v": 3,
@@ -11238,7 +11238,7 @@
  },
  "igdb:19470": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:42+00:00",
   "mc_v": 3,
@@ -11324,7 +11324,7 @@
  },
  "igdb:19553": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:40+00:00",
   "mc_v": 3,
@@ -11354,7 +11354,7 @@
  },
  "igdb:19560": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:45+00:00",
   "mc_v": 3,
@@ -11369,7 +11369,7 @@
  },
  "igdb:19561": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:34+00:00",
   "mc_v": 3,
@@ -11384,7 +11384,7 @@
  },
  "igdb:19562": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:43+00:00",
   "mc_v": 3,
@@ -11414,7 +11414,7 @@
  },
  "igdb:19565": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:53+00:00",
   "mc_v": 3,
@@ -11429,7 +11429,7 @@
  },
  "igdb:1957": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:02:55+00:00",
   "mc_v": 3,
@@ -11439,7 +11439,7 @@
  },
  "igdb:195868": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:32+00:00",
   "mc_v": 3,
@@ -11480,7 +11480,7 @@
  },
  "igdb:1960": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:02:59+00:00",
   "mc_v": 3,
@@ -11491,7 +11491,7 @@
  },
  "igdb:1968": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:12+00:00",
   "mc_v": 3,
@@ -11506,7 +11506,7 @@
  },
  "igdb:19686": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:51+00:00",
   "mc_v": 3,
@@ -11536,7 +11536,7 @@
  },
  "igdb:19696": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:37+00:00",
   "mc_v": 3,
@@ -11628,7 +11628,7 @@
  },
  "igdb:19796": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:11:55+00:00",
   "mc_v": 3,
@@ -11658,7 +11658,7 @@
  },
  "igdb:19839": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:26+00:00",
   "mc_v": 3,
@@ -11766,7 +11766,7 @@
  },
  "igdb:19965": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:22+00:00",
   "mc_v": 3,
@@ -11781,7 +11781,7 @@
  },
  "igdb:19978": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:52+00:00",
   "mc_v": 3,
@@ -11818,7 +11818,7 @@
  },
  "igdb:20": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:49+00:00",
   "mc_v": 3,
@@ -11850,7 +11850,7 @@
  },
  "igdb:2003": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:44+00:00",
   "mc_v": 3,
@@ -11882,7 +11882,7 @@
  },
  "igdb:20065": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:57+00:00",
   "mc_v": 3,
@@ -12057,7 +12057,7 @@
  },
  "igdb:201963": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T11:39:38+00:00",
   "mc_v": 3,
@@ -12072,7 +12072,7 @@
  },
  "igdb:20228": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-17T13:46:26+00:00",
   "mc_v": 3,
@@ -12112,7 +12112,7 @@
  },
  "igdb:2025": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:59+00:00",
   "mc_v": 3,
@@ -12123,7 +12123,7 @@
  },
  "igdb:202539": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:27+00:00",
   "mc_v": 3,
@@ -12511,7 +12511,7 @@
  },
  "igdb:205593": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:38+00:00",
   "mc_v": 3,
@@ -12537,7 +12537,7 @@
  },
  "igdb:205780": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:16+00:00",
   "mc_v": 3,
@@ -12605,7 +12605,7 @@
  },
  "igdb:20600": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:06+00:00",
   "mc_v": 3,
@@ -12748,7 +12748,7 @@
  },
  "igdb:20717": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:44+00:00",
   "mc_v": 3,
@@ -12758,7 +12758,7 @@
  },
  "igdb:20728": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:38+00:00",
   "mc_v": 3,
@@ -12817,7 +12817,7 @@
  },
  "igdb:20764": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:19+00:00",
   "mc_v": 3,
@@ -12908,7 +12908,7 @@
  },
  "igdb:209": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:02+00:00",
   "mc_v": 3,
@@ -12919,7 +12919,7 @@
  },
  "igdb:20910": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:34+00:00",
   "mc_v": 3,
@@ -13000,7 +13000,7 @@
  },
  "igdb:21": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:52+00:00",
   "mc_v": 3,
@@ -13105,7 +13105,7 @@
  },
  "igdb:21050": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:35+00:00",
   "mc_v": 3,
@@ -13138,7 +13138,7 @@
  },
  "igdb:21063": {
   "backloggd": 1.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:23+00:00",
   "mc_v": 3,
@@ -13241,7 +13241,7 @@
  "igdb:211243": {},
  "igdb:2113": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:34+00:00",
   "mc_v": 3,
@@ -13256,7 +13256,7 @@
  },
  "igdb:2114": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:20+00:00",
   "mc_v": 3,
@@ -13467,7 +13467,7 @@
  },
  "igdb:2142": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:10+00:00",
   "mc_v": 3,
@@ -13478,7 +13478,7 @@
  },
  "igdb:21429": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:00+00:00",
   "mc_v": 3,
@@ -13504,7 +13504,7 @@
  },
  "igdb:214402": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:48+00:00",
   "mc_v": 3,
@@ -13571,7 +13571,7 @@
  },
  "igdb:21537": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:29+00:00",
   "mc_v": 3,
@@ -13582,7 +13582,7 @@
  },
  "igdb:21557": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:31+00:00",
   "mc_v": 3,
@@ -13593,7 +13593,7 @@
  },
  "igdb:21558": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:58+00:00",
   "mc_v": 3,
@@ -13653,7 +13653,7 @@
  },
  "igdb:21623": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:46+00:00",
   "mc_v": 3,
@@ -13694,7 +13694,7 @@
  },
  "igdb:21704": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:31+00:00",
   "mc_v": 3,
@@ -13886,7 +13886,7 @@
  "igdb:218372": {},
  "igdb:21840": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:55+00:00",
   "mc_v": 3,
@@ -14127,7 +14127,7 @@
  },
  "igdb:22": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:06+00:00",
   "mc_v": 3,
@@ -14174,7 +14174,7 @@
  },
  "igdb:22279": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:04+00:00",
   "mc_v": 3,
@@ -14185,7 +14185,7 @@
  },
  "igdb:222803": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:00+00:00",
   "mc_v": 3,
@@ -14221,7 +14221,7 @@
  "igdb:223112": {},
  "igdb:22344": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:35+00:00",
   "mc_v": 3,
@@ -14277,7 +14277,7 @@
  "igdb:224522": {},
  "igdb:22454": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-03T05:33:32+00:00",
   "mc_v": 3,
@@ -14419,7 +14419,7 @@
  },
  "igdb:22739": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:52+00:00",
   "mc_v": 3,
@@ -14556,7 +14556,7 @@
  },
  "igdb:22885": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:00+00:00",
   "mc_v": 3,
@@ -14648,7 +14648,7 @@
  },
  "igdb:22976": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:31+00:00",
   "mc_v": 3,
@@ -14683,7 +14683,7 @@
  },
  "igdb:23055": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:37+00:00",
   "mc_v": 3,
@@ -14716,7 +14716,7 @@
  },
  "igdb:231": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:31:51+00:00",
   "mc_v": 3,
@@ -14743,7 +14743,7 @@
  },
  "igdb:23115": {
   "backloggd": 1.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:24+00:00",
   "mc_v": 3,
@@ -14754,7 +14754,7 @@
  },
  "igdb:23127": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:03+00:00",
   "mc_v": 3,
@@ -14765,7 +14765,7 @@
  },
  "igdb:23175": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:07+00:00",
   "mc_v": 3,
@@ -14826,7 +14826,7 @@
  },
  "igdb:23215": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-03T05:32:35+00:00",
   "mc_v": 3,
@@ -14870,7 +14870,7 @@
  },
  "igdb:23248": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:41+00:00",
   "mc_v": 3,
@@ -14942,7 +14942,7 @@
  },
  "igdb:233": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:31:54+00:00",
   "mc_v": 3,
@@ -15010,7 +15010,7 @@
  },
  "igdb:23354": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:57+00:00",
   "mc_v": 3,
@@ -15036,7 +15036,7 @@
  },
  "igdb:23377": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:57+00:00",
   "mc_v": 3,
@@ -15065,7 +15065,7 @@
  },
  "igdb:234256": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:44+00:00",
   "mc_v": 3,
@@ -15162,7 +15162,7 @@
  },
  "igdb:235": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:24+00:00",
   "mc_v": 3,
@@ -15173,7 +15173,7 @@
  },
  "igdb:2354": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:47+00:00",
   "mc_v": 3,
@@ -15195,7 +15195,7 @@
  },
  "igdb:236": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:57+00:00",
   "mc_v": 3,
@@ -15242,7 +15242,7 @@
  },
  "igdb:238": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:22+00:00",
   "mc_v": 3,
@@ -15330,7 +15330,7 @@
  },
  "igdb:239942": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:11:41+00:00",
   "mc_v": 3,
@@ -15424,7 +15424,7 @@
  },
  "igdb:24181": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:42+00:00",
   "mc_v": 3,
@@ -15434,7 +15434,7 @@
  },
  "igdb:241954": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:07+00:00",
   "mc_v": 3,
@@ -15655,7 +15655,7 @@
  },
  "igdb:248529": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:22+00:00",
   "mc_v": 3,
@@ -15717,7 +15717,7 @@
  },
  "igdb:24891": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:01+00:00",
   "mc_v": 3,
@@ -15742,7 +15742,7 @@
  },
  "igdb:24962": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:04+00:00",
   "mc_v": 3,
@@ -15772,7 +15772,7 @@
  },
  "igdb:25009": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:39+00:00",
   "mc_v": 3,
@@ -15938,7 +15938,7 @@
  },
  "igdb:25076": {
   "backloggd": 4.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:02+00:00",
   "mc_v": 3,
@@ -16162,7 +16162,7 @@
  },
  "igdb:25358": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:39+00:00",
   "mc_v": 3,
@@ -16197,7 +16197,7 @@
  },
  "igdb:254354": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:32+00:00",
   "mc_v": 3,
@@ -16264,7 +16264,7 @@
  },
  "igdb:25632": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:05+00:00",
   "mc_v": 3,
@@ -16334,7 +16334,7 @@
  },
  "igdb:25837": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:05:09+00:00",
   "mc_v": 3,
@@ -16419,7 +16419,7 @@
  },
  "igdb:260": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:12+00:00",
   "mc_v": 3,
@@ -16442,8 +16442,8 @@
   "steam_v": 3
  },
  "igdb:260028": {
-  "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd": 3.3,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:11+00:00",
   "mc_v": 3,
@@ -16484,7 +16484,7 @@
  },
  "igdb:26192": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:01+00:00",
   "mc_v": 3,
@@ -16499,7 +16499,7 @@
  },
  "igdb:26195": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:59+00:00",
   "mc_v": 3,
@@ -16514,7 +16514,7 @@
  },
  "igdb:26196": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:13+00:00",
   "mc_v": 3,
@@ -16563,7 +16563,7 @@
  },
  "igdb:26228": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:24+00:00",
   "mc_v": 3,
@@ -16589,7 +16589,7 @@
  },
  "igdb:26231": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:07+00:00",
   "mc_v": 3,
@@ -16620,7 +16620,7 @@
  },
  "igdb:262538": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:41+00:00",
   "mc_v": 3,
@@ -16666,7 +16666,7 @@
  },
  "igdb:26381": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:11:57+00:00",
   "mc_v": 3,
@@ -16681,7 +16681,7 @@
  },
  "igdb:26401": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:04+00:00",
   "mc_v": 3,
@@ -16924,7 +16924,7 @@
  },
  "igdb:26879": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:15+00:00",
   "mc_v": 3,
@@ -16951,7 +16951,7 @@
  "igdb:269079": {},
  "igdb:26995": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:34+00:00",
   "mc_v": 3,
@@ -16984,7 +16984,7 @@
  },
  "igdb:27092": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:44+00:00",
   "mc_v": 3,
@@ -17010,7 +17010,7 @@
  },
  "igdb:27134": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:54+00:00",
   "mc_v": 3,
@@ -17166,7 +17166,7 @@
  },
  "igdb:27324": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:54+00:00",
   "mc_v": 3,
@@ -17272,7 +17272,7 @@
  },
  "igdb:27421": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:21+00:00",
   "mc_v": 3,
@@ -17317,7 +17317,7 @@
  },
  "igdb:27506": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:54+00:00",
   "mc_v": 3,
@@ -17331,7 +17331,7 @@
  },
  "igdb:275404": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:49+00:00",
   "mc_v": 3,
@@ -17397,7 +17397,7 @@
  },
  "igdb:27827": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:17+00:00",
   "mc_v": 3,
@@ -17418,7 +17418,7 @@
  },
  "igdb:27862": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:50+00:00",
   "mc_v": 3,
@@ -17439,7 +17439,7 @@
  },
  "igdb:27911": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:09+00:00",
   "mc_v": 3,
@@ -17519,7 +17519,7 @@
  },
  "igdb:27979": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:37+00:00",
   "mc_v": 3,
@@ -17534,7 +17534,7 @@
  },
  "igdb:28028": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:17+00:00",
   "mc_v": 3,
@@ -17602,7 +17602,7 @@
  "igdb:281902": {},
  "igdb:28204": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:46+00:00",
   "mc_v": 3,
@@ -17747,7 +17747,7 @@
  },
  "igdb:284721": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-07T03:12:29+00:00",
   "mc_v": 3,
@@ -17773,7 +17773,7 @@
  },
  "igdb:2852": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:59+00:00",
   "mc_v": 3,
@@ -17858,7 +17858,7 @@
  },
  "igdb:28723": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:21+00:00",
   "mc_v": 3,
@@ -17939,7 +17939,7 @@
  },
  "igdb:28856": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:46+00:00",
   "mc_v": 3,
@@ -18002,7 +18002,7 @@
  },
  "igdb:28981": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:20+00:00",
   "mc_v": 3,
@@ -18033,7 +18033,7 @@
  },
  "igdb:2903": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:09+00:00",
   "mc_v": 3,
@@ -18081,7 +18081,7 @@
  "igdb:292899": {},
  "igdb:2933": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:54+00:00",
   "mc_v": 3,
@@ -18111,7 +18111,7 @@
  },
  "igdb:294041": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:29+00:00",
   "mc_v": 3,
@@ -18141,7 +18141,7 @@
  },
  "igdb:2950": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:53+00:00",
   "mc_v": 3,
@@ -18176,7 +18176,7 @@
  },
  "igdb:2957": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:40+00:00",
   "mc_v": 3,
@@ -18191,7 +18191,7 @@
  },
  "igdb:296": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:40+00:00",
   "mc_v": 3,
@@ -18202,7 +18202,7 @@
  },
  "igdb:2963": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:10+00:00",
   "mc_v": 3,
@@ -18291,7 +18291,7 @@
  },
  "igdb:2993": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:16+00:00",
   "mc_v": 3,
@@ -18357,7 +18357,7 @@
  },
  "igdb:3025": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:59+00:00",
   "mc_v": 3,
@@ -18372,7 +18372,7 @@
  },
  "igdb:3027": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:46+00:00",
   "mc_v": 3,
@@ -18514,7 +18514,7 @@
  },
  "igdb:305775": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:48+00:00",
   "mc_v": 3,
@@ -18524,7 +18524,7 @@
  },
  "igdb:305796": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:17:24+00:00",
   "mc_v": 3,
@@ -18558,7 +18558,7 @@
  "igdb:306055": {},
  "igdb:306134": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:28+00:00",
   "mc_v": 3,
@@ -18700,7 +18700,7 @@
  },
  "igdb:3103": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T11:51:55+00:00",
   "mc_v": 3,
@@ -18762,7 +18762,7 @@
  },
  "igdb:3140": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:56+00:00",
   "mc_v": 3,
@@ -18773,7 +18773,7 @@
  },
  "igdb:314215": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:33+00:00",
   "mc_v": 3,
@@ -18817,7 +18817,7 @@
  },
  "igdb:3146": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:26+00:00",
   "mc_v": 3,
@@ -18883,7 +18883,7 @@
  "igdb:317376": {},
  "igdb:317407": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:07+00:00",
   "mc_v": 3,
@@ -18929,7 +18929,7 @@
  "igdb:318269": {},
  "igdb:3191": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:38+00:00",
   "mc_v": 3,
@@ -19035,7 +19035,7 @@
  },
  "igdb:3208": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:31+00:00",
   "mc_v": 3,
@@ -19046,7 +19046,7 @@
  },
  "igdb:3211": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:11+00:00",
   "mc_v": 3,
@@ -19094,7 +19094,7 @@
  },
  "igdb:3225": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:18+00:00",
   "mc_v": 3,
@@ -19300,7 +19300,7 @@
  },
  "igdb:331203": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:08+00:00",
   "mc_v": 3,
@@ -19663,7 +19663,7 @@
  },
  "igdb:3380": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:27+00:00",
   "mc_v": 3,
@@ -19689,7 +19689,7 @@
  },
  "igdb:338084": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:24+00:00",
   "mc_v": 3,
@@ -19916,7 +19916,7 @@
  },
  "igdb:34293": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:01+00:00",
   "mc_v": 3,
@@ -19941,7 +19941,7 @@
  },
  "igdb:34294": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:05+00:00",
   "mc_v": 3,
@@ -20075,7 +20075,7 @@
  },
  "igdb:3471": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:13+00:00",
   "mc_v": 3,
@@ -20090,7 +20090,7 @@
  "igdb:347129": {},
  "igdb:347132": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:39+00:00",
   "mc_v": 3,
@@ -20213,7 +20213,7 @@
  },
  "igdb:349524": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:13+00:00",
   "mc_v": 3,
@@ -20239,7 +20239,7 @@
  },
  "igdb:349562": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:12+00:00",
   "mc_v": 3,
@@ -20250,7 +20250,7 @@
  },
  "igdb:350049": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T11:51:50+00:00",
   "mc_v": 3,
@@ -20443,7 +20443,7 @@
  },
  "igdb:359": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:39+00:00",
   "mc_v": 3,
@@ -20726,7 +20726,7 @@
  },
  "igdb:36662": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:16+00:00",
   "mc_v": 3,
@@ -20841,7 +20841,7 @@
  },
  "igdb:36897": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:44+00:00",
   "mc_v": 3,
@@ -20920,7 +20920,7 @@
  },
  "igdb:37047": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-03T05:33:35+00:00",
   "mc_v": 3,
@@ -20945,7 +20945,7 @@
  },
  "igdb:37064": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:36+00:00",
   "mc_v": 3,
@@ -20975,7 +20975,7 @@
  },
  "igdb:37088": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:15+00:00",
   "mc_v": 3,
@@ -20990,7 +20990,7 @@
  },
  "igdb:37094": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:00+00:00",
   "mc_v": 3,
@@ -21005,7 +21005,7 @@
  },
  "igdb:37095": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:11+00:00",
   "mc_v": 3,
@@ -21183,7 +21183,7 @@
  },
  "igdb:37282": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:02+00:00",
   "mc_v": 3,
@@ -21220,7 +21220,7 @@
  },
  "igdb:3760": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:57+00:00",
   "mc_v": 3,
@@ -21231,7 +21231,7 @@
  },
  "igdb:3762": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:00+00:00",
   "mc_v": 3,
@@ -21273,7 +21273,7 @@
  },
  "igdb:37777": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:41+00:00",
   "mc_v": 3,
@@ -21299,7 +21299,7 @@
  },
  "igdb:38": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:05+00:00",
   "mc_v": 3,
@@ -21361,7 +21361,7 @@
  },
  "igdb:3823": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:30+00:00",
   "mc_v": 3,
@@ -21461,7 +21461,7 @@
  "igdb:386354": {},
  "igdb:387782": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:40+00:00",
   "mc_v": 3,
@@ -21677,7 +21677,7 @@
  },
  "igdb:4000": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:36+00:00",
   "mc_v": 3,
@@ -21698,7 +21698,7 @@
  },
  "igdb:4005": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:45+00:00",
   "mc_v": 3,
@@ -21709,7 +21709,7 @@
  },
  "igdb:404052": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:21+00:00",
   "mc_v": 3,
@@ -21722,7 +21722,7 @@
  "igdb:404056": {},
  "igdb:40477": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:20+00:00",
   "mc_v": 3,
@@ -21747,7 +21747,7 @@
  },
  "igdb:405028": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:21+00:00",
   "mc_v": 3,
@@ -21856,7 +21856,7 @@
  },
  "igdb:4115": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:09+00:00",
   "mc_v": 3,
@@ -21867,7 +21867,7 @@
  },
  "igdb:4116": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:12+00:00",
   "mc_v": 3,
@@ -21877,7 +21877,7 @@
  },
  "igdb:4117": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:09:16+00:00",
   "mc_v": 3,
@@ -21888,7 +21888,7 @@
  },
  "igdb:4126": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:58+00:00",
   "mc_v": 3,
@@ -21898,7 +21898,7 @@
  },
  "igdb:4127": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:12+00:00",
   "mc_v": 3,
@@ -21920,7 +21920,7 @@
  },
  "igdb:4132": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:49+00:00",
   "mc_v": 3,
@@ -21954,7 +21954,7 @@
  },
  "igdb:4144": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:13+00:00",
   "mc_v": 3,
@@ -21982,7 +21982,7 @@
  },
  "igdb:41590": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:52+00:00",
   "mc_v": 3,
@@ -21993,7 +21993,7 @@
  },
  "igdb:41595": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:37+00:00",
   "mc_v": 3,
@@ -22017,7 +22017,7 @@
  },
  "igdb:4180": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:38+00:00",
   "mc_v": 3,
@@ -22050,7 +22050,7 @@
  },
  "igdb:42": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:42+00:00",
   "mc_v": 3,
@@ -22615,7 +22615,7 @@
  },
  "igdb:42817": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:28+00:00",
   "mc_v": 3,
@@ -22626,7 +22626,7 @@
  },
  "igdb:42845": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:24+00:00",
   "mc_v": 3,
@@ -22637,7 +22637,7 @@
  },
  "igdb:42878": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T11:51:52+00:00",
   "mc_v": 3,
@@ -22670,7 +22670,7 @@
  },
  "igdb:43614": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:04+00:00",
   "mc_v": 3,
@@ -22681,7 +22681,7 @@
  },
  "igdb:43615": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:08:31+00:00",
   "mc_v": 3,
@@ -22714,7 +22714,7 @@
  },
  "igdb:438": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:27+00:00",
   "mc_v": 3,
@@ -22756,7 +22756,7 @@
  },
  "igdb:43868": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:00+00:00",
   "mc_v": 3,
@@ -22920,7 +22920,7 @@
  },
  "igdb:446": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:29+00:00",
   "mc_v": 3,
@@ -22951,7 +22951,7 @@
  },
  "igdb:44723": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:04:25+00:00",
   "mc_v": 3,
@@ -23071,7 +23071,7 @@
  },
  "igdb:45214": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T06:30:47+00:00",
   "mc_v": 3,
@@ -23114,7 +23114,7 @@
  },
  "igdb:45506": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:31+00:00",
   "mc_v": 3,
@@ -23232,7 +23232,7 @@
  },
  "igdb:46030": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:09+00:00",
   "mc_v": 3,
@@ -23287,7 +23287,7 @@
  },
  "igdb:465": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:02+00:00",
   "mc_v": 3,
@@ -23319,7 +23319,7 @@
  },
  "igdb:467": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:23+00:00",
   "mc_v": 3,
@@ -23350,7 +23350,7 @@
  },
  "igdb:468": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:05+00:00",
   "mc_v": 3,
@@ -23370,7 +23370,7 @@
  },
  "igdb:46800": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:02:08+00:00",
   "mc_v": 3,
@@ -23396,7 +23396,7 @@
  },
  "igdb:4689": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:33+00:00",
   "mc_v": 3,
@@ -23407,7 +23407,7 @@
  },
  "igdb:4695": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:16+00:00",
   "mc_v": 3,
@@ -23417,7 +23417,7 @@
  },
  "igdb:4696": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:19+00:00",
   "mc_v": 3,
@@ -23428,7 +23428,7 @@
  },
  "igdb:4697": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:28+00:00",
   "mc_v": 3,
@@ -23438,7 +23438,7 @@
  },
  "igdb:4698": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:10:23+00:00",
   "mc_v": 3,
@@ -23463,7 +23463,7 @@
  },
  "igdb:47400": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:19+00:00",
   "mc_v": 3,
@@ -23500,7 +23500,7 @@
  },
  "igdb:4754": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:40+00:00",
   "mc_v": 3,
@@ -23583,7 +23583,7 @@
  },
  "igdb:4786": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:50+00:00",
   "mc_v": 3,
@@ -23759,7 +23759,7 @@
  },
  "igdb:4845": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:57+00:00",
   "mc_v": 3,
@@ -23961,7 +23961,7 @@
  },
  "igdb:493": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:26+00:00",
   "mc_v": 3,
@@ -23972,7 +23972,7 @@
  },
  "igdb:4932": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:39+00:00",
   "mc_v": 3,
@@ -24038,7 +24038,7 @@
  },
  "igdb:499": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:07+00:00",
   "mc_v": 3,
@@ -24089,7 +24089,7 @@
  },
  "igdb:5026": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:28+00:00",
   "mc_v": 3,
@@ -24103,7 +24103,7 @@
  },
  "igdb:5082": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:00+00:00",
   "mc_v": 3,
@@ -24185,7 +24185,7 @@
  },
  "igdb:517": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:27+00:00",
   "mc_v": 3,
@@ -24205,7 +24205,7 @@
  },
  "igdb:518": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:30+00:00",
   "mc_v": 3,
@@ -24225,7 +24225,7 @@
  },
  "igdb:519": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:33+00:00",
   "mc_v": 3,
@@ -24303,7 +24303,7 @@
  },
  "igdb:5254": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T11:59:32+00:00",
   "mc_v": 3,
@@ -24314,7 +24314,7 @@
  },
  "igdb:529": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:50+00:00",
   "mc_v": 3,
@@ -24335,7 +24335,7 @@
  },
  "igdb:5333": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:52+00:00",
   "mc_v": 3,
@@ -24412,7 +24412,7 @@
  },
  "igdb:538": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:56+00:00",
   "mc_v": 3,
@@ -24443,7 +24443,7 @@
  },
  "igdb:539": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:50+00:00",
   "mc_v": 3,
@@ -24570,7 +24570,7 @@
  },
  "igdb:54842": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:35+00:00",
   "mc_v": 3,
@@ -24596,7 +24596,7 @@
  },
  "igdb:54996": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:23+00:00",
   "mc_v": 3,
@@ -24632,7 +24632,7 @@
  },
  "igdb:55029": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:54+00:00",
   "mc_v": 3,
@@ -24656,7 +24656,7 @@
  },
  "igdb:5503": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:57+00:00",
   "mc_v": 3,
@@ -24720,7 +24720,7 @@
  },
  "igdb:55056": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:33+00:00",
   "mc_v": 3,
@@ -24755,7 +24755,7 @@
  },
  "igdb:55163": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:47+00:00",
   "mc_v": 3,
@@ -24770,7 +24770,7 @@
  },
  "igdb:55189": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:05+00:00",
   "mc_v": 3,
@@ -24807,7 +24807,7 @@
  },
  "igdb:55468": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:42+00:00",
   "mc_v": 3,
@@ -24844,7 +24844,7 @@
  },
  "igdb:5591": {
   "backloggd": 2.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:22+00:00",
   "mc_v": 3,
@@ -24933,7 +24933,7 @@
  },
  "igdb:5741": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:22+00:00",
   "mc_v": 3,
@@ -24985,7 +24985,7 @@
  },
  "igdb:58783": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:35+00:00",
   "mc_v": 3,
@@ -24995,7 +24995,7 @@
  },
  "igdb:5901": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:18+00:00",
   "mc_v": 3,
@@ -25006,7 +25006,7 @@
  },
  "igdb:5992": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:30+00:00",
   "mc_v": 3,
@@ -25043,7 +25043,7 @@
  },
  "igdb:6036": {
   "backloggd": 4.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:52+00:00",
   "mc_v": 3,
@@ -25058,7 +25058,7 @@
  },
  "igdb:6044": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:13+00:00",
   "mc_v": 3,
@@ -25095,7 +25095,7 @@
  },
  "igdb:6063": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:54+00:00",
   "mc_v": 3,
@@ -25121,7 +25121,7 @@
  },
  "igdb:6082": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:10+00:00",
   "mc_v": 3,
@@ -25132,7 +25132,7 @@
  },
  "igdb:6160": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:44+00:00",
   "mc_v": 3,
@@ -25520,7 +25520,7 @@
  },
  "igdb:65": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:37+00:00",
   "mc_v": 3,
@@ -25660,7 +25660,7 @@
  },
  "igdb:654": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:56+00:00",
   "mc_v": 3,
@@ -26068,7 +26068,7 @@
  },
  "igdb:67381": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:00+00:00",
   "mc_v": 3,
@@ -26201,7 +26201,7 @@
  },
  "igdb:6880": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:55+00:00",
   "mc_v": 3,
@@ -26448,7 +26448,7 @@
  },
  "igdb:72": {
   "backloggd": 4.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:14+00:00",
   "mc_v": 3,
@@ -26529,7 +26529,7 @@
  },
  "igdb:7292": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:21+00:00",
   "mc_v": 3,
@@ -26566,7 +26566,7 @@
  },
  "igdb:731": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:14+00:00",
   "mc_v": 3,
@@ -26602,7 +26602,7 @@
  },
  "igdb:7323": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:05+00:00",
   "mc_v": 3,
@@ -26617,7 +26617,7 @@
  },
  "igdb:7327": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:52+00:00",
   "mc_v": 3,
@@ -26662,7 +26662,7 @@
  },
  "igdb:7330": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:55+00:00",
   "mc_v": 3,
@@ -26677,7 +26677,7 @@
  },
  "igdb:7331": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:13:34+00:00",
   "mc_v": 3,
@@ -26692,7 +26692,7 @@
  },
  "igdb:7334": {
   "backloggd": 4.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:37:48+00:00",
   "mc_v": 3,
@@ -26722,7 +26722,7 @@
  },
  "igdb:7348": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:40+00:00",
   "mc_v": 3,
@@ -26824,7 +26824,7 @@
  },
  "igdb:7432": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:47+00:00",
   "mc_v": 3,
@@ -26915,7 +26915,7 @@
  },
  "igdb:74701": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:03+00:00",
   "mc_v": 3,
@@ -26930,7 +26930,7 @@
  },
  "igdb:7477": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-03T04:25:45+00:00",
   "mc_v": 3,
@@ -26961,7 +26961,7 @@
  },
  "igdb:7504": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:09+00:00",
   "mc_v": 3,
@@ -27003,7 +27003,7 @@
  },
  "igdb:75238": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:54+00:00",
   "mc_v": 3,
@@ -27018,7 +27018,7 @@
  },
  "igdb:75240": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:08+00:00",
   "mc_v": 3,
@@ -27091,7 +27091,7 @@
  },
  "igdb:7599": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:46+00:00",
   "mc_v": 3,
@@ -27117,7 +27117,7 @@
  },
  "igdb:76045": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:16:59+00:00",
   "mc_v": 3,
@@ -27139,7 +27139,7 @@
  },
  "igdb:7606": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:33+00:00",
   "mc_v": 3,
@@ -27154,7 +27154,7 @@
  },
  "igdb:7609": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:56+00:00",
   "mc_v": 3,
@@ -27169,7 +27169,7 @@
  },
  "igdb:7618": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:41+00:00",
   "mc_v": 3,
@@ -27225,7 +27225,7 @@
  },
  "igdb:769": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:46+00:00",
   "mc_v": 3,
@@ -27273,7 +27273,7 @@
  "igdb:76961": {},
  "igdb:76966": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:21+00:00",
   "mc_v": 3,
@@ -27299,7 +27299,7 @@
  },
  "igdb:7725": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:50+00:00",
   "mc_v": 3,
@@ -27507,7 +27507,7 @@
  },
  "igdb:78367": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:44+00:00",
   "mc_v": 3,
@@ -27592,7 +27592,7 @@
  },
  "igdb:7894": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:34+00:00",
   "mc_v": 3,
@@ -27606,7 +27606,7 @@
  },
  "igdb:79653": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:58+00:00",
   "mc_v": 3,
@@ -27723,7 +27723,7 @@
  },
  "igdb:80853": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:42+00:00",
   "mc_v": 3,
@@ -27738,7 +27738,7 @@
  },
  "igdb:80944": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:17:07+00:00",
   "mc_v": 3,
@@ -27753,7 +27753,7 @@
  },
  "igdb:80961": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:29+00:00",
   "mc_v": 3,
@@ -27778,7 +27778,7 @@
  },
  "igdb:81085": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:40:31+00:00",
   "mc_v": 3,
@@ -27884,7 +27884,7 @@
  },
  "igdb:8173": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:43+00:00",
   "mc_v": 3,
@@ -27947,7 +27947,7 @@
  },
  "igdb:82117": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:36:13+00:00",
   "mc_v": 3,
@@ -27998,7 +27998,7 @@
  },
  "igdb:8236": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:15:40+00:00",
   "mc_v": 3,
@@ -28008,7 +28008,7 @@
  },
  "igdb:8254": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:00:48+00:00",
   "mc_v": 3,
@@ -28019,7 +28019,7 @@
  },
  "igdb:8258": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:10+00:00",
   "mc_v": 3,
@@ -28049,7 +28049,7 @@
  },
  "igdb:8305": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:05:02+00:00",
   "mc_v": 3,
@@ -28059,7 +28059,7 @@
  },
  "igdb:8347": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:59+00:00",
   "mc_v": 3,
@@ -28074,7 +28074,7 @@
  },
  "igdb:8351": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:33+00:00",
   "mc_v": 3,
@@ -28138,7 +28138,7 @@
  },
  "igdb:83731": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:47+00:00",
   "mc_v": 3,
@@ -28237,7 +28237,7 @@
  },
  "igdb:84532": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:17+00:00",
   "mc_v": 3,
@@ -28387,7 +28387,7 @@
  },
  "igdb:8515": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:55+00:00",
   "mc_v": 3,
@@ -28453,7 +28453,7 @@
  },
  "igdb:85700": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:27+00:00",
   "mc_v": 3,
@@ -28567,7 +28567,7 @@
  },
  "igdb:8647": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:46+00:00",
   "mc_v": 3,
@@ -28577,7 +28577,7 @@
  },
  "igdb:86477": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:05:17+00:00",
   "mc_v": 3,
@@ -28618,7 +28618,7 @@
  },
  "igdb:866": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:32:58+00:00",
   "mc_v": 3,
@@ -28638,7 +28638,7 @@
  },
  "igdb:86652": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:34:02+00:00",
   "mc_v": 3,
@@ -28674,7 +28674,7 @@
  },
  "igdb:87210": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:00+00:00",
   "mc_v": 3,
@@ -28689,7 +28689,7 @@
  },
  "igdb:8729": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:18+00:00",
   "mc_v": 3,
@@ -28726,7 +28726,7 @@
  },
  "igdb:87683": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:38:28+00:00",
   "mc_v": 3,
@@ -28741,7 +28741,7 @@
  },
  "igdb:880": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:51+00:00",
   "mc_v": 3,
@@ -28885,7 +28885,7 @@
  },
  "igdb:8966": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:06:52+00:00",
   "mc_v": 3,
@@ -28907,7 +28907,7 @@
  },
  "igdb:90099": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:12:17+00:00",
   "mc_v": 3,
@@ -28978,7 +28978,7 @@
  },
  "igdb:9056": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:03:56+00:00",
   "mc_v": 3,
@@ -29025,7 +29025,7 @@
  },
  "igdb:9066": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:19+00:00",
   "mc_v": 3,
@@ -29091,7 +29091,7 @@
  },
  "igdb:9120": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:17:04+00:00",
   "mc_v": 3,
@@ -29198,7 +29198,7 @@
  },
  "igdb:9192": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:14:29+00:00",
   "mc_v": 3,
@@ -29246,7 +29246,7 @@
  },
  "igdb:9331": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:11:23+00:00",
   "mc_v": 3,
@@ -29257,7 +29257,7 @@
  },
  "igdb:9335": {
   "backloggd": 2.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:11:15+00:00",
   "mc_v": 3,
@@ -29268,7 +29268,7 @@
  },
  "igdb:93832": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:33:44+00:00",
   "mc_v": 3,
@@ -29287,7 +29287,7 @@
  },
  "igdb:9471": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:31:58+00:00",
   "mc_v": 3,
@@ -29318,7 +29318,7 @@
  "igdb:94970": {},
  "igdb:9498": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:45+00:00",
   "mc_v": 3,
@@ -29343,7 +29343,7 @@
  },
  "igdb:95062": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T20:01:49+00:00",
   "mc_v": 3,
@@ -29564,7 +29564,7 @@
  },
  "igdb:966": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:54+00:00",
   "mc_v": 3,
@@ -29698,7 +29698,7 @@
  },
  "igdb:9740": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:03+00:00",
   "mc_v": 3,
@@ -29719,7 +29719,7 @@
  },
  "igdb:9741": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:39:17+00:00",
   "mc_v": 3,
@@ -29818,7 +29818,7 @@
  },
  "igdb:9898": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:48+00:00",
   "mc_v": 3,
@@ -29843,7 +29843,7 @@
  },
  "igdb:9902": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:35:25+00:00",
   "mc_v": 3,
@@ -29894,7 +29894,7 @@
  },
  "igdb:9919": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:11:35+00:00",
   "mc_v": 3,
@@ -29909,7 +29909,7 @@
  },
  "igdb:9927": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-11-06T17:41:26+00:00",
   "mc_v": 3,
@@ -29957,7 +29957,7 @@
  },
  "igdb:999": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:07:18+00:00",
   "mc_v": 3,
