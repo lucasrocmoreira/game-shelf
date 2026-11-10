@@ -264,14 +264,29 @@ def _backloggd_count(page):
     m = _BL_COUNT_HTML.search(page)
     if m:
         return _parse_count(m.group(1))
-    sid = re.search(r"/fetch_game_stats/(\d+)/", page)
+    sid = re.search(r"/fetch_game_stats/(\d+)/", page) or re.search(r"game[_-]?id[\"'=:\s]+(\d+)", page, re.I)
     if not sid:
+        _bl_debug("no stats id in page", page, "stats")
         return None
     r = polite_get(f"https://backloggd.com/fetch_game_stats/{sid.group(1)}/", host_delay=2.5)
     if r is None or r.status_code != 200:
+        _bl_debug(f"stats HTTP {getattr(r, 'status_code', None)}", "", "")
         return None
     m = _BL_COUNT_HTML.search(r.text)
+    if not m:
+        _bl_debug("stats page without count", r.text, "Ratings")
     return _parse_count(m.group(1)) if m else None
+
+
+def _bl_debug(what, text, near):
+    """Log the first few count failures with a snippet, so a layout change can be fixed."""
+    n = getattr(_bl_debug, "n", 0)
+    if n >= 3:
+        return
+    _bl_debug.n = n + 1
+    i = text.find(near) if near else -1
+    snip = text[max(0, i - 300): i + 500] if i >= 0 else text[:800]
+    log(f"    Backloggd count debug: {what}: {' '.join(snip.split())[:800]}")
 
 
 def backloggd(igdb_slug):
