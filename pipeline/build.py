@@ -430,6 +430,7 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
             st = scores.steam_store(row["steam_appid"])
             c.update({k: v for k, v in st.items() if k not in ("metacritic_slug", "metacritic")})
             c["steam_mc"], c["steam_mc_slug"] = st.get("metacritic"), st.get("metacritic_slug")
+            c["steam_v"] = 2
         fetch_metacritic(row, c, wd_cache.get(g.get("slug"), {}), overrides)
         bl = scores.backloggd(g.get("slug"))
         if bl is not None:
@@ -455,6 +456,16 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
             log(f"Metacritic: re-checking {min(len(recheck_mc), MAX_RECHECKS)} of {len(recheck_mc)} games with the stricter matcher")
             for row in recheck_mc[:MAX_RECHECKS]:
                 fetch_metacritic(row, cache[row["key"]], wd_cache.get((row["igdb"] or {}).get("slug"), {}), overrides)
+        # Steam review totals: the store call used to miss them (fixed Nov 2026); fetch them for every Steam game once.
+        recheck_st = [r for r in rows if r["key"] not in done and r.get("steam_appid") and r["key"] in cache
+                      and cache[r["key"]].get("steam_v") != 2]
+        if recheck_st:
+            log(f"Steam: fetching review totals for {min(len(recheck_st), MAX_RECHECKS)} of {len(recheck_st)} games")
+            for row in recheck_st[:MAX_RECHECKS]:
+                c = cache[row["key"]]
+                st = scores.steam_store(row["steam_appid"])
+                c.update({k: v for k, v in st.items() if k not in ("metacritic_slug", "metacritic")})
+                c["steam_v"] = 2
         recheck_bl = [
             r for r in rows if r["key"] not in done and r["key"] in cache and (r["igdb"] or {}).get("slug")
             and cache[r["key"]].get("bl_v") != scores.BACKLOGGD_PARSER_VERSION
@@ -650,7 +661,7 @@ def to_site_row(row, sc, hl=None):
         out["links"]["hltb"] = f"https://howlongtobeat.com/game/{hl['hltb_id']}"
     if g:
         out.update(metadata_of(g))
-    out["rating"] = rating.compute(out["scores"])
+    out["rating"] = rating.compute(out["scores"], counts=out["counts"])
     return out
 
 

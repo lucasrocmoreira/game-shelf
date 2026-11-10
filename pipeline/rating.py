@@ -10,10 +10,11 @@ work in the browser. Keep the two in step; the page warns in the console if they
 """
 from pathlib import Path
 import json
+import math
 
 MODEL = json.loads((Path(__file__).resolve().parent.parent / "config" / "rating.json").read_text())
 CRITICS = ("metacritic", "opencritic", "igdb_critic")
-PLAYERS = ("backloggd", "igdb_user")
+PLAYERS = ("backloggd", "igdb_user", "steam")
 
 
 def _m(model, src, x):
@@ -21,7 +22,13 @@ def _m(model, src, x):
     return a * x + b
 
 
-def compute(scores, on=None, model=None):
+def steamdb(pct, n):
+    """Steam % positive adjusted for how many reviews it rests on (SteamDB's rating): few reviews pull it to 50%."""
+    a = pct / 100
+    return 100 * (a - (a - 0.5) * 2 ** (-math.log10(n + 1)))
+
+
+def compute(scores, on=None, model=None, counts=None):
     """scores: {source: 0-100 or None}. on: sources switched on (default all).
     Returns None when nothing is known, else {score, C, P, c_est, p_est, c_weak, p_weak, conf, split, notes}."""
     M = model or MODEL
@@ -49,19 +56,38 @@ def compute(scores, on=None, model=None):
     if igc is not None and (mc is not None or oc is not None):
         notes.append(f"IGDB critics {round(igc)}: not used, Metacritic/OpenCritic available")
 
-    # Players
-    bl = v.get("backloggd")
-    bl_ = _m(M, "backloggd", bl) if bl is not None else None
-    igu = v.get("igdb_user")
-    igu_ = _m(M, "igdb_user", igu) if igu is not None else None
+    # Players: Backloggd, IGDB users, and Steam reviews (adjusted for review count first)
+    counts = counts or {}
+    pl = {}
+    if v.get("backloggd") is not None:
+        pl["backloggd"] = _m(M, "backloggd", v["backloggd"])
+    if v.get("igdb_user") is not None:
+        pl["igdb_user"] = _m(M, "igdb_user", v["igdb_user"])
+    st_n = counts.get("steam") or 0
+    if v.get("steam") is not None and st_n >= M.get("steam_min_reviews", 10):
+        pl["steam"] = _m(M, "steam", steamdb(v["steam"], st_n))
+    names = {"backloggd": "Backloggd", "igdb_user": "IGDB players", "steam": "Steam reviews"}
+    raw = lambda k: f"{round(v[k])}%" if k == "steam" else str(round(v[k]))
+    if len(pl) >= 2 and max(pl.values()) - min(pl.values()) >= M["clash_player"]:
+        if len(pl) == 2:
+            # Two sources disagree: IGDB users (often a handful of votes) gives way; Backloggd and Steam both stay.
+            if "igdb_user" in pl:
+                notes.append(f"IGDB players {raw('igdb_user')}: set aside, disagrees with {names[[k for k in pl if k != 'igdb_user'][0]]}")
+                del pl["igdb_user"]
+        else:
+            med = sorted(pl.values())[1]
+            far = max(pl, key=lambda k: abs(pl[k] - med))
+            notes.append(f"{names[far]} {raw(far)}: set aside, disagrees with the other player scores")
+            del pl[far]
     P, p_weak = None, False
-    if bl_ is not None and igu_ is not None and abs(bl_ - igu_) >= M["clash_player"]:
-        notes.append(f"IGDB players {round(igu)}: set aside, disagrees with Backloggd")
-        igu_ = None
-    if bl_ is not None and igu_ is not None:
-        P = (bl_ + igu_) / 2
-    elif bl_ is not None or igu_ is not None:
-        P, p_weak = mu + M["lam_player_single"] * ((bl_ if bl_ is not None else igu_) - mu), True
+    if len(pl) >= 2:
+        P = sum(pl.values()) / len(pl)
+    elif pl:
+        (k, x), = pl.items()
+        if k == "steam" and st_n >= M.get("steam_strong_reviews", 500):
+            P = x  # hundreds of Steam reviews are a solid player verdict on their own
+        else:
+            P, p_weak = mu + M["lam_player_single"] * (x - mu), True
 
     c_on = any(k in on for k in CRITICS)
     p_on = any(k in on for k in PLAYERS)
@@ -81,6 +107,6 @@ def compute(scores, on=None, model=None):
     else:
         conf = "high"
     split = C is not None and P is not None and not (c_est or p_est) and abs(C - P) >= M["split_badge"]
-    r = lambda x: None if x is None else round(x, 1)
+    r = lambda x: None if x is None else math.floor(x * 10 + 0.5) / 10  # rounds like the page's Math.round
     return {"score": r(score), "C": r(C), "P": r(P), "c_est": c_est, "p_est": p_est,
             "c_weak": c_weak, "p_weak": p_weak, "conf": conf, "split": split, "notes": notes}

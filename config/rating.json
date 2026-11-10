@@ -1,10 +1,44 @@
 {
-  "version": 1,
-  "note": "Two-pillar score (council decision, Nov 2026). Every source is mapped onto the Metacritic scale (a*x+b); critics and players are combined separately, and the score is their midpoint. Refit with care: see pipeline/rating.py.",
-  "map": {"metacritic": [1, 0], "opencritic": [1.03, -2.8], "igdb_critic": [0.88, 10.1],
-          "backloggd": [0.85, 19.6], "igdb_user": [0.99, 3.6]},
-  "mu": 78, "rho": 0.65,
-  "lam_igc": 0.90, "lam_igc_round": 0.60, "lam_player_single": 0.88,
-  "clash_critic": 8, "clash_player": 15, "split_badge": 15,
-  "tone": {"hi": 85, "lo": 70}
+  "version": 2,
+  "note": "Two-pillar score (council decision, Nov 2026). Every source is mapped onto the Metacritic scale (a*x+b); critics and players are combined separately, and the score is their midpoint. Refit with care: see pipeline/rating.py. Steam: % positive is first adjusted for review count (SteamDB's formula), then mapped; with 500+ reviews it counts as a full player source on its own.",
+  "map": {
+    "metacritic": [
+      1,
+      0
+    ],
+    "opencritic": [
+      1.03,
+      -2.8
+    ],
+    "igdb_critic": [
+      0.88,
+      10.1
+    ],
+    "backloggd": [
+      0.85,
+      19.6
+    ],
+    "igdb_user": [
+      0.99,
+      3.6
+    ],
+    "steam": [
+      0.76,
+      20
+    ]
+  },
+  "mu": 78,
+  "rho": 0.65,
+  "lam_igc": 0.9,
+  "lam_igc_round": 0.6,
+  "lam_player_single": 0.88,
+  "clash_critic": 8,
+  "clash_player": 15,
+  "split_badge": 15,
+  "tone": {
+    "hi": 85,
+    "lo": 70
+  },
+  "steam_min_reviews": 10,
+  "steam_strong_reviews": 500
 }
