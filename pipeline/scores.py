@@ -240,6 +240,7 @@ class OpenCritic:
 BACKLOGGD_PARSER_VERSION = 3  # bump when the parser changes, so missing scores get retried
 
 _BL_COUNT_HTML = re.compile(r"Ratings\s*</p>\s*<p[^>]*log-counter-stat[^>]*>\s*([\d.,]+[KkMm]?)\s*<", re.I)
+_BL_BAR = re.compile(r"([\d.,]+[KkMm]?)\s*\|\s*([0-5](?:\.\d)?)\s*(?:★|&#9733;|&starf;)?\s*Ratings?", re.I)
 _BL_LABEL = r"(?:Avg\.?|Average)\s*Rating"
 _BL_PATTERNS = [
     # The page shows a label "Avg Rating" next to a heading with the number, e.g. <h1>4.4</h1>.
@@ -273,9 +274,17 @@ def _backloggd_count(page):
         _bl_debug(f"stats HTTP {getattr(r, 'status_code', None)}", "", "")
         return None
     m = _BL_COUNT_HTML.search(r.text)
-    if not m:
-        _bl_debug("stats page without count", r.text, "Ratings")
-    return _parse_count(m.group(1)) if m else None
+    if m:
+        return _parse_count(m.group(1))
+    # The stats frame draws a histogram: one bar per half star, e.g. "34 | 0.5 ★ Ratings (0.2%)".
+    # Bars appear twice (mobile and desktop layouts), so count each star value once.
+    bars = {}
+    for n, star in _BL_BAR.findall(r.text):
+        bars.setdefault(star, _parse_count(n) or 0)
+    if bars:
+        return sum(bars.values())
+    _bl_debug("stats page without count", r.text, "Ratings")
+    return None
 
 
 def _bl_debug(what, text, near):
