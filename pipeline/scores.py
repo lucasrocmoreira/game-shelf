@@ -239,7 +239,7 @@ class OpenCritic:
 # ---------------------------------------------------------------- Backloggd
 BACKLOGGD_PARSER_VERSION = 3  # bump when the parser changes, so missing scores get retried
 
-_BL_COUNT = re.compile(r"(\d[\d,]*)\s+Ratings?\b", re.I)
+_BL_COUNT_HTML = re.compile(r"Ratings\s*</p>\s*<p[^>]*log-counter-stat[^>]*>\s*([\d.,]+[KkMm]?)\s*<", re.I)
 _BL_LABEL = r"(?:Avg\.?|Average)\s*Rating"
 _BL_PATTERNS = [
     # The page shows a label "Avg Rating" next to a heading with the number, e.g. <h1>4.4</h1>.
@@ -248,6 +248,30 @@ _BL_PATTERNS = [
     re.compile(r'"(?:average_?rating|avg_?rating|rating_avg)"\s*:\s*"?([0-5](?:\.\d+)?)', re.I),
     re.compile(r'data-(?:avg|average|rating)="([0-5](?:\.\d+)?)"', re.I),
 ]
+
+
+def _parse_count(t):
+    t = t.strip().replace(",", "")
+    mult = 1000 if t[-1:] in "kK" else 1_000_000 if t[-1:] in "mM" else 1
+    try:
+        return int(float(t.rstrip("kKmM")) * mult)
+    except ValueError:
+        return None
+
+
+def _backloggd_count(page):
+    """Number of ratings. Backloggd loads its stats box separately (/fetch_game_stats/<id>/), so fetch that."""
+    m = _BL_COUNT_HTML.search(page)
+    if m:
+        return _parse_count(m.group(1))
+    sid = re.search(r"/fetch_game_stats/(\d+)/", page)
+    if not sid:
+        return None
+    r = polite_get(f"https://backloggd.com/fetch_game_stats/{sid.group(1)}/", host_delay=2.5)
+    if r is None or r.status_code != 200:
+        return None
+    m = _BL_COUNT_HTML.search(r.text)
+    return _parse_count(m.group(1)) if m else None
 
 
 def backloggd(igdb_slug):
@@ -264,8 +288,7 @@ def backloggd(igdb_slug):
         log(f"    Backloggd: HTTP {getattr(r, 'status_code', 'no response')} for {igdb_slug}")
         return None
     ld = _ld_json_rating(r.text)
-    cm = _BL_COUNT.search(r.text)
-    backloggd.last_count = (ld[2] if ld else None) or (int(cm.group(1).replace(",", "")) if cm else None)
+    backloggd.last_count = (ld[2] if ld else None) or _backloggd_count(r.text)
     if ld and ld[0] <= 5:
         return round(ld[0], 2)
     for pat in _BL_PATTERNS:

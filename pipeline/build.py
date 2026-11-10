@@ -466,6 +466,19 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
                 st = scores.steam_store(row["steam_appid"])
                 c.update({k: v for k, v in st.items() if k not in ("metacritic_slug", "metacritic")})
                 c["steam_v"] = 3
+        # Backloggd rating counts (saved from Nov 2026): fill them in for games re-checked before counts were read.
+        fill_bl = [r for r in rows if r["key"] not in done and r["key"] in cache and (r["igdb"] or {}).get("slug")
+                   and cache[r["key"]].get("bl_v") == scores.BACKLOGGD_PARSER_VERSION
+                   and cache[r["key"]].get("backloggd") is not None and not cache[r["key"]].get("backloggd_n")]
+        if fill_bl:
+            n_fill = min(len(fill_bl), max(50, MAX_RECHECKS // 3))
+            log(f"Backloggd: reading rating counts for {n_fill} of {len(fill_bl)} games")
+            for row in fill_bl[:n_fill]:
+                c = cache[row["key"]]
+                bl = scores.backloggd(row["igdb"]["slug"])
+                if bl is not None:
+                    c["backloggd"] = bl
+                c["backloggd_n"] = getattr(scores.backloggd, "last_count", None) or c.get("backloggd_n") or 0
         recheck_bl = [
             r for r in rows if r["key"] not in done and r["key"] in cache and (r["igdb"] or {}).get("slug")
             and cache[r["key"]].get("bl_v") != scores.BACKLOGGD_PARSER_VERSION
