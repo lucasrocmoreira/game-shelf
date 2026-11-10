@@ -73,6 +73,7 @@ def steam_store(appid):
 
 # ---------------------------------------------------------------- Metacritic
 _MC_TITLE = re.compile(r"Metascore\s+(\d{1,3})\s+out of 100", re.I)
+_MC_NONE = re.compile(r"Metascore\s+(?:tbd|is not available|not yet available)|No score yet|\btbd\b|Not enough reviews|Awaiting \d+ more", re.I)
 
 
 _MC_YEAR = [
@@ -101,13 +102,21 @@ def metacritic(slug_or_title, is_slug=False, expect_year=None):
         if page_year and abs(page_year - expect_year) > 1:
             log(f"    Metacritic: /{slug}/ is a {page_year} game, expected {expect_year}; skipped")
             return None
-    m = _MC_TITLE.search(r.text)
-    if m:
-        return int(m.group(1))
+    # The page's own rating data is about this game; prefer it.
     ld = _ld_json_rating(r.text)
-    if ld and (ld[1] in (None, 100.0)) and ld[0] > 10:
+    if ld and ld[1] == 100.0 and ld[0] > 10:
         return round(ld[0])
-    return None
+    # Otherwise read the visible Metascore, but only if it comes before any "no score" marker.
+    # Old games without a Metascore (e.g. Shadows of the Empire) show "tbd" in their header, and
+    # the first "Metascore 96 out of 100" further down belongs to a recommended game (GoldenEye).
+    m = _MC_TITLE.search(r.text)
+    if not m:
+        return None
+    none = _MC_NONE.search(r.text)
+    if none and none.start() < m.start():
+        log(f"    Metacritic: /{slug}/ has no Metascore yet")
+        return None
+    return int(m.group(1))
 
 
 # ---------------------------------------------------------------- OpenCritic (RapidAPI, free tier)

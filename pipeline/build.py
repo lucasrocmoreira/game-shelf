@@ -17,7 +17,7 @@ from .igdb import IGDB, genres_of, metadata_of
 from .util import CACHE_DIR, CONFIG_DIR, SITE_DIR, days_since, load_json, log, now_iso, save_json
 
 MATCHER_VERSION = 4          # bump to re-match games with an improved matcher (high-confidence ones are kept)
-METACRITIC_VERSION = 2       # bump to re-check every Metacritic score
+METACRITIC_VERSION = 3       # bump to re-check every Metacritic score
 SCORE_REFRESH_DAYS = int(os.environ.get("SCORE_REFRESH_DAYS", "30"))
 MAX_SCORE_LOOKUPS = int(os.environ.get("MAX_SCORE_LOOKUPS", "250"))
 MAX_RECHECKS = int(os.environ.get("MAX_RECHECKS", "200"))
@@ -435,6 +435,12 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
     if not offline:
         # Re-check games scored by older parsers (cheap passes, capped per run).
         recheck_mc = [r for r in rows if r["key"] not in done and r["key"] in cache and cache[r["key"]].get("mc_v") != METACRITIC_VERSION]
+        # Most suspicious first: a Metascore far above every other rating of the game.
+        def _gap(r):
+            c, g = cache[r["key"]], r["igdb"] or {}
+            other = [v for v in (g.get("aggregated_rating"), g.get("rating"), (c.get("backloggd") or 0) * 20) if v]
+            return -((c.get("metacritic") or 0) - (sum(other) / len(other) if other else 100))
+        recheck_mc.sort(key=_gap)
         if recheck_mc:
             log(f"Metacritic: re-checking {min(len(recheck_mc), MAX_RECHECKS)} of {len(recheck_mc)} games with the stricter matcher")
             for row in recheck_mc[:MAX_RECHECKS]:
