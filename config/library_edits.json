@@ -3663,22 +3663,13 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:21099",
-     "best": "igdb:21099",
+     "key": "igdb:6557",
+     "best": "igdb:5122",
      "why": [
-      "Top-rated game you haven't played (average 76)",
-      "A change of genre: Puzzle",
-      "Shorter than what you're playing: about <1h to beat"
-     ],
-     "sent": false
-    },
-    {
-     "key": "igdb:2195",
-     "best": "igdb:2194",
-     "why": [
-      "Play this game to get to the amazing Punch-Out!! (85). It's the earliest Punch-Out!! game you haven't played.",
-      "Not on this console: Switch Online (Switch + NES)",
-      "Shorter than what you're playing: about 4h to beat"
+      "Play this game to get to the amazing Rhythm Heaven Fever (83). It's the earliest entry in the series you haven't played.",
+      "Not on this console: EmuDeck (GBA)",
+      "A change of genre: Music",
+      "Shorter than what you're playing: about 6.5h to beat"
      ],
      "sent": false
     },
@@ -3692,36 +3683,25 @@
       "Shorter than what you're playing: about 2.5h to beat"
      ],
      "sent": false
+    },
+    {
+     "key": "igdb:1026",
+     "best": "igdb:1033",
+     "why": [
+      "Play this game to get to the amazing The Legend of Zelda: The Wind Waker (90). It's the earliest The Legend of Zelda game you haven't played.",
+      "Not on this console: Switch Online or EmuDeck (SNES)",
+      "Shorter than what you're playing: about 17h to beat"
+     ],
+     "sent": false
     }
    ],
    "skip": [
-    "igdb:1068",
     "igdb:6557",
     "igdb:1467",
-    "igdb:1069",
-    "igdb:1070",
-    "igdb:1071",
-    "igdb:1073",
-    "igdb:1074",
-    "igdb:1075",
-    "igdb:22301",
-    "igdb:1076",
-    "igdb:5199",
-    "igdb:1072",
-    "igdb:21099",
-    "igdb:2195"
+    "igdb:1026"
    ],
-   "avoid": [
-    "Super Mario Land",
-    "Wario Land",
-    "Super Mario",
-    "Mario Bros.",
-    "Wario",
-    "Super Mario Galaxy",
-    "Mario",
-    "Rhythm Heaven"
-   ],
-   "date": "2026-11-03T07:42:51.930Z"
+   "avoid": [],
+   "date": "2026-11-10T14:21:17.436Z"
   }
  }
 }
