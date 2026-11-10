@@ -471,7 +471,8 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
                    and cache[r["key"]].get("bl_v") == scores.BACKLOGGD_PARSER_VERSION
                    and cache[r["key"]].get("backloggd") is not None and not cache[r["key"]].get("backloggd_n")]
         if fill_bl:
-            n_fill = min(len(fill_bl), max(50, MAX_RECHECKS // 3))
+            pending = any(cache[r["key"]].get("bl_v") != scores.BACKLOGGD_PARSER_VERSION for r in rows if r["key"] in cache and (r["igdb"] or {}).get("slug"))
+            n_fill = min(len(fill_bl), max(50, MAX_RECHECKS // 3) if pending else MAX_RECHECKS)  # full share once re-checks are done
             log(f"Backloggd: reading rating counts for {n_fill} of {len(fill_bl)} games")
             for row in fill_bl[:n_fill]:
                 c = cache[row["key"]]
