@@ -3663,13 +3663,12 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:6557",
-     "best": "igdb:5122",
+     "key": "igdb:2259",
+     "best": "igdb:2259",
      "why": [
-      "Play this game to get to the amazing Rhythm Heaven Fever (83). It's the earliest entry in the series you haven't played.",
-      "Not on this console: EmuDeck (GBA)",
-      "A change of genre: Music",
-      "Shorter than what you're playing: about 6.5h to beat"
+      "Top-rated game you haven't played (average 78)",
+      "A change of genre: Music, Puzzle",
+      "Shorter than what you're playing: about 13.5h to beat"
      ],
      "sent": false
     },
@@ -3698,10 +3697,13 @@
    "skip": [
     "igdb:6557",
     "igdb:1467",
-    "igdb:1026"
+    "igdb:1026",
+    "igdb:2259"
    ],
-   "avoid": [],
-   "date": "2026-11-10T14:21:17.436Z"
+   "avoid": [
+    "Rhythm Heaven"
+   ],
+   "date": "2026-11-10T14:21:24.383Z"
   }
  }
 }
