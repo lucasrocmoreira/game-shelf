@@ -11447,6 +11447,15 @@
    "title": "The Witcher 3: Wild Hunt — Remastered"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-11-10",
+   "platform": "PS5",
+   "playtime_hours": 31.4,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01067_00/2/i_a05fd01e17259203eb01d4d31c193447f0fd82d3622bd6d35399c40f3c54fd5a/i/icon0.png",
    "last_played": "2021-01-08",
    "platform": "PS4",
@@ -11454,15 +11463,6 @@
    "ps_plus": false,
    "source_id": "CUSA01068_00",
    "title": "Resident Evil"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-11-09",
-   "platform": "PS5",
-   "playtime_hours": 31.1,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png",
