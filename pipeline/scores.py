@@ -55,19 +55,37 @@ def steam_store(appid):
     except Exception:
         pass
 
-    r = polite_get(
-        f"https://store.steampowered.com/appreviews/{appid}",
-        host_delay=1.6,
-        params={"json": 1, "language": "all", "purchase_type": "all", "filter": "all", "review_type": "all", "num_per_page": 0},
-    )
-    try:
-        s = r.json()["query_summary"]
-        total = s.get("total_reviews") or 0
-        if total >= 10:
-            out["steam_pct"] = round(100 * s["total_positive"] / total)
-            out["steam_reviews"] = total
-    except Exception:
-        pass
+    # Review totals. Steam's own endpoint first (two parameter sets), then SteamSpy as a fallback.
+    tries = []
+    for params in ({"json": 1, "language": "all", "purchase_type": "all", "num_per_page": 1, "cursor": "*"},
+                   {"json": 1, "language": "all", "purchase_type": "all", "filter": "all", "num_per_page": 0}):
+        r = polite_get(f"https://store.steampowered.com/appreviews/{appid}", host_delay=1.6, params=params)
+        try:
+            s = r.json().get("query_summary") or {}
+            total = s.get("total_reviews")
+            if total is None:
+                total = (s.get("total_positive") or 0) + (s.get("total_negative") or 0) or None
+            tries.append(f"steam {getattr(r, 'status_code', None)} total={total}")
+            if total:
+                if total >= 10:
+                    out["steam_pct"] = round(100 * s["total_positive"] / total)
+                out["steam_reviews"] = total
+                break
+        except Exception as e:
+            tries.append(f"steam {getattr(r, 'status_code', None)} {type(e).__name__}: {(getattr(r, 'text', '') or '')[:80]!r}")
+    if out["steam_reviews"] is None:
+        r = polite_get("https://steamspy.com/api.php", host_delay=1.2, params={"request": "appdetails", "appid": appid})
+        try:
+            d = r.json()
+            pos, neg = int(d.get("positive") or 0), int(d.get("negative") or 0)
+            tries.append(f"steamspy {r.status_code} {pos}+{neg}")
+            if pos + neg:
+                if pos + neg >= 10:
+                    out["steam_pct"] = round(100 * pos / (pos + neg))
+                out["steam_reviews"] = pos + neg
+        except Exception as e:
+            tries.append(f"steamspy {getattr(r, 'status_code', None)} {type(e).__name__}")
+    out["steam_debug"] = "; ".join(tries)
     return out
 
 

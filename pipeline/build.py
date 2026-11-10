@@ -430,7 +430,7 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
             st = scores.steam_store(row["steam_appid"])
             c.update({k: v for k, v in st.items() if k not in ("metacritic_slug", "metacritic")})
             c["steam_mc"], c["steam_mc_slug"] = st.get("metacritic"), st.get("metacritic_slug")
-            c["steam_v"] = 2
+            c["steam_v"] = 3
         fetch_metacritic(row, c, wd_cache.get(g.get("slug"), {}), overrides)
         bl = scores.backloggd(g.get("slug"))
         if bl is not None:
@@ -458,14 +458,14 @@ def refresh_scores(merged, overrides, wd_cache, offline=False):
                 fetch_metacritic(row, cache[row["key"]], wd_cache.get((row["igdb"] or {}).get("slug"), {}), overrides)
         # Steam review totals: the store call used to miss them (fixed Nov 2026); fetch them for every Steam game once.
         recheck_st = [r for r in rows if r["key"] not in done and r.get("steam_appid") and r["key"] in cache
-                      and cache[r["key"]].get("steam_v") != 2]
+                      and cache[r["key"]].get("steam_v") != 3]
         if recheck_st:
             log(f"Steam: fetching review totals for {min(len(recheck_st), MAX_RECHECKS)} of {len(recheck_st)} games")
             for row in recheck_st[:MAX_RECHECKS]:
                 c = cache[row["key"]]
                 st = scores.steam_store(row["steam_appid"])
                 c.update({k: v for k, v in st.items() if k not in ("metacritic_slug", "metacritic")})
-                c["steam_v"] = 2
+                c["steam_v"] = 3
         recheck_bl = [
             r for r in rows if r["key"] not in done and r["key"] in cache and (r["igdb"] or {}).get("slug")
             and cache[r["key"]].get("bl_v") != scores.BACKLOGGD_PARSER_VERSION
