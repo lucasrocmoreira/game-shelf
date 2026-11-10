@@ -77,8 +77,9 @@ def compute(scores, on=None, model=None, counts=None):
         else:
             med = sorted(pl.values())[1]
             far = max(pl, key=lambda k: abs(pl[k] - med))
-            notes.append(f"{names[far]} {raw(far)}: set aside, disagrees with the other player scores")
-            del pl[far]
+            if not (far == "steam" and st_n >= M.get("steam_strong_reviews", 500)):  # hundreds of Steam reviews always count
+                notes.append(f"{names[far]} {raw(far)}: set aside, disagrees with the other player scores")
+                del pl[far]
     P, p_weak = None, False
     if len(pl) >= 2:
         P = sum(pl.values()) / len(pl)

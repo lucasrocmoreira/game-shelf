@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "note": "Two-pillar score (council decision, Nov 2026). Every source is mapped onto the Metacritic scale (a*x+b); critics and players are combined separately, and the score is their midpoint. Refit with care: see pipeline/rating.py. Steam: % positive is first adjusted for review count (SteamDB's formula), then mapped; with 500+ reviews it counts as a full player source on its own.",
+  "version": 3,
+  "note": "Two-pillar score (council decision, Nov 2026). Every source is mapped onto the Metacritic scale (a*x+b); critics and players are combined separately, and the score is their midpoint. Refit with care: see pipeline/rating.py. Steam: % positive is first adjusted for review count (SteamDB's formula), then mapped (fitted Nov 2026 on 101 games with 500+ reviews); with 500+ reviews it counts as a full player source on its own. Steam with 500+ reviews is never set aside as an outlier.",
   "map": {
     "metacritic": [
       1,
@@ -23,8 +23,8 @@
       3.6
     ],
     "steam": [
-      0.76,
-      20
+      0.865,
+      7.2
     ]
   },
   "mu": 78,

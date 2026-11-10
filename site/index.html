@@ -362,7 +362,7 @@ let EDITS = EMPTY_EDITS();
 let liveEdits = false;
 const $ = id => document.getElementById(id);
 const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-let RM = {map:{metacritic:[1,0],opencritic:[1.03,-2.8],igdb_critic:[0.88,10.1],backloggd:[0.85,19.6],igdb_user:[0.99,3.6],steam:[0.76,20]}, steam_min_reviews:10, steam_strong_reviews:500,
+let RM = {map:{metacritic:[1,0],opencritic:[1.03,-2.8],igdb_critic:[0.88,10.1],backloggd:[0.85,19.6],igdb_user:[0.99,3.6],steam:[0.865,7.2]}, steam_min_reviews:10, steam_strong_reviews:500,
   mu:78, rho:0.65, lam_igc:0.9, lam_igc_round:0.6, lam_player_single:0.88, clash_critic:8, clash_player:15, split_badge:15, tone:{hi:85, lo:70}};
 const tone = v => v==null?"na":v>=RM.tone.hi?"hi":v>=RM.tone.lo?"mid":"lo";
 // A single source's own number, coloured as it would count on the shared (Metacritic) scale.
@@ -479,7 +479,8 @@ function rateGame(scores, on, counts){
   if(ks.length>=2 && Math.max(...vals)-Math.min(...vals) >= M.clash_player){
     if(ks.length===2){ if("igdb_user" in pl){ notes.push(`IGDB players ${raw("igdb_user")}: set aside, disagrees with ${names[ks.find(k=>k!=="igdb_user")]}`); delete pl.igdb_user; } }
     else { const med = [...vals].sort((a,b)=>a-b)[1]; const far = ks.reduce((a,b)=>Math.abs(pl[b]-med)>Math.abs(pl[a]-med)?b:a);
-      notes.push(`${names[far]} ${raw(far)}: set aside, disagrees with the other player scores`); delete pl[far]; }
+      if(!(far==="steam" && stN >= (M.steam_strong_reviews??500))){  // hundreds of Steam reviews always count
+        notes.push(`${names[far]} ${raw(far)}: set aside, disagrees with the other player scores`); delete pl[far]; } }
   }
   let P = null, pWeak = false; const left = Object.entries(pl);
   if(left.length>=2) P = left.reduce((a,[,x])=>a+x,0)/left.length;
