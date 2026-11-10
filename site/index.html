@@ -229,6 +229,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
 }
 .status ol{margin:.3em 0 .5em 1.3em;padding:0}.status li{margin:.25em 0}.status .status-err{font-size:.8em;opacity:.7;word-break:break-word}
 .score.est{opacity:.6}.why-score p{margin:.2em 0}.why-score{margin:.4em 0 .6em}
+.pick .earlier{display:block;margin-top:.35em;font-size:.88em;opacity:.9}.pick .earlier .iconbtn{margin-left:.3em}
 </style>
 </head>
 <body>
@@ -847,10 +848,11 @@ function suggestions(keep=[null,null,null]){
     const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && x.matched && !SUGGEST.skip.has(x.key) && !taken(x)
       && !(state.view==="steam" && emuOnlySteam(x)));  // EmuDeck games can be earlier entries anywhere but on Steam Machine
     // The franchise guides know each series' real order (checked against Wikipedia); fall back to IGDB series data.
+    // The pick is always a game on this console. If an earlier game in its series is still unplayed
+    // (on any console), it's mentioned under the pick with a button to send it where you can play it.
     const prev = guidePrev(best, everywhere) || earliestUnplayed(best, everywhere);
-    if(prev){ game = prev.game; why.push(`Play this game to get to the amazing ${best.title} (${avg(best)}). It's the earliest ${prev.guide ? `${esc(prev.guide)} game` : "entry in the series"} you haven't played.`);
-      if(!inTab.has(game.key)) why.push(`Not on this console: ${whereIs(game)}`); }
-    else why.push(`Top-rated game you haven't played (score ${avg(game)})`);
+    why.push(`Top-rated game you haven't played (score ${avg(game)})`);
+    const earlier = prev ? {game: prev.game, guide: prev.guide} : null;
     const others = (game.genres||[]).filter(x=>!curGenres.has(x));
     if(current.length && others.length && !(game.genres||[]).some(x=>curGenres.has(x))) why.push(`A change of genre: ${others.slice(0,2).join(", ")}`);
     const h = beat(game);
@@ -858,13 +860,14 @@ function suggestions(keep=[null,null,null]){
     else if(want==="long" && h && h >= 28) why.push(`A longer one this time: about ${hrs(h)} to beat`);
     else if(h) why.push(`About ${hrs(h)} to beat`);
     if(game._catalog && inTab.has(game.key)) why.push("Included with PS Plus");
-    slots[n] = {game, why, best};
+    slots[n] = {game, why, best, earlier};
     register(slots[n]);
   }
   return {slots, picks:slots.filter(Boolean), current, want};
 }
 function saveSuggest(){
-  const v = state.view, data = {slots: SUGGEST.slots.map(p=>p ? {key:p.game.key, best:(p.best||p.game).key, why:p.why, sent:!!p.sent} : null),
+  const v = state.view, data = {slots: SUGGEST.slots.map(p=>p ? {key:p.game.key, best:(p.best||p.game).key, why:p.why, sent:!!p.sent,
+                                   earlier: p.earlier ? {key:p.earlier.game.key, guide:p.earlier.guide||null} : null} : null),
                                  skip: [...SUGGEST.skip].slice(-300), avoid: SUGGEST.avoid.slice(-40)};
   const cur = (EDITS.suggest||{})[v];
   if(cur && JSON.stringify({slots:cur.slots, skip:cur.skip, avoid:cur.avoid}) === JSON.stringify(data)) return;
@@ -882,7 +885,12 @@ function openSuggest(mode){
     SUGGEST.skip = new Set(saved ? saved.skip||[] : []);
     SUGGEST.avoid = saved ? (saved.avoid||[]).slice() : [];
     SUGGEST.slots = [0,1,2].map(i=>{ const x = saved && (saved.slots||[])[i]; const g = x && byKey.get(x.key);
-      return valid(g) ? {game:g, best:byKey.get(x.best)||g, why:x.why||[], sent:!!x.sent} : null; });
+      if(!valid(g)) return null;
+      const inTab = DATA.games.some(y=>y.key===g.key) || x.sent;
+      if(!inTab) return null;  // an older save that suggested an earlier game from another console: pick again
+      const e = x.earlier && byKey.get(x.earlier.key);
+      return {game:g, best:byKey.get(x.best)||g, why:(x.why||[]).filter(w=>!/^Play this game to get to|^Not on this console/.test(w)), sent:!!x.sent,
+              earlier: e && !e._played && !e._playing && !e._hidden ? {game:e, guide:x.earlier.guide} : null}; });
     for(const p of sentHere()) if(!SUGGEST.slots.some(x=>x && x.game.key===p.game.key)){  // newly sent games go first
       const i = SUGGEST.slots.findIndex(x=>!x); SUGGEST.slots[i>=0 ? i : 2] = p; }
   }
@@ -903,7 +911,10 @@ function openSuggest(mode){
     <p>${basis}</p>
     ${picks.length ? `<div class="picks">${slots.map((p,i)=>{ if(!p) return ""; const {game:g,why}=p, a=avg(g); return `<div class="pick" role="button" tabindex="0" data-key="${esc(g.key)}">
       ${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<img alt="">`}
-      <span><b>${esc(g.title)}</b><span class="na">${[esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" · ")}</span><ul>${why.map(w=>`<li>${esc(w)}</li>`).join("")}</ul></span>
+      <span><b>${esc(g.title)}</b><span class="na">${[esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" · ")}</span><ul>${why.map(w=>`<li>${esc(w)}</li>`).join("")}</ul>
+        ${p.earlier ? (()=>{ const e = p.earlier.game, here = DATA.games.some(y=>y.key===e.key), to = here ? null : consoleFor(e);
+          return `<span class="earlier">Comes first${p.earlier.guide?` in ${esc(p.earlier.guide)}`:""}: <b>${esc(e.title)}</b>${avg(e)!=null?` (${avg(e)})`:""}, unplayed. ${here ? "It's on this console too." : `On ${esc(whereIs(e))}.`}
+            ${to ? `<button type="button" class="iconbtn swap" data-send-earlier="${i}">Send to ${esc(CONSOLES[to].label)}</button>` : ""}</span>`; })() : ""}</span>
       <span class="pick-side"><span class="score ${tone(a)}">${a??"–"}</span>
         <button type="button" class="iconbtn swap" data-swap="${i}" aria-label="Replace ${esc(g.title)} with another suggestion">↻ Replace</button>
         ${!p.sent && consoleFor(g) && !new Set(DATA.games.map(x=>x.key)).has(g.key) ? `<button type="button" class="iconbtn swap" data-send="${i}">Send to ${esc(CONSOLES[consoleFor(g)].label)}</button>` : ""}</span></div>`; }).join("")}</div>`
@@ -922,6 +933,13 @@ function openSuggest(mode){
         act(d=>{ d.sent = d.sent||{}; if(d.sent[state.view]) delete d.sent[state.view][p.game.key]; },
             `Unsend: ${p.game.title}`, `${p.game.title} removed from your ${CONSOLES[state.view].label} suggestions`).then(ok=>{ if(ok) openSuggest(i); });
       } else openSuggest(i);
+      return; }
+    const se = e.target.closest("[data-send-earlier]");
+    if(se){ e.stopPropagation(); const p = SUGGEST.slots[+se.dataset.sendEarlier], g = p.earlier.game, to = consoleFor(g), from = CONSOLES[state.view].label;
+      act(d=>{ d.sent = d.sent||{}; d.sent[to] = d.sent[to]||{};
+               d.sent[to][g.key] = {from, why: `Comes before ${p.game.title}${p.earlier.guide?` in ${p.earlier.guide}`:""}`, date: new Date().toISOString()}; },
+          `Send to ${CONSOLES[to].label}: ${g.title}`,
+          `${g.title} is now a suggestion on your ${CONSOLES[to].label}`).then(ok=>{ if(ok){ se.textContent = `Sent to ${CONSOLES[to].label}`; se.disabled = true; } });
       return; }
     const sd = e.target.closest("[data-send]");
     if(sd){ const i = +sd.dataset.send, p = SUGGEST.slots[i], to = consoleFor(p.game), from = CONSOLES[state.view].label;
