@@ -3684,12 +3684,11 @@
      "sent": false
     },
     {
-     "key": "igdb:2195",
-     "best": "igdb:2194",
+     "key": "igdb:84696",
+     "best": "igdb:84697",
      "why": [
-      "Play this game to get to the amazing Punch-Out!! (85). It's the earliest Punch-Out!! game you haven't played.",
-      "Not on this console: Switch Online (Switch + NES)",
-      "Shorter than what you're playing: about 4h to beat"
+      "Play this game to get to the amazing Pikmin 2 (82). It's the earliest Pikmin game you haven't played.",
+      "Shorter than what you're playing: about 8h to beat"
      ],
      "sent": false
     }
@@ -3699,15 +3698,18 @@
     "igdb:1467",
     "igdb:1026",
     "igdb:2259",
-    "igdb:2195"
+    "igdb:2195",
+    "igdb:84696"
    ],
    "avoid": [
     "Rhythm Heaven",
     "The Legend of Zelda: A Link to the Past",
     "The Legend of Zelda",
-    "The Legend of Zelda: The Wind Waker"
+    "The Legend of Zelda: The Wind Waker",
+    "Punch-Out!!",
+    "Mike Tyson"
    ],
-   "date": "2026-11-10T14:21:30.583Z"
+   "date": "2026-11-10T14:21:37.155Z"
   }
  }
 }
