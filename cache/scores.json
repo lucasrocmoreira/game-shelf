@@ -101,7 +101,7 @@
  },
  "igdb:101211": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:22+00:00",
   "mc_v": 3,
@@ -131,7 +131,7 @@
  },
  "igdb:101869": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:11+00:00",
   "mc_v": 3,
@@ -170,7 +170,7 @@
  },
  "igdb:102057": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:31+00:00",
   "mc_v": 3,
@@ -438,7 +438,7 @@
  },
  "igdb:103295": {
   "backloggd": 2.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:01+00:00",
   "mc_v": 3,
@@ -554,7 +554,7 @@
  },
  "igdb:103334": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:56+00:00",
   "mc_v": 3,
@@ -762,7 +762,7 @@
  },
  "igdb:105680": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:30+00:00",
   "mc_v": 3,
@@ -906,7 +906,7 @@
  },
  "igdb:106790": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:23+00:00",
   "mc_v": 3,
@@ -932,7 +932,7 @@
  },
  "igdb:106847": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:38+00:00",
   "mc_v": 3,
@@ -969,7 +969,7 @@
  },
  "igdb:106980": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:42+00:00",
   "mc_v": 3,
@@ -1249,7 +1249,7 @@
  },
  "igdb:10910": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:28+00:00",
   "mc_v": 3,
@@ -1442,7 +1442,7 @@
  },
  "igdb:109970": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:39+00:00",
   "mc_v": 3,
@@ -1457,7 +1457,7 @@
  },
  "igdb:11002": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:14+00:00",
   "mc_v": 3,
@@ -1472,7 +1472,7 @@
  },
  "igdb:110039": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:21+00:00",
   "mc_v": 3,
@@ -1576,7 +1576,7 @@
  },
  "igdb:11064": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:11+00:00",
   "mc_v": 3,
@@ -1617,7 +1617,7 @@
  },
  "igdb:11069": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:17+00:00",
   "mc_v": 3,
@@ -1658,7 +1658,7 @@
  },
  "igdb:110788": {
   "backloggd": 1.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:06+00:00",
   "mc_v": 3,
@@ -1690,7 +1690,7 @@
  },
  "igdb:11092": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:45+00:00",
   "mc_v": 3,
@@ -1850,7 +1850,7 @@
  },
  "igdb:11162": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:42+00:00",
   "mc_v": 3,
@@ -1985,7 +1985,8 @@
  },
  "igdb:11209": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:37+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -2025,7 +2026,7 @@
  },
  "igdb:112185": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:50+00:00",
   "mc_v": 3,
@@ -2036,7 +2037,8 @@
  },
  "igdb:11227": {
   "backloggd": 3.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:07:03+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -2046,7 +2048,8 @@
  },
  "igdb:1124": {
   "backloggd": 3.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:29+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -2056,7 +2059,7 @@
  },
  "igdb:11254": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:07+00:00",
   "mc_v": 3,
@@ -2342,7 +2345,7 @@
  },
  "igdb:114032": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:59+00:00",
   "mc_v": 3,
@@ -2420,7 +2423,7 @@
  },
  "igdb:115054": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:19+00:00",
   "mc_v": 3,
@@ -2465,7 +2468,7 @@
  },
  "igdb:115278": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:56+00:00",
   "mc_v": 3,
@@ -2480,7 +2483,7 @@
  },
  "igdb:115304": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:33+00:00",
   "mc_v": 3,
@@ -2495,7 +2498,7 @@
  },
  "igdb:115392": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:04+00:00",
   "mc_v": 3,
@@ -2505,7 +2508,7 @@
  },
  "igdb:115425": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:06+00:00",
   "mc_v": 3,
@@ -2565,7 +2568,7 @@
  },
  "igdb:11594": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:33+00:00",
   "mc_v": 3,
@@ -2637,7 +2640,8 @@
  },
  "igdb:11616": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:21+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -2746,7 +2750,7 @@
  },
  "igdb:116403": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:29+00:00",
   "mc_v": 3,
@@ -2802,7 +2806,7 @@
  },
  "igdb:116586": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:24+00:00",
   "mc_v": 3,
@@ -2843,7 +2847,7 @@
  },
  "igdb:11719": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:28+00:00",
   "mc_v": 3,
@@ -2895,7 +2899,7 @@
  },
  "igdb:117312": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:34+00:00",
   "mc_v": 3,
@@ -2928,7 +2932,7 @@
  },
  "igdb:117420": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:48+00:00",
   "mc_v": 3,
@@ -3024,7 +3028,7 @@
  },
  "igdb:117855": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:26+00:00",
   "mc_v": 3,
@@ -3050,7 +3054,7 @@
  },
  "igdb:117886": {
   "backloggd": 1.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:00+00:00",
   "mc_v": 3,
@@ -3123,7 +3127,7 @@
  },
  "igdb:11814": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:11+00:00",
   "mc_v": 3,
@@ -3179,7 +3183,7 @@
  },
  "igdb:118607": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:56+00:00",
   "mc_v": 3,
@@ -3214,7 +3218,7 @@
  },
  "igdb:119089": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:48+00:00",
   "mc_v": 3,
@@ -3281,7 +3285,7 @@
  },
  "igdb:119226": {
   "backloggd": 1.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:47+00:00",
   "mc_v": 3,
@@ -3326,7 +3330,7 @@
  },
  "igdb:119249": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:48+00:00",
   "mc_v": 3,
@@ -3482,7 +3486,7 @@
  },
  "igdb:119385": {
   "backloggd": 1.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:46+00:00",
   "mc_v": 3,
@@ -3496,7 +3500,7 @@
  },
  "igdb:119386": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:37+00:00",
   "mc_v": 3,
@@ -3511,7 +3515,7 @@
  },
  "igdb:119387": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:39+00:00",
   "mc_v": 3,
@@ -3552,7 +3556,7 @@
  },
  "igdb:119930": {
   "backloggd": 2.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:38+00:00",
   "mc_v": 3,
@@ -3567,7 +3571,8 @@
  },
  "igdb:1200": {
   "backloggd": 3.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:18+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -3586,7 +3591,7 @@
  },
  "igdb:120300": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:03:42+00:00",
   "mc_v": 3,
@@ -3673,7 +3678,7 @@
  },
  "igdb:121247": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:31+00:00",
   "mc_v": 3,
@@ -3783,7 +3788,7 @@
  },
  "igdb:121731": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:32+00:00",
   "mc_v": 3,
@@ -3813,7 +3818,7 @@
  },
  "igdb:121754": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:58+00:00",
   "mc_v": 3,
@@ -3828,7 +3833,7 @@
  },
  "igdb:121763": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:15+00:00",
   "mc_v": 3,
@@ -3843,7 +3848,7 @@
  },
  "igdb:121807": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:33+00:00",
   "mc_v": 3,
@@ -4006,7 +4011,7 @@
  },
  "igdb:123251": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:13+00:00",
   "mc_v": 3,
@@ -4041,7 +4046,7 @@
  },
  "igdb:124131": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:35+00:00",
   "mc_v": 3,
@@ -4056,7 +4061,7 @@
  },
  "igdb:124257": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:50+00:00",
   "mc_v": 3,
@@ -4097,7 +4102,7 @@
  },
  "igdb:12511": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:17+00:00",
   "mc_v": 3,
@@ -4157,7 +4162,7 @@
  },
  "igdb:12528": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:15+00:00",
   "mc_v": 3,
@@ -4213,7 +4218,7 @@
  },
  "igdb:125479": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:47+00:00",
   "mc_v": 3,
@@ -4344,7 +4349,7 @@
  },
  "igdb:126290": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T06:30:42+00:00",
   "mc_v": 3,
@@ -4359,7 +4364,8 @@
  },
  "igdb:1263": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:26+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -4455,7 +4461,7 @@
  },
  "igdb:127589": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T06:30:44+00:00",
   "mc_v": 3,
@@ -4528,7 +4534,8 @@
  },
  "igdb:12868": {
   "backloggd": 2.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:48+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -4538,7 +4545,7 @@
  },
  "igdb:128769": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:01+00:00",
   "mc_v": 3,
@@ -4581,7 +4588,7 @@
  },
  "igdb:129274": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:55+00:00",
   "mc_v": 3,
@@ -4668,7 +4675,8 @@
  },
  "igdb:13057": {
   "backloggd": 3.6,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:39+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -4735,7 +4743,7 @@
  },
  "igdb:131888": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:27+00:00",
   "mc_v": 3,
@@ -4765,7 +4773,7 @@
  },
  "igdb:13205": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:48+00:00",
   "mc_v": 3,
@@ -4817,7 +4825,7 @@
  "igdb:132164": {},
  "igdb:132165": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:45+00:00",
   "mc_v": 3,
@@ -4847,7 +4855,7 @@
  },
  "igdb:132220": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:11+00:00",
   "mc_v": 3,
@@ -4975,7 +4983,7 @@
  },
  "igdb:133306": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:58+00:00",
   "mc_v": 3,
@@ -5004,7 +5012,7 @@
  },
  "igdb:1338": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:04+00:00",
   "mc_v": 3,
@@ -5099,7 +5107,8 @@
  },
  "igdb:134079": {
   "backloggd": 3.0,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:23+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -5450,7 +5459,8 @@
  },
  "igdb:1359": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:10+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -5504,7 +5514,7 @@
  },
  "igdb:135995": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:59+00:00",
   "mc_v": 3,
@@ -5605,7 +5615,7 @@
  },
  "igdb:136659": {
   "backloggd": 1.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:29+00:00",
   "mc_v": 3,
@@ -5619,7 +5629,7 @@
  },
  "igdb:13669": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:03+00:00",
   "mc_v": 3,
@@ -5659,7 +5669,7 @@
  },
  "igdb:137276": {
   "backloggd": 2.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:15+00:00",
   "mc_v": 3,
@@ -5704,7 +5714,7 @@
  },
  "igdb:138204": {
   "backloggd": 2.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:51+00:00",
   "mc_v": 3,
@@ -5761,7 +5771,7 @@
  },
  "igdb:138766": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:35+00:00",
   "mc_v": 3,
@@ -5836,7 +5846,7 @@
  },
  "igdb:138949": {
   "backloggd": 4.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:51+00:00",
   "mc_v": 3,
@@ -5866,7 +5876,7 @@
  },
  "igdb:138951": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:56+00:00",
   "mc_v": 3,
@@ -5881,7 +5891,7 @@
  },
  "igdb:139067": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:24+00:00",
   "mc_v": 3,
@@ -6029,7 +6039,7 @@
  },
  "igdb:140500": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:09+00:00",
   "mc_v": 3,
@@ -6137,7 +6147,7 @@
  },
  "igdb:141541": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:01:59+00:00",
   "mc_v": 3,
@@ -6394,7 +6404,7 @@
  },
  "igdb:143061": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:50+00:00",
   "mc_v": 3,
@@ -6467,7 +6477,7 @@
  },
  "igdb:143608": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:01:43+00:00",
   "mc_v": 3,
@@ -6542,7 +6552,7 @@
  },
  "igdb:14364": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:03+00:00",
   "mc_v": 3,
@@ -6605,7 +6615,7 @@
  },
  "igdb:143882": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:03+00:00",
   "mc_v": 3,
@@ -6800,7 +6810,8 @@
  },
  "igdb:144413": {
   "backloggd": 2.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:17+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -6867,7 +6878,7 @@
  },
  "igdb:145017": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:13+00:00",
   "mc_v": 3,
@@ -6937,7 +6948,8 @@
  },
  "igdb:14530": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:14+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -6947,7 +6959,8 @@
  },
  "igdb:14531": {
   "backloggd": 3.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:33+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -6957,7 +6970,7 @@
  },
  "igdb:145319": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:53+00:00",
   "mc_v": 3,
@@ -7175,7 +7188,7 @@
  },
  "igdb:146917": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:59+00:00",
   "mc_v": 3,
@@ -7204,7 +7217,8 @@
  },
  "igdb:14697": {
   "backloggd": 3.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:27+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -7365,7 +7379,7 @@
  },
  "igdb:14765": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:09+00:00",
   "mc_v": 3,
@@ -7380,7 +7394,7 @@
  },
  "igdb:14790": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:41+00:00",
   "mc_v": 3,
@@ -7421,7 +7435,7 @@
  },
  "igdb:148289": {
   "backloggd": 1.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:21+00:00",
   "mc_v": 3,
@@ -7435,7 +7449,7 @@
  },
  "igdb:148527": {
   "backloggd": 1.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:35+00:00",
   "mc_v": 3,
@@ -7459,7 +7473,7 @@
  },
  "igdb:14902": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:02+00:00",
   "mc_v": 3,
@@ -7474,7 +7488,7 @@
  },
  "igdb:14903": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:08+00:00",
   "mc_v": 3,
@@ -7607,7 +7621,7 @@
  },
  "igdb:151353": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:46+00:00",
   "mc_v": 3,
@@ -7759,7 +7773,7 @@
  },
  "igdb:152065": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:01:24+00:00",
   "mc_v": 3,
@@ -7774,7 +7788,7 @@
  },
  "igdb:152072": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:26+00:00",
   "mc_v": 3,
@@ -7836,7 +7850,7 @@
  },
  "igdb:152180": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:16+00:00",
   "mc_v": 3,
@@ -7922,7 +7936,7 @@
  },
  "igdb:152259": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:12+00:00",
   "mc_v": 3,
@@ -7937,7 +7951,7 @@
  },
  "igdb:152271": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:29+00:00",
   "mc_v": 3,
@@ -7952,7 +7966,7 @@
  },
  "igdb:152297": {
   "backloggd": 2.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:54+00:00",
   "mc_v": 3,
@@ -7967,7 +7981,7 @@
  },
  "igdb:152302": {
   "backloggd": 1.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:17+00:00",
   "mc_v": 3,
@@ -8102,7 +8116,7 @@
  },
  "igdb:153700": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:53+00:00",
   "mc_v": 3,
@@ -8117,7 +8131,8 @@
  },
  "igdb:15374": {
   "backloggd": 2.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:34+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -9056,7 +9071,7 @@
  },
  "igdb:16992": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:30+00:00",
   "mc_v": 3,
@@ -9082,7 +9097,7 @@
  },
  "igdb:16999": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:43+00:00",
   "mc_v": 3,
@@ -9745,7 +9760,7 @@
  },
  "igdb:178211": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:51+00:00",
   "mc_v": 3,
@@ -9760,7 +9775,7 @@
  },
  "igdb:178279": {
   "backloggd": 1.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:48+00:00",
   "mc_v": 3,
@@ -9934,7 +9949,8 @@
  },
  "igdb:180001": {
   "backloggd": 3.6,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:02+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -10009,7 +10025,7 @@
  },
  "igdb:18088": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:41+00:00",
   "mc_v": 3,
@@ -10035,7 +10051,8 @@
  },
  "igdb:18125": {
   "backloggd": 3.0,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:32+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -10238,7 +10255,7 @@
  },
  "igdb:18366": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:23+00:00",
   "mc_v": 3,
@@ -10335,7 +10352,7 @@
  },
  "igdb:185248": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:20+00:00",
   "mc_v": 3,
@@ -10396,7 +10413,7 @@
  },
  "igdb:185966": {
   "backloggd": 1.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:25+00:00",
   "mc_v": 3,
@@ -10442,7 +10459,8 @@
  },
  "igdb:18618": {
   "backloggd": 3.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:18+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -10452,7 +10470,8 @@
  },
  "igdb:18626": {
   "backloggd": 3.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:45+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -10473,7 +10492,7 @@
  },
  "igdb:186528": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:41+00:00",
   "mc_v": 3,
@@ -10666,7 +10685,7 @@
  },
  "igdb:188063": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:04+00:00",
   "mc_v": 3,
@@ -10696,7 +10715,7 @@
  },
  "igdb:18853": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:50+00:00",
   "mc_v": 3,
@@ -10711,7 +10730,7 @@
  },
  "igdb:18866": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:10+00:00",
   "mc_v": 3,
@@ -10860,7 +10879,8 @@
  },
  "igdb:19117": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:46+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -11162,7 +11182,7 @@
  },
  "igdb:194436": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:36+00:00",
   "mc_v": 3,
@@ -11177,7 +11197,7 @@
  },
  "igdb:194467": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:52:28+00:00",
   "mc_v": 3,
@@ -11319,7 +11339,7 @@
  },
  "igdb:19554": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:03:24+00:00",
   "mc_v": 3,
@@ -11531,7 +11551,7 @@
  },
  "igdb:1970": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:43+00:00",
   "mc_v": 3,
@@ -11695,7 +11715,7 @@
  },
  "igdb:199178": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:20+00:00",
   "mc_v": 3,
@@ -11851,7 +11871,8 @@
  },
  "igdb:20031": {
   "backloggd": 2.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:49+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -11953,7 +11974,7 @@
  },
  "igdb:201254": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:19+00:00",
   "mc_v": 3,
@@ -12014,7 +12035,8 @@
  },
  "igdb:20173": {
   "backloggd": 2.6,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:35+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -12076,7 +12098,7 @@
  },
  "igdb:202417": {
   "backloggd": 1.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:23+00:00",
   "mc_v": 3,
@@ -12127,7 +12149,7 @@
  },
  "igdb:20308": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:15+00:00",
   "mc_v": 3,
@@ -12169,7 +12191,7 @@
  },
  "igdb:20326": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:28+00:00",
   "mc_v": 3,
@@ -12184,7 +12206,7 @@
  },
  "igdb:20331": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:45+00:00",
   "mc_v": 3,
@@ -12397,7 +12419,8 @@
  },
  "igdb:204616": {
   "backloggd": 2.6,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:11+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -13173,7 +13196,8 @@
  },
  "igdb:21074": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:37+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -13394,8 +13418,9 @@
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:213570": {
-  "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd": 3.4,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:08+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -13715,7 +13740,7 @@
  },
  "igdb:217553": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:03:39+00:00",
   "mc_v": 3,
@@ -13756,7 +13781,7 @@
  },
  "igdb:217592": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:07+00:00",
   "mc_v": 3,
@@ -13771,7 +13796,7 @@
  },
  "igdb:217594": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:37+00:00",
   "mc_v": 3,
@@ -13893,7 +13918,7 @@
  },
  "igdb:218521": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:42+00:00",
   "mc_v": 3,
@@ -14028,7 +14053,7 @@
  },
  "igdb:219126": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:26+00:00",
   "mc_v": 3,
@@ -14217,7 +14242,8 @@
  },
  "igdb:22358": {
   "backloggd": 3.2,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:41+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -14349,7 +14375,7 @@
  },
  "igdb:226521": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:09+00:00",
   "mc_v": 3,
@@ -14426,7 +14452,7 @@
  },
  "igdb:22788": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:08+00:00",
   "mc_v": 3,
@@ -14467,7 +14493,7 @@
  },
  "igdb:228539": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:14+00:00",
   "mc_v": 3,
@@ -14482,7 +14508,7 @@
  },
  "igdb:228541": {
   "backloggd": 2.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:58+00:00",
   "mc_v": 3,
@@ -14632,7 +14658,7 @@
  },
  "igdb:229919": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:18+00:00",
   "mc_v": 3,
@@ -14869,7 +14895,7 @@
  },
  "igdb:232699": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:06+00:00",
   "mc_v": 3,
@@ -14958,7 +14984,7 @@
  },
  "igdb:23331": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:39+00:00",
   "mc_v": 3,
@@ -15238,7 +15264,8 @@
  },
  "igdb:23879": {
   "backloggd": 3.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:49+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -15318,7 +15345,7 @@
  },
  "igdb:240037": {
   "backloggd": 2.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:48+00:00",
   "mc_v": 3,
@@ -15365,7 +15392,7 @@
  },
  "igdb:241246": {
   "backloggd": 1.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:52+00:00",
   "mc_v": 3,
@@ -15505,7 +15532,8 @@
  },
  "igdb:243453": {
   "backloggd": 3.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:39+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -15514,7 +15542,7 @@
  },
  "igdb:243749": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:54+00:00",
   "mc_v": 3,
@@ -15562,7 +15590,7 @@
  },
  "igdb:246893": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:03:20+00:00",
   "mc_v": 3,
@@ -15674,7 +15702,7 @@
  },
  "igdb:24881": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:03+00:00",
   "mc_v": 3,
@@ -15729,7 +15757,7 @@
  },
  "igdb:24985": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:58+00:00",
   "mc_v": 3,
@@ -15855,7 +15883,7 @@
  },
  "igdb:250622": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:15+00:00",
   "mc_v": 3,
@@ -16019,7 +16047,7 @@
  },
  "igdb:252175": {
   "backloggd": 1.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:20+00:00",
   "mc_v": 3,
@@ -16063,7 +16091,7 @@
  },
  "igdb:252827": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:53+00:00",
   "mc_v": 3,
@@ -16093,7 +16121,7 @@
  },
  "igdb:252837": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:03:32+00:00",
   "mc_v": 3,
@@ -16108,7 +16136,7 @@
  },
  "igdb:252853": {
   "backloggd": 4.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:32+00:00",
   "mc_v": 3,
@@ -16261,7 +16289,7 @@
  "igdb:257323": {},
  "igdb:257332": {
   "backloggd": 2.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:37+00:00",
   "mc_v": 3,
@@ -16276,7 +16304,7 @@
  },
  "igdb:25746": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:03+00:00",
   "mc_v": 3,
@@ -16291,7 +16319,7 @@
  },
  "igdb:25795": {
   "backloggd": 1.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:06+00:00",
   "mc_v": 3,
@@ -16321,7 +16349,7 @@
  },
  "igdb:258842": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:56+00:00",
   "mc_v": 3,
@@ -16577,7 +16605,7 @@
  "igdb:26234": {},
  "igdb:262534": {
   "backloggd": 2.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:51+00:00",
   "mc_v": 3,
@@ -16607,7 +16635,7 @@
  },
  "igdb:262651": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:46+00:00",
   "mc_v": 3,
@@ -16704,7 +16732,7 @@
  },
  "igdb:264500": {
   "backloggd": 2.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:04+00:00",
   "mc_v": 3,
@@ -16730,7 +16758,7 @@
  },
  "igdb:26499": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:49+00:00",
   "mc_v": 3,
@@ -16752,7 +16780,7 @@
  },
  "igdb:26546": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:06+00:00",
   "mc_v": 3,
@@ -16804,7 +16832,7 @@
  },
  "igdb:267775": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:52:31+00:00",
   "mc_v": 3,
@@ -17082,7 +17110,7 @@
  },
  "igdb:27283": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:17+00:00",
   "mc_v": 3,
@@ -17164,7 +17192,7 @@
  },
  "igdb:273522": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:00+00:00",
   "mc_v": 3,
@@ -17207,7 +17235,8 @@
  },
  "igdb:2739": {
   "backloggd": 4.0,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:38+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -17228,7 +17257,7 @@
  },
  "igdb:27419": {
   "backloggd": 2.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:44+00:00",
   "mc_v": 3,
@@ -17269,7 +17298,8 @@
  },
  "igdb:27461": {
   "backloggd": 3.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:36+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -17326,7 +17356,8 @@
  },
  "igdb:276081": {
   "backloggd": 3.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:53+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -17336,7 +17367,7 @@
  },
  "igdb:27729": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:18+00:00",
   "mc_v": 3,
@@ -17351,7 +17382,7 @@
  },
  "igdb:27771": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:13+00:00",
   "mc_v": 3,
@@ -17554,7 +17585,7 @@
  },
  "igdb:28187": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:49+00:00",
   "mc_v": 3,
@@ -17586,7 +17617,7 @@
  },
  "igdb:28244": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:42+00:00",
   "mc_v": 3,
@@ -17624,7 +17655,8 @@
  "igdb:283024": {},
  "igdb:28386": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:15+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -17700,7 +17732,7 @@
  },
  "igdb:284716": {
   "backloggd": 4.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:32+00:00",
   "mc_v": 3,
@@ -17778,7 +17810,8 @@
  },
  "igdb:2855": {
   "backloggd": 2.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:58+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -17788,7 +17821,7 @@
  },
  "igdb:28552": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:07+00:00",
   "mc_v": 3,
@@ -17847,7 +17880,7 @@
  "igdb:287835": {},
  "igdb:287848": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:52+00:00",
   "mc_v": 3,
@@ -17944,7 +17977,7 @@
  },
  "igdb:289593": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:01:17+00:00",
   "mc_v": 3,
@@ -17954,7 +17987,7 @@
  },
  "igdb:289698": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:07+00:00",
   "mc_v": 3,
@@ -18030,7 +18063,7 @@
  },
  "igdb:29144": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:37+00:00",
   "mc_v": 3,
@@ -18128,7 +18161,7 @@
  },
  "igdb:2955": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:31+00:00",
   "mc_v": 3,
@@ -18392,7 +18425,7 @@
  },
  "igdb:304472": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:31+00:00",
   "mc_v": 3,
@@ -18418,7 +18451,7 @@
  },
  "igdb:305016": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:44+00:00",
   "mc_v": 3,
@@ -18433,7 +18466,7 @@
  },
  "igdb:305158": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:30+00:00",
   "mc_v": 3,
@@ -18448,7 +18481,7 @@
  },
  "igdb:305234": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T11:39:35+00:00",
   "mc_v": 3,
@@ -18587,7 +18620,7 @@
  },
  "igdb:306822": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:15+00:00",
   "mc_v": 3,
@@ -18637,7 +18670,7 @@
  "igdb:308039": {},
  "igdb:308099": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:39+00:00",
   "mc_v": 3,
@@ -18652,7 +18685,7 @@
  },
  "igdb:309256": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:27+00:00",
   "mc_v": 3,
@@ -18678,7 +18711,7 @@
  },
  "igdb:310545": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:08+00:00",
   "mc_v": 3,
@@ -18693,7 +18726,7 @@
  },
  "igdb:311747": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:50+00:00",
   "mc_v": 3,
@@ -18823,7 +18856,7 @@
  },
  "igdb:31561": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:22+00:00",
   "mc_v": 3,
@@ -18838,7 +18871,8 @@
  },
  "igdb:3166": {
   "backloggd": 2.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:17+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -18969,7 +19003,7 @@
  },
  "igdb:320144": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:21+00:00",
   "mc_v": 3,
@@ -19038,7 +19072,8 @@
  },
  "igdb:3216": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:14+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -19048,7 +19083,8 @@
  },
  "igdb:322188": {
   "backloggd": 3.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:57+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -19089,7 +19125,7 @@
  },
  "igdb:3239": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:34+00:00",
   "mc_v": 3,
@@ -19136,7 +19172,7 @@
  },
  "igdb:325580": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:33+00:00",
   "mc_v": 3,
@@ -19253,7 +19289,8 @@
  },
  "igdb:330": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:08+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -19282,7 +19319,7 @@
  "igdb:331211": {},
  "igdb:331214": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:15+00:00",
   "mc_v": 3,
@@ -19378,7 +19415,7 @@
  },
  "igdb:333600": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:35+00:00",
   "mc_v": 3,
@@ -19445,7 +19482,8 @@
  },
  "igdb:3344": {
   "backloggd": 3.0,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:24+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -19489,7 +19527,7 @@
  },
  "igdb:335254": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:31+00:00",
   "mc_v": 3,
@@ -19526,7 +19564,7 @@
  },
  "igdb:336380": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T05:52:26+00:00",
   "mc_v": 3,
@@ -19599,7 +19637,7 @@
  },
  "igdb:337712": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:59+00:00",
   "mc_v": 3,
@@ -19832,7 +19870,7 @@
  },
  "igdb:342011": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:24+00:00",
   "mc_v": 3,
@@ -19939,7 +19977,7 @@
  },
  "igdb:343450": {
   "backloggd": 3.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:11+00:00",
   "mc_v": 3,
@@ -19951,7 +19989,8 @@
  "igdb:344462": {},
  "igdb:3450": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:10+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -19988,7 +20027,7 @@
  },
  "igdb:346035": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:57+00:00",
   "mc_v": 3,
@@ -20307,8 +20346,9 @@
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:355843": {
-  "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd": 3.2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:53+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -20479,7 +20519,7 @@
  },
  "igdb:36198": {
   "backloggd": 3.4,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:26+00:00",
   "mc_v": 3,
@@ -20589,8 +20629,9 @@
   "metacritic_slug": null
  },
  "igdb:365878": {
-  "backloggd": 3.2,
-  "bl_v": 2,
+  "backloggd": 3.1,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:44+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -20600,7 +20641,7 @@
  },
  "igdb:36595": {
   "backloggd": 3.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:01:21+00:00",
   "mc_v": 3,
@@ -20615,7 +20656,7 @@
  },
  "igdb:36597": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:51:09+00:00",
   "mc_v": 3,
@@ -20726,7 +20767,7 @@
  },
  "igdb:367571": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:39+00:00",
   "mc_v": 3,
@@ -20864,7 +20905,7 @@
  "igdb:370220": {},
  "igdb:37030": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:46+00:00",
   "mc_v": 3,
@@ -20889,7 +20930,7 @@
  },
  "igdb:37062": {
   "backloggd": 1.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:15+00:00",
   "mc_v": 3,
@@ -20919,7 +20960,7 @@
  },
  "igdb:37080": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:47+00:00",
   "mc_v": 3,
@@ -21131,7 +21172,8 @@
  },
  "igdb:37273": {
   "backloggd": 2.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:06+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -21216,7 +21258,7 @@
  },
  "igdb:3775": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:20+00:00",
   "mc_v": 3,
@@ -21330,7 +21372,8 @@
  },
  "igdb:38320": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:35+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -21395,7 +21438,8 @@
  },
  "igdb:38423": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:28+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -21562,7 +21606,8 @@
  },
  "igdb:39692": {
   "backloggd": 3.0,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:48+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -21746,7 +21791,7 @@
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:406086": {
-  "bl_v": 2,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:32+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -21781,7 +21826,7 @@
  "igdb:409028": {},
  "igdb:41025": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:29+00:00",
   "mc_v": 3,
@@ -21796,7 +21841,7 @@
  },
  "igdb:41061": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T11:36:05+00:00",
   "mc_v": 3,
@@ -22046,7 +22091,8 @@
  },
  "igdb:42403": {
   "backloggd": 2.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:51+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22087,7 +22133,8 @@
  },
  "igdb:42439": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T21:16:41+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22096,8 +22143,9 @@
   "oc_checked": "2026-11-02T21:16:41+00:00"
  },
  "igdb:42445": {
-  "backloggd": 3.8,
-  "bl_v": 2,
+  "backloggd": 3.7,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:20+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22107,7 +22155,8 @@
  },
  "igdb:42447": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:01+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22117,7 +22166,8 @@
  },
  "igdb:42459": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:19+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22259,7 +22309,8 @@
  },
  "igdb:42581": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:10+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22269,7 +22320,8 @@
  },
  "igdb:42583": {
   "backloggd": 3.6,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:23+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22387,7 +22439,8 @@
  },
  "igdb:42621": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:55+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22452,7 +22505,8 @@
  },
  "igdb:42648": {
   "backloggd": 2.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:32+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22462,7 +22516,8 @@
  },
  "igdb:42649": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:28+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22516,7 +22571,8 @@
  },
  "igdb:42730": {
   "backloggd": 2.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:28+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22721,7 +22777,8 @@
  },
  "igdb:4407": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:03+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22819,7 +22876,8 @@
  },
  "igdb:44463": {
   "backloggd": 2.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:54+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22829,7 +22887,8 @@
  },
  "igdb:44464": {
   "backloggd": 2.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:25+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -22968,7 +23027,8 @@
  },
  "igdb:4504": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:55+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23021,7 +23081,8 @@
  },
  "igdb:4527": {
   "backloggd": 3.0,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:12+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23031,7 +23092,8 @@
  },
  "igdb:453": {
   "backloggd": 2.8,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:53+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23041,7 +23103,8 @@
  },
  "igdb:454": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:20+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23104,7 +23167,7 @@
   "oc_checked": "2026-10-29T16:58:10+00:00"
  },
  "igdb:45707": {
-  "bl_v": 2,
+  "bl_v": 3,
   "checked": "2026-11-02T21:16:38+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23158,7 +23221,8 @@
  },
  "igdb:46007": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:42+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23321,7 +23385,8 @@
  },
  "igdb:46833": {
   "backloggd": 2.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:03:29+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23609,7 +23674,8 @@
  },
  "igdb:48231": {
   "backloggd": 3.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:59+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -23678,7 +23744,7 @@
  },
  "igdb:4844": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:25+00:00",
   "mc_v": 3,
@@ -23785,7 +23851,8 @@
  },
  "igdb:48939": {
   "backloggd": 3.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:51+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -24199,7 +24266,7 @@
  },
  "igdb:52190": {
   "backloggd": 2.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:22+00:00",
   "mc_v": 3,
@@ -24290,7 +24357,8 @@
  },
  "igdb:5346": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:40+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -24419,7 +24487,8 @@
  },
  "igdb:5418": {
   "backloggd": 4.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:37+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -24464,7 +24533,8 @@
  },
  "igdb:5431": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:38+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -24601,7 +24671,7 @@
  },
  "igdb:55036": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:39+00:00",
   "mc_v": 3,
@@ -24748,7 +24818,8 @@
  },
  "igdb:5550": {
   "backloggd": 4.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:14+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -24888,7 +24959,7 @@
  },
  "igdb:58036": {
   "backloggd": 2.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:43+00:00",
   "mc_v": 3,
@@ -24903,7 +24974,7 @@
  },
  "igdb:58597": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:35+00:00",
   "mc_v": 3,
@@ -24946,7 +25017,7 @@
  },
  "igdb:6007": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:32+00:00",
   "mc_v": 3,
@@ -25273,7 +25344,8 @@
  },
  "igdb:6379": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:24+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -25678,7 +25750,8 @@
  },
  "igdb:6564": {
   "backloggd": 3.7,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:30+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -25732,7 +25805,7 @@
  },
  "igdb:65832": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:03:26+00:00",
   "mc_v": 3,
@@ -25958,7 +26031,7 @@
  },
  "igdb:6705": {
   "backloggd": 4.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:15+00:00",
   "mc_v": 3,
@@ -26006,7 +26079,7 @@
  },
  "igdb:6748": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:00+00:00",
   "mc_v": 3,
@@ -26065,7 +26138,7 @@
  },
  "igdb:6801": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:54:09+00:00",
   "mc_v": 3,
@@ -26091,7 +26164,7 @@
  },
  "igdb:68286": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:21+00:00",
   "mc_v": 3,
@@ -26268,7 +26341,8 @@
  },
  "igdb:7026": {
   "backloggd": 3.4,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:35+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -26326,7 +26400,7 @@
  },
  "igdb:71455": {
   "backloggd": 1.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:26+00:00",
   "mc_v": 3,
@@ -26425,7 +26499,7 @@
  },
  "igdb:72870": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:55:22+00:00",
   "mc_v": 3,
@@ -26672,7 +26746,7 @@
  },
  "igdb:7351": {
   "backloggd": 3.9,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:54+00:00",
   "mc_v": 3,
@@ -26698,7 +26772,7 @@
  },
  "igdb:7380": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:44+00:00",
   "mc_v": 3,
@@ -26972,7 +27046,7 @@
  },
  "igdb:75694": {
   "backloggd": 3.2,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:04+00:00",
   "mc_v": 3,
@@ -27028,7 +27102,7 @@
  },
  "igdb:7600": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:37+00:00",
   "mc_v": 3,
@@ -27110,7 +27184,8 @@
  },
  "igdb:7640": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:19+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -27120,7 +27195,7 @@
  },
  "igdb:7685": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:09+00:00",
   "mc_v": 3,
@@ -27135,7 +27210,7 @@
  },
  "igdb:76887": {
   "backloggd": 1.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:53:54+00:00",
   "mc_v": 3,
@@ -27171,7 +27246,8 @@
  },
  "igdb:76904": {
   "backloggd": 3.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:40+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -27181,7 +27257,7 @@
  },
  "igdb:76960": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:08+00:00",
   "mc_v": 3,
@@ -27405,7 +27481,7 @@
  },
  "igdb:78149": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:48:29+00:00",
   "mc_v": 3,
@@ -27475,7 +27551,7 @@
  },
  "igdb:78550": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:54+00:00",
   "mc_v": 3,
@@ -27604,7 +27680,8 @@
  },
  "igdb:8020": {
   "backloggd": 2.6,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:52+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -27613,7 +27690,8 @@
  },
  "igdb:8050": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:31+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -27623,7 +27701,8 @@
  },
  "igdb:8051": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:06:34+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -27632,8 +27711,9 @@
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
  "igdb:8068": {
-  "backloggd": 2.8,
-  "bl_v": 2,
+  "backloggd": 2.7,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:01:53+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -27852,7 +27932,7 @@
  },
  "igdb:8211": {
   "backloggd": 3.5,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:52:16+00:00",
   "mc_v": 3,
@@ -27892,7 +27972,7 @@
  },
  "igdb:8223": {
   "backloggd": 2.8,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:32+00:00",
   "mc_v": 3,
@@ -28084,7 +28164,7 @@
  },
  "igdb:8409": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:00:08+00:00",
   "mc_v": 3,
@@ -28146,7 +28226,8 @@
  },
  "igdb:8450": {
   "backloggd": 3.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:58+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -28361,7 +28442,7 @@
  },
  "igdb:85683": {
   "backloggd": 2.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:47+00:00",
   "mc_v": 3,
@@ -28745,7 +28826,7 @@
  },
  "igdb:89074": {
   "backloggd": 1.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:59:26+00:00",
   "mc_v": 3,
@@ -28782,7 +28863,7 @@
  },
  "igdb:89444": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:49:45+00:00",
   "mc_v": 3,
@@ -28886,7 +28967,8 @@
  },
  "igdb:9028": {
   "backloggd": 3.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:21+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -28921,7 +29003,8 @@
  },
  "igdb:9064": {
   "backloggd": 3.0,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:05+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -28931,7 +29014,8 @@
  },
  "igdb:9065": {
   "backloggd": 3.5,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:07+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -28966,7 +29050,8 @@
  },
  "igdb:9083": {
   "backloggd": 2.3,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:35+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -29098,7 +29183,7 @@
  },
  "igdb:9176": {
   "backloggd": 3.0,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:50:56+00:00",
   "mc_v": 3,
@@ -29273,7 +29358,7 @@
  },
  "igdb:95068": {
   "backloggd": 2.6,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:02:43+00:00",
   "mc_v": 3,
@@ -29314,7 +29399,8 @@
  },
  "igdb:9520": {
   "backloggd": 3.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:02:57+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -29412,7 +29498,7 @@
  },
  "igdb:9620": {
   "backloggd": 3.7,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:57:10+00:00",
   "mc_v": 3,
@@ -29456,7 +29542,8 @@
  },
  "igdb:9633": {
   "backloggd": 4.1,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:05:30+00:00",
   "mc_v": 3,
   "metacritic": null,
@@ -29566,7 +29653,7 @@
  },
  "igdb:97257": {
   "backloggd": 3.1,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T04:04:30+00:00",
   "mc_v": 3,
@@ -29673,7 +29760,7 @@
  },
  "igdb:9807": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:40+00:00",
   "mc_v": 3,
@@ -29777,7 +29864,7 @@
  },
  "igdb:9907": {
   "backloggd": 2.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:58:55+00:00",
   "mc_v": 3,
@@ -29792,7 +29879,7 @@
  },
  "igdb:9918": {
   "backloggd": 3.3,
-  "backloggd_n": null,
+  "backloggd_n": 0,
   "bl_v": 3,
   "checked": "2026-10-28T03:56:14+00:00",
   "mc_v": 3,
@@ -29837,7 +29924,8 @@
  },
  "igdb:9929": {
   "backloggd": 2.9,
-  "bl_v": 2,
+  "backloggd_n": null,
+  "bl_v": 3,
   "checked": "2026-11-02T10:04:32+00:00",
   "mc_v": 3,
   "metacritic": null,
