@@ -3508,50 +3508,54 @@
   "vita": {
    "slots": [
     {
-     "key": "igdb:1384",
-     "best": "igdb:1384",
+     "key": "igdb:250931",
+     "best": "igdb:2985",
      "why": [
-      "Top-rated game you haven't played (score 86)",
-      "A change of genre: Shooter, Indie",
-      "Shorter than what you're playing: about 7.5h to beat"
+      "Comes before Persona 4 Golden (score 94) in the Persona series: play this one first",
+      "Scores 84 itself",
+      "Retro pick (1999)"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:1277",
-     "best": "igdb:1277",
+     "key": "igdb:20741",
+     "best": "igdb:20741",
      "why": [
-      "Top-rated game you haven't played (score 86)",
-      "A change of genre: Puzzle, RTS",
-      "Shorter than what you're playing: about 18h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:18787",
-     "best": "igdb:18787",
-     "why": [
-      "Top-rated game you haven't played (score 85)",
-      "A change of genre: Racing",
-      "Shorter than what you're playing: about 14h to beat"
+      "Top-rated game you haven't played here (score 92)",
+      "2010s pick (2011)",
+      "About 59.5h to beat"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:18696",
+      "key": "igdb:376",
+      "guide": null,
+      "as": null
+     }
+    },
+    {
+     "key": "igdb:20068",
+     "best": "igdb:20068",
+     "why": [
+      "Top-rated game you haven't played here (score 91)",
+      "Retro pick (2009)",
+      "About 23.5h to beat"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:117882",
       "guide": null,
       "as": null
      }
     }
    ],
    "skip": [
-    "igdb:1384",
-    "igdb:1277",
-    "igdb:18787"
+    "igdb:250931",
+    "igdb:20741",
+    "igdb:20068"
    ],
    "avoid": [],
-   "date": "2026-11-11T05:16:30.045Z"
+   "date": "2026-11-11T13:49:38.659Z"
   },
   "switch2": {
    "slots": [
