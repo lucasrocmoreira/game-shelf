@@ -3563,9 +3563,10 @@
      "key": "igdb:207026",
      "best": "igdb:207026",
      "why": [
-      "Top-rated game you haven't played (score 90)",
+      "Top-rated game you haven't played here (score 90)",
+      "Retro pick (1997)",
       "A change of genre: RPG",
-      "A longer one this time: about 48.5h to beat"
+      "Something longer: about 48.5h to beat"
      ],
      "sent": false,
      "earlier": {
@@ -3590,29 +3591,28 @@
      }
     },
     {
-     "key": "igdb:366896",
-     "best": "igdb:366896",
+     "key": "igdb:306144",
+     "best": "igdb:306144",
      "why": [
-      "Top-rated game you haven't played (score 89)",
-      "A change of genre: RPG, Simulator",
-      "A longer one this time: about 116h to beat"
+      "Top-rated game you haven't played here (score 87)",
+      "Modern pick (2025)",
+      "Something longer: about 48h to beat"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:1435",
-      "guide": "Fire Emblem",
-      "as": "Fire Emblem: Mystery of the Emblem"
+      "key": "igdb:205595",
+      "guide": null,
+      "as": null
      }
     }
    ],
    "skip": [
     "igdb:207026",
-    "igdb:1029",
-    "igdb:366896",
-    "igdb:26845"
+    "igdb:26845",
+    "igdb:306144"
    ],
    "avoid": [],
-   "date": "2026-11-11T13:50:57.564Z"
+   "date": "2026-11-11T13:51:01.140Z"
   },
   "ds": {
    "slots": [
