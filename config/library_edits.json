@@ -3421,44 +3421,38 @@
      }
     },
     {
-     "key": "igdb:18699",
-     "best": "igdb:18699",
+     "key": "igdb:3762",
+     "best": "igdb:3762",
      "why": [
-      "Top-rated game you haven't played (score 89)",
-      "A change of genre: Racing",
-      "Shorter than what you're playing: about 6h to beat",
+      "Top-rated game you haven't played (score 86)",
+      "A change of genre: Platform",
+      "Shorter than what you're playing: about 9.5h to beat",
       "Included with PS Plus"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:18696",
-      "guide": null,
-      "as": null
-     }
+     "earlier": null
     },
     {
-     "key": "igdb:103298",
-     "best": "igdb:103298",
+     "key": "igdb:23377",
+     "best": "igdb:132181",
      "why": [
-      "Top-rated game you haven't played (score 89)",
-      "A change of genre: Shooter",
-      "Shorter than what you're playing: about 20.5h to beat"
+      "Comes before Resident Evil 4 (score 94): play this one first",
+      "Scores 82 itself",
+      "Included with PS Plus"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:170995",
-      "guide": null,
-      "as": null
-     }
+     "earlier": null
     }
    ],
    "skip": [
     "igdb:135999",
     "igdb:18699",
-    "igdb:103298"
+    "igdb:103298",
+    "igdb:3762",
+    "igdb:23377"
    ],
    "avoid": [],
-   "date": "2026-11-11T05:13:22.396Z"
+   "date": "2026-11-11T05:17:44.139Z"
   },
   "ps3": {
    "slots": [
