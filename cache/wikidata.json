@@ -201,8 +201,17 @@
  "amazing-hebereke": {
   "checked": "2026-10-28T05:36:43+00:00"
  },
+ "amnesia-a-machine-for-pigs": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "amnesia-collection": {
   "checked": "2026-10-07T01:52:04+00:00"
+ },
+ "amnesia-justine": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "amnesia-the-dark-descent": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "among-us": {
   "checked": "2026-10-07T01:52:04+00:00",
@@ -325,6 +334,19 @@
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 13424
  },
+ "assassin-s-creed-ii": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "assassin-s-creed-iii": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "assassin-s-creed-iii-liberation": {
+  "checked": "2026-11-11T13:52:28+00:00",
+  "opencritic_id": 1429
+ },
+ "assassins-creed-brotherhood": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "assassins-creed-chronicles-china--1": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 32
@@ -363,6 +385,9 @@
  "assassins-creed-origins": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 4503
+ },
+ "assassins-creed-revelations": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "assassins-creed-rogue-remastered": {
   "checked": "2026-10-07T01:52:02+00:00"
@@ -913,6 +938,12 @@
  "castlevania-requiem-symphony-of-the-night-and-rondo-of-blood": {
   "checked": "2026-10-07T01:52:04+00:00"
  },
+ "castlevania-rondo-of-blood--2": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "castlevania-symphony-of-the-night": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "cat-quest": {
   "checked": "2026-10-28T03:48:11+00:00",
   "opencritic_id": 4693
@@ -1128,6 +1159,12 @@
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 12385
  },
+ "crash-bandicoot": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "crash-bandicoot-2-cortex-strikes-back": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "crash-bandicoot-4-its-about-time": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 9900
@@ -1135,6 +1172,9 @@
  "crash-bandicoot-n-sane-trilogy": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4131
+ },
+ "crash-bandicoot-warped": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "crash-mind-over-mutant": {
   "checked": "2026-10-29T21:44:13+00:00"
@@ -2118,8 +2158,14 @@
  "fighters-history": {
   "checked": "2026-10-28T06:30:39+00:00"
  },
+ "final-fantasy": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "final-fantasy-i-ii-dawn-of-souls": {
   "checked": "2026-11-02T08:49:05+00:00"
+ },
+ "final-fantasy-ii--1": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "final-fantasy-iii": {
   "checked": "2026-10-29T21:51:23+00:00",
@@ -2141,6 +2187,9 @@
  },
  "final-fantasy-iv-advance": {
   "checked": "2026-11-02T08:49:05+00:00"
+ },
+ "final-fantasy-iv-the-after-years": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "final-fantasy-iv-the-complete-collection": {
   "checked": "2026-10-08T03:24:34+00:00"
@@ -2169,6 +2218,15 @@
  "final-fantasy-vii-remake": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 8586
+ },
+ "final-fantasy-x": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "final-fantasy-x-2": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "final-fantasy-x-2-last-mission": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "final-fantasy-x-slash-x-2-hd-remaster": {
   "checked": "2026-10-08T03:38:30+00:00",
@@ -2462,6 +2520,9 @@
  "god-hand": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
+ "god-of-war": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "god-of-war--1": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 5434
@@ -2477,6 +2538,9 @@
  },
  "god-of-war-ghost-of-sparta": {
   "checked": "2026-10-08T03:19:30+00:00"
+ },
+ "god-of-war-ii": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "god-of-war-ii--1": {
   "checked": "2026-10-08T04:10:09+00:00"
@@ -2667,6 +2731,15 @@
  "gunstar-super-heroes": {
   "checked": "2026-11-02T08:49:05+00:00"
  },
+ "gyakuten-saiban": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "gyakuten-saiban-2": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "gyakuten-saiban-3": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "hagane-the-final-conflict": {
   "checked": "2026-11-02T14:41:22+00:00"
  },
@@ -2681,6 +2754,24 @@
  },
  "half-life-deathmatch-source": {
   "checked": "2026-10-07T01:08:00+00:00"
+ },
+ "halo-2": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "halo-3": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "halo-3-odst": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "halo-4": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "halo-combat-evolved": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "halo-reach": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "halo-the-master-chief-collection": {
   "checked": "2026-10-07T01:08:00+00:00",
@@ -2763,6 +2854,15 @@
  "hitman-2": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 6215
+ },
+ "hitman-2-silent-assassin": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "hitman-blood-money": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "hitman-contracts": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "hitman-hd-trilogy": {
   "checked": "2026-11-03T04:23:46+00:00"
@@ -3134,8 +3234,17 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 17486
  },
+ "kingdom-hearts--2": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "kingdom-hearts-0-dot-2-birth-by-sleep-a-fragmentary-passage": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "kingdom-hearts-358-2-days": {
   "checked": "2026-10-07T21:32:53+00:00"
+ },
+ "kingdom-hearts-3d-dream-drop-distance": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "kingdom-hearts-birth-by-sleep": {
   "checked": "2026-10-08T03:21:16+00:00"
@@ -3151,9 +3260,15 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 3465
  },
+ "kingdom-hearts-ii": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "kingdom-hearts-iii": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 1532
+ },
+ "kingdom-hearts-re-chain-of-memories": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "kingdom-hearts-vr-experience": {
   "checked": "2026-10-07T04:21:24+00:00"
@@ -3279,6 +3394,10 @@
  "lara-croft-and-the-guardian-of-light": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
+ "lara-croft-and-the-temple-of-osiris": {
+  "checked": "2026-11-11T13:52:28+00:00",
+  "opencritic_id": 141
+ },
  "last-legion-ux": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
@@ -3330,6 +3449,9 @@
  },
  "lego-harry-potter-years-1-4--1": {
   "checked": "2026-11-03T05:32:33+00:00"
+ },
+ "lego-harry-potter-years-5-7": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "lego-horizon-adventures": {
   "checked": "2026-10-07T01:52:06+00:00",
@@ -3710,6 +3832,15 @@
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 10528
  },
+ "mass-effect": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "mass-effect-2": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "mass-effect-3": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "mass-effect-legendary-edition": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 11290
@@ -3758,6 +3889,21 @@
  "meet-your-maker": {
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 14530
+ },
+ "mega-man": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "mega-man-3": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "mega-man-4": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "mega-man-5": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "mega-man-6": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "mega-man-64": {
   "checked": "2026-11-02T09:53:32+00:00"
@@ -3875,11 +4021,20 @@
   "checked": "2026-10-28T05:02:25+00:00",
   "opencritic_id": 18126
  },
+ "metal-gear": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "metal-gear-2-solid-snake": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "metal-gear-solid-2-sons-of-liberty": {
   "checked": "2026-10-08T04:10:09+00:00"
  },
  "metal-gear-solid-2-sons-of-liberty-hd-edition": {
   "checked": "2026-11-03T04:30:00+00:00"
+ },
+ "metal-gear-solid-3-snake-eater": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "metal-gear-solid-hd-collection": {
   "checked": "2026-10-08T03:42:12+00:00"
@@ -3900,11 +4055,34 @@
  "metal-marines": {
   "checked": "2026-11-02T14:41:22+00:00"
  },
+ "metal-slug": {
+  "checked": "2026-11-11T13:52:28+00:00",
+  "opencritic_id": 3917
+ },
+ "metal-slug-2": {
+  "checked": "2026-11-11T13:52:28+00:00",
+  "opencritic_id": 5817
+ },
+ "metal-slug-3": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "metal-slug-4": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "metal-slug-5": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "metal-slug-6": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "metal-slug-advance": {
   "checked": "2026-11-01T00:33:39+00:00"
  },
  "metal-slug-anthology": {
   "checked": "2026-10-08T03:24:34+00:00"
+ },
+ "metal-slug-x": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "metal-warriors": {
   "checked": "2026-11-02T14:41:22+00:00"
@@ -4904,6 +5082,9 @@
  "populous-ii-trials-of-the-olympian-gods": {
   "checked": "2026-11-02T14:41:22+00:00"
  },
+ "portal": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "portal-2": {
   "checked": "2026-10-07T01:08:00+00:00"
  },
@@ -5111,6 +5292,9 @@
   "checked": "2026-10-07T01:52:02+00:00",
   "opencritic_id": 10994
  },
+ "ratchet-clank": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "ratchet-clank-future-a-crack-in-time": {
   "checked": "2026-11-03T04:23:46+00:00"
  },
@@ -5120,11 +5304,17 @@
  "ratchet-clank-future-tools-of-destruction": {
   "checked": "2026-11-03T04:23:46+00:00"
  },
+ "ratchet-clank-going-commando": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "ratchet-clank-into-the-nexus": {
   "checked": "2026-11-03T04:23:46+00:00"
  },
  "ratchet-clank-size-matters": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "ratchet-clank-up-your-arsenal": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "rayman-2-the-great-escape": {
   "checked": "2026-11-01T00:33:39+00:00"
@@ -5370,6 +5560,9 @@
  },
  "rocket-robot-on-wheels": {
   "checked": "2026-11-02T09:53:32+00:00"
+ },
+ "rockman-2-dr-wily-no-nazo": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "rocky-rodent": {
   "checked": "2026-11-02T14:43:38+00:00"
@@ -5648,9 +5841,15 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 13889
  },
+ "silent-hill-2": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "silent-hill-2--1": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 16791
+ },
+ "silent-hill-3": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "silent-hill-hd-collection": {
   "checked": "2026-11-03T04:23:46+00:00"
@@ -5799,6 +5998,9 @@
  "sonic-advance-3": {
   "checked": "2026-11-02T08:49:05+00:00"
  },
+ "sonic-and-knuckles": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "sonic-battle": {
   "checked": "2026-11-02T08:49:05+00:00"
  },
@@ -5828,8 +6030,14 @@
  "sonic-rush-adventure": {
   "checked": "2026-10-29T22:31:28+00:00"
  },
+ "sonic-the-hedgehog": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "sonic-the-hedgehog-2": {
   "checked": "2026-11-01T00:33:39+00:00"
+ },
+ "sonic-the-hedgehog-3": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "sonic-the-hedgehog-spinball": {
   "checked": "2026-11-01T00:33:39+00:00"
@@ -5928,6 +6136,9 @@
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 5514
  },
+ "spyro-2-ripto-s-rage": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "spyro-2-season-of-flame": {
   "checked": "2026-11-02T08:49:05+00:00"
  },
@@ -5940,6 +6151,12 @@
  },
  "spyro-season-of-ice": {
   "checked": "2026-11-02T08:49:05+00:00"
+ },
+ "spyro-the-dragon": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "spyro-year-of-the-dragon": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "ssx-tricky": {
   "checked": "2026-11-02T09:53:32+00:00"
@@ -6149,9 +6366,15 @@
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 11360
  },
+ "suikoden": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars": {
   "checked": "2026-10-07T06:01:50+00:00",
   "opencritic_id": 18206
+ },
+ "suikoden-ii": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "summon-night-swordcraft-story": {
   "checked": "2026-11-02T08:49:05+00:00"
@@ -6489,8 +6712,14 @@
  "tales-of-phantasia": {
   "checked": "2026-11-02T14:43:38+00:00"
  },
+ "tales-of-symphonia": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "tales-of-symphonia-chronicles": {
   "checked": "2026-11-03T04:23:46+00:00"
+ },
+ "tales-of-symphonia-dawn-of-the-new-world": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "tales-of-the-abyss--1": {
   "checked": "2026-11-03T04:11:09+00:00"
@@ -6626,6 +6855,9 @@
  },
  "the-amazing-spider-man-lethal-foes": {
   "checked": "2026-11-02T14:43:38+00:00"
+ },
+ "the-ancient-land-of-ys": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "the-bit-dot-trip": {
   "checked": "2026-10-08T03:54:37+00:00"
@@ -6800,6 +7032,9 @@
  "the-legend-of-zelda-breath-of-the-wild": {
   "checked": "2026-10-07T05:58:30+00:00",
   "opencritic_id": 1548
+ },
+ "the-legend-of-zelda-four-swords": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "the-legend-of-zelda-four-swords-adventures": {
   "checked": "2026-11-03T04:38:11+00:00"
@@ -7134,12 +7369,18 @@
  "tomato-adventure": {
   "checked": "2026-11-02T08:49:05+00:00"
  },
+ "tomb-raider": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "tomb-raider--2": {
   "checked": "2026-10-07T01:08:00+00:00",
   "opencritic_id": 291
  },
  "tomb-raider-anniversary": {
   "checked": "2026-10-28T05:02:28+00:00"
+ },
+ "tomb-raider-chronicles": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "tomb-raider-definitive-edition": {
   "checked": "2026-10-28T05:02:27+00:00",
@@ -7148,6 +7389,12 @@
  "tomb-raider-i-star-ii-star-iii-remastered": {
   "checked": "2026-10-07T01:52:06+00:00",
   "opencritic_id": 15618
+ },
+ "tomb-raider-ii": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "tomb-raider-iii-adventures-of-lara-croft": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "tomb-raider-iv-star-v-star-vi-remastered": {
   "checked": "2026-11-05T18:05:39+00:00",
@@ -7161,6 +7408,18 @@
  },
  "tomb-raider-legend--6": {
   "checked": "2026-10-07T01:52:01+00:00"
+ },
+ "tomb-raider-the-angel-of-darkness": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "tomb-raider-the-last-revelation": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "tomb-raider-the-lost-artifact": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "tomb-raider-underworld": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "tonic-trouble": {
   "checked": "2026-11-01T00:33:39+00:00"
@@ -7356,9 +7615,18 @@
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 17216
  },
+ "uncharted-2-among-thieves": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "uncharted-3-drake-s-deception": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "uncharted-4-a-thief-s-end": {
   "checked": "2026-10-28T05:02:27+00:00",
   "opencritic_id": 1538
+ },
+ "uncharted-drake-s-fortune": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "uncharted-golden-abyss": {
   "checked": "2026-10-08T03:42:12+00:00"
@@ -7366,6 +7634,10 @@
  "uncharted-legacy-of-thieves-collection": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 12559
+ },
+ "uncharted-the-lost-legacy": {
+  "checked": "2026-11-11T13:52:28+00:00",
+  "opencritic_id": 4216
  },
  "uncharted-the-nathan-drake-collection": {
   "checked": "2026-10-07T01:52:01+00:00",
@@ -7666,6 +7938,12 @@
  "wipeout-64": {
   "checked": "2026-11-02T09:53:32+00:00"
  },
+ "wipeout-hd": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
+ "wipeout-hd-fury": {
+  "checked": "2026-11-11T13:52:28+00:00"
+ },
  "wipeout-omega-collection": {
   "checked": "2026-10-07T01:52:01+00:00",
   "opencritic_id": 4404
@@ -7832,6 +8110,9 @@
  },
  "ys-i-and-ii-chronicles": {
   "checked": "2026-10-08T03:31:49+00:00"
+ },
+ "ys-ii-ancient-ys-vanished-the-final-chapter": {
+  "checked": "2026-11-11T13:52:28+00:00"
  },
  "ys-ix-monstrum-nox": {
   "checked": "2026-10-28T05:02:27+00:00",

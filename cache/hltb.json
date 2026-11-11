@@ -408,6 +408,22 @@
   "hltb_name": "The Legend of Zelda: Oracle of Ages",
   "main": 16.5
  },
+ "igdb:1048": {
+  "checked": "2026-11-11T14:02:51+00:00",
+  "complete": 20.5,
+  "extra": 16.0,
+  "hltb_id": 4477,
+  "hltb_name": "Hitman: Blood Money",
+  "main": 12.0
+ },
+ "igdb:1049": {
+  "checked": "2026-11-11T14:02:49+00:00",
+  "complete": 17.0,
+  "extra": 12.0,
+  "hltb_id": 4479,
+  "hltb_name": "Hitman: Contracts",
+  "main": 9.5
+ },
  "igdb:105049": {
   "checked": "2026-10-16T05:00:39+00:00",
   "complete": 60.0,
@@ -1007,6 +1023,14 @@
   "hltb_name": "Anodyne",
   "main": 6.0
  },
+ "igdb:111": {
+  "checked": "2026-11-11T14:01:05+00:00",
+  "complete": 12.0,
+  "extra": 9.0,
+  "hltb_id": 440,
+  "hltb_name": "Amnesia: The Dark Descent",
+  "main": 8.0
+ },
  "igdb:1110": {
   "checked": "2026-10-29T22:16:27+00:00",
   "complete": 11.5,
@@ -1242,6 +1266,14 @@
   "hltb_name": "Castlevania: Bloodlines",
   "main": 2.5
  },
+ "igdb:1128": {
+  "checked": "2026-11-11T14:01:03+00:00",
+  "complete": 15.0,
+  "extra": 11.5,
+  "hltb_id": 1593,
+  "hltb_name": "Castlevania: Symphony of the Night",
+  "main": 8.5
+ },
  "igdb:112874": {
   "checked": "2026-10-22T15:20:53+00:00",
   "complete": 90.0,
@@ -1281,6 +1313,14 @@
   "hltb_id": 7946,
   "hltb_name": "Rogue Galaxy",
   "main": 38.5
+ },
+ "igdb:113": {
+  "checked": "2026-11-11T14:00:46+00:00",
+  "complete": 41.5,
+  "extra": 25.5,
+  "hltb_id": 661,
+  "hltb_name": "Assassin's Creed: Brotherhood",
+  "main": 15.5
  },
  "igdb:1130": {
   "checked": "2026-11-02T09:10:58+00:00",
@@ -1385,6 +1425,14 @@
   "hltb_id": 1591,
   "hltb_name": "Castlevania: Portrait of Ruin",
   "main": 9.0
+ },
+ "igdb:1139": {
+  "checked": "2026-11-11T14:01:01+00:00",
+  "complete": 7.0,
+  "extra": 6.0,
+  "hltb_id": 1592,
+  "hltb_name": "Castlevania: Rondo of Blood",
+  "main": 3.5
  },
  "igdb:11397": {
   "checked": "2026-10-16T04:58:59+00:00",
@@ -1501,6 +1549,38 @@
   "hltb_name": "Until You Fall",
   "main": 7.5
  },
+ "igdb:1156": {
+  "checked": "2026-11-11T14:01:14+00:00",
+  "complete": 21.5,
+  "extra": 20.0,
+  "hltb_id": 10471,
+  "hltb_name": "Tomb Raider II",
+  "main": 16.0
+ },
+ "igdb:1157": {
+  "checked": "2026-11-11T14:01:16+00:00",
+  "complete": 26.5,
+  "extra": 24.0,
+  "hltb_id": 10472,
+  "hltb_name": "Tomb Raider III: Adventures of Lara Croft",
+  "main": 20.5
+ },
+ "igdb:1158": {
+  "checked": "2026-11-11T14:01:20+00:00",
+  "complete": 23.5,
+  "extra": 23.5,
+  "hltb_id": 10480,
+  "hltb_name": "Tomb Raider: The Last Revelation",
+  "main": 19.5
+ },
+ "igdb:1159": {
+  "checked": "2026-11-11T14:01:24+00:00",
+  "complete": 18.5,
+  "extra": 17.0,
+  "hltb_id": 10479,
+  "hltb_name": "Tomb Raider: The Angel of Darkness",
+  "main": 14.5
+ },
  "igdb:11590": {
   "checked": "2026-10-28T04:17:16+00:00",
   "complete": 50.0,
@@ -1527,6 +1607,14 @@
   "hltb_id": 9111,
   "hltb_name": "Star Wars: Knights of the Old Republic",
   "main": 28.5
+ },
+ "igdb:1160": {
+  "checked": "2026-11-11T14:01:22+00:00",
+  "complete": 12.5,
+  "extra": 12.0,
+  "hltb_id": 10470,
+  "hltb_name": "Tomb Raider: Chronicles",
+  "main": 11.0
  },
  "igdb:11603": {
   "checked": "2026-11-02T10:10:41+00:00",
@@ -1591,6 +1679,14 @@
   "hltb_id": 147287,
   "hltb_name": "Pushover",
   "main": null
+ },
+ "igdb:1163": {
+  "checked": "2026-11-11T14:03:02+00:00",
+  "complete": 19.0,
+  "extra": 12.5,
+  "hltb_id": 10482,
+  "hltb_name": "Tomb Raider: Underworld",
+  "main": 10.0
  },
  "igdb:11639": {
   "checked": "2026-10-17T13:56:08+00:00",
@@ -1851,6 +1947,14 @@
   "hltb_name": "Predator: Hunting Grounds",
   "main": 15.0
  },
+ "igdb:1185": {
+  "checked": "2026-11-11T14:00:14+00:00",
+  "complete": 14.0,
+  "extra": 8.5,
+  "hltb_id": 1969,
+  "hltb_name": "Crash Bandicoot",
+  "main": 6.0
+ },
  "igdb:11852": {
   "checked": "2026-10-28T05:20:38+00:00",
   "complete": 88.5,
@@ -1859,6 +1963,14 @@
   "hltb_name": "Gods Eater Burst",
   "main": 37.5
  },
+ "igdb:1186": {
+  "checked": "2026-11-11T14:00:17+00:00",
+  "complete": 12.0,
+  "extra": 8.0,
+  "hltb_id": 1970,
+  "hltb_name": "Crash Bandicoot 2: Cortex Strikes Back",
+  "main": 5.5
+ },
  "igdb:118607": {
   "checked": "2026-10-28T04:08:45+00:00",
   "complete": 30.5,
@@ -1866,6 +1978,14 @@
   "hltb_id": 83381,
   "hltb_name": "art of rally",
   "main": 16.0
+ },
+ "igdb:1187": {
+  "checked": "2026-11-11T14:00:19+00:00",
+  "complete": 14.5,
+  "extra": 8.0,
+  "hltb_id": 1972,
+  "hltb_name": "Crash Bandicoot: Warped",
+  "main": 5.0
  },
  "igdb:119": {
   "checked": "2026-10-18T14:04:01+00:00",
@@ -2107,6 +2227,14 @@
   "hltb_name": "Story of Seasons: Friends of Mineral Town",
   "main": 30.5
  },
+ "igdb:1204": {
+  "checked": "2026-11-11T14:02:57+00:00",
+  "complete": 189.0,
+  "extra": 62.5,
+  "hltb_id": 9603,
+  "hltb_name": "Tales of Symphonia",
+  "main": 46.5
+ },
  "igdb:120445": {
   "checked": "2026-10-16T04:58:51+00:00",
   "complete": 0.5,
@@ -2291,6 +2419,14 @@
   "hltb_name": "Kingdom Hearts: Chain of Memories",
   "main": 18.0
  },
+ "igdb:1221": {
+  "checked": "2026-11-11T13:59:55+00:00",
+  "complete": 69.0,
+  "extra": 42.0,
+  "hltb_id": 5043,
+  "hltb_name": "Kingdom Hearts II",
+  "main": 32.0
+ },
  "igdb:122108": {
   "checked": "2026-10-16T14:59:58+00:00",
   "complete": 66.5,
@@ -2346,6 +2482,14 @@
   "hltb_id": 75861,
   "hltb_name": "My Hero One's Justice 2",
   "main": 6.0
+ },
+ "igdb:1226": {
+  "checked": "2026-11-11T14:00:36+00:00",
+  "complete": 56.5,
+  "extra": 30.5,
+  "hltb_id": 5040,
+  "hltb_name": "Kingdom Hearts 3D: Dream Drop Distance",
+  "main": 21.0
  },
  "igdb:1230": {
   "checked": "2026-11-01T00:45:03+00:00",
@@ -2547,6 +2691,22 @@
   "hltb_name": "Sparkster (SNES)",
   "main": 1.5
  },
+ "igdb:1266": {
+  "checked": "2026-11-11T14:00:50+00:00",
+  "complete": 56.0,
+  "extra": 31.5,
+  "hltb_id": 655,
+  "hltb_name": "Assassin's Creed III",
+  "main": 16.5
+ },
+ "igdb:127": {
+  "checked": "2026-11-11T14:00:44+00:00",
+  "complete": 35.5,
+  "extra": 26.0,
+  "hltb_id": 651,
+  "hltb_name": "Assassin's Creed II",
+  "main": 19.5
+ },
  "igdb:127044": {
   "checked": "2026-10-17T13:47:59+00:00",
   "complete": 28.5,
@@ -2661,6 +2821,14 @@
   "hltb_id": 5657,
   "hltb_name": "Mario Tennis",
   "main": 8.0
+ },
+ "igdb:1289": {
+  "checked": "2026-11-11T14:02:35+00:00",
+  "complete": 25.0,
+  "extra": 15.5,
+  "hltb_id": 7585,
+  "hltb_name": "Ratchet & Clank",
+  "main": 12.0
  },
  "igdb:1291": {
   "checked": "2026-11-03T04:26:46+00:00",
@@ -3487,6 +3655,14 @@
   "hltb_name": "Professor Layton and the Azran Legacy",
   "main": 16.0
  },
+ "igdb:1404": {
+  "checked": "2026-11-11T14:02:01+00:00",
+  "complete": 4.0,
+  "extra": 2.0,
+  "hltb_id": 5928,
+  "hltb_name": "Metal Slug",
+  "main": 1.0
+ },
  "igdb:140500": {
   "checked": "2026-10-28T04:16:40+00:00",
   "complete": 143.0,
@@ -3503,6 +3679,22 @@
   "hltb_name": "Metal Slug Advance",
   "main": 1.5
  },
+ "igdb:1407": {
+  "checked": "2026-11-11T14:02:03+00:00",
+  "complete": 2.5,
+  "extra": 1.5,
+  "hltb_id": 5930,
+  "hltb_name": "Metal Slug 2",
+  "main": 1.0
+ },
+ "igdb:1408": {
+  "checked": "2026-11-11T14:02:07+00:00",
+  "complete": 4.5,
+  "extra": 3.0,
+  "hltb_id": 5932,
+  "hltb_name": "Metal Slug 3",
+  "main": 1.5
+ },
  "igdb:140839": {
   "checked": "2026-10-16T04:56:27+00:00",
   "complete": 138.0,
@@ -3511,6 +3703,22 @@
   "hltb_name": "Mass Effect Legendary Edition",
   "main": 61.5
  },
+ "igdb:1409": {
+  "checked": "2026-11-11T14:02:09+00:00",
+  "complete": 3.0,
+  "extra": 2.0,
+  "hltb_id": 5933,
+  "hltb_name": "Metal Slug 4",
+  "main": 1.0
+ },
+ "igdb:1410": {
+  "checked": "2026-11-11T14:02:12+00:00",
+  "complete": 3.0,
+  "extra": 2.0,
+  "hltb_id": 5934,
+  "hltb_name": "Metal Slug 5",
+  "main": 1.0
+ },
  "igdb:141060": {
   "checked": "2026-10-28T05:22:45+00:00",
   "complete": 72.5,
@@ -3518,6 +3726,14 @@
   "hltb_id": 124574,
   "hltb_name": "Serious Sam Collection",
   "main": 31.5
+ },
+ "igdb:1411": {
+  "checked": "2026-11-11T14:02:14+00:00",
+  "complete": 2.5,
+  "extra": 2.0,
+  "hltb_id": 5935,
+  "hltb_name": "Metal Slug 6",
+  "main": 1.0
  },
  "igdb:14144": {
   "checked": "2026-10-18T14:03:59+00:00",
@@ -3936,6 +4152,14 @@
  "igdb:144651": {
   "checked": "2026-11-02T10:07:19+00:00"
  },
+ "igdb:1447": {
+  "checked": "2026-11-11T14:01:50+00:00",
+  "complete": 26.5,
+  "extra": 23.5,
+  "hltb_id": 9301,
+  "hltb_name": "Suikoden",
+  "main": 20.0
+ },
  "igdb:145004": {
   "checked": "2026-10-16T04:55:31+00:00"
  },
@@ -4010,6 +4234,14 @@
   "hltb_id": 112251,
   "hltb_name": "Arcade Paradise",
   "main": 25.0
+ },
+ "igdb:1454": {
+  "checked": "2026-11-11T14:01:52+00:00",
+  "complete": 52.0,
+  "extra": 43.5,
+  "hltb_id": 9302,
+  "hltb_name": "Suikoden II",
+  "main": 33.5
  },
  "igdb:145451": {
   "checked": "2026-10-16T15:04:19+00:00",
@@ -4692,6 +4924,17 @@
  "igdb:154": {
   "checked": "2026-11-02T09:12:22+00:00"
  },
+ "igdb:1544": {
+  "checked": "2026-11-11T14:00:31+00:00",
+  "complete": 70.0,
+  "extra": 17.5,
+  "hltb_id": 11215,
+  "hltb_name": "Wipeout HD",
+  "main": 13.5
+ },
+ "igdb:15449": {
+  "checked": "2026-11-11T14:02:20+00:00"
+ },
  "igdb:1545": {
   "checked": "2026-10-18T14:04:38+00:00",
   "complete": 39.0,
@@ -4747,6 +4990,14 @@
   "hltb_id": 104084,
   "hltb_name": "Moss: Book II",
   "main": 6.0
+ },
+ "igdb:15534": {
+  "checked": "2026-11-11T14:01:07+00:00",
+  "complete": 1.5,
+  "extra": 1.0,
+  "hltb_id": 439,
+  "hltb_name": "Amnesia: Justine",
+  "main": 1.0
  },
  "igdb:15540": {
   "checked": "2026-10-28T05:56:10+00:00",
@@ -4810,6 +5061,30 @@
   "hltb_id": 29200,
   "hltb_name": "Odin Sphere: Leifthrasir",
   "main": 30.0
+ },
+ "igdb:1576": {
+  "checked": "2026-11-11T14:00:24+00:00",
+  "complete": 8.5,
+  "extra": 7.5,
+  "hltb_id": 9006,
+  "hltb_name": "Spyro the Dragon",
+  "main": 6.0
+ },
+ "igdb:1577": {
+  "checked": "2026-11-11T14:00:27+00:00",
+  "complete": 10.0,
+  "extra": 8.5,
+  "hltb_id": 9004,
+  "hltb_name": "Spyro 2: Ripto's Rage!",
+  "main": 7.0
+ },
+ "igdb:1578": {
+  "checked": "2026-11-11T14:00:29+00:00",
+  "complete": 12.5,
+  "extra": 10.0,
+  "hltb_id": 9011,
+  "hltb_name": "Spyro: Year of the Dragon",
+  "main": 8.0
  },
  "igdb:158": {
   "checked": "2026-10-28T05:23:01+00:00",
@@ -5017,6 +5292,14 @@
   "hltb_name": "Star Wars: Rogue Squadron",
   "main": 8.0
  },
+ "igdb:163572": {
+  "checked": "2026-11-11T14:03:04+00:00",
+  "complete": 10.0,
+  "extra": 4.0,
+  "hltb_id": 10029,
+  "hltb_name": "The Legend of Zelda: Four Swords",
+  "main": 2.5
+ },
  "igdb:1638": {
   "checked": "2026-11-01T00:44:02+00:00",
   "complete": 21.5,
@@ -5032,6 +5315,14 @@
   "hltb_id": 9123,
   "hltb_name": "Star Wars: Shadows of the Empire",
   "main": 5.0
+ },
+ "igdb:16474": {
+  "checked": "2026-11-11T14:03:09+00:00",
+  "complete": 24.0,
+  "extra": 24.0,
+  "hltb_id": 3495,
+  "hltb_name": "Final Fantasy II",
+  "main": 20.5
  },
  "igdb:16476": {
   "checked": "2026-11-02T09:14:44+00:00",
@@ -5348,6 +5639,9 @@
   "hltb_name": "WarioWare: Smooth Moves",
   "main": 2.5
  },
+ "igdb:170742": {
+  "checked": "2026-11-11T14:01:35+00:00"
+ },
  "igdb:1708": {
   "checked": "2026-10-29T22:33:13+00:00",
   "complete": 34.5,
@@ -5396,6 +5690,14 @@
   "hltb_name": "Wuchang: Fallen Feathers",
   "main": 30.5
  },
+ "igdb:1714": {
+  "checked": "2026-11-11T14:01:33+00:00",
+  "complete": 3.0,
+  "extra": 3.0,
+  "hltb_id": 5803,
+  "hltb_name": "Mega Man",
+  "main": 3.0
+ },
  "igdb:17158": {
   "checked": "2026-10-28T05:22:14+00:00",
   "complete": 9.0,
@@ -5403,6 +5705,38 @@
   "hltb_id": 20738,
   "hltb_name": "Q*bert: Rebooted",
   "main": 4.0
+ },
+ "igdb:1716": {
+  "checked": "2026-11-11T14:01:37+00:00",
+  "complete": 4.0,
+  "extra": 4.0,
+  "hltb_id": 5809,
+  "hltb_name": "Mega Man 3",
+  "main": 3.5
+ },
+ "igdb:1717": {
+  "checked": "2026-11-11T14:01:39+00:00",
+  "complete": 3.5,
+  "extra": 3.5,
+  "hltb_id": 5810,
+  "hltb_name": "Mega Man 4",
+  "main": 3.0
+ },
+ "igdb:1718": {
+  "checked": "2026-11-11T14:01:42+00:00",
+  "complete": 3.5,
+  "extra": 3.5,
+  "hltb_id": 5811,
+  "hltb_name": "Mega Man 5",
+  "main": 3.0
+ },
+ "igdb:1719": {
+  "checked": "2026-11-11T14:01:44+00:00",
+  "complete": 3.0,
+  "extra": 3.0,
+  "hltb_id": 5812,
+  "hltb_name": "Mega Man 6",
+  "main": 2.5
  },
  "igdb:1720": {
   "checked": "2026-11-02T10:09:37+00:00",
@@ -5583,6 +5917,22 @@
  },
  "igdb:1765": {
   "checked": "2026-11-02T09:08:13+00:00"
+ },
+ "igdb:1770": {
+  "checked": "2026-11-11T14:02:37+00:00",
+  "complete": 28.5,
+  "extra": 18.0,
+  "hltb_id": 7594,
+  "hltb_name": "Ratchet & Clank: Going Commando",
+  "main": 13.0
+ },
+ "igdb:1773": {
+  "checked": "2026-11-11T14:02:40+00:00",
+  "complete": 26.5,
+  "extra": 15.0,
+  "hltb_id": 7596,
+  "hltb_name": "Ratchet & Clank: Up Your Arsenal",
+  "main": 11.0
  },
  "igdb:1775": {
   "checked": "2026-11-02T09:08:15+00:00",
@@ -6184,6 +6534,14 @@
   "hltb_name": "Far Cry 3: Blood Dragon",
   "main": 4.5
  },
+ "igdb:1882": {
+  "checked": "2026-11-11T14:01:09+00:00",
+  "complete": 6.0,
+  "extra": 5.0,
+  "hltb_id": 438,
+  "hltb_name": "Amnesia: A Machine for Pigs",
+  "main": 4.0
+ },
  "igdb:18822": {
   "checked": "2026-10-16T15:04:15+00:00",
   "complete": 21.0,
@@ -6191,6 +6549,14 @@
   "hltb_id": 40340,
   "hltb_name": "Pyre",
   "main": 11.0
+ },
+ "igdb:18840": {
+  "checked": "2026-11-11T14:02:05+00:00",
+  "complete": 4.5,
+  "extra": 2.5,
+  "hltb_id": 5940,
+  "hltb_name": "Metal Slug X",
+  "main": 1.0
  },
  "igdb:18853": {
   "checked": "2026-10-28T04:08:41+00:00",
@@ -6975,6 +7341,14 @@
   "hltb_id": 109129,
   "hltb_name": "Drums Rock",
   "main": 5.0
+ },
+ "igdb:20286": {
+  "checked": "2026-11-11T13:59:53+00:00",
+  "complete": 60.5,
+  "extra": 31.5,
+  "hltb_id": 5045,
+  "hltb_name": "Kingdom Hearts Re:Chain of Memories",
+  "main": 23.0
  },
  "igdb:202939": {
   "checked": "2026-11-01T00:45:19+00:00",
@@ -8232,6 +8606,15 @@
   "hltb_name": "Rayman Advance",
   "main": 9.5
  },
+ "igdb:221280": {
+  "checked": "2026-11-11T14:01:26+00:00"
+ },
+ "igdb:221289": {
+  "checked": "2026-11-11T14:01:28+00:00"
+ },
+ "igdb:221290": {
+  "checked": "2026-11-11T14:01:30+00:00"
+ },
  "igdb:222341": {
   "checked": "2026-10-16T15:05:31+00:00",
   "complete": 32.5,
@@ -8539,6 +8922,9 @@
   "hltb_id": 15734,
   "hltb_name": "Echoshift",
   "main": null
+ },
+ "igdb:22991": {
+  "checked": "2026-11-11T14:00:33+00:00"
  },
  "igdb:229919": {
   "checked": "2026-10-28T04:11:48+00:00",
@@ -8981,6 +9367,9 @@
   "hltb_name": "Final Fantasy Tactics A2: Grimoire of the Rift",
   "main": 47.0
  },
+ "igdb:2411": {
+  "checked": "2026-11-11T14:02:18+00:00"
+ },
  "igdb:241246": {
   "checked": "2026-10-28T04:15:38+00:00",
   "complete": null,
@@ -9093,6 +9482,14 @@
   "hltb_id": 57524,
   "hltb_name": "Starlink: Battle for Atlas",
   "main": 15.0
+ },
+ "igdb:247245": {
+  "checked": "2026-11-11T14:02:27+00:00",
+  "complete": 21.0,
+  "extra": 16.0,
+  "hltb_id": 26661,
+  "hltb_name": "Final Fantasy X-2: Last Mission",
+  "main": 13.0
  },
  "igdb:2473": {
   "checked": "2026-11-02T09:13:49+00:00",
@@ -9576,6 +9973,14 @@
   "hltb_name": "The Last of Us Part II",
   "main": 24.0
  },
+ "igdb:26193": {
+  "checked": "2026-11-11T14:00:22+00:00",
+  "complete": 17.5,
+  "extra": 8.5,
+  "hltb_id": 41814,
+  "hltb_name": "Uncharted: The Lost Legacy",
+  "main": 7.0
+ },
  "igdb:26195": {
   "checked": "2026-10-16T04:58:31+00:00"
  },
@@ -9736,6 +10141,14 @@
  },
  "igdb:266683": {
   "checked": "2026-10-17T13:48:23+00:00"
+ },
+ "igdb:26676": {
+  "checked": "2026-11-11T14:00:39+00:00",
+  "complete": 11.0,
+  "extra": 3.5,
+  "hltb_id": 43236,
+  "hltb_name": "Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage",
+  "main": 2.5
  },
  "igdb:2670": {
   "checked": "2026-11-02T09:13:20+00:00",
@@ -10062,6 +10475,14 @@
   "hltb_id": 141499,
   "hltb_name": "The Exit 8",
   "main": 0.5
+ },
+ "igdb:27555": {
+  "checked": "2026-11-11T14:01:18+00:00",
+  "complete": 6.5,
+  "extra": 6.0,
+  "hltb_id": 10481,
+  "hltb_name": "Tomb Raider III: The Lost Artefact",
+  "main": 4.0
  },
  "igdb:275674": {
   "checked": "2026-11-01T00:46:14+00:00",
@@ -10907,6 +11328,14 @@
   "hltb_name": "LEGO Harry Potter: Years 1-4",
   "main": 12.0
  },
+ "igdb:3150": {
+  "checked": "2026-11-11T14:00:41+00:00",
+  "complete": 25.0,
+  "extra": 16.0,
+  "hltb_id": 5251,
+  "hltb_name": "LEGO Harry Potter: Years 5-7",
+  "main": 11.0
+ },
  "igdb:31551": {
   "checked": "2026-10-28T04:11:55+00:00",
   "complete": 82.5,
@@ -10958,6 +11387,14 @@
   "hltb_name": "Trials Fusion",
   "main": 7.0
  },
+ "igdb:3192": {
+  "checked": "2026-11-11T14:01:54+00:00",
+  "complete": 2.5,
+  "extra": 2.0,
+  "hltb_id": 8784,
+  "hltb_name": "Sonic the Hedgehog",
+  "main": 2.0
+ },
  "igdb:3193": {
   "checked": "2026-10-18T14:04:40+00:00",
   "complete": 37.0,
@@ -10976,6 +11413,14 @@
  },
  "igdb:319480": {
   "checked": "2026-11-05T18:05:57+00:00"
+ },
+ "igdb:3195": {
+  "checked": "2026-11-11T14:00:53+00:00",
+  "complete": 16.5,
+  "extra": 11.5,
+  "hltb_id": 657,
+  "hltb_name": "Assassin's Creed III: Liberation",
+  "main": 8.0
  },
  "igdb:3197": {
   "checked": "2026-11-01T00:45:37+00:00",
@@ -12383,6 +12828,14 @@
   "hltb_name": "Kirby Tilt 'n' Tumble",
   "main": 3.0
  },
+ "igdb:374": {
+  "checked": "2026-11-11T14:02:32+00:00",
+  "complete": 5.5,
+  "extra": 5.0,
+  "hltb_id": 5900,
+  "hltb_name": "Metal Gear",
+  "main": 4.0
+ },
  "igdb:376": {
   "checked": "2026-10-18T14:05:31+00:00",
   "complete": 28.5,
@@ -12406,6 +12859,14 @@
   "hltb_id": 518,
   "hltb_name": "Ape Escape",
   "main": 7.0
+ },
+ "igdb:377": {
+  "checked": "2026-11-11T14:02:34+00:00",
+  "complete": 7.0,
+  "extra": 7.0,
+  "hltb_id": 5902,
+  "hltb_name": "Metal Gear 2: Solid Snake",
+  "main": 6.5
  },
  "igdb:3772": {
   "checked": "2026-10-16T14:55:19+00:00",
@@ -12438,6 +12899,14 @@
   "hltb_id": 43064,
   "hltb_name": "Hashire Hebereke",
   "main": 1.0
+ },
+ "igdb:379": {
+  "checked": "2026-11-11T14:02:29+00:00",
+  "complete": 25.0,
+  "extra": 19.5,
+  "hltb_id": 5913,
+  "hltb_name": "Metal Gear Solid 3: Snake Eater",
+  "main": 16.0
  },
  "igdb:38": {
   "checked": "2026-10-16T04:53:49+00:00",
@@ -12538,6 +13007,14 @@
   "hltb_name": "Super Buster Bros.",
   "main": 1.5
  },
+ "igdb:385": {
+  "checked": "2026-11-11T14:03:07+00:00",
+  "complete": 18.0,
+  "extra": 17.0,
+  "hltb_id": 3480,
+  "hltb_name": "Final Fantasy",
+  "main": 15.0
+ },
  "igdb:3856": {
   "checked": "2026-11-01T00:47:22+00:00",
   "complete": 21.5,
@@ -12553,6 +13030,14 @@
   "hltb_id": 181399,
   "hltb_name": "WWE 2K26",
   "main": 14.5
+ },
+ "igdb:388": {
+  "checked": "2026-11-11T14:02:16+00:00",
+  "complete": 108.5,
+  "extra": 46.5,
+  "hltb_id": 3503,
+  "hltb_name": "Final Fantasy IV: The After Years",
+  "main": 35.0
  },
  "igdb:38844": {
   "checked": "2026-11-02T10:10:52+00:00"
@@ -12628,6 +13113,14 @@
   "hltb_id": 81529,
   "hltb_name": "Magical Drop II",
   "main": 0.5
+ },
+ "igdb:393742": {
+  "checked": "2026-11-11T13:59:51+00:00",
+  "complete": 62.5,
+  "extra": 41.0,
+  "hltb_id": 5037,
+  "hltb_name": "Kingdom Hearts",
+  "main": 28.5
  },
  "igdb:394236": {
   "checked": "2026-10-28T05:58:59+00:00",
@@ -12830,6 +13323,14 @@
   "hltb_name": "VS. Excitebike",
   "main": 1.0
  },
+ "igdb:413": {
+  "checked": "2026-11-11T14:02:25+00:00",
+  "complete": 111.0,
+  "extra": 44.5,
+  "hltb_id": 3527,
+  "hltb_name": "Final Fantasy X-2",
+  "main": 29.5
+ },
  "igdb:4132": {
   "checked": "2026-10-28T05:19:58+00:00",
   "complete": 17.5,
@@ -12888,6 +13389,14 @@
   "hltb_id": 9021,
   "hltb_name": "SSX Tricky",
   "main": 10.5
+ },
+ "igdb:418": {
+  "checked": "2026-11-11T14:02:23+00:00",
+  "complete": 139.0,
+  "extra": 68.0,
+  "hltb_id": 3525,
+  "hltb_name": "Final Fantasy X",
+  "main": 45.5
  },
  "igdb:4180": {
   "checked": "2026-10-28T05:23:07+00:00",
@@ -13325,6 +13834,14 @@
   "hltb_id": 4336,
   "hltb_name": "Harvest Moon: Boy & Girl",
   "main": 56.5
+ },
+ "igdb:431": {
+  "checked": "2026-11-11T13:59:58+00:00",
+  "complete": 18.0,
+  "extra": 9.5,
+  "hltb_id": 10799,
+  "hltb_name": "Uncharted: Drake's Fortune",
+  "main": 8.0
  },
  "igdb:43614": {
   "checked": "2026-10-28T05:21:55+00:00",
@@ -13965,6 +14482,14 @@
   "hltb_name": "Mendel Palace",
   "main": 1.5
  },
+ "igdb:481": {
+  "checked": "2026-11-11T14:02:53+00:00",
+  "complete": 15.5,
+  "extra": 9.5,
+  "hltb_id": 8523,
+  "hltb_name": "Silent Hill 2",
+  "main": 8.0
+ },
  "igdb:48123": {
   "checked": "2026-10-28T05:53:53+00:00",
   "complete": 3.5,
@@ -13980,6 +14505,14 @@
   "hltb_id": 5608,
   "hltb_name": "Mappy-Land",
   "main": 1.5
+ },
+ "igdb:482": {
+  "checked": "2026-11-11T14:02:55+00:00",
+  "complete": 11.5,
+  "extra": 8.0,
+  "hltb_id": 8526,
+  "hltb_name": "Silent Hill 3",
+  "main": 6.0
  },
  "igdb:48202": {
   "checked": "2026-10-28T05:55:16+00:00",
@@ -14288,6 +14821,14 @@
   "hltb_name": "Divinity: Original Sin",
   "main": 66.0
  },
+ "igdb:512": {
+  "checked": "2026-11-11T14:00:03+00:00",
+  "complete": 20.0,
+  "extra": 10.5,
+  "hltb_id": 10797,
+  "hltb_name": "Uncharted 3: Drake's Deception",
+  "main": 9.0
+ },
  "igdb:5122": {
   "checked": "2026-11-03T04:43:08+00:00",
   "complete": 24.5,
@@ -14358,6 +14899,14 @@
   "hltb_name": "Super Mario All-Stars",
   "main": 11.0
  },
+ "igdb:5210": {
+  "checked": "2026-11-11T14:02:59+00:00",
+  "complete": 94.5,
+  "extra": 43.0,
+  "hltb_id": 9604,
+  "hltb_name": "Tales of Symphonia: Dawn of the New World",
+  "main": 32.5
+ },
  "igdb:52190": {
   "checked": "2026-10-28T04:13:12+00:00",
   "complete": 18.0,
@@ -14427,6 +14976,14 @@
   "hltb_id": 245,
   "hltb_name": "Aerobiz Supersonic",
   "main": 6.5
+ },
+ "igdb:537": {
+  "checked": "2026-11-11T14:00:48+00:00",
+  "complete": 35.0,
+  "extra": 20.5,
+  "hltb_id": 664,
+  "hltb_name": "Assassin's Creed: Revelations",
+  "main": 12.5
  },
  "igdb:53731": {
   "checked": "2026-11-03T04:26:39+00:00"
@@ -14551,6 +15108,14 @@
   "hltb_name": "Biomutant",
   "main": 13.0
  },
+ "igdb:549": {
+  "checked": "2026-11-11T14:02:42+00:00",
+  "complete": 13.5,
+  "extra": 10.0,
+  "hltb_id": 3974,
+  "hltb_name": "God of War",
+  "main": 9.0
+ },
  "igdb:5495": {
   "checked": "2026-11-03T04:26:35+00:00",
   "complete": 15.0,
@@ -14629,6 +15194,14 @@
   "hltb_name": "Super Puzzle Fighter II Turbo",
   "main": 1.0
  },
+ "igdb:551": {
+  "checked": "2026-11-11T14:02:44+00:00",
+  "complete": 15.0,
+  "extra": 13.0,
+  "hltb_id": 3977,
+  "hltb_name": "God of War II",
+  "main": 12.0
+ },
  "igdb:55163": {
   "checked": "2026-10-16T04:58:18+00:00",
   "complete": 38.5,
@@ -14703,6 +15276,14 @@
   "hltb_id": 21269,
   "hltb_name": "Assassin's Creed: Unity",
   "main": 17.0
+ },
+ "igdb:565": {
+  "checked": "2026-11-11T14:00:00+00:00",
+  "complete": 22.0,
+  "extra": 12.5,
+  "hltb_id": 10796,
+  "hltb_name": "Uncharted 2: Among Thieves",
+  "main": 10.5
  },
  "igdb:569": {
   "checked": "2026-11-03T04:28:06+00:00",
@@ -15522,6 +16103,14 @@
   "hltb_name": "Fantasy Life",
   "main": 31.0
  },
+ "igdb:6797": {
+  "checked": "2026-11-11T14:01:56+00:00",
+  "complete": 3.5,
+  "extra": 3.5,
+  "hltb_id": 8790,
+  "hltb_name": "Sonic the Hedgehog 3",
+  "main": 3.0
+ },
  "igdb:6800": {
   "checked": "2026-11-02T10:09:03+00:00",
   "complete": null,
@@ -15672,6 +16261,14 @@
   "hltb_name": "Raji: An Ancient Epic",
   "main": 5.0
  },
+ "igdb:71": {
+  "checked": "2026-11-11T14:01:46+00:00",
+  "complete": 10.5,
+  "extra": 5.5,
+  "hltb_id": 7230,
+  "hltb_name": "Portal",
+  "main": 3.0
+ },
  "igdb:71128": {
   "checked": "2026-11-02T10:07:34+00:00",
   "complete": 7.5,
@@ -15771,6 +16368,14 @@
   "hltb_name": "Mortal Kombat X",
   "main": 5.5
  },
+ "igdb:73": {
+  "checked": "2026-11-11T14:00:06+00:00",
+  "complete": 42.5,
+  "extra": 27.5,
+  "hltb_id": 5698,
+  "hltb_name": "Mass Effect",
+  "main": 17.0
+ },
  "igdb:7307": {
   "checked": "2026-11-03T04:26:43+00:00",
   "complete": 41.5,
@@ -15810,6 +16415,14 @@
   "hltb_id": 19266,
   "hltb_name": "Rise of the Tomb Raider",
   "main": 13.5
+ },
+ "igdb:7325": {
+  "checked": "2026-11-11T14:01:48+00:00",
+  "complete": 13.5,
+  "extra": 7.0,
+  "hltb_id": 21699,
+  "hltb_name": "Lara Croft and the Temple of Osiris",
+  "main": 5.5
  },
  "igdb:7327": {
   "checked": "2026-10-16T04:59:24+00:00",
@@ -15915,6 +16528,22 @@
   "hltb_name": "Code Name: S.T.E.A.M.",
   "main": 21.5
  },
+ "igdb:74": {
+  "checked": "2026-11-11T14:00:08+00:00",
+  "complete": 50.5,
+  "extra": 35.5,
+  "hltb_id": 5699,
+  "hltb_name": "Mass Effect 2",
+  "main": 24.5
+ },
+ "igdb:740": {
+  "checked": "2026-11-11T13:59:37+00:00",
+  "complete": 16.0,
+  "extra": 11.5,
+  "hltb_id": 4269,
+  "hltb_name": "Halo: Combat Evolved",
+  "main": 10.0
+ },
  "igdb:7431": {
   "checked": "2026-11-01T00:45:06+00:00",
   "complete": 4.5,
@@ -15998,6 +16627,14 @@
   "hltb_name": "Valkyria Chronicles",
   "main": 30.5
  },
+ "igdb:748": {
+  "checked": "2026-11-11T14:02:47+00:00",
+  "complete": 19.0,
+  "extra": 15.5,
+  "hltb_id": 4473,
+  "hltb_name": "Hitman 2: Silent Assassin",
+  "main": 13.5
+ },
  "igdb:7489": {
   "checked": "2026-11-03T04:28:11+00:00",
   "complete": 88.5,
@@ -16005,6 +16642,14 @@
   "hltb_id": 11425,
   "hltb_name": "Yakuza: Dead Souls",
   "main": 12.5
+ },
+ "igdb:75": {
+  "checked": "2026-11-11T14:00:10+00:00",
+  "complete": 51.0,
+  "extra": 36.0,
+  "hltb_id": 5707,
+  "hltb_name": "Mass Effect 3",
+  "main": 24.5
  },
  "igdb:7504": {
   "checked": "2026-10-16T04:54:28+00:00",
@@ -17217,6 +17862,14 @@
   "hltb_name": "Elite Beat Agents",
   "main": 4.0
  },
+ "igdb:912": {
+  "checked": "2026-11-11T14:01:11+00:00",
+  "complete": 20.5,
+  "extra": 18.0,
+  "hltb_id": 10468,
+  "hltb_name": "Tomb Raider",
+  "main": 15.5
+ },
  "igdb:9120": {
   "checked": "2026-10-28T05:23:48+00:00",
   "complete": 12.5,
@@ -17352,6 +18005,14 @@
   "hltb_id": 4249,
   "hltb_name": "Half-Life 2: Deathmatch",
   "main": 2.5
+ },
+ "igdb:9475": {
+  "checked": "2026-11-11T14:01:58+00:00",
+  "complete": 5.5,
+  "extra": 4.5,
+  "hltb_id": 8741,
+  "hltb_name": "Sonic & Knuckles",
+  "main": 3.0
  },
  "igdb:948": {
   "checked": "2026-10-28T05:24:19+00:00",
@@ -17626,6 +18287,14 @@
   "hltb_name": "Disney's Hercules Action Game",
   "main": 3.0
  },
+ "igdb:986": {
+  "checked": "2026-11-11T13:59:40+00:00",
+  "complete": 21.5,
+  "extra": 12.0,
+  "hltb_id": 4262,
+  "hltb_name": "Halo 2",
+  "main": 9.0
+ },
  "igdb:9862": {
   "checked": "2026-11-02T10:08:41+00:00",
   "complete": 41.0,
@@ -17633,6 +18302,14 @@
   "hltb_id": 4712,
   "hltb_name": "International Superstar Soccer Deluxe",
   "main": 1.5
+ },
+ "igdb:987": {
+  "checked": "2026-11-11T13:59:42+00:00",
+  "complete": 22.0,
+  "extra": 11.0,
+  "hltb_id": 4263,
+  "hltb_name": "Halo 3",
+  "main": 7.5
  },
  "igdb:9887": {
   "checked": "2026-10-29T22:14:18+00:00",
@@ -17642,6 +18319,14 @@
   "hltb_name": "Lunar Knights",
   "main": 12.0
  },
+ "igdb:989": {
+  "checked": "2026-11-11T13:59:44+00:00",
+  "complete": 26.5,
+  "extra": 8.5,
+  "hltb_id": 4264,
+  "hltb_name": "Halo 3: ODST",
+  "main": 6.0
+ },
  "igdb:9898": {
   "checked": "2026-10-16T04:54:53+00:00",
   "complete": 185.0,
@@ -17649,6 +18334,14 @@
   "hltb_id": 34457,
   "hltb_name": "Total War: Warhammer",
   "main": 34.0
+ },
+ "igdb:990": {
+  "checked": "2026-11-11T13:59:46+00:00",
+  "complete": 50.5,
+  "extra": 12.5,
+  "hltb_id": 4271,
+  "hltb_name": "Halo: Reach",
+  "main": 7.5
  },
  "igdb:9902": {
   "checked": "2026-10-16T04:54:37+00:00",
@@ -17665,6 +18358,14 @@
   "hltb_id": 25689,
   "hltb_name": "Omega Quintet",
   "main": 41.0
+ },
+ "igdb:991": {
+  "checked": "2026-11-11T13:59:48+00:00",
+  "complete": 28.5,
+  "extra": 10.5,
+  "hltb_id": 4265,
+  "hltb_name": "Halo 4",
+  "main": 7.0
  },
  "igdb:9918": {
   "checked": "2026-10-28T04:13:08+00:00",
