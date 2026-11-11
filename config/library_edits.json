@@ -3661,7 +3661,8 @@
      "sent": false,
      "earlier": {
       "key": "igdb:6557",
-      "guide": null
+      "guide": null,
+      "as": null
      }
     }
    ],
@@ -3680,7 +3681,7 @@
     "Mario Bros.",
     "Super Smash Bros."
    ],
-   "date": "2026-11-11T01:25:01.463Z"
+   "date": "2026-11-11T04:21:59.703Z"
   },
   "wii": {
    "slots": [
