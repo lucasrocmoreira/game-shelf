@@ -3586,11 +3586,11 @@
      "key": "igdb:1398",
      "best": "igdb:1399",
      "why": [
-      "Play this game to get to the amazing Professor Layton and the Unwound Future (88). It's the earliest Professor Layton game you haven't played.",
       "A change of genre: Point-and-click, Puzzle",
       "Shorter than what you're playing: about 15h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:2345",
@@ -3600,7 +3600,8 @@
       "A change of genre: Racing, Arcade",
       "Shorter than what you're playing: about 10.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:8167",
@@ -3610,7 +3611,8 @@
       "A change of genre: Music",
       "Shorter than what you're playing: about 11h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
@@ -3620,7 +3622,7 @@
     "igdb:2345"
    ],
    "avoid": [],
-   "date": "2026-11-03T07:42:58.064Z"
+   "date": "2026-11-11T01:24:46.782Z"
   },
   "3ds": {
    "slots": [
