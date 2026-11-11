@@ -3459,21 +3459,12 @@
   "ps3": {
    "slots": [
     {
-     "key": "igdb:21084",
-     "best": "igdb:21084",
-     "why": [
-      "Top-rated game you haven't played (score 94)",
-      "Shorter than what you're playing: about 17h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
      "key": "igdb:376",
      "best": "igdb:376",
      "why": [
-      "Top-rated game you haven't played (score 95)",
-      "Shorter than what you're playing: about 15.5h to beat"
+      "Top-rated game you haven't played here (score 95)",
+      "Retro pick (2001)",
+      "About 15.5h to beat"
      ],
      "sent": false,
      "earlier": {
@@ -3483,28 +3474,36 @@
      }
     },
     {
-     "key": "igdb:2671",
-     "best": "igdb:2671",
+     "key": "igdb:21084",
+     "best": "igdb:21084",
      "why": [
-      "Top-rated game you haven't played (score 87)",
-      "Shorter than what you're playing: about 22h to beat"
+      "Top-rated game you haven't played here (score 94)",
+      "2010s pick (2011)",
+      "About 17h to beat"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:1285",
-      "guide": "Guitar Hero",
-      "as": null
-     }
+     "earlier": null
+    },
+    {
+     "key": "igdb:20068",
+     "best": "igdb:499",
+     "why": [
+      "Comes before God of War III (score 91) in the God of War series: play this one first",
+      "Scores 91 itself",
+      "Retro pick (2009)",
+      "About 23.5h to beat"
+     ],
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
-    "igdb:339",
     "igdb:376",
-    "igdb:2671",
-    "igdb:21084"
+    "igdb:21084",
+    "igdb:20068"
    ],
    "avoid": [],
-   "date": "2026-11-11T05:16:18.504Z"
+   "date": "2026-11-11T13:49:22.899Z"
   },
   "vita": {
    "slots": [
