@@ -777,7 +777,9 @@ function render(){
       console that one becomes the pick; on another it's a "But play X first" note with a send button;
    3. after a long game on this console no long pick, after a short one no short pick (nothing playing
       here: length doesn't matter);
-   4. one retro (to 2010), one 2010s (2011-2020) and one modern (2021 on) pick, when the console has them.
+   4. one retro (to 2010), one 2010s (2011-2020) and one modern (2021 on) pick, when the console has them;
+   5. a change of genre: none in common with what you play on this console, and a different main genre
+      for each pick (a preference, dropped when an era has nothing else).
    The picks come from different franchises. "Replace" swaps one pick (or all three) for the next best,
    never showing the same game twice, and moves away from the replaced game's franchise. */
 const SUGGEST = {skip:new Set(), slots:[null,null,null], avoid:[]};  // avoid: series of picks you replaced, newest last
@@ -869,9 +871,15 @@ function suggestions(keep=[null,null,null]){
   // Earlier entries are looked up across everything you have: every console, PS Plus and Switch Online.
   const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && !x._noint && x.matched
     && !(state.view==="steam" && emuOnlySteam(x)));
+  // 5. Change of genre: no genre in common with what you're playing on this console, and a different
+  //    main genre from the other picks. A preference: dropped when an era has nothing else.
+  const curGenres = new Set(current.flatMap(g=>g.genres||[])), usedMain = new Set();
+  const mainGenre = g=>(g.genres||[])[0];
+  const genreOk = g=>!(g.genres||[]).some(x=>curGenres.has(x)) && !(mainGenre(g) && usedMain.has(mainGenre(g)));
   const slots = keep.slice(), avoid = new Set(SUGGEST.avoid), usedSeries = new Set();
   const taken = g=>slots.some(p=>p && (p.game===g || p.best===g));
-  const register = p=>{ for(const x of [...seriesOf(p.game), ...seriesOf(p.best||p.game)]) usedSeries.add(x); };
+  const register = p=>{ for(const x of [...seriesOf(p.game), ...seriesOf(p.best||p.game)]) usedSeries.add(x);
+                        if(mainGenre(p.game)) usedMain.add(mainGenre(p.game)); };
   slots.forEach(p=>{ if(p) register(p); });  // picks you kept shape the replacements
   // The pick a top game turns into: 2. the first unplayed (and not skippable) game of its series, when that's on this console.
   const resolve = best=>{
@@ -879,7 +887,7 @@ function suggestions(keep=[null,null,null]){
     if(prev && inTab.has(prev.game.key)) return {game: prev.game, best, prev, here:true};
     return {game: best, best, prev, here:false};
   };
-  const find = (era, strict)=>{
+  const find = (era, strict, genre)=>{
     for(const best of pool){
       if(SUGGEST.skip.has(best.key) || taken(best)) continue;
       const ser = seriesOf(best);
@@ -889,6 +897,7 @@ function suggestions(keep=[null,null,null]){
       if(strict && seriesOf(g).some(n=>usedSeries.has(n) || avoid.has(n))) continue;
       if(era && eraOf(g)!==era) continue;
       if(!lengthOk(g)) continue;
+      if(genre && !genreOk(g)) continue;
       return c;
     }
     return null;
@@ -898,12 +907,12 @@ function suggestions(keep=[null,null,null]){
     if(slots[n]) continue;
     // Best candidate for each era still open; the highest-scoring of them takes this slot.
     let c = null;
-    for(const strict of [true, false]){
-      const opts = ERAS.filter(e=>!eraTaken.has(e.k)).map(e=>find(e.k, strict)).filter(Boolean);
+    for(const [strict, genre] of [[true, true], [true, false], [false, false]]){
+      const opts = ERAS.filter(e=>!eraTaken.has(e.k)).map(e=>find(e.k, strict, genre)).filter(Boolean);
       c = opts.sort((a,b)=>scoreOf(b.best)-scoreOf(a.best))[0] || null;
       if(c) break;
     }
-    if(!c) c = find(null, true) || find(null, false);  // an era this console can't fill: best of the rest
+    if(!c) c = find(null, true, true) || find(null, true, false) || find(null, false, false);  // an era this console can't fill: best of the rest
     if(!c) continue;
     const {game, best, prev, here} = c, why = [];
     if(here){
@@ -912,6 +921,8 @@ function suggestions(keep=[null,null,null]){
     } else why.push(`Top-rated game you haven't played here (score ${avg(game)})`);
     const era = ERAS.find(e=>e.k===eraOf(game));
     if(era) why.push(`${era.label} pick (${yearOf(game)})`);
+    const fresh = (game.genres||[]).filter(x=>!curGenres.has(x));
+    if(current.length && fresh.length && fresh.length===(game.genres||[]).length) why.push(`A change of genre: ${fresh.slice(0,2).join(", ")}`);
     const h = beat(game);
     if(want==="short" && h) why.push(`Not another long one: about ${hrs(h)} to beat`);
     else if(want==="long" && h) why.push(`Something longer: about ${hrs(h)} to beat`);
@@ -965,8 +976,8 @@ function openSuggest(mode){
   SUGGEST.slots = slots;
   for(const p of picks) SUGGEST.skip.add(p.game.key);
   saveSuggest();
-  const basis = current.length ? `You're playing ${current.map(g=>esc(g.title)).slice(0,3).join(", ")} here${want==="short"?", a long one, so no long picks":want==="long"?", a short one, so no short picks":""}. One retro, one 2010s and one modern game where possible.`
-                               : "Nothing on this console is pinned to Playing now, so these are its best-rated unplayed games: one retro, one 2010s and one modern where possible.";
+  const basis = current.length ? `You're playing ${current.map(g=>esc(g.title)).slice(0,3).join(", ")} here${want==="short"?", a long one, so no long picks":want==="long"?", a short one, so no short picks":""}. One retro, one 2010s and one modern game, in other genres, where possible.`
+                               : "Nothing on this console is pinned to Playing now, so these are its best-rated unplayed games: one retro, one 2010s and one modern, in different genres, where possible.";
   sheet(`<h2>Play next on ${esc(CONSOLES[state.view].label)}</h2>
     <p>${basis}</p>
     ${picks.length ? `<div class="picks">${slots.map((p,i)=>{ if(!p) return ""; const {game:g,why}=p, a=avg(g); return `<div class="pick" role="button" tabindex="0" data-key="${esc(g.key)}">
