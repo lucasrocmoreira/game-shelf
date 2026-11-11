@@ -3575,17 +3575,18 @@
      }
     },
     {
-     "key": "igdb:1029",
-     "best": "igdb:1029",
+     "key": "igdb:26845",
+     "best": "igdb:26845",
      "why": [
-      "Top-rated game you haven't played (score 97)",
-      "A longer one this time: about 30.5h to beat"
+      "Top-rated game you haven't played here (score 89)",
+      "2010s pick (2019)",
+      "Something longer: about 76.5h to beat"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:1026",
-      "guide": "The Legend of Zelda",
-      "as": null
+      "key": "igdb:1435",
+      "guide": "Fire Emblem",
+      "as": "Fire Emblem: Mystery of the Emblem"
      }
     },
     {
@@ -3607,10 +3608,11 @@
    "skip": [
     "igdb:207026",
     "igdb:1029",
-    "igdb:366896"
+    "igdb:366896",
+    "igdb:26845"
    ],
    "avoid": [],
-   "date": "2026-11-11T05:16:47.282Z"
+   "date": "2026-11-11T13:50:57.564Z"
   },
   "ds": {
    "slots": [
