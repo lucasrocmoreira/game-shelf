@@ -1047,7 +1047,10 @@ function frGames(f){
     else if(rows.length) status = "sub";
     const row = rows.find(g=>lib.has(g.key)) || rows[0] || null;
     const score = row ? avg(row) : frScore(e);
-    const noint = rows.length>0 && rows.every(g=>g._noint) && status!=="played" && status!=="playing";
+    // "Not interested": every copy you have is tagged; for paired versions (Ruby / Sapphire) one tagged version is enough.
+    const vers = e.ids ? rows.filter(g=>e.ids.includes(+String(g.key).split(":")[1])) : [];
+    const noint = status!=="played" && status!=="playing" && rows.length>0
+      && (vers.length ? vers.some(g=>g._noint) : rows.every(g=>g._noint));
     return {...e, rows, row, status, score, noint};
   });
   // An original counts as covered when you played its remake.
