@@ -3322,7 +3322,8 @@
       "Top-rated game you haven't played (average 85)",
       "Shorter than what you're playing: about 6h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:83731",
@@ -3332,7 +3333,8 @@
       "A change of genre: Music, Sport",
       "Shorter than what you're playing: about 24.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:119341",
@@ -3342,7 +3344,8 @@
       "A change of genre: Shooter, Music",
       "Shorter than what you're playing: about 4h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
@@ -3358,7 +3361,7 @@
     "Wipeout",
     "Resident Evil"
    ],
-   "date": "2026-11-07T22:34:44.671Z"
+   "date": "2026-11-11T04:22:48.655Z"
   },
   "steam": {
    "slots": [
