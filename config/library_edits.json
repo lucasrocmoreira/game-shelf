@@ -3681,27 +3681,28 @@
       "A change of genre: Music, Puzzle",
       "Shorter than what you're playing: about 13.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
-     "key": "igdb:1467",
+     "key": "igdb:1468",
      "best": "igdb:1468",
      "why": [
-      "Play this game to get to the amazing Sin & Punishment: Star Successor (83). It's the earliest entry in the series you haven't played.",
-      "Not on this console: Switch Online or EmuDeck (N64)",
+      "Top-rated game you haven't played (score 87)",
       "A change of genre: Shooter",
-      "Shorter than what you're playing: about 2.5h to beat"
+      "Shorter than what you're playing: about 8.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:84696",
      "best": "igdb:84697",
      "why": [
-      "Play this game to get to the amazing Pikmin 2 (82). It's the earliest Pikmin game you haven't played.",
       "Shorter than what you're playing: about 8h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
@@ -3710,7 +3711,8 @@
     "igdb:1026",
     "igdb:2259",
     "igdb:2195",
-    "igdb:84696"
+    "igdb:84696",
+    "igdb:1468"
    ],
    "avoid": [
     "Rhythm Heaven",
@@ -3720,7 +3722,7 @@
     "Punch-Out!!",
     "Mike Tyson"
    ],
-   "date": "2026-11-10T14:21:37.155Z"
+   "date": "2026-11-11T01:24:36.660Z"
   }
  }
 }
