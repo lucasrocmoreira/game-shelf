@@ -3366,19 +3366,19 @@
      "key": "igdb:158983",
      "best": "igdb:158983",
      "why": [
-      "Sent here from your Switch 2 suggestions",
-      "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played."
+      "Sent here from your Switch 2 suggestions"
      ],
-     "sent": true
+     "sent": true,
+     "earlier": null
     },
     {
      "key": "igdb:231",
      "best": "igdb:233",
      "why": [
-      "Play this game to get to the amazing Half-Life 2 (90). It's the earliest Half-Life game you haven't played.",
       "Shorter than what you're playing: about 14h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:28981",
@@ -3388,7 +3388,8 @@
       "A change of genre: RTS, Strategy",
       "Shorter than what you're playing: about 24h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
@@ -3397,7 +3398,7 @@
     "igdb:28981"
    ],
    "avoid": [],
-   "date": "2026-11-03T07:43:32.844Z"
+   "date": "2026-11-11T04:22:27.288Z"
   },
   "ps5": {
    "slots": [
