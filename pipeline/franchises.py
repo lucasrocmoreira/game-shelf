@@ -126,6 +126,12 @@ def _score(g):
     return round(r["score"]) if r else None
 
 
+def _ig(g):
+    """IGDB's own numbers for a game: [critic score, critics, player score, players]. build.py adds
+    Metacritic and Backloggd for games you don't own, and the page scores them like the rest of the shelf."""
+    return [g.get("aggregated_rating"), g.get("aggregated_rating_count"), g.get("rating"), g.get("rating_count")]
+
+
 def _pair_versions(entries):
     """Paired releases (Pokémon Red / Blue, Omega Ruby / Alpha Sapphire, Oracle of Ages / Seasons) become one
     entry: released within days of each other on the same consoles, names differing by one or two words."""
@@ -529,7 +535,7 @@ def _auto(fid, name, games, known, by_id, now, cur=None, fids=None):
             "year": _year(g),
             "date": g.get("first_release_date"),
             "cover": _cover(g),
-            "score": _score(g),
+            "score": _score(g), "ig": _ig(g),
             "ratings": r,
             "plats": sorted(g.get("platforms") or []),
             "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None,
@@ -626,7 +632,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
                 continue
             e = by_entry.get(g["id"]) or {
                 "id": g["id"], "title": g.get("name"), "slug": g.get("slug"), "year": _year(g),
-                "date": g.get("first_release_date"), "cover": _cover(g), "score": _score(g),
+                "date": g.get("first_release_date"), "cover": _cover(g), "score": _score(g), "ig": _ig(g),
                 "ratings": g.get("total_rating_count") or 0, "plats": sorted(g.get("platforms") or []),
                 "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None, "orig_year": None,
                 "keys": sorted(set().union(*(by_id.get(i, set()) for i in [g["id"], *editions.get(g["id"], []), *(_id(b) for b in g.get("bundles") or [])]))),
@@ -636,7 +642,8 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
             e["section"] = sec
             best = max(kids.get(g["id"], []), key=lambda x: x.get("total_rating_count") or 0, default=None)
             if best and (e.get("score") is None or not e.get("cover")):
-                e["score"] = e.get("score") if e.get("score") is not None else _score(best)
+                if e.get("score") is None:
+                    e["score"], e["ig"] = _score(best), _ig(best)
                 e["cover"] = e.get("cover") or _cover(best)
                 e["ratings"] = max(e.get("ratings") or 0, best.get("total_rating_count") or 0)
             if it.get("title"):
@@ -658,7 +665,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
         if g and g["id"] not in chosen and g["id"] not in by_entry:
             by_entry[g["id"]] = {"id": g["id"], "title": it.get("title") or g.get("name"), "slug": g.get("slug"),
                                  "year": _year(g), "date": g.get("first_release_date"), "cover": _cover(g),
-                                 "score": _score(g), "ratings": g.get("total_rating_count") or 0, "plats": [],
+                                 "score": _score(g), "ig": _ig(g), "ratings": g.get("total_rating_count") or 0, "plats": [],
                                  "remake_of": None, "orig_year": None, "spin": True, "section": None,
                                  "keys": sorted(by_id.get(g["id"], set()))}
     sections = [s for s, _ in groups if s]

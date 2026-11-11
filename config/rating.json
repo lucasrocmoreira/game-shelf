@@ -37,7 +37,8 @@
   "split_badge": 15,
   "tone": {
     "hi": 85,
-    "lo": 70
+    "ok": 75,
+    "lo": 65
   },
   "steam_min_reviews": 10,
   "steam_strong_reviews": 500,

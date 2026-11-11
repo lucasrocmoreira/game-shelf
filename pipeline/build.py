@@ -742,6 +742,63 @@ def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, 
     )
     log(f"PS Plus catalog: {len(games)} games written ({sum(g['owned'] for g in games)} also in your library)")
 
+FRANCHISE_SCORE_DAYS = 120  # games you don't own: re-check their scores this often
+
+
+def franchise_scores(data, cache, offline=False):
+    """Franchise games you don't own get the same sources as your library (Metacritic and Backloggd, plus
+    IGDB), saved in the same score cache, so the guides rank them with the same formula. A batch per run:
+    main entries first, best known first."""
+    todo, seen = [], set()
+    for f in data.get("franchises") or []:
+        for e in f["games"]:
+            if e.get("keys") or not e.get("slug") or e["id"] in seen:
+                continue
+            seen.add(e["id"])
+            c = cache.get(f"igdb:{e['id']}") or {}
+            if not c.get("checked") or days_since(c.get("checked")) >= FRANCHISE_SCORE_DAYS:
+                todo.append(e)
+    budget = 0 if offline else int(os.environ.get("FRANCHISE_SCORE_BUDGET", str(max(150, MAX_RECHECKS // 2))))
+    todo.sort(key=lambda e: (e.get("spin", False), -(e.get("ratings") or 0)))
+    if todo:
+        log(f"Franchises: fetching scores for {min(budget, len(todo))} of {len(todo)} games you don't own")
+    for i, e in enumerate(todo[:budget], 1):
+        key = f"igdb:{e['id']}"
+        c = cache.setdefault(key, {})
+        mc = scores.metacritic(e["slug"], is_slug=True, expect_year=e.get("year"))
+        last = getattr(scores.metacritic, "last", {}) or {}
+        if mc or last.get("status") in ("ok", "missing"):
+            c["metacritic"], c["metacritic_slug"], c["metacritic_n"] = mc, (e["slug"] if mc else None), (last.get("count") if mc else None)
+            c["mc_v"] = METACRITIC_VERSION
+        bl = scores.backloggd(e["slug"])
+        if bl is not None:
+            c["backloggd"], c["backloggd_n"] = bl, getattr(scores.backloggd, "last_count", None)
+        c["bl_v"] = scores.BACKLOGGD_PARSER_VERSION
+        c["checked"], c["franchise_only"] = now_iso(), True
+        if i % 50 == 0:
+            save_json(CACHE_DIR / "scores.json", cache)
+    save_json(CACHE_DIR / "scores.json", cache)
+    # Every game you don't own: the inputs the page needs to score it like the rest of the shelf.
+    for f in data.get("franchises") or []:
+        for e in f["games"]:
+            ig = e.pop("ig", None) or [None, None, None, None]
+            if e.get("keys"):
+                continue  # in your library: the page uses your library's score
+            c = cache.get(f"igdb:{e['id']}") or {}
+            bl = c.get("backloggd")
+            sc = {k: v for k, v in {
+                "metacritic": c.get("metacritic"),
+                "backloggd": round(bl * 20) if isinstance(bl, (int, float)) else None,
+                "igdb_critic": round(ig[0], 1) if ig[0] else None,
+                "igdb_user": round(ig[2], 1) if ig[2] else None,
+            }.items() if v is not None}
+            n = {k: v for k, v in {"metacritic": c.get("metacritic_n"), "backloggd": c.get("backloggd_n"),
+                                    "igdb_critic": ig[1], "igdb_user": ig[3]}.items() if v}
+            if sc:
+                e["scores"], e["counts"] = sc, n
+                r = rating.compute(sc, counts=n)
+                e["score"] = round(r["score"]) if r else e.get("score")
+
 
 def main():
     offline = "--offline" in sys.argv
@@ -831,7 +888,13 @@ def main():
     if igdb_games and not offline:
         try:
             rows = {**{k: r for k, r in catalog.items() if r["catalog_only"]}, **merged}
-            save_json(SITE_DIR / "franchises.json", franchises.build(igdb, igdb_games, rows), pretty=False)
+            fr = franchises.build(igdb, igdb_games, rows)
+            try:
+                franchise_scores(fr, cache, offline=offline)
+            except Exception as e2:
+                log(f"  Franchise scores failed ({type(e2).__name__}: {e2}); guides keep IGDB-only scores")
+                traceback.print_exc()
+            save_json(SITE_DIR / "franchises.json", fr, pretty=False)
             status["franchises"] = "ok"
         except Exception as e:
             log(f"!! Franchises failed: {e}")
