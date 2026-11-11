@@ -3624,8 +3624,22 @@
      "key": "igdb:1398",
      "best": "igdb:1399",
      "why": [
+      "Comes before Professor Layton and the Unwound Future (score 90) in the Professor Layton series: play this one first",
+      "Scores 85 itself",
+      "Retro pick (2007)",
       "A change of genre: Point-and-click, Puzzle",
-      "Shorter than what you're playing: about 15h to beat"
+      "Not another long one: about 15h to beat"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:47914",
+     "best": "igdb:47914",
+     "why": [
+      "Top-rated game you haven't played here (score 80)",
+      "2010s pick (2013)",
+      "A change of genre: Puzzle"
      ],
      "sent": false,
      "earlier": null
@@ -3634,33 +3648,26 @@
      "key": "igdb:2345",
      "best": "igdb:2345",
      "why": [
-      "Top-rated game you haven't played (average 85)",
+      "Top-rated game you haven't played here (score 88)",
+      "Retro pick (2005)",
       "A change of genre: Racing, Arcade",
-      "Shorter than what you're playing: about 10.5h to beat"
+      "Not another long one: about 10.5h to beat"
      ],
      "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:8167",
-     "best": "igdb:8167",
-     "why": [
-      "Top-rated game you haven't played (average 85)",
-      "A change of genre: Music",
-      "Shorter than what you're playing: about 11h to beat"
-     ],
-     "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:2332",
+      "guide": "Mario",
+      "as": null
+     }
     }
    ],
    "skip": [
     "igdb:1398",
-    "igdb:2332",
-    "igdb:8167",
+    "igdb:47914",
     "igdb:2345"
    ],
    "avoid": [],
-   "date": "2026-11-11T01:24:46.782Z"
+   "date": "2026-11-11T13:51:57.604Z"
   },
   "3ds": {
    "slots": [
