@@ -3503,7 +3503,8 @@
       "A change of genre: Shooter, Indie",
       "Shorter than what you're playing: about 7.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:7812",
@@ -3513,16 +3514,17 @@
       "A change of genre: Music, RTS",
       "Shorter than what you're playing: about 19h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:1459",
      "best": "igdb:1461",
      "why": [
-      "Play this game to get to the amazing LocoRoco 2 (85). It's the earliest entry in the series you haven't played.",
       "Shorter than what you're playing: about 9h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
@@ -3531,7 +3533,7 @@
     "igdb:1459"
    ],
    "avoid": [],
-   "date": "2026-11-03T07:42:16.652Z"
+   "date": "2026-11-11T01:24:20.280Z"
   },
   "switch2": {
    "slots": [
