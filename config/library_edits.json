@@ -3456,17 +3456,22 @@
       "Top-rated game you haven't played (average 91)",
       "Shorter than what you're playing: about 15.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
-     "key": "igdb:1798",
-     "best": "igdb:7458",
+     "key": "igdb:339",
+     "best": "igdb:339",
      "why": [
-      "Play this game to get to the amazing The Sly Collection (84). It's the earliest entry in the series you haven't played.",
-      "Not on this console: in the PS Plus catalog (PS4, PS5, PS2)",
-      "Shorter than what you're playing: about 7.5h to beat"
+      "Top-rated game you haven't played (score 95)",
+      "A change of genre: Shooter, Puzzle",
+      "Shorter than what you're playing: about 31.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": {
+      "key": "igdb:231",
+      "guide": "Half-Life"
+     }
     },
     {
      "key": "igdb:117882",
@@ -3475,16 +3480,18 @@
       "Top-rated game you haven't played (average 82)",
       "Shorter than what you're playing: about 11h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
     "igdb:376",
     "igdb:1798",
-    "igdb:117882"
+    "igdb:117882",
+    "igdb:339"
    ],
    "avoid": [],
-   "date": "2026-11-07T22:32:42.916Z"
+   "date": "2026-11-11T01:24:14.423Z"
   },
   "vita": {
    "slots": [
