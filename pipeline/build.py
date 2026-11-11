@@ -5,6 +5,7 @@ Environment:  STEAM_API_KEY, STEAM_ID, PSN_NPSSO, IGDB_CLIENT_ID, IGDB_CLIENT_SE
               GMAIL_ADDRESS, GMAIL_APP_PASSWORD, OPENCRITIC_RAPIDAPI_KEY (all optional),
               plus the tuning knobs below.
 """
+import json
 import datetime as dt
 import os
 import sys
@@ -95,6 +96,51 @@ def fetch_libraries(status):
 
 def ekey(e):
     return f"{e['platform']}:{e['source_id']}"
+
+
+# ---------------------------------------------------------------- collections
+def expand_collections(entries, match_info, igdb=None):
+    """A collection you own becomes its games, each its own row, so you can mark them played one by one.
+    Each keeps "part_of" (the collection's name). One-game "collections" (a port under another name, e.g.
+    Super Mario Advance) stay as they are. Contents: config/collection_contents.json, by IGDB id
+    ("contains") or by IGDB slug ("slugs", resolved here and cached)."""
+    cc = load_json(CONFIG_DIR / "collection_contents.json", {})
+    ids = load_json(CACHE_DIR / "collection_ids.json", {})
+    need = sorted({sl for v in cc.values() for sl in v.get("slugs") or [] if sl not in ids})
+    if need and igdb:
+        try:
+            for i in range(0, len(need), 100):
+                q = ",".join(json.dumps(sl) for sl in need[i:i + 100])
+                for r in igdb.query("games", f"fields id,slug; where slug = ({q}); limit 500;"):
+                    ids[r["slug"]] = r["id"]
+            missing = [sl for sl in need if sl not in ids]
+            if missing:
+                log(f"  Collections: IGDB has no game with the slug {', '.join(missing)}")
+            save_json(CACHE_DIR / "collection_ids.json", ids)
+        except Exception as e:
+            log(f"  Collections: slug lookup failed ({type(e).__name__}); those collections stay whole this run")
+    by_id = {}
+    for key, v in cc.items():
+        cids = list(v.get("contains") or []) or [ids.get(sl) for sl in v.get("slugs") or []]
+        pairs = [(int(c), n) for c, n in zip(cids, v.get("games") or []) if c]
+        if len(pairs) >= 2 and len(pairs) == len(v.get("games") or []):
+            by_id[int(key.split(":")[1])] = (v["title"], key, pairs)
+    out, n = [], 0
+    for e in entries:
+        hit = by_id.get((match_info.get(ekey(e)) or {}).get("id"))
+        if not hit:
+            out.append(e)
+            continue
+        title, key, pairs = hit
+        n += 1
+        for cid, name in pairs:
+            c = {k: v for k, v in e.items() if k not in ("playtime_hours", "last_played", "igdb", "cover", "steam_appid")}
+            c.update(title=name, source_id=f"{e['source_id']}#{cid}", part_of=title, part_of_key=key)
+            match_info[ekey(c)] = {"id": cid, "via": "collection", "conf": "exact"}
+            out.append(c)
+    if n:
+        log(f"  Collections: {n} split into their games")
+    return out
 
 
 # ---------------------------------------------------------------- step 2: IGDB matching
@@ -261,21 +307,27 @@ def merge(entries, match_info, igdb_games, overrides, ed):
             row["steam_appid"] = e["steam_appid"]
         if e.get("cover") and not row["cover"]:
             row["cover"] = e["cover"]
+        if e.get("part_of"):  # one of the games in a collection you own
+            if e["part_of"] not in row.setdefault("part_of", []):
+                row["part_of"].append(e["part_of"])
+            if e["part_of_key"] not in row.setdefault("parent_keys", []):
+                row["parent_keys"].append(e["part_of_key"])
 
     for row in merged.values():
         rename = overrides["title_by_key"].get(row["key"]) or overrides["title"].get(edits.source_key(row["title"]))
         if rename:
             row["title"] = rename
         keys = {row["key"]} | {f"t:{s}" for s in row["src"]} | {f"t:{edits.source_key(row['title'])}"}
+        parents = set(row.get("parent_keys") or [])  # hiding or "not interested" on a collection covers its games
         if keys & set(ed["unhidden"]):
             row["hidden"] = None
-        elif keys & set(ed["hidden"]) or row["src"] & overrides["exclude"]:
+        elif (keys | parents) & set(ed["hidden"]) or row["src"] & overrides["exclude"]:
             row["hidden"] = "you"
         elif row["non_game"] and not row["igdb"]:
             row["hidden"] = "auto"
         else:
             row["hidden"] = None
-        noint = [ed["noint"][k] for k in keys if k in ed["noint"]]
+        noint = [ed["noint"][k] for k in keys | parents if k in ed["noint"]]
         row["noint"] = noint[0] if noint else None
         playing = [ed["playing"][k] for k in keys if k in ed["playing"]]
         row["playing"] = playing[0] if playing else None
@@ -644,6 +696,7 @@ def to_site_row(row, sc, hl=None):
         "played": row["played"],
         "playing": row["playing"],
         "noint": row.get("noint"),
+        "part_of": row.get("part_of") or None,
         "pending_key": row["pending_key"],
         "ps_plus": row["ps_plus"],
         "nso": row["nso"],
@@ -830,6 +883,8 @@ def main():
         try:
             igdb = IGDB(env("IGDB_CLIENT_ID"), env("IGDB_CLIENT_SECRET"))
             match_info = match_to_igdb(entries + cat_entries, igdb, overrides)
+            entries = expand_collections(entries, match_info, igdb)
+            cat_entries = expand_collections(cat_entries, match_info, igdb)
             igdb_games = igdb.games_by_ids(m.get("id") for m in match_info.values() if m.get("id"))
             try:
                 for gid, t in igdb.time_to_beats(igdb_games.keys()).items():
@@ -852,6 +907,8 @@ def main():
             status["igdb"] = f"failed ({type(e).__name__})"
             cached = load_json(CACHE_DIR / "igdb_matches.json", {})
             match_info = {ekey(e2): cached.get(ekey(e2)) or {} for e2 in entries + cat_entries}
+            entries = expand_collections(entries, match_info)
+            cat_entries = expand_collections(cat_entries, match_info)
     else:
         status["igdb"] = "not configured" if not offline else "skipped (offline)"
 

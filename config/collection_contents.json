@@ -1,429 +1,654 @@
 {
- "igdb:109532": {
-  "title": "Assassin's Creed III Remastered",
-  "contains": [
-   1266,
-   3195
-  ],
-  "games": [
-   "Assassin's Creed III",
-   "Assassin's Creed III: Liberation"
-  ]
- },
- "igdb:23954": {
-  "title": "Assassin's Creed: The Ezio Collection",
-  "contains": [
-   127,
-   113,
-   537
-  ],
-  "games": [
-   "Assassin's Creed II",
-   "Assassin's Creed Brotherhood",
-   "Assassin's Creed Revelations"
-  ]
- },
- "igdb:19839": {
-  "title": "BioShock: The Collection",
-  "contains": [
-   20,
-   21,
-   538
-  ],
-  "games": [
-   "BioShock",
-   "BioShock 2",
-   "BioShock Infinite"
-  ]
- },
- "igdb:109594": {
-  "title": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
-  "contains": [
-   1139,
-   1128
-  ],
-  "games": [
-   "Castlevania: Rondo of Blood",
-   "Castlevania: Symphony of the Night"
-  ]
- },
- "igdb:90628": {
-  "title": "Diablo III: Eternal Collection",
-  "contains": [
-   120
-  ],
-  "games": [
-   "Diablo III"
-  ]
- },
- "igdb:408": {
-  "title": "Final Fantasy I & II: Dawn of Souls",
-  "contains": [
-   385,
-   16474
-  ],
-  "games": [
-   "Final Fantasy",
-   "Final Fantasy II"
-  ]
- },
- "igdb:21779": {
-  "title": "Final Fantasy IV: The Complete Collection",
-  "contains": [
-   16587,
-   388
-  ],
-  "games": [
-   "Final Fantasy IV",
-   "Final Fantasy IV: The After Years"
-  ]
- },
- "igdb:14144": {
-  "title": "Final Fantasy X/X-2 HD Remaster",
-  "contains": [
-   418,
-   413,
-   247245
-  ],
-  "games": [
-   "Final Fantasy X",
-   "Final Fantasy X-2",
-   "Final Fantasy X-2: Last Mission"
-  ]
- },
- "igdb:81497": {
-  "title": "Game & Watch Gallery 4",
-  "contains": [
-   131938
-  ],
-  "games": [
-   "Mario's Bombs Away"
-  ]
- },
- "igdb:20579": {
-  "title": "God of War: Origins Collection",
-  "contains": [
-   552,
-   550
-  ],
-  "games": [
-   "God of War: Chains of Olympus",
-   "God of War: Ghost of Sparta"
-  ]
- },
- "igdb:20113": {
-  "title": "Jak and Daxter Collection",
-  "contains": [
-   1528,
-   1529,
-   1530
-  ],
-  "games": [
-   "Jak and Daxter: The Precursor Legacy",
-   "Jak II",
-   "Jak 3"
-  ]
- },
- "igdb:27979": {
-  "title": "Kingdom Hearts HD 1.5 + 2.5 Remix",
-  "contains": [
-   393742,
-   20286,
-   1221,
-   1224
-  ],
-  "games": [
-   "Kingdom Hearts",
-   "Kingdom Hearts Re:Chain of Memories",
-   "Kingdom Hearts II",
-   "Kingdom Hearts Birth by Sleep"
-  ]
- },
- "igdb:14159": {
-  "title": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
-  "contains": [
-   1226,
-   26676
-  ],
-  "games": [
-   "Kingdom Hearts 3D: Dream Drop Distance",
-   "Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage"
-  ]
- },
- "igdb:19874": {
-  "title": "Mega Man Legacy Collection",
-  "contains": [
-   1714,
-   170742,
-   1716,
-   1717,
-   1718,
-   1719
-  ],
-  "games": [
-   "Mega Man",
-   "Mega Man 2",
-   "Mega Man 3",
-   "Mega Man 4",
-   "Mega Man 5",
-   "Mega Man 6"
-  ]
- },
- "igdb:20741": {
-  "title": "Metal Gear Solid HD Collection",
-  "contains": [
-   376,
-   379,
-   374,
-   377,
-   382
-  ],
-  "games": [
-   "Metal Gear Solid 2: Sons of Liberty",
-   "Metal Gear Solid 3: Snake Eater",
-   "Metal Gear",
-   "Metal Gear 2: Solid Snake"
-  ]
- },
- "igdb:21610": {
-  "title": "Phoenix Wright: Ace Attorney Trilogy",
-  "contains": [
-   221280,
-   221289,
-   221290
-  ],
-  "games": [
-   "Phoenix Wright: Ace Attorney",
-   "Phoenix Wright: Ace Attorney - Justice for All",
-   "Phoenix Wright: Ace Attorney - Trials and Tribulations"
-  ]
- },
- "igdb:19994": {
-  "title": "Ratchet & Clank Collection",
-  "contains": [
-   1289,
-   1770,
-   1773
-  ],
-  "games": [
-   "Ratchet & Clank",
-   "Ratchet & Clank: Going Commando",
-   "Ratchet & Clank: Up Your Arsenal"
-  ]
- },
- "igdb:138225": {
-  "title": "Super Mario 3D All-Stars",
-  "contains": [
-   1074,
-   1075,
-   1077
-  ],
-  "games": [
-   "Super Mario 64",
-   "Super Mario Sunshine",
-   "Super Mario Galaxy"
-  ]
- },
- "igdb:5199": {
-  "title": "Super Mario All-Stars",
-  "contains": [
-   358,
-   1066,
-   1067,
-   1068
-  ],
-  "games": [
-   "Super Mario Bros.",
-   "Super Mario Bros.: The Lost Levels",
-   "Super Mario Bros. 2",
-   "Super Mario Bros. 3"
-  ]
- },
- "igdb:14531": {
-  "title": "Tetris & Dr. Mario",
-  "contains": [
-   8197,
-   3476
-  ],
-  "games": [
-   "Tetris (NES)",
-   "Dr. Mario"
-  ]
- },
- "igdb:77336": {
-  "title": "The Legend of Zelda: A Link to the Past & Four Swords",
-  "contains": [
-   1026,
-   163572
-  ],
-  "games": [
-   "The Legend of Zelda: A Link to the Past",
-   "The Legend of Zelda: Four Swords"
-  ]
- },
- "igdb:7458": {
-  "title": "The Sly Collection",
-  "contains": [
-   1798,
-   1799,
-   1800
-  ],
-  "games": [
-   "Sly Cooper and the Thievius Raccoonus",
-   "Sly 2: Band of Thieves",
-   "Sly 3: Honor Among Thieves"
-  ]
- },
- "igdb:266683": {
-  "title": "Tomb Raider I•II•III Remastered",
-  "contains": [
-   912,
-   1156,
-   1157,
-   27555
-  ],
-  "games": [
-   "Tomb Raider",
-   "Tomb Raider II",
-   "Tomb Raider III: Adventures of Lara Croft",
-   "Tomb Raider: The Lost Artifact"
-  ]
- },
- "igdb:168670": {
-  "title": "Uncharted: Legacy of Thieves Collection",
-  "contains": [
-   7331,
-   26193
-  ],
-  "games": [
-   "Uncharted 4: A Thief's End",
-   "Uncharted: The Lost Legacy"
-  ]
- },
- "igdb:10962": {
-  "title": "Uncharted: The Nathan Drake Collection",
-  "contains": [
-   431,
-   565,
-   512
-  ],
-  "games": [
-   "Uncharted: Drake's Fortune",
-   "Uncharted 2: Among Thieves",
-   "Uncharted 3: Drake's Deception"
-  ]
- },
- "igdb:21020": {
-  "title": "Ys I & II Chronicles",
-  "contains": [
-   2411,
-   15449
-  ],
-  "games": [
-   "Ys I Chronicles (remake)",
-   "Ys II"
-  ]
- },
- "igdb:20068": {
-  "title": "God of War Collection",
-  "contains": [
-   549,
-   551
-  ],
-  "games": [
-   "God of War",
-   "God of War II"
-  ]
- },
- "igdb:20749": {
-  "title": "Hitman HD Trilogy",
-  "contains": [
-   748,
-   1049,
-   1048
-  ],
-  "games": [
-   "Hitman 2: Silent Assassin",
-   "Hitman: Contracts",
-   "Hitman: Blood Money"
-  ]
- },
- "igdb:21600": {
-  "title": "Silent Hill HD Collection",
-  "contains": [
-   481,
-   482
-  ],
-  "games": [
-   "Silent Hill 2",
-   "Silent Hill 3"
-  ]
- },
- "igdb:7464": {
-  "title": "Tales of Symphonia Chronicles",
-  "contains": [
-   1204,
-   5210
-  ],
-  "games": [
-   "Tales of Symphonia",
-   "Tales of Symphonia: Dawn of the New World"
-  ]
- },
- "igdb:1112": {
-  "title": "Metroid Prime: Trilogy",
-  "contains": [
-   1105,
-   1108,
-   1111
-  ]
- },
- "igdb:84920": {
-  "title": "Super Mario All-Stars: Limited Edition",
-  "contains": [
-   358,
-   1066,
-   1067,
-   1068
-  ]
- },
- "igdb:16617": {
-  "title": "Super Mario Advance 2",
-  "contains": [
-   1070
-  ]
- },
- "igdb:16747": {
-  "title": "Super Mario Advance 3",
-  "contains": [
-   1073
-  ]
- },
- "igdb:81197": {
-  "title": "Super Mario Advance",
-  "contains": [
-   1067
-  ]
- },
- "igdb:16748": {
-  "title": "Super Mario Advance 4",
-  "contains": [
-   1068
-  ]
- },
- "igdb:1727": {
-  "title": "Mega Man: The Wily Wars",
-  "contains": [
-   1714,
-   170742,
-   1716
-  ]
- },
- "igdb:21084": {
-  "title": "The Ico & Shadow of the Colossus Collection",
-  "contains": [
-   7170,
-   2207
-  ]
- }
+  "igdb:109532": {
+    "title": "Assassin's Creed III Remastered",
+    "contains": [
+      1266,
+      3195
+    ],
+    "games": [
+      "Assassin's Creed III",
+      "Assassin's Creed III: Liberation"
+    ]
+  },
+  "igdb:23954": {
+    "title": "Assassin's Creed: The Ezio Collection",
+    "contains": [
+      127,
+      113,
+      537
+    ],
+    "games": [
+      "Assassin's Creed II",
+      "Assassin's Creed Brotherhood",
+      "Assassin's Creed Revelations"
+    ]
+  },
+  "igdb:19839": {
+    "title": "BioShock: The Collection",
+    "contains": [
+      20,
+      21,
+      538
+    ],
+    "games": [
+      "BioShock",
+      "BioShock 2",
+      "BioShock Infinite"
+    ]
+  },
+  "igdb:109594": {
+    "title": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+    "contains": [
+      1139,
+      1128
+    ],
+    "games": [
+      "Castlevania: Rondo of Blood",
+      "Castlevania: Symphony of the Night"
+    ]
+  },
+  "igdb:90628": {
+    "title": "Diablo III: Eternal Collection",
+    "contains": [
+      120
+    ],
+    "games": [
+      "Diablo III"
+    ]
+  },
+  "igdb:408": {
+    "title": "Final Fantasy I & II: Dawn of Souls",
+    "contains": [
+      385,
+      16474
+    ],
+    "games": [
+      "Final Fantasy",
+      "Final Fantasy II"
+    ]
+  },
+  "igdb:21779": {
+    "title": "Final Fantasy IV: The Complete Collection",
+    "contains": [
+      16587,
+      388
+    ],
+    "games": [
+      "Final Fantasy IV",
+      "Final Fantasy IV: The After Years"
+    ]
+  },
+  "igdb:14144": {
+    "title": "Final Fantasy X/X-2 HD Remaster",
+    "contains": [
+      418,
+      413,
+      247245
+    ],
+    "games": [
+      "Final Fantasy X",
+      "Final Fantasy X-2",
+      "Final Fantasy X-2: Last Mission"
+    ]
+  },
+  "igdb:81497": {
+    "title": "Game & Watch Gallery 4",
+    "contains": [
+      131938
+    ],
+    "games": [
+      "Mario's Bombs Away"
+    ]
+  },
+  "igdb:20579": {
+    "title": "God of War: Origins Collection",
+    "contains": [
+      552,
+      550
+    ],
+    "games": [
+      "God of War: Chains of Olympus",
+      "God of War: Ghost of Sparta"
+    ]
+  },
+  "igdb:20113": {
+    "title": "Jak and Daxter Collection",
+    "contains": [
+      1528,
+      1529,
+      1530
+    ],
+    "games": [
+      "Jak and Daxter: The Precursor Legacy",
+      "Jak II",
+      "Jak 3"
+    ]
+  },
+  "igdb:27979": {
+    "title": "Kingdom Hearts HD 1.5 + 2.5 Remix",
+    "contains": [
+      393742,
+      20286,
+      1221,
+      1224
+    ],
+    "games": [
+      "Kingdom Hearts",
+      "Kingdom Hearts Re:Chain of Memories",
+      "Kingdom Hearts II",
+      "Kingdom Hearts Birth by Sleep"
+    ]
+  },
+  "igdb:14159": {
+    "title": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
+    "contains": [
+      1226,
+      26676
+    ],
+    "games": [
+      "Kingdom Hearts 3D: Dream Drop Distance",
+      "Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage"
+    ]
+  },
+  "igdb:19874": {
+    "title": "Mega Man Legacy Collection",
+    "contains": [
+      1714,
+      170742,
+      1716,
+      1717,
+      1718,
+      1719
+    ],
+    "games": [
+      "Mega Man",
+      "Mega Man 2",
+      "Mega Man 3",
+      "Mega Man 4",
+      "Mega Man 5",
+      "Mega Man 6"
+    ]
+  },
+  "igdb:20741": {
+    "title": "Metal Gear Solid HD Collection",
+    "contains": [
+      376,
+      379,
+      374,
+      377,
+      382
+    ],
+    "games": [
+      "Metal Gear Solid 2: Sons of Liberty",
+      "Metal Gear Solid 3: Snake Eater",
+      "Metal Gear",
+      "Metal Gear 2: Solid Snake"
+    ]
+  },
+  "igdb:21610": {
+    "title": "Phoenix Wright: Ace Attorney Trilogy",
+    "contains": [
+      221280,
+      221289,
+      221290
+    ],
+    "games": [
+      "Phoenix Wright: Ace Attorney",
+      "Phoenix Wright: Ace Attorney - Justice for All",
+      "Phoenix Wright: Ace Attorney - Trials and Tribulations"
+    ]
+  },
+  "igdb:19994": {
+    "title": "Ratchet & Clank Collection",
+    "contains": [
+      1289,
+      1770,
+      1773
+    ],
+    "games": [
+      "Ratchet & Clank",
+      "Ratchet & Clank: Going Commando",
+      "Ratchet & Clank: Up Your Arsenal"
+    ]
+  },
+  "igdb:138225": {
+    "title": "Super Mario 3D All-Stars",
+    "contains": [
+      1074,
+      1075,
+      1077
+    ],
+    "games": [
+      "Super Mario 64",
+      "Super Mario Sunshine",
+      "Super Mario Galaxy"
+    ]
+  },
+  "igdb:5199": {
+    "title": "Super Mario All-Stars",
+    "contains": [
+      358,
+      1066,
+      1067,
+      1068
+    ],
+    "games": [
+      "Super Mario Bros.",
+      "Super Mario Bros.: The Lost Levels",
+      "Super Mario Bros. 2",
+      "Super Mario Bros. 3"
+    ]
+  },
+  "igdb:14531": {
+    "title": "Tetris & Dr. Mario",
+    "contains": [
+      8197,
+      3476
+    ],
+    "games": [
+      "Tetris (NES)",
+      "Dr. Mario"
+    ]
+  },
+  "igdb:77336": {
+    "title": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "contains": [
+      1026,
+      163572
+    ],
+    "games": [
+      "The Legend of Zelda: A Link to the Past",
+      "The Legend of Zelda: Four Swords"
+    ]
+  },
+  "igdb:7458": {
+    "title": "The Sly Collection",
+    "contains": [
+      1798,
+      1799,
+      1800
+    ],
+    "games": [
+      "Sly Cooper and the Thievius Raccoonus",
+      "Sly 2: Band of Thieves",
+      "Sly 3: Honor Among Thieves"
+    ]
+  },
+  "igdb:266683": {
+    "title": "Tomb Raider I•II•III Remastered",
+    "contains": [
+      912,
+      1156,
+      1157,
+      27555
+    ],
+    "games": [
+      "Tomb Raider",
+      "Tomb Raider II",
+      "Tomb Raider III: Adventures of Lara Croft",
+      "Tomb Raider: The Lost Artifact"
+    ]
+  },
+  "igdb:168670": {
+    "title": "Uncharted: Legacy of Thieves Collection",
+    "contains": [
+      7331,
+      26193
+    ],
+    "games": [
+      "Uncharted 4: A Thief's End",
+      "Uncharted: The Lost Legacy"
+    ]
+  },
+  "igdb:10962": {
+    "title": "Uncharted: The Nathan Drake Collection",
+    "contains": [
+      431,
+      565,
+      512
+    ],
+    "games": [
+      "Uncharted: Drake's Fortune",
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception"
+    ]
+  },
+  "igdb:21020": {
+    "title": "Ys I & II Chronicles",
+    "contains": [
+      2411,
+      15449
+    ],
+    "games": [
+      "Ys I Chronicles (remake)",
+      "Ys II"
+    ]
+  },
+  "igdb:20068": {
+    "title": "God of War Collection",
+    "contains": [
+      549,
+      551
+    ],
+    "games": [
+      "God of War",
+      "God of War II"
+    ]
+  },
+  "igdb:20749": {
+    "title": "Hitman HD Trilogy",
+    "contains": [
+      748,
+      1049,
+      1048
+    ],
+    "games": [
+      "Hitman 2: Silent Assassin",
+      "Hitman: Contracts",
+      "Hitman: Blood Money"
+    ]
+  },
+  "igdb:21600": {
+    "title": "Silent Hill HD Collection",
+    "contains": [
+      481,
+      482
+    ],
+    "games": [
+      "Silent Hill 2",
+      "Silent Hill 3"
+    ]
+  },
+  "igdb:7464": {
+    "title": "Tales of Symphonia Chronicles",
+    "contains": [
+      1204,
+      5210
+    ],
+    "games": [
+      "Tales of Symphonia",
+      "Tales of Symphonia: Dawn of the New World"
+    ]
+  },
+  "igdb:1112": {
+    "title": "Metroid Prime: Trilogy",
+    "contains": [
+      1105,
+      1108,
+      1111
+    ]
+  },
+  "igdb:84920": {
+    "title": "Super Mario All-Stars: Limited Edition",
+    "contains": [
+      358,
+      1066,
+      1067,
+      1068
+    ]
+  },
+  "igdb:16617": {
+    "title": "Super Mario Advance 2",
+    "contains": [
+      1070
+    ]
+  },
+  "igdb:16747": {
+    "title": "Super Mario Advance 3",
+    "contains": [
+      1073
+    ]
+  },
+  "igdb:81197": {
+    "title": "Super Mario Advance",
+    "contains": [
+      1067
+    ]
+  },
+  "igdb:16748": {
+    "title": "Super Mario Advance 4",
+    "contains": [
+      1068
+    ]
+  },
+  "igdb:1727": {
+    "title": "Mega Man: The Wily Wars",
+    "contains": [
+      1714,
+      170742,
+      1716
+    ]
+  },
+  "igdb:21084": {
+    "title": "The Ico & Shadow of the Colossus Collection",
+    "contains": [
+      7170,
+      2207
+    ]
+  },
+  "igdb:26196": {
+    "title": "Crash Bandicoot N. Sane Trilogy",
+    "games": [
+      "Crash Bandicoot",
+      "Crash Bandicoot 2: Cortex Strikes Back",
+      "Crash Bandicoot: Warped"
+    ],
+    "contains": [
+      1185,
+      1186,
+      1187
+    ]
+  },
+  "igdb:87683": {
+    "title": "Spyro Reignited Trilogy",
+    "games": [
+      "Spyro the Dragon",
+      "Spyro 2: Ripto's Rage!",
+      "Spyro: Year of the Dragon"
+    ],
+    "contains": [
+      1576,
+      1577,
+      1578
+    ]
+  },
+  "igdb:140839": {
+    "title": "Mass Effect Legendary Edition",
+    "games": [
+      "Mass Effect",
+      "Mass Effect 2",
+      "Mass Effect 3"
+    ],
+    "slugs": [
+      "mass-effect",
+      "mass-effect-2",
+      "mass-effect-3"
+    ]
+  },
+  "igdb:7348": {
+    "title": "Halo: The Master Chief Collection",
+    "games": [
+      "Halo: Combat Evolved",
+      "Halo 2",
+      "Halo 3",
+      "Halo 3: ODST",
+      "Halo: Reach",
+      "Halo 4"
+    ],
+    "slugs": [
+      "halo-combat-evolved",
+      "halo-2",
+      "halo-3",
+      "halo-3-odst",
+      "halo-reach",
+      "halo-4"
+    ]
+  },
+  "igdb:20734": {
+    "title": "Devil May Cry HD Collection",
+    "games": [
+      "Devil May Cry",
+      "Devil May Cry 2",
+      "Devil May Cry 3: Dante's Awakening"
+    ],
+    "slugs": [
+      "devil-may-cry",
+      "devil-may-cry-2",
+      "devil-may-cry-3-dantes-awakening"
+    ]
+  },
+  "igdb:25083": {
+    "title": "LEGO Harry Potter Collection",
+    "games": [
+      "LEGO Harry Potter: Years 1-4",
+      "LEGO Harry Potter: Years 5-7"
+    ],
+    "contains": [
+      3149,
+      3150
+    ]
+  },
+  "igdb:25082": {
+    "title": "Amnesia: Collection",
+    "games": [
+      "Amnesia: The Dark Descent",
+      "Amnesia: Justine",
+      "Amnesia: A Machine for Pigs"
+    ],
+    "slugs": [
+      "amnesia-the-dark-descent",
+      "amnesia-justine",
+      "amnesia-a-machine-for-pigs"
+    ]
+  },
+  "igdb:20502": {
+    "title": "Sonic Classic Collection",
+    "games": [
+      "Sonic the Hedgehog",
+      "Sonic the Hedgehog 2",
+      "Sonic the Hedgehog 3",
+      "Sonic & Knuckles"
+    ],
+    "contains": [
+      3192,
+      4438,
+      6797,
+      9475
+    ]
+  },
+  "igdb:7470": {
+    "title": "The Tomb Raider Trilogy",
+    "games": [
+      "Tomb Raider: Legend",
+      "Tomb Raider: Anniversary",
+      "Tomb Raider: Underworld"
+    ],
+    "contains": [
+      1161,
+      1162,
+      1163
+    ]
+  },
+  "igdb:319480": {
+    "title": "Tomb Raider IV•V•VI Remastered",
+    "games": [
+      "Tomb Raider: The Last Revelation",
+      "Tomb Raider: Chronicles",
+      "Tomb Raider: The Angel of Darkness"
+    ],
+    "slugs": [
+      "tomb-raider-the-last-revelation",
+      "tomb-raider-chronicles",
+      "tomb-raider-the-angel-of-darkness"
+    ]
+  },
+  "igdb:253646": {
+    "title": "The Lara Croft Collection",
+    "games": [
+      "Lara Croft and the Guardian of Light",
+      "Lara Croft and the Temple of Osiris"
+    ],
+    "contains": [
+      769,
+      7325
+    ]
+  },
+  "igdb:191406": {
+    "title": "Portal: Companion Collection",
+    "games": [
+      "Portal",
+      "Portal 2"
+    ],
+    "contains": [
+      71,
+      72
+    ]
+  },
+  "igdb:26195": {
+    "title": "WipEout: Omega Collection",
+    "games": [
+      "WipEout HD",
+      "WipEout HD Fury",
+      "WipEout 2048"
+    ],
+    "slugs": [
+      "wipeout-hd",
+      "wipeout-hd-fury",
+      "wipeout-2048"
+    ]
+  },
+  "igdb:22549": {
+    "title": "Dr. Mario & Puzzle League",
+    "games": [
+      "Dr. Mario",
+      "Panel de Pon"
+    ],
+    "contains": [
+      3476,
+      84157
+    ]
+  },
+  "igdb:47914": {
+    "title": "Scribblenauts Collection",
+    "games": [
+      "Scribblenauts",
+      "Super Scribblenauts"
+    ],
+    "slugs": [
+      "scribblenauts",
+      "super-scribblenauts"
+    ]
+  },
+  "igdb:217909": {
+    "title": "Suikoden I & II HD Remaster",
+    "games": [
+      "Suikoden",
+      "Suikoden II"
+    ],
+    "slugs": [
+      "suikoden",
+      "suikoden-ii"
+    ]
+  },
+  "igdb:5004": {
+    "title": "Metal Slug Anthology",
+    "games": [
+      "Metal Slug",
+      "Metal Slug 2",
+      "Metal Slug X",
+      "Metal Slug 3",
+      "Metal Slug 4",
+      "Metal Slug 5",
+      "Metal Slug 6"
+    ],
+    "contains": [
+      1404,
+      1407,
+      18840,
+      1408,
+      1409,
+      1410,
+      1411
+    ]
+  }
 }

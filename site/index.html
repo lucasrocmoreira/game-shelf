@@ -614,7 +614,8 @@ function detail(g){
     if(n) extra += ` <span class="na">· ${n>=1000?(n/1000).toFixed(n>=10000?0:1)+"k":n} ${k==="backloggd"||k==="igdb_user"?"ratings":"reviews"}</span>`;
     if(k==="metacritic" && val!=null && g.mc_verified===false) extra += ` <span class="na">· re-checking</span>`;
     return `<div><span>${v.label}</span><b class="${toneSrc(k,val)}">${val??"–"}${extra}</b></div>`;
-  }).join("") + (g.playtime?`<div><span>Played</span><b>${g.playtime} h</b></div>`:"");
+  }).join("") + (g.playtime?`<div><span>Played</span><b>${g.playtime} h</b></div>`:"")
+    + (g.part_of ? `<div><span>Part of</span><b>${g.part_of.map(esc).join(", ")}</b></div>` : "");
   const links = Object.entries(g.links||{}).map(([k,u])=>`<a href="${esc(u)}" target="_blank" rel="noopener">${LINK_LABELS[k]||k}</a>`).join("");
   const people = [g.developers?.length ? `Developed by ${g.developers.map(esc).join(", ")}` : "",
                   g.publishers?.length && g.publishers.join()!==(g.developers||[]).join() ? `published by ${g.publishers.map(esc).join(", ")}` : ""].filter(Boolean).join(", ");
@@ -664,6 +665,7 @@ function gameRow(g,i){
     + ((CONSOLES[state.view] || state.view==="library") && g._catalog ? `<span class="pill">PS Plus catalog</span>` : "")
     + (g.added && (Date.now()-Date.parse(g.added)) < 30*864e5 ? `<span class="pill new">New</span>` : "")
     + (g._noint ? `<span class="pill">Not interested</span>` : "")
+    + (g.part_of ? `<span class="pill" title="Part of ${esc(g.part_of.join(", "))}">In ${esc(g.part_of[0].length>28 ? g.part_of[0].slice(0,26)+"…" : g.part_of[0])}</span>` : "")
     + (rating(g)?.split ? `<span class="pill" title="Critics and players disagree by 15+ points">critics ≠ players</span>` : "")
     + (g._played?`<span class="pill played">Played</span>`:"")
     + (g._hidden?`<span class="pill">${g._hidden==="auto"?"App, hidden":"Hidden"}</span>`:"")
