@@ -364,11 +364,11 @@ let liveEdits = false;
 const $ = id => document.getElementById(id);
 const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let RM = {map:{metacritic:[1,0],opencritic:[1.03,-2.8],igdb_critic:[0.88,10.1],backloggd:[0.85,19.6],igdb_user:[0.99,3.6],steam:[0.865,7.2]}, steam_min_reviews:10, steam_strong_reviews:500,
-  mu:78, rho:0.65, lam_igc:0.9, lam_igc_round:0.6, lam_player_single:0.88, clash_critic:8, clash_player:15, split_badge:15, tone:{hi:85, ok:75, lo:65},
+  mu:78, rho:0.65, lam_igc:0.9, lam_igc_round:0.6, lam_player_single:0.88, clash_critic:8, clash_player:15, split_badge:15, tone:{hi:91, ok:81, lo:70},
   counts:{sigma0_2:70, tau2_player:5, backloggd:{s2:230,n_ref:2600}, igdb_user:{s2:300,n_ref:43}, steam:{s2:0,n_ref:500},
     metacritic:{s2:80,n_ref:40}, igdb_critic:{s2:40,tau2:9,n_ref:4}, weak_k:0.9}};
-// 85+ green, 75-84 light green, 65-74 yellow, under 65 red
-const tone = v => v==null?"na":v>=RM.tone.hi?"hi":v>=(RM.tone.ok??75)?"ok":v>=RM.tone.lo?"mid":"lo";
+// 91+ green, 81-90 light green, 70-80 yellow, under 70 red (also "worth skipping"); judged on the number shown
+const tone = v => { if(v==null) return "na"; v = Math.round(v); return v>=RM.tone.hi?"hi":v>=(RM.tone.ok??81)?"ok":v>=RM.tone.lo?"mid":"lo"; };
 // A single source's own number, coloured as it would count on the shared (Metacritic) scale.
 const toneSrc = (k,v) => v==null ? "na" : RM.map[k] ? tone(RM.map[k][0]*v+RM.map[k][1]) : tone(v);
 const today = () => new Date().toLocaleDateString("en-CA");  // local date, YYYY-MM-DD
