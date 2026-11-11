@@ -3471,7 +3471,8 @@
      "sent": false,
      "earlier": {
       "key": "igdb:231",
-      "guide": "Half-Life"
+      "guide": "Half-Life",
+      "as": null
      }
     },
     {
@@ -3492,7 +3493,7 @@
     "igdb:339"
    ],
    "avoid": [],
-   "date": "2026-11-11T01:24:14.423Z"
+   "date": "2026-11-11T04:21:32.443Z"
   },
   "vita": {
    "slots": [
