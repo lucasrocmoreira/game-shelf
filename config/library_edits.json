@@ -3516,7 +3516,7 @@
      "key": "igdb:1384",
      "best": "igdb:1384",
      "why": [
-      "Top-rated game you haven't played (average 84)",
+      "Top-rated game you haven't played (score 86)",
       "A change of genre: Shooter, Indie",
       "Shorter than what you're playing: about 7.5h to beat"
      ],
@@ -3524,33 +3524,39 @@
      "earlier": null
     },
     {
-     "key": "igdb:7812",
-     "best": "igdb:7812",
+     "key": "igdb:1277",
+     "best": "igdb:1277",
      "why": [
-      "Top-rated game you haven't played (average 81)",
-      "A change of genre: Music, RTS",
-      "Shorter than what you're playing: about 19h to beat"
+      "Top-rated game you haven't played (score 86)",
+      "A change of genre: Puzzle, RTS",
+      "Shorter than what you're playing: about 18h to beat"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:1459",
-     "best": "igdb:1461",
+     "key": "igdb:18787",
+     "best": "igdb:18787",
      "why": [
-      "Shorter than what you're playing: about 9h to beat"
+      "Top-rated game you haven't played (score 85)",
+      "A change of genre: Racing",
+      "Shorter than what you're playing: about 14h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:18696",
+      "guide": null,
+      "as": null
+     }
     }
    ],
    "skip": [
     "igdb:1384",
-    "igdb:7812",
-    "igdb:1459"
+    "igdb:1277",
+    "igdb:18787"
    ],
    "avoid": [],
-   "date": "2026-11-11T01:24:20.280Z"
+   "date": "2026-11-11T05:16:30.045Z"
   },
   "switch2": {
    "slots": [
