@@ -3463,16 +3463,6 @@
   "ps3": {
    "slots": [
     {
-     "key": "igdb:376",
-     "best": "igdb:376",
-     "why": [
-      "Top-rated game you haven't played (average 91)",
-      "Shorter than what you're playing: about 15.5h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
      "key": "igdb:339",
      "best": "igdb:339",
      "why": [
@@ -3488,24 +3478,41 @@
      }
     },
     {
-     "key": "igdb:117882",
-     "best": "igdb:117882",
+     "key": "igdb:376",
+     "best": "igdb:376",
      "why": [
-      "Top-rated game you haven't played (average 82)",
-      "Shorter than what you're playing: about 11h to beat"
+      "Top-rated game you haven't played (score 95)",
+      "Shorter than what you're playing: about 15.5h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:20741",
+      "guide": "Metal Gear",
+      "as": "Metal Gear"
+     }
+    },
+    {
+     "key": "igdb:2671",
+     "best": "igdb:2671",
+     "why": [
+      "Top-rated game you haven't played (score 87)",
+      "Shorter than what you're playing: about 22h to beat"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:1285",
+      "guide": "Guitar Hero",
+      "as": null
+     }
     }
    ],
    "skip": [
+    "igdb:339",
     "igdb:376",
-    "igdb:1798",
-    "igdb:117882",
-    "igdb:339"
+    "igdb:2671"
    ],
    "avoid": [],
-   "date": "2026-11-11T04:21:32.443Z"
+   "date": "2026-11-11T05:16:00.650Z"
   },
   "vita": {
    "slots": [
