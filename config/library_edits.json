@@ -3409,48 +3409,56 @@
      "key": "igdb:135999",
      "best": "igdb:135999",
      "why": [
-      "Top-rated game you haven't played (score 90)",
+      "Top-rated game you haven't played (score 89)",
       "A change of genre: Music, Puzzle",
       "Shorter than what you're playing: about 8.5h to beat"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:14531",
+      "key": "igdb:86490",
       "guide": "Tetris",
       "as": null
      }
     },
     {
-     "key": "igdb:18696",
+     "key": "igdb:18699",
      "best": "igdb:18699",
      "why": [
+      "Top-rated game you haven't played (score 89)",
       "A change of genre: Racing",
-      "Shorter than what you're playing: about 2.5h to beat",
+      "Shorter than what you're playing: about 6h to beat",
       "Included with PS Plus"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:18696",
+      "guide": null,
+      "as": null
+     }
     },
     {
-     "key": "igdb:170995",
+     "key": "igdb:103298",
      "best": "igdb:103298",
      "why": [
+      "Top-rated game you haven't played (score 89)",
       "A change of genre: Shooter",
-      "Shorter than what you're playing: about 10h to beat",
-      "Included with PS Plus"
+      "Shorter than what you're playing: about 20.5h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:170995",
+      "guide": null,
+      "as": null
+     }
     }
    ],
    "skip": [
-    "igdb:86490",
-    "igdb:18696",
-    "igdb:170995",
-    "igdb:135999"
+    "igdb:135999",
+    "igdb:18699",
+    "igdb:103298"
    ],
    "avoid": [],
-   "date": "2026-11-11T04:21:16.656Z"
+   "date": "2026-11-11T05:13:22.396Z"
   },
   "ps3": {
    "slots": [
