@@ -3406,42 +3406,35 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:135999",
-     "best": "igdb:135999",
+     "key": "igdb:23377",
+     "best": "igdb:132181",
      "why": [
-      "Top-rated game you haven't played (score 89)",
-      "A change of genre: Music, Puzzle",
-      "Shorter than what you're playing: about 8.5h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:86490",
-      "guide": "Tetris",
-      "as": null
-     }
-    },
-    {
-     "key": "igdb:18696",
-     "best": "igdb:18699",
-     "why": [
-      "Comes before R4: Ridge Racer Type 4 (score 89): play this one first",
-      "Scores 78 itself",
-      "A change of genre: Racing",
-      "Shorter than what you're playing: about 2.5h to beat",
+      "Comes before Resident Evil 4 (score 94): play this one first",
+      "Scores 82 itself",
       "Included with PS Plus"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:170995",
-     "best": "igdb:103298",
+     "key": "igdb:404052",
+     "best": "igdb:404052",
      "why": [
-      "Comes before Doom Eternal (score 89): play this one first",
-      "Scores 80 itself",
-      "A change of genre: Shooter",
-      "Shorter than what you're playing: about 10h to beat",
+      "Top-rated game you haven't played (score 87)",
+      "A change of genre: Music",
+      "Shorter than what you're playing: about 4.5h to beat",
       "Included with PS Plus"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:143612",
+     "best": "igdb:143612",
+     "why": [
+      "Top-rated game you haven't played (score 88)",
+      "A change of genre: Shooter, Platform",
+      "Shorter than what you're playing: about 18.5h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3450,10 +3443,17 @@
    "skip": [
     "igdb:135999",
     "igdb:18696",
-    "igdb:170995"
+    "igdb:170995",
+    "igdb:23377",
+    "igdb:404052",
+    "igdb:143612"
    ],
-   "avoid": [],
-   "date": "2026-11-11T05:18:14.972Z"
+   "avoid": [
+    "Tetris",
+    "Ridge Racer",
+    "Doom"
+   ],
+   "date": "2026-11-11T05:18:25.204Z"
   },
   "ps3": {
    "slots": [
