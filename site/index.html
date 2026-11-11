@@ -775,26 +775,21 @@ function seriesOf(g){ return [...(g.series||[]), ...(g.franchises||[])]; }
 function earliestUnplayed(g, pool){
   // Fallback when no franchise guide covers the game. Same series (IGDB collection), or, when IGDB lists
   // no series, the same main franchise with no spin-off series of its own; must share a genre.
-  // Walks back from the game to the entry just before it: if you've played that one, nothing is said;
-  // if you don't have it or it's poorly reviewed, it looks one step further back.
+  // The earliest one you have and haven't played is mentioned.
   const yr = x=>x.orig_year||x.year;  // a 2015 port of a 1997 game counts as 1997
   if(!yr(g)) return null;
   const genres = new Set(g.genres||[]), ser = g.series||[], fr = (g.franchises||[])[0];
   const same = ser.length ? x=>(x.series||[]).some(n=>ser.includes(n))
                           : x=>!!fr && (x.franchises||[])[0]===fr && !(x.series||[]).length;
-  const ok = new Set(pool.map(x=>x.key)), seen = new Set([g.title.toLowerCase()]);
-  const prev = allGames().filter(x=>x!==g && !x._hidden && yr(x) && yr(x) < yr(g) && same(x) && (x.genres||[]).some(n=>genres.has(n)))
-    .sort((a,b)=>yr(b)-yr(a));
-  for(const x of prev){
-    if(x._played || x._playing) return null;
-    if(ok.has(x.key) && avg(x)!=null && avg(x) >= 75) return {game:x};
-  }
+  const prev = pool.filter(x=>x!==g && yr(x) && yr(x) < yr(g) && same(x) && (x.genres||[]).some(n=>genres.has(n))
+                              && avg(x)!=null && avg(x) >= 75).sort((a,b)=>yr(a)-yr(b));
+  if(prev.length) return {game:prev[0]};
   return null;
 }
 function consoleFor(g){  // the console tab a game from elsewhere can be sent to
-  if(emuOnlySteam(g)){  // emulated on Steam: send it to a real console you have it on (Switch Online), else nowhere
+  if(emuOnlySteam(g)){  // emulated on Steam: send it to a real console you have it on (Switch Online), else the Steam Machine
     const hit = Object.entries(CONSOLES).find(([k,c])=>k!=="steam" && k!==state.view && c.plats && g.platforms.some(p=>c.plats.includes(p)));
-    return hit ? hit[0] : null;
+    return hit ? hit[0] : state.view!=="steam" ? "steam" : null;  // otherwise EmuDeck on the Steam Machine
   }
   const catalogOnly = g._catalog || !((VIEWS.library.data||{}).games||[]).some(x=>x.key===g.key);
   if(catalogOnly) return state.view==="ps5" ? null : "ps5";
@@ -811,7 +806,7 @@ function sentHere(){  // suggestions sent to this console from another tab, newe
 function guidePrev(best, pool){
   /* Earlier games in best's franchise guide: same sub-series, before it, that you have (any console or
      subscription) and haven't played, not covered by a remake you played, and not worth skipping.
-     Only the nearest one counts, and only if you haven't played anything in between. */
+     The earliest such game is the one mentioned. */
   if(!FR.data || !FR.data.franchises) return null;
   if(!FR._byKey){ FR._byKey = new Map();
     for(const f of FR.data.franchises) for(const e of f.games) if(!e.spin) for(const k of e.keys) if(!FR._byKey.has(k)) FR._byKey.set(k, f); }
@@ -820,18 +815,17 @@ function guidePrev(best, pool){
   const me = G.main.find(e=>e.keys.includes(best.key)); if(!me) return null;
   const line = G.sections ? G.sections.find(s=>s.games.includes(me)).games : G.main;
   const ok = new Set(pool.map(g=>g.key));
-  // Only the entry right before the game counts (worth-skipping ones are stepped over). If you have it
-  // and haven't played it, it's mentioned; if you've played it (or its remake) or don't have it, nothing is.
   let at = line.indexOf(me);
   if(me.remake_of){ const o = line.findIndex(x=>x.id===me.remake_of); if(o>=0) at = o; }  // a remake sits where the original did
-  for(const e of line.slice(0, at).reverse()){
-    if(e.skip && e.status!=="played") continue;  // poorly reviewed: fine to skip over
-    if(e.status==="played" || e.status==="playing" || e.coveredBy) return null;
-    if((e.status==="owned"||e.status==="sub") && e.row && ok.has(e.row.key))
-      return {game: e.row, guide: f.name, as: e.row.title.includes(e.title) ? null : e.title};
-    return null;  // the game right before isn't in your library: nothing to send
-  }
+  // The first game in the series you have (any console or subscription) and haven't played.
+  const e = line.slice(0, at).find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip && e.row && ok.has(e.row.key));
+  if(e) return {game: e.row, guide: f.name, as: sameGame(e.title, e.row.title) ? null : e.title};
   return null;
+}
+function sameGame(a, b){  // "Final Fantasy VI" vs "Final Fantasy VI Advance": same game; vs "Metal Gear Solid HD Collection": a collection
+  const n = x=>x.toLowerCase().replace(/[^a-z0-9]+/g," ").trim(); a = n(a); b = n(b);
+  const [s, l] = a.length <= b.length ? [a, b] : [b, a];
+  return l.startsWith(s) && l.length - s.length <= 10;
 }
 function whereIs(g){
   const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
@@ -955,7 +949,7 @@ function openSuggest(mode){
       <span><b>${esc(g.title)}</b><span class="na">${[esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" · ")}</span><ul>${why.map(w=>`<li>${esc(w)}</li>`).join("")}</ul>
         ${p.earlier ? (()=>{ const e = p.earlier.game, here = DATA.games.some(y=>y.key===e.key), to = here ? null : consoleFor(e);
           const where = here ? "this console" : to ? CONSOLES[to].label + (to==="switch2" && (e.nso || e.emu) && !e.platforms.some(x=>x==="Switch"&&!e.nso&&!e.emu) ? " (Switch Online)" : to==="steam" && e.emu ? " (EmuDeck)" : e._catalog ? " (PS Plus)" : "") : e.platforms.join(" / ");
-          return `<span class="earlier">But play <b>${esc(p.earlier.as||e.title)}</b>${p.earlier.as?` (in ${esc(e.title)})`:""}${avg(e)!=null?` <span class="${tone(avg(e))}">(${avg(e)})</span>`:""} on ${esc(where)} first. It comes right before this one${p.earlier.guide?` in the ${esc(p.earlier.guide.replace(/^The /,""))} series`:""}.
+          return `<span class="earlier">But play <b>${esc(p.earlier.as||e.title)}</b>${p.earlier.as?` (in ${esc(e.title)})`:""}${avg(e)!=null?` <span class="${tone(avg(e))}">(${avg(e)})</span>`:""} on ${esc(where)} first. It's the first game${p.earlier.guide?` in the ${esc(p.earlier.guide.replace(/^The /,""))} series`:" in the series"} you haven't played.
             ${to ? `<button type="button" class="iconbtn swap" data-send-earlier="${i}">Send to ${esc(CONSOLES[to].label)}</button>` : ""}</span>`; })() : ""}</span>
       <span class="pick-side"><span class="score ${tone(a)}">${a??"–"}</span>
         <button type="button" class="iconbtn swap" data-swap="${i}" aria-label="Replace ${esc(g.title)} with another suggestion">↻ Replace</button>
