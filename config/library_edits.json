@@ -3409,9 +3409,10 @@
      "key": "igdb:135999",
      "best": "igdb:135999",
      "why": [
-      "Top-rated game you haven't played (score 89)",
+      "Top-rated game you haven't played here (score 89)",
+      "2010s pick (2018)",
       "A change of genre: Music, Puzzle",
-      "Shorter than what you're playing: about 8.5h to beat"
+      "Not another long one: about 8.5h to beat"
      ],
      "sent": false,
      "earlier": {
@@ -3426,22 +3427,22 @@
      "why": [
       "Comes before R4: Ridge Racer Type 4 (score 89): play this one first",
       "Scores 78 itself",
+      "Retro pick (1993)",
       "A change of genre: Racing",
-      "Shorter than what you're playing: about 2.5h to beat",
+      "Not another long one: about 2.5h to beat",
       "Included with PS Plus"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:170995",
-     "best": "igdb:103298",
+     "key": "igdb:143612",
+     "best": "igdb:143612",
      "why": [
-      "Comes before Doom Eternal (score 89): play this one first",
-      "Scores 80 itself",
-      "A change of genre: Shooter",
-      "Shorter than what you're playing: about 10h to beat",
-      "Included with PS Plus"
+      "Top-rated game you haven't played here (score 88)",
+      "Modern pick (2022)",
+      "A change of genre: Shooter, Platform",
+      "Not another long one: about 18.5h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3450,10 +3451,10 @@
    "skip": [
     "igdb:135999",
     "igdb:18696",
-    "igdb:170995"
+    "igdb:143612"
    ],
    "avoid": [],
-   "date": "2026-11-11T05:18:33.893Z"
+   "date": "2026-11-11T13:49:04.734Z"
   },
   "ps3": {
    "slots": [
