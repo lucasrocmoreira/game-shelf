@@ -3672,59 +3672,58 @@
   "3ds": {
    "slots": [
     {
-     "key": "igdb:19131",
-     "best": "igdb:19131",
+     "key": "igdb:1039",
+     "best": "igdb:1039",
      "why": [
-      "Top-rated game you haven't played (average 84)",
-      "A change of genre: RPG, Strategy",
-      "A longer one this time: about 57h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:3665",
-     "best": "igdb:3665",
-     "why": [
-      "Top-rated game you haven't played (average 84)",
-      "A change of genre: Shooter, Hack and slash",
-      "About 27h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:18220",
-     "best": "igdb:18220",
-     "why": [
-      "Top-rated game you haven't played (score 84)",
-      "A change of genre: Music",
-      "Shorter than what you're playing: about 17h to beat"
+      "Top-rated game you haven't played here (score 94)",
+      "2010s pick (2011)",
+      "About 31.5h to beat"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:6557",
-      "guide": null,
+      "key": "igdb:1026",
+      "guide": "The Legend of Zelda",
+      "as": null
+     }
+    },
+    {
+     "key": "igdb:145528",
+     "best": "igdb:145528",
+     "why": [
+      "Top-rated game you haven't played here (score 90)",
+      "Retro pick (2004)",
+      "About 76.5h to beat"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:205595",
+      "guide": "Dragon Quest",
+      "as": "Dragon Quest V"
+     }
+    },
+    {
+     "key": "igdb:2687",
+     "best": "igdb:2687",
+     "why": [
+      "Top-rated game you haven't played here (score 89)",
+      "2010s pick (2012)",
+      "About 190h to beat"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:2645",
+      "guide": "Animal Crossing",
       "as": null
      }
     }
    ],
    "skip": [
-    "igdb:1439",
-    "igdb:2645",
-    "igdb:9543",
-    "igdb:19131",
-    "igdb:1626",
-    "igdb:3665",
-    "igdb:18220"
+    "igdb:1039",
+    "igdb:145528",
+    "igdb:2687"
    ],
-   "avoid": [
-    "Fire Emblem",
-    "Animal Crossing",
-    "Mario Bros.",
-    "Super Smash Bros."
-   ],
-   "date": "2026-11-11T04:21:59.703Z"
+   "avoid": [],
+   "date": "2026-11-11T13:52:06.208Z"
   },
   "wii": {
    "slots": [
