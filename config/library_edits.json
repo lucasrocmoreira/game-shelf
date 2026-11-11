@@ -3402,46 +3402,50 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:86490",
+     "key": "igdb:135999",
      "best": "igdb:135999",
      "why": [
-      "Play this game to get to the amazing Tetris Effect: Connected (90). It's the earliest Tetris game you haven't played.",
-      "Not on this console: Switch Online (Switch + Game Boy)",
-      "A change of genre: Puzzle",
-      "Shorter than what you're playing: about 5.5h to beat"
+      "Top-rated game you haven't played (score 90)",
+      "A change of genre: Music, Puzzle",
+      "Shorter than what you're playing: about 8.5h to beat"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": {
+      "key": "igdb:14531",
+      "guide": "Tetris"
+     }
     },
     {
      "key": "igdb:18696",
      "best": "igdb:18699",
      "why": [
-      "Play this game to get to the amazing R4: Ridge Racer Type 4 (89). It's the earliest entry in the series you haven't played.",
       "A change of genre: Racing",
       "Shorter than what you're playing: about 2.5h to beat",
       "Included with PS Plus"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     },
     {
      "key": "igdb:170995",
      "best": "igdb:103298",
      "why": [
-      "Play this game to get to the amazing Doom Eternal (89). It's the earliest entry in the series you haven't played.",
       "A change of genre: Shooter",
       "Shorter than what you're playing: about 10h to beat",
       "Included with PS Plus"
      ],
-     "sent": false
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
     "igdb:86490",
     "igdb:18696",
-    "igdb:170995"
+    "igdb:170995",
+    "igdb:135999"
    ],
    "avoid": [],
-   "date": "2026-11-10T19:20:26.423Z"
+   "date": "2026-11-11T01:19:11.337Z"
   },
   "ps3": {
    "slots": [
