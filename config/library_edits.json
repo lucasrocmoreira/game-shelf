@@ -3717,55 +3717,57 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:2259",
-     "best": "igdb:2259",
-     "why": [
-      "Top-rated game you haven't played (average 78)",
-      "A change of genre: Music, Puzzle",
-      "Shorter than what you're playing: about 13.5h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
      "key": "igdb:1468",
      "best": "igdb:1468",
      "why": [
-      "Top-rated game you haven't played (score 87)",
+      "Top-rated game you haven't played (score 88)",
       "A change of genre: Shooter",
       "Shorter than what you're playing: about 8.5h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:1467",
+      "guide": null,
+      "as": null
+     }
     },
     {
-     "key": "igdb:84696",
-     "best": "igdb:84697",
+     "key": "igdb:5122",
+     "best": "igdb:5122",
      "why": [
-      "Shorter than what you're playing: about 8h to beat"
+      "Top-rated game you haven't played (score 87)",
+      "A change of genre: Music",
+      "Shorter than what you're playing: about 11h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:6557",
+      "guide": null,
+      "as": null
+     }
+    },
+    {
+     "key": "igdb:1033",
+     "best": "igdb:1033",
+     "why": [
+      "Top-rated game you haven't played (score 94)",
+      "Shorter than what you're playing: about 32.5h to beat"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:1026",
+      "guide": "The Legend of Zelda",
+      "as": null
+     }
     }
    ],
    "skip": [
-    "igdb:6557",
-    "igdb:1467",
-    "igdb:1026",
-    "igdb:2259",
-    "igdb:2195",
-    "igdb:84696",
-    "igdb:1468"
+    "igdb:1468",
+    "igdb:5122",
+    "igdb:1033"
    ],
-   "avoid": [
-    "Rhythm Heaven",
-    "The Legend of Zelda: A Link to the Past",
-    "The Legend of Zelda",
-    "The Legend of Zelda: The Wind Waker",
-    "Punch-Out!!",
-    "Mike Tyson"
-   ],
-   "date": "2026-11-11T01:24:36.660Z"
+   "avoid": [],
+   "date": "2026-11-11T05:17:18.035Z"
   }
  },
  "noint": {
