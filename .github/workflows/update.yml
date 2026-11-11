@@ -32,6 +32,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # always the latest data: a queued run must not start from (and save back) an older cache
 
       - uses: actions/setup-python@v5
         with:
