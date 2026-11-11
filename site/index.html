@@ -364,7 +364,9 @@ let liveEdits = false;
 const $ = id => document.getElementById(id);
 const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let RM = {map:{metacritic:[1,0],opencritic:[1.03,-2.8],igdb_critic:[0.88,10.1],backloggd:[0.85,19.6],igdb_user:[0.99,3.6],steam:[0.865,7.2]}, steam_min_reviews:10, steam_strong_reviews:500,
-  mu:78, rho:0.65, lam_igc:0.9, lam_igc_round:0.6, lam_player_single:0.88, clash_critic:8, clash_player:15, split_badge:15, tone:{hi:85, lo:70}};
+  mu:78, rho:0.65, lam_igc:0.9, lam_igc_round:0.6, lam_player_single:0.88, clash_critic:8, clash_player:15, split_badge:15, tone:{hi:85, lo:70},
+  counts:{sigma0_2:70, tau2_player:5, backloggd:{s2:230,n_ref:2600}, igdb_user:{s2:300,n_ref:43}, steam:{s2:0,n_ref:500},
+    metacritic:{s2:80,n_ref:40}, igdb_critic:{s2:40,tau2:9,n_ref:4}, weak_k:0.9}};
 const tone = v => v==null?"na":v>=RM.tone.hi?"hi":v>=RM.tone.lo?"mid":"lo";
 // A single source's own number, coloured as it would count on the shared (Metacritic) scale.
 const toneSrc = (k,v) => v==null ? "na" : RM.map[k] ? tone(RM.map[k][0]*v+RM.map[k][1]) : tone(v);
@@ -457,7 +459,7 @@ const CRITICS = ["metacritic","opencritic","igdb_critic"], PLAYERS = ["backloggd
 // Steam % positive adjusted for how many reviews it rests on (SteamDB's rating): few reviews pull it to 50%.
 const steamdb = (pct, n) => { const a = pct/100; return 100*(a - (a-0.5)*Math.pow(2, -Math.log10(n+1))); };
 function rateGame(scores, on, counts){
-  const M = RM, mu = M.mu, notes = [], m = (k,x)=>M.map[k][0]*x+M.map[k][1];
+  const M = RM, K = M.counts, mu = M.mu, notes = [], m = (k,x)=>M.map[k][0]*x+M.map[k][1];
   const v = {}; for(const k of [...CRITICS,...PLAYERS]) if(on.has(k) && typeof scores[k]==="number") v[k] = scores[k];
   const mc = v.metacritic ?? null, oc = v.opencritic ?? null, oc_ = oc!=null ? m("opencritic",oc) : null;
   const igc = v.igdb_critic ?? null, igc_ = igc!=null ? m("igdb_critic",igc) : null;
@@ -466,7 +468,13 @@ function rateGame(scores, on, counts){
     if(Math.abs(mc-oc_) >= M.clash_critic && igc_!=null){ C = [mc,oc_,igc_].sort((a,b)=>a-b)[1]; notes.push("Metacritic and OpenCritic disagree, so the middle of the three critic scores is used"); }
     else C = (mc+oc_)/2;
   } else if(mc!=null || oc_!=null) C = mc!=null ? mc : oc_;
-  else if(igc_!=null){ const lam = igc%10===0 ? M.lam_igc_round : M.lam_igc; C = mu + lam*(igc_-mu); cWeak = true; }
+  else if(igc_!=null){ const n = (counts||{}).igdb_critic||0, q = K.igdb_critic;
+    const lam = n ? K.sigma0_2/(K.sigma0_2 + q.tau2 + q.s2/n) : (igc%10===0 ? M.lam_igc_round : M.lam_igc);
+    C = mu + lam*(igc_-mu); cWeak = true; }
+  const nMc = (counts||{}).metacritic||0;
+  if(C!=null && !cWeak && mc!=null && nMc){ const q = K.metacritic, V = Math.max(0, q.s2/nMc - q.s2/q.n_ref), k = K.sigma0_2/(K.sigma0_2+V);
+    C = mu + k*(C-mu);
+    if(k < K.weak_k){ cWeak = true; notes.push(`Metacritic rests on only ${nMc} reviews, so the critic side is pulled toward the average`); } }
   if(igc!=null && (mc!=null || oc!=null)) notes.push(`IGDB critics ${Math.round(igc)}: not used, Metacritic/OpenCritic available`);
   counts = counts||{};
   const pl = {};
@@ -483,11 +491,19 @@ function rateGame(scores, on, counts){
       if(!(far==="steam" && stN >= (M.steam_strong_reviews??500))){  // hundreds of Steam reviews always count
         notes.push(`${names[far]} ${raw(far)}: set aside, disagrees with the other player scores`); delete pl[far]; } }
   }
-  let P = null, pWeak = false; const left = Object.entries(pl);
-  if(left.length>=2) P = left.reduce((a,[,x])=>a+x,0)/left.length;
-  else if(left.length===1){ const [k,x] = left[0];
-    if(k==="steam" && stN >= (M.steam_strong_reviews??500)) P = x;  // hundreds of Steam reviews are a solid verdict on their own
-    else { P = mu + M.lam_player_single*(x-mu); pWeak = true; } }
+  let P = null, pWeak = false; const left = Object.keys(pl);  // each source weighted by its rating count; thin ones pulled toward mu
+  if(left.length){
+    const ns = {}, w = {}; for(const k of left){ ns[k] = k==="steam" ? stN : (counts[k]||K[k].n_ref); w[k] = 1/(K.tau2_player + K[k].s2/Math.max(ns[k],1)); }
+    let W = 0, S = 0, V = 0; for(const k of left){ W += w[k]; S += w[k]*pl[k]; }
+    P = S/W;
+    for(const k of left) V += w[k]**2 * Math.max(0, K[k].s2/Math.max(ns[k],1) - K[k].s2/K[k].n_ref);
+    V /= W**2;
+    if(left.length===1 && !("steam" in pl && stN >= (M.steam_strong_reviews??500))) V += K.tau2_player;
+    const k = K.sigma0_2/(K.sigma0_2+V);
+    P = mu + k*(P-mu); pWeak = k < K.weak_k;
+    const thin = left.filter(k2=>k2!=="steam" && counts[k2] && counts[k2] < K[k2].n_ref/4);
+    if(pWeak && thin.length) notes.push(thin.map(k2=>`${names[k2]} rests on only ${counts[k2]} ratings`).join(" and ") + ", so the player side is pulled toward the average");
+  }
   const cOn = CRITICS.some(k=>on.has(k)), pOn = PLAYERS.some(k=>on.has(k));
   if(C==null && P==null) return null;
   let cEst = false, pEst = false;
@@ -511,7 +527,8 @@ function scoreText(g){ const r = rating(g); if(!r) return "–"; return (r.conf=
 function pillarLine(g){
   const r = rating(g); if(!r) return "";
   const side = (name, x, est, weak, why) => x==null ? "" : `${name} ${est?"~":""}${Math.round(x)}${est?" est.":weak?` <span class="na">(${why})</span>`:""}`;
-  const cWhy = "IGDB, few reviews", pWhy = typeof g.scores.backloggd==="number" && state.srcOn.has("backloggd") ? "Backloggd only" : typeof g.scores.igdb_user==="number" && state.srcOn.has("igdb_user") ? "IGDB only" : "few Steam reviews";
+  const usedMc = typeof g.scores.metacritic==="number" && state.srcOn.has("metacritic");
+  const cWhy = usedMc ? "few reviews" : "IGDB, few reviews", pWhy = "few ratings";
   return [side("Critics", r.C, r.cEst, r.cWeak, cWhy), side("Players", r.P, r.pEst, r.pWeak, pWhy)].filter(Boolean).join(" · ");
 }
 function value(g,key){
@@ -1495,7 +1512,7 @@ async function loadView(v){
   if(!VIEWS[v].data){
     VIEWS[v].data = await fetch(VIEWS[v].file,{cache:"no-store"}).then(r=>r.ok?r.json():{games:[]}).catch(()=>({games:[]}));
     const d = VIEWS[v].data;
-    if(d.rating_model){ RM = d.rating_model; RATE_KEY = String(RM.version); }
+    if(d.rating_model && d.rating_model.counts){ RM = d.rating_model; RATE_KEY = String(RM.version); }
     // The page's copy of the formula must match the build's (pipeline/rating.py).
     const all = new Set([...CRITICS,...PLAYERS]), off = (d.games||[]).filter(g=>g.rating && Math.abs((rateGame(g.scores,all,g.counts)||{}).score - g.rating.score) > 0.15);
     if(off.length) console.warn(`Score formula out of step with the build for ${off.length} games, e.g.`, off[0].title, off[0].rating, rateGame(off[0].scores, all, off[0].counts));

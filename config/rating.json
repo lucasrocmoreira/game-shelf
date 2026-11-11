@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "note": "Two-pillar score (council decision, Nov 2026). Every source is mapped onto the Metacritic scale (a*x+b); critics and players are combined separately, and the score is their midpoint. Refit with care: see pipeline/rating.py. Steam: % positive is first adjusted for review count (SteamDB's formula), then mapped (fitted Nov 2026 on 101 games with 500+ reviews); with 500+ reviews it counts as a full player source on its own. Steam with 500+ reviews is never set aside as an outlier.",
   "map": {
     "metacritic": [
@@ -40,5 +40,32 @@
     "lo": 70
   },
   "steam_min_reviews": 10,
-  "steam_strong_reviews": 500
+  "steam_strong_reviews": 500,
+  "counts": {
+    "note": "Count weighting (Nov 2026): a source's noise is s2/n on the Metacritic scale. Scores resting on fewer ratings than the typical game (n_ref, the median) are pulled toward mu; at or above n_ref nothing moves. Player sources are weighted by 1/(tau2 + s2/n). Steam's count is already handled by the SteamDB adjustment (s2 0).",
+    "sigma0_2": 70,
+    "tau2_player": 5,
+    "backloggd": {
+      "s2": 230,
+      "n_ref": 2600
+    },
+    "igdb_user": {
+      "s2": 300,
+      "n_ref": 43
+    },
+    "steam": {
+      "s2": 0,
+      "n_ref": 500
+    },
+    "metacritic": {
+      "s2": 80,
+      "n_ref": 40
+    },
+    "igdb_critic": {
+      "s2": 40,
+      "tau2": 9,
+      "n_ref": 4
+    },
+    "weak_k": 0.9
+  }
 }

@@ -1,8 +1,8 @@
 """The shelf's score: a "two-pillar midpoint" (decided by the rating council, Nov 2026).
 
 Every source is put on the Metacritic scale with a fixed linear map. Critics (Metacritic and
-OpenCritic, which share most reviews; IGDB critics only when neither exists) and players (Backloggd
-and IGDB users) are combined separately, and the score is the midpoint of the two. A side with no
+OpenCritic, which share most reviews; IGDB critics only when neither exists) and players (Backloggd,
+IGDB users and Steam) are combined separately, each source weighted by how many ratings it rests on, and the score is the midpoint of the two. A side with no
 data is estimated from the other and labelled "est."; a side the user switched off is left out.
 
 site/index.html has a line-for-line copy of compute() (function rateGame) so the source toggles
@@ -35,6 +35,7 @@ def compute(scores, on=None, model=None, counts=None):
     on = set(on) if on is not None else set(CRITICS + PLAYERS)
     v = {k: scores.get(k) for k in CRITICS + PLAYERS if k in on and isinstance(scores.get(k), (int, float))}
     mu, notes = M["mu"], []
+    K = M["counts"]
 
     # Critics
     mc, oc = v.get("metacritic"), v.get("opencritic")
@@ -51,8 +52,22 @@ def compute(scores, on=None, model=None, counts=None):
     elif mc is not None or oc_ is not None:
         C = mc if mc is not None else oc_
     elif igc_ is not None:
-        lam = M["lam_igc_round"] if igc % 10 == 0 else M["lam_igc"]
+        n = (counts or {}).get("igdb_critic") or 0
+        if n:
+            q = K["igdb_critic"]
+            lam = K["sigma0_2"] / (K["sigma0_2"] + q["tau2"] + q["s2"] / n)
+        else:
+            lam = M["lam_igc_round"] if igc % 10 == 0 else M["lam_igc"]
         C, c_weak = mu + lam * (igc_ - mu), True
+    n_mc = (counts or {}).get("metacritic") or 0
+    if C is not None and not c_weak and mc is not None and n_mc:
+        q = K["metacritic"]
+        V = max(0.0, q["s2"] / n_mc - q["s2"] / q["n_ref"])
+        k = K["sigma0_2"] / (K["sigma0_2"] + V)
+        C = mu + k * (C - mu)
+        if k < K["weak_k"]:
+            c_weak = True
+            notes.append(f"Metacritic rests on only {n_mc} reviews, so the critic side is pulled toward the average")
     if igc is not None and (mc is not None or oc is not None):
         notes.append(f"IGDB critics {round(igc)}: not used, Metacritic/OpenCritic available")
 
@@ -80,15 +95,22 @@ def compute(scores, on=None, model=None, counts=None):
             if not (far == "steam" and st_n >= M.get("steam_strong_reviews", 500)):  # hundreds of Steam reviews always count
                 notes.append(f"{names[far]} {raw(far)}: set aside, disagrees with the other player scores")
                 del pl[far]
+    # Each remaining player source is weighted by how many ratings it rests on; thin ones are pulled toward mu.
     P, p_weak = None, False
-    if len(pl) >= 2:
-        P = sum(pl.values()) / len(pl)
-    elif pl:
-        (k, x), = pl.items()
-        if k == "steam" and st_n >= M.get("steam_strong_reviews", 500):
-            P = x  # hundreds of Steam reviews are a solid player verdict on their own
-        else:
-            P, p_weak = mu + M["lam_player_single"] * (x - mu), True
+    if pl:
+        ns = {k: (st_n if k == "steam" else counts.get(k) or K[k]["n_ref"]) for k in pl}
+        w = {k: 1 / (K["tau2_player"] + K[k]["s2"] / max(ns[k], 1)) for k in pl}
+        W = sum(w.values())
+        P = sum(w[k] * pl[k] for k in pl) / W
+        V = sum(w[k] ** 2 * max(0.0, K[k]["s2"] / max(ns[k], 1) - K[k]["s2"] / K[k]["n_ref"]) for k in pl) / W ** 2
+        if len(pl) == 1 and not ("steam" in pl and st_n >= M.get("steam_strong_reviews", 500)):
+            V += K["tau2_player"]  # one source is a narrower view of players than two or three
+        k = K["sigma0_2"] / (K["sigma0_2"] + V)
+        P = mu + k * (P - mu)
+        p_weak = k < K["weak_k"]
+        thin = [k2 for k2 in pl if k2 != "steam" and counts.get(k2) and counts[k2] < K[k2]["n_ref"] / 4]
+        if p_weak and thin:
+            notes.append(" and ".join(f"{names[k2]} rests on only {counts[k2]} ratings" for k2 in thin) + ", so the player side is pulled toward the average")
 
     c_on = any(k in on for k in CRITICS)
     p_on = any(k in on for k in PLAYERS)
