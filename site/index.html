@@ -792,7 +792,7 @@ function earliestUnplayed(g, pool){
   const same = ser.length ? x=>(x.series||[]).some(n=>ser.includes(n))
                           : x=>!!fr && (x.franchises||[])[0]===fr && !(x.series||[]).length;
   const prev = pool.filter(x=>x!==g && yr(x) && yr(x) < yr(g) && same(x) && (x.genres||[]).some(n=>genres.has(n))
-                              && avg(x)!=null && avg(x) >= 75).sort((a,b)=>yr(a)-yr(b));
+                              && avg(x)!=null && avg(x) >= RM.tone.lo).sort((a,b)=>yr(a)-yr(b));
   if(prev.length) return {game:prev[0]};
   return null;
 }
@@ -896,8 +896,17 @@ function suggestions(keep=[null,null,null]){
     // The pick is always a game on this console. If an earlier game in its series is still unplayed
     // (on any console), it's mentioned under the pick with a button to send it where you can play it.
     const prev = guidePrev(best, everywhere) || earliestUnplayed(best, everywhere);
-    why.push(`Top-rated game you haven't played (score ${avg(game)})`);
-    const earlier = prev ? {game: prev.game, guide: prev.guide, as: prev.as||null} : null;
+    let earlier = null;
+    if(prev && inTab.has(prev.game.key)){
+      // The earlier game is on this console: it becomes the pick, and the game it leads to is the reason.
+      game = prev.game;
+      why.push(`Comes before ${best.title} (score ${avg(best)})${prev.guide?` in the ${prev.guide.replace(/^The /,"")} series`:""}: play this one first`);
+      if(avg(game)!=null) why.push(`Scores ${avg(game)} itself`);
+    } else {
+      why.push(`Top-rated game you haven't played (score ${avg(game)})`);
+      // On another console: the pick stays, with a note and a button to send the earlier game there.
+      if(prev) earlier = {game: prev.game, guide: prev.guide, as: prev.as||null};
+    }
     const others = (game.genres||[]).filter(x=>!curGenres.has(x));
     if(current.length && others.length && !(game.genres||[]).some(x=>curGenres.has(x))) why.push(`A change of genre: ${others.slice(0,2).join(", ")}`);
     const h = beat(game);
@@ -934,6 +943,7 @@ function openSuggest(mode){
       const inTab = DATA.games.some(y=>y.key===g.key) || x.sent;
       if(!inTab) return null;  // an older save that suggested an earlier game from another console: pick again
       const e = x.earlier && byKey.get(x.earlier.key);
+      if(e && DATA.games.some(y=>y.key===e.key) && !e._played && !e._noint) return null;  // older save: the earlier game here should be the pick
       return {game:g, best:byKey.get(x.best)||g, why:(x.why||[]).filter(w=>!/^Play this game to get to|^Not on this console/.test(w)), sent:!!x.sent,
               earlier: e && !e._played && !e._playing && !e._hidden && !e._noint ? {game:e, guide:x.earlier.guide, as:x.earlier.as||null} : null}; });
     for(const p of sentHere()) if(!SUGGEST.slots.some(x=>x && x.game.key===p.game.key)){  // newly sent games go first
