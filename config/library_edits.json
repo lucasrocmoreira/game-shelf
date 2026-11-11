@@ -3373,27 +3373,30 @@
      "key": "igdb:158983",
      "best": "igdb:158983",
      "why": [
-      "Sent here from your Switch 2 suggestions"
+      "Sent here from your Switch 2 suggestions",
+      "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played."
      ],
      "sent": true,
      "earlier": null
     },
     {
-     "key": "igdb:231",
-     "best": "igdb:233",
+     "key": "igdb:72",
+     "best": "igdb:72",
      "why": [
-      "Shorter than what you're playing: about 14h to beat"
+      "Top-rated game you haven't played here (score 95)",
+      "2010s pick (2011)",
+      "About 14h to beat"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:28981",
-     "best": "igdb:28981",
+     "key": "igdb:147519",
+     "best": "igdb:147519",
      "why": [
-      "Top-rated game you haven't played (average 86)",
-      "A change of genre: RTS, Strategy",
-      "Shorter than what you're playing: about 24h to beat"
+      "Top-rated game you haven't played here (score 88)",
+      "Modern pick (2023)",
+      "About 106h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3401,11 +3404,11 @@
    ],
    "skip": [
     "igdb:158983",
-    "igdb:231",
-    "igdb:28981"
+    "igdb:72",
+    "igdb:147519"
    ],
    "avoid": [],
-   "date": "2026-11-11T04:22:27.288Z"
+   "date": "2026-11-11T13:52:11.868Z"
   },
   "ps5": {
    "slots": [
