@@ -405130,6 +405130,1439 @@
   "name": "Streets of Rage",
   "v": 4
  },
+ "834": {
+  "checked": "2026-11-11T14:07:36+00:00",
+  "games": [
+   {
+    "cover": {
+     "id": 494684,
+     "image_id": "coalp8"
+    },
+    "first_release_date": 1552003200,
+    "franchises": [
+     834
+    ],
+    "game_type": 13,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 370873,
+    "name": "Devil May Cry 5: Mega Buster",
+    "parent_game": 76253,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "devil-may-cry-5-mega-buster"
+   },
+   {
+    "cover": {
+     "id": 213403,
+     "image_id": "co4knv"
+    },
+    "first_release_date": 1046131200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "id": 43409,
+    "name": "Devil May Cry 2: Limited Edition",
+    "platforms": [
+     8
+    ],
+    "slug": "devil-may-cry-2-limited-edition",
+    "version_parent": 135
+   },
+   {
+    "bundles": [
+     218404
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 247967,
+     "image_id": "co5bbz"
+    },
+    "first_release_date": 1582156800,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 218390,
+    "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "parent_game": 222656,
+    "platforms": [
+     130
+    ],
+    "rating": 81.1910669975186,
+    "rating_count": 6,
+    "slug": "devil-may-cry-3-dantes-awakening-special-edition--1",
+    "total_rating_count": 6
+   },
+   {
+    "cover": {
+     "id": 254411,
+     "image_id": "co5gaz"
+    },
+    "first_release_date": 1582156800,
+    "franchises": [
+     834
+    ],
+    "game_type": 3,
+    "genres": [
+     8,
+     25
+    ],
+    "id": 218404,
+    "name": "Devil May Cry Triple Pack",
+    "platforms": [
+     130
+    ],
+    "slug": "devil-may-cry-triple-pack"
+   },
+   {
+    "aggregated_rating": 68.14285714285714,
+    "aggregated_rating_count": 7,
+    "collections": [
+     {
+      "id": 6310,
+      "name": "Project X Zone"
+     }
+    ],
+    "cover": {
+     "id": 91245,
+     "image_id": "co1yel"
+    },
+    "first_release_date": 1349913600,
+    "franchises": [
+     792,
+     29,
+     38,
+     834,
+     1080
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24,
+     31
+    ],
+    "id": 6864,
+    "name": "Project X Zone",
+    "platforms": [
+     37
+    ],
+    "rating": 74.83122003948904,
+    "rating_count": 13,
+    "slug": "project-x-zone",
+    "total_rating_count": 20
+   },
+   {
+    "aggregated_rating": 75.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 3445,
+      "name": "Puzzle Fighter"
+     }
+    ],
+    "cover": {
+     "id": 103570,
+     "image_id": "co27wy"
+    },
+    "first_release_date": 1506470400,
+    "franchises": [
+     792,
+     834,
+     6578,
+     38,
+     29,
+     1082,
+     2104,
+     1080
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     9,
+     12
+    ],
+    "id": 55280,
+    "name": "Puzzle Fighter",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "puzzle-fighter",
+    "total_rating_count": 1
+   },
+   {
+    "bundles": [
+     20734
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 262886,
+     "image_id": "co5mue"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 222656,
+    "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "parent_game": 20545,
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 86.39209195441919,
+    "rating_count": 33,
+    "slug": "devil-may-cry-3-dantes-awakening-special-edition--2",
+    "total_rating_count": 33
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 427632,
+     "image_id": "co95yo"
+    },
+    "first_release_date": 1230681600,
+    "franchises": [
+     834
+    ],
+    "game_type": 11,
+    "genres": [
+     25
+    ],
+    "id": 302713,
+    "name": "Devil May Cry",
+    "parent_game": 136,
+    "platforms": [
+     55
+    ],
+    "slug": "devil-may-cry--3"
+   },
+   {
+    "aggregated_rating": 66.4,
+    "aggregated_rating_count": 5,
+    "cover": {
+     "id": 189429,
+     "image_id": "co425x"
+    },
+    "first_release_date": 1362441600,
+    "franchises": [
+     834
+    ],
+    "game_type": 1,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 21024,
+    "name": "DmC: Devil May Cry - Vergil's Downfall",
+    "parent_game": 1254,
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 73.42931220431633,
+    "rating_count": 26,
+    "slug": "dmc-devil-may-cry-vergils-downfall",
+    "total_rating_count": 31
+   },
+   {
+    "cover": {
+     "id": 369407,
+     "image_id": "co7x1b"
+    },
+    "first_release_date": 1387238400,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "id": 62352,
+    "name": "Pachi-Slot Devil May Cry 4",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "pachi-slot-devil-may-cry-4"
+   },
+   {
+    "cover": {
+     "id": 58456,
+     "image_id": "ze8huqkmh8g3jchqk83l"
+    },
+    "first_release_date": 1467676800,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "id": 82385,
+    "name": "Devil May Cry 4 Special Edition Demon Hunter Bundle",
+    "platforms": [
+     49
+    ],
+    "rating": 90.0,
+    "rating_count": 0,
+    "slug": "devil-may-cry-4-special-edition-demon-hunter-bundle",
+    "total_rating_count": 0
+   },
+   {
+    "aggregated_rating": 85.0,
+    "aggregated_rating_count": 4,
+    "bundles": [
+     44672
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 436183,
+     "image_id": "co9ck7"
+    },
+    "first_release_date": 998524800,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 134,
+    "name": "Devil May Cry",
+    "platforms": [
+     8
+    ],
+    "rating": 81.00240321759247,
+    "rating_count": 381,
+    "slug": "devil-may-cry",
+    "total_rating_count": 385
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 369406,
+     "image_id": "co7x1a"
+    },
+    "first_release_date": 1296691200,
+    "franchises": [
+     834
+    ],
+    "game_type": 11,
+    "genres": [
+     25
+    ],
+    "id": 76843,
+    "name": "Devil May Cry 4 Refrain",
+    "parent_game": 112,
+    "platforms": [
+     39
+    ],
+    "slug": "devil-may-cry-4-refrain"
+   },
+   {
+    "aggregated_rating": 88.0,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 1104,
+      "name": "Marvel vs. Capcom"
+     },
+     {
+      "id": 3746,
+      "name": "Capcom Versus"
+     }
+    ],
+    "cover": {
+     "id": 91227,
+     "image_id": "co1ye3"
+    },
+    "first_release_date": 1297728000,
+    "franchises": [
+     124,
+     792,
+     29,
+     1082,
+     238,
+     49,
+     203,
+     43,
+     834,
+     1865,
+     2104,
+     6578
+    ],
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 8248,
+    "name": "Marvel vs. Capcom 3: Fate of Two Worlds",
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 73.29645580290547,
+    "rating_count": 40,
+    "slug": "marvel-vs-capcom-3-fate-of-two-worlds",
+    "total_rating_count": 45
+   },
+   {
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85782,
+     "image_id": "co1u6u"
+    },
+    "first_release_date": 1108598400,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     25,
+     31
+    ],
+    "id": 136,
+    "name": "Devil May Cry 3: Dante's Awakening",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130,
+     8
+    ],
+    "rating": 84.08961192396987,
+    "rating_count": 393,
+    "slug": "devil-may-cry-3-dante-s-awakening",
+    "total_rating_count": 395
+   },
+   {
+    "aggregated_rating": 65.71428571428571,
+    "aggregated_rating_count": 7,
+    "collections": [
+     {
+      "id": 3275,
+      "name": "PlayStation All-Stars"
+     }
+    ],
+    "cover": {
+     "id": 130639,
+     "image_id": "co2ssv"
+    },
+    "first_release_date": 1353369600,
+    "franchises": [
+     2098,
+     361,
+     871,
+     4509,
+     2240,
+     1686,
+     834,
+     800,
+     2239,
+     2052,
+     2416,
+     2121,
+     891,
+     2111,
+     1386,
+     463,
+     6202
+    ],
+    "game_type": 0,
+    "genres": [
+     4,
+     8
+    ],
+    "id": 7390,
+    "name": "PlayStation All-Stars Battle Royale",
+    "platforms": [
+     9,
+     46
+    ],
+    "rating": 64.53950593713783,
+    "rating_count": 71,
+    "slug": "playstation-all-stars-battle-royale",
+    "total_rating_count": 78
+   },
+   {
+    "collections": [
+     {
+      "id": 6310,
+      "name": "Project X Zone"
+     }
+    ],
+    "cover": {
+     "id": 270611,
+     "image_id": "co5ssz"
+    },
+    "first_release_date": 1349913600,
+    "franchises": [
+     792,
+     29,
+     38,
+     834,
+     1080,
+     891,
+     2006,
+     942,
+     607,
+     988,
+     1082,
+     2011,
+     1070,
+     2012,
+     2013,
+     633,
+     1337,
+     1871
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24,
+     31
+    ],
+    "id": 89877,
+    "name": "Project X Zone: Limited Edition",
+    "platforms": [
+     37
+    ],
+    "slug": "project-x-zone-limited-edition",
+    "version_parent": 6864
+   },
+   {
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "bundles": [
+     44672
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 271605,
+     "image_id": "co5tkl"
+    },
+    "first_release_date": 1138060800,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     5,
+     25,
+     31
+    ],
+    "id": 20545,
+    "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "parent_game": 136,
+    "platforms": [
+     6,
+     130,
+     8
+    ],
+    "rating": 86.2408633304529,
+    "rating_count": 133,
+    "slug": "devil-may-cry-3-dantes-awakening-special-edition",
+    "total_rating_count": 134
+   },
+   {
+    "bundles": [
+     20734,
+     218404
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 262885,
+     "image_id": "co5mud"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 222655,
+    "name": "Devil May Cry 2",
+    "parent_game": 135,
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130
+    ],
+    "rating": 60.61402326712384,
+    "rating_count": 35,
+    "slug": "devil-may-cry-2--1",
+    "total_rating_count": 35
+   },
+   {
+    "aggregated_rating": 49.6,
+    "aggregated_rating_count": 5,
+    "bundles": [
+     44672
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 157494,
+     "image_id": "co3diu"
+    },
+    "first_release_date": 1043452800,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 135,
+    "name": "Devil May Cry 2",
+    "platforms": [
+     8
+    ],
+    "rating": 55.77879795478731,
+    "rating_count": 234,
+    "slug": "devil-may-cry-2",
+    "total_rating_count": 239
+   },
+   {
+    "aggregated_rating": 81.5,
+    "aggregated_rating_count": 12,
+    "bundles": [
+     407078
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85795,
+     "image_id": "co1u77"
+    },
+    "first_release_date": 1358208000,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     25,
+     31
+    ],
+    "id": 1254,
+    "name": "DmC: Devil May Cry",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 75.88253707227415,
+    "rating_count": 502,
+    "slug": "dmc-devil-may-cry",
+    "total_rating_count": 514
+   },
+   {
+    "aggregated_rating": 76.70588235294117,
+    "aggregated_rating_count": 17,
+    "collections": [
+     {
+      "id": 1104,
+      "name": "Marvel vs. Capcom"
+     },
+     {
+      "id": 3746,
+      "name": "Capcom Versus"
+     }
+    ],
+    "cover": {
+     "id": 91243,
+     "image_id": "co1yej"
+    },
+    "first_release_date": 1321315200,
+    "franchises": [
+     124,
+     792,
+     6578,
+     29,
+     834,
+     1082,
+     633,
+     2104,
+     2009,
+     1870,
+     38,
+     238,
+     49,
+     151,
+     210,
+     350,
+     6893,
+     4820,
+     1080,
+     320,
+     411,
+     6899,
+     1163,
+     280
+    ],
+    "game_type": 10,
+    "genres": [
+     4
+    ],
+    "id": 2066,
+    "name": "Ultimate Marvel vs. Capcom 3",
+    "parent_game": 8248,
+    "platforms": [
+     9,
+     48,
+     6,
+     46,
+     12,
+     49
+    ],
+    "rating": 76.38234733879122,
+    "rating_count": 128,
+    "slug": "ultimate-marvel-vs-capcom-3",
+    "total_rating_count": 145
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 427633,
+     "image_id": "co95yp"
+    },
+    "first_release_date": 1230681600,
+    "franchises": [
+     834
+    ],
+    "game_type": 11,
+    "id": 302712,
+    "name": "Devil May Cry",
+    "parent_game": 136,
+    "platforms": [
+     55
+    ],
+    "slug": "devil-may-cry--2"
+   },
+   {
+    "cover": {
+     "id": 400887,
+     "image_id": "co8lbr"
+    },
+    "first_release_date": 1552003200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25
+    ],
+    "id": 112662,
+    "name": "Devil May Cry 5: Collector's Edition",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "devil-may-cry-5-collectors-edition",
+    "version_parent": 76253
+   },
+   {
+    "aggregated_rating": 80.33333333333333,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     218517,
+     407078
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 528582,
+     "image_id": "cobbuu"
+    },
+    "first_release_date": 1434585600,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 20022,
+    "name": "Devil May Cry 4: Special Edition",
+    "parent_game": 112,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 76.68136062519497,
+    "rating_count": 69,
+    "slug": "devil-may-cry-4-special-edition",
+    "total_rating_count": 77
+   },
+   {
+    "bundles": [
+     165875
+    ],
+    "cover": {
+     "id": 254412,
+     "image_id": "co5gb0"
+    },
+    "first_release_date": 1552003200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 111750,
+    "name": "Devil May Cry 5: Deluxe Edition",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 79.99926624583465,
+    "rating_count": 7,
+    "slug": "devil-may-cry-5-deluxe-edition",
+    "total_rating_count": 7,
+    "version_parent": 76253
+   },
+   {
+    "bundles": [
+     20734,
+     218404
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 271604,
+     "image_id": "co5tkk"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 222654,
+    "name": "Devil May Cry",
+    "parent_game": 134,
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130
+    ],
+    "rating": 74.7045948028502,
+    "rating_count": 53,
+    "slug": "devil-may-cry--1",
+    "total_rating_count": 53
+   },
+   {
+    "aggregated_rating": 81.5,
+    "aggregated_rating_count": 4,
+    "bundles": [
+     218517,
+     407078
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 123164,
+     "image_id": "co2n18"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 3,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 20734,
+    "name": "Devil May Cry HD Collection",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 86.9469844213291,
+    "rating_count": 67,
+    "slug": "devil-may-cry-hd-collection",
+    "total_rating_count": 71
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 565536,
+     "image_id": "coc4dc"
+    },
+    "first_release_date": 1049155200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 403068,
+    "name": "Devil May Cry Dead Shot",
+    "platforms": [
+     55
+    ],
+    "slug": "devil-may-cry-dead-shot"
+   },
+   {
+    "cover": {
+     "id": 508761,
+     "image_id": "coawk9"
+    },
+    "first_release_date": 1630368000,
+    "franchises": [
+     834
+    ],
+    "game_type": 3,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 165882,
+    "name": "Devil May Cry 5 + Vergil",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 81.1026252449568,
+    "rating_count": 23,
+    "slug": "devil-may-cry-5-plus-vergil",
+    "total_rating_count": 23
+   },
+   {
+    "aggregated_rating": 70.33333333333333,
+    "aggregated_rating_count": 6,
+    "collections": [
+     {
+      "id": 6310,
+      "name": "Project X Zone"
+     }
+    ],
+    "cover": {
+     "id": 91244,
+     "image_id": "co1yek"
+    },
+    "first_release_date": 1447286400,
+    "franchises": [
+     792,
+     891,
+     29,
+     834,
+     38,
+     988,
+     1070,
+     769,
+     1780,
+     1467,
+     2009,
+     1082,
+     2011,
+     607,
+     942,
+     2006,
+     1932,
+     1163,
+     2005,
+     1337,
+     833
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 9721,
+    "name": "Project X Zone 2",
+    "platforms": [
+     37
+    ],
+    "rating": 77.90829263749193,
+    "rating_count": 13,
+    "slug": "project-x-zone-2",
+    "total_rating_count": 19
+   },
+   {
+    "cover": {
+     "id": 157251,
+     "image_id": "co3dc3"
+    },
+    "first_release_date": 1312761600,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     15,
+     31
+    ],
+    "id": 41601,
+    "name": "Devil May Cry 4: Collector's Edition",
+    "platforms": [
+     12
+    ],
+    "slug": "devil-may-cry-4-collectors-edition",
+    "version_parent": 112
+   },
+   {
+    "aggregated_rating": 86.66666666666667,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 456690,
+     "image_id": "co9sdu"
+    },
+    "first_release_date": 1604966400,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 138932,
+    "name": "Devil May Cry 5: Special Edition",
+    "parent_game": 76253,
+    "platforms": [
+     169,
+     167
+    ],
+    "rating": 85.53102892635852,
+    "rating_count": 20,
+    "slug": "devil-may-cry-5-special-edition",
+    "total_rating_count": 23,
+    "version_parent": 76253
+   },
+   {
+    "bundles": [
+     407078
+    ],
+    "cover": {
+     "id": 508778,
+     "image_id": "coawkq"
+    },
+    "first_release_date": 1630368000,
+    "franchises": [
+     834
+    ],
+    "game_type": 3,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 165875,
+    "name": "Devil May Cry 5: Deluxe Edition + Vergil",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "devil-may-cry-5-deluxe-edition-plus-vergil"
+   },
+   {
+    "aggregated_rating": 63.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+     "id": 266993,
+     "image_id": "co5q0h"
+    },
+    "first_release_date": 1520035200,
+    "franchises": [
+     834
+    ],
+    "game_type": 3,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 218517,
+    "name": "Devil May Cry HD Collection & 4 Special Edition Bundle",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "devil-may-cry-hd-collection-and-4-special-edition-bundle",
+    "total_rating_count": 2
+   },
+   {
+    "cover": {
+     "id": 400886,
+     "image_id": "co8lbq"
+    },
+    "first_release_date": 1552003200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25
+    ],
+    "id": 111299,
+    "name": "Devil May Cry 5: Ultra Limited Edition",
+    "platforms": [
+     48,
+     49
+    ],
+    "slug": "devil-may-cry-5-ultra-limited-edition",
+    "version_parent": 76253
+   },
+   {
+    "aggregated_rating": 81.28571428571429,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     42959
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85775,
+     "image_id": "co1u6n"
+    },
+    "first_release_date": 1201737600,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 112,
+    "name": "Devil May Cry 4",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 79.30828489344418,
+    "rating_count": 460,
+    "slug": "devil-may-cry-4",
+    "total_rating_count": 467
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 353254,
+     "image_id": "co7kkm"
+    },
+    "first_release_date": 1623369600,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 174695,
+    "name": "Devil May Cry: Peak of Combat",
+    "platforms": [
+     34,
+     39
+    ],
+    "rating": 45.43445492402984,
+    "rating_count": 6,
+    "slug": "devil-may-cry-peak-of-combat",
+    "total_rating_count": 6
+   },
+   {
+    "aggregated_rating": 90.33333333333333,
+    "aggregated_rating_count": 15,
+    "bundles": [
+     165882,
+     405444
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 82048,
+     "image_id": "co1rb4"
+    },
+    "first_release_date": 1552003200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 76253,
+    "name": "Devil May Cry 5",
+    "platforms": [
+     48,
+     508,
+     6,
+     49
+    ],
+    "rating": 82.57658556635482,
+    "rating_count": 562,
+    "slug": "devil-may-cry-5",
+    "total_rating_count": 577
+   },
+   {
+    "cover": {
+     "id": 132636,
+     "image_id": "co2ucc"
+    },
+    "first_release_date": 1562198400,
+    "franchises": [
+     792,
+     824,
+     38,
+     834,
+     29,
+     1082
+    ],
+    "game_type": 0,
+    "genres": [
+     11,
+     15,
+     35
+    ],
+    "id": 120484,
+    "name": "Teppen",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "teppen"
+   },
+   {
+    "bundles": [
+     165882,
+     165875,
+     405444
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 508772,
+     "image_id": "coawkk"
+    },
+    "first_release_date": 1607990400,
+    "franchises": [
+     834
+    ],
+    "game_type": 1,
+    "id": 169336,
+    "name": "Devil May Cry 5: Playable Character - Vergil",
+    "parent_game": 76253,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "devil-may-cry-5-playable-character-vergil"
+   },
+   {
+    "collections": [
+     {
+      "id": 689,
+      "name": "Viewtiful Joe"
+     }
+    ],
+    "cover": {
+     "id": 453072,
+     "image_id": "co9plc"
+    },
+    "first_release_date": 1093305600,
+    "franchises": [
+     6578,
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     25
+    ],
+    "id": 341259,
+    "name": "Viewtiful Joe",
+    "parent_game": 4229,
+    "platforms": [
+     8
+    ],
+    "slug": "viewtiful-joe--2"
+   },
+   {
+    "aggregated_rating": 85.0,
+    "aggregated_rating_count": 8,
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85785,
+     "image_id": "co1u6x"
+    },
+    "first_release_date": 1424217600,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 20869,
+    "name": "DmC: Devil May Cry - Definitive Edition",
+    "parent_game": 1254,
+    "platforms": [
+     48,
+     49
+    ],
+    "rating": 79.94223818292616,
+    "rating_count": 47,
+    "slug": "dmc-devil-may-cry-definitive-edition",
+    "total_rating_count": 55
+   }
+  ],
+  "name": "Devil May Cry",
+  "v": 4
+ },
  "845": {
   "checked": "2026-11-02T22:38:40+00:00",
   "games": [
@@ -499218,6 +500651,756 @@
    }
   ],
   "name": "Anno",
+  "v": 4
+ },
+ "c17": {
+  "checked": "2026-11-11T14:07:36+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 565536,
+     "image_id": "coc4dc"
+    },
+    "first_release_date": 1049155200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 403068,
+    "name": "Devil May Cry Dead Shot",
+    "platforms": [
+     55
+    ],
+    "slug": "devil-may-cry-dead-shot"
+   },
+   {
+    "bundles": [
+     218404
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 247967,
+     "image_id": "co5bbz"
+    },
+    "first_release_date": 1582156800,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 218390,
+    "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "parent_game": 222656,
+    "platforms": [
+     130
+    ],
+    "rating": 81.1910669975186,
+    "rating_count": 6,
+    "slug": "devil-may-cry-3-dantes-awakening-special-edition--1",
+    "total_rating_count": 6
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "game_type": 0,
+    "id": 338320,
+    "name": "Devil May Cry",
+    "platforms": [
+     38
+    ],
+    "slug": "devil-may-cry--4"
+   },
+   {
+    "bundles": [
+     20734
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 262886,
+     "image_id": "co5mue"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 222656,
+    "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "parent_game": 20545,
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 86.39209195441919,
+    "rating_count": 33,
+    "slug": "devil-may-cry-3-dantes-awakening-special-edition--2",
+    "total_rating_count": 33
+   },
+   {
+    "aggregated_rating": 49.6,
+    "aggregated_rating_count": 5,
+    "bundles": [
+     44672
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 157494,
+     "image_id": "co3diu"
+    },
+    "first_release_date": 1043452800,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 135,
+    "name": "Devil May Cry 2",
+    "platforms": [
+     8
+    ],
+    "rating": 55.77879795478731,
+    "rating_count": 234,
+    "slug": "devil-may-cry-2",
+    "total_rating_count": 239
+   },
+   {
+    "aggregated_rating": 80.33333333333333,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     218517,
+     407078
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 528582,
+     "image_id": "cobbuu"
+    },
+    "first_release_date": 1434585600,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 20022,
+    "name": "Devil May Cry 4: Special Edition",
+    "parent_game": 112,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 76.68136062519497,
+    "rating_count": 69,
+    "slug": "devil-may-cry-4-special-edition",
+    "total_rating_count": 77
+   },
+   {
+    "bundles": [
+     20734,
+     218404
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 271604,
+     "image_id": "co5tkk"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 222654,
+    "name": "Devil May Cry",
+    "parent_game": 134,
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130
+    ],
+    "rating": 74.7045948028502,
+    "rating_count": 53,
+    "slug": "devil-may-cry--1",
+    "total_rating_count": 53
+   },
+   {
+    "aggregated_rating": 85.0,
+    "aggregated_rating_count": 8,
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85785,
+     "image_id": "co1u6x"
+    },
+    "first_release_date": 1424217600,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 20869,
+    "name": "DmC: Devil May Cry - Definitive Edition",
+    "parent_game": 1254,
+    "platforms": [
+     48,
+     49
+    ],
+    "rating": 79.94223818292616,
+    "rating_count": 47,
+    "slug": "dmc-devil-may-cry-definitive-edition",
+    "total_rating_count": 55
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 369406,
+     "image_id": "co7x1a"
+    },
+    "first_release_date": 1296691200,
+    "franchises": [
+     834
+    ],
+    "game_type": 11,
+    "genres": [
+     25
+    ],
+    "id": 76843,
+    "name": "Devil May Cry 4 Refrain",
+    "parent_game": 112,
+    "platforms": [
+     39
+    ],
+    "slug": "devil-may-cry-4-refrain"
+   },
+   {
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85782,
+     "image_id": "co1u6u"
+    },
+    "first_release_date": 1108598400,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     25,
+     31
+    ],
+    "id": 136,
+    "name": "Devil May Cry 3: Dante's Awakening",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130,
+     8
+    ],
+    "rating": 84.08961192396987,
+    "rating_count": 393,
+    "slug": "devil-may-cry-3-dante-s-awakening",
+    "total_rating_count": 395
+   },
+   {
+    "aggregated_rating": 86.66666666666667,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 456690,
+     "image_id": "co9sdu"
+    },
+    "first_release_date": 1604966400,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 138932,
+    "name": "Devil May Cry 5: Special Edition",
+    "parent_game": 76253,
+    "platforms": [
+     169,
+     167
+    ],
+    "rating": 85.53102892635852,
+    "rating_count": 20,
+    "slug": "devil-may-cry-5-special-edition",
+    "total_rating_count": 23,
+    "version_parent": 76253
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 427632,
+     "image_id": "co95yo"
+    },
+    "first_release_date": 1230681600,
+    "franchises": [
+     834
+    ],
+    "game_type": 11,
+    "genres": [
+     25
+    ],
+    "id": 302713,
+    "name": "Devil May Cry",
+    "parent_game": 136,
+    "platforms": [
+     55
+    ],
+    "slug": "devil-may-cry--3"
+   },
+   {
+    "aggregated_rating": 81.5,
+    "aggregated_rating_count": 12,
+    "bundles": [
+     407078
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85795,
+     "image_id": "co1u77"
+    },
+    "first_release_date": 1358208000,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     25,
+     31
+    ],
+    "id": 1254,
+    "name": "DmC: Devil May Cry",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 75.88253707227415,
+    "rating_count": 502,
+    "slug": "dmc-devil-may-cry",
+    "total_rating_count": 514
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 427633,
+     "image_id": "co95yp"
+    },
+    "first_release_date": 1230681600,
+    "franchises": [
+     834
+    ],
+    "game_type": 11,
+    "id": 302712,
+    "name": "Devil May Cry",
+    "parent_game": 136,
+    "platforms": [
+     55
+    ],
+    "slug": "devil-may-cry--2"
+   },
+   {
+    "aggregated_rating": 85.0,
+    "aggregated_rating_count": 4,
+    "bundles": [
+     44672
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 436183,
+     "image_id": "co9ck7"
+    },
+    "first_release_date": 998524800,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 134,
+    "name": "Devil May Cry",
+    "platforms": [
+     8
+    ],
+    "rating": 81.00240321759247,
+    "rating_count": 381,
+    "slug": "devil-may-cry",
+    "total_rating_count": 385
+   },
+   {
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "bundles": [
+     44672
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 271605,
+     "image_id": "co5tkl"
+    },
+    "first_release_date": 1138060800,
+    "franchises": [
+     834
+    ],
+    "game_type": 10,
+    "genres": [
+     5,
+     25,
+     31
+    ],
+    "id": 20545,
+    "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "parent_game": 136,
+    "platforms": [
+     6,
+     130,
+     8
+    ],
+    "rating": 86.2408633304529,
+    "rating_count": 133,
+    "slug": "devil-may-cry-3-dantes-awakening-special-edition",
+    "total_rating_count": 134
+   },
+   {
+    "bundles": [
+     20734,
+     218404
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 262885,
+     "image_id": "co5mud"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 9,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 222655,
+    "name": "Devil May Cry 2",
+    "parent_game": 135,
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130
+    ],
+    "rating": 60.61402326712384,
+    "rating_count": 35,
+    "slug": "devil-may-cry-2--1",
+    "total_rating_count": 35
+   },
+   {
+    "aggregated_rating": 81.28571428571429,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     42959
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 85775,
+     "image_id": "co1u6n"
+    },
+    "first_release_date": 1201737600,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 112,
+    "name": "Devil May Cry 4",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 79.30828489344418,
+    "rating_count": 460,
+    "slug": "devil-may-cry-4",
+    "total_rating_count": 467
+   },
+   {
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 353254,
+     "image_id": "co7kkm"
+    },
+    "first_release_date": 1623369600,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 174695,
+    "name": "Devil May Cry: Peak of Combat",
+    "platforms": [
+     34,
+     39
+    ],
+    "rating": 45.43445492402984,
+    "rating_count": 6,
+    "slug": "devil-may-cry-peak-of-combat",
+    "total_rating_count": 6
+   },
+   {
+    "aggregated_rating": 90.33333333333333,
+    "aggregated_rating_count": 15,
+    "bundles": [
+     165882,
+     405444
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 82048,
+     "image_id": "co1rb4"
+    },
+    "first_release_date": 1552003200,
+    "franchises": [
+     834
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 76253,
+    "name": "Devil May Cry 5",
+    "platforms": [
+     48,
+     508,
+     6,
+     49
+    ],
+    "rating": 82.57658556635482,
+    "rating_count": 562,
+    "slug": "devil-may-cry-5",
+    "total_rating_count": 577
+   },
+   {
+    "bundles": [
+     165882,
+     165875,
+     405444
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 508772,
+     "image_id": "coawkk"
+    },
+    "first_release_date": 1607990400,
+    "franchises": [
+     834
+    ],
+    "game_type": 1,
+    "id": 169336,
+    "name": "Devil May Cry 5: Playable Character - Vergil",
+    "parent_game": 76253,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "devil-may-cry-5-playable-character-vergil"
+   },
+   {
+    "aggregated_rating": 81.5,
+    "aggregated_rating_count": 4,
+    "bundles": [
+     218517,
+     407078
+    ],
+    "collections": [
+     {
+      "id": 17,
+      "name": "Devil May Cry"
+     }
+    ],
+    "cover": {
+     "id": 123164,
+     "image_id": "co2n18"
+    },
+    "first_release_date": 1332374400,
+    "franchises": [
+     834
+    ],
+    "game_type": 3,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 20734,
+    "name": "Devil May Cry HD Collection",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 86.9469844213291,
+    "rating_count": 67,
+    "slug": "devil-may-cry-hd-collection",
+    "total_rating_count": 71
+   }
+  ],
+  "name": "Devil May Cry",
   "v": 4
  },
  "c173": {

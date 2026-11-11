@@ -3100,6 +3100,14 @@
   "hltb_name": "Psychonauts",
   "main": 12.0
  },
+ "igdb:134": {
+  "checked": "2026-11-11T14:07:29+00:00",
+  "complete": 19.0,
+  "extra": 8.5,
+  "hltb_id": 2496,
+  "hltb_name": "Devil May Cry",
+  "main": 6.0
+ },
  "igdb:134014": {
   "checked": "2026-11-03T04:43:30+00:00",
   "complete": 54.5,
@@ -3268,6 +3276,14 @@
   "hltb_name": "Operation: Tango",
   "main": 4.0
  },
+ "igdb:135": {
+  "checked": "2026-11-11T14:07:31+00:00",
+  "complete": 18.5,
+  "extra": 7.0,
+  "hltb_id": 2497,
+  "hltb_name": "Devil May Cry 2",
+  "main": 5.0
+ },
  "igdb:1352": {
   "checked": "2026-10-16T04:57:35+00:00",
   "complete": 6.0,
@@ -3387,6 +3403,14 @@
   "hltb_id": 84923,
   "hltb_name": "Tetris Effect: Connected",
   "main": 3.5
+ },
+ "igdb:136": {
+  "checked": "2026-11-11T14:07:34+00:00",
+  "complete": 42.5,
+  "extra": 15.5,
+  "hltb_id": 2498,
+  "hltb_name": "Devil May Cry 3: Dante's Awakening",
+  "main": 12.0
  },
  "igdb:136403": {
   "checked": "2026-10-16T14:58:18+00:00",
