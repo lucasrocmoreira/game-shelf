@@ -3718,41 +3718,27 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:1468",
-     "best": "igdb:1468",
+     "key": "igdb:1078",
+     "best": "igdb:1078",
      "why": [
-      "Top-rated game you haven't played (score 88)",
-      "A change of genre: Shooter",
-      "Shorter than what you're playing: about 8.5h to beat"
+      "Top-rated game you haven't played here (score 96)",
+      "Retro pick (2010)",
+      "About 20h to beat"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:1467",
-      "guide": null,
+      "key": "igdb:1066",
+      "guide": "Mario",
       "as": null
      }
     },
     {
-     "key": "igdb:5122",
-     "best": "igdb:5122",
+     "key": "igdb:534",
+     "best": "igdb:534",
      "why": [
-      "Top-rated game you haven't played (score 87)",
-      "A change of genre: Music",
-      "Shorter than what you're playing: about 11h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:6557",
-      "guide": null,
-      "as": null
-     }
-    },
-    {
-     "key": "igdb:1033",
-     "best": "igdb:1033",
-     "why": [
-      "Top-rated game you haven't played (score 94)",
-      "Shorter than what you're playing: about 32.5h to beat"
+      "Top-rated game you haven't played here (score 89)",
+      "2010s pick (2011)",
+      "About 46.5h to beat"
      ],
      "sent": false,
      "earlier": {
@@ -3760,15 +3746,30 @@
       "guide": "The Legend of Zelda",
       "as": null
      }
+    },
+    {
+     "key": "igdb:1112",
+     "best": "igdb:1112",
+     "why": [
+      "Top-rated game you haven't played here (score 94)",
+      "Retro pick (2009)",
+      "About 48h to beat"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:1101",
+      "guide": "Metroid",
+      "as": null
+     }
     }
    ],
    "skip": [
-    "igdb:1468",
-    "igdb:5122",
-    "igdb:1033"
+    "igdb:1078",
+    "igdb:534",
+    "igdb:1112"
    ],
    "avoid": [],
-   "date": "2026-11-11T05:17:18.035Z"
+   "date": "2026-11-11T13:51:33.561Z"
   }
  },
  "noint": {
