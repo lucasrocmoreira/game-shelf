@@ -13,7 +13,7 @@ from .util import CONFIG_DIR, now_iso
 PATH = CONFIG_DIR / "library_edits.json"
 LEGACY_PATH = CONFIG_DIR / "library_edits.yml"
 
-EMPTY = {"hidden": {}, "unhidden": {}, "played": {}, "playing": {}, "added": [], "match": {}, "sent": {}}  # sent: suggestions sent to another console tab
+EMPTY = {"hidden": {}, "unhidden": {}, "played": {}, "playing": {}, "added": [], "match": {}, "sent": {}, "noint": {}}  # sent: suggestions sent to another console tab; noint: "not interested"
 
 
 def source_key(title: str) -> str:

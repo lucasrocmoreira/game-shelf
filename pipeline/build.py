@@ -275,6 +275,8 @@ def merge(entries, match_info, igdb_games, overrides, ed):
             row["hidden"] = "auto"
         else:
             row["hidden"] = None
+        noint = [ed["noint"][k] for k in keys if k in ed["noint"]]
+        row["noint"] = noint[0] if noint else None
         playing = [ed["playing"][k] for k in keys if k in ed["playing"]]
         row["playing"] = playing[0] if playing else None
         played = [ed["played"][k] for k in keys if k in ed["played"]]
@@ -641,6 +643,7 @@ def to_site_row(row, sc, hl=None):
         "hidden": row["hidden"],
         "played": row["played"],
         "playing": row["playing"],
+        "noint": row.get("noint"),
         "pending_key": row["pending_key"],
         "ps_plus": row["ps_plus"],
         "nso": row["nso"],
