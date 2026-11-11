@@ -3463,19 +3463,14 @@
   "ps3": {
    "slots": [
     {
-     "key": "igdb:339",
-     "best": "igdb:339",
+     "key": "igdb:21084",
+     "best": "igdb:21084",
      "why": [
-      "Top-rated game you haven't played (score 95)",
-      "A change of genre: Shooter, Puzzle",
-      "Shorter than what you're playing: about 31.5h to beat"
+      "Top-rated game you haven't played (score 94)",
+      "Shorter than what you're playing: about 17h to beat"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:231",
-      "guide": "Half-Life",
-      "as": null
-     }
+     "earlier": null
     },
     {
      "key": "igdb:376",
@@ -3509,10 +3504,11 @@
    "skip": [
     "igdb:339",
     "igdb:376",
-    "igdb:2671"
+    "igdb:2671",
+    "igdb:21084"
    ],
    "avoid": [],
-   "date": "2026-11-11T05:16:00.650Z"
+   "date": "2026-11-11T05:16:18.504Z"
   },
   "vita": {
    "slots": [
