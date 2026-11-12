@@ -34850,6 +34850,15 @@
  },
  "igdb:404053": {},
  "igdb:404056": {},
+ "igdb:404714": {
+  "bl_v": 3,
+  "checked": "2026-11-12T18:22:29+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": 79,
+  "metacritic_n": 6,
+  "metacritic_slug": "sonic-pico-park"
+ },
  "igdb:40477": {
   "backloggd": 4.1,
   "backloggd_n": 35381,
