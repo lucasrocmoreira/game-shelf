@@ -3534,43 +3534,42 @@
      "earlier": null
     },
     {
-     "key": "igdb:20741",
-     "best": "igdb:20741",
+     "key": "igdb:981",
+     "best": "igdb:981",
      "why": [
-      "Top-rated game you haven't played here (score 92)",
+      "Top-rated game you haven't played here (score 86)",
       "2010s pick (2011)",
-      "About 59.5h to beat"
+      "About 14.5h to beat"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:376",
-      "guide": null,
+      "key": "igdb:22012",
+      "guide": "Rayman",
       "as": null
      }
     },
     {
-     "key": "igdb:20068",
-     "best": "igdb:20068",
+     "key": "igdb:374",
+     "best": "igdb:376",
      "why": [
-      "Top-rated game you haven't played here (score 91)",
-      "Retro pick (2009)",
-      "About 23.5h to beat"
+      "Comes before Metal Gear Solid 2: Sons of Liberty (score 95) in the Metal Gear series: play this one first",
+      "Scores 73 itself",
+      "Retro pick (1987)",
+      "About 5h to beat"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:117882",
-      "guide": null,
-      "as": null
-     }
+     "earlier": null
     }
    ],
    "skip": [
     "igdb:250931",
     "igdb:20741",
-    "igdb:20068"
+    "igdb:20068",
+    "igdb:981",
+    "igdb:374"
    ],
    "avoid": [],
-   "date": "2026-11-11T13:49:38.659Z"
+   "date": "2026-11-13T18:46:59.800Z"
   },
   "switch2": {
    "slots": [
