@@ -3710,17 +3710,16 @@
      }
     },
     {
-     "key": "igdb:2687",
-     "best": "igdb:2687",
+     "key": "igdb:221290",
+     "best": "igdb:221290",
      "why": [
       "Top-rated game you haven't played here (score 89)",
-      "2010s pick (2012)",
-      "About 190h to beat"
+      "Retro pick (2004)"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:2645",
-      "guide": "Animal Crossing",
+      "key": "igdb:1426",
+      "guide": "Ace Attorney",
       "as": null
      }
     }
@@ -3728,10 +3727,10 @@
    "skip": [
     "igdb:1039",
     "igdb:145528",
-    "igdb:2687"
+    "igdb:221290"
    ],
    "avoid": [],
-   "date": "2026-11-11T13:52:06.208Z"
+   "date": "2026-11-13T18:48:02.910Z"
   },
   "wii": {
    "slots": [
