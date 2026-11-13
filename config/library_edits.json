@@ -3638,15 +3638,19 @@
      "earlier": null
     },
     {
-     "key": "igdb:47914",
-     "best": "igdb:47914",
+     "key": "igdb:8353",
+     "best": "igdb:8353",
      "why": [
-      "Top-rated game you haven't played here (score 80)",
-      "2010s pick (2013)",
-      "A change of genre: Puzzle"
+      "Top-rated game you haven't played here (score 85)",
+      "2010s pick (2012)",
+      "Not another long one: about 33.5h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:1517",
+      "guide": "Pokémon",
+      "as": null
+     }
     },
     {
      "key": "igdb:2345",
@@ -3668,10 +3672,11 @@
    "skip": [
     "igdb:1398",
     "igdb:47914",
-    "igdb:2345"
+    "igdb:2345",
+    "igdb:8353"
    ],
    "avoid": [],
-   "date": "2026-11-11T13:51:57.604Z"
+   "date": "2026-11-13T18:47:48.158Z"
   },
   "3ds": {
    "slots": [
