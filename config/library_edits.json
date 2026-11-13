@@ -3585,19 +3585,15 @@
      }
     },
     {
-     "key": "igdb:26845",
-     "best": "igdb:26845",
+     "key": "igdb:227987",
+     "best": "igdb:227987",
      "why": [
-      "Top-rated game you haven't played here (score 89)",
-      "2010s pick (2019)",
-      "Something longer: about 76.5h to beat"
+      "Top-rated game you haven't played here (score 90)",
+      "Retro pick (2002)",
+      "A change of genre: Fighting"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:1436",
-      "guide": "Fire Emblem",
-      "as": null
-     }
+     "earlier": null
     },
     {
      "key": "igdb:306144",
@@ -3618,10 +3614,13 @@
    "skip": [
     "igdb:207026",
     "igdb:26845",
-    "igdb:306144"
+    "igdb:306144",
+    "igdb:227987"
    ],
-   "avoid": [],
-   "date": "2026-11-13T18:47:25.224Z"
+   "avoid": [
+    "Fire Emblem"
+   ],
+   "date": "2026-11-13T18:47:35.322Z"
   },
   "ds": {
    "slots": [
