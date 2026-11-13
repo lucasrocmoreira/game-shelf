@@ -3496,13 +3496,13 @@
      "earlier": null
     },
     {
-     "key": "igdb:549",
-     "best": "igdb:551",
+     "key": "igdb:117882",
+     "best": "igdb:499",
      "why": [
-      "Comes before God of War II (score 92) in the God of War series: play this one first",
-      "Scores 87 itself",
-      "Retro pick (2005)",
-      "About 10h to beat"
+      "Comes before God of War III (score 91) in the God of War series: play this one first",
+      "Scores 86 itself",
+      "Retro pick (2007)",
+      "About 11h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3512,10 +3512,11 @@
     "igdb:376",
     "igdb:21084",
     "igdb:20068",
-    "igdb:549"
+    "igdb:549",
+    "igdb:117882"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:46:22.337Z"
+   "date": "2026-11-13T18:46:51.836Z"
   },
   "vita": {
    "slots": [
