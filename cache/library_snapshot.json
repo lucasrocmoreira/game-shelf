@@ -11438,6 +11438,15 @@
    "title": "Mass Effect™ Legendary Edition"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-11-13",
+   "platform": "PS5",
+   "playtime_hours": 32.8,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png",
    "last_played": "2023-01-17",
    "platform": "PS5",
@@ -11445,15 +11454,6 @@
    "ps_plus": false,
    "source_id": "PPSA03972_00",
    "title": "The Witcher 3: Wild Hunt — Remastered"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-11-11",
-   "platform": "PS5",
-   "playtime_hours": 31.9,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01067_00/2/i_a05fd01e17259203eb01d4d31c193447f0fd82d3622bd6d35399c40f3c54fd5a/i/icon0.png",
@@ -19529,21 +19529,6 @@
   },
   {
    "also_platform": null,
-   "concept": "10014519",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0112/e1a7a09b0d6a2adbcd22d206e82aefa406d34723c9eb2b38.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS5",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:10014519",
-   "store_url": "https://store.playstation.com/en-us/concept/10014519",
-   "streaming": true,
-   "tier": "Game Catalog",
-   "title": "Football Manager 26 Console"
-  },
-  {
-   "also_platform": null,
    "concept": "221694",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1221/60bc48d8a8baf08af18e528f59066ad1d56f3e550545118e.png",
    "last_played": null,
@@ -19796,6 +19781,21 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "Hell is Us"
+  },
+  {
+   "also_platform": null,
+   "concept": "10001996",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2316/86150b8e592e33e766539e1f4250ec79f097b8bd02509381.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10001996",
+   "store_url": "https://store.playstation.com/en-us/concept/10001996",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Hell Let Loose"
   },
   {
    "also_platform": null,
