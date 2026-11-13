@@ -3523,32 +3523,6 @@
   "vita": {
    "slots": [
     {
-     "key": "igdb:250931",
-     "best": "igdb:2985",
-     "why": [
-      "Comes before Persona 4 Golden (score 94) in the Persona series: play this one first",
-      "Scores 84 itself",
-      "Retro pick (1999)"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:981",
-     "best": "igdb:981",
-     "why": [
-      "Top-rated game you haven't played here (score 86)",
-      "2010s pick (2011)",
-      "About 14.5h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:22012",
-      "guide": "Rayman",
-      "as": null
-     }
-    },
-    {
      "key": "igdb:374",
      "best": "igdb:376",
      "why": [
@@ -3559,17 +3533,38 @@
      ],
      "sent": false,
      "earlier": null
+    },
+    {
+     "key": "igdb:15709",
+     "best": "igdb:15709",
+     "why": [
+      "Top-rated game you haven't played here (score 88)",
+      "2010s pick (2016)",
+      "About 36h to beat"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:551",
+     "best": "igdb:551",
+     "why": [
+      "Top-rated game you haven't played here (score 92)",
+      "Retro pick (2007)",
+      "About 13h to beat"
+     ],
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
-    "igdb:250931",
-    "igdb:20741",
-    "igdb:20068",
-    "igdb:981",
-    "igdb:374"
+    "igdb:374",
+    "igdb:17000",
+    "igdb:551",
+    "igdb:15709"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:46:59.800Z"
+   "date": "2026-11-13T18:47:15.843Z"
   },
   "switch2": {
    "slots": [
