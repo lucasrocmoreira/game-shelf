@@ -80,6 +80,7 @@ body.view-franchises .controls, body.view-franchises #hero, body.view-franchises
 .dot.played{background:var(--hi)} .dot.playing{background:var(--mid)} .dot.owned{border:3px solid var(--ink);opacity:.85}
 .dot.sub{border:3px dashed var(--accent)} .dot.missing{width:10px;height:10px;margin:5px 0 2px;background:var(--line);box-shadow:0 0 0 1px var(--muted)}
 .fr-card.fr-last{outline:2px solid var(--accent);outline-offset:2px;transition:outline-color 1.5s}
+.fr-sortnote{color:var(--muted);font-size:13px;margin:6px 0 0}
 .dot.next{border:4px solid var(--accent);background:var(--ink)}
 .tl img{width:36px;aspect-ratio:264/374;object-fit:cover;border-radius:4px;background:var(--line);margin-bottom:12px}
 .tl li.missing img{opacity:.45;filter:grayscale(1)}
@@ -1156,6 +1157,10 @@ function renderFranchises(){
   if(fq) for(let i=cards.length-1;i>=0;i--){ const x = cards[i];
     if(!(x.f.name.toLowerCase().includes(fq) || x.list.some(e=>(e.title||"").toLowerCase().includes(fq)))) cards.splice(i,1); }
   if(FR.sort==="az") cards.sort((a,b)=>frKey(a.f.name).localeCompare(frKey(b.f.name)));
+  else if(FR.sort==="rated" || FR.sort==="popular"){
+    for(const c of cards) Object.assign(c, frStats(c));
+    cards.sort(FR.sort==="rated" ? (a,b)=>(b.rated??-1)-(a.rated??-1) : (a,b)=>b.popular-a.popular);
+  }
   const have = new Set(cards.map(c=>frLetter(c.f.name)));
   const index = `<nav class="az" aria-label="Jump to letter">${["#",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"].map(l=>
     have.has(l) ? `<button type="button" data-az="${l}">${l}</button>` : `<span aria-hidden="true">${l}</span>`).join("")}</nav>`;
@@ -1165,21 +1170,33 @@ function renderFranchises(){
       <p>Big series you own at least 2 games of, checked against Wikipedia.</p></div>
     <div class="row" style="margin-top:12px"><input class="search" id="frq" type="search" placeholder="Find a franchise or game" aria-label="Find a franchise or game" value="${esc(FR.q)}"></div>
     <div class="row" style="margin-top:8px">${chip("all",`All ${all.length}`)}${chip("started","Started")}${chip("new","Not started")}${chip("done","Finished")}
-      <div class="seg" role="group" aria-label="Order"><button type="button" data-frsort="owned" aria-pressed="${FR.sort==="owned"}">Most owned</button><button type="button" data-frsort="az" aria-pressed="${FR.sort==="az"}">A to Z</button></div></div>
+      <div class="seg" role="group" aria-label="Sort by"><button type="button" data-frsort="owned" aria-pressed="${FR.sort==="owned"}" title="Most owned">Owned</button><button type="button" data-frsort="rated" aria-pressed="${FR.sort==="rated"}" title="Highest rated">Top rated</button><button type="button" data-frsort="popular" aria-pressed="${FR.sort==="popular"}" title="Most popular">Popular</button><button type="button" data-frsort="az" aria-pressed="${FR.sort==="az"}" title="A to Z">A–Z</button></div></div>
     <div class="fr-legend">${Object.entries(FR_LABEL).map(([k,l])=>`<span><i class="sw s-${k}"></i>${l}</span>`).join("")}</div>
-    ${cards.length ? `<div class="fr-cards">${cards.map(({f,main,counts:c,next,playing})=>{
+    ${FR.sort==="rated" ? `<p class="fr-sortnote">Average score of each franchise's main games. Small franchises are pulled toward a typical score (78), so one great game doesn't top the list.</p>`
+      : FR.sort==="popular" ? `<p class="fr-sortnote">Total player ratings on Backloggd across all of a franchise's games, main and spin-offs.</p>` : ""}
+    ${cards.length ? `<div class="fr-cards">${cards.map(({f,main,counts:c,next,playing,rated,ratedN,popular})=>{
       const total = main.length, avail = total - c.missing;
       const summary = c.played ? `${c.played} of ${total} main games played · ${avail} you can play` : (c.playing ? `Playing ${esc(playing.title)} · ${avail} of ${total} you can play` : `Not started · ${avail} of ${total} you can play`);
       const L = frLetter(f.name), anchor = FR.sort==="az" && L!==lastLetter ? ` id="az-${L}"` : "";
       lastLetter = L;
       return `${anchor ? `<h2 class="az-h"${anchor}>${L}</h2>` : ""}<button type="button" class="fr-card" data-fr="${f.id}">
-        <span class="nm"><b>${esc(f.name)}</b><small>${f.years?f.years.join("–"):""}</small></span>
+        <span class="nm"><b>${esc(f.name)}</b><small>${FR.sort==="rated" && rated!=null ? `<span class="${tone(rated)}" style="font-weight:700">${rated.toFixed(1)}</span> avg of ${ratedN}`
+          : FR.sort==="popular" ? `${fmtCount(popular)} ratings` : f.years?f.years.join("–"):""}</small></span>
         ${frBar(c)}
         <span style="font-size:14px">${summary}</span>
         <small>${playing ? `Playing: <b style="color:var(--ink)">${esc(playing.title)}</b>` : next ? `Next: <b style="color:var(--ink)">${esc(next.title)}</b> (${next.year||"?"}), ${esc(frWhere(next))}` : c.played ? "You've played everything you have" : ""}</small>
       </button>`; }).join("")}</div>` : `<p class="empty">${fq ? "No franchise or game matches that." : "No franchises here yet."}</p>`}`;
   frBindSearch();
 }
+/* Franchise-level numbers for the "Highest rated" and "Most popular" orders. */
+function frStats({main, list}){
+  const sc = main.map(e=>e.score).filter(v=>v!=null);
+  const K = 2, MU = RM.mu ?? 78;  // shrink small franchises toward a typical score
+  const rated = sc.length ? (sc.reduce((a,b)=>a+b,0) + K*MU)/(sc.length + K) : null;
+  const blOf = e=>{ const own = (e.rows||[]).map(g=>(g.counts||{}).backloggd||0); return Math.max((e.counts||{}).backloggd||0, ...own, 0); };
+  return {rated, ratedN: sc.length, popular: (list||main).reduce((a,e)=>a+blOf(e), 0)};
+}
+function fmtCount(n){ return n>=1e6 ? (n/1e6).toFixed(1).replace(/\.0$/,"")+"M" : n>=1e3 ? Math.round(n/1e3)+"K" : String(n); }
 function frBindSearch(){
   const q = $("frq"); if(!q) return;
   q.oninput = e=>{ FR.q = e.target.value; const pos = e.target.selectionStart; render();
