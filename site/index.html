@@ -639,6 +639,14 @@ function detail(g){
   const why = rt ? `<div class="why-score"><p><b class="${tone(avg(g))}">${scoreText(g)}</b> ${rt.C!=null&&rt.P!=null ? "is midway between" : "comes from"} ${pillarLine(g)}${rt.split?` <span class="pill warn">critics ≠ players</span>`:""}</p>
       ${rt.conf==="low"?`<p class="na">Only ${rt.cEst?"players":"critics"} have rated it, so the ${rt.cEst?"critics":"players"} side is estimated.</p>`:""}
       ${rt.notes.length?`<p class="na">${rt.notes.map(esc).join(". ")}.</p>`:""}</div>` : "";
+  if(g._fr) return `<div class="detail">
+    <div class="actions"><button type="button" data-act="played" class="${g._played?"on":""}">${g._played?"Played ✓":"Mark as played"}</button></div>
+    <p class="note">Not in your library${g.year?` · ${g.year}`:""}${g.platforms.length?` · ${g.platforms.map(esc).join(", ")}`:""}</p>
+    ${why}
+    ${g.summary?`<p class="summary">${esc(g.summary)}</p>`:""}
+    <div class="breakdown">${breakdown}</div>
+    ${links?`<div class="links">${links}</div>`:""}
+  </div>`;
   return `<div class="detail">
     <div class="actions">
       <button type="button" data-act="playing" class="${g._playing?"on":""}">${g._playing?"Playing now ✓":"Playing now"}</button>
@@ -1054,7 +1062,7 @@ function frGames(f){
   const list = f.games.map(e=>{
     const rows = e.keys.map(k=>byKey.get(k)).filter(g=>g && !g._hidden);
     let status = "missing";
-    if(rows.some(g=>g._played)) status = "played";
+    if(rows.some(g=>g._played) || (!rows.length && frPlayedUnowned(e))) status = "played";
     else if(rows.some(g=>g._playing)) status = "playing";
     else if(rows.some(g=>lib.has(g.key) && !g.nso && !g.ps_plus)) status = "owned";
     else if(rows.length) status = "sub";
@@ -1264,6 +1272,20 @@ function frSendBtn(e){
   return sent ? `<button type="button" disabled>In your ${esc(CONSOLES[to].label)} suggestions ✓</button>`
               : `<button type="button" data-frsend="${e.id}">Send to ${esc(CONSOLES[to].label)}</button>`;
 }
+/* Franchise games you don't own: their own detail sheet (scores, synopsis) and a Played button. */
+function frPlayedUnowned(e){ const k = "igdb:"+e.id; return liveEdits ? !!EDITS.played[k] : !!e.played; }
+let FR_DETAILS = null;
+async function openFrGame(e){
+  if(!FR_DETAILS){ try{ FR_DETAILS = await fetch("franchise_details.json", {cache:"no-cache"}).then(r=>r.ok?r.json():{}); }catch(err){ FR_DETAILS = {}; } }
+  const g = {key:"igdb:"+e.id, title:e.title, year:e.year, platforms:e.on||[], scores:e.scores||{}, counts:e.counts||{},
+             summary:(FR_DETAILS[e.id]||{}).summary||"", cover:e.cover, matched:true, src:[], _fr:true,
+             links: e.slug ? Object.assign(
+               (e.scores||{}).metacritic!=null ? {metacritic:`https://www.metacritic.com/game/${e.slug}/`} : {},
+               (e.scores||{}).backloggd!=null ? {backloggd:`https://backloggd.com/games/${e.slug}/`} : {},
+               {igdb:`https://www.igdb.com/games/${e.slug}`}) : {}};
+  g._played = frPlayedUnowned(e);
+  openGame(g);
+}
 function frEntry(id){
   const f = FR.data.franchises.find(x=>x.id===FR.open); if(!f) return null;
   return frGames(f).list.find(e=>e.id===+id);
@@ -1464,7 +1486,7 @@ function setup(){
       const pin = t.closest("[data-frpin]"); if(pin){ const x = frEntry(pin.dataset.frpin); if(x && x.row && !x.row._playing) togglePlaying(x.row); return; }
       const op = t.closest("[data-fropen]");
       if(op){ const x = frEntry(op.dataset.fropen); if(!x) return;
-        if(x.row) openGame(x.row); else if(x.slug) window.open(`https://www.igdb.com/games/${x.slug}`, "_blank", "noopener"); }
+        if(x.row) openGame(x.row); else openFrGame(x); }
       return;
     }
     const more=e.target.closest(".more");

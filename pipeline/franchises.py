@@ -55,9 +55,9 @@ PNAMES = {}
 CHILD_PLATS = {}
 DEBUG = None  # set to {} to record why each game was dropped or made a spin-off
 
-FIELDS = ("name,slug,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
+FIELDS = ("name,slug,summary,first_release_date,game_type,cover.image_id,total_rating_count,aggregated_rating,"
           "aggregated_rating_count,rating,rating_count,parent_game,version_parent,platforms,collections.name,franchise,franchises,genres,bundles")
-CACHE_VERSION = 4  # bump when FIELDS change, to fetch everything again
+CACHE_VERSION = 5  # bump when FIELDS change, to fetch everything again
 
 
 # Short platform names for games you don't own (shown greyed out in the guides).
@@ -124,6 +124,12 @@ def _score(g):
     """Same two-pillar score as the library, from what IGDB knows (critics and players)."""
     r = rating.compute({"igdb_critic": g.get("aggregated_rating") or None, "igdb_user": g.get("rating") or None})
     return round(r["score"]) if r else None
+
+
+def _summary(g):
+    """IGDB's synopsis, trimmed like the library's. Shipped separately (franchise_details.json)."""
+    t = (g.get("summary") or "").strip()
+    return t[:400].rsplit(" ", 1)[0] + "…" if len(t) > 420 else t
 
 
 def _ig(g):
@@ -535,7 +541,7 @@ def _auto(fid, name, games, known, by_id, now, cur=None, fids=None):
             "year": _year(g),
             "date": g.get("first_release_date"),
             "cover": _cover(g),
-            "score": _score(g), "ig": _ig(g),
+            "score": _score(g), "ig": _ig(g), "_sum": _summary(g),
             "ratings": r,
             "plats": sorted(g.get("platforms") or []),
             "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None,
@@ -632,7 +638,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
                 continue
             e = by_entry.get(g["id"]) or {
                 "id": g["id"], "title": g.get("name"), "slug": g.get("slug"), "year": _year(g),
-                "date": g.get("first_release_date"), "cover": _cover(g), "score": _score(g), "ig": _ig(g),
+                "date": g.get("first_release_date"), "cover": _cover(g), "score": _score(g), "ig": _ig(g), "_sum": _summary(g),
                 "ratings": g.get("total_rating_count") or 0, "plats": sorted(g.get("platforms") or []),
                 "remake_of": _id(g.get("parent_game")) if _type(g) == 8 else None, "orig_year": None,
                 "keys": sorted(set().union(*(by_id.get(i, set()) for i in [g["id"], *editions.get(g["id"], []), *(_id(b) for b in g.get("bundles") or [])]))),
@@ -643,7 +649,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
             best = max(kids.get(g["id"], []), key=lambda x: x.get("total_rating_count") or 0, default=None)
             if best and (e.get("score") is None or not e.get("cover")):
                 if e.get("score") is None:
-                    e["score"], e["ig"] = _score(best), _ig(best)
+                    e["score"], e["ig"], e["_sum"] = _score(best), _ig(best), _summary(best)
                 e["cover"] = e.get("cover") or _cover(best)
                 e["ratings"] = max(e.get("ratings") or 0, best.get("total_rating_count") or 0)
             if it.get("title"):
@@ -665,7 +671,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
         if g and g["id"] not in chosen and g["id"] not in by_entry:
             by_entry[g["id"]] = {"id": g["id"], "title": it.get("title") or g.get("name"), "slug": g.get("slug"),
                                  "year": _year(g), "date": g.get("first_release_date"), "cover": _cover(g),
-                                 "score": _score(g), "ig": _ig(g), "ratings": g.get("total_rating_count") or 0, "plats": [],
+                                 "score": _score(g), "ig": _ig(g), "_sum": _summary(g), "ratings": g.get("total_rating_count") or 0, "plats": [],
                                  "remake_of": None, "orig_year": None, "spin": True, "section": None,
                                  "keys": sorted(by_id.get(g["id"], set()))}
     sections = [s for s, _ in groups if s]

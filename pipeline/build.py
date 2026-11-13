@@ -834,12 +834,19 @@ def franchise_scores(data, cache, offline=False):
         if i % 50 == 0:
             save_json(CACHE_DIR / "scores.json", cache)
     save_json(CACHE_DIR / "scores.json", cache)
-    # Every game you don't own: the inputs the page needs to score it like the rest of the shelf.
+    # Every game you don't own: the inputs the page needs to score it like the rest of the shelf, plus
+    # its synopsis (in a separate file the page loads only when you open one) and whether you've played it.
+    details, played = {}, (edits.load().get("played") or {})
     for f in data.get("franchises") or []:
         for e in f["games"]:
             ig = e.pop("ig", None) or [None, None, None, None]
+            summary = e.pop("_sum", None)
             if e.get("keys"):
                 continue  # in your library: the page uses your library's score
+            if summary:
+                details[str(e["id"])] = {"summary": summary}
+            if played.get(f"igdb:{e['id']}"):
+                e["played"] = played[f"igdb:{e['id']}"]
             c = cache.get(f"igdb:{e['id']}") or {}
             bl = c.get("backloggd")
             sc = {k: v for k, v in {
@@ -854,6 +861,7 @@ def franchise_scores(data, cache, offline=False):
                 e["scores"], e["counts"] = sc, n
                 r = rating.compute(sc, counts=n)
                 e["score"] = round(r["score"]) if r else e.get("score")
+    save_json(SITE_DIR / "franchise_details.json", details, pretty=False)
 
 
 def main():
