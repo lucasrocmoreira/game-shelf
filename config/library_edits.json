@@ -3378,37 +3378,35 @@
   "steam": {
    "slots": [
     {
-     "key": "igdb:438",
-     "best": "igdb:438",
+     "key": "igdb:158983",
+     "best": "igdb:158983",
      "why": [
-      "Top-rated game you haven't played here (score 90)",
-      "Retro pick (2004)",
-      "A change of genre: RTS, Simulator",
-      "Something longer: about 53h to beat"
+      "Sent here from your Switch 2 suggestions",
+      "Play this game to get to the amazing Final Fantasy VII (88). It's the earliest Final Fantasy game you haven't played."
      ],
-     "sent": false,
+     "sent": true,
      "earlier": null
     },
     {
-     "key": "igdb:124954",
-     "best": "igdb:124954",
+     "key": "igdb:147519",
+     "best": "igdb:147519",
      "why": [
       "Top-rated game you haven't played here (score 88)",
-      "2010s pick (2020)",
-      "A change of genre: RPG, Simulator",
-      "Something longer: about 159.5h to beat"
+      "Modern pick (2023)",
+      "A change of genre: RTS, Simulator",
+      "Something longer: about 106h to beat"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:405028",
-     "best": "igdb:405028",
+     "key": "igdb:23248",
+     "best": "igdb:23248",
      "why": [
-      "Top-rated game you haven't played here (score 77)",
-      "Modern pick (2026)",
-      "A change of genre: Tactical, Indie",
-      "Something longer: about 33355h to beat"
+      "Top-rated game you haven't played here (score 85)",
+      "2010s pick (2018)",
+      "A change of genre: Simulator, Strategy",
+      "Something longer: about 25h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3417,17 +3415,10 @@
    "skip": [
     "igdb:158983",
     "igdb:147519",
-    "igdb:23248",
-    "igdb:438",
-    "igdb:124954",
-    "igdb:405028"
+    "igdb:23248"
    ],
-   "avoid": [
-    "Final Fantasy IV",
-    "Final Fantasy",
-    "Frostpunk"
-   ],
-   "date": "2026-11-13T18:52:17.503Z"
+   "avoid": [],
+   "date": "2026-11-13T18:52:23.030Z"
   },
   "ps5": {
    "slots": [
