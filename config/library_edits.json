@@ -3578,11 +3578,7 @@
       "Something longer: about 48.5h to beat"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:408",
-      "guide": "Final Fantasy",
-      "as": "Final Fantasy"
-     }
+     "earlier": null
     },
     {
      "key": "igdb:26845",
@@ -3593,11 +3589,7 @@
       "Something longer: about 76.5h to beat"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:1435",
-      "guide": "Fire Emblem",
-      "as": "Fire Emblem: Mystery of the Emblem"
-     }
+     "earlier": null
     },
     {
      "key": "igdb:306144",
@@ -3621,7 +3613,7 @@
     "igdb:306144"
    ],
    "avoid": [],
-   "date": "2026-11-11T13:51:01.140Z"
+   "date": "2026-11-13T18:47:22.895Z"
   },
   "ds": {
    "slots": [
