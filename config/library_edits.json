@@ -3770,7 +3770,11 @@
       "About 48h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:1104",
+      "guide": "Metroid",
+      "as": null
+     }
     }
    ],
    "skip": [
@@ -3779,7 +3783,7 @@
     "igdb:1112"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:47:40.884Z"
+   "date": "2026-11-13T18:47:42.989Z"
   }
  },
  "noint": {
