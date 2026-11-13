@@ -3481,11 +3481,7 @@
       "About 15.5h to beat"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:20741",
-      "guide": "Metal Gear",
-      "as": "Metal Gear"
-     }
+     "earlier": null
     },
     {
      "key": "igdb:21084",
@@ -3499,13 +3495,13 @@
      "earlier": null
     },
     {
-     "key": "igdb:20068",
-     "best": "igdb:499",
+     "key": "igdb:549",
+     "best": "igdb:551",
      "why": [
-      "Comes before God of War III (score 91) in the God of War series: play this one first",
-      "Scores 91 itself",
-      "Retro pick (2009)",
-      "About 23.5h to beat"
+      "Comes before God of War II (score 92) in the God of War series: play this one first",
+      "Scores 87 itself",
+      "Retro pick (2005)",
+      "About 10h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3514,10 +3510,11 @@
    "skip": [
     "igdb:376",
     "igdb:21084",
-    "igdb:20068"
+    "igdb:20068",
+    "igdb:549"
    ],
    "avoid": [],
-   "date": "2026-11-11T13:49:22.899Z"
+   "date": "2026-11-13T18:46:22.337Z"
   },
   "vita": {
    "slots": [
