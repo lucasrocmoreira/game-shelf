@@ -18980,6 +18980,17 @@
   "metacritic_n": null,
   "metacritic_slug": null
  },
+ "igdb:203105": {
+  "backloggd": 4.1,
+  "backloggd_n": 13,
+  "bl_v": 3,
+  "checked": "2026-11-13T18:01:46+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": null,
+  "metacritic_n": null,
+  "metacritic_slug": null
+ },
  "igdb:203108": {
   "backloggd": 3.3,
   "backloggd_n": 23,
@@ -32216,6 +32227,15 @@
   "metacritic_n": null,
   "metacritic_slug": null
  },
+ "igdb:351407": {
+  "bl_v": 3,
+  "checked": "2026-11-13T18:01:52+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": null,
+  "metacritic_n": null,
+  "metacritic_slug": null
+ },
  "igdb:351408": {
   "bl_v": 3,
   "checked": "2026-11-11T04:28:34+00:00",
@@ -36319,6 +36339,15 @@
   "metacritic": 67,
   "metacritic_n": 22,
   "metacritic_slug": "innocent-life-a-futuristic-harvest-moon"
+ },
+ "igdb:428613": {
+  "bl_v": 3,
+  "checked": "2026-11-13T18:01:41+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": null,
+  "metacritic_n": null,
+  "metacritic_slug": null
  },
  "igdb:42878": {
   "backloggd": 3.0,
