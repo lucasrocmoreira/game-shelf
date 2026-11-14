@@ -15572,6 +15572,18 @@
   "v": 4,
   "via": "search"
  },
+ "PS4:psplus:10000886": {
+  "candidates": 8,
+  "checked": "2026-11-14T16:37:58+00:00",
+  "conf": "high",
+  "id": 112874,
+  "mp": null,
+  "score": 1.146,
+  "slug": null,
+  "title": "Horizon Forbidden West™",
+  "v": 4,
+  "via": "search"
+ },
  "PS4:psplus:10001019": {
   "candidates": 24,
   "checked": "2026-10-28T03:41:17+00:00",
@@ -15591,6 +15603,18 @@
   "score": 1.125,
   "slug": null,
   "title": "SAMURAI WARRIORS 5",
+  "v": 4,
+  "via": "search"
+ },
+ "PS4:psplus:10001348": {
+  "candidates": 3,
+  "checked": "2026-11-14T16:37:59+00:00",
+  "conf": "high",
+  "id": 119249,
+  "mp": null,
+  "score": 1.132,
+  "slug": null,
+  "title": "Roguebook",
   "v": 4,
   "via": "search"
  },
@@ -15746,6 +15770,18 @@
   "score": 1.131,
   "slug": null,
   "title": "Mighty Morphin Power Rangers: Rita's Rewind",
+  "v": 4,
+  "via": "search"
+ },
+ "PS4:psplus:10010437": {
+  "candidates": 1,
+  "checked": "2026-11-14T16:37:58+00:00",
+  "conf": "high",
+  "id": 194467,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "Poppy Playtime: Chapter 2",
   "v": 4,
   "via": "search"
  },
