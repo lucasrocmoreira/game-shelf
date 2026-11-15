@@ -368270,6 +368270,1256 @@
   "name": "Metroid",
   "v": 5
  },
+ "761": {
+  "checked": "2026-11-15T17:15:27+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 420063,
+     "image_id": "co904f"
+    },
+    "first_release_date": 1371686400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 62090,
+    "name": "Shining Force Cross Exlesia",
+    "platforms": [
+     52
+    ],
+    "slug": "shining-force-cross-exlesia",
+    "summary": "An arcade game in the Shining Force series."
+   },
+   {
+    "bundles": [
+     3198,
+     215416
+    ],
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 107789,
+     "image_id": "co2b65"
+    },
+    "first_release_date": 740966400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15
+    ],
+    "id": 46360,
+    "name": "Shining Force: The Sword of Hajya",
+    "platforms": [
+     37,
+     35
+    ],
+    "rating": 75.23502944235875,
+    "rating_count": 6,
+    "slug": "shining-force-the-sword-of-hajya",
+    "summary": "The peaceful kingdom of Cypress has suddenly been disrupted by the corrupt ambition of the evil King Iom. Terror rampages across the land. The Castle of Cypress is invaded and the magical Sword of Hajya is taken! It will take strength, courage, agility and your keen sense of strategy to defy this ominous power.",
+    "total_rating_count": 6
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 295099,
+     "image_id": "co6bp7"
+    },
+    "first_release_date": 1418256000,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 44561,
+    "name": "Shining Resonance",
+    "platforms": [
+     9
+    ],
+    "slug": "shining-resonance",
+    "summary": "In an ancient continent, a land of God known as “Alfheim” exists.\n\nA long time has passed since the dragons who were once powerful in this world perished. Its souls were crystallized and scattered about the world.\n\nHowever, a dragon survived. And its name is “Kouryuu Ilburn.” Seeking the power of the lost dragon, the Imperial Army and Church powers, and now a “Dragon Slayer” who intends to harm the dragon, have begun to stir.\n\nThe one who saved the dragon from their clutches was a single “young girl.” And before long, warriors known as “Dragon Instrumentalists” began to gather under the dragon. The dragon recalled a childhood memory of a “young girl” who saved him when he was injured. It was a reunion of fate.\n\nA beautiful and painful story about the girl and the dragon will be told"
+   },
+   {
+    "aggregated_rating": 40.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 400439,
+     "image_id": "co8kzb"
+    },
+    "first_release_date": 1017273600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 6593,
+    "name": "Shining Soul",
+    "platforms": [
+     41,
+     24
+    ],
+    "rating": 45.93797444601763,
+    "rating_count": 7,
+    "slug": "shining-soul",
+    "summary": "Enter a world of magic and mystery, where your closest allies may sometimes turn out to be your worst enemies. Shining Soul puts you in the middle of a desperate struggle between the Dark Dragon and a group of warriors known as the Shining Fleet. In the final stage of the war, you can play one of four character classes: fighter, wizard, archer, or dragonute. Customize your character's color schemes, weapons, and armor, and then explore the world of Shining Soul either alone or with three of your friends.",
+    "total_rating_count": 8
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 214899,
+     "image_id": "co4ltf"
+    },
+    "first_release_date": 851040000,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 46063,
+    "name": "Shining the Holy Ark",
+    "platforms": [
+     32
+    ],
+    "rating": 79.14507627753497,
+    "rating_count": 8,
+    "slug": "shining-the-holy-ark",
+    "summary": "As the capable mercenary Arthur, you must summon every ounce of your role-playing prowess and lead your comrades on a do-or-die hunt for the kingdom's sacred artifacts. It's the RPG you've been waiting for, loaded with enough Medieval monsters and challenging \"four character\" control to stretch your role playing skills far beyond your wildest imagination.",
+    "total_rating_count": 8
+   },
+   {
+    "aggregated_rating": 77.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 220120,
+     "image_id": "co4pug"
+    },
+    "first_release_date": 1059004800,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 6594,
+    "name": "Shining Soul II",
+    "platforms": [
+     41,
+     24
+    ],
+    "rating": 78.9431664358385,
+    "rating_count": 10,
+    "slug": "shining-soul-ii",
+    "summary": "As monsters begin to appear in the kingdom Klantol, King Marcel announces a grand tournament at the coliseum to find a hero that can protect the country. Now, as a mighty Brawler, Priestess, Dark Wizard, or Ninja, you must accept the king's challenge. Each character has certain strengths and weaknesses that can mean the difference between victory and defeat in single-player, multiplayer, or cooperative multiplayer modes. In addition to valuable weapons and armor, you can equip your party with Force Links, which, when combined, create a Shining Force--a powerful weapon capable of decimating the enemy forces.",
+    "total_rating_count": 11
+   },
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 420059,
+     "image_id": "co904b"
+    },
+    "first_release_date": 1290643200,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 62091,
+    "name": "Shining Force Cross Raid",
+    "platforms": [
+     52
+    ],
+    "slug": "shining-force-cross-raid",
+    "summary": "The sequel to Shining Force Cross"
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 304354,
+     "image_id": "co6iua"
+    },
+    "first_release_date": 1362009600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 64460,
+    "name": "Shining Ark",
+    "platforms": [
+     38
+    ],
+    "slug": "shining-ark",
+    "summary": "Shining Ark is a role-playing video game developed by Media.Vision and published by Sega for the PlayStation Portable. It is the fifth Shining game with characters designed by Tony Taka. It was released on February 28, 2013 in Japan."
+   },
+   {
+    "bundles": [
+     215416
+    ],
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 107788,
+     "image_id": "co2b64"
+    },
+    "first_release_date": 804470400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16,
+     31
+    ],
+    "id": 3200,
+    "name": "Shining Force Gaiden: Final Conflict",
+    "platforms": [
+     37,
+     35
+    ],
+    "slug": "shining-force-gaiden-final-conflict",
+    "summary": "Shining Force Gaiden: Final Conflict is a turned based strategy game for the Sega Game Gear and the final game in the Shining Force Gaiden series. It was only released in Japan.\n\nLast of the three gaiden (side-story) Shining Force games for Game Gear. The events of the game take place in a time period between the first and the second mainstream Shining Force games. After Max, the leader of the first Shining Force, defeated the Dark Dragon, peace was restored to the world. However, the sorceress Mishaela took control over the forces of evil. Pursuing her, Max' comrades got injured and were forced to quit. Upon returning back to their hometown, they found out Mishaela has already taken the Elder hostage. Lead by the young warrior Ian, the Force has to find Max and to defeat Mishaela."
+   },
+   {
+    "bundles": [
+     7189,
+     46373,
+     50851,
+     74302,
+     80185,
+     112181,
+     191344,
+     202899,
+     213368,
+     215392,
+     215403
+    ],
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 311286,
+     "image_id": "co6o6u"
+    },
+    "first_release_date": 701049600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 3041,
+    "name": "Shining Force",
+    "platforms": [
+     3,
+     5,
+     29,
+     6,
+     39,
+     14
+    ],
+    "rating": 76.6704327486518,
+    "rating_count": 56,
+    "slug": "shining-force",
+    "summary": "Shining Force is a turn-based tactical RPG. Battles take place in square grids, and each unit occupies 1 square. Units can belong to one of two sides: allies (controlled by the player) or enemies (controlled by the computer AI). Each unit can move up to a fixed amount of squares along the battlefield, determined by its Move statistic. Depending on its location relative to enemies and to allies, a unit also has the option to attack, cast a spell, use an item, search (if adjacent to a treasure chest), or stay and do nothing, all of which end the unit's turn. Some commands, such as equipping or dropping items, don't count as actions, and the character's turn is able to continue. The order of the turns is determined by the unit's agility score and a random seed. Units can use offensive actions, such as physical attacks or offensive magic, only on units belonging to the other side and can use supportive actions, such as healing magic, stat-enhancing magic, and items, only on units belonging to the same side.",
+    "total_rating_count": 56
+   },
+   {
+    "bundles": [
+     3198,
+     215416
+    ],
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 199059,
+     "image_id": "co49lf"
+    },
+    "first_release_date": 725241600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16,
+     24,
+     31
+    ],
+    "id": 46307,
+    "name": "Shining Force Gaiden: Ensei - Jashin no Kuni he",
+    "platforms": [
+     37,
+     35
+    ],
+    "slug": "shining-force-gaiden-ensei-jashin-no-kuni-he",
+    "summary": "Shining Force Gaiden is a turn-based tactical RPG. Battles take place in square grids, and each unit occupies 1 square. Units can belong to one of two sides: allies (controlled by the player) or enemies (controlled by the computer AI). Each unit can move up to a fixed amount of squares along the battlefield, determined by its Move statistic. Depending on its location relative to enemies and to allies, a unit also has the option to attack, cast a spell, use an item, search (if adjacent to a treasure chest), or stay and do nothing, all of which end the unit's turn.\n\nSome commands, such as equipping or dropping items, don't count as actions, and the character's turn is able to continue. The order of the turns is determined by the unit's agility score and a random seed. Units can use offensive actions, such as physical attacks or offensive magic, only on units belonging to the other side and can use supportive actions, such as healing magic, stat-enhancing magic, and items, only on units belonging to the same side.\n\nThis game (together with Shining Force: The Sword of Hajya) was later given a remake named Shining Force CD, released on the Sega CD. This remake also saw a western release to both North America and Europe and the full english title was \"Shining Force Gaiden: Towards the Root of Evil\".\nIn 2013 the Game Gear original game got ported to the Nintendo 3DS Virtual Console (Japan only)."
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 200470,
+     "image_id": "co4aom"
+    },
+    "first_release_date": 1179360000,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 72920,
+    "name": "Shining Wind",
+    "platforms": [
+     8
+    ],
+    "slug": "shining-wind",
+    "summary": "Shining Wind is the sequel to Shining Tears. The main characters from Shining Tears appear in Shining Wind as well."
+   },
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 304355,
+     "image_id": "co6iub"
+    },
+    "first_release_date": 1259798400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     33
+    ],
+    "id": 65251,
+    "name": "Shining Force Cross",
+    "platforms": [
+     52
+    ],
+    "slug": "shining-force-cross",
+    "summary": "Is an arcade entry in the Shining series of games. It is a spiritual sequel to Quest of D. It is an action RPG for arcades, but has no trading card elements."
+   },
+   {
+    "collections": [
+     {
+      "id": 6438,
+      "name": "Sega Smash Pack"
+     }
+    ],
+    "cover": {
+     "id": 112939,
+     "image_id": "co2f57"
+    },
+    "first_release_date": 1009756800,
+    "franchises": [
+     457,
+     1781,
+     2132,
+     1777,
+     1778,
+     801,
+     761
+    ],
+    "game_type": 3,
+    "genres": [
+     5,
+     8,
+     9,
+     12,
+     25,
+     30,
+     31,
+     33
+    ],
+    "id": 136874,
+    "name": "Sega Smash Pack: Twin Pack",
+    "platforms": [
+     6
+    ],
+    "slug": "sega-smash-pack-twin-pack",
+    "summary": "In 2002, Sega Smash Pack: Twin Pack was released on PC, and it contained both of the above collections combined.\n\nHowever, the game had issues when it was played on the Windows XP operating system. One of the issues is that when a user plays Sega Smash Pack 1 under XP, Games suddenly quit without error after a certain amount of time."
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 79059,
+     "image_id": "co1p03"
+    },
+    "first_release_date": 1114128000,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 43663,
+    "name": "Shining Tears",
+    "platforms": [
+     8
+    ],
+    "slug": "shining-tears",
+    "summary": "Shining Tears is an old-school Action RPG set in the Shining universe (previous games include Shining in the Darkness and the Shining Force Trilogy). You play Xion, a hero who is drawn into saving the City of Shilidia from a formerly peaceful neighbor due to his possession of the powerful Twin Dragon Rings. This sets the stage for an epic RPG storyline with fun characters and big surprises.\n\nPresented in beautiful hand-drawn 2D graphics and backgrounds, players may choose to go into battles from among 8 unlockable companions, each with their own unique powers, strengths and weaknesses. Furthermore, the co-op system lets two players cooperate in battles, pulling off special combo moves and leveling up their characters together. Interestingly, the companion you pick changes Xion to the opposite 'soul' dark or light due to the nature of the Twin Dragon Rings, with correspondingly different powers. Single players have their companion AI to help them out of tight spots, too."
+   },
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 227715,
+     "image_id": "co4vpf"
+    },
+    "first_release_date": 912470400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15
+    ],
+    "id": 46060,
+    "name": "Shining Force III: Premium Disc",
+    "platforms": [
+     32
+    ],
+    "slug": "shining-force-iii-premium-disc",
+    "summary": "Shining Force III Premium Disc is a supplemental piece of software Camelot issued to Japanese players who submitted proof of purchase for the full Shining Force III trilogy. The Premium Disk included concept art, a character model viewer, and bonus battles to play with data imported from prior Shining Force III scenario discs."
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 66971,
+     "image_id": "vi8zvlp2kfltourcxfnz"
+    },
+    "first_release_date": 1531267200,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "id": 105021,
+    "name": "VR Figure from Shining: Kirika Towa Alma",
+    "platforms": [
+     165
+    ],
+    "slug": "vr-figure-from-shining-kirika-towa-alma",
+    "summary": "Players can interact with and date Kirika, the titular character and one of the heroines in Shining Resonance.\n\nIn the Figure Viewing mode, players can view Kirika for a range of angles using VR while the Event Viewing mode allows one to play through dating events."
+   },
+   {
+    "aggregated_rating": 62.4,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 102494,
+     "image_id": "co2732"
+    },
+    "first_release_date": 1522281600,
+    "franchises": [
+     761
+    ],
+    "game_type": 9,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 75865,
+    "name": "Shining Resonance Refrain",
+    "parent_game": 44561,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 78.79964705645185,
+    "rating_count": 11,
+    "slug": "shining-resonance-refrain",
+    "summary": "A remastered version of the game Shining Resonance released in 2014 on the PlayStation 3. It includes, all the DLCs, a 'refrain mode', a higher resolution that runs at 60fps, rebalanced gameplay, new costumes and a new theme song.",
+    "total_rating_count": 16
+   },
+   {
+    "cover": {
+     "id": 76727,
+     "image_id": "co1n7b"
+    },
+    "first_release_date": 1415145600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 121039,
+    "name": "Blade Arcus from Shining",
+    "platforms": [
+     52,
+     9,
+     48
+    ],
+    "slug": "blade-arcus-from-shining",
+    "summary": "Blade Arcus from Shining EX is said to have a very dense story that revolves around the two protagonists, Ryuga and Pairon.\n\nThe actual combat and gameplay during battles utilizes tag-based mechanics, where a player selects a primary character as well as a secondary character. Players can only switch between the two different characters during rounds, but can also call on their partner for help using 'Link Attacks'."
+   },
+   {
+    "aggregated_rating": 40.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 79058,
+     "image_id": "co1p02"
+    },
+    "first_release_date": 1111622400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 22562,
+    "name": "Shining Force Neo",
+    "platforms": [
+     8
+    ],
+    "slug": "shining-force-neo",
+    "summary": "Max completes his Force military training and returns to his village to meet his family and to find news of his missing brother. Later, the village is attacked by monsters later suspected as remnants of the Legion as well as the appearance of a mysterious figure that seems to know of his brother. This reasons compel Max to seek out the Legion threat, hoping in the process to also find his missing brother.",
+    "total_rating_count": 1
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 618631,
+     "image_id": "cod9c7"
+    },
+    "first_release_date": 1228089600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     24
+    ],
+    "id": 426685,
+    "name": "Shining Wind X",
+    "platforms": [
+     55
+    ],
+    "slug": "shining-wind-x",
+    "summary": "Shining Wind X is a tactical role-playing game for Japanese mobile phones. It features turn-based tactical gameplay similar to Shining Force, incorporating combo attacks and bond systems."
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 199376,
+     "image_id": "co49u8"
+    },
+    "first_release_date": 1292457600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 66402,
+    "name": "Shining Hearts",
+    "platforms": [
+     38
+    ],
+    "slug": "shining-hearts",
+    "summary": "This is a Japan-only game in the Shining franchise.\nThis portable title utilize classic turn-based rpg combat with beautiful hand-drawn character art both in battle and in the world.\n\nThe game was adapted into an anime miniseries called Shining Hearts: Shiawase no Pan."
+   },
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 420065,
+     "image_id": "co904h"
+    },
+    "first_release_date": 1407196800,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 321327,
+    "name": "Shining Force Cross Exlesia Zenith",
+    "platforms": [
+     52
+    ],
+    "slug": "shining-force-cross-exlesia-zenith",
+    "summary": "The fourth installment of Shining Force Cross arcade series."
+   },
+   {
+    "aggregated_rating": 86.5,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 301094,
+     "image_id": "co6gbq"
+    },
+    "first_release_date": 1083283200,
+    "franchises": [
+     761
+    ],
+    "game_type": 8,
+    "genres": [
+     12,
+     15,
+     16,
+     31
+    ],
+    "id": 22285,
+    "name": "Shining Force: Resurrection of the Dark Dragon",
+    "parent_game": 3041,
+    "platforms": [
+     41,
+     24
+    ],
+    "slug": "shining-force-resurrection-of-the-dark-dragon",
+    "summary": "A remake of the original Shining Force that was released in 1992 on the Sega Genesis.\n\nThe mysterious traveler Darksol has worked his way into the King's graces to further his plans of resurrecting an ancient evil, the Dark Dragon. You play the role of Max, a young warrior who remembers nothing of his past.\n\nWhen Guardiana is attacked, you are given an army to lead, & must unravel the mystery behind the Legacy of the Gods, lest the world perish.\"",
+    "total_rating_count": 2
+   },
+   {
+    "bundles": [
+     136874,
+     136876,
+     202900
+    ],
+    "collections": [
+     {
+      "id": 6438,
+      "name": "Sega Smash Pack"
+     }
+    ],
+    "cover": {
+     "id": 52115,
+     "image_id": "zxyh1ls8qazaaslcgf5h"
+    },
+    "first_release_date": 946598400,
+    "franchises": [
+     457,
+     761
+    ],
+    "game_type": 3,
+    "genres": [
+     5,
+     8,
+     25,
+     31,
+     33
+    ],
+    "id": 74302,
+    "name": "Sega Smash Pack 2",
+    "platforms": [
+     6
+    ],
+    "slug": "sega-smash-pack-2",
+    "summary": "The third pack titled Sega Smash Pack 2 (Sega Archives from USA Vol. 3 in Japan) featured eight games."
+   },
+   {
+    "cover": {
+     "id": 304356,
+     "image_id": "co6iuc"
+    },
+    "first_release_date": 1235001600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15
+    ],
+    "id": 47720,
+    "name": "Shining Force Feather",
+    "platforms": [
+     20
+    ],
+    "rating": 47.0,
+    "rating_count": 2,
+    "slug": "shining-force-feather",
+    "total_rating_count": 2
+   },
+   {
+    "cover": {
+     "id": 82684,
+     "image_id": "co1rss"
+    },
+    "first_release_date": 1552521600,
+    "franchises": [
+     761
+    ],
+    "game_type": 10,
+    "genres": [
+     4
+    ],
+    "id": 112589,
+    "name": "Blade Arcus Rebellion from Shining",
+    "parent_game": 121039,
+    "platforms": [
+     48,
+     130
+    ],
+    "slug": "blade-arcus-rebellion-from-shining",
+    "summary": "A fighting game that features characters from Shining series and Sonia from Shining Resonance Refrain. Includes character skills, a growth element that allows you to unlock skills through acquiring points in battle and online mode."
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 205495,
+     "image_id": "co4ek7"
+    },
+    "first_release_date": 808099200,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 46059,
+    "name": "Shining Wisdom",
+    "platforms": [
+     32
+    ],
+    "slug": "shining-wisdom",
+    "summary": "Once, long ago, a fearsome giant known as the \"Dark Titan\" rose from the abyss and nearly destroyed all Palacia before being bound by magic. Now, the Black Elf Pazort is scheming to rule the world by returning the Dark Titan from the depths of the abyss! But, there is hope. Mars, the son of the legendary warrior Jiles, begins his service in the King's guard at castle Odegan this very day. Guide him through the terrifying traps and devious dungeons as you struggle to seal the Four Elementals that can power Pazort's scheme! Your journey will not be easy. The Lily Pads of Sudden Discomfort lie near every watery path. Rainbow Stinger Scorpions block critical junctions. And, Pazort himself waits in the dank depths of the Catacomb Marsh, guarding the rising Titan. To succeed, you must wield special weapons, items, and power orbs with skill never before witnessed in the land. And succeed you must, for failure will result in the end of all mankind, and the loss of that important victory smooch from the princess."
+   },
+   {
+    "bundles": [
+     215702,
+     215742
+    ],
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 380615,
+     "image_id": "co85on"
+    },
+    "first_release_date": 774835200,
+    "franchises": [
+     761
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 3198,
+    "name": "Shining Force CD",
+    "platforms": [
+     78
+    ],
+    "rating": 75.27736131934033,
+    "rating_count": 6,
+    "slug": "shining-force-cd",
+    "summary": "This strategy RPG is a remastered compilation of two earlier Shining force titles: Shining Force Gaiden (originally released in Japan only) and Shining Force: The Sword of Hajya, both for the Game Gear. The two stories put players in the role of Nick, a hero of royal blood who must rescue Queen Anri of Gardiana and reclaim the kingdom of Cypress from the evil empire of Iom's clutches.",
+    "total_rating_count": 6
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 199377,
+     "image_id": "co49u9"
+    },
+    "first_release_date": 1331769600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16
+    ],
+    "id": 65348,
+    "name": "Shining Blade",
+    "platforms": [
+     38
+    ],
+    "slug": "shining-blade",
+    "summary": "This is a Japan-only game in the Shining franchise.\nThe game's battle system is called \"Concerto\", and is a strategic real time battle system similar to the ones found in Sakura Wars and Valkyria Chronicles. The player make use of swords, bows and magic in a battle system that places importance on character cooperation—hence the name \"Concerto\".\nThe player forms a party of up to five for battle. The game will have damage based on character position, and items collected upon defeating enemies.\n\nThe songstresses are special members of the player's battle party. By performing their magic song, they can achieve various effects on battle—blocking enemies from moving, increasing characters' move count, making hasten the party's pace. Some songs can even be used for attack. Using the songs requires Mana Energy.\n\nThe game also has inter-character relationships. Depending on the player's selections during event scenes, movements and usage of group skills during battle, the characters' relationships will change."
+   },
+   {
+    "bundles": [
+     7189,
+     50851,
+     80185,
+     112181,
+     191344,
+     215702,
+     215742
+    ],
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 136619,
+     "image_id": "co2xez"
+    },
+    "first_release_date": 670204800,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     12
+    ],
+    "id": 9406,
+    "name": "Shining in the Darkness",
+    "platforms": [
+     3,
+     5,
+     29,
+     6,
+     14
+    ],
+    "rating": 54.05964265986562,
+    "rating_count": 19,
+    "slug": "shining-in-the-darkness",
+    "summary": "Dark Sol has vowed to reign over the enchanted Kingdom of Thornwood, and only you can stop him. Find the powerful Arms of Light and battle the deadly beasts that keep your people desperate and starving in this epic journey for peace. Roaming the dark Labyrinth, you'll seek out enemies and collect weapons, all of which will help you pass the test of the Ancients and become a shining knight. Get into the adventure with a stunning 3-D perspective, amazing cinematic views and fast-paced scrolling. You'll move from battle to battle, solving puzzles and discovering secret items in this engrossing struggle between good and evil.",
+    "total_rating_count": 19
+   },
+   {
+    "collections": [
+     {
+      "id": 6439,
+      "name": "Sega Forever"
+     }
+    ],
+    "cover": {
+     "id": 466690,
+     "image_id": "coa03m"
+    },
+    "first_release_date": 1540339200,
+    "franchises": [
+     761
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 112181,
+    "name": "Shining Force Classics",
+    "platforms": [
+     34,
+     39
+    ],
+    "slug": "shining-force-classics",
+    "summary": "Three episodes of SEGA’s Shining series hit SEGA Forever in one single app! Sharing the same universe but taking the players through different game genres – both 3D dungeon-crawler and turn-based tactical RPG – this Shining saga throws you and your team into deep stories and large-scale strategic battles. Are you ready for the three quests ahead?"
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "cover": {
+     "id": 623626,
+     "image_id": "codd6y"
+    },
+    "first_release_date": 1110758400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 429460,
+    "name": "Shining Road: To the Force",
+    "platforms": [
+     55
+    ],
+    "slug": "shining-road-to-the-force",
+    "summary": "A mobile tactical RPG set in Endias, the world introduced in Shining Tears. A young adventurer and his companions undertake trials to earn a place among the Shining Force. Players explore dungeons, collect equipment and arrange their party in formations, surrounding enemies to perform powerful link attacks."
+   },
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 420060,
+     "image_id": "co904c"
+    },
+    "first_release_date": 1331769600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 62094,
+    "name": "Shining Force Cross Elysion",
+    "platforms": [
+     52
+    ],
+    "slug": "shining-force-cross-elysion",
+    "summary": "An arcade game in the Shining Force series."
+   },
+   {
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 118041,
+     "image_id": "co2j2x"
+    },
+    "first_release_date": 1169078400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 19254,
+    "name": "Shining Force EXA",
+    "platforms": [
+     55,
+     8
+    ],
+    "slug": "shining-force-exa",
+    "summary": "A bitter war between two world superpowers has raged on for decades with armies of beasts and demons devastating the people and the land. With both sides deadlocked, two young heroes rise up to begin a heroic journey to stop the fighting and unite the divided world. As either Toma, a talented sword fighter boy, or Cyrille, a cunning female sorceress, you'll venture into a stunning world of swords and sorcery teeming with a huge variety of tribes. With aggressive offensive and defensive strategies, you'll lead your battle party into combat while protecting your home base, the Geo Fortress, from massive attacks.",
+    "total_rating_count": 2
+   },
+   {
+    "cover": {
+     "id": 168925,
+     "image_id": "co3mcd"
+    },
+    "first_release_date": 1469664000,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     4
+    ],
+    "id": 23185,
+    "name": "Blade Arcus From Shining: Battle Arena",
+    "platforms": [
+     6
+    ],
+    "rating": 60.0,
+    "rating_count": 0,
+    "slug": "blade-arcus-from-shining-battle-arena",
+    "summary": "The world controlled by blade, magic and fist...Fighters of diverse goals and backgrounds gather for battle...Blade Arcus from Shining Battle Arena is a massive 2D fighting game, developed by Studio Saizensen, featuring characters from the Shining series.",
+    "total_rating_count": 0,
+    "version_parent": 121039
+   },
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 140001,
+     "image_id": "co300x"
+    },
+    "first_release_date": 881798400,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24
+    ],
+    "id": 28396,
+    "name": "Shining Force III",
+    "platforms": [
+     32
+    ],
+    "rating": 79.57978310249246,
+    "rating_count": 11,
+    "slug": "shining-force-iii",
+    "summary": "Shining Force III is a fantasy turn-based tactics role-playing video game designed for the Sega Saturn by Camelot Software Planning. It is a continuation of the Shining series. Comprising three separate but overlapping storylines, the Japanese version of Shining Force III was released in three volumes, known as: \"Scenario 1 - God Warrior of the Kingdom\", \"Scenario 2 - Target: Child of God\", and \"Scenario 3 - \"Bulzome Rising\".\nIn America and Europe, only Scenario 1 was released. The real ending to the game can only be viewed by completing all the games in the series.",
+    "total_rating_count": 11
+   },
+   {
+    "bundles": [
+     7189,
+     50851,
+     80185,
+     112181,
+     191344,
+     215403,
+     215742
+    ],
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 429516,
+     "image_id": "co97f0"
+    },
+    "first_release_date": 749433600,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 3197,
+    "name": "Shining Force II",
+    "platforms": [
+     3,
+     5,
+     29,
+     6,
+     14
+    ],
+    "rating": 85.41129283300131,
+    "rating_count": 60,
+    "slug": "shining-force-ii",
+    "summary": "As a student of Astral the wizard, you and your friends study all the usual subjects: reading, writing, and sword fighting. As your time at school draws to an end, dark events are taking place on the island of Grans. The two Jewels which seal the Door to Darkness have been stolen, allowing a creature of awesome power to be unleashed. Finding where the Jewels were taken, and why, is a task only the bravest of adventurers can undertake.",
+    "total_rating_count": 60
+   },
+   {
+    "collections": [
+     {
+      "id": 2155,
+      "name": "Shining"
+     }
+    ],
+    "first_release_date": 1138320000,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     24
+    ],
+    "id": 429461,
+    "name": "Shining Road 2: Kuroki Ryuu no Miko",
+    "platforms": [
+     55
+    ],
+    "slug": "shining-road-2-kuroki-ryuu-no-miko",
+    "summary": "A sequel to Shining Road: To the Force that continues its party-based dungeon exploration and formation battles. New enemies, traps, stronger bosses and dungeons with party-size restrictions expand the challenges. Players can carry experience and acquired items over from the preceding game."
+   },
+   {
+    "collections": [
+     {
+      "id": 578,
+      "name": "Shining Force"
+     }
+    ],
+    "cover": {
+     "id": 209269,
+     "image_id": "co4hh1"
+    },
+    "first_release_date": 896400000,
+    "franchises": [
+     761
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15
+    ],
+    "id": 46062,
+    "name": "Shining Force III: 2nd Scenario",
+    "platforms": [
+     32
+    ],
+    "rating": 88.91659565275049,
+    "rating_count": 5,
+    "slug": "shining-force-iii-2nd-scenario",
+    "summary": "Scenario 2, Target: Child of God, features Medion, Prince of Destonia, and youngest of three sons of Emperor Domaric. Although loyal to his father and his country, he senses that there are other forces at work beneath the tensions between Aspinia and Destonia. He attends the conference in Saraband on behalf of Destonia, along with his brothers Arrawnt and Mageron. As discovered in Scenario 1, much of this influence comes from the Bulzome sect, as well as collaborating separatist factions within both Destonia and Aspinia. Medion works parallel to Synbios of Aspinia, often disposing of rogue Aspinian elements to spare Synbios's force from fighting against its own countrymen. At the end of the game, Medion is forced to battle with Synbios' force when Julian steps in to stop them.",
+    "total_rating_count": 5
+   }
+  ],
+  "name": "Shining",
+  "v": 5
+ },
  "763": {
   "checked": "2026-11-13T18:00:01+00:00",
   "games": [
