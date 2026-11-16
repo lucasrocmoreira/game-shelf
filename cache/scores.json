@@ -9998,15 +9998,15 @@
  },
  "igdb:14394": {
   "backloggd": 3.8,
-  "backloggd_n": 731,
+  "backloggd_n": 736,
   "bl_v": 3,
-  "checked": "2026-10-17T13:46:29+00:00",
+  "checked": "2026-11-16T20:31:38+00:00",
   "mc_v": 3,
   "metacritic": 80,
   "metacritic_n": null,
   "metacritic_slug": "battle-brothers",
   "oc_checked": "2026-10-17T13:46:34+00:00",
-  "steam_debug": "steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steamspy 200 21455+2874",
+  "steam_debug": "steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steamspy 200 23267+3200",
   "steam_genres": [
    "RPG",
    "Simulation",
@@ -10015,7 +10015,7 @@
   "steam_mc": 80,
   "steam_mc_slug": "battle-brothers",
   "steam_pct": 88,
-  "steam_reviews": 24329,
+  "steam_reviews": 26467,
   "steam_v": 3
  },
  "igdb:1440": {
@@ -10944,9 +10944,9 @@
  },
  "igdb:147519": {
   "backloggd": 3.8,
-  "backloggd_n": 1791,
+  "backloggd_n": 1799,
   "bl_v": 3,
-  "checked": "2026-10-17T13:46:33+00:00",
+  "checked": "2026-11-16T20:31:45+00:00",
   "mc_v": 3,
   "metacritic": 91,
   "metacritic_n": null,
@@ -10956,7 +10956,7 @@
   "opencritic_id": 13940,
   "opencritic_pct": 91,
   "opencritic_tier": "Mighty",
-  "steam_debug": "steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steamspy 200 29837+1575",
+  "steam_debug": "steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steamspy 200 31909+1784",
   "steam_genres": [
    "Simulation",
    "Strategy"
@@ -10964,7 +10964,7 @@
   "steam_mc": 91,
   "steam_mc_slug": "against-the-storm",
   "steam_pct": 95,
-  "steam_reviews": 31412,
+  "steam_reviews": 33693,
   "steam_v": 3
  },
  "igdb:14758": {
@@ -18804,9 +18804,9 @@
  },
  "igdb:20228": {
   "backloggd": 4.0,
-  "backloggd_n": 13323,
+  "backloggd_n": 13391,
   "bl_v": 3,
-  "checked": "2026-10-17T13:46:26+00:00",
+  "checked": "2026-11-16T20:31:32+00:00",
   "mc_v": 3,
   "metacritic": 77,
   "metacritic_n": 34,
@@ -18816,7 +18816,7 @@
   "opencritic_id": 189,
   "opencritic_pct": 62,
   "opencritic_tier": "Strong",
-  "steam_debug": "steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steamspy 200 64644+4385",
+  "steam_debug": "steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steam 200 JSONDecodeError: '<!DOCTYPE html>\\n<html class=\" responsive DesktopUI\" lang=\"en\"  >\\n<head>\\n\\t<meta h'; steamspy 200 67301+4208",
   "steam_genres": [
    "Action",
    "Adventure",
@@ -18825,7 +18825,7 @@
   "steam_mc": null,
   "steam_mc_slug": null,
   "steam_pct": 94,
-  "steam_reviews": 69029,
+  "steam_reviews": 71509,
   "steam_v": 3
  },
  "igdb:202417": {
