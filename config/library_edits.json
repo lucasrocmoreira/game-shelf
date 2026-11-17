@@ -3528,13 +3528,12 @@
   "vita": {
    "slots": [
     {
-     "key": "igdb:1289",
-     "best": "igdb:1773",
+     "key": "igdb:4689",
+     "best": "igdb:4689",
      "why": [
-      "Comes before Ratchet & Clank: Up Your Arsenal (score 89) in the Ratchet & Clank series: play this one first",
-      "Scores 86 itself",
-      "Retro pick (2002)",
-      "About 15.5h to beat"
+      "Top-rated game you haven't played here (score 87)",
+      "Retro pick (2004)",
+      "Included with PS Plus"
      ],
      "sent": false,
      "earlier": null
@@ -3570,14 +3569,16 @@
     "igdb:15709",
     "igdb:376",
     "igdb:1289",
-    "igdb:1798"
+    "igdb:1798",
+    "igdb:4689"
    ],
    "avoid": [
     "Metal Gear",
     "Metal Gear Solid",
-    "God of War"
+    "God of War",
+    "Ratchet & Clank"
    ],
-   "date": "2026-11-17T20:05:37.544Z"
+   "date": "2026-11-17T20:05:42.168Z"
   },
   "switch2": {
    "slots": [
