@@ -26212,6 +26212,18 @@
   "v": 4,
   "via": "fix"
  },
+ "PSP:manual:Monster Hunter Freedom Unite": {
+  "candidates": null,
+  "checked": "2026-11-17T05:38:13+00:00",
+  "conf": "manual",
+  "id": 20427,
+  "mp": null,
+  "score": null,
+  "slug": "monster-hunter-freedom-unite",
+  "title": "Monster Hunter Freedom Unite",
+  "v": 4,
+  "via": "fix"
+ },
  "PSP:manual:Need for Speed Carbon: Own the City": {
   "candidates": null,
   "checked": "2026-10-08T03:28:03+00:00",

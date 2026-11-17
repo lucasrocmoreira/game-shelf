@@ -11068,6 +11068,17 @@
    "playtime_hours": 0.0,
    "source_id": "manual:Resident Evil 4",
    "title": "Resident Evil 4"
+  },
+  {
+   "also_platform": null,
+   "format": "digital",
+   "igdb": "monster-hunter-freedom-unite",
+   "last_played": null,
+   "manual": true,
+   "platform": "PSP",
+   "playtime_hours": 0.0,
+   "source_id": "manual:Monster Hunter Freedom Unite",
+   "title": "Monster Hunter Freedom Unite"
   }
  ],
  "nintendo_eshop": [
