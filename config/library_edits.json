@@ -3429,55 +3429,51 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:135999",
-     "best": "igdb:135999",
+     "key": "igdb:26226",
+     "best": "igdb:26226",
      "why": [
-      "Top-rated game you haven't played here (score 89)",
+      "Top-rated game you haven't played here (score 92)",
       "2010s pick (2018)",
-      "A change of genre: Music, Puzzle",
-      "Not another long one: about 8.5h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:86490",
-      "guide": "Tetris",
-      "as": null
-     }
-    },
-    {
-     "key": "igdb:18696",
-     "best": "igdb:18699",
-     "why": [
-      "Comes before R4: Ridge Racer Type 4 (score 89): play this one first",
-      "Scores 78 itself",
-      "Retro pick (1993)",
-      "A change of genre: Racing",
-      "Not another long one: about 2.5h to beat",
-      "Included with PS Plus"
+      "A breather: about 8.5h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: 2D action"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:143612",
-     "best": "igdb:143612",
+     "key": "igdb:119133",
+     "best": "igdb:119133",
      "why": [
-      "Top-rated game you haven't played here (score 88)",
+      "Top-rated game you haven't played here (score 96)",
       "Modern pick (2022)",
-      "A change of genre: Shooter, Platform",
-      "Not another long one: about 18.5h to beat"
+      "About 101.5h to beat",
+      "A change of style: rpg"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:1128",
+     "best": "igdb:1128",
+     "why": [
+      "Top-rated game you haven't played here (score 91)",
+      "Retro pick (1997)",
+      "About 11.5h to beat",
+      "A change of style: rpg",
+      "Castlevania: 0 of 28 main games played"
      ],
      "sent": false,
      "earlier": null
     }
    ],
    "skip": [
-    "igdb:135999",
-    "igdb:18696",
-    "igdb:143612"
+    "igdb:26226",
+    "igdb:119133",
+    "igdb:1128"
    ],
    "avoid": [],
-   "date": "2026-11-11T13:49:04.734Z"
+   "algo": 2,
+   "date": "2026-11-17T23:48:19.709Z"
   },
   "ps3": {
    "slots": [
@@ -3818,5 +3814,8 @@
   "igdb:1102": "2026-11-12",
   "igdb:374": "2026-11-16",
   "igdb:377": "2026-11-16"
- }
+ },
+ "played_old": {},
+ "prefer": {},
+ "start_here": {}
 }
