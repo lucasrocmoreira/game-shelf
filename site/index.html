@@ -884,7 +884,7 @@ function versionsOf(g){  // every copy of g you have (library or catalog), g inc
   if(!ks) return g._hidden ? [] : [g];
   return ks.map(gameByKey).filter(x=>x && !x._hidden);
 }
-const PLAT_RANK = ["PS5","Switch 2","PS4","Switch","Steam","PS3","Wii U","Wii","Xbox 360","PS Vita","3DS","PSP","DS","PS2","GameCube","PlayStation","N64","GBA","SNES","NES"];
+const PLAT_RANK = ["PS5","Steam","Switch 2","PS4","Switch","PS3","Wii U","Wii","Xbox 360","PS Vita","3DS","PSP","DS","PS2","GameCube","PlayStation","N64","GBA","SNES","NES"];
 const platRank = g=>{ if(g.nso || g.emu) return 50; const r = Math.min(...g.platforms.map(p=>{ const i = PLAT_RANK.indexOf(p); return i<0 ? 40 : i; })); return r; };
 function bestVersion(list){
   /* The version to play: the one you chose ("Prefer this version"), else the newest, unless an older one
@@ -898,6 +898,50 @@ function bestVersion(list){
   return sc(top) >= sc(newest) + 5 ? top : newest;
 }
 const famDone = g=>versionsOf(g).some(x=>x._played || x._playing);
+/* The console that suggests a game you own on several: the one with its best platform (MGS2 on PS3 + Vita
+   is a PS3 suggestion). */
+let LIBSET = null;
+const libKeys = ()=>{ const d = VIEWS.library.data; if(!LIBSET || LIBSET.src !== d) LIBSET = {src: d, s: new Set(((d||{}).games||[]).map(x=>x.key))}; return LIBSET.s; };
+const platIdx = p=>{ const i = PLAT_RANK.indexOf(p); return i<0 ? 40 : i; };
+function homeTab(g){
+  if(!libKeys().has(g.key)) return null;  // catalog games: wherever they show up
+  const rank = p=>(g.emu || g.nso) && p==="Steam" ? 99 : platIdx(p);  // classics: Switch Online before EmuDeck
+  for(const p of g.platforms.slice().sort((a,b)=>rank(a)-rank(b))){
+    const hit = Object.entries(CONSOLES).find(([k,c])=>c.plats && c.plats.includes(p) && !(k==="steam" && emuOnlySteam(g)));
+    if(hit) return hit[0];
+  }
+  return null;
+}
+/* A better version you don't own: a remake or remaster in the franchise guide, or the same game on a newer
+   console you have. Only a note: the copy you own is still the suggestion. */
+const PLAT_TIER = {"PS5":9,"Steam":9,"Switch 2":9,"PS4":8,"Switch":8,"PS3":7,"Wii U":7,"Wii":6,"PS Vita":6,"3DS":6,"PS2":6,"GameCube":6,"PSP":5,"DS":5,"PlayStation":5,"N64":5,"GBA":4,"SNES":4,"NES":3};
+const platTier = p=>PLAT_TIER[p] ?? 3;
+const normPlat = p=>p==="PC" ? "Steam" : p==="PS1" ? "PlayStation" : p;
+let FR_ENTRIES = null;
+function notOwnedNote(g){
+  if(!FR.data) return null;
+  if(!FR_ENTRIES || FR_ENTRIES.src !== FR.data){ const byKey = new Map(), remakes = new Map();
+    for(const f of FR.data.franchises) for(const e of f.games){
+      for(const k of e.keys){ if(!byKey.has(k)) byKey.set(k, []); byKey.get(k).push(e); }
+      if(e.remake_of){ if(!remakes.has(e.remake_of)) remakes.set(e.remake_of, []); remakes.get(e.remake_of).push(e); } }
+    FR_ENTRIES = {src: FR.data, byKey, remakes}; }
+  const vs = versionsOf(g), mine = new Set(vs.flatMap(x=>x.platforms)), ownedKeys = new Set(vs.map(x=>x.key));
+  if(vs.every(x=>x.nso || x.emu)) return null;  // classics on Switch Online / EmuDeck: no note
+  // A version counts as better when it's two steps up: a console generation, with handhelds a step behind
+  // (3DS -> Switch yes; PS4 -> PS5 or Steam no, those are the same game on a newer box).
+  const owned = Math.max(...vs.filter(x=>!x.nso && !x.emu).flatMap(x=>x.platforms).map(platTier));
+  const playable = new Set(Object.values(CONSOLES).flatMap(c=>c.plats||[]));
+  for(const e of FR_ENTRIES.byKey.get(g.key)||[]){
+    const rm = (FR_ENTRIES.remakes.get(e.id)||[]).filter(x=>!x.keys.some(k=>ownedKeys.has(k)) && !x.keys.length && !VERSION_DISTINCT.has(x.id)
+      && (x.score??0) >= (avg(g)??0) - 3 && (x.year||0) > (g.year||0) && (x.on||[]).map(normPlat).some(p=>playable.has(p)));
+    if(vs.some(v=>v.part_of)) rm.length = 0;  // from a collection you own (Crash N. Sane): you have the remake
+    if(rm.length){ const x = rm.sort((a,b)=>(b.score??0)-(a.score??0))[0], on = (x.on||[]).map(normPlat).filter(p=>playable.has(p));
+      return `A newer version you don't own: ${x.title}${on.length ? ` (${on.slice(0,2).join(", ")}${x.score!=null ? `, ${x.score}` : ""})` : ""}`; }
+    const better = [...new Set((e.on||[]).map(normPlat))].filter(p=>playable.has(p) && !mine.has(p) && platTier(p) >= owned + 2).sort((a,b)=>platIdx(a)-platIdx(b));
+    if(better.length) return `Also on ${better.slice(0,2).join(" and ")} (not owned)`;
+  }
+  return null;
+}
 /* What you've been playing, across every console: games marked Playing now, plus your two latest
    finishes. Days with 5+ games marked played at once are backfill, as is anything marked "a while ago". */
 function playContext(){
@@ -971,7 +1015,7 @@ function guidePrev(best, pool){
   if(e){
     // The copy to play: one on this console if you have it there, else the best version.
     const rows = e.rows.filter(r=>ok.has(r.key)), inTab = new Set(DATA.games.map(g=>g.key));
-    const here = rows.filter(r=>inTab.has(r.key)), row = here.length ? (bestVersion(here)||here[0]) : (bestVersion(rows)||rows[0]);
+    const here = rows.filter(r=>inTab.has(r.key) && [state.view, null].includes(homeTab(r))), row = here.length ? (bestVersion(here)||here[0]) : (bestVersion(rows)||rows[0]);
     return {game: row, guide: f.name, as: sameGame(e.title, row.title) ? null : e.title};
   }
   return null;
@@ -1019,7 +1063,11 @@ function suggestions(keep=[null,null,null]){
     seenFam.add(fam);
     if(famDone(g)) continue;  // you played (or are playing) another version
     const vs = versionsOf(g).filter(x=>!x._noint), here = vs.filter(x=>inTab.has(x.key));
-    const best = bestVersion(vs) || g, pick = here.includes(best) ? best : (bestVersion(here) || g);
+    const best = bestVersion(vs) || g;
+    if(!here.includes(best) && libKeys().has(best.key)) continue;  // you own a better version on another console: it's suggested there
+    const pick = here.includes(best) ? best : (bestVersion(here) || g);
+    const home = homeTab(pick);
+    if(home && home !== state.view && !pick._prefer) continue;  // one copy on several consoles: suggested on the best one
     pool.push({g: pick, better: best!==pick && !inTab.has(best.key) ? best : null});
   }
   const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && !x._noint && x.matched
@@ -1033,7 +1081,7 @@ function suggestions(keep=[null,null,null]){
   const resolve = c=>{
     const best = c.g;
     const prev = guidePrev(best, everywhere.filter(x=>!SUGGEST.skip.has(x.key) && !taken(x))) || earliestUnplayed(best, everywhere);
-    if(prev && inTab.has(prev.game.key)) return {game: prev.game, best, prev, here:true, better:null};
+    if(prev && inTab.has(prev.game.key) && [state.view, null].includes(homeTab(prev.game))) return {game: prev.game, best, prev, here:true, better:null};
     return {game: best, best, prev, here:false, better: c.better};
   };
   const blocked = g=>[seriesKey(g), ...(g.series||[])].some(x=>x && ctxSeries.has(x));
@@ -1096,7 +1144,7 @@ function suggestions(keep=[null,null,null]){
     if(st && ctxStyles.size && !ctxStyles.has(st)) why.push(`A change of style: ${st}`);
     if(game._catalog && inTab.has(game.key)) why.push("Included with PS Plus");
     const earlier = !here && prev ? {game: prev.game, guide: prev.guide, as: prev.as||null} : null;  // on another console: a note and a send button
-    slots[n] = {game, why, best, earlier, better};
+    slots[n] = {game, why, best, earlier, better, notOwned: notOwnedNote(game)};
     if(era) eraTaken.add(era.k);
     register(slots[n]);
   }
@@ -1173,6 +1221,7 @@ function openSuggest(mode){
           const where = here ? "this console" : to ? CONSOLES[to].label + (to==="switch2" && (e.nso || e.emu) && !e.platforms.some(x=>x==="Switch"&&!e.nso&&!e.emu) ? " (Switch Online)" : to==="steam" && e.emu ? " (EmuDeck)" : e._catalog ? " (PS Plus)" : "") : e.platforms.join(" / ");
           return `<span class="earlier">But play <b>${esc(p.earlier.as||e.title)}</b>${p.earlier.as?` (in ${esc(e.title)})`:""}${avg(e)!=null?` <span class="${tone(avg(e))}">(${avg(e)})</span>`:""} on ${esc(where)} first. It's the first game${p.earlier.guide?` in the ${esc(p.earlier.guide.replace(/^The /,""))} series`:" in the series"} you haven't played.
             ${to ? `<button type="button" class="iconbtn swap" data-send-earlier="${i}">Send to ${esc(CONSOLES[to].label)}</button>` : ""}</span>`; })() : ""}</span>
+        ${p.notOwned ? `<span class="earlier na">${esc(p.notOwned)}.</span>` : ""}
         ${p.better && consoleFor(p.better) ? `<span class="earlier">Better on ${esc(CONSOLES[consoleFor(p.better)].label)}: <b>${esc(p.better.title)}</b>${avg(p.better)!=null?` <span class="${tone(avg(p.better))}">(${avg(p.better)})</span>`:""}.
             <button type="button" class="iconbtn swap" data-send-better="${i}">Send to ${esc(CONSOLES[consoleFor(p.better)].label)}</button></span>` : ""}</span>
       <span class="pick-side"><span class="score ${tone(a)}">${a??"–"}</span>
