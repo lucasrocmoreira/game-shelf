@@ -802,6 +802,40 @@ def write_catalog(cat_entries, catalog, match_info, igdb_games, library, cache, 
     )
     log(f"PS Plus catalog: {len(games)} games written ({sum(g['owned'] for g in games)} also in your library)")
 
+def apply_story(data):
+    """Series order for Play next (config/story.json): each franchise's story type, its arcs, and the
+    games that are essential, optional, or need another game first."""
+    cfg = load_json(CONFIG_DIR / "story.json", {})
+    default, conf = cfg.get("default", "loose"), cfg.get("franchises") or {}
+    for f in data.get("franchises") or []:
+        c = conf.get(f["name"]) or {}
+        f["story"] = c.get("story", default)
+        if c.get("arcs"):
+            f["arcs"] = c["arcs"]
+        ess, opt, after = set(c.get("ess") or []), set(c.get("opt") or []), c.get("after") or {}
+        for e in f["games"]:
+            if e["id"] in ess:
+                e["ess"] = True
+            if e["id"] in opt:
+                e["opt"] = True
+            if after.get(str(e["id"])):
+                e["after"] = after[str(e["id"])]
+    # What still needs a look (read by the weekly curation check): franchises without a story type, and
+    # games that joined a saga or arcs franchise after it was curated.
+    reviewed, todo = cfg.get("reviewed") or {}, []
+    for f in data.get("franchises") or []:
+        if f["name"] not in conf:
+            todo.append({"franchise": f["name"], "why": "no story type"})
+        elif f["story"] in ("saga", "arcs"):
+            seen = set(reviewed.get(f["name"]) or [])
+            for e in f["games"]:
+                if e["id"] not in seen:
+                    todo.append({"franchise": f["name"], "game": e["title"], "id": e["id"], "year": e.get("year"), "why": "new game in a story series"})
+    data["curation_todo"] = todo
+    if todo:
+        log(f"  Story order: {len(todo)} item(s) to curate (franchises.json curation_todo)")
+
+
 FRANCHISE_SCORE_DAYS = 120  # games you don't own: re-check their scores this often
 
 
@@ -961,6 +995,7 @@ def main():
         try:
             rows = {**{k: r for k, r in catalog.items() if r["catalog_only"]}, **merged}
             fr = franchises.build(igdb, igdb_games, rows)
+            apply_story(fr)
             try:
                 franchise_scores(fr, cache, offline=offline)
             except Exception as e2:

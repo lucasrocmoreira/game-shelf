@@ -1,4 +1,4 @@
-=== ps5  (first round 168 ms)
+=== ps5  (first round 139 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   Celeste [92] 2018 14.5h 2D action {Celeste}
@@ -16,21 +16,20 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Retro pick (1997)
       · About 11.5h to beat
       · A change of style: rpg
-      > but play first: Super Castlevania IV [Steam/SNES]
+      · Castlevania: 0 of 28 main games played
 -- replace all #1
   Big Walk [90] 2026 14h 3D platformer
-  Persona 5 Royal [95] 2016 122.5h rpg {Persona 5, Megami Tensei}
-      > but play first: Shin Megami Tensei: Persona 2 - Innocent Sin [PSP]
   Tekken 2 [83] 1995 6.5h arcade/music {Tekken}
+  Kingdom Come: Deliverance [79] 2018 81.5h shooter {Kingdom Come: Deliverance}
 -- replace all #2
   Dishonored: Definitive Edition [90] 2012 18.5h shooter {Dishonored}
-  Blue Prince [90] 2025 36.5h puzzle/narrative
+  Persona 3 Reload [89] 2024 85.5h rpg {Persona 3, Persona}
   Assassin's Creed II [89] 2009 26h 3D platformer {Assassin's Creed II, Assassin's Creed}
       > but play first: Assassin's Creed: Director's Cut Edition [Steam]
 -- replace all #3
   Rayman Legends [89] 2013 16h 2D action {Rayman}
       > but play first: Rayman Advance [Steam/GBA]
-  The Talos Principle II [89] 2023 32h shooter {Talos Principle}
+  Blue Prince [90] 2025 36.5h puzzle/narrative
   Psychonauts [87] 2005 15.5h 3D platformer {Psychonauts}
 -- replace all #4
   The Stanley Parable: Ultra Deluxe [89] 2011 5h shooter {The Stanley Parable}
@@ -47,24 +46,22 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Oddworld: Abe's Oddysee [84] 1997 14.5h puzzle/narrative {Oddworld}
 -- replace all #7
   Tony Hawk's Pro Skater 1+2 [87] 2020 12h racing/sport {Tony Hawk's}
-      > but play first: Tony Hawk's Pro Skater 2 [Steam/GBA]
-  Moss: Book II [87] 2022 6h puzzle/narrative {Moss}
-  Doom [80] 1993 10h shooter {Doom}
--- replace all #8
-  Cocoon [87] 2023 5.5h puzzle/narrative
+  The Talos Principle II [89] 2023 32h shooter {Talos Principle}
   Lumines [87] 2004 ?h arcade/music {Lumines}
-  Kingdom Come: Deliverance [79] 2018 81.5h shooter {Kingdom Come: Deliverance}
--- replace all #9
-  Gitaroo Man [87] 2001 4.5h arcade/music
-  Undertale [92] 2015 11.5h rpg {Undertale}
-  Prince of Persia: The Lost Crown [87] 2024 24.5h 2D action {Prince of Persia}
-      > but play first: Prince of Persia: Revelations [PSP]
--- replace all #10
-  Neva [86] 2024 4.5h puzzle/narrative
-  BioShock Infinite: The Complete Edition [87] 2013 ?h shooter {Bioshock}
+-- replace all #8
+  Moss: Book II [87] 2022 6h puzzle/narrative {Moss}
+  Grand Theft Auto V [92] 2013 51.5h shooter {Grand Theft Auto}
   Dark Cloud [81] 2000 39.5h rpg {Dark Cloud}
+-- replace all #9
+  Cocoon [87] 2023 5.5h puzzle/narrative
+  Undertale [92] 2015 11.5h rpg {Undertale}
+  Doom [80] 1993 10h shooter {Doom}
+-- replace all #10
+  Gitaroo Man [87] 2001 4.5h arcade/music
+  BioShock Infinite: The Complete Edition [87] 2013 ?h shooter {Bioshock}
+  Citizen Sleeper [85] 2022 10.5h rpg {Citizen Sleeper}
 
-=== ps3  (first round 95 ms)
+=== ps3  (first round 70 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   Dishonored: Definitive Edition [90] 2012 18.5h shooter {Dishonored}
@@ -78,51 +75,52 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Retro pick (2001)
       · About 15.5h to beat
       · A change of style: action-adventure
+      · Metal Gear: 1 of 11 main games played
+      > Also on Steam (not owned)
   LittleBigPlanet [90] 2008 17.5h 2D action {LittleBigPlanet}
       · Top-rated game you haven't played here (score 90)
       · 2008: the other eras had nothing close in score
       · A breather: about 9h for the story, a change from Pokémon SoulSilver Version
       · A change of style: 2D action
+      · LittleBigPlanet: 0 of 5 main games played
 -- replace all #1
   Sly Cooper and the Thievius Raccoonus [85] 2002 7.5h 3D platformer {Sly Cooper}
   The Last of Us: Left Behind [87] 2014 2.5h action-adventure {The Last of Us}
   Braid [88] 2008 6h puzzle/narrative
 -- replace all #2
   Guitar Hero III: Legends of Rock [87] 2007 22h arcade/music {Guitar Hero}
-      > but play first: Guitar Hero [Steam/PS2]
   God of War II [92] 2007 13h action-adventure {God of War}
-  Tales of Symphonia [87] 2003 62.5h rpg {Tales of Symphonia, Tales}
-      > but play first: Tales of Phantasia [Steam/SNES]
+  Metro: Last Light [83] 2013 13.5h shooter {Metro}
+      > but play first: Metro 2033 Redux [PS4/PS5]
 -- replace all #3
   Crysis [86] 2007 11h shooter {Crysis}
-  Silent Hill 2 [90] 2001 9.5h action-adventure {Silent Hill}
   Puppeteer [82] 2013 11.5h 2D action
+  Silent Hill 3 [88] 2003 8h action-adventure {Silent Hill}
 -- replace all #4
   Killzone 2 [85] 2009 11h shooter {Killzone}
       > but play first: Killzone: Liberation [PS4/PS5/PSP]
-  Metro: Last Light [83] 2013 13.5h shooter {Metro}
-      > but play first: Metro 2033 Redux [PS4/PS5]
-  Ratchet & Clank [82] 2002 7h action-adventure {Ratchet & Clank}
+      > Killzone comes first in the Killzone series. You don't have it.
+  Tales of Symphonia [87] 2003 62.5h rpg {Tales of Symphonia, Tales}
+      > but play first: Tales of Phantasia [Steam/SNES]
+  Ratchet & Clank Future: Tools of Destruction [86] 2007 15h action-adventure {Ratchet & Clank Future, Ratchet & Clank}
 -- replace all #5
-  Heavy Rain [84] 2010 12h shooter
+  Hitman: Blood Money [85] 2006 16h shooter {Hitman}
   The Elder Scrolls IV: Oblivion 5th Anniversary Edition [86] 2006 ?h rpg
   Asura's Wrath [77] 2012 9h action-adventure
 -- replace all #6
-  Resistance: Fall of Man [80] 2006 13h shooter {Resistance}
-  Tales of Xillia [80] 2011 51h rpg {Tales of Xillia, Tales}
-      > but play first: Tales of Phantasia [Steam/SNES]
-  Hitman 2: Silent Assassin [83] 2002 15.5h action-adventure {Hitman}
--- replace all #7
-  Ratchet & Clank Future: A Crack in Time [87] 2009 14h shooter {Ratchet & Clank Future, Ratchet & Clank}
-      > but play first: Ratchet & Clank [PS Vita]
+  Heavy Rain [84] 2010 12h shooter
   Strider [76] 2014 8h 2D action {Strider}
       > but play first: Strider [Switch/Genesis]
   Infamous [82] 2009 34h action-adventure {Infamous}
+-- replace all #7
+  Resistance: Fall of Man [80] 2006 13h shooter {Resistance}
+  Tokyo Jungle [76] 2012 21h rpg
+  NieR [77] 2010 35h action-adventure {NieR, Drakengard}
 -- replace all #8
 -- replace all #9
 -- replace all #10
 
-=== vita  (first round 230 ms)
+=== vita  (first round 172 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   LittleBigPlanet [88] 2009 17.5h puzzle/narrative {LittleBigPlanet}
@@ -130,12 +128,13 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Retro pick (2009)
       · A breather: about 9h for the story, a change from Pokémon SoulSilver Version
       · A change of style: puzzle/narrative
-      > but play first: LittleBigPlanet [PS3]
+      · LittleBigPlanet: 0 of 5 main games played
   Metal Gear Solid 3: Snake Eater [94] 2004 19.5h shooter {Metal Gear, Metal Gear Solid}
       · Top-rated game you haven't played here (score 94)
       · 2004: the other eras had nothing close in score
       · About 19.5h to beat
       · A change of style: shooter
+      · Metal Gear: 1 of 11 main games played
       > but play first: Metal Gear Solid 2: Sons of Liberty [PS Vita/PS3]
   Odin Sphere: Leifthrasir [88] 2016 36h rpg
       · Top-rated game you haven't played here (score 88)
@@ -146,10 +145,11 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Jak and Daxter: The Precursor Legacy [87] 2001 11h 3D platformer {Jak and Daxter}
   Rayman Origins [86] 2011 14.5h 2D action {Rayman}
       > but play first: Rayman Advance [Steam/GBA]
-  Shin Megami Tensei: Persona 2 - Innocent Sin [84] 1999 ?h rpg {Persona, Persona 2}
+  Persona 3 Portable [88] 2006 81h rpg {Persona 3, Megami Tensei}
 -- replace all #2
   Hotline Miami [86] 2012 7.5h 2D action {Hotline Miami}
-  Final Fantasy IV [82] 1991 23h rpg {Final Fantasy IV, Final Fantasy}
+  Final Fantasy X [92] 2001 68h rpg {Final Fantasy X, Final Fantasy}
+      > but play first: Final Fantasy VI Advance [Steam/GBA]
   Ratchet & Clank [86] 2002 15.5h action-adventure {Ratchet & Clank}
 -- replace all #3
   Tearaway [86] 2013 7.5h 3D platformer {Tearaway}
@@ -161,11 +161,9 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   LocoRoco [82] 2006 9h puzzle/narrative {LocoRoco}
 -- replace all #5
   Grand Theft Auto: Chinatown Wars [85] 2009 13.5h 2D action {Grand Theft Auto}
-      > but play first: Grand Theft Auto: Vice City - The Definitive Edition [PS4/PS5]
   Borderlands 2 [86] 2012 55h shooter {Borderlands}
       > but play first: Borderlands: Game of the Year Edition [PS4]
   God of War: Chains of Olympus [85] 2008 6h action-adventure {God of War}
-      > but play first: God of War II [PS Vita/PS3]
 -- replace all #6
   Ridge Racer [85] 2004 14h racing/sport {Ridge Racer}
       > but play first: Ridge Racer [PS4/PS5/PS1]
@@ -177,9 +175,8 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Code: Realize - Guardian of Rebirth [84] 2014 29.5h puzzle/narrative {Code: Realize}
   The Legend of Heroes: Trails in the Sky [86] 2004 51.5h rpg {The Legend of Heroes: Trails, The Legend of Heroes}
 -- replace all #8
-  Metal Slug [83] 1996 2h 2D action {Metal Slug}
+  Metal Slug 3 [83] 2000 3h 2D action {Metal Slug}
   Mortal Kombat [85] 2011 19h arcade/music {Mortal Kombat}
-      > but play first: Mortal Kombat [Steam/SNES]
   Monster Hunter Freedom Unite [84] 2006 196h rpg {Monster Hunter Freedom, Monster Hunter}
 -- replace all #9
   Grim Fandango Remastered [83] 1998 11.5h puzzle/narrative
@@ -190,7 +187,7 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien [77] 2013 8h 2D action {Bit.Trip}
   Muramasa Rebirth [83] 2009 22.5h {Muramasa}
 
-=== wii  (first round 89 ms)
+=== wii  (first round 81 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   Rhythm Heaven Fever [87] 2011 11h arcade/music {Rhythm Heaven}
@@ -204,22 +201,24 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Retro pick (2009)
       · About 48h to beat
       · A change of style: shooter
+      · Metroid: 1 of 12 main games played
       > but play first: Metroid Fusion [Steam/Switch/GBA]
+      > Also on Switch (not owned)
   Paper Mario: The Thousand-Year Door [90] 2004 38h rpg {Paper Mario, Mario}
       · Top-rated game you haven't played here (score 90)
       · 2004: the other eras had nothing close in score
       · About 38h to beat
       · A change of style: rpg
+      · Paper Mario: 0 of 7 main games played
       > but play first: Paper Mario [Steam/Switch/N64]
+      > A newer version you don't own: Paper Mario: The Thousand-Year Door (Switch, 92)
 -- replace all #1
   WarioWare: Smooth Moves [85] 2006 5h arcade/music {WarioWare, Mario Bros.}
-      > but play first: WarioWare, Inc.: Mega Microgame$! [Steam/Switch/GBA]
   The Legend of Zelda: Skyward Sword [89] 2011 46.5h action-adventure {The Legend of Zelda}
       > but play first: The Legend of Zelda: A Link to the Past [Steam/Switch/Switch 2/GBA/SNES]
   Zack & Wiki: Quest for Barbaros' Treasure [84] 2007 18h puzzle/narrative
 -- replace all #2
   Kirby's Return to Dream Land [83] 2011 9.5h 2D action {Kirby}
-      > but play first: Kirby's Dream Land [Switch/Game Boy]
   Ōkami [92] 2006 40.5h rpg {Ōkami}
   Sin & Punishment: Star Successor [88] 2009 8.5h action-adventure {Sin and Punishment}
       > but play first: Sin and Punishment [Steam/Switch/N64]
@@ -227,9 +226,7 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Mario Kart Wii [84] 2008 15h racing/sport {Mario Kart, Mario Bros.}
       > but play first: Super Mario Kart [Steam/Switch/SNES]
   Super Smash Bros. Brawl [89] 2008 53.5h 2D action {Super Smash Bros.}
-      > but play first: Super Smash Bros. [Steam/N64]
   Punch-Out!! [87] 2009 11.5h action-adventure {Punch-Out!!}
-      > but play first: Mike Tyson's Punch-Out!! [Switch/NES]
 -- replace all #4
 -- replace all #5
 -- replace all #6
@@ -238,7 +235,7 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
 -- replace all #9
 -- replace all #10
 
-=== switch2  (first round 227 ms)
+=== switch2  (first round 178 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   GoldenEye 007 [91] 1997 13.5h shooter {James Bond}
@@ -251,7 +248,7 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Modern pick (2025)
       · About 48h to beat
       · A change of style: rpg
-      > but play first: Dragon Quest V: Tenkuu no Hanayome [Steam/SNES]
+      · Dragon Quest: 0 of 28 main games played
   Ori and the Blind Forest: Definitive Edition [88] 2015 10.5h 2D action {Ori}
       · Top-rated game you haven't played here (score 88)
       · 2010s pick (2015)
@@ -260,49 +257,48 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Banjo-Kazooie [90] 1998 14h 3D platformer {Banjo-Kazooie, Banjo & Kazooie}
   Vampire Survivors [85] 2022 30h rpg {Vampire Survivors}
   Fire Emblem: Three Houses [89] 2019 76.5h strategy/sim {Fire Emblem}
-      > but play first: Fire Emblem: Genealogy of the Holy War [Steam/SNES]
+      > but play first: Fire Emblem Awakening [3DS]
 -- replace all #2
   Portal [89] 2007 5.5h puzzle/narrative {Portal}
   Triangle Strategy [85] 2022 48.5h strategy/sim
   SoulCalibur II [90] 2002 ?h arcade/music {SoulCalibur}
 -- replace all #3
-  WarioWare, Inc.: Mega Microgame$! [87] 2003 4.5h arcade/music {WarioWare, Mario Bros.}
+  F-Zero GX [89] 2003 20h racing/sport {F-Zero}
   Fire Emblem: Fortune's Weave [89] 2026 116h strategy/sim {Fire Emblem}
-      > but play first: Fire Emblem: Genealogy of the Holy War [Steam/SNES]
+      > but play first: Fire Emblem Awakening [3DS]
   The Legend of Zelda: A Link to the Past [91] 1991 17h puzzle/narrative {The Legend of Zelda: A Link to the Past, The Legend of Zelda}
 -- replace all #4
-  Tetris [86] 1989 5.5h arcade/music {Tetris}
+  WarioWare, Inc.: Mega Microgame$! [87] 2003 4.5h arcade/music {WarioWare, Mario Bros.}
   Final Fantasy VII [90] 1997 48.5h rpg {Compilation of Final Fantasy VII, Final Fantasy VII}
-      > but play first: Final Fantasy IV [Steam]
+      > but play first: Final Fantasy VI Advance [Steam/GBA]
   Dragon Hopper [82] 2026 3h 3D platformer
 -- replace all #5
-  Wave Race 64 [84] 1996 6.5h racing/sport {Wave Race}
+  Tetris [86] 1989 5.5h arcade/music {Tetris}
   Catherine: Full Body [83] 2011 17.5h 2D action {Catherine}
   Golden Sun [88] 2001 26.5h rpg {Golden Sun}
 -- replace all #6
+  Wave Race 64 [84] 1996 6.5h racing/sport {Wave Race}
+  Suikoden [86] 1995 23.5h rpg {Suikoden}
+  Phantasy Star IV: The End of the Millennium [88] 1993 22h rpg {Phantasy Star}
+-- replace all #7
   Rayman 2: The Great Escape [84] 1999 8.5h 3D platformer {Rayman}
       > but play first: Rayman Advance [Steam/GBA]
-  F-Zero [79] 1990 4h racing/sport {F-Zero}
-  Suikoden [86] 1995 23.5h rpg {Suikoden}
--- replace all #7
-  Mike Tyson's Punch-Out!! [83] 1987 4h racing/sport {Punch-Out!!, Mike Tyson}
-  Phantasy Star IV: The End of the Millennium [88] 1993 22h rpg {Phantasy Star}
   Lara Croft and the Temple of Osiris [71] 2014 7h 2D action {Lara Croft, Tomb Raider}
-      > but play first: Lara Croft and the Guardian of Light [Steam/Switch]
--- replace all #8
-  Perfect Dark [81] 2000 16h shooter {Perfect Dark}
   Star Fox [76] 1993 2.5h action-adventure {Star Fox}
+-- replace all #8
+  Streets of Rage 2 [83] 1992 3h arcade/music {Streets of Rage}
   Shining Force [81] 1992 23h rpg {Shining Force, Shining}
--- replace all #9
-  Mole Mania [81] 1996 11h puzzle/narrative
-  Mario Tennis [85] 2000 10.5h rpg {Mario Tennis, Mario}
   Sin and Punishment [84] 2000 2.5h action-adventure {Sin and Punishment}
+-- replace all #9
+  Mike Tyson's Punch-Out!! [83] 1987 4h racing/sport {Punch-Out!!, Mike Tyson}
+  Mario Tennis [85] 2000 10.5h rpg {Mario Tennis, Mario}
+  Donkey Kong 64 [84] 1999 29.5h 3D platformer {Donkey Kong Country, Donkey Kong}
 -- replace all #10
-  Chibi-Robo! [81] 2005 16h 3D platformer {Chibi-Robo!}
-  Harvest Moon [80] 1996 34h rpg {Harvest Moon (old), Harvest Moon}
+  Perfect Dark [81] 2000 16h shooter {Perfect Dark}
+  Harvest Moon 64 [82] 1999 55.5h rpg {Harvest Moon (old), Harvest Moon}
   Wild Guns [82] 1994 1.5h action-adventure {Wild Guns}
 
-=== ds  (first round 368 ms)
+=== ds  (first round 300 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   Mario Kart DS [88] 2005 10.5h racing/sport {Mario Kart, Mario Bros.}
@@ -310,19 +306,21 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Retro pick (2005)
       · A breather: about 4.5h for the story, a change from Pokémon SoulSilver Version
       · A change of style: racing/sport
+      · Mario Kart: 1 of 9 main games played
       > but play first: Super Mario Kart [Steam/Switch/SNES]
   Kirby Mass Attack [79] 2011 12.5h 2D action {Kirby}
       · Top-rated game you haven't played here (score 79)
       · 2010s pick (2011)
       · About 12.5h to beat
       · A change of style: 2D action
-      > but play first: 3D Classics: Kirby's Adventure [3DS]
+      · Kirby: 0 of 16 main games played
   Professor Layton and the Diabolical Box [85] 2007 15h puzzle/narrative {Professor Layton}
       · Comes before Professor Layton and the Unwound Future (score 90) in the Professor Layton series: play this one first
       · Scores 85 itself
       · 2007: the other eras had nothing close in score
       · About 15h to beat
       · A change of style: puzzle/narrative
+      · Professor Layton: 1 of 7 main games played
 -- replace all #1
   Elite Beat Agents [86] 2006 7h arcade/music {Osu! Tatakae! Ouendan}
   Pokémon Conquest [82] 2012 43.5h rpg {Nobunaga's Ambition, Pokémon}
@@ -331,7 +329,7 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Rhythm Heaven [86] 2008 11h arcade/music {Rhythm Heaven}
       > but play first: Rhythm Tengoku [Steam/GBA]
   Phoenix Wright: Ace Attorney [84] 2001 22.5h puzzle/narrative {Ace Attorney}
-  Sonic the Hedgehog [81] 1991 2h 2D action {Sonic the Hedgehog, Sonic The Hedgehog}
+  Sonic the Hedgehog 3 [85] 1994 3.5h 2D action {Sonic the Hedgehog, Sonic The Hedgehog}
 -- replace all #3
   Nine Hours, Nine Persons, Nine Doors [85] 2009 17h puzzle/narrative {Zero Escape}
   Meteos [86] 2005 14h puzzle/narrative {Meteos}
@@ -345,7 +343,6 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       > but play first: Alien 3 [Steam/SNES]
 -- replace all #5
   Contra 4 [82] 2007 5h 2D action {Contra}
-      > but play first: Contra III: The Alien Wars [Steam/SNES]
   Etrian Odyssey [77] 2007 50.5h shooter {Etrian Odyssey}
   Bangai-O Spirits [82] 2008 12h action-adventure {Bangai-O}
       > but play first: Bakuretsu Muteki Bangai-O [Steam/N64]
@@ -353,31 +350,26 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   Peggle: Dual Shot [82] 2009 11.5h puzzle/narrative {Peggle}
   Ōkamiden [80] 2010 22.5h action-adventure {Ōkami}
       > but play first: Ōkami [Wii]
-  Dragon Quest VI: Realms of Revelation [80] 2010 48.5h 2D action {Dragon Quest}
-      > but play first: Dragon Quest V: Tenkuu no Hanayome [Steam/SNES]
+  Tony Hawk's American Sk8land [79] 2005 14h racing/sport {Tony Hawk's}
 -- replace all #7
   Trauma Center: Under the Knife 2 [81] 2008 13h puzzle/narrative {Trauma Center}
   Ninja Gaiden: Dragon Sword [80] 2008 7h action-adventure {Ninja Gaiden}
-      > but play first: Ninja Gaiden [Switch/NES]
-  Tony Hawk's American Sk8land [79] 2005 14h racing/sport {Tony Hawk's}
-      > but play first: Tony Hawk's Pro Skater 2 [Steam/GBA]
+  Geometry Wars: Galaxies [79] 2007 18.5h arcade/music {Geometry Wars}
 -- replace all #8
   N+ [80] 2004 15.5h puzzle/narrative {N}
-  Geometry Wars: Galaxies [79] 2007 18.5h arcade/music {Geometry Wars}
+  Bomberman Land Touch! [78] 2006 13.5h arcade/music {Bomberman Land, Bomberman Land Touch!}
   Metroid Prime Hunters [78] 2006 9.5h shooter {Metroid Prime, Metroid}
 -- replace all #9
-  Sonic the Hedgehog 3 [85] 1994 3.5h 2D action {Sonic the Hedgehog, Sonic The Hedgehog}
-      > but play first: 3D Sonic the Hedgehog [3DS]
-  Scribblenauts [76] 2009 13.5h puzzle/narrative {Scribblenauts}
-  Bomberman Land Touch! [78] 2006 13.5h arcade/music {Bomberman Land, Bomberman Land Touch!}
--- replace all #10
   Kirby Super Star Ultra [83] 2008 8.5h 2D action {Kirby}
-      > but play first: Kirby's Dream Land [Switch/Game Boy]
+  Scribblenauts [76] 2009 13.5h puzzle/narrative {Scribblenauts}
   Chibi-Robo!: Park Patrol [77] 2007 17h action-adventure {Chibi-Robo!}
       > but play first: Chibi-Robo! [Switch 2/GameCube]
+-- replace all #10
+  Sonic & Knuckles [82] 1994 4.5h 2D action {Sonic the Hedgehog, Sonic The Hedgehog}
   Soul Bubbles [76] 2008 8h puzzle/narrative
+  Moon [73] 2009 5.5h shooter {Moon}
 
-=== 3ds  (first round 106 ms)
+=== 3ds  (first round 99 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   Shovel Knight [88] 2014 9.5h 2D action {Shovel Knight}
@@ -390,70 +382,61 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Retro pick (2004)
       · About 76.5h to beat
       · A change of style: rpg
-      > but play first: Dragon Quest V: Tenkuu no Hanayome [Steam/SNES]
+      · Dragon Quest: 0 of 28 main games played
+      > but play first: Dragon Quest V: Hand of the Heavenly Bride [DS]
   The Legend of Zelda: Ocarina of Time 3D [94] 2011 31.5h action-adventure {The Legend of Zelda: Ocarina of Time, The Legend of Zelda}
       · Top-rated game you haven't played here (score 94)
       · 2011: the other eras had nothing close in score
       · About 31.5h to beat
       · A change of style: action-adventure
+      · Legend of Zelda: 1 of 24 main games played
       > but play first: The Legend of Zelda: A Link to the Past [Steam/Switch/Switch 2/GBA/SNES]
 -- replace all #1
   Kirby: Planet Robobot [85] 2016 10.5h 2D action {Kirby}
-      > but play first: Kirby's Dream Land [Switch/Game Boy]
   Xenoblade Chronicles 3D [86] 2010 82.5h rpg {Xenoblade Chronicles, Xeno}
-      > but play first: Xenogears [Steam/PS1]
   Zero Escape: Virtue's Last Reward [87] 2012 35h puzzle/narrative {Zero Escape}
       > but play first: Nine Hours, Nine Persons, Nine Doors [DS]
 -- replace all #2
   Donkey Kong Country Returns 3D [83] 2010 16.5h 2D action {Donkey Kong Country, Donkey Kong}
       > but play first: Donkey Kong Country [Steam/Switch/Switch 2/SNES]
   Monster Hunter 4 Ultimate [89] 2013 153.5h action-adventure {Monster Hunter}
-      > but play first: Monster Hunter Freedom Unite [PSP]
   Pushmo [85] 2011 20h puzzle/narrative {Pushmo}
 -- replace all #3
-  SteamWorld Dig [80] 2013 6.5h puzzle/narrative {SteamWorld}
-  Radiant Historia [85] 2010 41h rpg
+  Mega Man 6 [81] 1993 3h 2D action {Mega Man}
   Kid Icarus: Uprising [86] 2012 27h action-adventure {Kid Icarus}
       > but play first: Kid Icarus [Switch/NES]
+  Shin Megami Tensei IV [86] 2013 62h rpg {Shin Megami Tensei IV, Megami Tensei}
 -- replace all #4
+  SteamWorld Dig [80] 2013 6.5h puzzle/narrative {SteamWorld}
+  Radiant Historia [85] 2010 41h rpg
   Rhythm Heaven Megamix [84] 2015 17h arcade/music {Rhythm Heaven}
       > but play first: Rhythm Tengoku [Steam/GBA]
-  Gyakuten Saiban [87] 2001 13h puzzle/narrative {Ace Attorney}
-  Shin Megami Tensei IV [86] 2013 62h rpg {Shin Megami Tensei IV, Megami Tensei}
-      > but play first: Shin Megami Tensei [Steam/SNES]
 -- replace all #5
   Metroid: Samus Returns [84] 2017 13.5h 2D action {Metroid}
-      > but play first: Metroid Fusion [Steam/Switch/GBA]
-  Tales of the Abyss [82] 2005 62.5h rpg {Tales, Tales of}
-      > but play first: Tales of Phantasia [Steam/SNES]
-  Mario Kart 7 [84] 2011 18h racing/sport {Mario Kart, Mario Bros.}
-      > but play first: Super Mario Kart [Steam/Switch/SNES]
--- replace all #6
-  Shantae and the Pirate's Curse [82] 2014 9.5h 2D action {Shantae}
-  Mega Man [74] 1987 3h 2D action {Mega Man}
+  Gyakuten Saiban 3 [89] 2004 ?h action-adventure {Ace Attorney}
   Etrian Odyssey 2 Untold: The Fafnir Knight [85] 2014 59h shooter {Etrian Odyssey, Etrian Odyssey Untold}
       > but play first: Etrian Odyssey [DS]
--- replace all #7
-  Kirby: Triple Deluxe [82] 2014 11.5h 2D action {Kirby}
-      > but play first: Kirby's Dream Land [Switch/Game Boy]
-  Shin Megami Tensei: Devil Survivor Overclocked [85] 2009 57h strategy/sim {Devil Survivor, Megami Tensei}
+-- replace all #6
+  Mario Kart 7 [84] 2011 18h racing/sport {Mario Kart, Mario Bros.}
+      > but play first: Super Mario Kart [Steam/Switch/SNES]
+  Tales of the Abyss [82] 2005 62.5h rpg {Tales, Tales of}
+      > but play first: Tales of Phantasia [Steam/SNES]
   Boxboy! [79] 2015 4.5h puzzle/narrative {BOXBOY!}
--- replace all #8
-  3D Classics: Kirby's Adventure [81] 1993 4h 2D action {Kirby}
-      > but play first: Kirby's Dream Land [Switch/Game Boy]
-  Fire Emblem Echoes: Shadows of Valentia [84] 2017 47h rpg {Fire Emblem}
-      > but play first: Fire Emblem: Genealogy of the Holy War [Steam/SNES]
-  Professor Layton and the Miracle Mask [82] 2011 24h puzzle/narrative {Professor Layton}
-      > but play first: Professor Layton and the Diabolical Box [DS]
--- replace all #9
-  Mega Man 6 [81] 1993 3h 2D action {Mega Man}
-      > but play first: Mega Man: The Wily Wars [Switch/Genesis]
-  Pocket Card Jockey [84] 2013 46h racing/sport
+-- replace all #7
+  Shantae and the Pirate's Curse [82] 2014 9.5h 2D action {Shantae}
+  Shin Megami Tensei: Devil Survivor Overclocked [85] 2009 57h strategy/sim {Devil Survivor, Megami Tensei}
   WarioWare Gold [81] 2018 6.5h arcade/music {WarioWare, Wario}
-      > but play first: WarioWare, Inc.: Mega Microgame$! [Steam/Switch/GBA]
+-- replace all #8
+  Kirby: Triple Deluxe [82] 2014 11.5h 2D action {Kirby}
+  Monster Hunter 3 Ultimate [84] 2009 162h action-adventure {Monster Hunter}
+  Super Smash Bros. for Nintendo 3DS [82] 2014 38h 2D action {Super Smash Bros.}
+-- replace all #9
+  3D Classics: Kirby's Adventure [81] 1993 4h 2D action {Kirby}
+  Fire Emblem Echoes: Shadows of Valentia [84] 2017 47h rpg {Fire Emblem}
+  3D Sonic the Hedgehog [77] 1991 2h 3D platformer {Sonic the Hedgehog, Sonic The Hedgehog}
 -- replace all #10
 
-=== steam  (first round 96 ms)
+=== steam  (first round 103 ms)
 context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Director's Cut | recent Kingdom Hearts Re:Chain of Memories, Spyro the Dragon
 -- first round
   Portal 2 [95] 2011 14h puzzle/narrative {Portal}
@@ -468,6 +451,7 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
       · Retro pick (1998)
       · A breather: about 12h for the story, a change from Pokémon SoulSilver Version
       · A change of style: shooter
+      · Half-Life: 0 of 5 main games played
   Against the Storm [88] 2023 106h strategy/sim
       · Top-rated game you haven't played here (score 88)
       · Modern pick (2023)
@@ -479,6 +463,7 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
 -- replace all #2
   F.E.A.R. [87] 2005 10h shooter {F.E.A.R.}
   Dead Space 2 [88] 2011 11.5h action-adventure {Dead Space}
+      > but play first: Dead Space [PS5]
   Star Wars: Knights of the Old Republic [91] 2003 36.5h rpg {Star Wars: Knights of the Old Republic, Star Wars}
 -- replace all #3
   The Secret of Monkey Island: Special Edition [86] 2009 7.5h puzzle/narrative {Monkey Island}
@@ -490,27 +475,30 @@ context: playing Pokémon SoulSilver Version, Super Mario Bros. 3, Yakuza 0: Dir
   System Shock 2 [91] 1999 17h shooter {System Shock}
 -- replace all #5
   Halo 2 [92] 2004 12h shooter {Halo}
+      > Halo: Combat Evolved comes first in the Halo series. You don't have it.
   Tabletop Simulator [84] 2015 148h rpg
   Max Payne [88] 2001 9h action-adventure {Max Payne}
 -- replace all #6
   Halo 3 [92] 2007 11h shooter {Halo}
-  The Walking Dead [86] 2012 10h 2D action {The Walking Dead - A Telltale Games Series, The Walking Dead}
+      > Halo: Combat Evolved and Halo 2 come first in the Halo series. You don't have them.
+  Total War: Warhammer II [86] 2017 168h strategy/sim {Total War: Warhammer, Warhammer}
   Fallout: A Post Nuclear Role Playing Game [88] 1997 23h rpg {Fallout}
 -- replace all #7
-  Lara Croft and the Guardian of Light [80] 2010 8h 2D action {Lara Croft, Tomb Raider}
-  Frostpunk [85] 2018 25h strategy/sim {Frostpunk}
+  The Walking Dead [86] 2012 10h 2D action {The Walking Dead - A Telltale Games Series, The Walking Dead}
   Deus Ex: Game of the Year Edition [90] 2000 29h shooter {Deus Ex}
--- replace all #8
-  Halo 3: ODST [83] 2009 8.5h shooter {Halo}
-  L.A. Noire [83] 2011 29.5h action-adventure
   Peak [82] 2025 6h 3D platformer
+-- replace all #8
+  Lara Croft and the Guardian of Light [80] 2010 8h 2D action {Lara Croft, Tomb Raider}
+  L.A. Noire [83] 2011 29.5h action-adventure
+  Age of Mythology: Retold [84] 2024 35h strategy/sim {Age of Mythology, Age of Empires}
 -- replace all #9
-  Halo: Reach [90] 2010 12.5h shooter {Halo}
+  Halo 3: ODST [83] 2009 8.5h shooter {Halo}
+      > Halo: Combat Evolved and Halo 2 (and 1 more) come first in the Halo series. You don't have them.
   Darkwood [83] 2017 27.5h rpg {Darkwood}
-  Grand Theft Auto IV [88] 2008 40.5h action-adventure {Grand Theft Auto}
-      > but play first: Grand Theft Auto: Vice City - The Definitive Edition [PS4/PS5]
+  Total War: Warhammer III [83] 2022 112h strategy/sim {Total War: Warhammer, Total War}
 -- replace all #10
-  Star Wars: Jedi Knight II - Jedi Outcast [80] 2002 14h shooter {Star Wars: Jedi Knight, Star Wars}
+  Halo: Reach [90] 2010 12.5h shooter {Halo}
+      > Halo: Combat Evolved and Halo 2 (and 2 more) come first in the Halo series. You don't have them.
   Sleeping Dogs: Definitive Edition [82] 2012 22.5h action-adventure {Sleeping Dogs}
   Left 4 Dead [87] 2008 19h shooter {Left 4 Dead}
 

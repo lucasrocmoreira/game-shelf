@@ -43,7 +43,8 @@ const ROUNDS = 10;
         return {title: g.title, key: g.key, score: avg(g), year: g.orig_year || g.year, hours: h,
                 series: seriesOf(g).slice(0, 2), style: typeof styleOf === "function" ? styleOf(g) : null,
                 why: p.why, earlier: p.earlier ? p.earlier.game.title + " [" + p.earlier.game.platforms.join("/") + "]" : null,
-                better: p.better ? p.better.title + " [" + p.better.platforms.join("/") + "]" : null};
+                better: p.better ? p.better.title + " [" + p.better.platforms.join("/") + "]" : null,
+                lacking: p.lacking || null, notOwned: p.notOwned || null};
       };
       const check = () => typeof checkPicks === "function" ? checkPicks(SUGGEST.slots) : [];
       const rounds = [SUGGEST.slots.filter(Boolean).map(fmt)], problems = check();
@@ -61,6 +62,8 @@ const ROUNDS = 10;
         if (i === 0) for (const w of p.why) lines.push(`      · ${w}`);
         if (p.earlier) lines.push(`      > but play first: ${p.earlier}`);
         if (p.better) lines.push(`      > better version: ${p.better}`);
+        if (p.lacking) lines.push(`      > ${p.lacking}`);
+        if (i === 0 && p.notOwned) lines.push(`      > ${p.notOwned}`);
       }
     });
     // Assertions that hold for any algorithm version

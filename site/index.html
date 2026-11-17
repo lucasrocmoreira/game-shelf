@@ -339,7 +339,7 @@ const emuOnlySteam = g => !!g.emu && !g.steam_native;  // on Steam only through 
 const beat = g => g.ttb ? (g.ttb.extra ?? g.ttb.main ?? g.ttb.complete ?? null) : null;  // hours for main story + extras (you take your time)
 const hrs = h => h==null ? "–" : (h<1 ? "<1h" : (Number.isInteger(h) ? h : h.toFixed(1)) + "h");
 const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","Quest","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
-const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, playing:{}, added:[], match:{}, sent:{}, suggest:{}, noint:{}, played_old:{}, prefer:{}});
+const EMPTY_EDITS = () => ({hidden:{}, unhidden:{}, played:{}, playing:{}, added:[], match:{}, sent:{}, suggest:{}, noint:{}, played_old:{}, prefer:{}, start_here:{}});
 
 const store = {
   get(k, d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch{ return d; } },
@@ -996,29 +996,70 @@ function sentHere(){  // suggestions sent to this console from another tab, newe
     .sort((a,b)=>String(b.info.date).localeCompare(String(a.info.date))).slice(0,3)
     .map(({g,info})=>({game:g, best:g, sent:true, why:[info.guide ? `Up next in your ${info.guide} guide` : `Sent here from your ${info.from} suggestions`, ...(info.why?[info.why]:[])]}));
 }
-function guidePrev(best, pool){
-  /* Earlier games in best's franchise guide: same sub-series, before it, that you have (any console or
-     subscription) and haven't played, not covered by a remake you played, and not worth skipping.
-     The earliest such game is the one mentioned. */
-  if(!FR.data || !FR.data.franchises) return null;
-  if(!FR._byKey){ FR._byKey = new Map();
-    for(const f of FR.data.franchises) for(const e of f.games) if(!e.spin) for(const k of e.keys) if(!FR._byKey.has(k)) FR._byKey.set(k, f); }
-  const f = FR._byKey.get(best.key); if(!f) return null;
-  const G = frGames(f);
-  const me = G.main.find(e=>e.keys.includes(best.key)); if(!me) return null;
-  const line = G.sections ? G.sections.find(s=>s.games.includes(me)).games : G.main;
-  const ok = new Set(pool.map(g=>g.key));
-  let at = line.indexOf(me);
-  if(me.remake_of){ const o = line.findIndex(x=>x.id===me.remake_of); if(o>=0) at = o; }  // a remake sits where the original did
-  // The first game in the series you have (any console or subscription) and haven't played.
-  const e = line.slice(0, at).find(e=>(e.status==="owned"||e.status==="sub") && !e.coveredBy && !e.skip && !e.noint && e.rows.some(r=>ok.has(r.key)));
-  if(e){
-    // The copy to play: one on this console if you have it there, else the best version.
-    const rows = e.rows.filter(r=>ok.has(r.key)), inTab = new Set(DATA.games.map(g=>g.key));
-    const here = rows.filter(r=>inTab.has(r.key) && [state.view, null].includes(homeTab(r))), row = here.length ? (bestVersion(here)||here[0]) : (bestVersion(rows)||rows[0]);
-    return {game: row, guide: f.name, as: sameGame(e.title, row.title) ? null : e.title};
+/* Series order (config/story.json, per franchise):
+   saga  = one continuous plot: every earlier main game counts, except "optional" ones;
+   arcs  = separate story arcs, each a saga (Yakuza: Kiryu, then Ichiban), in the curated play order;
+   loose = standalone stories: only earlier must-plays count (88+, the first main game, or "essential");
+   none  = any order. Every type also follows explicit "after" links (Lost Legacy needs Uncharted 4).
+   Games under 70 are skipped unless marked essential. A remake you have stands in for its original. */
+let FR_ALL = null;
+function frEntriesOf(key){  // every guide entry (main and spin-offs) that is this game
+  if(!FR.data || !FR.data.franchises) return [];
+  if(!FR_ALL || FR_ALL.src !== FR.data){ const m = new Map();
+    for(const f of FR.data.franchises) for(const e of f.games) for(const k of e.keys){ if(!m.has(k)) m.set(k, []); m.get(k).push({f, id:e.id, spin:!!e.spin}); }
+    FR_ALL = {src: FR.data, m}; }
+  return (FR_ALL.m.get(key)||[]).slice().sort((a,b)=>a.spin-b.spin);
+}
+const MUST_PLAY = 88;
+function seriesNeeds(best, pool){
+  const hit = frEntriesOf(best.key)[0]; if(!hit) return null;
+  const f = hit.f, G = frGames(f), story = f.story || "loose";
+  const me = G.list.find(e=>e.id===hit.id); if(!me) return null;
+  if((EDITS.start_here||{})[f.id+":"+me.id]) return {f, me, G, story, required:[], start:true};
+  const byId = new Map(G.list.map(e=>[e.id, e]));
+  const at = e=>e.original && !e.original.spin ? e.original : e;  // a remake sits where its original did
+  const line = l=>l.filter(e=>!e.remake_of || !byId.has(e.remake_of));  // originals only
+  let req = [];
+  if(story === "saga" || story === "loose"){
+    const sec = at(me).section, main = line(G.main).filter(e=>(e.section||null)===(sec||null));
+    const i = main.indexOf(at(me));
+    const earlier = i > 0 ? main.slice(0, i) : (me.spin ? [] : main.filter(e=>(e.year||0) < (at(me).year||0)));
+    req = story === "saga" ? earlier.filter(e=>!e.opt)
+        : earlier.filter(e=>e.ess || (e.score??0) >= MUST_PLAY || (e===main[0] && (e.score??0) >= 75 && e.rows.length));  // the first game counts only if you have it
+  } else if(story === "arcs"){
+    const arcs = Object.values(f.arcs||{});  // a remake listed in an arc keeps that place (Anniversary in the Legend trilogy)
+    const arc = arcs.find(ids=>ids.includes(me.id)) || arcs.find(ids=>ids.includes(at(me).id));
+    if(arc){ const pos = arc.includes(me.id) ? arc.indexOf(me.id) : arc.indexOf(at(me).id);
+      req = arc.slice(0, pos).map(id=>byId.get(id)).filter(e=>e && !e.opt); }
   }
-  return null;
+  for(const id of me.after||[]){ const e = byId.get(id); if(e && !req.includes(e)) req.push(e); }
+  // Played (or a played remake), not interested, or skippable (under 70, not essential): not needed.
+  const done = e=>e.status==="played" || e.status==="playing" || e.coveredBy || (e.remakes||[]).some(r=>r.status==="played"||r.status==="playing");
+  req = req.filter(e=>!done(e) && !e.noint && !(e.skip && !e.ess));
+  return {f, me, G, story, required: req};
+}
+function frProgress(f, g){
+  const G = frGames(f), entry = frEntriesOf(g.key).find(x=>x.f===f);
+  const e = entry && G.list.find(x=>x.id===entry.id); if(!e) return null;
+  const line = e.section && G.sections ? (G.sections.find(s=>s.name===e.section)||{}).games : G.main;
+  if(!line || line.length < 3) return null;
+  const played = line.filter(x=>x.status==="played").length;
+  return `${e.section || f.name.replace(/^The /,"")}: ${played} of ${line.length} main games played`;
+}
+function guidePrev(best, pool){
+  /* The first game the series needs before this one that you have and haven't played (any console or
+     subscription). Games it needs that you don't have are named in a note. */
+  const n = seriesNeeds(best, pool); if(!n || n.start || !n.required.length) return n && !n.start ? {none:true, f:n.f, me:n.me} : null;
+  const ok = new Set(pool.map(g=>g.key)), inTab = new Set(DATA.games.map(g=>g.key)), missing = [];
+  for(const e of n.required){
+    // Its copies, or a remake's (Yakuza Kiwami plays Yakuza 1), that you can play.
+    const rows = [...e.rows, ...(e.remakes||[]).filter(r=>!VERSION_DISTINCT.has(r.id)).flatMap(r=>r.rows)].filter(r=>ok.has(r.key));
+    if(!rows.length){ missing.push(e.title); continue; }
+    const here = rows.filter(r=>inTab.has(r.key) && [state.view, null].includes(homeTab(r)));
+    const row = here.length ? (bestVersion(here)||here[0]) : (bestVersion(rows)||rows[0]);
+    return {game: row, guide: n.f.name, as: sameGame(e.title, row.title) ? null : e.title, missing, f:n.f, me:n.me};
+  }
+  return {none:true, missing, guide: n.f.name, f:n.f, me:n.me};
 }
 function sameGame(a, b){  // "Final Fantasy VI" vs "Final Fantasy VI Advance": same game; vs "Metal Gear Solid HD Collection": a collection
   const n = x=>x.toLowerCase().replace(/[^a-z0-9]+/g," ").trim(); a = n(a); b = n(b);
@@ -1072,7 +1113,8 @@ function suggestions(keep=[null,null,null]){
   }
   const everywhere = allGames().filter(x=>!x._hidden && !x._played && !x._playing && !x._noint && x.matched
     && !(state.view==="steam" && emuOnlySteam(x)) && !famDone(x));
-  const slots = keep.slice(), avoid = new Set(SUGGEST.avoid), usedSeries = new Set(), usedStyles = new Set();
+  const ban = x=>Array.isArray(x) ? (Date.now() - Date.parse(x[1])) < 60*864e5 : true;
+  const slots = keep.slice(), avoid = new Set(SUGGEST.avoid.filter(ban).map(x=>Array.isArray(x) ? x[0] : x)), usedSeries = new Set(), usedStyles = new Set();
   const taken = g=>slots.some(p=>p && (famIndex().root(p.game.key)===famIndex().root(g.key) || (p.best && p.best.key===g.key)));
   const register = p=>{ for(const x of [...seriesOf(p.game), ...seriesOf(p.best||p.game), seriesKey(p.game), seriesKey(p.best||p.game)]) if(x) usedSeries.add(x);
                         if(styleOf(p.game)) usedStyles.add(styleOf(p.game)); };
@@ -1080,9 +1122,11 @@ function suggestions(keep=[null,null,null]){
   // An earlier game in the series that you haven't played: on this console it becomes the pick.
   const resolve = c=>{
     const best = c.g;
-    const prev = guidePrev(best, everywhere.filter(x=>!SUGGEST.skip.has(x.key) && !taken(x))) || earliestUnplayed(best, everywhere);
-    if(prev && inTab.has(prev.game.key) && [state.view, null].includes(homeTab(prev.game))) return {game: prev.game, best, prev, here:true, better:null};
-    return {game: best, best, prev, here:false, better: c.better};
+    const gp = guidePrev(best, everywhere.filter(x=>!SUGGEST.skip.has(x.key) && !taken(x)));
+    const prev = gp && gp.game ? gp : (gp ? null : earliestUnplayed(best, everywhere));
+    const info = gp ? {missing: gp.missing||[], f: gp.f, me: gp.me} : {missing: []};
+    if(prev && inTab.has(prev.game.key) && [state.view, null].includes(homeTab(prev.game))) return {game: prev.game, best, prev, here:true, better:null, ...info};
+    return {game: best, best, prev, here:false, better: c.better, ...info};
   };
   const blocked = g=>[seriesKey(g), ...(g.series||[])].some(x=>x && ctxSeries.has(x));
   const veryLongTaken = ()=>slots.some(p=>p && (hoursOf(p.game)||0) >= VERY_LONG);
@@ -1130,7 +1174,7 @@ function suggestions(keep=[null,null,null]){
             c = A && B ? (sc(B) - sc(A) >= 5 ? B : A) : (A || B || top); }
     if(!c && breather) continue;
     if(!c) continue;
-    const {game, best, prev, here, better} = c, why = [];
+    const {game, best, prev, here, better, missing, f, me} = c, why = [];
     if(here){
       why.push(`Comes before ${best.title} (score ${avg(best)})${prev.guide?` in the ${prev.guide.replace(/^The /,"")} series`:""}: play this one first`);
       if(avg(game)!=null) why.push(`Scores ${avg(game)} itself`);
@@ -1143,8 +1187,13 @@ function suggestions(keep=[null,null,null]){
     const st = styleOf(game);
     if(st && ctxStyles.size && !ctxStyles.has(st)) why.push(`A change of style: ${st}`);
     if(game._catalog && inTab.has(game.key)) why.push("Included with PS Plus");
+    // Where you are in the series (big series only)
+    const prog = f ? frProgress(f, game) : null;
+    if(prog) why.push(prog);
     const earlier = !here && prev ? {game: prev.game, guide: prev.guide, as: prev.as||null} : null;  // on another console: a note and a send button
-    slots[n] = {game, why, best, earlier, better, notOwned: notOwnedNote(game)};
+    const lacking = (missing||[]).length ? `${missing.slice(0,2).join(" and ")}${missing.length>2?` (and ${missing.length-2} more)`:""} ${missing.length>1?"come":"comes"} first in the ${f.name.replace(/^The /,"")} series. You don't have ${missing.length>1?"them":"it"}.` : null;
+    slots[n] = {game, why, best, earlier, better, notOwned: notOwnedNote(game), lacking,
+                startHere: f && me && (here || earlier || lacking) ? {fid: f.id, eid: me.id, title: best.title} : null};
     if(era) eraTaken.add(era.k);
     register(slots[n]);
   }
@@ -1169,7 +1218,7 @@ function checkPicks(slots){
 function saveSuggest(){
   const v = state.view, data = {slots: SUGGEST.slots.map(p=>p ? {key:p.game.key, best:(p.best||p.game).key, why:p.why, sent:!!p.sent,
                                    earlier: p.earlier ? {key:p.earlier.game.key, guide:p.earlier.guide||null, as:p.earlier.as||null} : null} : null),
-                                 skip: [...SUGGEST.skip].slice(-300), avoid: SUGGEST.avoid.slice(-40), algo: PLAYNEXT_ALGO};
+                                 skip: [...SUGGEST.skip].slice(-300), avoid: SUGGEST.avoid.slice(-60), algo: PLAYNEXT_ALGO};
   const cur = (EDITS.suggest||{})[v];
   if(cur && JSON.stringify({slots:cur.slots, skip:cur.skip, avoid:cur.avoid}) === JSON.stringify(data)) return;
   EDITS.suggest = {...(EDITS.suggest||{}), [v]: {...data, date: new Date().toISOString()}};
@@ -1197,11 +1246,15 @@ function openSuggest(mode){
     for(const p of sentHere()) if(!SUGGEST.slots.some(x=>x && x.game.key===p.game.key)){  // newly sent games go first
       const i = SUGGEST.slots.findIndex(x=>!x); SUGGEST.slots[i>=0 ? i : 2] = p; }
   }
+  else if(typeof mode==="string" && mode.startsWith("refill:")){
+    const i = +mode.slice(7); SUGGEST.slots = SUGGEST.slots.map((p,j)=>j===i ? null : p);
+  }
   else {
     // Replacing a pick means "not this series right now": its franchise (and the game it led to) step aside.
     const gone = SUGGEST.slots.filter((p,i)=>p && (mode==="all" || i===mode));
     const names = gone.flatMap(p=>[...seriesOf(p.game), ...seriesOf(p.best||p.game)]);
-    SUGGEST.avoid = [...SUGGEST.avoid.filter(n=>!names.includes(n)), ...new Set(names)].slice(-40);
+    const d = today();  // a replaced series stays away for 60 days, not forever
+    SUGGEST.avoid = [...SUGGEST.avoid.filter(x=>!names.includes(Array.isArray(x) ? x[0] : x)), ...[...new Set(names)].map(n=>[n, d])].slice(-60);
     SUGGEST.slots = mode==="all" ? [null,null,null] : SUGGEST.slots.map((p,i)=>i===mode ? null : p);
   }
   const {slots, picks, ctx, longCtx} = suggestions(SUGGEST.slots);
@@ -1217,11 +1270,13 @@ function openSuggest(mode){
     ${picks.length ? `<div class="picks">${slots.map((p,i)=>{ if(!p) return ""; const {game:g,why}=p, a=avg(g); return `<div class="pick" role="button" tabindex="0" data-key="${esc(g.key)}">
       ${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<img alt="">`}
       <span><b>${esc(g.title)}</b><span class="na">${[esc((g.genres||[]).slice(0,2).join(", ")), g.year||""].filter(Boolean).join(" · ")}</span><ul>${why.map(w=>`<li>${esc(w)}</li>`).join("")}</ul>
-        ${p.earlier ? (()=>{ const e = p.earlier.game, here = DATA.games.some(y=>y.key===e.key), to = here ? null : consoleFor(e);
+        ${p.earlier ? (()=>{ const e = p.earlier.game, here = DATA.games.some(y=>y.key===e.key) && [state.view, null].includes(homeTab(e)), to = here ? null : (homeTab(e) || consoleFor(e));
           const where = here ? "this console" : to ? CONSOLES[to].label + (to==="switch2" && (e.nso || e.emu) && !e.platforms.some(x=>x==="Switch"&&!e.nso&&!e.emu) ? " (Switch Online)" : to==="steam" && e.emu ? " (EmuDeck)" : e._catalog ? " (PS Plus)" : "") : e.platforms.join(" / ");
-          return `<span class="earlier">But play <b>${esc(p.earlier.as||e.title)}</b>${p.earlier.as?` (in ${esc(e.title)})`:""}${avg(e)!=null?` <span class="${tone(avg(e))}">(${avg(e)})</span>`:""} on ${esc(where)} first. It's the first game${p.earlier.guide?` in the ${esc(p.earlier.guide.replace(/^The /,""))} series`:" in the series"} you haven't played.
-            ${to ? `<button type="button" class="iconbtn swap" data-send-earlier="${i}">Send to ${esc(CONSOLES[to].label)}</button>` : ""}</span>`; })() : ""}</span>
+          return `<span class="earlier">But play <b>${esc(p.earlier.as||e.title)}</b>${p.earlier.as?` (in ${esc(e.title)})`:""}${avg(e)!=null?` <span class="${tone(avg(e))}">(${avg(e)})</span>`:""} on ${esc(where)} first. It comes earlier${p.earlier.guide?` in the ${esc(p.earlier.guide.replace(/^The /,""))} series`:" in the series"} and you haven't played it.
+            ${to ? `<button type="button" class="iconbtn swap" data-send-earlier="${i}">Send to ${esc(CONSOLES[to].label)}</button>` : ""}</span>`; })() : ""}
         ${p.notOwned ? `<span class="earlier na">${esc(p.notOwned)}.</span>` : ""}
+        ${p.lacking ? `<span class="earlier na">${esc(p.lacking)}</span>` : ""}
+        ${p.startHere ? `<span class="earlier"><button type="button" class="iconbtn swap" data-start-here="${i}" title="Play ${esc(p.startHere.title)} without the earlier games; Play next won't ask about them again">Start here anyway</button></span>` : ""}
         ${p.better && consoleFor(p.better) ? `<span class="earlier">Better on ${esc(CONSOLES[consoleFor(p.better)].label)}: <b>${esc(p.better.title)}</b>${avg(p.better)!=null?` <span class="${tone(avg(p.better))}">(${avg(p.better)})</span>`:""}.
             <button type="button" class="iconbtn swap" data-send-better="${i}">Send to ${esc(CONSOLES[consoleFor(p.better)].label)}</button></span>` : ""}</span>
       <span class="pick-side"><span class="score ${tone(a)}">${a??"–"}</span>
@@ -1243,6 +1298,11 @@ function openSuggest(mode){
             `Unsend: ${p.game.title}`, `${p.game.title} removed from your ${CONSOLES[state.view].label} suggestions`).then(ok=>{ if(ok) openSuggest(i); });
       } else openSuggest(i);
       return; }
+    const sh = e.target.closest("[data-start-here]");
+    if(sh){ e.stopPropagation(); const i = +sh.dataset.startHere, p = SUGGEST.slots[i], s0 = p.startHere;
+      act(d=>{ d.start_here = d.start_here||{}; d.start_here[s0.fid+":"+s0.eid] = today(); },
+          `Start here: ${s0.title}`, `Play next won't ask about earlier games before ${s0.title} again`).then(ok=>{ if(ok) openSuggest("refill:"+i); });
+      return; }
     const sb = e.target.closest("[data-send-better]");
     if(sb){ e.stopPropagation(); const p = SUGGEST.slots[+sb.dataset.sendBetter], g = p.better, to = consoleFor(g), from = CONSOLES[state.view].label;
       act(d=>{ d.sent = d.sent||{}; d.sent[to] = d.sent[to]||{};
@@ -1251,7 +1311,7 @@ function openSuggest(mode){
           `${g.title} is now a suggestion on your ${CONSOLES[to].label}`).then(ok=>{ if(ok){ sb.textContent = `Sent to ${CONSOLES[to].label}`; sb.disabled = true; } });
       return; }
     const se = e.target.closest("[data-send-earlier]");
-    if(se){ e.stopPropagation(); const p = SUGGEST.slots[+se.dataset.sendEarlier], g = p.earlier.game, to = consoleFor(g), from = CONSOLES[state.view].label;
+    if(se){ e.stopPropagation(); const p = SUGGEST.slots[+se.dataset.sendEarlier], g = p.earlier.game, h = homeTab(g), to = h && h!==state.view ? h : consoleFor(g), from = CONSOLES[state.view].label;
       act(d=>{ d.sent = d.sent||{}; d.sent[to] = d.sent[to]||{};
                d.sent[to][g.key] = {from, why: `Comes before ${p.game.title}${p.earlier.guide?` in ${p.earlier.guide}`:""}`, date: new Date().toISOString()}; },
           `Send to ${CONSOLES[to].label}: ${g.title}`,

@@ -1,0 +1,387 @@
+{
+  "_about": "How each franchise guide treats series order in Play next. Ids are IGDB game ids (see site/franchises.json). story: saga = one continuous plot, every earlier main game counts (except opt); arcs = separate story arcs, each a saga of its own (games listed in play order; a remake listed in an arc keeps that place); loose = standalone stories, only earlier must-plays count (score 88+, the first main game, or ess) plus explicit after links; none = play in any order. ess: never skipped for a low score. opt: fine to skip. after: {game: [games it needs first]}, also for spin-offs. Franchises not listed here are loose. Curated by Claude; a weekly check flags new franchises and games. reviewed: entry ids already looked at in saga/arcs franchises; a new game in those franchises (not listed) goes on the to-do list in franchises.json (curation_todo) for the weekly check.",
+  "default": "loose",
+  "franchises": {
+    "Metal Gear": {
+      "story": "saga",
+      "ess": [5328],
+      "after": {
+        "378": [380],
+        "381": [379],
+        "5600": [377]
+      }
+    },
+    "Kingdom Hearts": {
+      "story": "saga",
+      "ess": [1220, 1223, 1225, 1226, 26676]
+    },
+    "Uncharted": {
+      "story": "saga",
+      "after": {
+        "26193": [7331]
+      }
+    },
+    "The Last of Us": {
+      "story": "saga",
+      "after": {
+        "11790": [1009]
+      }
+    },
+    "Halo": {
+      "story": "saga",
+      "opt": [988, 24782]
+    },
+    "Mass Effect": {
+      "story": "arcs",
+      "arcs": {
+        "Shepard trilogy": [73, 74, 75],
+        "Andromeda": [7349]
+      }
+    },
+    "Half-Life": {
+      "story": "saga",
+      "after": {
+        "232": [231],
+        "2549": [231],
+        "6738": [231]
+      }
+    },
+    "Danganronpa": {
+      "story": "saga",
+      "after": {
+        "9708": [7842]
+      }
+    },
+    "Ace Attorney": {
+      "story": "saga",
+      "after": {
+        "1430": [221290],
+        "84972": [1430],
+        "146081": [76244],
+        "1402": [221290]
+      }
+    },
+    "Dead Space": {
+      "story": "saga",
+      "after": {
+        "985": [37]
+      }
+    },
+    "Infamous": {
+      "story": "saga",
+      "after": {
+        "7328": [1941],
+        "7850": [515]
+      }
+    },
+    "Jak and Daxter": {
+      "story": "saga",
+      "opt": [1532, 1533, 1531]
+    },
+    "Killzone": {
+      "story": "saga",
+      "opt": [1869]
+    },
+    "Horizon": {"story": "saga"},
+    "Marvel's Spider-Man": {
+      "story": "saga",
+      "after": {
+        "134581": [19565],
+        "127044": [134581]
+      }
+    },
+    "The Walking Dead": {"story": "saga"},
+    "Golden Sun": {"story": "saga"},
+    "Sly Cooper": {"story": "saga"},
+    "F.E.A.R.": {
+      "story": "saga",
+      "after": {
+        "518": [517],
+        "519": [518]
+      }
+    },
+    "Bioshock": {
+      "story": "arcs",
+      "arcs": {
+        "Rapture": [20, 21],
+        "Columbia": [538]
+      }
+    },
+    "God of War": {
+      "story": "arcs",
+      "opt": [1291],
+      "arcs": {
+        "Greek": [549, 551, 499, 1291],
+        "Norse": [19560, 112875]
+      },
+      "after": {
+        "552": [549],
+        "550": [551]
+      }
+    },
+    "Assassin's Creed": {
+      "story": "arcs",
+      "arcs": {
+        "Desmond": [128, 127, 113, 537, 1266],
+        "Kenway": [1970, 7570],
+        "Layla": [28540, 103054, 133004]
+      },
+      "after": {
+        "3775": [1970],
+        "215060": [133004]
+      }
+    },
+    "Yakuza: Like a Dragon": {
+      "story": "arcs",
+      "arcs": {
+        "Kiryu": [11397, 2059, 2060, 2061, 2062, 2063, 12527],
+        "Ichiban": [36550, 217623]
+      },
+      "after": {
+        "217624": [12527],
+        "109274": [],
+        "146851": [109274]
+      }
+    },
+    "The Legend of Heroes": {
+      "story": "arcs",
+      "arcs": {
+        "Trails": [8986, 16665, 28101, 192133, 284036, 13557, 13558, 26564, 78115, 136673, 141833, 185864, 280573],
+        "Gagharv": [105413, 240542, 240540],
+        "Dragon Slayer": [5579, 4393]
+      }
+    },
+    "Xeno": {
+      "story": "arcs",
+      "ess": [1228],
+      "arcs": {
+        "Xenosaga": [1227, 1228, 1229],
+        "Xenoblade": [2364, 26766, 191411]
+      },
+      "after": {
+        "103340": [26766]
+      }
+    },
+    "Tomb Raider": {
+      "story": "arcs",
+      "arcs": {
+        "Core": [912, 1156, 1157, 1158, 1160, 1159],
+        "Legend trilogy": [1161, 1162, 1163],
+        "Survivor trilogy": [1164, 7323, 37777]
+      }
+    },
+    "Prince of Persia": {
+      "story": "arcs",
+      "arcs": {
+        "Sands of Time": [836, 837, 2437]
+      }
+    },
+    "Wolfenstein": {
+      "story": "arcs",
+      "opt": [103301],
+      "arcs": {
+        "New Order": [2031, 36952, 103301]
+      },
+      "after": {
+        "9192": []
+      }
+    },
+    "Ratchet & Clank": {
+      "story": "arcs",
+      "arcs": {
+        "PS2": [1289, 1770, 1773, 1790],
+        "Future": [1792, 1794, 1795, 2589, 134582]
+      }
+    },
+    "Hitman": {
+      "story": "arcs",
+      "arcs": {
+        "World of Assassination": [11157, 103210, 134595]
+      }
+    },
+    "Professor Layton": {
+      "story": "arcs",
+      "arcs": {
+        "First trilogy": [1397, 1398, 1399],
+        "Prequel trilogy": [1400, 1401, 1403]
+      }
+    },
+    "Persona": {
+      "story": "loose",
+      "after": {
+        "11454": [11453],
+        "117731": [9927],
+        "5650": [9600],
+        "11445": [5650],
+        "252729": [9927]
+      }
+    },
+    "Tales of": {
+      "story": "loose",
+      "after": {
+        "5210": [1204],
+        "1213": [1212],
+        "1203": [1201]
+      }
+    },
+    "Final Fantasy": {
+      "story": "loose",
+      "after": {
+        "413": [418],
+        "2407": [393025],
+        "388": [16587],
+        "384": [389],
+        "2449": [384],
+        "392": [398],
+        "18068": [393025],
+        "11169": [393025],
+        "133236": [11169]
+      }
+    },
+    "The Legend of Zelda": {
+      "story": "loose",
+      "after": {
+        "1030": [1029],
+        "119388": [7346],
+        "1037": [1033],
+        "1038": [1037]
+      }
+    },
+    "Metroid": {
+      "story": "loose",
+      "after": {
+        "1108": [1105],
+        "1111": [1108],
+        "15698": [1104],
+        "37136": [1111],
+        "1113": [1103]
+      }
+    },
+    "Banjo & Kazooie": {
+      "story": "loose",
+      "after": {
+        "3418": [2148]
+      }
+    },
+    "Borderlands": {
+      "story": "loose",
+      "after": {
+        "6032": [498],
+        "6707": [1011]
+      }
+    },
+    "Mafia": {"story": "loose"},
+    "Resident Evil": {"story": "loose"},
+    "Dragon Quest": {"story": "loose"},
+    "Mario": {"story": "loose"},
+    "Pokémon": {"story": "loose"},
+    "Castlevania": {"story": "loose"},
+    "Fire Emblem": {"story": "loose"},
+    "Shin Megami Tensei": {"story": "loose"},
+    "Ys": {"story": "loose"},
+    "Mana": {"story": "loose"},
+    "Star Fox": {"story": "loose"},
+    "Spyro the Dragon": {"story": "loose"},
+    "Crash Bandicoot": {"story": "loose"},
+    "Rayman": {"story": "loose"},
+    "Oddworld": {"story": "loose"},
+    "Devil May Cry": {"story": "loose"},
+    "Ninja Gaiden": {"story": "loose"},
+    "Mega Man": {"story": "loose"},
+    "Donkey Kong": {"story": "loose"},
+    "Pikmin": {"story": "loose"},
+    "Fallout": {"story": "loose"},
+    "The Elder Scrolls": {"story": "loose"},
+    "Diablo": {"story": "loose"},
+    "Divinity": {"story": "loose"},
+    "Deus Ex": {"story": "loose"},
+    "S.T.A.L.K.E.R.": {"story": "loose"},
+    "Outlast": {"story": "loose"},
+    "Five Nights at Freddy's": {"story": "loose"},
+    "Warhammer 40,000: Dawn of War": {"story": "loose"},
+    "X-COM": {"story": "loose"},
+    "Wars": {"story": "loose"},
+    "Call of Duty": {"story": "none"},
+    "Grand Theft Auto": {"story": "none"},
+    "Silent Hill": {"story": "none"},
+    "Far Cry": {"story": "none"},
+    "Until Dawn": {"story": "none"},
+    "The Dark Pictures Anthology": {"story": "none"},
+    "Kirby": {"story": "none"},
+    "Yoshi": {"story": "none"},
+    "Wario": {"story": "none"},
+    "Sonic The Hedgehog": {"story": "none"},
+    "Ico": {"story": "none"},
+    "LittleBigPlanet": {"story": "none"},
+    "Alone in the Dark": {"story": "none"},
+    "Turok": {"story": "none"},
+    "Monster Hunter": {"story": "none"},
+    "Mystery Dungeon": {"story": "none"},
+    "Harvest Moon / Story of Seasons": {"story": "none"},
+    "Animal Crossing": {"story": "none"},
+    "Anno": {"story": "none"},
+    "Age of Empires": {"story": "none"},
+    "SimCity": {"story": "none"},
+    "The Sims": {"story": "none"},
+    "Total War": {"story": "none"},
+    "Worms": {"story": "none"},
+    "Metal Slug": {"story": "none"},
+    "Contra": {"story": "none"},
+    "Ghosts 'n Goblins": {"story": "none"},
+    "Golden Axe": {"story": "none"},
+    "Double Dragon": {"story": "none"},
+    "Streets of Rage": {"story": "none"},
+    "Shinobi": {"story": "none"},
+    "Battletoads": {"story": "none"},
+    "Bomberman": {"story": "none"},
+    "Pac-Man": {"story": "none"},
+    "Tetris": {"story": "none"},
+    "Mortal Kombat": {"story": "none"},
+    "Street Fighter": {"story": "none"},
+    "SoulCalibur": {"story": "none"},
+    "Super Smash Bros.": {"story": "none"},
+    "Punch-Out!!": {"story": "none"},
+    "F-Zero": {"story": "none"},
+    "Gran Turismo": {"story": "none"},
+    "Need for Speed": {"story": "none"},
+    "Tony Hawk's": {"story": "none"},
+    "Guitar Hero": {"story": "none"},
+    "Battlefield": {"story": "none"},
+    "Star Wars Battlefront": {"story": "none"},
+    "Sniper Elite": {"story": "none"},
+    "Spongebob Squarepants": {"story": "none"}
+  },
+  "reviewed": {
+    "Assassin's Creed": [113, 127, 128, 537, 1266, 1970, 3195, 3775, 5606, 7570, 8223, 8263, 10661, 14902, 14903, 18865, 20077, 21349, 28540, 103054, 111830, 133004, 215060, 251568, 300976, 337738, 428613],
+    "Tomb Raider": [769, 912, 1156, 1157, 1158, 1159, 1160, 1161, 1162, 1163, 1164, 7323, 7325, 11592, 18809, 27555, 36878, 37777, 49993, 68115, 86503, 123009, 322639],
+    "Kingdom Hearts": [1220, 1221, 1223, 1224, 1225, 1226, 2933, 20286, 26676, 130408, 135108, 229938, 393742],
+    "Ratchet & Clank": [1289, 1770, 1773, 1790, 1791, 1792, 1793, 1794, 1795, 1796, 1797, 2589, 11065, 19664, 134582],
+    "Halo": [740, 986, 987, 988, 989, 990, 991, 4839, 6803, 7849, 11570, 24782, 72766, 102066, 103281, 375232],
+    "God of War": [499, 549, 550, 551, 552, 1291, 19560, 112875, 389443],
+    "Ace Attorney": [1402, 1429, 1430, 1432, 12077, 76244, 84972, 146081, 221280, 221289, 221290],
+    "Professor Layton": [1397, 1398, 1399, 1400, 1401, 1402, 1403, 28125],
+    "Jak and Daxter": [1528, 1529, 1530, 1531, 1532, 1533],
+    "Hitman": [530, 748, 1048, 1049, 1050, 5567, 6073, 11157, 19488, 99073, 103210, 134595, 144772],
+    "Wolfenstein": [281, 284, 569, 2031, 2727, 2987, 3032, 6633, 9192, 36952, 103301, 103302],
+    "Metal Gear": [374, 375, 376, 377, 378, 379, 380, 381, 382, 1985, 4006, 5328, 5600, 7367, 7848, 9886, 12211, 18683, 21617, 22703, 41041, 250634, 344546],
+    "Half-Life": [231, 232, 233, 247, 338, 2549, 6738, 6739, 9471, 11749, 126098],
+    "Uncharted": [431, 512, 565, 998, 7331, 19583, 26193],
+    "Yakuza: Like a Dragon": [2059, 2060, 2061, 2062, 2063, 7442, 7489, 11397, 12527, 12595, 12736, 36550, 55090, 55111, 66611, 109274, 121831, 140046, 146851, 217597, 217623, 217624, 317317, 368182, 369849],
+    "Killzone": [1865, 1866, 1867, 1868, 1869, 1937, 21609],
+    "Prince of Persia": [836, 837, 2437, 2438, 2468, 2472, 3164, 3165, 20485, 21267, 21797, 252476, 296843],
+    "Sly Cooper": [1798, 1799, 1800, 1801, 52149],
+    "Bioshock": [20, 21, 538],
+    "Dead Space": [37, 38, 985, 1216, 20450, 159119],
+    "The Last of Us": [1009, 11790, 26192, 204350],
+    "Mass Effect": [73, 74, 75, 7349, 93517],
+    "Infamous": [515, 523, 1941, 7328, 7850],
+    "Danganronpa": [7842, 9694, 9708, 12579, 54622, 152366, 198027],
+    "Golden Sun": [1172, 1173, 1174],
+    "Horizon": [11156, 112874, 186309, 305003],
+    "The Legend of Heroes": [4393, 5579, 8986, 10942, 10943, 10944, 13557, 13558, 16665, 26564, 28101, 42772, 78115, 105413, 136287, 136673, 136756, 141833, 153539, 153540, 185864, 192133, 202822, 240540, 240542, 259316, 280573, 284036, 284431, 314936, 377314],
+    "Xeno": [1227, 1228, 1229, 1346, 2364, 2366, 25021, 26766, 103340, 191411],
+    "Marvel's Spider-Man": [19565, 127044, 134581, 168667],
+    "The Walking Dead": [1831, 1871, 3097, 7631, 11204, 11670, 11744, 19000, 51524, 105416, 118485, 131053, 137291, 198232, 259748, 262261, 277170, 409384],
+    "F.E.A.R.": [514, 517, 518, 519, 520, 7831, 77261]
+  }
+}
