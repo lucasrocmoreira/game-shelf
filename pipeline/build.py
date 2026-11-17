@@ -328,6 +328,8 @@ def merge(entries, match_info, igdb_games, overrides, ed):
         else:
             row["hidden"] = None
         noint = [ed["noint"][k] for k in keys | parents if k in ed["noint"]]
+        row["played_old"] = any(k in ed["played_old"] for k in keys)  # marked "played before": not a recent finish
+        row["prefer"] = any(k in ed["prefer"] for k in keys)  # the version you chose to play
         row["noint"] = noint[0] if noint else None
         playing = [ed["playing"][k] for k in keys if k in ed["playing"]]
         row["playing"] = playing[0] if playing else None
@@ -696,6 +698,8 @@ def to_site_row(row, sc, hl=None):
         "played": row["played"],
         "playing": row["playing"],
         "noint": row.get("noint"),
+        "played_old": row.get("played_old") or None,
+        "prefer": row.get("prefer") or None,
         "part_of": row.get("part_of") or None,
         "pending_key": row["pending_key"],
         "ps_plus": row["ps_plus"],
