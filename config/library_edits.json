@@ -3551,12 +3551,13 @@
      "earlier": null
     },
     {
-     "key": "igdb:551",
-     "best": "igdb:551",
+     "key": "igdb:1798",
+     "best": "igdb:1799",
      "why": [
-      "Top-rated game you haven't played here (score 92)",
-      "Retro pick (2007)",
-      "About 13h to beat"
+      "Comes before Sly 2: Band of Thieves (score 88) in the Sly Cooper series: play this one first",
+      "Scores 85 itself",
+      "Retro pick (2002)",
+      "About 7.5h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3568,13 +3569,15 @@
     "igdb:551",
     "igdb:15709",
     "igdb:376",
-    "igdb:1289"
+    "igdb:1289",
+    "igdb:1798"
    ],
    "avoid": [
     "Metal Gear",
-    "Metal Gear Solid"
+    "Metal Gear Solid",
+    "God of War"
    ],
-   "date": "2026-11-17T20:05:30.539Z"
+   "date": "2026-11-17T20:05:37.544Z"
   },
   "switch2": {
    "slots": [
