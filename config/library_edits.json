@@ -3528,13 +3528,12 @@
   "vita": {
    "slots": [
     {
-     "key": "igdb:374",
+     "key": "igdb:376",
      "best": "igdb:376",
      "why": [
-      "Comes before Metal Gear Solid 2: Sons of Liberty (score 95) in the Metal Gear series: play this one first",
-      "Scores 73 itself",
-      "Retro pick (1987)",
-      "About 5h to beat"
+      "Top-rated game you haven't played here (score 95)",
+      "Retro pick (2001)",
+      "About 15.5h to beat"
      ],
      "sent": false,
      "earlier": null
@@ -3566,10 +3565,11 @@
     "igdb:374",
     "igdb:17000",
     "igdb:551",
-    "igdb:15709"
+    "igdb:15709",
+    "igdb:376"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:47:15.843Z"
+   "date": "2026-11-17T20:05:26.771Z"
   },
   "switch2": {
    "slots": [
