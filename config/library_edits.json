@@ -3529,15 +3529,34 @@
   "vita": {
    "slots": [
     {
-     "key": "igdb:4689",
-     "best": "igdb:4689",
+     "key": "igdb:21911",
+     "best": "igdb:21911",
      "why": [
-      "Top-rated game you haven't played here (score 87)",
-      "Retro pick (2004)",
-      "Included with PS Plus"
+      "Top-rated game you haven't played here (score 88)",
+      "Retro pick (2009)",
+      "A breather: about 9h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: puzzle/narrative",
+      "LittleBigPlanet: 0 of 5 main games played"
      ],
      "sent": false,
      "earlier": null
+    },
+    {
+     "key": "igdb:379",
+     "best": "igdb:379",
+     "why": [
+      "Top-rated game you haven't played here (score 94)",
+      "2004: the other eras had nothing close in score",
+      "About 19.5h to beat",
+      "A change of style: shooter",
+      "Metal Gear: 1 of 11 main games played"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:376",
+      "guide": "Metal Gear",
+      "as": null
+     }
     },
     {
      "key": "igdb:15709",
@@ -3545,46 +3564,21 @@
      "why": [
       "Top-rated game you haven't played here (score 88)",
       "2010s pick (2016)",
-      "About 36h to beat"
+      "About 36h to beat",
+      "A change of style: rpg"
      ],
      "sent": false,
      "earlier": null
-    },
-    {
-     "key": "igdb:21911",
-     "best": "igdb:21911",
-     "why": [
-      "Top-rated game you haven't played here (score 88)",
-      "Retro pick (2009)",
-      "About 17.5h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:1058",
-      "guide": "LittleBigPlanet",
-      "as": null
-     }
     }
    ],
    "skip": [
-    "igdb:374",
-    "igdb:17000",
-    "igdb:551",
-    "igdb:15709",
-    "igdb:376",
-    "igdb:1289",
-    "igdb:1798",
-    "igdb:4689",
-    "igdb:21911"
+    "igdb:21911",
+    "igdb:379",
+    "igdb:15709"
    ],
-   "avoid": [
-    "Metal Gear",
-    "Metal Gear Solid",
-    "God of War",
-    "Ratchet & Clank",
-    "Sly Cooper"
-   ],
-   "date": "2026-11-17T20:06:00.232Z"
+   "avoid": [],
+   "algo": 2,
+   "date": "2026-11-17T23:50:00.567Z"
   },
   "switch2": {
    "slots": [
