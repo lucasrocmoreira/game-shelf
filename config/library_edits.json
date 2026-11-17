@@ -3550,16 +3550,19 @@
      "earlier": null
     },
     {
-     "key": "igdb:1798",
-     "best": "igdb:1799",
+     "key": "igdb:21911",
+     "best": "igdb:21911",
      "why": [
-      "Comes before Sly 2: Band of Thieves (score 88) in the Sly Cooper series: play this one first",
-      "Scores 85 itself",
-      "Retro pick (2002)",
-      "About 7.5h to beat"
+      "Top-rated game you haven't played here (score 88)",
+      "Retro pick (2009)",
+      "About 17.5h to beat"
      ],
      "sent": false,
-     "earlier": null
+     "earlier": {
+      "key": "igdb:1058",
+      "guide": "LittleBigPlanet",
+      "as": null
+     }
     }
    ],
    "skip": [
@@ -3570,15 +3573,17 @@
     "igdb:376",
     "igdb:1289",
     "igdb:1798",
-    "igdb:4689"
+    "igdb:4689",
+    "igdb:21911"
    ],
    "avoid": [
     "Metal Gear",
     "Metal Gear Solid",
     "God of War",
-    "Ratchet & Clank"
+    "Ratchet & Clank",
+    "Sly Cooper"
    ],
-   "date": "2026-11-17T20:05:42.168Z"
+   "date": "2026-11-17T20:06:00.232Z"
   },
   "switch2": {
    "slots": [
