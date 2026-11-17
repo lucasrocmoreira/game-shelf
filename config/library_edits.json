@@ -3478,47 +3478,53 @@
   "ps3": {
    "slots": [
     {
+     "key": "igdb:41590",
+     "best": "igdb:41590",
+     "why": [
+      "Top-rated game you haven't played here (score 90)",
+      "2010s pick (2012)",
+      "A breather: about 12h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: shooter",
+      "Included with PS Plus"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
      "key": "igdb:376",
      "best": "igdb:376",
      "why": [
       "Top-rated game you haven't played here (score 95)",
       "Retro pick (2001)",
-      "About 15.5h to beat"
+      "About 15.5h to beat",
+      "A change of style: action-adventure",
+      "Metal Gear: 1 of 11 main games played"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:21084",
-     "best": "igdb:21084",
+     "key": "igdb:1058",
+     "best": "igdb:1058",
      "why": [
-      "Top-rated game you haven't played here (score 94)",
-      "2010s pick (2011)",
-      "About 17h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:117882",
-     "best": "igdb:499",
-     "why": [
-      "Comes before God of War III (score 91) in the God of War series: play this one first",
-      "Scores 86 itself",
-      "Retro pick (2007)",
-      "About 11h to beat"
+      "Top-rated game you haven't played here (score 90)",
+      "2008: the other eras had nothing close in score",
+      "A breather: about 9h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: 2D action",
+      "LittleBigPlanet: 0 of 5 main games played"
      ],
      "sent": false,
      "earlier": null
     }
    ],
    "skip": [
+    "igdb:41590",
     "igdb:376",
-    "igdb:21084",
-    "igdb:117882"
+    "igdb:1058"
    ],
    "avoid": [],
-   "date": "2026-11-17T20:05:01.455Z"
+   "algo": 2,
+   "date": "2026-11-17T23:49:00.867Z"
   },
   "vita": {
    "slots": [
