@@ -3491,11 +3491,7 @@
       "About 15.5h to beat"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:374",
-      "guide": "Metal Gear",
-      "as": null
-     }
+     "earlier": null
     },
     {
      "key": "igdb:21084",
@@ -3527,7 +3523,7 @@
     "igdb:117882"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:46:54.892Z"
+   "date": "2026-11-17T20:05:01.455Z"
   },
   "vita": {
    "slots": [
