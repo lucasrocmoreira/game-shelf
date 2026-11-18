@@ -3338,8 +3338,10 @@
      "key": "igdb:154839",
      "best": "igdb:154839",
      "why": [
-      "Top-rated game you haven't played (average 85)",
-      "Shorter than what you're playing: about 6h to beat"
+      "Top-rated game you haven't played here (score 87)",
+      "Modern pick (2022)",
+      "A breather: about 6h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: puzzle/narrative"
      ],
      "sent": false,
      "earlier": null
@@ -3348,39 +3350,35 @@
      "key": "igdb:83731",
      "best": "igdb:83731",
      "why": [
-      "Top-rated game you haven't played (average 84)",
-      "A change of genre: Music, Sport",
-      "Shorter than what you're playing: about 24.5h to beat"
+      "Top-rated game you haven't played here (score 86)",
+      "2010s pick (2018)",
+      "About 24.5h to beat",
+      "A change of style: arcade/music"
      ],
      "sent": false,
      "earlier": null
     },
     {
-     "key": "igdb:119341",
-     "best": "igdb:119341",
+     "key": "igdb:11155",
+     "best": "igdb:11155",
      "why": [
-      "Top-rated game you haven't played (average 82)",
-      "A change of genre: Shooter, Music",
-      "Shorter than what you're playing: about 4h to beat"
+      "Top-rated game you haven't played here (score 86)",
+      "2020: the other eras had nothing close in score",
+      "About 11h to beat",
+      "A change of style: action-adventure"
      ],
      "sent": false,
      "earlier": null
     }
    ],
    "skip": [
-    "igdb:49875",
+    "igdb:154839",
     "igdb:83731",
-    "igdb:1545",
-    "igdb:20065",
-    "igdb:119341",
-    "igdb:154839"
+    "igdb:11155"
    ],
-   "avoid": [
-    "Tetris",
-    "Wipeout",
-    "Resident Evil"
-   ],
-   "date": "2026-11-11T04:22:48.655Z"
+   "avoid": [],
+   "algo": 2,
+   "date": "2026-11-18T04:50:15.727Z"
   },
   "steam": {
    "slots": [
