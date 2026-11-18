@@ -3458,14 +3458,15 @@
      "earlier": null
     },
     {
-     "key": "igdb:4843",
-     "best": "igdb:298526",
+     "key": "igdb:81085",
+     "best": "igdb:119133",
      "why": [
-      "Comes before Kingdom Come: Deliverance II (score 92): play this one first",
-      "Scores 79 itself",
-      "2010s pick (2018)",
-      "About 81.5h to beat",
-      "A change of style: shooter"
+      "Comes before Elden Ring (score 96) in the Dark Souls series: play this one first",
+      "Scores 88 itself",
+      "2010s pick (2011)",
+      "About 44h to beat",
+      "A change of style: rpg",
+      "Dark Souls: 2 of 8 main games played"
      ],
      "sent": false,
      "earlier": null
@@ -3474,11 +3475,11 @@
    "skip": [
     "igdb:279624",
     "igdb:1128",
-    "igdb:4843"
+    "igdb:81085"
    ],
    "avoid": [],
    "algo": 2,
-   "date": "2026-11-18T05:26:46.171Z"
+   "date": "2026-11-18T05:26:48.148Z"
   },
   "ps3": {
    "slots": [
