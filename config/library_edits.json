@@ -3429,25 +3429,13 @@
   "ps5": {
    "slots": [
     {
-     "key": "igdb:26226",
-     "best": "igdb:26226",
+     "key": "igdb:279624",
+     "best": "igdb:279624",
      "why": [
-      "Top-rated game you haven't played here (score 92)",
-      "2010s pick (2018)",
-      "A breather: about 8.5h for the story, a change from Pokémon SoulSilver Version",
-      "A change of style: 2D action"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:119133",
-     "best": "igdb:119133",
-     "why": [
-      "Top-rated game you haven't played here (score 96)",
-      "Modern pick (2022)",
-      "About 101.5h to beat",
-      "A change of style: rpg"
+      "Top-rated game you haven't played here (score 90)",
+      "Modern pick (2026)",
+      "A breather: about 12h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: 3D platformer"
      ],
      "sent": false,
      "earlier": null
@@ -3464,16 +3452,29 @@
      ],
      "sent": false,
      "earlier": null
+    },
+    {
+     "key": "igdb:4843",
+     "best": "igdb:298526",
+     "why": [
+      "Comes before Kingdom Come: Deliverance II (score 92): play this one first",
+      "Scores 79 itself",
+      "2010s pick (2018)",
+      "About 81.5h to beat",
+      "A change of style: shooter"
+     ],
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
-    "igdb:26226",
-    "igdb:119133",
-    "igdb:1128"
+    "igdb:279624",
+    "igdb:1128",
+    "igdb:4843"
    ],
    "avoid": [],
    "algo": 2,
-   "date": "2026-11-18T04:47:33.125Z"
+   "date": "2026-11-18T04:47:35.164Z"
   },
   "ps3": {
    "slots": [
