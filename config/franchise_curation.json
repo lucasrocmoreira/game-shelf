@@ -6431,5 +6431,50 @@
   ],
   "notes": "Main = the four numbered games; Hey! Pikmin and Pikmin Bloom are spin-offs.",
   "curated_at": "2026-11-02"
+ },
+ "Dark Souls": {
+  "franchise": "Dark Souls",
+  "source": "https://en.wikipedia.org/wiki/Soulslike",
+  "main": [
+   {
+    "name": "Demon's Souls",
+    "year": 2009
+   },
+   {
+    "id": 134606,
+    "title": "Demon's Souls (2020)"
+   },
+   {
+    "name": "Dark Souls",
+    "year": 2011
+   },
+   {
+    "name": "Dark Souls II",
+    "year": 2014
+   },
+   {
+    "id": 7334
+   },
+   {
+    "name": "Dark Souls III",
+    "year": 2016
+   },
+   {
+    "name": "Sekiro: Shadows Die Twice",
+    "year": 2019
+   },
+   {
+    "id": 119133
+   }
+  ],
+  "spin": [
+   {
+    "name": "Elden Ring Nightreign",
+    "year": 2025
+   }
+  ],
+  "drop": [],
+  "notes": "User's choice: all FromSoftware Souls-style games count as one series (Demon's Souls, Dark Souls I-III, Bloodborne, Sekiro, Elden Ring). Armored Core stays separate. IGDB splits these across the Dark Souls and Elden Ring franchises and lists Bloodborne and Demon's Souls under none, so they are merged and curated here. Demon's Souls (2020) is IGDB's remake of the 2009 original.",
+  "curated_at": "2026-11-17"
  }
 }
