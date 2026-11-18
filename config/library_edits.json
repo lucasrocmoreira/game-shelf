@@ -3491,6 +3491,16 @@
   "ps3": {
    "slots": [
     {
+     "key": "igdb:376",
+     "best": "igdb:376",
+     "why": [
+      "Sent here from your PS Vita suggestions",
+      "Comes before Metal Gear Solid 3: Snake Eater in Metal Gear"
+     ],
+     "sent": true,
+     "earlier": null
+    },
+    {
      "key": "igdb:41590",
      "best": "igdb:41590",
      "why": [
@@ -3499,19 +3509,6 @@
       "A breather: about 12h for the story, a change from Pokémon SoulSilver Version",
       "A change of style: shooter",
       "Included with PS Plus"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:376",
-     "best": "igdb:376",
-     "why": [
-      "Top-rated game you haven't played here (score 95)",
-      "Retro pick (2001)",
-      "About 15.5h to beat",
-      "A change of style: action-adventure",
-      "Metal Gear: 1 of 11 main games played"
      ],
      "sent": false,
      "earlier": null
@@ -3531,13 +3528,13 @@
     }
    ],
    "skip": [
-    "igdb:41590",
     "igdb:376",
+    "igdb:41590",
     "igdb:551"
    ],
    "avoid": [],
    "algo": 2,
-   "date": "2026-11-18T17:15:33.998Z"
+   "date": "2026-11-18T17:15:40.158Z"
   },
   "vita": {
    "slots": [
