@@ -824,7 +824,7 @@ function render(){
    never showing the same game twice, and moves away from the replaced game's franchise. */
 const SUGGEST = {skip:new Set(), slots:[null,null,null], avoid:[]};  // avoid: series of picks you replaced, newest last
 /* ---------- Play next v2 helpers ---------- */
-const PLAYNEXT_ALGO = 2;  // saved picks from an older version are dropped
+const PLAYNEXT_ALGO = 3;  // saved picks from an older version are dropped
 const BREATHER_MAX = 12, LONG_CTX = 30, VERY_LONG = 40;  // hours (HowLongToBeat)
 const mainHours = g => { const t = g.ttb; if(!t) return null; const h = t.main ?? t.extra ?? null; return h!=null && h <= 300 ? h : null; };
 const hoursOf = g => { const h = beat(g); return h!=null && h <= 300 ? h : null; };  // HLTB slips (e.g. 33,355h) count as unknown
@@ -1111,7 +1111,7 @@ function suggestions(keep=[null,null,null]){
     if(famDone(g)) continue;  // you played (or are playing) another version
     const vs = versionsOf(g).filter(x=>!x._noint), here = vs.filter(x=>inTab.has(x.key));
     const best = bestVersion(vs) || g;
-    if(!here.includes(best) && libKeys().has(best.key)) continue;  // you own a better version on another console: it's suggested there
+    if(!here.includes(best)) continue;  // a better version is on another console (or PS Plus): it's suggested there
     const pick = here.includes(best) ? best : (bestVersion(here) || g);
     const home = homeTab(pick);
     if(home && home !== state.view && !pick._prefer) continue;  // one copy on several consoles: suggested on the best one
@@ -1145,6 +1145,7 @@ function suggestions(keep=[null,null,null]){
       if(floor!=null && (scoreOf(best)??0) < floor) continue;
       if(strict && [...seriesOf(best), seriesKey(best)].some(n=>n && (usedSeries.has(n) || avoid.has(n)))) continue;
       const r = resolve(c), g = r.game;
+      if(!r.here && r.prev) continue;  // the series needs a game first that's on another console: that one is the suggestion there
       if(g!==best && (SUGGEST.skip.has(g.key) || taken(g) || blocked(g))) continue;
       if(strict && [...seriesOf(g), seriesKey(g)].some(n=>n && (usedSeries.has(n) || avoid.has(n)))) continue;
       if(era && eraOf(g)!==era) continue;
