@@ -3552,21 +3552,18 @@
      "earlier": null
     },
     {
-     "key": "igdb:379",
-     "best": "igdb:379",
+     "key": "igdb:1289",
+     "best": "igdb:1773",
      "why": [
-      "Top-rated game you haven't played here (score 94)",
-      "2004: the other eras had nothing close in score",
-      "About 19.5h to beat",
-      "A change of style: shooter",
-      "Metal Gear: 1 of 9 main games played"
+      "Comes before Ratchet & Clank: Up Your Arsenal (score 89) in the Ratchet & Clank series: play this one first",
+      "Scores 86 itself",
+      "2002: the other eras had nothing close in score",
+      "About 15.5h to beat",
+      "A change of style: action-adventure",
+      "Ratchet & Clank: 0 of 9 main games played"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:376",
-      "guide": "Metal Gear",
-      "as": null
-     }
+     "earlier": null
     },
     {
      "key": "igdb:15709",
@@ -3584,11 +3581,12 @@
    "skip": [
     "igdb:21911",
     "igdb:379",
-    "igdb:15709"
+    "igdb:15709",
+    "igdb:1289"
    ],
    "avoid": [],
    "algo": 2,
-   "date": "2026-11-18T17:15:43.922Z"
+   "date": "2026-11-18T17:16:25.169Z"
   },
   "switch2": {
    "slots": [
