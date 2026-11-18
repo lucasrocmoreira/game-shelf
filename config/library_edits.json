@@ -3752,64 +3752,51 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:5122",
-     "best": "igdb:5122",
+     "key": "igdb:1706",
+     "best": "igdb:1706",
      "why": [
-      "Top-rated game you haven't played here (score 87)",
+      "Top-rated game you haven't played here (score 85)",
+      "Retro pick (2006)",
+      "A breather: about 2.5h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: arcade/music",
+      "WarioWare: 0 of 11 main games played"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:1271",
+     "best": "igdb:1271",
+     "why": [
+      "Top-rated game you haven't played here (score 92)",
+      "2006: the other eras had nothing close in score",
+      "About 40.5h to beat",
+      "A change of style: rpg"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:3725",
+     "best": "igdb:3725",
+     "why": [
+      "Top-rated game you haven't played here (score 83)",
       "2010s pick (2011)",
       "A breather: about 6.5h for the story, a change from Pokémon SoulSilver Version",
-      "A change of style: arcade/music"
+      "Kirby: 0 of 13 main games played"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:6557",
-      "guide": null,
-      "as": null
-     }
-    },
-    {
-     "key": "igdb:1112",
-     "best": "igdb:1112",
-     "why": [
-      "Top-rated game you haven't played here (score 94)",
-      "Retro pick (2009)",
-      "About 48h to beat",
-      "A change of style: shooter",
-      "Metroid: 1 of 12 main games played"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:1104",
-      "guide": "Metroid",
-      "as": null
-     }
-    },
-    {
-     "key": "igdb:3349",
-     "best": "igdb:3349",
-     "why": [
-      "Top-rated game you haven't played here (score 90)",
-      "2004: the other eras had nothing close in score",
-      "About 38h to beat",
-      "A change of style: rpg",
-      "Paper Mario: 0 of 7 main games played"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:3340",
-      "guide": "Mario",
-      "as": null
-     }
+     "earlier": null
     }
    ],
    "skip": [
-    "igdb:5122",
-    "igdb:1112",
-    "igdb:3349"
+    "igdb:1706",
+    "igdb:1271",
+    "igdb:3725"
    ],
    "avoid": [],
-   "algo": 2,
-   "date": "2026-11-18T16:25:25.154Z"
+   "algo": 3,
+   "date": "2026-11-18T17:58:10.778Z"
   }
  },
  "noint": {
