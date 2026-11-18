@@ -30136,6 +30136,23 @@
   "metacritic_n": null,
   "metacritic_slug": null
  },
+ "igdb:317086": {
+  "backloggd": 3.2,
+  "backloggd_n": 141,
+  "bl_v": 3,
+  "checked": "2026-11-18T04:30:39+00:00",
+  "mc_v": 3,
+  "metacritic": 73,
+  "metacritic_n": 28,
+  "metacritic_slug": "freedom-wars-remastered",
+  "oc_checked": "2026-11-18T04:30:44+00:00",
+  "opencritic": 73,
+  "opencritic_id": 17738,
+  "opencritic_n": 31,
+  "opencritic_n_all": 64,
+  "opencritic_pct": 48,
+  "opencritic_tier": "Fair"
+ },
  "igdb:317317": {
   "backloggd": 3.5,
   "backloggd_n": 5710,
@@ -45717,6 +45734,17 @@
   "metacritic": 70,
   "metacritic_n": 12,
   "metacritic_slug": "harvest-moon-another-wonderful-life"
+ },
+ "igdb:7893": {
+  "backloggd": 3.7,
+  "backloggd_n": 1294,
+  "bl_v": 3,
+  "checked": "2026-11-18T04:30:44+00:00",
+  "mc_v": 3,
+  "metacritic": 80,
+  "metacritic_n": 22,
+  "metacritic_slug": "legacy-of-kain-soul-reaver-2",
+  "oc_checked": "2026-11-18T04:30:44+00:00"
  },
  "igdb:7894": {
   "backloggd": 3.5,

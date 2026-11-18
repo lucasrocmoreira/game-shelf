@@ -24850,6 +24850,20 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:10011083": {
+  "candidates": 6,
+  "checked": "2026-11-18T04:30:23+00:00",
+  "conf": "medium",
+  "id": 317086,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 0.966,
+  "slug": null,
+  "title": "FREEDOM WARS Remastered PS4 & PS5",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:psplus:10011105": {
   "candidates": 9,
   "checked": "2026-10-28T03:44:29+00:00",
@@ -25175,6 +25189,20 @@
   "score": 1.136,
   "slug": null,
   "title": "NINJA GAIDEN: Ragebound",
+  "v": 4,
+  "via": "search"
+ },
+ "PS5:psplus:10013858": {
+  "candidates": 5,
+  "checked": "2026-11-18T04:30:23+00:00",
+  "conf": "high",
+  "id": 7893,
+  "mp": [
+   "PS Classic"
+  ],
+  "score": 1.14,
+  "slug": null,
+  "title": "Soul Reaver 2",
   "v": 4,
   "via": "search"
  },

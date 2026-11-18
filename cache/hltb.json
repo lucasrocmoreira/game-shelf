@@ -11402,6 +11402,14 @@
  "igdb:3166": {
   "checked": "2026-11-02T10:14:05+00:00"
  },
+ "igdb:317086": {
+  "checked": "2026-11-18T04:30:46+00:00",
+  "complete": 74.5,
+  "extra": 41.0,
+  "hltb_id": 20634,
+  "hltb_name": "Freedom Wars",
+  "main": 28.0
+ },
  "igdb:317407": {
   "checked": "2026-10-16T04:57:32+00:00",
   "complete": 27.5,
@@ -17064,6 +17072,14 @@
   "hltb_id": 23899,
   "hltb_name": "I Am Bread",
   "main": 3.0
+ },
+ "igdb:7893": {
+  "checked": "2026-11-18T04:30:49+00:00",
+  "complete": 12.5,
+  "extra": 12.5,
+  "hltb_id": 5216,
+  "hltb_name": "Legacy of Kain: Soul Reaver 2",
+  "main": 9.5
  },
  "igdb:7894": {
   "checked": "2026-10-28T05:19:43+00:00",

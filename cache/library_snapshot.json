@@ -24647,6 +24647,23 @@
   },
   {
    "also_platform": "PS4",
+   "concept": "10011083",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0409/ac0710144bc0e2854c0ebc6c9544e0f415d1f7b590ef0826.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10011083",
+   "store_url": "https://store.playstation.com/en-us/concept/10011083",
+   "streaming": true,
+   "tier": "Classics",
+   "title": "FREEDOM WARS Remastered PS4 & PS5"
+  },
+  {
+   "also_platform": "PS4",
    "concept": "10008137",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2317/9770c5764fa451640cadd999a61f44b7c91d5121bdbe9298.png",
    "last_played": null,
@@ -26072,6 +26089,23 @@
    "streaming": true,
    "tier": "Classics",
    "title": "Sly Raccoon™"
+  },
+  {
+   "also_platform": "PS4",
+   "concept": "10013858",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/34a8ca5c16ad9bdaa0b364526a71862491bdb6952e6a067f.png",
+   "last_played": null,
+   "match_platforms": [
+    "PS Classic"
+   ],
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10013858",
+   "store_url": "https://store.playstation.com/en-us/concept/10013858",
+   "streaming": true,
+   "tier": "Classics",
+   "title": "Soul Reaver 2"
   },
   {
    "also_platform": "PS4",
