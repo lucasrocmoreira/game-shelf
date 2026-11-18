@@ -3632,41 +3632,14 @@
   "ds": {
    "slots": [
     {
-     "key": "igdb:1398",
-     "best": "igdb:1399",
-     "why": [
-      "Comes before Professor Layton and the Unwound Future (score 90) in the Professor Layton series: play this one first",
-      "Scores 85 itself",
-      "Retro pick (2007)",
-      "A change of genre: Point-and-click, Puzzle",
-      "Not another long one: about 15h to beat"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
-     "key": "igdb:8353",
-     "best": "igdb:8353",
-     "why": [
-      "Top-rated game you haven't played here (score 85)",
-      "2010s pick (2012)",
-      "Not another long one: about 33.5h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:1517",
-      "guide": "Pokémon",
-      "as": null
-     }
-    },
-    {
      "key": "igdb:2345",
      "best": "igdb:2345",
      "why": [
       "Top-rated game you haven't played here (score 88)",
       "Retro pick (2005)",
-      "A change of genre: Racing, Arcade",
-      "Not another long one: about 10.5h to beat"
+      "A breather: about 4.5h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: racing/sport",
+      "Mario Kart: 1 of 9 main games played"
      ],
      "sent": false,
      "earlier": {
@@ -3674,15 +3647,42 @@
       "guide": "Mario",
       "as": null
      }
+    },
+    {
+     "key": "igdb:2288",
+     "best": "igdb:2288",
+     "why": [
+      "Top-rated game you haven't played here (score 82)",
+      "2010s pick (2012)",
+      "About 43.5h to beat",
+      "Pokémon: 1 of 22 main games played"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:1398",
+     "best": "igdb:1399",
+     "why": [
+      "Comes before Professor Layton and the Unwound Future (score 90) in the Professor Layton series: play this one first",
+      "Scores 85 itself",
+      "2007: the other eras had nothing close in score",
+      "About 15h to beat",
+      "A change of style: puzzle/narrative",
+      "Professor Layton: 1 of 7 main games played"
+     ],
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
-    "igdb:1398",
-    "igdb:8353",
-    "igdb:2345"
+    "igdb:2345",
+    "igdb:2288",
+    "igdb:1398"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:47:50.940Z"
+   "algo": 2,
+   "date": "2026-11-18T04:49:21.336Z"
   },
   "3ds": {
    "slots": [
