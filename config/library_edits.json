@@ -3505,14 +3505,14 @@
      "earlier": null
     },
     {
-     "key": "igdb:1058",
-     "best": "igdb:1058",
+     "key": "igdb:551",
+     "best": "igdb:551",
      "why": [
-      "Top-rated game you haven't played here (score 90)",
-      "2008: the other eras had nothing close in score",
-      "A breather: about 9h for the story, a change from Pokémon SoulSilver Version",
-      "A change of style: 2D action",
-      "LittleBigPlanet: 0 of 5 main games played"
+      "Top-rated game you haven't played here (score 92)",
+      "2007: the other eras had nothing close in score",
+      "About 13h to beat",
+      "A change of style: action-adventure",
+      "God of War: 3 of 6 main games played"
      ],
      "sent": false,
      "earlier": null
@@ -3521,11 +3521,11 @@
    "skip": [
     "igdb:41590",
     "igdb:376",
-    "igdb:1058"
+    "igdb:551"
    ],
    "avoid": [],
    "algo": 2,
-   "date": "2026-11-18T04:47:49.700Z"
+   "date": "2026-11-18T04:47:52.539Z"
   },
   "vita": {
    "slots": [
