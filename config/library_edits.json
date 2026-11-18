@@ -3687,19 +3687,17 @@
   "3ds": {
    "slots": [
     {
-     "key": "igdb:1039",
-     "best": "igdb:1039",
+     "key": "igdb:5772",
+     "best": "igdb:15167",
      "why": [
-      "Top-rated game you haven't played here (score 94)",
-      "2010s pick (2011)",
-      "About 31.5h to beat"
+      "Comes before SteamWorld Heist (score 84): play this one first",
+      "Scores 80 itself",
+      "2010s pick (2013)",
+      "A breather: about 5h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: puzzle/narrative"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:1026",
-      "guide": "The Legend of Zelda",
-      "as": null
-     }
+     "earlier": null
     },
     {
      "key": "igdb:145528",
@@ -3707,37 +3705,42 @@
      "why": [
       "Top-rated game you haven't played here (score 90)",
       "Retro pick (2004)",
-      "About 76.5h to beat"
+      "About 76.5h to beat",
+      "A change of style: rpg",
+      "Dragon Quest: 0 of 28 main games played"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:205595",
+      "key": "igdb:16585",
       "guide": "Dragon Quest",
       "as": "Dragon Quest V"
      }
     },
     {
-     "key": "igdb:221290",
-     "best": "igdb:221290",
+     "key": "igdb:3665",
+     "best": "igdb:3665",
      "why": [
-      "Top-rated game you haven't played here (score 89)",
-      "Retro pick (2004)"
+      "Top-rated game you haven't played here (score 86)",
+      "2012: the other eras had nothing close in score",
+      "About 27h to beat",
+      "A change of style: action-adventure"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:1426",
-      "guide": "Ace Attorney",
+      "key": "igdb:3663",
+      "guide": null,
       "as": null
      }
     }
    ],
    "skip": [
-    "igdb:1039",
+    "igdb:5772",
     "igdb:145528",
-    "igdb:221290"
+    "igdb:3665"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:48:02.910Z"
+   "algo": 2,
+   "date": "2026-11-18T04:49:41.837Z"
   },
   "wii": {
    "slots": [
