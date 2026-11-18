@@ -2493,6 +2493,17 @@
   "metacritic_n": 71,
   "metacritic_slug": "metroid-other-m"
  },
+ "igdb:11133": {
+  "backloggd": 4.3,
+  "backloggd_n": 93681,
+  "bl_v": 3,
+  "checked": "2026-11-18T04:50:12+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": 89,
+  "metacritic_n": 70,
+  "metacritic_slug": "dark-souls-iii"
+ },
  "igdb:1114": {
   "backloggd": 3.4,
   "backloggd_n": 13811,
@@ -24004,6 +24015,17 @@
   "metacritic_slug": null,
   "oc_checked": "2026-10-30T02:58:59+00:00"
  },
+ "igdb:2368": {
+  "backloggd": 3.5,
+  "backloggd_n": 27541,
+  "bl_v": 3,
+  "checked": "2026-11-18T04:50:22+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": 91,
+  "metacritic_n": 69,
+  "metacritic_slug": "dark-souls-ii"
+ },
  "igdb:237": {
   "backloggd": 3.7,
   "backloggd_n": 811,
@@ -30563,6 +30585,17 @@
   "metacritic": null,
   "metacritic_n": null,
   "metacritic_slug": null
+ },
+ "igdb:325591": {
+  "backloggd": 3.7,
+  "backloggd_n": 24638,
+  "bl_v": 3,
+  "checked": "2026-11-18T04:50:32+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": 77,
+  "metacritic_n": 94,
+  "metacritic_slug": "elden-ring-nightreign"
  },
  "igdb:325608": {
   "backloggd": 3.9,
@@ -40641,6 +40674,17 @@
   "metacritic_n": 46,
   "metacritic_slug": "yaiba-ninja-gaiden-z"
  },
+ "igdb:5619": {
+  "backloggd": 4.0,
+  "backloggd_n": 14013,
+  "bl_v": 3,
+  "checked": "2026-11-18T04:50:27+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": null,
+  "metacritic_n": null,
+  "metacritic_slug": null
+ },
  "igdb:56218": {
   "backloggd": 2.0,
   "backloggd_n": 19,
@@ -45018,6 +45062,17 @@
   "opencritic_id": 166,
   "opencritic_pct": 43,
   "opencritic_tier": "Fair"
+ },
+ "igdb:76882": {
+  "backloggd": 4.5,
+  "backloggd_n": 71068,
+  "bl_v": 3,
+  "checked": "2026-11-18T04:50:17+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": 90,
+  "metacritic_n": 89,
+  "metacritic_slug": "sekiro-shadows-die-twice"
  },
  "igdb:76885": {
   "backloggd": 3.4,

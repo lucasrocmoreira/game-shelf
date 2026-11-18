@@ -28700,6 +28700,825 @@
   "name": "The Lord of the Rings",
   "v": 3
  },
+ "1124": {
+  "checked": "2026-11-18T04:50:03+00:00",
+  "games": [
+   {
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 235849,
+     "image_id": "co51zd"
+    },
+    "first_release_date": 1559260800,
+    "franchises": [
+     1124
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 114144,
+    "name": "Dark Souls Trilogy: Collector's Edition",
+    "platforms": [
+     48,
+     49
+    ],
+    "slug": "dark-souls-trilogy-collectors-edition",
+    "summary": "The Dark Souls Trilogy includes Dark Souls Remastered, Dark Souls II: Scholar of The First Sin, Dark Souls III: The Fire Fades, plus all DLC content for all three games, a high-quality, numbered, and hand-painted 34cm Elite Knight at the Bonfire statue, the Dark Souls Trilogy soundtrack – featuring 6 soundtrack CDs with music from all three games, and a 460-page Dark Souls Trilogy compendium – containing illustrated maps with boss and NPC locations, item encyclopedia, bestiary of enemies and bosses, and a manuscript of all dialogue from each game reiterate.",
+    "version_parent": 114143
+   },
+   {
+    "aggregated_rating": 90.625,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     21040
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 89684,
+     "image_id": "co1x78"
+    },
+    "first_release_date": 1316649600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2155,
+    "name": "Dark Souls",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130
+    ],
+    "rating": 86.61446038119203,
+    "rating_count": 1744,
+    "slug": "dark-souls",
+    "summary": "Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in September 2011 as a spiritual sequel to Demon's Souls, it is set in a dark, medieval fantasy world. It is renowned for its challenging gameplay, intricate level design, and deep lore. Players control a customizable character known as the Chosen Undead, embarking on a perilous journey to uncover the secrets of the cursed land of Lordran.\n\nDark Souls is known for its punishing difficulty, requiring players to carefully manage combat, stamina, and resources while navigating hostile environments filled with dangerous enemies and formidable bosses. The game features a unique multiplayer component, allowing players to leave messages for others, summon allies for cooperative play, or invade other players' worlds for PvP combat.\n\nThe original release of Dark Souls received critical acclaim for its atmospheric world, innovative mechanics, and rewarding gameplay, solidifying its place as a seminal title in the action RPG genre.",
+    "total_rating_count": 1752
+   },
+   {
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "bundles": [
+     21040
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 427227,
+     "image_id": "co95nf"
+    },
+    "first_release_date": 1345766400,
+    "franchises": [
+     1124
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 21988,
+    "name": "Dark Souls: Artorias of the Abyss",
+    "parent_game": 2155,
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 89.7303550129146,
+    "rating_count": 65,
+    "slug": "dark-souls-artorias-of-the-abyss",
+    "summary": "Artorias of the Abyss is additional content for the game Dark Souls. It was originally released for PC as part of the Dark Souls: Prepare to Die Edition, and later for consoles as the eponymous DLC. A console version of the Prepare To Die Edition was also released at a later date.",
+    "total_rating_count": 66
+   },
+   {
+    "cover": {
+     "id": 185582,
+     "image_id": "co3z72"
+    },
+    "first_release_date": 1397174400,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 42988,
+    "name": "Dark Souls II: Collector's Edition",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "slug": "dark-souls-ii-collectors-edition",
+    "summary": "Dark Souls II: Collector's Edition is a special edition of the game released in March 2014. Includes:\n- The base game\n- High-quality Warrior Knight figurine\n- Art book with concept art and designs\n- Cloth game map\n- Official soundtrack.\n\nThis edition is packaged in a specially designed collector's box.",
+    "version_parent": 2368
+   },
+   {
+    "cover": {
+     "id": 162003,
+     "image_id": "co3h03"
+    },
+    "first_release_date": 1458777600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 89841,
+    "name": "Dark Souls III: Day One Edition",
+    "platforms": [
+     161,
+     48,
+     6,
+     49
+    ],
+    "slug": "dark-souls-iii-day-one-edition",
+    "summary": "Dark Souls III: Day One Edition is a special edition of the game that was released in April 2016. It includes:\n\n- The base game\n- A Prima Starter Guide\n- The Official Dark Souls III Soundtrack\n- Exclusive O-Sleeve Packaging",
+    "version_parent": 11133
+   },
+   {
+    "aggregated_rating": 86.07692307692308,
+    "aggregated_rating_count": 26,
+    "bundles": [
+     28210,
+     47486,
+     141472
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 525397,
+     "image_id": "cob9ed"
+    },
+    "first_release_date": 1458777600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 11133,
+    "name": "Dark Souls III",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 87.13283763539181,
+    "rating_count": 1992,
+    "slug": "dark-souls-iii",
+    "summary": "Dark Souls III is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in March 2016, it is the fourth entry in the Souls series and the final instalment in the Dark Souls trilogy. Set in the decaying kingdom of Lothric, players take on the role of the \"Ashen One,\" an undead warrior tasked with rekindling the First Flame to prevent the world from falling into darkness.\n\nThe game features challenging combat, intricate level design, and a deep, lore-rich narrative.",
+    "total_rating_count": 2018
+   },
+   {
+    "cover": {
+     "id": 185583,
+     "image_id": "co3z73"
+    },
+    "first_release_date": 1397174400,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 42996,
+    "name": "Dark Souls II: Webhallen Edition",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "slug": "dark-souls-ii-webhallen-edition",
+    "summary": "Dark Souls II: Webhallen Edition is a special edition of Dark Souls II, released exclusively by the Swedish retailer Webhallen. This edition is limited to only 740 pieces.\n\nThis edition comes in a numbered bag and metal case includes the following:\n- Limited Dark Souls Hood\n- 30cm tall Warrior Knight Figurine\n- Limited Ring in a pouch and engraved text “Go Beyond Death”\n- Official Soundtrack CD\n- Authentic Cloth Game Map\n- Collectible hardbound artbook",
+    "version_parent": 2368
+   },
+   {
+    "aggregated_rating": 90.25,
+    "aggregated_rating_count": 20,
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 558315,
+     "image_id": "cobysr"
+    },
+    "first_release_date": 1394496000,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2368,
+    "name": "Dark Souls II",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 79.40751952993266,
+    "rating_count": 854,
+    "slug": "dark-souls-ii",
+    "summary": "Dark Souls II is an action role-playing game set in the kingdom of Drangleic. Players control the Bearer of the Curse, navigating a dark, interconnected world filled with challenging enemies and complex boss encounters. Combat emphasizes precise timing, stamina management, and adaptability, with options for dual-wielding, varied weapon types, and a flexible character progression system.\n\nThe online servers were shut down on March 31st, 2024.",
+    "total_rating_count": 874
+   },
+   {
+    "cover": {
+     "id": 96538,
+     "image_id": "co22hm"
+    },
+    "first_release_date": 1463011200,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 41637,
+    "name": "Dark Souls III: Apocalypse Edition",
+    "platforms": [
+     48,
+     49
+    ],
+    "slug": "dark-souls-iii-apocalypse-edition",
+    "summary": "Dark Souls III: Apocalypse Edition is a limited edition of Dark Souls III that was available exclusively through pre-orders in certain regions. This edition includes the base game, a collectable steel bookcase, and the official game soundtrack. Unlike other special editions, the Apocalypse Edition does not include any additional DLC or extra content beyond these items.",
+    "version_parent": 11133
+   },
+   {
+    "cover": {
+     "id": 372851,
+     "image_id": "co7zoz"
+    },
+    "first_release_date": 1540512000,
+    "franchises": [
+     452,
+     1124
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 141472,
+    "name": "The Witcher 3: Wild Hunt + Dark Souls III",
+    "platforms": [
+     48,
+     49
+    ],
+    "slug": "the-witcher-3-wild-hunt-plus-dark-souls-iii",
+    "summary": "A bundle containing The Witcher 3: Wild Hunt and Dark Souls III."
+   },
+   {
+    "aggregated_rating": 85.0,
+    "aggregated_rating_count": 1,
+    "bundles": [
+     81201,
+     114143,
+     114144
+    ],
+    "cover": {
+     "id": 198612,
+     "image_id": "co4990"
+    },
+    "first_release_date": 1492732800,
+    "franchises": [
+     1124
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 28210,
+    "name": "Dark Souls III: The Fire Fades Edition",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 92.22334580667385,
+    "rating_count": 61,
+    "slug": "dark-souls-iii-the-fire-fades-edition",
+    "summary": "Dark Souls III: The Fire Fades Edition is a complete edition of Dark Souls III, released in April 2017. It includes the base game along with both DLC expansions: Ashes of Ariandel and The Ringed City. This edition offers the full Dark Souls III experience, combining the main game and all additional content into one package.",
+    "total_rating_count": 62,
+    "version_parent": 11133
+   },
+   {
+    "aggregated_rating": 86.77777777777777,
+    "aggregated_rating_count": 9,
+    "bundles": [
+     81201,
+     114143,
+     114144
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 527474,
+     "image_id": "cobb02"
+    },
+    "first_release_date": 1427932800,
+    "franchises": [
+     1124
+    ],
+    "game_type": 10,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 8222,
+    "name": "Dark Souls II: Scholar of the First Sin",
+    "parent_game": 2368,
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 83.40091174497246,
+    "rating_count": 449,
+    "slug": "dark-souls-ii-scholar-of-the-first-sin",
+    "summary": "Dark Souls II: Scholar of the First Sin is an enhanced edition of Dark Souls II, released in April 2015 by FromSoftware and Bandai Namco Entertainment. This version includes updated graphics, improved performance, and all previously released DLC expansions (Crown of the Sunken King, Crown of the Old Iron King, and Crown of the Ivory King). It also features rebalanced gameplay, new enemy placements, additional NPCs, and expanded lore,",
+    "total_rating_count": 458
+   },
+   {
+    "cover": {
+     "id": 96539,
+     "image_id": "co22hn"
+    },
+    "first_release_date": 1460332800,
+    "franchises": [
+     1124
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 47486,
+    "name": "Dark Souls III: Deluxe Edition",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 83.39635978651508,
+    "rating_count": 8,
+    "slug": "dark-souls-iii-deluxe-edition",
+    "summary": "Dark Souls III: Deluxe Edition is a special edition of Dark Souls III, released in April 2016. It includes the base game along with a detailed art book and a soundtrack CD. The Deluxe Edition also comes with a collectable steel book case. The digital edition includes all DLC expansions.",
+    "total_rating_count": 8,
+    "version_parent": 11133
+   },
+   {
+    "aggregated_rating": 72.92307692307692,
+    "aggregated_rating_count": 13,
+    "bundles": [
+     28210,
+     47486
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 87997,
+     "image_id": "co1vwd"
+    },
+    "first_release_date": 1477267200,
+    "franchises": [
+     1124
+    ],
+    "game_type": 2,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 23158,
+    "name": "Dark Souls III: Ashes of Ariandel",
+    "parent_game": 11133,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 85.53058114816909,
+    "rating_count": 91,
+    "slug": "dark-souls-iii-ashes-of-ariandel",
+    "summary": "Dark Souls III: Ashes of Ariandel is the first DLC expansion for Dark Souls III, released in October 2016. It introduces the Painted World of Ariandel, a new, snowy environment filled with challenging enemies and tough bosses. The expansion also adds new weapons, armour, spells, and a PvP arena. Ashes of Ariandel expands on the game's lore, exploring themes of corruption and the decay of painted worlds.",
+    "total_rating_count": 104
+   },
+   {
+    "cover": {
+     "id": 509608,
+     "image_id": "coax7s"
+    },
+    "first_release_date": 1318636800,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 44607,
+    "name": "Dark Souls: Collector's Edition",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "slug": "dark-souls-collectors-edition",
+    "summary": "Dark Souls: Collector's Edition is a special release of the original Dark Souls game, developed by FromSoftware and published by Bandai Namco Entertainment. Released in October 2011, this edition includes several exclusive items designed to enhance the overall experience for fans of the game.\n\nThe Collector's Edition includes the full base game, packaged in a special edition box with unique artwork. It also comes with a high-quality physical art book featuring concept art, character designs, and illustrations from the game. Additionally, it provides access to behind-the-scenes content, including developer interviews and making-of videos, giving players insight into the game's creation process.\n\nThe edition features Motoi Sakuraba's official game soundtrack, allowing players to enjoy the atmospheric music outside of the game. A mini-strategy guide is also included to help players navigate the game's challenging world and mechanics.",
+    "version_parent": 2155
+   },
+   {
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "bundles": [
+     425730
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 87949,
+     "image_id": "co1vv1"
+    },
+    "first_release_date": 1408924800,
+    "franchises": [
+     1124
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 22502,
+    "name": "Dark Souls II: Crown of the Old Iron King",
+    "parent_game": 2368,
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 81.61851841875259,
+    "rating_count": 41,
+    "slug": "dark-souls-ii-crown-of-the-old-iron-king",
+    "summary": "Dark Souls II: Crown of the Old Iron King is the second DLC expansion for Dark Souls II, released in August 2014. It takes players to Brume Tower, a massive, decrepit structure filled with new enemies, challenging bosses, and treacherous environments. The expansion adds new weapons, armour, and spells, as well as additional lore that delves into the history of the Old Iron King.",
+    "total_rating_count": 42
+   },
+   {
+    "aggregated_rating": 81.63636363636364,
+    "aggregated_rating_count": 11,
+    "bundles": [
+     425730
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 87947,
+     "image_id": "co1vuz"
+    },
+    "first_release_date": 1405987200,
+    "franchises": [
+     1124
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 19924,
+    "name": "Dark Souls II: Crown of the Sunken King",
+    "parent_game": 2368,
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 86.10112051393278,
+    "rating_count": 44,
+    "slug": "dark-souls-ii-crown-of-the-sunken-king",
+    "summary": "Dark Souls II: Crown of the Sunken King is the first DLC expansion for Dark Souls II, released in July 2014. It takes players to the subterranean city of Shulva, an ancient, sunken city filled with new enemies, intricate traps, and formidable bosses. The expansion introduces new weapons, armour, and spells, as well as additional lore that explores the history of the Sunken King.",
+    "total_rating_count": 55
+   },
+   {
+    "aggregated_rating": 81.71428571428571,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     425730
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 87948,
+     "image_id": "co1vv0"
+    },
+    "first_release_date": 1412035200,
+    "franchises": [
+     1124
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 20341,
+    "name": "Dark Souls II: Crown of the Ivory King",
+    "parent_game": 2368,
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 86.91837886885918,
+    "rating_count": 43,
+    "slug": "dark-souls-ii-crown-of-the-ivory-king",
+    "summary": "Dark Souls II: Crown of the Ivory King is the third DLC expansion for Dark Souls II, released in September 2014. It transports players to the frozen wasteland of Eleum Loyce, where they face new enemies, perilous environments, and challenging bosses. The expansion adds new weapons, armour, and spells, along with additional lore detailing the history of the Ivory King and his kingdom.",
+    "total_rating_count": 50
+   },
+   {
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 224792,
+     "image_id": "co4tg8"
+    },
+    "first_release_date": 1350950400,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 136857,
+    "name": "Dark Souls: Artorias of the Abyss Edition",
+    "platforms": [
+     9,
+     12
+    ],
+    "slug": "dark-souls-artorias-of-the-abyss-edition",
+    "summary": "Dark Souls: Artorias of the Abyss Edition is an expanded version of the action role-playing game Dark Souls, developed by FromSoftware and published by Bandai Namco Entertainment. Released in October 2012, this edition includes the base game and the Artorias of the Abyss expansion.\n\nThe expansion introduces new content set in the lost land of Oolacile, featuring an extended storyline where players confront the corrupted knight Artorias and other formidable foes. It adds new areas to explore, such as the Oolacile Township and the Royal Wood, along with new bosses, enemies, and NPCs. The edition also includes new weapons, armour sets, and magic spells, enhancing the game's combat and customization options.",
+    "version_parent": 2155
+   },
+   {
+    "cover": {
+     "id": 96543,
+     "image_id": "co22hr"
+    },
+    "first_release_date": 1460419200,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 42941,
+    "name": "Dark Souls III: Collector's Edition",
+    "platforms": [
+     48,
+     49
+    ],
+    "slug": "dark-souls-iii-collectors-edition",
+    "summary": "Dark Souls III: Collector's Edition is a special edition released alongside the game in April 2016. It includes:\n\n-10\" Red Knight Statue\n-Prima Starter Guide\n-Official Dark Souls III Soundtrack\n-Official art book\n-Cloth game map\n-Collector's box\n-Dark Souls III Software",
+    "version_parent": 11133
+   },
+   {
+    "aggregated_rating": 83.27272727272727,
+    "aggregated_rating_count": 11,
+    "bundles": [
+     28210,
+     47486
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 104246,
+     "image_id": "co28fq"
+    },
+    "first_release_date": 1490572800,
+    "franchises": [
+     1124
+    ],
+    "game_type": 2,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 26916,
+    "name": "Dark Souls III: The Ringed City",
+    "parent_game": 11133,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 91.49276640405193,
+    "rating_count": 107,
+    "slug": "dark-souls-iii-the-ringed-city",
+    "summary": "Dark Souls III: The Ringed City is the second DLC expansion for Dark Souls III, released in March 2017. It introduces the Ringed City, a new area at the world's edge where the Age of Fire is ending. The expansion includes new environments, enemies, bosses, and items like weapons, armour, and spells. The content further explores the game's lore, focusing on the themes of decay and the cyclical nature of the world.",
+    "total_rating_count": 118
+   },
+   {
+    "aggregated_rating": 87.0,
+    "aggregated_rating_count": 14,
+    "bundles": [
+     81201,
+     114143,
+     114144
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 527471,
+     "image_id": "cobazz"
+    },
+    "first_release_date": 1527033600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 9,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 81085,
+    "name": "Dark Souls: Remastered",
+    "parent_game": 2155,
+    "platforms": [
+     48,
+     6,
+     49,
+     130
+    ],
+    "rating": 87.17304059042536,
+    "rating_count": 571,
+    "slug": "dark-souls-remastered",
+    "summary": "Dark Souls Remastered is a remastered version of the original game Dark Souls. The updated version of the game features graphical enhancements, an expanded online mode, and the Artorias of the Abyss DLC.",
+    "total_rating_count": 585
+   },
+   {
+    "cover": {
+     "id": 185578,
+     "image_id": "co3z6y"
+    },
+    "first_release_date": 1539907200,
+    "franchises": [
+     1124
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 114143,
+    "name": "Dark Souls Trilogy",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "slug": "dark-souls-trilogy",
+    "summary": "For the first time ever, own all three critically-acclaimed Dark Souls games and all associated DLC content in one 3-disc collection. Enter the epic dark fantasy universe stricken by decline and the Curse. Explore the intricate world designs and deeply rooted lore. Each play through surprises with new challenges and discoveries. Play with hundreds of unique combinations of weaponry, armor, magic, and crafting options to create your own play style and gaming experience."
+   },
+   {
+    "cover": {
+     "id": 262926,
+     "image_id": "co5mvi"
+    },
+    "first_release_date": 1394496000,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 222664,
+    "name": "Dark Souls II: Black Armor Edition",
+    "platforms": [
+     9,
+     12
+    ],
+    "slug": "dark-souls-ii-black-armor-edition",
+    "summary": "Dark Souls II: Black Armor Edition is a special edition released in March 2014. It includes the base game packaged in a collectable steel bookcase and comes with a bonus soundtrack CD. The steel bookcase features unique artwork, providing a more premium presentation for the game.\n\nIt also provides early access to the following weapons and shields:\n\n- Black Flamestone Dagger and Black Flamestone Parma\n- Bound Hand Axe and Bound Wooden Shield\n- Homunculus Mace and Homunculus Wooden Shield\n- Transgressor's Staff and Transgressor's Leather Shield\n- Yellow Quartz Longsword and Yellow Quartz Shield",
+    "version_parent": 2368
+   },
+   {
+    "aggregated_rating": 84.33333333333333,
+    "aggregated_rating_count": 3,
+    "cover": {
+     "id": 379177,
+     "image_id": "co84kp"
+    },
+    "first_release_date": 1345766400,
+    "franchises": [
+     1124
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 21040,
+    "name": "Dark Souls: Prepare to Die Edition",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 90.51624764737694,
+    "rating_count": 222,
+    "slug": "dark-souls-prepare-to-die-edition",
+    "summary": "Dark Souls: Prepare to Die Edition is the PC release, as well as the PS3 and Xbox 360 re-release, of Dark Souls, including the Artorias of the Abyss DLC.",
+    "total_rating_count": 225,
+    "version_parent": 2155
+   }
+  ],
+  "name": "Dark Souls",
+  "v": 5
+ },
  "1163": {
   "checked": "2026-11-13T17:59:55+00:00",
   "games": [
@@ -410770,6 +411589,182 @@
   "name": "Borderlands",
   "v": 5
  },
+ "8190": {
+  "checked": "2026-11-18T04:50:03+00:00",
+  "games": [
+   {
+    "aggregated_rating": 96.9,
+    "aggregated_rating_count": 10,
+    "bundles": [
+     287975,
+     287984,
+     338079
+    ],
+    "collections": [
+     {
+      "id": 10964,
+      "name": "Elden Ring"
+     }
+    ],
+    "cover": {
+     "id": 212094,
+     "image_id": "co4jni"
+    },
+    "first_release_date": 1645747200,
+    "franchises": [
+     8190
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 119133,
+    "name": "Elden Ring",
+    "platforms": [
+     169,
+     48,
+     508,
+     6,
+     167,
+     49
+    ],
+    "rating": 93.47857050011157,
+    "rating_count": 2347,
+    "slug": "elden-ring",
+    "summary": "Elden Ring is an action RPG developed by FromSoftware and published by Bandai Namco Entertainment, released in February 2022. Directed by Hidetaka Miyazaki, with world-building contributions from novelist George R. R. Martin, the game features an expansive open world called the Lands Between. Players assume the role of a customisable character known as the Tarnished, who must explore this world, battle formidable enemies, and seek to restore the Elden Ring to become the Elden Lord.\n\nThe game builds on the challenging gameplay mechanics familiar from the Dark Souls series but introduces a more open-ended structure with vast exploration, dynamic weather, and a day-night cycle. It offers deep lore, complex characters, and an interconnected world filled with secrets, dungeons, and powerful bosses.",
+    "total_rating_count": 2357
+   },
+   {
+    "cover": {
+     "id": 202467,
+     "image_id": "co4c83"
+    },
+    "first_release_date": 1645747200,
+    "franchises": [
+     8190
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 180258,
+    "name": "Elden Ring: Collector's Edition",
+    "platforms": [
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "slug": "elden-ring-collectors-edition",
+    "summary": "The Elden Ring: Collector's Edition is a special game edition that includes the following physical and digital bonuses for fans and collectors:\n\n- Physical copy of the game;\n- SteelBook Case: A collectable metal case featuring unique artwork;\n- Statue of Malenia – Blade of Miquella: A finely detailed 9-inch statue of one of the game’s key characters;\n- Exclusive Artbook: A 40-page hardcover artbook that provides a deeper look into the visual design and world-building of Elden Ring;\n- Digital Soundtrack: A digital copy of the game's atmospheric and epic music score.",
+    "version_parent": 119133
+   },
+   {
+    "bundles": [
+     338079
+    ],
+    "collections": [
+     {
+      "id": 10964,
+      "name": "Elden Ring"
+     }
+    ],
+    "cover": {
+     "id": 596246,
+     "image_id": "cocs2e"
+    },
+    "first_release_date": 1787788800,
+    "franchises": [
+     8190
+    ],
+    "game_type": 1,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 415376,
+    "name": "Elden Ring: Tarnished Pack",
+    "parent_game": 119133,
+    "platforms": [
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "slug": "elden-ring-tarnished-pack--1",
+    "summary": "The Elden Ring Tarnished Pack grants additional content including 2 new starting classes, new armor, and a new Torrent appearance customization feature which are usable in the base game and the Shadow of the Erdtree Expansion."
+   },
+   {
+    "aggregated_rating": 85.25,
+    "aggregated_rating_count": 4,
+    "collections": [
+     {
+      "id": 10964,
+      "name": "Elden Ring"
+     }
+    ],
+    "cover": {
+     "id": 426980,
+     "image_id": "co95gk"
+    },
+    "first_release_date": 1748563200,
+    "franchises": [
+     8190
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 325591,
+    "name": "Elden Ring Nightreign",
+    "platforms": [
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "rating": 79.18234547077608,
+    "rating_count": 107,
+    "slug": "elden-ring-nightreign",
+    "summary": "Elden Ring: Nightreign is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.",
+    "total_rating_count": 111
+   },
+   {
+    "aggregated_rating": 89.75,
+    "aggregated_rating_count": 4,
+    "cover": {
+     "id": 570754,
+     "image_id": "coc8ea"
+    },
+    "first_release_date": 1787875200,
+    "franchises": [
+     8190
+    ],
+    "game_type": 3,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 338079,
+    "name": "Elden Ring: Tarnished Edition",
+    "platforms": [
+     508
+    ],
+    "slug": "elden-ring-tarnished-edition",
+    "summary": "This edition of the game includes the original game “Elden Ring” , the expansion “Shadow of the Erdtree”, a new armor and horse appearance customization features.",
+    "total_rating_count": 4,
+    "version_parent": 119133
+   }
+  ],
+  "name": "Elden Ring",
+  "v": 5
+ },
  "820": {
   "checked": "2026-11-13T18:00:22+00:00",
   "games": [
@@ -493110,6 +494105,46 @@
     "slug": "sniper-elite-nazi-zombie-army-2",
     "total_rating_count": 16
    },
+   "11133": {
+    "aggregated_rating": 86.07692307692308,
+    "aggregated_rating_count": 26,
+    "bundles": [
+     28210,
+     47486,
+     141472
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 525397,
+     "image_id": "cob9ed"
+    },
+    "first_release_date": 1458777600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 11133,
+    "name": "Dark Souls III",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 87.13283763539181,
+    "rating_count": 1992,
+    "slug": "dark-souls-iii",
+    "summary": "Dark Souls III is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in March 2016, it is the fourth entry in the Souls series and the final instalment in the Dark Souls trilogy. Set in the decaying kingdom of Lothric, players take on the role of the \"Ashen One,\" an undead warrior tasked with rekindling the First Flame to prevent the world from falling into darkness.\n\nThe game features challenging combat, intricate level design, and a deep, lore-rich narrative.",
+    "total_rating_count": 2018
+   },
    "11204": {
     "aggregated_rating": 68.33333333333333,
     "collections": [
@@ -493322,6 +494357,32 @@
     "slug": "xenogears",
     "total_rating_count": 127
    },
+   "134606": {
+    "aggregated_rating": 92.33333333333333,
+    "aggregated_rating_count": 9,
+    "cover": {
+     "id": 119925,
+     "image_id": "co2kj9"
+    },
+    "first_release_date": 1605139200,
+    "game_type": 8,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 134606,
+    "name": "Demon's Souls",
+    "parent_game": 5619,
+    "platforms": [
+     167
+    ],
+    "rating": 86.58690489766671,
+    "rating_count": 216,
+    "slug": "demons-souls",
+    "summary": "Entirely rebuilt from the ground up and masterfully enhanced, Demon's Souls is a remake of the 2009 release that introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality with incredible performance. The remake features improved graphics and animations, sound and lighting tweaks and a reimagining of many of the visual, musical and mechanical aspects of the original game.",
+    "total_rating_count": 225
+   },
    "191411": {
     "aggregated_rating": 90.33333333333333,
     "bundles": [
@@ -493412,6 +494473,47 @@
     "rating": 65.21325363726413,
     "slug": "zombie-army-trilogy",
     "total_rating_count": 46
+   },
+   "2155": {
+    "aggregated_rating": 90.625,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     21040
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 89684,
+     "image_id": "co1x78"
+    },
+    "first_release_date": 1316649600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2155,
+    "name": "Dark Souls",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130
+    ],
+    "rating": 86.61446038119203,
+    "rating_count": 1744,
+    "slug": "dark-souls",
+    "summary": "Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in September 2011 as a spiritual sequel to Demon's Souls, it is set in a dark, medieval fantasy world. It is renowned for its challenging gameplay, intricate level design, and deep lore. Players control a customizable character known as the Chosen Undead, embarking on a perilous journey to uncover the secrets of the cursed land of Lordran.\n\nDark Souls is known for its punishing difficulty, requiring players to carefully manage combat, stamina, and resources while navigating hostile environments filled with dangerous enemies and formidable bosses. The game features a unique multiplayer component, allowing players to leave messages for others, summon allies for cooperative play, or invade other players' worlds for PvP combat.\n\nThe original release of Dark Souls received critical acclaim for its atmospheric world, innovative mechanics, and rewarding gameplay, solidifying its place as a seminal title in the action RPG genre.",
+    "total_rating_count": 1752
    },
    "217553": {
     "aggregated_rating": 63.5,
@@ -493624,6 +494726,41 @@
     "slug": "xenoblade-chronicles-x",
     "total_rating_count": 92
    },
+   "2368": {
+    "aggregated_rating": 90.25,
+    "aggregated_rating_count": 20,
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 558315,
+     "image_id": "cobysr"
+    },
+    "first_release_date": 1394496000,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2368,
+    "name": "Dark Souls II",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 79.40751952993266,
+    "rating_count": 854,
+    "slug": "dark-souls-ii",
+    "summary": "Dark Souls II is an action role-playing game set in the kingdom of Drangleic. Players control the Bearer of the Curse, navigating a dark, interconnected world filled with challenging enemies and complex boss encounters. Combat emphasizes precise timing, stamina management, and adaptability, with options for dual-wielding, varied weapon types, and a flexible character progression system.\n\nThe online servers were shut down on March 31st, 2024.",
+    "total_rating_count": 874
+   },
    "240": {
     "aggregated_rating": 90.0,
     "collections": [
@@ -493801,6 +494938,43 @@
     ],
     "slug": "zombie-army-vr"
    },
+   "325591": {
+    "aggregated_rating": 85.25,
+    "aggregated_rating_count": 4,
+    "collections": [
+     {
+      "id": 10964,
+      "name": "Elden Ring"
+     }
+    ],
+    "cover": {
+     "id": 426980,
+     "image_id": "co95gk"
+    },
+    "first_release_date": 1748563200,
+    "franchises": [
+     8190
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 325591,
+    "name": "Elden Ring Nightreign",
+    "platforms": [
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "rating": 79.18234547077608,
+    "rating_count": 107,
+    "slug": "elden-ring-nightreign",
+    "summary": "Elden Ring: Nightreign is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.",
+    "total_rating_count": 111
+   },
    "350": {
     "aggregated_rating": 70.0,
     "collections": [
@@ -493953,6 +495127,30 @@
     ],
     "slug": "bentleys-hackpack"
    },
+   "5619": {
+    "aggregated_rating": 88.25,
+    "aggregated_rating_count": 7,
+    "cover": {
+     "id": 103412,
+     "image_id": "co27sk"
+    },
+    "first_release_date": 1233792000,
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 5619,
+    "name": "Demon's Souls",
+    "platforms": [
+     9
+    ],
+    "rating": 85.49398499515513,
+    "rating_count": 405,
+    "slug": "demon-s-souls",
+    "summary": "A third-person action RPG with cooperative and competitive multiplayer elements in which the player enters the kingdom of Boletaria as it is being ravaged by a fog that spawns murderous demons. The player has to hunt down the arch demons situated in five disparate areas within the kingdom and partake in punishing combat to reach the Old One, the vengeful being that brought the fog to Boletaria.",
+    "total_rating_count": 412
+   },
    "59843": {
     "aggregated_rating": 87.5,
     "collections": [
@@ -494087,6 +495285,61 @@
     "rating": 85.33552966178051,
     "slug": "ico",
     "total_rating_count": 302
+   },
+   "7334": {
+    "aggregated_rating": 91.11111111111111,
+    "aggregated_rating_count": 18,
+    "bundles": [
+     42931,
+     136691,
+     150034
+    ],
+    "cover": {
+     "id": 525225,
+     "image_id": "cob99l"
+    },
+    "first_release_date": 1427155200,
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 7334,
+    "name": "Bloodborne",
+    "platforms": [
+     48
+    ],
+    "rating": 91.32044576285355,
+    "rating_count": 1896,
+    "slug": "bloodborne",
+    "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt's many mysteries.",
+    "total_rating_count": 1914
+   },
+   "76882": {
+    "aggregated_rating": 90.0909090909091,
+    "aggregated_rating_count": 11,
+    "cover": {
+     "id": 106347,
+     "image_id": "co2a23"
+    },
+    "first_release_date": 1553212800,
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 76882,
+    "name": "Sekiro: Shadows Die Twice",
+    "platforms": [
+     170,
+     48,
+     6,
+     49
+    ],
+    "rating": 89.70738402698811,
+    "rating_count": 1424,
+    "slug": "sekiro-shadows-die-twice",
+    "summary": "Sekiro: Shadows Die Twice is an action-adventure game set in a reimagined late 1500s Sengoku-era Japan.\n\nPlayers control Wolf, a shinobi on a mission to rescue his kidnapped lord and seek revenge on his enemies. The game emphasizes precise sword combat, stealth, and mobility, replacing traditional RPG elements with a posture-based dueling system.",
+    "total_rating_count": 1435
    },
    "7716": {
     "collections": [
@@ -494361,6 +495614,183 @@
     "slug": "dj-hero-2",
     "total_rating_count": 25
    },
+   "Dark Souls III|2016": {
+    "aggregated_rating": 86.07692307692308,
+    "aggregated_rating_count": 26,
+    "bundles": [
+     28210,
+     47486,
+     141472
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 525397,
+     "image_id": "cob9ed"
+    },
+    "first_release_date": 1458777600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 11133,
+    "name": "Dark Souls III",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 87.13283763539181,
+    "rating_count": 1992,
+    "slug": "dark-souls-iii",
+    "summary": "Dark Souls III is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in March 2016, it is the fourth entry in the Souls series and the final instalment in the Dark Souls trilogy. Set in the decaying kingdom of Lothric, players take on the role of the \"Ashen One,\" an undead warrior tasked with rekindling the First Flame to prevent the world from falling into darkness.\n\nThe game features challenging combat, intricate level design, and a deep, lore-rich narrative.",
+    "total_rating_count": 2018
+   },
+   "Dark Souls II|2014": {
+    "aggregated_rating": 90.25,
+    "aggregated_rating_count": 20,
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 558315,
+     "image_id": "cobysr"
+    },
+    "first_release_date": 1394496000,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2368,
+    "name": "Dark Souls II",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 79.40751952993266,
+    "rating_count": 854,
+    "slug": "dark-souls-ii",
+    "summary": "Dark Souls II is an action role-playing game set in the kingdom of Drangleic. Players control the Bearer of the Curse, navigating a dark, interconnected world filled with challenging enemies and complex boss encounters. Combat emphasizes precise timing, stamina management, and adaptability, with options for dual-wielding, varied weapon types, and a flexible character progression system.\n\nThe online servers were shut down on March 31st, 2024.",
+    "total_rating_count": 874
+   },
+   "Dark Souls|2011": {
+    "aggregated_rating": 90.625,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     21040
+    ],
+    "collections": [
+     {
+      "id": 543,
+      "name": "Dark Souls"
+     }
+    ],
+    "cover": {
+     "id": 89684,
+     "image_id": "co1x78"
+    },
+    "first_release_date": 1316649600,
+    "franchises": [
+     1124
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 2155,
+    "name": "Dark Souls",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49,
+     130
+    ],
+    "rating": 86.61446038119203,
+    "rating_count": 1744,
+    "slug": "dark-souls",
+    "summary": "Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in September 2011 as a spiritual sequel to Demon's Souls, it is set in a dark, medieval fantasy world. It is renowned for its challenging gameplay, intricate level design, and deep lore. Players control a customizable character known as the Chosen Undead, embarking on a perilous journey to uncover the secrets of the cursed land of Lordran.\n\nDark Souls is known for its punishing difficulty, requiring players to carefully manage combat, stamina, and resources while navigating hostile environments filled with dangerous enemies and formidable bosses. The game features a unique multiplayer component, allowing players to leave messages for others, summon allies for cooperative play, or invade other players' worlds for PvP combat.\n\nThe original release of Dark Souls received critical acclaim for its atmospheric world, innovative mechanics, and rewarding gameplay, solidifying its place as a seminal title in the action RPG genre.",
+    "total_rating_count": 1752
+   },
+   "Demon's Souls|2009": {
+    "aggregated_rating": 88.25,
+    "aggregated_rating_count": 7,
+    "cover": {
+     "id": 103412,
+     "image_id": "co27sk"
+    },
+    "first_release_date": 1233792000,
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 5619,
+    "name": "Demon's Souls",
+    "platforms": [
+     9
+    ],
+    "rating": 85.49398499515513,
+    "rating_count": 405,
+    "slug": "demon-s-souls",
+    "summary": "A third-person action RPG with cooperative and competitive multiplayer elements in which the player enters the kingdom of Boletaria as it is being ravaged by a fog that spawns murderous demons. The player has to hunt down the arch demons situated in five disparate areas within the kingdom and partake in punishing combat to reach the Old One, the vengeful being that brought the fog to Boletaria.",
+    "total_rating_count": 412
+   },
+   "Elden Ring Nightreign|2025": {
+    "aggregated_rating": 85.25,
+    "aggregated_rating_count": 4,
+    "collections": [
+     {
+      "id": 10964,
+      "name": "Elden Ring"
+     }
+    ],
+    "cover": {
+     "id": 426980,
+     "image_id": "co95gk"
+    },
+    "first_release_date": 1748563200,
+    "franchises": [
+     8190
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 325591,
+    "name": "Elden Ring Nightreign",
+    "platforms": [
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "rating": 79.18234547077608,
+    "rating_count": 107,
+    "slug": "elden-ring-nightreign",
+    "summary": "Elden Ring: Nightreign is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.",
+    "total_rating_count": 111
+   },
    "Ghosts'n Goblins: Gold Knights II|2010": {
     "collections": [
      {
@@ -494605,6 +496035,32 @@
     "rating": 80.76662512907815,
     "slug": "pikmin",
     "total_rating_count": 184
+   },
+   "Sekiro: Shadows Die Twice|2019": {
+    "aggregated_rating": 90.0909090909091,
+    "aggregated_rating_count": 11,
+    "cover": {
+     "id": 106347,
+     "image_id": "co2a23"
+    },
+    "first_release_date": 1553212800,
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 76882,
+    "name": "Sekiro: Shadows Die Twice",
+    "platforms": [
+     170,
+     48,
+     6,
+     49
+    ],
+    "rating": 89.70738402698811,
+    "rating_count": 1424,
+    "slug": "sekiro-shadows-die-twice",
+    "summary": "Sekiro: Shadows Die Twice is an action-adventure game set in a reimagined late 1500s Sengoku-era Japan.\n\nPlayers control Wolf, a shinobi on a mission to rescue his kidnapped lord and seek revenge on his enemies. The game emphasizes precise sword combat, stealth, and mobility, replacing traditional RPG elements with a posture-based dueling system.",
+    "total_rating_count": 1435
    },
    "Shinobi II: The Silent Fury|1992": {
     "collections": [
