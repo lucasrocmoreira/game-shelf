@@ -3584,28 +3584,13 @@
   "switch2": {
    "slots": [
     {
-     "key": "igdb:207026",
-     "best": "igdb:207026",
+     "key": "igdb:1638",
+     "best": "igdb:1638",
      "why": [
-      "Top-rated game you haven't played here (score 90)",
+      "Top-rated game you haven't played here (score 91)",
       "Retro pick (1997)",
-      "A change of genre: RPG",
-      "Something longer: about 48.5h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:158983",
-      "guide": "Final Fantasy",
-      "as": null
-     }
-    },
-    {
-     "key": "igdb:227987",
-     "best": "igdb:227987",
-     "why": [
-      "Top-rated game you haven't played here (score 90)",
-      "Retro pick (2002)",
-      "A change of genre: Fighting"
+      "A breather: about 8h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: shooter"
      ],
      "sent": false,
      "earlier": null
@@ -3616,26 +3601,33 @@
      "why": [
       "Top-rated game you haven't played here (score 87)",
       "Modern pick (2025)",
-      "Something longer: about 48h to beat"
+      "About 48h to beat",
+      "A change of style: rpg",
+      "Dragon Quest: 0 of 28 main games played"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:205595",
-      "guide": null,
-      "as": null
-     }
+     "earlier": null
+    },
+    {
+     "key": "igdb:19456",
+     "best": "igdb:19456",
+     "why": [
+      "Top-rated game you haven't played here (score 88)",
+      "2010s pick (2015)",
+      "A breather: about 8h for the story, a change from Pokémon SoulSilver Version"
+     ],
+     "sent": false,
+     "earlier": null
     }
    ],
    "skip": [
-    "igdb:207026",
-    "igdb:26845",
+    "igdb:1638",
     "igdb:306144",
-    "igdb:227987"
+    "igdb:19456"
    ],
-   "avoid": [
-    "Fire Emblem"
-   ],
-   "date": "2026-11-13T18:47:35.322Z"
+   "avoid": [],
+   "algo": 2,
+   "date": "2026-11-18T04:48:43.310Z"
   },
   "ds": {
    "slots": [
