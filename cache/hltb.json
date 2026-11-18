@@ -4621,6 +4621,14 @@
   "hltb_name": "Front Mission: Gun Hazard",
   "main": 17.0
  },
+ "igdb:149980": {
+  "checked": "2026-11-18T17:22:19+00:00",
+  "complete": 66.0,
+  "extra": 44.0,
+  "hltb_id": 92790,
+  "hltb_name": "Dragon Quest III HD-2D Remake",
+  "main": 32.5
+ },
  "igdb:15": {
   "checked": "2026-11-03T04:26:41+00:00",
   "complete": 114.0,
@@ -8865,6 +8873,14 @@
  "igdb:227987": {
   "checked": "2026-11-01T00:47:18+00:00"
  },
+ "igdb:228530": {
+  "checked": "2026-11-18T17:22:17+00:00",
+  "complete": 118.0,
+  "extra": 64.0,
+  "hltb_id": 118225,
+  "hltb_name": "Death Stranding 2: On The Beach",
+  "main": 35.5
+ },
  "igdb:228531": {
   "checked": "2026-10-16T15:01:32+00:00",
   "complete": 31.5,
@@ -11142,6 +11158,14 @@
   "hltb_id": 152014,
   "hltb_name": "Life Is Strange: Double Exposure",
   "main": 11.0
+ },
+ "igdb:305159": {
+  "checked": "2026-11-18T17:22:15+00:00",
+  "complete": 27.0,
+  "extra": 18.0,
+  "hltb_id": 152018,
+  "hltb_name": "Atomfall",
+  "main": 10.5
  },
  "igdb:305234": {
   "checked": "2026-10-28T11:40:09+00:00",

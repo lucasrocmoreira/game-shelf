@@ -11277,7 +11277,14 @@
   "mc_v": 3,
   "metacritic": 84,
   "metacritic_n": 49,
-  "metacritic_slug": "dragon-quest-iii-hd-2d-remake"
+  "metacritic_slug": "dragon-quest-iii-hd-2d-remake",
+  "oc_checked": "2026-11-18T17:22:13+00:00",
+  "opencritic": 85,
+  "opencritic_id": 17648,
+  "opencritic_n": 65,
+  "opencritic_n_all": 126,
+  "opencritic_pct": 93,
+  "opencritic_tier": "Mighty"
  },
  "igdb:149989": {
   "backloggd": 3.6,
@@ -22696,6 +22703,23 @@
   "metacritic_slug": "soulcalibur-ii",
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:228530": {
+  "backloggd": 4.4,
+  "backloggd_n": 15889,
+  "bl_v": 3,
+  "checked": "2026-11-18T17:22:11+00:00",
+  "mc_v": 3,
+  "metacritic": 89,
+  "metacritic_n": 153,
+  "metacritic_slug": "death-stranding-2-on-the-beach",
+  "oc_checked": "2026-11-18T17:22:11+00:00",
+  "opencritic": 90,
+  "opencritic_id": 18226,
+  "opencritic_n": 93,
+  "opencritic_n_all": 202,
+  "opencritic_pct": 95,
+  "opencritic_tier": "Mighty"
+ },
  "igdb:228531": {
   "backloggd": 2.6,
   "backloggd_n": 1392,
@@ -29447,6 +29471,23 @@
   "opencritic_id": 17125,
   "opencritic_pct": 54,
   "opencritic_tier": "Fair"
+ },
+ "igdb:305159": {
+  "backloggd": 3.2,
+  "backloggd_n": 1915,
+  "bl_v": 3,
+  "checked": "2026-11-18T17:22:06+00:00",
+  "mc_v": 3,
+  "metacritic": 74,
+  "metacritic_n": 58,
+  "metacritic_slug": "atomfall",
+  "oc_checked": "2026-11-18T17:22:12+00:00",
+  "opencritic": 75,
+  "opencritic_id": 17764,
+  "opencritic_n": 62,
+  "opencritic_n_all": 131,
+  "opencritic_pct": 64,
+  "opencritic_tier": "Strong"
  },
  "igdb:305234": {
   "backloggd": 2.9,

@@ -22111,6 +22111,18 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:10001538": {
+  "candidates": 3,
+  "checked": "2026-11-18T17:21:54+00:00",
+  "conf": "high",
+  "id": 228530,
+  "mp": null,
+  "score": 1.141,
+  "slug": null,
+  "title": "DEATH STRANDING 2: ON THE BEACH",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:psplus:10001568": {
   "candidates": 4,
   "checked": "2026-10-28T03:44:37+00:00",
@@ -23972,6 +23984,18 @@
   "v": 4,
   "via": "search"
  },
+ "PS5:psplus:10007896": {
+  "candidates": 5,
+  "checked": "2026-11-18T17:21:54+00:00",
+  "conf": "high",
+  "id": 305159,
+  "mp": null,
+  "score": 1.136,
+  "slug": null,
+  "title": "Atomfall PS4™ & PS5™",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:psplus:10007897": {
   "candidates": 25,
   "checked": "2026-10-28T03:45:10+00:00",
@@ -24595,6 +24619,18 @@
   "score": 1.125,
   "slug": null,
   "title": "Monster Energy Supercross 25 - The Official Video Game",
+  "v": 4,
+  "via": "search"
+ },
+ "PS5:psplus:10010018": {
+  "candidates": 1,
+  "checked": "2026-11-18T17:21:55+00:00",
+  "conf": "high",
+  "id": 149980,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "DRAGON QUEST III HD-2D Remake",
   "v": 4,
   "via": "search"
  },
