@@ -3742,32 +3742,18 @@
   "wii": {
    "slots": [
     {
-     "key": "igdb:1078",
-     "best": "igdb:1078",
+     "key": "igdb:5122",
+     "best": "igdb:5122",
      "why": [
-      "Top-rated game you haven't played here (score 96)",
-      "Retro pick (2010)",
-      "About 20h to beat"
-     ],
-     "sent": false,
-     "earlier": {
-      "key": "igdb:1066",
-      "guide": "Mario",
-      "as": null
-     }
-    },
-    {
-     "key": "igdb:534",
-     "best": "igdb:534",
-     "why": [
-      "Top-rated game you haven't played here (score 89)",
+      "Top-rated game you haven't played here (score 87)",
       "2010s pick (2011)",
-      "About 46.5h to beat"
+      "A breather: about 6.5h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: arcade/music"
      ],
      "sent": false,
      "earlier": {
-      "key": "igdb:1026",
-      "guide": "The Legend of Zelda",
+      "key": "igdb:6557",
+      "guide": null,
       "as": null
      }
     },
@@ -3777,7 +3763,9 @@
      "why": [
       "Top-rated game you haven't played here (score 94)",
       "Retro pick (2009)",
-      "About 48h to beat"
+      "About 48h to beat",
+      "A change of style: shooter",
+      "Metroid: 1 of 12 main games played"
      ],
      "sent": false,
      "earlier": {
@@ -3785,15 +3773,33 @@
       "guide": "Metroid",
       "as": null
      }
+    },
+    {
+     "key": "igdb:3349",
+     "best": "igdb:3349",
+     "why": [
+      "Top-rated game you haven't played here (score 90)",
+      "2004: the other eras had nothing close in score",
+      "About 38h to beat",
+      "A change of style: rpg",
+      "Paper Mario: 0 of 7 main games played"
+     ],
+     "sent": false,
+     "earlier": {
+      "key": "igdb:3340",
+      "guide": "Mario",
+      "as": null
+     }
     }
    ],
    "skip": [
-    "igdb:1078",
-    "igdb:534",
-    "igdb:1112"
+    "igdb:5122",
+    "igdb:1112",
+    "igdb:3349"
    ],
    "avoid": [],
-   "date": "2026-11-13T18:47:42.989Z"
+   "algo": 2,
+   "date": "2026-11-18T04:49:00.018Z"
   }
  },
  "noint": {
