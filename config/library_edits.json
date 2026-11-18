@@ -3400,20 +3400,18 @@
      "earlier": null
     },
     {
-     "key": "igdb:72",
-     "best": "igdb:72",
+     "key": "igdb:231",
+     "best": "igdb:233",
      "why": [
-      "Top-rated game you haven't played here (score 95)",
-      "2010s pick (2011)",
-      "A breather: about 8.5h for the story, a change from Pokémon SoulSilver Version",
-      "A change of style: puzzle/narrative"
+      "Comes before Half-Life 2 (score 94) in the Half-Life series: play this one first",
+      "Scores 93 itself",
+      "1998: the other eras had nothing close in score",
+      "A breather: about 12h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: shooter",
+      "Half-Life: 0 of 5 main games played"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:71",
-      "guide": null,
-      "as": null
-     }
+     "earlier": null
     },
     {
      "key": "igdb:147519",
@@ -3430,12 +3428,12 @@
    ],
    "skip": [
     "igdb:158983",
-    "igdb:72",
+    "igdb:231",
     "igdb:147519"
    ],
    "avoid": [],
-   "algo": 2,
-   "date": "2026-11-18T04:50:05.195Z"
+   "algo": 3,
+   "date": "2026-11-18T17:58:34.601Z"
   },
   "ps5": {
    "slots": [
