@@ -3452,19 +3452,6 @@
      "earlier": null
     },
     {
-     "key": "igdb:1128",
-     "best": "igdb:1128",
-     "why": [
-      "Top-rated game you haven't played here (score 91)",
-      "Retro pick (1997)",
-      "About 11.5h to beat",
-      "A change of style: rpg",
-      "Castlevania: 0 of 28 main games played"
-     ],
-     "sent": false,
-     "earlier": null
-    },
-    {
      "key": "igdb:81085",
      "best": "igdb:119133",
      "why": [
@@ -3473,7 +3460,21 @@
       "2010s pick (2011)",
       "About 44h to beat",
       "A change of style: rpg",
-      "Dark Souls: 2 of 8 main games played"
+      "Dark Souls: 2 of 7 main games played"
+     ],
+     "sent": false,
+     "earlier": null
+    },
+    {
+     "key": "igdb:305775",
+     "best": "igdb:306134",
+     "why": [
+      "Comes before Tekken 3 (score 91): play this one first",
+      "Scores 83 itself",
+      "Retro pick (1995)",
+      "About 6.5h to beat",
+      "A change of style: arcade/music",
+      "Included with PS Plus"
      ],
      "sent": false,
      "earlier": null
@@ -3481,12 +3482,12 @@
    ],
    "skip": [
     "igdb:279624",
-    "igdb:1128",
-    "igdb:81085"
+    "igdb:81085",
+    "igdb:305775"
    ],
    "avoid": [],
-   "algo": 2,
-   "date": "2026-11-18T17:15:28.510Z"
+   "algo": 3,
+   "date": "2026-11-18T17:57:42.183Z"
   },
   "ps3": {
    "slots": [
