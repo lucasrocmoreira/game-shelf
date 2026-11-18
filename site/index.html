@@ -895,6 +895,7 @@ function bestVersion(list){
   const yr = x=>x.year||0, sc = x=>avg(x)??0;
   const newest = ok.slice().sort((a,b)=>yr(b)-yr(a) || platRank(a)-platRank(b))[0];
   const top = ok.slice().sort((a,b)=>sc(b)-sc(a) || platRank(a)-platRank(b))[0];
+  if(avg(newest)==null) return newest;  // a new release with no score yet isn't worse
   return sc(top) >= sc(newest) + 5 ? top : newest;
 }
 const famDone = g=>versionsOf(g).some(x=>x._played || x._playing);
@@ -1025,7 +1026,11 @@ function seriesNeeds(best, pool){
     const i = main.indexOf(at(me));
     const earlier = i > 0 ? main.slice(0, i) : (me.spin ? [] : main.filter(e=>(e.year||0) < (at(me).year||0)));
     req = story === "saga" ? earlier.filter(e=>!e.opt)
-        : earlier.filter(e=>e.ess || (e.score??0) >= MUST_PLAY || (e===main[0] && (e.score??0) >= 75 && e.rows.length));  // the first game counts only if you have it
+        : earlier.filter(e=>{  // a remake counts: you own it, and its score counts for the original
+            const vers = [e, ...(e.remakes||[]).filter(r=>!VERSION_DISTINCT.has(r.id))];
+            const best = Math.max(...vers.map(x=>x.score??0)), have = vers.some(x=>x.rows.length);
+            return e.ess || best >= MUST_PLAY || (e===main[0] && best >= 75 && have);  // the first game counts only if you have it
+          });
   } else if(story === "arcs"){
     const arcs = Object.values(f.arcs||{});  // a remake listed in an arc keeps that place (Anniversary in the Legend trilogy)
     const arc = arcs.find(ids=>ids.includes(me.id)) || arcs.find(ids=>ids.includes(at(me).id));
@@ -1042,9 +1047,10 @@ function frProgress(f, g){
   const G = frGames(f), entry = frEntriesOf(g.key).find(x=>x.f===f);
   const e = entry && G.list.find(x=>x.id===entry.id); if(!e) return null;
   const line = e.section && G.sections ? (G.sections.find(s=>s.name===e.section)||{}).games : G.main;
-  if(!line || line.length < 3) return null;
-  const played = line.filter(x=>x.status==="played").length;
-  return `${e.section || f.name.replace(/^The /,"")}: ${played} of ${line.length} main games played`;
+  const ids = new Set(G.list.map(x=>x.id)), games = (line||[]).filter(x=>!x.remake_of || !ids.has(x.remake_of));  // remakes aren't extra games
+  if(games.length < 3) return null;
+  const played = games.filter(x=>x.status==="played" || x.coveredBy || (x.remakes||[]).some(r=>r.status==="played")).length;
+  return `${e.section || f.name.replace(/^The /,"")}: ${played} of ${games.length} main games played`;
 }
 function guidePrev(best, pool){
   /* The first game the series needs before this one that you have and haven't played (any console or
@@ -1064,7 +1070,7 @@ function guidePrev(best, pool){
 function sameGame(a, b){  // "Final Fantasy VI" vs "Final Fantasy VI Advance": same game; vs "Metal Gear Solid HD Collection": a collection
   const n = x=>x.toLowerCase().replace(/[^a-z0-9]+/g," ").trim(); a = n(a); b = n(b);
   const [s, l] = a.length <= b.length ? [a, b] : [b, a];
-  return l.startsWith(s) && l.length - s.length <= 10;
+  return l.startsWith(s) && (l.length - s.length <= 10 || /^[ :(\-]/.test(l.slice(s.length)) && !/collection|trilogy|anthology/.test(l));
 }
 function whereIs(g){
   const p = g.platforms.filter(x=>!["PS4","PS5"].includes(x) || !g._catalog);
