@@ -3639,21 +3639,16 @@
   "ds": {
    "slots": [
     {
-     "key": "igdb:2345",
-     "best": "igdb:2345",
+     "key": "igdb:9109",
+     "best": "igdb:9109",
      "why": [
-      "Top-rated game you haven't played here (score 88)",
-      "Retro pick (2005)",
-      "A breather: about 4.5h for the story, a change from Pokémon SoulSilver Version",
-      "A change of style: racing/sport",
-      "Mario Kart: 1 of 9 main games played"
+      "Top-rated game you haven't played here (score 86)",
+      "Retro pick (2006)",
+      "A breather: about 4h for the story, a change from Pokémon SoulSilver Version",
+      "A change of style: arcade/music"
      ],
      "sent": false,
-     "earlier": {
-      "key": "igdb:2332",
-      "guide": "Mario",
-      "as": null
-     }
+     "earlier": null
     },
     {
      "key": "igdb:2288",
@@ -3662,7 +3657,7 @@
       "Top-rated game you haven't played here (score 82)",
       "2010s pick (2012)",
       "About 43.5h to beat",
-      "Pokémon: 1 of 22 main games played"
+      "Pokémon: 1 of 18 main games played"
      ],
      "sent": false,
      "earlier": null
@@ -3683,13 +3678,13 @@
     }
    ],
    "skip": [
-    "igdb:2345",
+    "igdb:9109",
     "igdb:2288",
     "igdb:1398"
    ],
    "avoid": [],
-   "algo": 2,
-   "date": "2026-11-18T16:25:54.637Z"
+   "algo": 3,
+   "date": "2026-11-18T17:58:21.601Z"
   },
   "3ds": {
    "slots": [
