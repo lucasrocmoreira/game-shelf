@@ -17734,6 +17734,21 @@
   },
   {
    "also_platform": "PS4",
+   "concept": "10007896",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/0709/b2ee4642335bdc52702636666f5dd4af74a50ea71987f7c9.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10007896",
+   "store_url": "https://store.playstation.com/en-us/concept/10007896",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Atomfall PS4™ & PS5™"
+  },
+  {
+   "also_platform": "PS4",
    "concept": "233064",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1900/sSZEg1DFAUrfWsA7ltLwpCdu.png",
    "last_played": null,
@@ -18423,21 +18438,6 @@
    "title": "Coral Island"
   },
   {
-   "also_platform": "PS4",
-   "concept": "10008264",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/81ab4b5e5fc8aeba84d3ce3fb7aeede9f00bbab93d9c9c60.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS5",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:10008264",
-   "store_url": "https://store.playstation.com/en-us/concept/10008264",
-   "streaming": true,
-   "tier": "Game Catalog",
-   "title": "Cricket 24"
-  },
-  {
    "also_platform": null,
    "concept": "10004424",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2110/19bed77029988cd50c040aaad79f8f56ab0f02f448b8aa09.png",
@@ -18649,6 +18649,21 @@
   },
   {
    "also_platform": null,
+   "concept": "10001538",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2711/cbc6c3135660ec68eacc766959a766b36d7ce3fa6010ca88.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10001538",
+   "store_url": "https://store.playstation.com/en-us/concept/10001538",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "DEATH STRANDING 2: ON THE BEACH"
+  },
+  {
+   "also_platform": null,
    "concept": "234692",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2216/nbNXIr7w4moRpBuFCEw1tEci.png",
    "last_played": null,
@@ -18814,6 +18829,21 @@
   },
   {
    "also_platform": null,
+   "concept": "10010018",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1508/2d8a60c46eb99acc83c22ebd4024acec0beee526c5acb0cf.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10010018",
+   "store_url": "https://store.playstation.com/en-us/concept/10010018",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "DRAGON QUEST III HD-2D Remake"
+  },
+  {
+   "also_platform": null,
    "concept": "232591",
    "image": "https://image.api.playstation.com/cdn/UP0031/CUSA14503_00/d0WHFQQ9fWRCi2CsBy2c6FtulKft5pEU.png",
    "last_played": null,
@@ -18946,21 +18976,6 @@
    "streaming": false,
    "tier": "Game Catalog",
    "title": "Eagle Flight"
-  },
-  {
-   "also_platform": null,
-   "concept": "201415",
-   "image": "https://image.api.playstation.com/cdn/UP1023/CUSA03131_00/2kZ1IjV2ftv3QRJBFgOVk7LG33nIVKf6.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS4",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:201415",
-   "store_url": "https://store.playstation.com/en-us/concept/201415",
-   "streaming": false,
-   "tier": "Game Catalog",
-   "title": "Earth Defense Force 4.1: The Shadow of New Despair"
   },
   {
    "also_platform": null,
@@ -19683,21 +19698,6 @@
    "title": "Grand Ages: Medieval"
   },
   {
-   "also_platform": "PS4",
-   "concept": "201930",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1409/oltI7Zc96usbdvhVVXcV1EAi.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS5",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:201930",
-   "store_url": "https://store.playstation.com/en-us/concept/201930",
-   "streaming": true,
-   "tier": "Game Catalog",
-   "title": "Grand Theft Auto V (PS4™ & PS5™)"
-  },
-  {
    "also_platform": null,
    "concept": "221698",
    "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2320/UQRzoZKzI3PjOYfPa2XOqS19.png",
@@ -19906,21 +19906,6 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "Hotline Miami 2: Wrong Number"
-  },
-  {
-   "also_platform": null,
-   "concept": "231863",
-   "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1116/8oLdhsOuqG5AYSiT3bxQ4bpk.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS4",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:231863",
-   "store_url": "https://store.playstation.com/en-us/concept/231863",
-   "streaming": false,
-   "tier": "Game Catalog",
-   "title": "Hotshot Racing"
   },
   {
    "also_platform": "PS4",
@@ -20656,21 +20641,6 @@
    "streaming": false,
    "tier": "Game Catalog",
    "title": "MONOPOLY Madness"
-  },
-  {
-   "also_platform": "PS4",
-   "concept": "217487",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0705/36AB9tmybA00zCzfgARA3X90.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS5",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:217487",
-   "store_url": "https://store.playstation.com/en-us/concept/217487",
-   "streaming": true,
-   "tier": "Game Catalog",
-   "title": "Monster Boy and the Cursed Kingdom"
   },
   {
    "also_platform": null,
@@ -21588,21 +21558,6 @@
    "title": "Rebel Galaxy"
   },
   {
-   "also_platform": null,
-   "concept": "209441",
-   "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS4",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:209441",
-   "store_url": "https://store.playstation.com/en-us/concept/209441",
-   "streaming": false,
-   "tier": "Game Catalog",
-   "title": "Red Dead Redemption 2"
-  },
-  {
    "also_platform": "PS4",
    "concept": "235235",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
@@ -22473,21 +22428,6 @@
    "title": "Tetris® Effect: Connected"
   },
   {
-   "also_platform": "PS4",
-   "concept": "10007988",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1718/da9d5ae60787d113afe56a44c1a13c03a89e628d60ab7e2e.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS5",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:10007988",
-   "store_url": "https://store.playstation.com/en-us/concept/10007988",
-   "streaming": true,
-   "tier": "Game Catalog",
-   "title": "Thank Goodness You're Here!"
-  },
-  {
    "also_platform": null,
    "concept": "10008245",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1719/d0129733cdcf7f11eac10f8171d83184fb2f4f23f7b19b95.png",
@@ -22816,21 +22756,6 @@
    "streaming": false,
    "tier": "Game Catalog",
    "title": "The Surge 2"
-  },
-  {
-   "also_platform": null,
-   "concept": "10004172",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2421/14712498105d05ea2d9ad3cd4d66f55a83b66e9ce3b84bc2.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS5",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:10004172",
-   "store_url": "https://store.playstation.com/en-us/concept/10004172",
-   "streaming": true,
-   "tier": "Game Catalog",
-   "title": "The Talos Principle 2"
   },
   {
    "also_platform": null,
@@ -23821,21 +23746,6 @@
    "streaming": false,
    "tier": "Game Catalog",
    "title": "XCOM® 2"
-  },
-  {
-   "also_platform": null,
-   "concept": "235411",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1914/WLJycKW8kM0r1Tvlkmev0LIr.png",
-   "last_played": null,
-   "match_platforms": null,
-   "origin": null,
-   "platform": "PS4",
-   "playtime_hours": 0.0,
-   "source_id": "psplus:235411",
-   "store_url": "https://store.playstation.com/en-us/concept/235411",
-   "streaming": false,
-   "tier": "Game Catalog",
-   "title": "Yet Another Zombie Defense HD"
   },
   {
    "also_platform": "PS4",

@@ -39661,6 +39661,17 @@
   "metacritic_n": null,
   "metacritic_slug": null
  },
+ "igdb:52189": {
+  "backloggd": 3.7,
+  "backloggd_n": 226,
+  "bl_v": 3,
+  "checked": "2026-11-19T19:01:11+00:00",
+  "franchise_only": true,
+  "mc_v": 3,
+  "metacritic": 99,
+  "metacritic_n": 157,
+  "metacritic_slug": "grand-theft-auto-vi"
+ },
  "igdb:52190": {
   "backloggd": 2.9,
   "backloggd_n": 3930,
