@@ -27,9 +27,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 180
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -83,5 +80,15 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+
+  # Deploy from its own job: since Nov 2026 deploy-pages often can't see an artifact
+  # uploaded a fraction of a second earlier in the same job ("Found 0 artifact(s)").
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
       - id: deploy
         uses: actions/deploy-pages@v4
