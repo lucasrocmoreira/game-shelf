@@ -301,6 +301,12 @@
     "Warhammer 40,000: Dawn of War": {"story": "loose"},
     "X-COM": {"story": "loose"},
     "Wars": {"story": "loose"},
+    "Dark Souls": {
+      "story": "loose",
+      "after": {
+        "11133": [2155]
+      }
+    },
     "Call of Duty": {"story": "none"},
     "Grand Theft Auto": {"story": "none"},
     "Silent Hill": {"story": "none"},
