@@ -11152,7 +11152,7 @@
  },
  "PS4:CUSA00095_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11164,7 +11164,7 @@
  },
  "PS4:CUSA00096_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11210,7 +11210,7 @@
  },
  "PS4:CUSA00129_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11222,7 +11222,7 @@
  },
  "PS4:CUSA00130_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11234,7 +11234,7 @@
  },
  "PS4:CUSA00131_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11533,7 +11533,7 @@
  },
  "PS4:CUSA01015_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11644,7 +11644,7 @@
  },
  "PS4:CUSA01780_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11678,7 +11678,7 @@
  },
  "PS4:CUSA02012_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -11803,7 +11803,7 @@
  },
  "PS4:CUSA02573_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -12765,7 +12765,7 @@
  },
  "PS4:CUSA09142_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -13415,7 +13415,7 @@
  },
  "PS4:CUSA14043_00": {
   "candidates": 25,
-  "checked": "2026-11-20T18:38:17+00:00",
+  "checked": "2026-11-23T22:04:27+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -13670,7 +13670,7 @@
  },
  "PS4:CUSA15607_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -13854,6 +13854,18 @@
   "slug": null,
   "title": "Mafia II: Definitive Edition",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA17195_00": {
+  "candidates": 18,
+  "checked": "2026-11-23T22:04:29+00:00",
+  "conf": "high",
+  "id": 119270,
+  "mp": null,
+  "score": 1.14,
+  "slug": null,
+  "title": "Tales of Arise",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA17271_00": {
@@ -14167,7 +14179,7 @@
  },
  "PS4:CUSA20387_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -15194,7 +15206,7 @@
  },
  "PS4:CUSA41487_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -15224,6 +15236,18 @@
   "slug": null,
   "title": "Wobbly Life",
   "v": 2,
+  "via": "search"
+ },
+ "PS4:CUSA42503_00": {
+  "candidates": 5,
+  "checked": "2026-11-23T22:04:28+00:00",
+  "conf": "high",
+  "id": 305159,
+  "mp": null,
+  "score": 1.136,
+  "slug": null,
+  "title": "Atomfall",
+  "v": 4,
   "via": "search"
  },
  "PS4:CUSA42556_00": {
@@ -19120,7 +19144,7 @@
  },
  "PS5:PPSA01650_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -19132,7 +19156,7 @@
  },
  "PS5:PPSA01665_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -19382,6 +19406,18 @@
   "slug": null,
   "title": "DOOM Eternal",
   "v": 2,
+  "via": "search"
+ },
+ "PS5:PPSA02015_00": {
+  "candidates": 3,
+  "checked": "2026-11-23T22:04:28+00:00",
+  "conf": "high",
+  "id": 228530,
+  "mp": null,
+  "score": 1.141,
+  "slug": null,
+  "title": "DEATH STRANDING 2: ON THE BEACH",
+  "v": 4,
   "via": "search"
  },
  "PS5:PPSA02017_00": {
@@ -19723,6 +19759,18 @@
   "slug": null,
   "title": "Monster Boy and the Cursed Kingdom",
   "v": 2,
+  "via": "search"
+ },
+ "PS5:PPSA02794_00": {
+  "candidates": 18,
+  "checked": "2026-11-23T22:04:29+00:00",
+  "conf": "high",
+  "id": 119270,
+  "mp": null,
+  "score": 1.14,
+  "slug": null,
+  "title": "Tales of Arise",
+  "v": 4,
   "via": "search"
  },
  "PS5:PPSA02813_00": {
@@ -21082,6 +21130,18 @@
   "v": 2,
   "via": "search"
  },
+ "PS5:PPSA15493_00": {
+  "candidates": 5,
+  "checked": "2026-11-23T22:04:28+00:00",
+  "conf": "high",
+  "id": 305159,
+  "mp": null,
+  "score": 1.136,
+  "slug": null,
+  "title": "Atomfall",
+  "v": 4,
+  "via": "search"
+ },
  "PS5:PPSA15547_00": {
   "candidates": 25,
   "checked": "2026-10-07T01:51:25+00:00",
@@ -21317,7 +21377,7 @@
  },
  "PS5:PPSA18266_00": {
   "candidates": null,
-  "checked": "2026-11-20T18:38:16+00:00",
+  "checked": "2026-11-23T22:04:26+00:00",
   "conf": null,
   "id": null,
   "mp": null,
@@ -21413,6 +21473,18 @@
   "slug": null,
   "title": "Another Crab’s Treasure",
   "v": 2,
+  "via": "search"
+ },
+ "PS5:PPSA20612_00": {
+  "candidates": 1,
+  "checked": "2026-11-23T22:04:29+00:00",
+  "conf": "high",
+  "id": 149980,
+  "mp": null,
+  "score": 1.134,
+  "slug": null,
+  "title": "DRAGON QUEST III HD-2D Remake",
+  "v": 4,
   "via": "search"
  },
  "PS5:PPSA21130_00": {

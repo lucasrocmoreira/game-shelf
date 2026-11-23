@@ -345056,6 +345056,145 @@
   "name": "Superman",
   "v": 4
  },
+ "6445": {
+  "checked": "2026-11-23T22:04:45+00:00",
+  "games": [
+   {
+    "aggregated_rating": 84.41176470588235,
+    "aggregated_rating_count": 17,
+    "collections": [
+     {
+      "id": 10104,
+      "name": "Death Stranding"
+     }
+    ],
+    "cover": {
+     "id": 597293,
+     "image_id": "cocsvh"
+    },
+    "first_release_date": 1573171200,
+    "franchises": [
+     6445
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 19564,
+    "name": "Death Stranding",
+    "platforms": [
+     48,
+     6
+    ],
+    "rating": 85.94524244951123,
+    "rating_count": 913,
+    "slug": "death-stranding",
+    "summary": "Death Stranding is an action game set in a post-apocalyptic United States.\n\nPlayers control Sam Porter Bridges, a courier tasked with reconnecting isolated cities via a communication network while delivering essential cargo. The gameplay blends traversal, resource management, and narrative elements, with a focus on social connectivity through asynchronous multiplayer. It is known for its unique mechanics, atmospheric world, and philosophical themes.",
+    "total_rating_count": 930
+   },
+   {
+    "aggregated_rating": 92.16666666666667,
+    "aggregated_rating_count": 6,
+    "collections": [
+     {
+      "id": 10104,
+      "name": "Death Stranding"
+     }
+    ],
+    "cover": {
+     "id": 444165,
+     "image_id": "co9ipx"
+    },
+    "first_release_date": 1750896000,
+    "franchises": [
+     6445
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 228530,
+    "name": "Death Stranding 2: On the Beach",
+    "platforms": [
+     6,
+     167
+    ],
+    "rating": 89.46762231434703,
+    "rating_count": 117,
+    "slug": "death-stranding-2-on-the-beach",
+    "summary": "Death Stranding 2: On the Beach is a third-person action-adventure game set in a post-apocalyptic world ravaged by otherworldly creatures. Players control Sam Porter Bridges, a retired porter, as he traverses the open worlds of Mexico and Australia to connect isolated survivors to a wireless communication network called the Chiral Network. The core gameplay revolves around delivering packages across hazardous terrain, managing cargo weight, building infrastructure like roads and monorails, and navigating natural disasters. Combat has a greater focus than its predecessor, offering lethal and non-lethal options alongside stealth approaches. The game features asynchronous online elements where players can build structures visible to others.",
+    "total_rating_count": 123
+   },
+   {
+    "aggregated_rating": 90.85714285714286,
+    "aggregated_rating_count": 7,
+    "collections": [
+     {
+      "id": 10104,
+      "name": "Death Stranding"
+     }
+    ],
+    "cover": {
+     "id": 540160,
+     "image_id": "cobksg"
+    },
+    "first_release_date": 1632441600,
+    "franchises": [
+     6445
+    ],
+    "game_type": 10,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 152063,
+    "name": "Death Stranding: Director's Cut",
+    "parent_game": 19564,
+    "platforms": [
+     169,
+     6,
+     39,
+     167,
+     14
+    ],
+    "rating": 88.40326252137626,
+    "rating_count": 148,
+    "slug": "death-stranding-directors-cut",
+    "summary": "Death Stranding is an action game set in a post-apocalyptic United States. Players control Sam Porter Bridges, a courier tasked with reconnecting isolated cities via a communication network while delivering essential cargo. The gameplay blends traversal, resource management, and narrative elements, with a focus on social connectivity through asynchronous multiplayer. It is known for its unique mechanics, atmospheric world, and philosophical themes. The Director's Cut includes more character action, extended storylines through new missions and a unique Social Strand System to stay connected with other players around the globe.",
+    "total_rating_count": 155
+   },
+   {
+    "cover": {
+     "id": 573705,
+     "image_id": "cocao9"
+    },
+    "first_release_date": 1632441600,
+    "franchises": [
+     6445
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 407589,
+    "name": "Death Stranding: Director's Cut - Digital Deluxe Edition",
+    "platforms": [
+     167
+    ],
+    "slug": "death-stranding-directors-cut-digital-deluxe-edition",
+    "summary": "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded and remastered for the PS5 in this definitive Director’s Cut.\n\nThe Digital Deluxe Edition includes:\n- Full game.\n- Digital mini art book and mini soundtrack PlayStation5 app.\n- Avatar set.\n- DEATH STRANDING Digital Deluxe Edition content.*\n- New in-game suit colors x2 (gold and silver).*\n- New in-game power glove colors x2 (gold and silver).*\n- Additional in-game BB Pod customization options x2 (gold and silver).*\n- Additional in-game backpack patches.*\n*Unlock in-game items via story progression.",
+    "version_parent": 152063
+   }
+  ],
+  "name": "Death Stranding",
+  "v": 5
+ },
  "6595": {
   "checked": "2026-11-13T18:00:09+00:00",
   "games": [

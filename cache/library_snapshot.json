@@ -11971,7 +11971,7 @@
    "title": "Marvel's Spider-Man"
   },
   {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1210/652a064c255831b4bc06eab2a88e886c5d96411fc7d4bc5e.png",
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1907/24cf4a281a9234c6f7648246bec9a2ceeec9dd6bbc4910b2.png",
    "last_played": "2024-12-11",
    "platform": "PS5",
    "playtime_hours": 0.9,
@@ -17189,6 +17189,60 @@
    "ps_plus": true,
    "source_id": "PPSA10664_00",
    "title": "FINAL FANTASY XVI"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2711/cbc6c3135660ec68eacc766959a766b36d7ce3fa6010ca88.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "PPSA02015_00",
+   "title": "DEATH STRANDING 2: ON THE BEACH"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2514/21051737b53a5908306ebb8276306c2859830e2f53e0bda0.png",
+   "last_played": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "CUSA42503_00",
+   "title": "Atomfall"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2514/21051737b53a5908306ebb8276306c2859830e2f53e0bda0.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "PPSA15493_00",
+   "title": "Atomfall"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1508/2d8a60c46eb99acc83c22ebd4024acec0beee526c5acb0cf.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "PPSA20612_00",
+   "title": "DRAGON QUEST III HD-2D Remake"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/AEsEfC42YwowOdvJ1GXZqhhS.png",
+   "last_played": null,
+   "platform": "PS4",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "CUSA17195_00",
+   "title": "Tales of Arise"
+  },
+  {
+   "cover": "https://image.api.playstation.com/vulcan/img/rnd/202107/3016/71ITWUrZiwkaJxaxfu1Bn7vs.png",
+   "last_played": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "ps_plus": true,
+   "source_id": "PPSA02794_00",
+   "title": "Tales of Arise"
   }
  ],
  "psplus": [
@@ -27623,9 +27677,9 @@
    "title": "PEAK"
   },
   {
-   "last_played": null,
+   "last_played": "2026-11-23",
    "platform": "Steam",
-   "playtime_hours": 0.0,
+   "playtime_hours": 1.1,
    "source_id": "4704690",
    "steam_appid": 4704690,
    "title": "MECCHA CHAMELEON"

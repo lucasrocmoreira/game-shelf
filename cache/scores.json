@@ -4971,6 +4971,23 @@
   "opencritic_pct": 49,
   "opencritic_tier": "Fair"
  },
+ "igdb:119270": {
+  "backloggd": 3.5,
+  "backloggd_n": 10171,
+  "bl_v": 3,
+  "checked": "2026-11-23T22:04:42+00:00",
+  "mc_v": 3,
+  "metacritic": 87,
+  "metacritic_n": 78,
+  "metacritic_slug": "tales-of-arise",
+  "oc_checked": "2026-11-23T22:04:42+00:00",
+  "opencritic": 87,
+  "opencritic_id": 11930,
+  "opencritic_n": 102,
+  "opencritic_n_all": 155,
+  "opencritic_pct": 97,
+  "opencritic_tier": "Mighty"
+ },
  "igdb:119285": {
   "backloggd": 3.4,
   "backloggd_n": 1600,
