@@ -30833,6 +30833,15 @@
    "nso": true,
    "platform": "GameCube",
    "playtime_hours": 0.0,
+   "source_id": "nso:GameCube:Wave Race: Blue Storm",
+   "title": "Wave Race: Blue Storm"
+  },
+  {
+   "also_platform": "Switch 2",
+   "last_played": null,
+   "nso": true,
+   "platform": "GameCube",
+   "playtime_hours": 0.0,
    "source_id": "nso:GameCube:Pokémon Colosseum",
    "title": "Pokémon Colosseum"
   },

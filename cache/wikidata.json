@@ -1873,7 +1873,7 @@
   "opencritic_id": 11410
  },
  "earth-defense-force-world-brothers-2": {
-  "checked": "2026-10-10T15:53:45+00:00",
+  "checked": "2026-11-24T20:41:20+00:00",
   "opencritic_id": 17359
  },
  "earthbound": {
@@ -2055,7 +2055,7 @@
   "opencritic_id": 15073
  },
  "f1-25": {
-  "checked": "2026-10-10T15:53:45+00:00",
+  "checked": "2026-11-24T20:41:20+00:00",
   "opencritic_id": 18323
  },
  "faceball-2000": {
@@ -2967,7 +2967,7 @@
   "opencritic_id": 6436
  },
  "hunt-showdown-1896": {
-  "checked": "2026-10-10T15:53:45+00:00",
+  "checked": "2026-11-24T20:41:20+00:00",
   "opencritic_id": 8204
  },
  "hunters-arena-legends": {
@@ -7915,6 +7915,9 @@
  "wave-race-64": {
   "checked": "2026-11-01T00:33:39+00:00",
   "opencritic_id": 13563
+ },
+ "wave-race-blue-storm": {
+  "checked": "2026-11-24T20:41:20+00:00"
  },
  "weird-west-definitive-edition": {
   "checked": "2026-11-21T17:37:07+00:00"

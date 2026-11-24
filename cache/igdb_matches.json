@@ -6168,6 +6168,18 @@
   "v": 4,
   "via": "search"
  },
+ "GameCube:nso:GameCube:Wave Race: Blue Storm": {
+  "candidates": 2,
+  "checked": "2026-11-24T20:41:11+00:00",
+  "conf": "high",
+  "id": 4232,
+  "mp": null,
+  "score": 1.133,
+  "slug": null,
+  "title": "Wave Race: Blue Storm",
+  "v": 4,
+  "via": "search"
+ },
  "Genesis:nso:Genesis:Alien Soldier": {
   "candidates": 2,
   "checked": "2026-11-01T00:32:21+00:00",
