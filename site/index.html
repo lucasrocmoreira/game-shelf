@@ -336,6 +336,8 @@ const LINK_LABELS = {metacritic:"Metacritic",opencritic:"OpenCritic",backloggd:"
 const LENGTHS = [["","Any length"],["0-10","Under 10 hours"],["10-30","10 to 30 hours"],["30-60","30 to 60 hours"],["60-9999","Over 60 hours"]];
 const psToggle = v => v==="library" || !!(CONSOLES[v] && CONSOLES[v].psplus);  // tabs with the PS Plus catalog
 const emuOnlySteam = g => !!g.emu && !g.steam_native;  // on Steam only through EmuDeck
+// Platforms to show: EmuDeck games stay in the Steam tab but don't carry a "Steam" label.
+const shownPlats = g => emuOnlySteam(g) ? g.platforms.filter(p=>p!=="Steam") : g.platforms;
 const beat = g => g.ttb ? (g.ttb.extra ?? g.ttb.main ?? g.ttb.complete ?? null) : null;  // hours for main story + extras (you take your time)
 const hrs = h => h==null ? "–" : (h<1 ? "<1h" : (Number.isInteger(h) ? h : h.toFixed(1)) + "h");
 const PLATFORM_CHOICES = ["Switch","Switch 2","PS5","PS4","Steam","Quest","3DS","DS","GBA","Game Boy","Wii U","Wii","GameCube","PS Vita","PSP","PS3","Xbox","Other"];
@@ -462,7 +464,7 @@ function togglePlayed(g, old=false){  // old: finished a while ago (doesn't coun
 function preferVersion(g){  // "Prefer this version": used for suggestions and Send from now on
   const others = versionsOf(g).filter(x=>x!==g);
   act(d=>{ d.prefer = d.prefer||{}; for(const x of [g, ...others]) for(const k of keysOf(x)) delete d.prefer[k]; d.prefer[g.key] = today(); },
-      `Prefer version: ${g.title}`, `${g.title} (${g.platforms.join(", ")}) is now the version suggested`);
+      `Prefer version: ${g.title}`, `${g.title} (${shownPlats(g).join(", ")}) is now the version suggested`);
 }
 function togglePlaying(g){
   const on = !g._playing;
@@ -653,7 +655,7 @@ function detail(g){
       ${rt.notes.length?`<p class="na">${rt.notes.map(esc).join(". ")}.</p>`:""}</div>` : "";
   if(g._fr) return `<div class="detail">
     <div class="actions"><button type="button" data-act="played-old" class="${g._played?"on":""}">${g._played?"Played ✓":"Mark as played"}</button></div>
-    <p class="note">Not in your library${g.year?` · ${g.year}`:""}${g.platforms.length?` · ${g.platforms.map(esc).join(", ")}`:""}</p>
+    <p class="note">Not in your library${g.year?` · ${g.year}`:""}${shownPlats(g).length?` · ${shownPlats(g).map(esc).join(", ")}`:""}</p>
     ${why}
     ${g.summary?`<p class="summary">${esc(g.summary)}</p>`:""}
     <div class="breakdown">${breakdown}</div>
@@ -672,8 +674,8 @@ function detail(g){
     </div>
     ${note}
     ${why}
-    ${others.length ? `<p class="note">Other versions you have: ${others.map(x=>`<button type="button" class="linkbtn" data-act="open:${esc(x.key)}">${esc(x.title)}</button> (${esc(x.platforms.join(", "))}${avg(x)!=null?`, ${avg(x)}`:""})`).join("; ")}.
-      ${(()=>{ const b = bestVersion([g, ...others]); return b ? `Play next suggests <b>${esc(b===g ? "this one" : b.title+" ("+b.platforms.join(", ")+")")}</b>${b._prefer ? " (your choice)" : ""}.` : ""; })()}</p>` : ""}
+    ${others.length ? `<p class="note">Other versions you have: ${others.map(x=>`<button type="button" class="linkbtn" data-act="open:${esc(x.key)}">${esc(x.title)}</button> (${esc(shownPlats(x).join(", "))}${avg(x)!=null?`, ${avg(x)}`:""})`).join("; ")}.
+      ${(()=>{ const b = bestVersion([g, ...others]); return b ? `Play next suggests <b>${esc(b===g ? "this one" : b.title+" ("+shownPlats(b).join(", ")+")")}</b>${b._prefer ? " (your choice)" : ""}.` : ""; })()}</p>` : ""}
     ${g.summary?`<p class="summary">${esc(g.summary)}</p>`:""}
     <div class="breakdown">${breakdown}</div>
     ${g.ttb?`<div class="facts"><div><b>Time to beat</b> <span class="na">(${esc(g.ttb.src)})</span></div>
@@ -693,7 +695,7 @@ function detail(g){
 function gameRow(g,i){
   const s = shown(g);
   const open = state.open.has(g.key);
-  const pills = g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")
+  const pills = shownPlats(g).map(p=>`<span class="pill">${esc(p)}</span>`).join("")
     + (g.ps_plus?`<span class="pill">PS Plus</span>`:"")
     + (g.nso?`<span class="pill">Switch Online</span>`:"")
     + (g.emu?`<span class="pill">EmuDeck</span>`:"")
@@ -774,7 +776,7 @@ function renderNow(){
   $("now").innerHTML = `<div class="now-head"><h2>Playing now</h2>${btn}</div><div class="now-row">${now.map(g=>{
     const goal = beat(g), done = g.playtime||0;
     const pct = goal && done ? Math.min(100, Math.round(done/goal*100)) : null;
-    const line = goal ? (done ? `${hrs(Math.round(done))} of ~${hrs(goal)}` : `~${hrs(goal)} to beat`) : g.platforms.join(", ");
+    const line = goal ? (done ? `${hrs(Math.round(done))} of ~${hrs(goal)}` : `~${hrs(goal)} to beat`) : shownPlats(g).join(", ");
     return `<button type="button" class="now-card" data-key="${esc(g.key)}" aria-label="${esc(g.title)}">
       ${g.cover?`<img src="${esc(g.cover)}" alt="" onerror="this.removeAttribute('src')">`:`<img alt="">`}
       <span class="now-t">${esc(g.title)}</span>
@@ -1077,9 +1079,9 @@ function whereIs(g){
   const orig = g.platforms.filter(x=>!["Steam","Switch","Switch 2"].includes(x)).join(", ");
   const onSwitch = g.platforms.some(x=>x==="Switch"||x==="Switch 2");
   if(g.emu && !g.steam_native && onSwitch) return `Switch Online or EmuDeck (${orig})`;
-  if(g.nso) return `Switch Online (${g.platforms.join(" + ")})`;
+  if(g.nso) return `Switch Online (${shownPlats(g).join(" + ")})`;
   if(emuOnlySteam(g)) return `EmuDeck (${orig})`;
-  return g._catalog ? `in the PS Plus catalog (${g.platforms.join(", ")})` : `you have it on ${p.join(", ")}`;
+  return g._catalog ? `in the PS Plus catalog (${shownPlats(g).join(", ")})` : `you have it on ${p.join(", ")}`;
 }
 function suggestions(keep=[null,null,null]){
   const games = DATA.games.filter(g=>!g._hidden), inTab = new Set(DATA.games.map(g=>g.key));
@@ -1406,16 +1408,16 @@ function frBar(c){
 function frTags(e){  // the same labels as in your lists; for games you don't own, where they came out
   if(!e.row) return `<span class="fr-muted">Not in your library${(e.on||[]).length ? " · on " + esc(e.on.slice(0,6).join(", ")) + (e.on.length>6?"…":"") : ""}</span>`;
   const g = e.row, lib = new Set(((VIEWS.library.data||{}).games||[]).map(x=>x.key));
-  return `<span class="fr-tags">${g.platforms.map(p=>`<span class="pill">${esc(p)}</span>`).join("")}`
+  return `<span class="fr-tags">${shownPlats(g).map(p=>`<span class="pill">${esc(p)}</span>`).join("")}`
     + (g.nso?`<span class="pill">Switch Online</span>`:"") + (g.emu?`<span class="pill">EmuDeck</span>`:"")
     + (g.ps_plus?`<span class="pill">PS Plus</span>`:"") + (!lib.has(g.key)?`<span class="pill">PS Plus catalog</span>`:"") + `</span>`;
 }
 function frWhere(e){
   if(!e.row) return "Not in your library";
   const g = e.row;
-  if(g.nso) return `Switch Online (${g.platforms.join(" + ")})`;
-  if(!new Set(((VIEWS.library.data||{}).games||[]).map(x=>x.key)).has(g.key)) return `PS Plus catalog (${g.platforms.join(", ")})`;
-  return g.platforms.join(", ") + (g.ps_plus ? " · PS Plus claim" : "");
+  if(g.nso) return `Switch Online (${shownPlats(g).join(" + ")})`;
+  if(!new Set(((VIEWS.library.data||{}).games||[]).map(x=>x.key)).has(g.key)) return `PS Plus catalog (${shownPlats(g).join(", ")})`;
+  return shownPlats(g).join(", ") + (g.ps_plus ? " · PS Plus claim" : "");
 }
 /* Where you were in the franchise list: the card you opened and how far down the screen it sat, so
    coming back puts it in the same spot (even if covers above it loaded or the list changed). */
