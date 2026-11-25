@@ -18492,6 +18492,21 @@
    "title": "Coral Island"
   },
   {
+   "also_platform": "PS4",
+   "concept": "10013889",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1410/eade5a7a3e4292d77b5c60771f68c45870f8b6c33058c74b.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10013889",
+   "store_url": "https://store.playstation.com/en-us/concept/10013889",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Cricket 26 - The Official Game of the Ashes"
+  },
+  {
    "also_platform": null,
    "concept": "10004424",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2110/19bed77029988cd50c040aaad79f8f56ab0f02f448b8aa09.png",
@@ -18614,7 +18629,7 @@
   {
    "also_platform": "PS4",
    "concept": "227319",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2118/4448362515c1c03644cae01d08e4784b30224f81e6c25514.png",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202611/2418/858895e6d994bd1ea0b70e4782258ea548eb9b8710b25e73.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
@@ -20412,6 +20427,21 @@
    "title": "Like a Dragon: Infinite Wealth PS4 & PS5"
   },
   {
+   "also_platform": "PS4",
+   "concept": "10011704",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/5cbfb4502807fef739169f7e9bdd0cd615d7a86ce4e6af82.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10011704",
+   "store_url": "https://store.playstation.com/en-us/concept/10011704",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Like a Dragon: Pirate Yakuza in Hawaii PS4 & PS5"
+  },
+  {
    "also_platform": null,
    "concept": "10000661",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1115/NqJVop3p0HvO8QgrQgIO908Y.png",
@@ -20667,17 +20697,17 @@
    "title": "Metro Exodus"
   },
   {
-   "also_platform": null,
+   "also_platform": "PS4",
    "concept": "10009198",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2821/51d6eb5a4a96c0a546c0f7e475a6477a6c4a29196c95820b.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
-   "platform": "PS4",
+   "platform": "PS5",
    "playtime_hours": 0.0,
    "source_id": "psplus:10009198",
    "store_url": "https://store.playstation.com/en-us/concept/10009198",
-   "streaming": false,
+   "streaming": true,
    "tier": "Game Catalog",
    "title": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
@@ -20830,6 +20860,21 @@
    "streaming": true,
    "tier": "Game Catalog",
    "title": "Mortal Kombat™ 1"
+  },
+  {
+   "also_platform": null,
+   "concept": "10016581",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2015/bb1ac61cfe78e0f00e4ee4b3112050f93d6978a150c59cda.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10016581",
+   "store_url": "https://store.playstation.com/en-us/concept/10016581",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "MotoGP™26"
   },
   {
    "also_platform": "PS4",
@@ -23110,6 +23155,21 @@
    "streaming": false,
    "tier": "Game Catalog",
    "title": "Transference"
+  },
+  {
+   "also_platform": null,
+   "concept": "10007968",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2710/1c5dddf0d4c21ee17b1595b02d4aaf03840a2df70ef80f63.png",
+   "last_played": null,
+   "match_platforms": null,
+   "origin": null,
+   "platform": "PS5",
+   "playtime_hours": 0.0,
+   "source_id": "psplus:10007968",
+   "store_url": "https://store.playstation.com/en-us/concept/10007968",
+   "streaming": true,
+   "tier": "Game Catalog",
+   "title": "Trepang2"
   },
   {
    "also_platform": null,

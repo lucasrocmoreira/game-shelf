@@ -2693,6 +2693,14 @@
   "hltb_name": "South Park: The Stick of Truth",
   "main": 11.5
  },
+ "igdb:126212": {
+  "checked": "2026-11-25T19:22:24+00:00",
+  "complete": 19.5,
+  "extra": 8.5,
+  "hltb_id": 75163,
+  "hltb_name": "Trepang2",
+  "main": 5.5
+ },
  "igdb:126290": {
   "checked": "2026-10-28T06:31:20+00:00",
   "complete": 65.5,
@@ -11442,6 +11450,14 @@
   "hltb_name": "Freedom Wars",
   "main": 28.0
  },
+ "igdb:317317": {
+  "checked": "2026-11-25T19:22:21+00:00",
+  "complete": 44.0,
+  "extra": 32.5,
+  "hltb_id": 157123,
+  "hltb_name": "Like a Dragon: Pirate Yakuza in Hawaii",
+  "main": 18.0
+ },
  "igdb:317407": {
   "checked": "2026-10-16T04:57:32+00:00",
   "complete": 27.5,
@@ -12843,6 +12859,14 @@
   "hltb_name": "Kirby & the Amazing Mirror",
   "main": 7.0
  },
+ "igdb:372155": {
+  "checked": "2026-11-25T19:22:19+00:00",
+  "complete": null,
+  "extra": null,
+  "hltb_id": 178164,
+  "hltb_name": "Cricket 26",
+  "main": 32.5
+ },
  "igdb:3722": {
   "checked": "2026-10-17T13:51:49+00:00",
   "complete": 17.5,
@@ -13216,6 +13240,14 @@
   "hltb_id": 6663,
   "hltb_name": "Nobunaga's Ambition: Lord of Darkness",
   "main": null
+ },
+ "igdb:394406": {
+  "checked": "2026-11-25T19:22:22+00:00",
+  "complete": null,
+  "extra": null,
+  "hltb_id": 182786,
+  "hltb_name": "MotoGP 26",
+  "main": 20.0
  },
  "igdb:39466": {
   "checked": "2026-11-02T10:09:05+00:00",

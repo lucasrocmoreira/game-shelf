@@ -1,7 +1,8 @@
 {
  "day": "2026-11-25",
  "limit": 200,
- "remaining": 200,
- "reset_seconds": 9940,
- "used_today": 0
+ "remaining": 195,
+ "reset_at": "2026-11-26T00:50:22.272134+00:00",
+ "reset_seconds": 19685,
+ "used_today": 5
 }

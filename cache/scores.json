@@ -6446,6 +6446,23 @@
   "opencritic_pct": 88,
   "opencritic_tier": "Mighty"
  },
+ "igdb:126212": {
+  "backloggd": 3.6,
+  "backloggd_n": 3243,
+  "bl_v": 3,
+  "checked": "2026-11-25T19:22:12+00:00",
+  "mc_v": 3,
+  "metacritic": 79,
+  "metacritic_n": 32,
+  "metacritic_slug": "trepang2",
+  "oc_checked": "2026-11-25T19:22:13+00:00",
+  "opencritic": 77,
+  "opencritic_id": 15097,
+  "opencritic_n": 28,
+  "opencritic_n_all": 55,
+  "opencritic_pct": 66,
+  "opencritic_tier": "Strong"
+ },
  "igdb:126290": {
   "backloggd": 2.7,
   "backloggd_n": 15538,
@@ -30242,7 +30259,14 @@
   "mc_v": 3,
   "metacritic": 79,
   "metacritic_n": 97,
-  "metacritic_slug": "like-a-dragon-pirate-yakuza-in-hawaii"
+  "metacritic_slug": "like-a-dragon-pirate-yakuza-in-hawaii",
+  "oc_checked": "2026-11-25T19:22:13+00:00",
+  "opencritic": 81,
+  "opencritic_id": 17748,
+  "opencritic_n": 90,
+  "opencritic_n_all": 169,
+  "opencritic_pct": 84,
+  "opencritic_tier": "Strong"
  },
  "igdb:317376": {},
  "igdb:317407": {
@@ -33563,6 +33587,23 @@
   "metacritic_slug": "kirby-and-the-amazing-mirror",
   "oc_checked": "2026-11-02T21:12:16+00:00"
  },
+ "igdb:372155": {
+  "backloggd": 3.0,
+  "backloggd_n": 51,
+  "bl_v": 3,
+  "checked": "2026-11-25T19:22:02+00:00",
+  "mc_v": 3,
+  "metacritic": null,
+  "metacritic_n": null,
+  "metacritic_slug": null,
+  "oc_checked": "2026-11-25T19:22:14+00:00",
+  "opencritic": null,
+  "opencritic_id": 19720,
+  "opencritic_n": 1,
+  "opencritic_n_all": 2,
+  "opencritic_pct": null,
+  "opencritic_tier": ""
+ },
  "igdb:3722": {
   "backloggd": 3.2,
   "backloggd_n": 3171,
@@ -34626,6 +34667,23 @@
   "mc_v": 2,
   "metacritic": 90,
   "metacritic_slug": "nobunagas-ambition-lord-of-darkness"
+ },
+ "igdb:394406": {
+  "backloggd": 3.2,
+  "backloggd_n": 24,
+  "bl_v": 3,
+  "checked": "2026-11-25T19:22:07+00:00",
+  "mc_v": 3,
+  "metacritic": 75,
+  "metacritic_n": 19,
+  "metacritic_slug": "motogp-26",
+  "oc_checked": "2026-11-25T19:22:17+00:00",
+  "opencritic": 78,
+  "opencritic_id": 20338,
+  "opencritic_n": 13,
+  "opencritic_n_all": 36,
+  "opencritic_pct": 69,
+  "opencritic_tier": "Strong"
  },
  "igdb:39461": {
   "backloggd": 1.8,
