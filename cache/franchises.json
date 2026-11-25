@@ -494217,6 +494217,46 @@
     "slug": "nightshade",
     "total_rating_count": 3
    },
+   "103329": {
+    "aggregated_rating": 83.4,
+    "aggregated_rating_count": 15,
+    "bundles": [
+     118510,
+     136604,
+     140503
+    ],
+    "collections": [
+     {
+      "id": 8415,
+      "name": "Control"
+     }
+    ],
+    "cover": {
+     "id": 112591,
+     "image_id": "co2evj"
+    },
+    "first_release_date": 1566864000,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 103329,
+    "name": "Control",
+    "platforms": [
+     170,
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "rating": 83.19146988349607,
+    "rating_count": 978,
+    "slug": "control",
+    "summary": "Control is a third-person action-adventure game set in the Federal Bureau of Control, a secretive U.S. government agency that studies paranormal phenomena. Players control Jesse Faden, who arrives at the Bureau's headquarters, the Oldest House, to find it invaded by a hostile force called the Hiss. Gameplay combines supernatural abilities with a shape-shifting firearm, and the environment is reactive and destructible.",
+    "total_rating_count": 993
+   },
    "10877": {
     "collections": [
      {
@@ -494243,6 +494283,45 @@
     "rating": 67.23595112145316,
     "slug": "sniper-elite-nazi-zombie-army-2",
     "total_rating_count": 16
+   },
+   "11118": {
+    "aggregated_rating": 85.85,
+    "aggregated_rating_count": 20,
+    "bundles": [
+     52899,
+     83510,
+     139569,
+     331402
+    ],
+    "collections": [
+     {
+      "id": 1494,
+      "name": "Dishonored"
+     }
+    ],
+    "cover": {
+     "id": 438129,
+     "image_id": "co9e29"
+    },
+    "first_release_date": 1478822400,
+    "game_type": 0,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 11118,
+    "name": "Dishonored 2",
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 84.8120822546754,
+    "rating_count": 804,
+    "slug": "dishonored-2",
+    "summary": "Dishonored 2 is a first-person action video game and the sequel to Dishonored. It borrows many of the gameplay elements from the first opus: players define their own play style by blending action, assassination, stealth, mobility and combat. Combining tools at their disposal, players are allowed options to eliminate enemies, whether they choose to pursue them unseen or ruthlessly attack head on. Dishonored 2 features the same campaign style as its predecessor in which the protagonist must advance through a series of missions.",
+    "total_rating_count": 824
    },
    "11133": {
     "aggregated_rating": 86.07692307692308,
@@ -494318,6 +494397,104 @@
     "slug": "the-walking-dead-michonne",
     "total_rating_count": 221
    },
+   "11617": {
+    "bundles": [
+     246090
+    ],
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 366381,
+     "image_id": "co7up9"
+    },
+    "first_release_date": 733795200,
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 11617,
+    "name": "Breath of Fire",
+    "platforms": [
+     19,
+     41,
+     137,
+     58
+    ],
+    "rating": 74.88690481097821,
+    "rating_count": 51,
+    "slug": "breath-of-fire",
+    "summary": "Recognized by Capcom as their first traditional role-playing video game, Breath of Fire would set the precedent for future entries in the series, and features character designs by company head of development Keiji Inafune, as well as music by members of Capcom's in-house sound team Alph Lyla. In 2001, the game was re-released for the Game Boy Advance handheld system with new save features and minor graphical enhancements, with the English version being released in Europe for the first time.\n\nSet in a fantasy world, Breath of Fire follows the journey of a boy named Ryu, one of the last surviving members of an ancient race with the ability to transform into mighty dragons, as he searches the world for his sister. During his quest, Ryu meets other warriors who share his quest, and comes into conflict with the Dark Dragon Clan, a militaristic empire who seeks to take over the world by reviving a mad goddess. The game experienced mostly positive reception upon release, and was followed by a direct sequel, Breath of Fire II, in 1994.",
+    "total_rating_count": 51
+   },
+   "11635": {
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 200193,
+     "image_id": "co4agx"
+    },
+    "first_release_date": 1063238400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 11635,
+    "name": "Drakengard",
+    "platforms": [
+     8
+    ],
+    "rating": 68.47716376042645,
+    "rating_count": 63,
+    "slug": "drakengard",
+    "summary": "Drakengard follows the story of a kingdomless prince named Caim who fights for the Union against the Empire. Under the Union's protection are the Hierarchs and the Goddess, currently Caim's sister Furiae, who is a human manifestation of one of the four seals that protect the world from being broken. As the game begins, Caim is fatally wounded in a battle with the Empire. Encountering a captured Red Dragon who is also near death, Caim makes a fateful choice. In exchange for both their lives, the Red Dragon and Caim will enter a pact. This pact will forever chain their lives to one another and link their souls, at the cost of something irreplaceable. Recharged with the fires of a Dragon, Caim's vengeance burns over the enemy...\n\nThe player controls Caim on his quest. The game is separated into three distinct modes: Aerial combat, Ground combat and Event Combat. In Aerial Combat, Caim rides dragonback against a variety of airborne foes breathing fireballs (strong single shots and weaker multiple lock-on shots). The Dragon is agile and is able to evade incoming threats, turning around completely in a moment. In Ground combat, the game is shown in 3rd person though usually large, open areas. Controlling Caim, his primary ability is the use of a variety of weapons found on the battlefield, each with their own magic powers. These are leveled up through continued usage, and specifically through the killing of individual enemies. In ground combat, Caim may also call forth his Dragon to ride and strafe enemies from the air. Event combat is similar to Ground combat, but shown isometrically, restricted to a single weapon and without the aid of a dragon. It is used mainly to tell story sequences.",
+    "total_rating_count": 64
+   },
+   "11663": {
+    "aggregated_rating": 63.0,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 100689,
+     "image_id": "co25ox"
+    },
+    "first_release_date": 1118880000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 11663,
+    "name": "Drakengard 2",
+    "platforms": [
+     8
+    ],
+    "rating": 70.63401589872849,
+    "rating_count": 17,
+    "slug": "drakengard-2",
+    "summary": "Drakengard 2 is a direct sequel to the original Drakengard: the story revolves around Nowe, a boy raised by the dragon Legna, fighting against a tyrannical faction of Knights, encountering characters from the previous game and becoming entangled in the fate of the world.\n\nLike the original, Drakengard 2 combines on-foot hack and slash with aerial combat stages and RPG game mechanics. The previous game's producer, writer and character designer returned to their respective roles. The game was designed as a more mainstream game in light of the previous game's dark aesthetic and story. The game sold 206,000 copies by the end of 2005. Western reviews praised the story, but gave mixed opinions about the graphics and widely criticized the gameplay.",
+    "total_rating_count": 20
+   },
    "117": {
     "aggregated_rating": 80.28571428571429,
     "cover": {
@@ -494372,6 +494549,40 @@
     "rating": 65.32617687159205,
     "slug": "zombie-army-4-dead-war",
     "total_rating_count": 49
+   },
+   "122": {
+    "aggregated_rating": 84.85714285714286,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     55025
+    ],
+    "collections": [
+     {
+      "id": 26,
+      "name": "Left 4 Dead"
+     }
+    ],
+    "cover": {
+     "id": 81346,
+     "image_id": "co1qrm"
+    },
+    "first_release_date": 1226880000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 122,
+    "name": "Left 4 Dead",
+    "platforms": [
+     6,
+     14,
+     12
+    ],
+    "rating": 80.10235970695643,
+    "rating_count": 772,
+    "slug": "left-4-dead",
+    "summary": "Left 4 Dead is a cooperative first-person shooter set during a zombie outbreak on the East Coast of the United States. Four players control survivors who must fight through hordes of infected humans, creatures transformed by a rabies-like pathogen that causes extreme aggression and loss of higher brain function. Gameplay emphasizes teamwork, with colored outlines showing teammate positions through walls, shared healing items, and friendly fire creating consequences for careless shooting. An AI system called the Director dynamically adjusts enemy placement, item spawns, and pacing based on player performance. Beyond common infected, players face five special mutated types with unique abilities. Campaigns are divided into levels connected by safe houses, each culminating in a desperate last stand for rescue.",
+    "total_rating_count": 779
    },
    "1227": {
     "bundles": [
@@ -494471,6 +494682,148 @@
     "slug": "xenosaga-episode-iii-also-sprach-zarathustra",
     "total_rating_count": 30
    },
+   "124": {
+    "aggregated_rating": 88.6,
+    "aggregated_rating_count": 5,
+    "bundles": [
+     55025
+    ],
+    "collections": [
+     {
+      "id": 26,
+      "name": "Left 4 Dead"
+     }
+    ],
+    "cover": {
+     "id": 90807,
+     "image_id": "co1y2f"
+    },
+    "first_release_date": 1258416000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 124,
+    "name": "Left 4 Dead 2",
+    "platforms": [
+     3,
+     6,
+     14,
+     12
+    ],
+    "rating": 81.98495959515424,
+    "rating_count": 1218,
+    "slug": "left-4-dead-2",
+    "summary": "Left 4 Dead 2 is a cooperative first-person shooter video game, the sequel to Valve Corporation's Left 4 Dead. The Game builds upon cooperatively focused gameplay and Valve's proprietary Source engine, the same game engine used in the original Left 4 Dead. Set during the aftermath of an apocalyptic pandemic, Left 4 Dead 2 focuses on four new Survivors, fighting against hordes of the Infected, who develop severe psychosis and exhibit zombie-like tendencies. The Survivors must fight their way through five campaigns, interspersed with safe houses that act as checkpoints, with the goal of escape at each campaign's finale.",
+    "total_rating_count": 1223
+   },
+   "1278": {
+    "aggregated_rating": 87.0,
+    "aggregated_rating_count": 3,
+    "bundles": [
+     45291
+    ],
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 107734,
+     "image_id": "co2b4m"
+    },
+    "first_release_date": 1163203200,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 1278,
+    "name": "Resistance: Fall of Man",
+    "platforms": [
+     9
+    ],
+    "rating": 70.82968739591873,
+    "rating_count": 125,
+    "slug": "resistance-fall-of-man",
+    "summary": "In an alternate 1951, Sgt. Nathan Hale is among a unit of US soldiers sent to aid the British military against the invading aliens, known as Chimera. When Hale's unit is completely wiped out in a surprise attack, he struggles for survival...",
+    "total_rating_count": 128
+   },
+   "1280": {
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 311972,
+     "image_id": "co6opw"
+    },
+    "first_release_date": 956793600,
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1280,
+    "name": "Breath of Fire IV",
+    "platforms": [
+     9,
+     6,
+     7,
+     38
+    ],
+    "rating": 83.4566772916414,
+    "rating_count": 81,
+    "slug": "breath-of-fire-iv",
+    "summary": "Breath of Fire IV is a single-player game that continues the story with these \"dragon people,\" who gave their lives to eradicate the evil goddess and restore peace in their world. This time around, battle has broken out between two powerful continents, and the fair Princess Elena has disappeared during a tour of the war-torn region. The princess's sister, Nina, who reigns o'er the Windia Kingdom, vows to retrieve her missing sibling. She meets Ryu along the way, who joins the epic quest",
+    "total_rating_count": 82
+   },
+   "131999": {
+    "aggregated_rating": 82.16666666666667,
+    "aggregated_rating_count": 12,
+    "bundles": [
+     139071
+    ],
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 255335,
+     "image_id": "co5h0n"
+    },
+    "first_release_date": 1619136000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 9,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 131999,
+    "name": "NieR Replicant ver.1.22474487139...",
+    "parent_game": 80468,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 84.2964495169604,
+    "rating_count": 199,
+    "slug": "nier-replicant-ver-dot-1-22474487139-dot-dot-dot",
+    "summary": "NieR Replicant ver.1.22474487139... is an updated version of NieR Replicant, previously only released in Japan. Discover the one-of-a-kind prequel to the critically-acclaimed masterpiece NieR: Automata. Now with a modern upgrade, experience masterfully revived visuals, a fascinating storyline and more!",
+    "total_rating_count": 211
+   },
    "1346": {
     "aggregated_rating": 90.0,
     "cover": {
@@ -494522,6 +494875,380 @@
     "summary": "Entirely rebuilt from the ground up and masterfully enhanced, Demon's Souls is a remake of the 2009 release that introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality with incredible performance. The remake features improved graphics and animations, sound and lighting tweaks and a reimagining of many of the visual, musical and mechanical aspects of the original game.",
     "total_rating_count": 225
    },
+   "136627": {
+    "aggregated_rating": 63.16666666666666,
+    "aggregated_rating_count": 6,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 187194,
+     "image_id": "co40fu"
+    },
+    "first_release_date": 1706832000,
+    "franchises": [
+     528,
+     2341,
+     44,
+     5,
+     644,
+     307,
+     5326,
+     417
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 136627,
+    "name": "Suicide Squad: Kill the Justice League",
+    "platforms": [
+     169,
+     6,
+     167
+    ],
+    "rating": 48.52578791830264,
+    "rating_count": 44,
+    "slug": "suicide-squad-kill-the-justice-league",
+    "summary": "Suicide Squad: Kill the Justice League is an action-adventure shooter developed by Rocksteady Studios. Set in Metropolis, players control Harley Quinn, Deadshot, Captain Boomerang, and King Shark as they battle a brainwashed Justice League under Brainiac's control. The game features third-person combat, open-world exploration, and live-service elements.",
+    "total_rating_count": 50
+   },
+   "1448": {
+    "aggregated_rating": 85.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 198836,
+     "image_id": "co49f8"
+    },
+    "first_release_date": 1026345600,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 1448,
+    "name": "Suikoden III",
+    "platforms": [
+     9,
+     8
+    ],
+    "rating": 80.05821792851991,
+    "rating_count": 25,
+    "slug": "suikoden-iii",
+    "summary": "Fifteen years after the events of Suikoden II, the stories of Hugo (the son of a village chief), Chris (the virtuous Knight of Zexen), and Geddoe (the rebellious unit commander) intertwine as they gather the 108 Stars of Destiny. Suikoden III features three different battle systems and three styles of combat in a 3D world. Customize each of your three character's skills, and then pair them together to unleash devastating combo attacks.",
+    "total_rating_count": 26
+   },
+   "1449": {
+    "aggregated_rating": 62.5,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 101666,
+     "image_id": "co26g2"
+    },
+    "first_release_date": 1092873600,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1449,
+    "name": "Suikoden IV",
+    "platforms": [
+     9,
+     8
+    ],
+    "rating": 71.12160143828369,
+    "rating_count": 25,
+    "slug": "suikoden-iv",
+    "summary": "Suikoden IV features the return of the 108 Stars of Destiny, as well as an enhanced interface in a new oceanic environment. You'll follow a young knight while he struggles with Rune, which slowly steals the life of its bearer. The game's strategic battle systems let you attack or cast magic spells with help from other party members. Recruit members of the Stars of Destiny and create a base from the ground up. With a brand-new storyline, characters, and cutscenes, Suikoden IV takes the series to the next level.",
+    "total_rating_count": 27
+   },
+   "1450": {
+    "aggregated_rating": 63.5,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 220192,
+     "image_id": "co4pwg"
+    },
+    "first_release_date": 1127347200,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24
+    ],
+    "id": 1450,
+    "name": "Suikoden Tactics",
+    "platforms": [
+     8
+    ],
+    "rating": 80.15759198996139,
+    "rating_count": 8,
+    "slug": "suikoden-tactics",
+    "summary": "Breaking from its traditional role-playing roots, Suikoden Tactics incorporates simulation and strategy elements to take players on an adventure never seen before in the franchise. Told through the eyes of Kyril, a young adventurer investigating the sudden appearance of hideous creatures in the island nations, Suikoden Tactics unfolds another perspective to the events of Suikoden IV and the legendary \"Rune Cannons.\" In all, there are more than 25 different battle scenarios, the ability to modify and customize your character as the game progresses, and a unique \"Combination Attack system\" that allows players to combine the powers of numerous characters in combat as they build friendships.",
+    "total_rating_count": 10
+   },
+   "1452": {
+    "aggregated_rating": 76.0,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 110005,
+     "image_id": "co2cvp"
+    },
+    "first_release_date": 1229558400,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1452,
+    "name": "Suikoden Tierkreis",
+    "platforms": [
+     20
+    ],
+    "rating": 77.72257609412938,
+    "rating_count": 18,
+    "slug": "suikoden-tierkreis",
+    "summary": "Suikoden: Tierkreis is the latest iteration of the popular RPG franchise that was introduced more than 12 years ago. Suikoden: Tierkreis follows the story of the 108 Stars of Destiny, a group of magical warriors, as they challenge the almighty One King, who intends to create chaos in the universe. As the player gathers the members of the 108 Stars of Destiny, the forces for good will stand up against evil in a battle that spans the near infinite parallel worlds of the Million World universe.",
+    "total_rating_count": 21
+   },
+   "1456": {
+    "aggregated_rating": 80.66666666666667,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 101665,
+     "image_id": "co26g1"
+    },
+    "first_release_date": 1140652800,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1456,
+    "name": "Suikoden V",
+    "platforms": [
+     8
+    ],
+    "rating": 80.05467469732643,
+    "rating_count": 30,
+    "slug": "suikoden-v",
+    "summary": "Suikoden V, like its predecessors, features unparalleled in-depth gameplay, a riveting storyline as well as the series' trademark 108 Stars of Destiny.",
+    "total_rating_count": 33
+   },
+   "152242": {
+    "aggregated_rating": 85.5,
+    "aggregated_rating_count": 6,
+    "bundles": [
+     230801
+    ],
+    "collections": [
+     {
+      "id": 7096,
+      "name": "A Plague Tale"
+     }
+    ],
+    "cover": {
+     "id": 266843,
+     "image_id": "co5pwb"
+    },
+    "first_release_date": 1666051200,
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 152242,
+    "name": "A Plague Tale: Requiem",
+    "platforms": [
+     169,
+     6,
+     167,
+     130
+    ],
+    "rating": 83.57490780187929,
+    "rating_count": 295,
+    "slug": "a-plague-tale-requiem",
+    "summary": "A Plague Tale: Requiem is an action-adventure game similar to its predecessor. The player assumes control of Amicia and must face against both soldiers from the French Inquisition and hordes of rats that are spreading the black plague. The gameplay is largely similar to the first game, though the combat system is significantly expanded. The game features a progression system in which the player will be awarded additional skills and abilities. Stealth players will unlock skills that allow them to sneak around more efficiently, while those who prefer a more lethal approach will unlock additional combat skills. Locations are also larger, giving players additional options to progress.",
+    "total_rating_count": 301
+   },
+   "18055": {
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 445732,
+     "image_id": "co9jxg"
+    },
+    "first_release_date": 873936000,
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 18055,
+    "name": "Breath of Fire III",
+    "platforms": [
+     7
+    ],
+    "rating": 78.15700725753544,
+    "rating_count": 54,
+    "slug": "breath-of-fire-iii",
+    "summary": "A MYSTERIOUS POWER...AN UNLIKELY HERO...A CLASSIC ADVENTURE...\n\nThe lone survivor of a legendary dragon clan, a rebellious youth embarks on a great journey. One of discovery... and danger. The classic role-playing game now returns to continue the epic tales of Ryu and the dragon people. An inner power of uncertain origin matures Ryu into a warrior who ponders his purpose as he embarks on a mystical journey. What lies ahead is shrouded in mystery... yet strangely familiar.\n\nDRAGON GENE SPLICING\nLEGENDARY ROLEPLAYING\nAN EPIC 3-D ENVIRONMENT\nLEARN OR STEAL ADVANCE SKILLS AND TECHNIQUES\nPOWERFUL MAGIC\n\nNOW YOU POSSESS THE POWER TO CONTROL RYU'S DESTINY.",
+    "total_rating_count": 55
+   },
+   "18056": {
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 352577,
+     "image_id": "co7k1t"
+    },
+    "first_release_date": 1037232000,
+    "game_type": 0,
+    "genres": [
+     12,
+     15
+    ],
+    "id": 18056,
+    "name": "Breath of Fire: Dragon Quarter",
+    "platforms": [
+     8
+    ],
+    "rating": 88.94124325933511,
+    "rating_count": 14,
+    "slug": "breath-of-fire-dragon-quarter",
+    "summary": "Breath of Fire: Dragon Quarter is a radical departure from the previous titles of the Breath of Fire series, and in some ways from standard Japanese-style role-playing games in general. The game is built like a huge dungeon crawler, with no overworld map. The combat is tactical: each character has action points (AP), which can be used to move around the screen during an enemy encounter, and perform a variety of combo attacks. There is no magic in the game, and many of the items found in dungeons are random. All the enemies are visible on screen. Depending on who first initiated a physical contact, the party or the enemies get an extra turn in battles.\n\nThe game allows (and even encourages) the player to restart it from the beginning, keeping the items and the party experience. The game also features a special counter - Ryu can use his traditional dragon transformation abilities, but the counter raises with each such transformation, and when the counter reaches 100, the game is over. Raising the D-ratio allows characters to access new areas every time the game is replayed.",
+    "total_rating_count": 14
+   },
+   "18224": {
+    "aggregated_rating": 81.8,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     }
+    ],
+    "cover": {
+     "id": 141025,
+     "image_id": "co30td"
+    },
+    "first_release_date": 1470268800,
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     31
+    ],
+    "id": 18224,
+    "name": "Etrian Odyssey V: Beyond the Myth",
+    "platforms": [
+     37
+    ],
+    "rating": 90.0,
+    "rating_count": 3,
+    "slug": "etrian-odyssey-v-beyond-the-myth",
+    "summary": "\"Etrian Odyssey V: Beyond the Myth – The fifth main installment of the long-running Etrian Odyssey series is finally arriving!\n\nEtrian Odyssey V: Beyond the Myth chronicles the quest of a new adventurer (hey, that’s you!) as he or she attempts to reach the top of the towering Yggdrasil Tree. For it is said that whoever braves the dangers of the dreaded Yggdrasil Labyrinth and reaches the summit will have their greatest wish fulfilled…\"\n\n\"With four unique races, 10 distinct classes, more customization options than any previous game in the franchise, and a streamlined skill tree/class advancement, you can shape a party to whatever your heart desires.\"",
+    "total_rating_count": 8
+   },
+   "1887": {
+    "aggregated_rating": 87.9375,
+    "aggregated_rating_count": 16,
+    "bundles": [
+     44545
+    ],
+    "collections": [
+     {
+      "id": 10,
+      "name": "Dragon Age"
+     }
+    ],
+    "cover": {
+     "id": 122974,
+     "image_id": "co2mvy"
+    },
+    "first_release_date": 1416268800,
+    "franchises": [
+     1047
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24,
+     31
+    ],
+    "id": 1887,
+    "name": "Dragon Age: Inquisition",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 82.48126614119776,
+    "rating_count": 1087,
+    "slug": "dragon-age-inquisition",
+    "summary": "Dragon Age: Inquisition is a role-playing game and the third main game in the Dragon Age series. It is set in the Thedas continent, the same fantasy world as the two previous games. It consist of two large countries: Ferelden (from Dragon Age: Origins) and Orlais, as well as the land inbetween.\n\nTrue to the spirit of the series the character can be customized for appearance, sex, class and race. The available races are dwarf, elf, human, and Qunari and the classes are mage, rogue, and warrior with three specializations each. To grow the Inquisition experience needs to be earned by completing quests, which allows the player to further define allegiances and pursue romances.\n\nA custom party can be defined and each member benefits from experience as it opens up access to better weapons and more abilities. Power points open up new areas and Inquisition points define the influence over the region; each new level provides a perk that benefits the entire Inquisition.",
+    "total_rating_count": 1103
+   },
    "191411": {
     "aggregated_rating": 90.33333333333333,
     "bundles": [
@@ -494556,6 +495283,32 @@
     "slug": "xenoblade-chronicles-3",
     "total_rating_count": 70
    },
+   "191897": {
+    "cover": {
+     "id": 210365,
+     "image_id": "co4ibh"
+    },
+    "first_release_date": 1646092800,
+    "franchises": [
+     1724
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 191897,
+    "name": "Aperture Desk Job",
+    "platforms": [
+     3,
+     6
+    ],
+    "rating": 75.71167369603253,
+    "rating_count": 93,
+    "slug": "aperture-desk-job",
+    "summary": "Aperture Desk Job reimagines the been-there-done-that genre of walking simulators and puts them in the lightning-spanked, endorphin-gorged world of sitting still behind things.\n\nYou play as an entry-level nobody on their first day at work — your heart full of hope and your legs full of dreams, eager to climb that corporate ladder. But life’s got other plans, and they all involve chairs.\n\nDesigned as a free playable short for Valve’s new Steam Deck, Desk Job walks you through the handheld’s controls and features, while not being nearly as boring as that sounds.\n\nLower your expectations: This is not a sequel to Portal. Now get ready to raise them slightly, because it is in the expanded universe of those games. Desk Job puts you squarely in the driver’s seat at Aperture Science. Then quickly removes the driving part and adds a desk in front of the seat.",
+    "total_rating_count": 93
+   },
    "19485": {
     "collections": [
      {
@@ -494581,6 +495334,107 @@
     "rating": 52.98296634815123,
     "slug": "ax-battler-a-legend-of-golden-axe",
     "total_rating_count": 5
+   },
+   "19563": {
+    "aggregated_rating": 73.28571428571429,
+    "aggregated_rating_count": 14,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 97188,
+     "image_id": "co22zo"
+    },
+    "first_release_date": 1476316800,
+    "franchises": [
+     5,
+     44
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 19563,
+    "name": "Batman: Arkham VR",
+    "platforms": [
+     165,
+     6,
+     163,
+     385
+    ],
+    "rating": 72.96693582831743,
+    "rating_count": 30,
+    "slug": "batman-arkham-vr",
+    "summary": "Your quest to clean up Gotham has only just begun – and now it’s even more terrifying than it’s ever been. Exclusive to PlayStation VR, Batman: Arkham VR lets you become the Dark Knight in a virtual reality recreation of the DC’s hero’s more iconic locations.\n\nBecome the world’s greatest detective and explore places such as Wayne Manor and the Batcave as you battle in a brand new and personal story set in Rocksteady’s classic Arkham universe.",
+    "total_rating_count": 44
+   },
+   "1969": {
+    "aggregated_rating": 66.0,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 366,
+      "name": "Red Dead"
+     }
+    ],
+    "cover": {
+     "id": 120983,
+     "image_id": "co2lcn"
+    },
+    "first_release_date": 1083456000,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 1969,
+    "name": "Red Dead Revolver",
+    "platforms": [
+     11,
+     48,
+     8
+    ],
+    "rating": 68.6769338933311,
+    "rating_count": 90,
+    "slug": "red-dead-revolver",
+    "summary": "Red Dead Revolver is a 2004 action-adventure game developed by Rockstar San Diego and published by Rockstar Games. It is the first entry in the Red Dead series and was released for the PlayStation 2 and Xbox in May 2004.\n\nSet in the 1880s, during the American frontier, the single-player story follows bounty hunter Red Harlow's quest for revenge after the murder of his parents.\n\nA local multiplayer mode allows up to four players to face off against each other or AI-controlled bots in free-for-all battles.",
+    "total_rating_count": 95
+   },
+   "19907": {
+    "aggregated_rating": 64.83333333333333,
+    "aggregated_rating_count": 6,
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 107724,
+     "image_id": "co2b4c"
+    },
+    "first_release_date": 1338249600,
+    "franchises": [
+     2109
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 19907,
+    "name": "Resistance: Burning Skies",
+    "platforms": [
+     46
+    ],
+    "rating": 53.6672126381633,
+    "rating_count": 12,
+    "slug": "resistance-burning-skies",
+    "summary": "Resistance: Burning Skies is a unique Resistance experience developed specifically for PS Vita that takes full advantage of the system's dual analog sticks and features an all-new hero and story written by William C. Dietz, author of Resistance: The Gathering Storm and Resistance: A Hole in the Sky.",
+    "total_rating_count": 18
    },
    "20871": {
     "aggregated_rating": 71.0,
@@ -494802,6 +495656,35 @@
     "slug": "pikmin-3",
     "total_rating_count": 91
    },
+   "22885": {
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 107733,
+     "image_id": "co2b4l"
+    },
+    "first_release_date": 1236816000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 22885,
+    "name": "Resistance: Retribution",
+    "platforms": [
+     38
+    ],
+    "rating": 60.55748408051642,
+    "rating_count": 20,
+    "slug": "resistance-retribution",
+    "summary": "Set in the weeks after Resistance: Fall of Man, Resistance: Retribution follows the story of former British Marine James Grayson. After a personal tragedy - he is forced to kill his own brother inside a Chimeran conversion center - Grayson goes on a vendetta to destroy every conversion center he can find. Eventually Grayson learns that his efforts have been futile... in Western Europe the Chimera have evolved a new method of converting humans to aliens. The European resistance - the Maquis - enlist Grayson's help, and he joins Cartwright and Parker in Operation Overstrike. The war to retake the European continent has begun.",
+    "total_rating_count": 21
+   },
    "2364": {
     "aggregated_rating": 90.5,
     "collections": [
@@ -494939,6 +495822,47 @@
     ],
     "slug": "bomber-man"
    },
+   "25076": {
+    "aggregated_rating": 94.05882352941177,
+    "aggregated_rating_count": 17,
+    "bundles": [
+     262052
+    ],
+    "collections": [
+     {
+      "id": 2100,
+      "name": "Red Dead Redemption"
+     },
+     {
+      "id": 366,
+      "name": "Red Dead"
+     }
+    ],
+    "cover": {
+     "id": 80403,
+     "image_id": "co1q1f"
+    },
+    "first_release_date": 1540512000,
+    "game_type": 0,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 25076,
+    "name": "Red Dead Redemption 2",
+    "platforms": [
+     170,
+     48,
+     6,
+     49
+    ],
+    "rating": 93.26171674597312,
+    "rating_count": 3954,
+    "slug": "red-dead-redemption-2",
+    "summary": "Red Dead Redemption 2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age.",
+    "total_rating_count": 3971
+   },
    "254327": {
     "aggregated_rating": 85.16666666666667,
     "collections": [
@@ -494969,6 +495893,41 @@
     "rating": 76.82753683603308,
     "slug": "super-mario-rpg",
     "total_rating_count": 74
+   },
+   "2602": {
+    "aggregated_rating": 79.28571428571429,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     410796
+    ],
+    "collections": [
+     {
+      "id": 511,
+      "name": "Alan Wake"
+     }
+    ],
+    "cover": {
+     "id": 112069,
+     "image_id": "co2eh1"
+    },
+    "first_release_date": 1329868800,
+    "game_type": 4,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 2602,
+    "name": "Alan Wake's American Nightmare",
+    "parent_game": 1062,
+    "platforms": [
+     6,
+     12
+    ],
+    "rating": 69.14062852220424,
+    "rating_count": 280,
+    "slug": "alan-wake-s-american-nightmare",
+    "summary": "Alan Wake's American Nightmare is a standalone expansion to the psychological horror action-adventure game Alan Wake, developed by Remedy Entertainment. The story shifts to an alternate reality where Alan Wake finds himself in a small Arizona town. Here, he faces off against his evil doppelgänger, Mr. Scratch, a murderous entity intent on destroying everything Alan holds dear.\n\nThe gameplay involves exploring the town, battling new and familiar supernatural enemies, and uncovering pieces of the narrative through manuscripts and other clues. The expansion introduces new weapons and combat mechanics while maintaining the series' focus on the use of light to combat darkness. The narrative explores themes of duality and reality, offering a more action-oriented experience compared to the original game.",
+    "total_rating_count": 287
    },
    "26766": {
     "aggregated_rating": 85.14285714285714,
@@ -495032,6 +495991,42 @@
     "slug": "dj-hero-2",
     "total_rating_count": 25
    },
+   "27316": {
+    "aggregated_rating": 80.86666666666666,
+    "aggregated_rating_count": 15,
+    "bundles": [
+     230801
+    ],
+    "collections": [
+     {
+      "id": 7096,
+      "name": "A Plague Tale"
+     }
+    ],
+    "cover": {
+     "id": 74261,
+     "image_id": "co1lat"
+    },
+    "first_release_date": 1557792000,
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 27316,
+    "name": "A Plague Tale: Innocence",
+    "platforms": [
+     169,
+     48,
+     6,
+     167,
+     49
+    ],
+    "rating": 80.33072363203442,
+    "rating_count": 819,
+    "slug": "a-plague-tale-innocence",
+    "summary": "A Plague Tale: Innocence is a third-person action-adventure game set in 14th-century France during the Black Death. Players control Amicia, a young girl protecting her little brother Hugo as they flee the Inquisition and navigate environments overrun by swarms of plague rats. Gameplay combines stealth, puzzle-solving, and light combat, with an emphasis on using fire and light to manage the rat hordes.",
+    "total_rating_count": 834
+   },
    "280839": {
     "cover": {
      "id": 351683,
@@ -495076,6 +496071,137 @@
      163
     ],
     "slug": "zombie-army-vr"
+   },
+   "299736": {
+    "aggregated_rating": 88.0,
+    "aggregated_rating_count": 6,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     },
+     {
+      "id": 11020,
+      "name": "Batman: Arkham Origins"
+     }
+    ],
+    "cover": {
+     "id": 380370,
+     "image_id": "co85hu"
+    },
+    "first_release_date": 1729555200,
+    "franchises": [
+     5
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 299736,
+    "name": "Batman: Arkham Shadow",
+    "platforms": [
+     471
+    ],
+    "rating": 76.14654085699468,
+    "rating_count": 7,
+    "slug": "batman-arkham-shadow",
+    "summary": "Gotham City is in danger. And you’re the only one who can save it.\n\nPrepare to enter Gotham for a new story set in the Batman: Arkham franchise.",
+    "total_rating_count": 13
+   },
+   "320144": {
+    "aggregated_rating": 71.66666666666667,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 8415,
+      "name": "Control"
+     }
+    ],
+    "cover": {
+     "id": 452319,
+     "image_id": "co9p0f"
+    },
+    "first_release_date": 1750118400,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 320144,
+    "name": "FBC: Firebreak",
+    "platforms": [
+     169,
+     6,
+     167
+    ],
+    "rating": 49.24666717637703,
+    "rating_count": 13,
+    "slug": "fbc-firebreak",
+    "summary": "FBC: Firebreak is a 3-player cooperative first-person shooter set within the enigmatic Federal Bureau of Control (FBC). As the Bureau’s headquarters faces a deadly and prolonged siege by otherworldly forces, only Firebreak—its most adaptable response unit—has the skills and courage to restore order.",
+    "total_rating_count": 16
+   },
+   "3205": {
+    "aggregated_rating": 86.5,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     45291
+    ],
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 152761,
+     "image_id": "co39vd"
+    },
+    "first_release_date": 1225756800,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 3205,
+    "name": "Resistance 2",
+    "platforms": [
+     9
+    ],
+    "rating": 73.18202328162292,
+    "rating_count": 110,
+    "slug": "resistance-2",
+    "summary": "After a valiant struggle to stop the Chimera invasion in Europe, mankind must make its last stand on the shores of the United States.\nResistance 2 delivers an unprecedented console gaming experience with a standalone eight-player, class-based online co-op campaign and 60-player online competitive multiplayer. An epic single-player campaign will feature a new weapons arsenal to combat giant boss encounters that increase the scale of the conflict to new heights.",
+    "total_rating_count": 118
+   },
+   "3206": {
+    "aggregated_rating": 87.66666666666667,
+    "aggregated_rating_count": 6,
+    "bundles": [
+     45291
+    ],
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 107710,
+     "image_id": "co2b3y"
+    },
+    "first_release_date": 1315267200,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 3206,
+    "name": "Resistance 3",
+    "platforms": [
+     9
+    ],
+    "rating": 78.48090057741776,
+    "rating_count": 97,
+    "slug": "resistance-3",
+    "summary": "The third and currently final installment in the Resistance series. Resistance 3 portrays Capelli's heroic survival inside the brutal Resistance world. Featuring new upgradeable weapons, the return of the weapon wheel, two-player online or split-screen campaign co-op and a progression-based multiplayer experience, Resistance 3 delivers a heroic-yet savage first-person shooter experience.",
+    "total_rating_count": 103
    },
    "325591": {
     "aggregated_rating": 85.25,
@@ -495165,6 +496291,85 @@
     "slug": "battlefield-play4free",
     "total_rating_count": 30
    },
+   "37030": {
+    "aggregated_rating": 81.9090909090909,
+    "aggregated_rating_count": 11,
+    "bundles": [
+     52899,
+     83510,
+     139569,
+     331402
+    ],
+    "collections": [
+     {
+      "id": 1494,
+      "name": "Dishonored"
+     }
+    ],
+    "cover": {
+     "id": 266150,
+     "image_id": "co5pd2"
+    },
+    "first_release_date": 1505347200,
+    "game_type": 4,
+    "genres": [
+     9,
+     12,
+     31
+    ],
+    "id": 37030,
+    "name": "Dishonored: Death of the Outsider",
+    "parent_game": 11118,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 79.72020323115547,
+    "rating_count": 226,
+    "slug": "dishonored-death-of-the-outsider",
+    "summary": "Dishonored: Death of the Outsider is a stand-alone expansion pack and a sequel to Dishonored 2. The game features all the series' hallmarks, including brutal combat systems, unique level design and immersive story-telling that responds to your every choice. With compelling characters and exhilarating action, Death of the Outsider is the perfect entry point for those new to the Dishonored series, while delivering a significant expansion of the world and gameplay for long-time fans.",
+    "total_rating_count": 237
+   },
+   "3735": {
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 4,
+    "bundles": [
+     45199
+    ],
+    "collections": [
+     {
+      "id": 2100,
+      "name": "Red Dead Redemption"
+     },
+     {
+      "id": 366,
+      "name": "Red Dead"
+     }
+    ],
+    "cover": {
+     "id": 120992,
+     "image_id": "co2lcw"
+    },
+    "first_release_date": 1288051200,
+    "game_type": 4,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 3735,
+    "name": "Red Dead Redemption: Undead Nightmare",
+    "parent_game": 434,
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 84.43214593689919,
+    "rating_count": 185,
+    "slug": "red-dead-redemption-undead-nightmare",
+    "summary": "Red Dead Redemption: Undead Nightmare, later released as a standalone game, adds a new single-player experience in which Marston searches for a cure for an infectious zombie plague that has swept across the Old West.",
+    "total_rating_count": 189
+   },
    "37532": {
     "collections": [
      {
@@ -495187,6 +496392,135 @@
      57
     ],
     "slug": "makaimura-for-wonderswan"
+   },
+   "434": {
+    "aggregated_rating": 91.8,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     41587,
+     262052
+    ],
+    "collections": [
+     {
+      "id": 2100,
+      "name": "Red Dead Redemption"
+     },
+     {
+      "id": 366,
+      "name": "Red Dead"
+     }
+    ],
+    "cover": {
+     "id": 120991,
+     "image_id": "co2lcv"
+    },
+    "first_release_date": 1274140800,
+    "game_type": 0,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 434,
+    "name": "Red Dead Redemption",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 89.0623995402563,
+    "rating_count": 2590,
+    "slug": "red-dead-redemption",
+    "summary": "A modern-day Western epic, Red Dead Redemption takes John Marston, a relic from the fast-closing time of the gunslinger, through an open world filled with wildlife, mini-games, and shootouts. Marston sets out to hunt down his old gang mates for the government, who have taken away his family. Along his journey, he meets many characters emblematic of the Wild West, heroism, and the new civilization.",
+    "total_rating_count": 2598
+   },
+   "500": {
+    "aggregated_rating": 89.4,
+    "aggregated_rating_count": 5,
+    "bundles": [
+     27862,
+     254329
+    ],
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 87715,
+     "image_id": "co1voj"
+    },
+    "first_release_date": 1251158400,
+    "franchise": 5,
+    "franchises": [
+     5,
+     44
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 500,
+    "name": "Batman: Arkham Asylum",
+    "platforms": [
+     9,
+     72,
+     6,
+     14,
+     12,
+     130
+    ],
+    "rating": 85.57710490426905,
+    "rating_count": 2614,
+    "slug": "batman-arkham-asylum",
+    "summary": "Batman: Arkham Asylum is an action-adventure game developed by Rocksteady Studios and published by Warner Bros. Interactive Entertainment. Released in 2009, it follows Batman as he battles the Joker, who seizes control of Arkham Asylum and frees its inmates. The game features stealth, combat, and detective elements, with players using Batman's gadgets and skills to subdue enemies and solve puzzles.\n\nSet in a dark, immersive version of Gotham, the story explores Batman’s psychological battle with his foes, including Harley Quinn, Bane, and Scarecrow. The game received critical acclaim for its gameplay, atmosphere, and storytelling, becoming a defining title in superhero video games.",
+    "total_rating_count": 2619
+   },
+   "501": {
+    "aggregated_rating": 91.2,
+    "aggregated_rating_count": 10,
+    "bundles": [
+     21704,
+     43019,
+     138185,
+     254329
+    ],
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 87713,
+     "image_id": "co1voh"
+    },
+    "first_release_date": 1318896000,
+    "franchise": 5,
+    "franchises": [
+     5
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 501,
+    "name": "Batman: Arkham City",
+    "platforms": [
+     113,
+     9,
+     6,
+     12,
+     130
+    ],
+    "rating": 87.57912574296229,
+    "rating_count": 2727,
+    "slug": "batman-arkham-city",
+    "summary": "Batman: Arkham City builds upon the intense, atmospheric foundation of Batman: Arkham Asylum, sending players soaring into Arkham City, the new maximum security \"home\" for all of Gotham City's thugs, gangsters and insane criminal masterminds.\n\nSet inside the heavily fortified walls of a sprawling district in the heart of Gotham City, this highly anticipated sequel introduces a brand-new story that draws together a new all-star cast of classic characters and murderous villains from the Batman universe, as well as a vast range of new and enhanced gameplay features to deliver the ultimate experience as the Dark Knight.",
+    "total_rating_count": 2737
    },
    "51346": {
     "collections": [
@@ -495266,6 +496600,42 @@
     ],
     "slug": "bentleys-hackpack"
    },
+   "533": {
+    "aggregated_rating": 84.8125,
+    "aggregated_rating_count": 15,
+    "bundles": [
+     41590
+    ],
+    "collections": [
+     {
+      "id": 1494,
+      "name": "Dishonored"
+     }
+    ],
+    "cover": {
+     "id": 481422,
+     "image_id": "coabgu"
+    },
+    "first_release_date": 1349740800,
+    "game_type": 0,
+    "genres": [
+     9,
+     12,
+     31
+    ],
+    "id": 533,
+    "name": "Dishonored",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 84.85017739474317,
+    "rating_count": 1929,
+    "slug": "dishonored",
+    "summary": "Dishonored is an immersive first-person action game that casts you as a supernatural assassin driven by revenge. With Dishonored’s flexible combat system, creatively eliminate your targets as you combine the supernatural abilities, weapons and unusual gadgets at your disposal. Pursue your enemies under the cover of darkness or ruthlessly attack them head on with weapons drawn. The outcome of each mission plays out based on the choices you make.",
+    "total_rating_count": 1944
+   },
    "5619": {
     "aggregated_rating": 88.25,
     "aggregated_rating_count": 7,
@@ -495289,6 +496659,36 @@
     "slug": "demon-s-souls",
     "summary": "A third-person action RPG with cooperative and competitive multiplayer elements in which the player enters the kingdom of Boletaria as it is being ravaged by a fog that spawns murderous demons. The player has to hunt down the arch demons situated in five disparate areas within the kingdom and partake in punishing combat to reach the Old One, the vengeful being that brought the fog to Boletaria.",
     "total_rating_count": 412
+   },
+   "57012": {
+    "aggregated_rating": 80.71428571428571,
+    "aggregated_rating_count": 7,
+    "collections": [
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     }
+    ],
+    "cover": {
+     "id": 130191,
+     "image_id": "co2sgf"
+    },
+    "first_release_date": 1533168000,
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 57012,
+    "name": "Etrian Odyssey Nexus",
+    "platforms": [
+     37
+    ],
+    "rating": 80.0,
+    "rating_count": 3,
+    "slug": "etrian-odyssey-nexus",
+    "summary": "\"A royal decree from Princess Persephone has prompted the gathering of the realm’s greatest explorers to the floating city of Maginia. Their goal—uncovering the mysteries of the archipelago of Lemuria, home to a great Yggdrasil Tree. Recruit explorers from 19 classes spanning the entire Etrian series, including the brand new “Hero” class, before setting out to Lemuria in search of treasure and glory!\n\nThe longtime trio of Yuji Himukai (Character Designer), Shin Nagasawa (Monster Designer), and Yuzo Koshiro (Composer) return to bring life to Etrian Odyssey Nexus’s world. With iconic representatives and locations from past Etrian games, over a hundred story-rich quests, variable difficulty settings, the return of accessibility features like auto-mapping (optional!), and much more, Etrian Odyssey Nexus is the definitive Etrian experience for both longtime fans and series newcomers!\"\n\nThere are 19 character classes as well as a sub-class system and returning battle mechanics from previous games.\n\nThe last Etrian Odyssey game for the Nintendo 3DS. .",
+    "total_rating_count": 10
    },
    "59843": {
     "aggregated_rating": 87.5,
@@ -495321,6 +496721,42 @@
     "slug": "pikmin-4",
     "total_rating_count": 44
    },
+   "6337": {
+    "aggregated_rating": 77.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 448698,
+     "image_id": "co9m7u"
+    },
+    "first_release_date": 786326400,
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     31
+    ],
+    "id": 6337,
+    "name": "Breath of Fire II",
+    "platforms": [
+     19,
+     37,
+     5,
+     41,
+     137,
+     58
+    ],
+    "rating": 81.05059596952329,
+    "rating_count": 49,
+    "slug": "breath-of-fire-ii",
+    "summary": "The incredible sequel to the best-selling RPG hit Breath of Fire is here! You are the last member of the Dragon clan, fighting to rid the world of a growing evil. A cast of unusual and exciting companions joins you in your adventures across a wondrous land full of magic and mystery. You'll find strange mystic items, memorable monsters and exotic locations in your quest to conquer evil. There's strategy and spellcasting galore in the hours of compelling action and adventure that awaits you. Breath of Fire II is the ultimate in RPG excitement!",
+    "total_rating_count": 50
+   },
    "63647": {
     "collections": [
      {
@@ -495343,6 +496779,41 @@
      39
     ],
     "slug": "ghosts-n-goblins-gold-knights-ii"
+   },
+   "6768": {
+    "aggregated_rating": 77.0,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     },
+     {
+      "id": 1886,
+      "name": "Etrian Odyssey Untold"
+     }
+    ],
+    "cover": {
+     "id": 135139,
+     "image_id": "co2w9v"
+    },
+    "first_release_date": 1372291200,
+    "game_type": 8,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 6768,
+    "name": "Etrian Odyssey Untold: The Millennium Girl",
+    "parent_game": 14716,
+    "platforms": [
+     37
+    ],
+    "rating": 80.0457685569535,
+    "rating_count": 10,
+    "slug": "etrian-odyssey-untold-the-millennium-girl",
+    "summary": "Etrian Odyssey Untold: The Millennium Girl is the first in the Untold series which are to be remakes of the original Etrian Odyssey games. The games are first person RPG dungeon crawlers where you create a map of the labyrinth as you explore and complete quests.\n\nThe game features two game modes. The new story mode, has a pre-made party with a more in-depth story that has voice acting and animated cutscenes, and an enhanced classic mode, customize a party of 5 from 9 classes to explore the Yggdrasil labyrinth.\n\nThe game allows for the save data from story mode to be carried over to the classic mode once completed.",
+    "total_rating_count": 15
    },
    "69412": {
     "collections": [
@@ -495454,6 +496925,89 @@
     "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt's many mysteries.",
     "total_rating_count": 1914
    },
+   "76": {
+    "aggregated_rating": 90.2,
+    "aggregated_rating_count": 10,
+    "bundles": [
+     27911
+    ],
+    "collections": [
+     {
+      "id": 10,
+      "name": "Dragon Age"
+     }
+    ],
+    "cover": {
+     "id": 122968,
+     "image_id": "co2mvs"
+    },
+    "first_release_date": 1257206400,
+    "franchises": [
+     1047
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 76,
+    "name": "Dragon Age: Origins",
+    "platforms": [
+     9,
+     6,
+     14,
+     12
+    ],
+    "rating": 86.2819235555702,
+    "rating_count": 1758,
+    "slug": "dragon-age-origins",
+    "summary": "Dragon Age: Origins is a third-person role-playing game described as a spiritual successor to Baldur's Gate and Neverwinter Nights franchises. Players create their own character by customizing gender and appearance as well as choosing a race and class. Combat is in real time with the ability to pause at any moment: tactical options include an editor which allows the player to give the AI detailed instructions on how to behave in every possible situation. Although the main storyline is the same for every character created, the game features six unique prologues, two for each race. Dragon Age: Origins received critical acclaim upon release, with praise mostly directed at its story, setting, characters, music and combat system.",
+    "total_rating_count": 1768
+   },
+   "76770": {
+    "aggregated_rating": 78.42857142857143,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     131601,
+     196830
+    ],
+    "collections": [
+     {
+      "id": 1347,
+      "name": "Bridge Constructor"
+     }
+    ],
+    "cover": {
+     "id": 97219,
+     "image_id": "co230j"
+    },
+    "first_release_date": 1513728000,
+    "franchises": [
+     1724
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     13,
+     15
+    ],
+    "id": 76770,
+    "name": "Bridge Constructor Portal",
+    "platforms": [
+     48,
+     3,
+     34,
+     6,
+     39,
+     14,
+     49,
+     130
+    ],
+    "rating": 72.21822694759706,
+    "rating_count": 41,
+    "slug": "bridge-constructor-portal",
+    "summary": "Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal – the unique merging of the classic Portal and Bridge Constructor games.",
+    "total_rating_count": 48
+   },
    "76882": {
     "aggregated_rating": 90.0909090909091,
     "aggregated_rating_count": 11,
@@ -495480,6 +497034,45 @@
     "summary": "Sekiro: Shadows Die Twice is an action-adventure game set in a reimagined late 1500s Sengoku-era Japan.\n\nPlayers control Wolf, a shinobi on a mission to rescue his kidnapped lord and seek revenge on his enemies. The game emphasizes precise sword combat, stealth, and mobility, replacing traditional RPG elements with a posture-based dueling system.",
     "total_rating_count": 1435
    },
+   "7689": {
+    "aggregated_rating": 73.4,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     },
+     {
+      "id": 11020,
+      "name": "Batman: Arkham Origins"
+     }
+    ],
+    "cover": {
+     "id": 116620,
+     "image_id": "co2hzg"
+    },
+    "first_release_date": 1382659200,
+    "franchises": [
+     5
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     25,
+     31
+    ],
+    "id": 7689,
+    "name": "Batman: Arkham Origins Blackgate",
+    "platforms": [
+     37,
+     46
+    ],
+    "rating": 68.66857571951772,
+    "rating_count": 53,
+    "slug": "batman-arkham-origins-blackgate",
+    "summary": "Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline occurring several years before the events of Batman: Arkham Asylum and Batman: Arkham City. Taking place before the rise of Gotham City's most dangerous villains and assassins, the game showcases a young, raw, unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, witness identities being formed and key relationships being forged.",
+    "total_rating_count": 58
+   },
    "7716": {
     "collections": [
      {
@@ -495505,6 +497098,119 @@
     "rating": 29.96291374854447,
     "slug": "alone-in-the-dark-illumination",
     "total_rating_count": 8
+   },
+   "78": {
+    "aggregated_rating": 78.5,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     306726
+    ],
+    "collections": [
+     {
+      "id": 10,
+      "name": "Dragon Age"
+     }
+    ],
+    "cover": {
+     "id": 122977,
+     "image_id": "co2mw1"
+    },
+    "first_release_date": 1299542400,
+    "franchises": [
+     1047
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 78,
+    "name": "Dragon Age II",
+    "platforms": [
+     9,
+     6,
+     14,
+     12
+    ],
+    "rating": 74.29643797898008,
+    "rating_count": 701,
+    "slug": "dragon-age-ii",
+    "summary": "Dragon Age II is the sequel to Dragon Age: Origins and the second major game in the series. Like its predecessor, players can explore and engage in combat from a third-person perspective and will also encounter various companions who play major roles in the plot and gameplay. Depending on players' decisions and dialogue, a companion will either recognize the main character Hawke as a friend or a rival. The game adopts the wheel-based dialogue system, meaning short responses that reflect different tones and attitudes the player wishes to choose for Hawke. The combat system is quite similar to the one used in the previous Dragon Age game, though it has been noticeably sped up.",
+    "total_rating_count": 709
+   },
+   "8576": {
+    "aggregated_rating": 56.25,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     378980,
+     378981
+    ],
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 576595,
+     "image_id": "coccwj"
+    },
+    "first_release_date": 1387411200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     25,
+     31
+    ],
+    "id": 8576,
+    "name": "Drakengard 3",
+    "platforms": [
+     9
+    ],
+    "rating": 74.63031164506782,
+    "rating_count": 50,
+    "slug": "drakengard-3",
+    "summary": "Drakengard 3 transports players to a medieval world where six goddess-like sisters known as \"Intoners\" have brought peace to the earth with their power to manipulate magic through song. Harmony is disrupted, however, when the eldest sister, Zero, attempts to murder her younger sisters with the help of her dragon companion, Mikhail. As the story progresses, players find themselves in a battle to unravel the mystery of Zero and learn her true intentions.\n\nA prequel to the original Drakengard, Drakengard 3 features the series’ signature brand of action, pitting players against hordes of fiends and foes in remorseless hack-and-slash ground combat, and then sending them soaring for pitched aerial battles on the back of the dragon Mikhail.",
+    "total_rating_count": 58
+   },
+   "960": {
+    "aggregated_rating": 89.33333333333333,
+    "aggregated_rating_count": 12,
+    "collections": [
+     {
+      "id": 81,
+      "name": "Max Payne"
+     }
+    ],
+    "cover": {
+     "id": 122532,
+     "image_id": "co2mjo"
+    },
+    "first_release_date": 1337040000,
+    "franchises": [
+     1822
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 960,
+    "name": "Max Payne 3",
+    "platforms": [
+     9,
+     6,
+     14,
+     12
+    ],
+    "rating": 81.9191253749304,
+    "rating_count": 1168,
+    "slug": "max-payne-3",
+    "summary": "Max Payne 3 is a third-person shooter in which the player assumes the role of its titular character, Max Payne. A new feature to the series, introduced in Max Payne 3, is the cover system, which allows players to gain a tactical advantage, and avoid taking damage from enemies. To progress through the linear story, players take on enemies throughout levels. The game features interactive cutscenes which transition seamlessly into continuing gameplay; there are no loading screens across gameplay and cutscenes.",
+    "total_rating_count": 1180
    }
   },
   "names": {
@@ -495526,6 +497232,41 @@
      39
     ],
     "slug": "age-of-empires-mobile"
+   },
+   "Alan Wake's American Nightmare|2012": {
+    "aggregated_rating": 79.28571428571429,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     410796
+    ],
+    "collections": [
+     {
+      "id": 511,
+      "name": "Alan Wake"
+     }
+    ],
+    "cover": {
+     "id": 112069,
+     "image_id": "co2eh1"
+    },
+    "first_release_date": 1329868800,
+    "game_type": 4,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 2602,
+    "name": "Alan Wake's American Nightmare",
+    "parent_game": 1062,
+    "platforms": [
+     6,
+     12
+    ],
+    "rating": 69.14062852220424,
+    "rating_count": 280,
+    "slug": "alan-wake-s-american-nightmare",
+    "summary": "Alan Wake's American Nightmare is a standalone expansion to the psychological horror action-adventure game Alan Wake, developed by Remedy Entertainment. The story shifts to an alternate reality where Alan Wake finds himself in a small Arizona town. Here, he faces off against his evil doppelgänger, Mr. Scratch, a murderous entity intent on destroying everything Alan holds dear.\n\nThe gameplay involves exploring the town, battling new and familiar supernatural enemies, and uncovering pieces of the narrative through manuscripts and other clues. The expansion introduces new weapons and combat mechanics while maintaining the series' focus on the use of light to combat darkness. The narrative explores themes of duality and reality, offering a more action-oriented experience compared to the original game.",
+    "total_rating_count": 287
    },
    "Alone in the Dark: Illumination|2015": {
     "collections": [
@@ -495553,6 +497294,32 @@
     "slug": "alone-in-the-dark-illumination",
     "total_rating_count": 8
    },
+   "Aperture Desk Job|2022": {
+    "cover": {
+     "id": 210365,
+     "image_id": "co4ibh"
+    },
+    "first_release_date": 1646092800,
+    "franchises": [
+     1724
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 191897,
+    "name": "Aperture Desk Job",
+    "platforms": [
+     3,
+     6
+    ],
+    "rating": 75.71167369603253,
+    "rating_count": 93,
+    "slug": "aperture-desk-job",
+    "summary": "Aperture Desk Job reimagines the been-there-done-that genre of walking simulators and puts them in the lightning-spanked, endorphin-gorged world of sitting still behind things.\n\nYou play as an entry-level nobody on their first day at work — your heart full of hope and your legs full of dreams, eager to climb that corporate ladder. But life’s got other plans, and they all involve chairs.\n\nDesigned as a free playable short for Valve’s new Steam Deck, Desk Job walks you through the handheld’s controls and features, while not being nearly as boring as that sounds.\n\nLower your expectations: This is not a sequel to Portal. Now get ready to raise them slightly, because it is in the expanded universe of those games. Desk Job puts you squarely in the driver’s seat at Aperture Science. Then quickly removes the driving part and adds a desk in front of the seat.",
+    "total_rating_count": 93
+   },
    "Ax Battler: A Legend of Golden Axe|1991": {
     "collections": [
      {
@@ -495578,6 +497345,206 @@
     "rating": 52.98296634815123,
     "slug": "ax-battler-a-legend-of-golden-axe",
     "total_rating_count": 5
+   },
+   "Batman: Arkham Asylum|2009": {
+    "aggregated_rating": 89.4,
+    "aggregated_rating_count": 5,
+    "bundles": [
+     27862,
+     254329
+    ],
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 87715,
+     "image_id": "co1voj"
+    },
+    "first_release_date": 1251158400,
+    "franchise": 5,
+    "franchises": [
+     5,
+     44
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 500,
+    "name": "Batman: Arkham Asylum",
+    "platforms": [
+     9,
+     72,
+     6,
+     14,
+     12,
+     130
+    ],
+    "rating": 85.57710490426905,
+    "rating_count": 2614,
+    "slug": "batman-arkham-asylum",
+    "summary": "Batman: Arkham Asylum is an action-adventure game developed by Rocksteady Studios and published by Warner Bros. Interactive Entertainment. Released in 2009, it follows Batman as he battles the Joker, who seizes control of Arkham Asylum and frees its inmates. The game features stealth, combat, and detective elements, with players using Batman's gadgets and skills to subdue enemies and solve puzzles.\n\nSet in a dark, immersive version of Gotham, the story explores Batman’s psychological battle with his foes, including Harley Quinn, Bane, and Scarecrow. The game received critical acclaim for its gameplay, atmosphere, and storytelling, becoming a defining title in superhero video games.",
+    "total_rating_count": 2619
+   },
+   "Batman: Arkham City|2011": {
+    "aggregated_rating": 91.2,
+    "aggregated_rating_count": 10,
+    "bundles": [
+     21704,
+     43019,
+     138185,
+     254329
+    ],
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 87713,
+     "image_id": "co1voh"
+    },
+    "first_release_date": 1318896000,
+    "franchise": 5,
+    "franchises": [
+     5
+    ],
+    "game_type": 0,
+    "genres": [
+     25,
+     31
+    ],
+    "id": 501,
+    "name": "Batman: Arkham City",
+    "platforms": [
+     113,
+     9,
+     6,
+     12,
+     130
+    ],
+    "rating": 87.57912574296229,
+    "rating_count": 2727,
+    "slug": "batman-arkham-city",
+    "summary": "Batman: Arkham City builds upon the intense, atmospheric foundation of Batman: Arkham Asylum, sending players soaring into Arkham City, the new maximum security \"home\" for all of Gotham City's thugs, gangsters and insane criminal masterminds.\n\nSet inside the heavily fortified walls of a sprawling district in the heart of Gotham City, this highly anticipated sequel introduces a brand-new story that draws together a new all-star cast of classic characters and murderous villains from the Batman universe, as well as a vast range of new and enhanced gameplay features to deliver the ultimate experience as the Dark Knight.",
+    "total_rating_count": 2737
+   },
+   "Batman: Arkham Origins Blackgate|2013": {
+    "aggregated_rating": 73.4,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     },
+     {
+      "id": 11020,
+      "name": "Batman: Arkham Origins"
+     }
+    ],
+    "cover": {
+     "id": 116620,
+     "image_id": "co2hzg"
+    },
+    "first_release_date": 1382659200,
+    "franchises": [
+     5
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     25,
+     31
+    ],
+    "id": 7689,
+    "name": "Batman: Arkham Origins Blackgate",
+    "platforms": [
+     37,
+     46
+    ],
+    "rating": 68.66857571951772,
+    "rating_count": 53,
+    "slug": "batman-arkham-origins-blackgate",
+    "summary": "Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline occurring several years before the events of Batman: Arkham Asylum and Batman: Arkham City. Taking place before the rise of Gotham City's most dangerous villains and assassins, the game showcases a young, raw, unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, witness identities being formed and key relationships being forged.",
+    "total_rating_count": 58
+   },
+   "Batman: Arkham Shadow|2024": {
+    "aggregated_rating": 88.0,
+    "aggregated_rating_count": 6,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     },
+     {
+      "id": 11020,
+      "name": "Batman: Arkham Origins"
+     }
+    ],
+    "cover": {
+     "id": 380370,
+     "image_id": "co85hu"
+    },
+    "first_release_date": 1729555200,
+    "franchises": [
+     5
+    ],
+    "game_type": 0,
+    "genres": [
+     31
+    ],
+    "id": 299736,
+    "name": "Batman: Arkham Shadow",
+    "platforms": [
+     471
+    ],
+    "rating": 76.14654085699468,
+    "rating_count": 7,
+    "slug": "batman-arkham-shadow",
+    "summary": "Gotham City is in danger. And you’re the only one who can save it.\n\nPrepare to enter Gotham for a new story set in the Batman: Arkham franchise.",
+    "total_rating_count": 13
+   },
+   "Batman: Arkham VR|2016": {
+    "aggregated_rating": 73.28571428571429,
+    "aggregated_rating_count": 14,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 97188,
+     "image_id": "co22zo"
+    },
+    "first_release_date": 1476316800,
+    "franchises": [
+     5,
+     44
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     31
+    ],
+    "id": 19563,
+    "name": "Batman: Arkham VR",
+    "platforms": [
+     165,
+     6,
+     163,
+     385
+    ],
+    "rating": 72.96693582831743,
+    "rating_count": 30,
+    "slug": "batman-arkham-vr",
+    "summary": "Your quest to clean up Gotham has only just begun – and now it’s even more terrifying than it’s ever been. Exclusive to PlayStation VR, Batman: Arkham VR lets you become the Dark Knight in a virtual reality recreation of the DC’s hero’s more iconic locations.\n\nBecome the world’s greatest detective and explore places such as Wayne Manor and the Batcave as you battle in a brand new and personal story set in Rocksteady’s classic Arkham universe.",
+    "total_rating_count": 44
    },
    "Battlefield 1942|2002": {
     "aggregated_rating": 90.0,
@@ -495724,6 +497691,142 @@
      377
     ],
     "slug": "bomber-man"
+   },
+   "Breath of Fire III|1997": {
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 445732,
+     "image_id": "co9jxg"
+    },
+    "first_release_date": 873936000,
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 18055,
+    "name": "Breath of Fire III",
+    "platforms": [
+     7
+    ],
+    "rating": 78.15700725753544,
+    "rating_count": 54,
+    "slug": "breath-of-fire-iii",
+    "summary": "A MYSTERIOUS POWER...AN UNLIKELY HERO...A CLASSIC ADVENTURE...\n\nThe lone survivor of a legendary dragon clan, a rebellious youth embarks on a great journey. One of discovery... and danger. The classic role-playing game now returns to continue the epic tales of Ryu and the dragon people. An inner power of uncertain origin matures Ryu into a warrior who ponders his purpose as he embarks on a mystical journey. What lies ahead is shrouded in mystery... yet strangely familiar.\n\nDRAGON GENE SPLICING\nLEGENDARY ROLEPLAYING\nAN EPIC 3-D ENVIRONMENT\nLEARN OR STEAL ADVANCE SKILLS AND TECHNIQUES\nPOWERFUL MAGIC\n\nNOW YOU POSSESS THE POWER TO CONTROL RYU'S DESTINY.",
+    "total_rating_count": 55
+   },
+   "Breath of Fire IV|2000": {
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 311972,
+     "image_id": "co6opw"
+    },
+    "first_release_date": 956793600,
+    "game_type": 0,
+    "genres": [
+     12,
+     16,
+     31
+    ],
+    "id": 1280,
+    "name": "Breath of Fire IV",
+    "platforms": [
+     9,
+     6,
+     7,
+     38
+    ],
+    "rating": 83.4566772916414,
+    "rating_count": 81,
+    "slug": "breath-of-fire-iv",
+    "summary": "Breath of Fire IV is a single-player game that continues the story with these \"dragon people,\" who gave their lives to eradicate the evil goddess and restore peace in their world. This time around, battle has broken out between two powerful continents, and the fair Princess Elena has disappeared during a tour of the war-torn region. The princess's sister, Nina, who reigns o'er the Windia Kingdom, vows to retrieve her missing sibling. She meets Ryu along the way, who joins the epic quest",
+    "total_rating_count": 82
+   },
+   "Breath of Fire: Dragon Quarter|2002": {
+    "collections": [
+     {
+      "id": 282,
+      "name": "Breath of Fire"
+     }
+    ],
+    "cover": {
+     "id": 352577,
+     "image_id": "co7k1t"
+    },
+    "first_release_date": 1037232000,
+    "game_type": 0,
+    "genres": [
+     12,
+     15
+    ],
+    "id": 18056,
+    "name": "Breath of Fire: Dragon Quarter",
+    "platforms": [
+     8
+    ],
+    "rating": 88.94124325933511,
+    "rating_count": 14,
+    "slug": "breath-of-fire-dragon-quarter",
+    "summary": "Breath of Fire: Dragon Quarter is a radical departure from the previous titles of the Breath of Fire series, and in some ways from standard Japanese-style role-playing games in general. The game is built like a huge dungeon crawler, with no overworld map. The combat is tactical: each character has action points (AP), which can be used to move around the screen during an enemy encounter, and perform a variety of combo attacks. There is no magic in the game, and many of the items found in dungeons are random. All the enemies are visible on screen. Depending on who first initiated a physical contact, the party or the enemies get an extra turn in battles.\n\nThe game allows (and even encourages) the player to restart it from the beginning, keeping the items and the party experience. The game also features a special counter - Ryu can use his traditional dragon transformation abilities, but the counter raises with each such transformation, and when the counter reaches 100, the game is over. Raising the D-ratio allows characters to access new areas every time the game is replayed.",
+    "total_rating_count": 14
+   },
+   "Bridge Constructor Portal|2017": {
+    "aggregated_rating": 78.42857142857143,
+    "aggregated_rating_count": 7,
+    "bundles": [
+     131601,
+     196830
+    ],
+    "collections": [
+     {
+      "id": 1347,
+      "name": "Bridge Constructor"
+     }
+    ],
+    "cover": {
+     "id": 97219,
+     "image_id": "co230j"
+    },
+    "first_release_date": 1513728000,
+    "franchises": [
+     1724
+    ],
+    "game_type": 0,
+    "genres": [
+     9,
+     13,
+     15
+    ],
+    "id": 76770,
+    "name": "Bridge Constructor Portal",
+    "platforms": [
+     48,
+     3,
+     34,
+     6,
+     39,
+     14,
+     49,
+     130
+    ],
+    "rating": 72.21822694759706,
+    "rating_count": 41,
+    "slug": "bridge-constructor-portal",
+    "summary": "Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal – the unique merging of the classic Portal and Bridge Constructor games.",
+    "total_rating_count": 48
    },
    "DJ Hero 2|2010": {
     "aggregated_rating": 86.42857142857143,
@@ -495893,6 +497996,305 @@
     "summary": "A third-person action RPG with cooperative and competitive multiplayer elements in which the player enters the kingdom of Boletaria as it is being ravaged by a fog that spawns murderous demons. The player has to hunt down the arch demons situated in five disparate areas within the kingdom and partake in punishing combat to reach the Old One, the vengeful being that brought the fog to Boletaria.",
     "total_rating_count": 412
    },
+   "Dishonored: Death of the Outsider|2017": {
+    "aggregated_rating": 81.9090909090909,
+    "aggregated_rating_count": 11,
+    "bundles": [
+     52899,
+     83510,
+     139569,
+     331402
+    ],
+    "collections": [
+     {
+      "id": 1494,
+      "name": "Dishonored"
+     }
+    ],
+    "cover": {
+     "id": 266150,
+     "image_id": "co5pd2"
+    },
+    "first_release_date": 1505347200,
+    "game_type": 4,
+    "genres": [
+     9,
+     12,
+     31
+    ],
+    "id": 37030,
+    "name": "Dishonored: Death of the Outsider",
+    "parent_game": 11118,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 79.72020323115547,
+    "rating_count": 226,
+    "slug": "dishonored-death-of-the-outsider",
+    "summary": "Dishonored: Death of the Outsider is a stand-alone expansion pack and a sequel to Dishonored 2. The game features all the series' hallmarks, including brutal combat systems, unique level design and immersive story-telling that responds to your every choice. With compelling characters and exhilarating action, Death of the Outsider is the perfect entry point for those new to the Dishonored series, while delivering a significant expansion of the world and gameplay for long-time fans.",
+    "total_rating_count": 237
+   },
+   "Dishonored|2012": {
+    "aggregated_rating": 84.8125,
+    "aggregated_rating_count": 15,
+    "bundles": [
+     41590
+    ],
+    "collections": [
+     {
+      "id": 1494,
+      "name": "Dishonored"
+     }
+    ],
+    "cover": {
+     "id": 481422,
+     "image_id": "coabgu"
+    },
+    "first_release_date": 1349740800,
+    "game_type": 0,
+    "genres": [
+     9,
+     12,
+     31
+    ],
+    "id": 533,
+    "name": "Dishonored",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 84.85017739474317,
+    "rating_count": 1929,
+    "slug": "dishonored",
+    "summary": "Dishonored is an immersive first-person action game that casts you as a supernatural assassin driven by revenge. With Dishonored’s flexible combat system, creatively eliminate your targets as you combine the supernatural abilities, weapons and unusual gadgets at your disposal. Pursue your enemies under the cover of darkness or ruthlessly attack them head on with weapons drawn. The outcome of each mission plays out based on the choices you make.",
+    "total_rating_count": 1944
+   },
+   "Dragon Age II|2011": {
+    "aggregated_rating": 78.5,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     306726
+    ],
+    "collections": [
+     {
+      "id": 10,
+      "name": "Dragon Age"
+     }
+    ],
+    "cover": {
+     "id": 122977,
+     "image_id": "co2mw1"
+    },
+    "first_release_date": 1299542400,
+    "franchises": [
+     1047
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 78,
+    "name": "Dragon Age II",
+    "platforms": [
+     9,
+     6,
+     14,
+     12
+    ],
+    "rating": 74.29643797898008,
+    "rating_count": 701,
+    "slug": "dragon-age-ii",
+    "summary": "Dragon Age II is the sequel to Dragon Age: Origins and the second major game in the series. Like its predecessor, players can explore and engage in combat from a third-person perspective and will also encounter various companions who play major roles in the plot and gameplay. Depending on players' decisions and dialogue, a companion will either recognize the main character Hawke as a friend or a rival. The game adopts the wheel-based dialogue system, meaning short responses that reflect different tones and attitudes the player wishes to choose for Hawke. The combat system is quite similar to the one used in the previous Dragon Age game, though it has been noticeably sped up.",
+    "total_rating_count": 709
+   },
+   "Dragon Age: Inquisition|2014": {
+    "aggregated_rating": 87.9375,
+    "aggregated_rating_count": 16,
+    "bundles": [
+     44545
+    ],
+    "collections": [
+     {
+      "id": 10,
+      "name": "Dragon Age"
+     }
+    ],
+    "cover": {
+     "id": 122974,
+     "image_id": "co2mvy"
+    },
+    "first_release_date": 1416268800,
+    "franchises": [
+     1047
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24,
+     31
+    ],
+    "id": 1887,
+    "name": "Dragon Age: Inquisition",
+    "platforms": [
+     9,
+     48,
+     6,
+     12,
+     49
+    ],
+    "rating": 82.48126614119776,
+    "rating_count": 1087,
+    "slug": "dragon-age-inquisition",
+    "summary": "Dragon Age: Inquisition is a role-playing game and the third main game in the Dragon Age series. It is set in the Thedas continent, the same fantasy world as the two previous games. It consist of two large countries: Ferelden (from Dragon Age: Origins) and Orlais, as well as the land inbetween.\n\nTrue to the spirit of the series the character can be customized for appearance, sex, class and race. The available races are dwarf, elf, human, and Qunari and the classes are mage, rogue, and warrior with three specializations each. To grow the Inquisition experience needs to be earned by completing quests, which allows the player to further define allegiances and pursue romances.\n\nA custom party can be defined and each member benefits from experience as it opens up access to better weapons and more abilities. Power points open up new areas and Inquisition points define the influence over the region; each new level provides a perk that benefits the entire Inquisition.",
+    "total_rating_count": 1103
+   },
+   "Dragon Age: Origins|2009": {
+    "aggregated_rating": 90.2,
+    "aggregated_rating_count": 10,
+    "bundles": [
+     27911
+    ],
+    "collections": [
+     {
+      "id": 10,
+      "name": "Dragon Age"
+     }
+    ],
+    "cover": {
+     "id": 122968,
+     "image_id": "co2mvs"
+    },
+    "first_release_date": 1257206400,
+    "franchises": [
+     1047
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 76,
+    "name": "Dragon Age: Origins",
+    "platforms": [
+     9,
+     6,
+     14,
+     12
+    ],
+    "rating": 86.2819235555702,
+    "rating_count": 1758,
+    "slug": "dragon-age-origins",
+    "summary": "Dragon Age: Origins is a third-person role-playing game described as a spiritual successor to Baldur's Gate and Neverwinter Nights franchises. Players create their own character by customizing gender and appearance as well as choosing a race and class. Combat is in real time with the ability to pause at any moment: tactical options include an editor which allows the player to give the AI detailed instructions on how to behave in every possible situation. Although the main storyline is the same for every character created, the game features six unique prologues, two for each race. Dragon Age: Origins received critical acclaim upon release, with praise mostly directed at its story, setting, characters, music and combat system.",
+    "total_rating_count": 1768
+   },
+   "Drakengard 2|2005": {
+    "aggregated_rating": 63.0,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 100689,
+     "image_id": "co25ox"
+    },
+    "first_release_date": 1118880000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 11663,
+    "name": "Drakengard 2",
+    "platforms": [
+     8
+    ],
+    "rating": 70.63401589872849,
+    "rating_count": 17,
+    "slug": "drakengard-2",
+    "summary": "Drakengard 2 is a direct sequel to the original Drakengard: the story revolves around Nowe, a boy raised by the dragon Legna, fighting against a tyrannical faction of Knights, encountering characters from the previous game and becoming entangled in the fate of the world.\n\nLike the original, Drakengard 2 combines on-foot hack and slash with aerial combat stages and RPG game mechanics. The previous game's producer, writer and character designer returned to their respective roles. The game was designed as a more mainstream game in light of the previous game's dark aesthetic and story. The game sold 206,000 copies by the end of 2005. Western reviews praised the story, but gave mixed opinions about the graphics and widely criticized the gameplay.",
+    "total_rating_count": 20
+   },
+   "Drakengard 3|2013": {
+    "aggregated_rating": 56.25,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     378980,
+     378981
+    ],
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 576595,
+     "image_id": "coccwj"
+    },
+    "first_release_date": 1387411200,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     25,
+     31
+    ],
+    "id": 8576,
+    "name": "Drakengard 3",
+    "platforms": [
+     9
+    ],
+    "rating": 74.63031164506782,
+    "rating_count": 50,
+    "slug": "drakengard-3",
+    "summary": "Drakengard 3 transports players to a medieval world where six goddess-like sisters known as \"Intoners\" have brought peace to the earth with their power to manipulate magic through song. Harmony is disrupted, however, when the eldest sister, Zero, attempts to murder her younger sisters with the help of her dragon companion, Mikhail. As the story progresses, players find themselves in a battle to unravel the mystery of Zero and learn her true intentions.\n\nA prequel to the original Drakengard, Drakengard 3 features the series’ signature brand of action, pitting players against hordes of fiends and foes in remorseless hack-and-slash ground combat, and then sending them soaring for pitched aerial battles on the back of the dragon Mikhail.",
+    "total_rating_count": 58
+   },
+   "Drakengard|2003": {
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 1156,
+      "name": "Drakengard"
+     }
+    ],
+    "cover": {
+     "id": 200193,
+     "image_id": "co4agx"
+    },
+    "first_release_date": 1063238400,
+    "franchises": [
+     2483
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     25
+    ],
+    "id": 11635,
+    "name": "Drakengard",
+    "platforms": [
+     8
+    ],
+    "rating": 68.47716376042645,
+    "rating_count": 63,
+    "slug": "drakengard",
+    "summary": "Drakengard follows the story of a kingdomless prince named Caim who fights for the Union against the Empire. Under the Union's protection are the Hierarchs and the Goddess, currently Caim's sister Furiae, who is a human manifestation of one of the four seals that protect the world from being broken. As the game begins, Caim is fatally wounded in a battle with the Empire. Encountering a captured Red Dragon who is also near death, Caim makes a fateful choice. In exchange for both their lives, the Red Dragon and Caim will enter a pact. This pact will forever chain their lives to one another and link their souls, at the cost of something irreplaceable. Recharged with the fires of a Dragon, Caim's vengeance burns over the enemy...\n\nThe player controls Caim on his quest. The game is separated into three distinct modes: Aerial combat, Ground combat and Event Combat. In Aerial Combat, Caim rides dragonback against a variety of airborne foes breathing fireballs (strong single shots and weaker multiple lock-on shots). The Dragon is agile and is able to evade incoming threats, turning around completely in a moment. In Ground combat, the game is shown in 3rd person though usually large, open areas. Controlling Caim, his primary ability is the use of a variety of weapons found on the battlefield, each with their own magic powers. These are leveled up through continued usage, and specifically through the killing of individual enemies. In ground combat, Caim may also call forth his Dragon to ride and strafe enemies from the air. Event combat is similar to Ground combat, but shown isometrically, restricted to a single weapon and without the aid of a dragon. It is used mainly to tell story sequences.",
+    "total_rating_count": 64
+   },
    "Elden Ring Nightreign|2025": {
     "aggregated_rating": 85.25,
     "aggregated_rating_count": 4,
@@ -495929,6 +498331,133 @@
     "slug": "elden-ring-nightreign",
     "summary": "Elden Ring: Nightreign is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.",
     "total_rating_count": 111
+   },
+   "Etrian Odyssey Nexus|2018": {
+    "aggregated_rating": 80.71428571428571,
+    "aggregated_rating_count": 7,
+    "collections": [
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     }
+    ],
+    "cover": {
+     "id": 130191,
+     "image_id": "co2sgf"
+    },
+    "first_release_date": 1533168000,
+    "game_type": 0,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 57012,
+    "name": "Etrian Odyssey Nexus",
+    "platforms": [
+     37
+    ],
+    "rating": 80.0,
+    "rating_count": 3,
+    "slug": "etrian-odyssey-nexus",
+    "summary": "\"A royal decree from Princess Persephone has prompted the gathering of the realm’s greatest explorers to the floating city of Maginia. Their goal—uncovering the mysteries of the archipelago of Lemuria, home to a great Yggdrasil Tree. Recruit explorers from 19 classes spanning the entire Etrian series, including the brand new “Hero” class, before setting out to Lemuria in search of treasure and glory!\n\nThe longtime trio of Yuji Himukai (Character Designer), Shin Nagasawa (Monster Designer), and Yuzo Koshiro (Composer) return to bring life to Etrian Odyssey Nexus’s world. With iconic representatives and locations from past Etrian games, over a hundred story-rich quests, variable difficulty settings, the return of accessibility features like auto-mapping (optional!), and much more, Etrian Odyssey Nexus is the definitive Etrian experience for both longtime fans and series newcomers!\"\n\nThere are 19 character classes as well as a sub-class system and returning battle mechanics from previous games.\n\nThe last Etrian Odyssey game for the Nintendo 3DS. .",
+    "total_rating_count": 10
+   },
+   "Etrian Odyssey Untold: The Millennium Girl|2013": {
+    "aggregated_rating": 77.0,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     },
+     {
+      "id": 1886,
+      "name": "Etrian Odyssey Untold"
+     }
+    ],
+    "cover": {
+     "id": 135139,
+     "image_id": "co2w9v"
+    },
+    "first_release_date": 1372291200,
+    "game_type": 8,
+    "genres": [
+     12,
+     31
+    ],
+    "id": 6768,
+    "name": "Etrian Odyssey Untold: The Millennium Girl",
+    "parent_game": 14716,
+    "platforms": [
+     37
+    ],
+    "rating": 80.0457685569535,
+    "rating_count": 10,
+    "slug": "etrian-odyssey-untold-the-millennium-girl",
+    "summary": "Etrian Odyssey Untold: The Millennium Girl is the first in the Untold series which are to be remakes of the original Etrian Odyssey games. The games are first person RPG dungeon crawlers where you create a map of the labyrinth as you explore and complete quests.\n\nThe game features two game modes. The new story mode, has a pre-made party with a more in-depth story that has voice acting and animated cutscenes, and an enhanced classic mode, customize a party of 5 from 9 classes to explore the Yggdrasil labyrinth.\n\nThe game allows for the save data from story mode to be carried over to the classic mode once completed.",
+    "total_rating_count": 15
+   },
+   "Etrian Odyssey V: Beyond the Myth|2016": {
+    "aggregated_rating": 81.8,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 935,
+      "name": "Etrian Odyssey"
+     }
+    ],
+    "cover": {
+     "id": 141025,
+     "image_id": "co30td"
+    },
+    "first_release_date": 1470268800,
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     31
+    ],
+    "id": 18224,
+    "name": "Etrian Odyssey V: Beyond the Myth",
+    "platforms": [
+     37
+    ],
+    "rating": 90.0,
+    "rating_count": 3,
+    "slug": "etrian-odyssey-v-beyond-the-myth",
+    "summary": "\"Etrian Odyssey V: Beyond the Myth – The fifth main installment of the long-running Etrian Odyssey series is finally arriving!\n\nEtrian Odyssey V: Beyond the Myth chronicles the quest of a new adventurer (hey, that’s you!) as he or she attempts to reach the top of the towering Yggdrasil Tree. For it is said that whoever braves the dangers of the dreaded Yggdrasil Labyrinth and reaches the summit will have their greatest wish fulfilled…\"\n\n\"With four unique races, 10 distinct classes, more customization options than any previous game in the franchise, and a streamlined skill tree/class advancement, you can shape a party to whatever your heart desires.\"",
+    "total_rating_count": 8
+   },
+   "FBC: Firebreak|2025": {
+    "aggregated_rating": 71.66666666666667,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 8415,
+      "name": "Control"
+     }
+    ],
+    "cover": {
+     "id": 452319,
+     "image_id": "co9p0f"
+    },
+    "first_release_date": 1750118400,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 320144,
+    "name": "FBC: Firebreak",
+    "platforms": [
+     169,
+     6,
+     167
+    ],
+    "rating": 49.24666717637703,
+    "rating_count": 13,
+    "slug": "fbc-firebreak",
+    "summary": "FBC: Firebreak is a 3-player cooperative first-person shooter set within the enigmatic Federal Bureau of Control (FBC). As the Bureau’s headquarters faces a deadly and prolonged siege by otherworldly forces, only Firebreak—its most adaptable response unit—has the skills and courage to restore order.",
+    "total_rating_count": 16
    },
    "Ghosts'n Goblins: Gold Knights II|2010": {
     "collections": [
@@ -496024,8 +498553,83 @@
     ],
     "slug": "makaimura-for-wonderswan"
    },
+   "Max Payne 3|2012": {
+    "aggregated_rating": 89.33333333333333,
+    "aggregated_rating_count": 12,
+    "collections": [
+     {
+      "id": 81,
+      "name": "Max Payne"
+     }
+    ],
+    "cover": {
+     "id": 122532,
+     "image_id": "co2mjo"
+    },
+    "first_release_date": 1337040000,
+    "franchises": [
+     1822
+    ],
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 960,
+    "name": "Max Payne 3",
+    "platforms": [
+     9,
+     6,
+     14,
+     12
+    ],
+    "rating": 81.9191253749304,
+    "rating_count": 1168,
+    "slug": "max-payne-3",
+    "summary": "Max Payne 3 is a third-person shooter in which the player assumes the role of its titular character, Max Payne. A new feature to the series, introduced in Max Payne 3, is the cover system, which allows players to gain a tactical advantage, and avoid taking damage from enemies. To progress through the linear story, players take on enemies throughout levels. The game features interactive cutscenes which transition seamlessly into continuing gameplay; there are no loading screens across gameplay and cutscenes.",
+    "total_rating_count": 1180
+   },
    "Metal Slug Touch|2009": null,
    "Nazo Makaimura: Incredible Toons|1996": null,
+   "NieR Replicant ver.1.22474487139...|2021": {
+    "aggregated_rating": 82.16666666666667,
+    "aggregated_rating_count": 12,
+    "bundles": [
+     139071
+    ],
+    "collections": [
+     {
+      "id": 6085,
+      "name": "NieR"
+     }
+    ],
+    "cover": {
+     "id": 255335,
+     "image_id": "co5h0n"
+    },
+    "first_release_date": 1619136000,
+    "franchises": [
+     2483
+    ],
+    "game_type": 9,
+    "genres": [
+     12,
+     25,
+     31
+    ],
+    "id": 131999,
+    "name": "NieR Replicant ver.1.22474487139...",
+    "parent_game": 80468,
+    "platforms": [
+     48,
+     6,
+     49
+    ],
+    "rating": 84.2964495169604,
+    "rating_count": 199,
+    "slug": "nier-replicant-ver-dot-1-22474487139-dot-dot-dot",
+    "summary": "NieR Replicant ver.1.22474487139... is an updated version of NieR Replicant, previously only released in Japan. Discover the one-of-a-kind prequel to the critically-acclaimed masterpiece NieR: Automata. Now with a modern upgrade, experience masterfully revived visuals, a fascinating storyline and more!",
+    "total_rating_count": 211
+   },
    "Nightshade|2003": {
     "aggregated_rating": 60.66666666666666,
     "collections": [
@@ -496174,6 +498778,211 @@
     "rating": 80.76662512907815,
     "slug": "pikmin",
     "total_rating_count": 184
+   },
+   "Red Dead Redemption: Undead Nightmare|2010": {
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 4,
+    "bundles": [
+     45199
+    ],
+    "collections": [
+     {
+      "id": 2100,
+      "name": "Red Dead Redemption"
+     },
+     {
+      "id": 366,
+      "name": "Red Dead"
+     }
+    ],
+    "cover": {
+     "id": 120992,
+     "image_id": "co2lcw"
+    },
+    "first_release_date": 1288051200,
+    "game_type": 4,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 3735,
+    "name": "Red Dead Redemption: Undead Nightmare",
+    "parent_game": 434,
+    "platforms": [
+     9,
+     12
+    ],
+    "rating": 84.43214593689919,
+    "rating_count": 185,
+    "slug": "red-dead-redemption-undead-nightmare",
+    "summary": "Red Dead Redemption: Undead Nightmare, later released as a standalone game, adds a new single-player experience in which Marston searches for a cure for an infectious zombie plague that has swept across the Old West.",
+    "total_rating_count": 189
+   },
+   "Red Dead Redemption|2010": {
+    "aggregated_rating": 91.8,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     41587,
+     262052
+    ],
+    "collections": [
+     {
+      "id": 2100,
+      "name": "Red Dead Redemption"
+     },
+     {
+      "id": 366,
+      "name": "Red Dead"
+     }
+    ],
+    "cover": {
+     "id": 120991,
+     "image_id": "co2lcv"
+    },
+    "first_release_date": 1274140800,
+    "game_type": 0,
+    "genres": [
+     5,
+     12,
+     31
+    ],
+    "id": 434,
+    "name": "Red Dead Redemption",
+    "platforms": [
+     9,
+     6,
+     12
+    ],
+    "rating": 89.0623995402563,
+    "rating_count": 2590,
+    "slug": "red-dead-redemption",
+    "summary": "A modern-day Western epic, Red Dead Redemption takes John Marston, a relic from the fast-closing time of the gunslinger, through an open world filled with wildlife, mini-games, and shootouts. Marston sets out to hunt down his old gang mates for the government, who have taken away his family. Along his journey, he meets many characters emblematic of the Wild West, heroism, and the new civilization.",
+    "total_rating_count": 2598
+   },
+   "Red Dead Revolver|2004": {
+    "aggregated_rating": 66.0,
+    "aggregated_rating_count": 5,
+    "collections": [
+     {
+      "id": 366,
+      "name": "Red Dead"
+     }
+    ],
+    "cover": {
+     "id": 120983,
+     "image_id": "co2lcn"
+    },
+    "first_release_date": 1083456000,
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 1969,
+    "name": "Red Dead Revolver",
+    "platforms": [
+     11,
+     48,
+     8
+    ],
+    "rating": 68.6769338933311,
+    "rating_count": 90,
+    "slug": "red-dead-revolver",
+    "summary": "Red Dead Revolver is a 2004 action-adventure game developed by Rockstar San Diego and published by Rockstar Games. It is the first entry in the Red Dead series and was released for the PlayStation 2 and Xbox in May 2004.\n\nSet in the 1880s, during the American frontier, the single-player story follows bounty hunter Red Harlow's quest for revenge after the murder of his parents.\n\nA local multiplayer mode allows up to four players to face off against each other or AI-controlled bots in free-for-all battles.",
+    "total_rating_count": 95
+   },
+   "Resistance 2|2008": {
+    "aggregated_rating": 86.5,
+    "aggregated_rating_count": 8,
+    "bundles": [
+     45291
+    ],
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 152761,
+     "image_id": "co39vd"
+    },
+    "first_release_date": 1225756800,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 3205,
+    "name": "Resistance 2",
+    "platforms": [
+     9
+    ],
+    "rating": 73.18202328162292,
+    "rating_count": 110,
+    "slug": "resistance-2",
+    "summary": "After a valiant struggle to stop the Chimera invasion in Europe, mankind must make its last stand on the shores of the United States.\nResistance 2 delivers an unprecedented console gaming experience with a standalone eight-player, class-based online co-op campaign and 60-player online competitive multiplayer. An epic single-player campaign will feature a new weapons arsenal to combat giant boss encounters that increase the scale of the conflict to new heights.",
+    "total_rating_count": 118
+   },
+   "Resistance 3|2011": {
+    "aggregated_rating": 87.66666666666667,
+    "aggregated_rating_count": 6,
+    "bundles": [
+     45291
+    ],
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 107710,
+     "image_id": "co2b3y"
+    },
+    "first_release_date": 1315267200,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 3206,
+    "name": "Resistance 3",
+    "platforms": [
+     9
+    ],
+    "rating": 78.48090057741776,
+    "rating_count": 97,
+    "slug": "resistance-3",
+    "summary": "The third and currently final installment in the Resistance series. Resistance 3 portrays Capelli's heroic survival inside the brutal Resistance world. Featuring new upgradeable weapons, the return of the weapon wheel, two-player online or split-screen campaign co-op and a progression-based multiplayer experience, Resistance 3 delivers a heroic-yet savage first-person shooter experience.",
+    "total_rating_count": 103
+   },
+   "Resistance: Retribution|2009": {
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 281,
+      "name": "Resistance"
+     }
+    ],
+    "cover": {
+     "id": 107733,
+     "image_id": "co2b4l"
+    },
+    "first_release_date": 1236816000,
+    "game_type": 0,
+    "genres": [
+     5
+    ],
+    "id": 22885,
+    "name": "Resistance: Retribution",
+    "platforms": [
+     38
+    ],
+    "rating": 60.55748408051642,
+    "rating_count": 20,
+    "slug": "resistance-retribution",
+    "summary": "Set in the weeks after Resistance: Fall of Man, Resistance: Retribution follows the story of former British Marine James Grayson. After a personal tragedy - he is forced to kill his own brother inside a Chimeran conversion center - Grayson goes on a vendetta to destroy every conversion center he can find. Eventually Grayson learns that his efforts have been futile... in Western Europe the Chimera have evolved a new method of converting humans to aliens. The European resistance - the Maquis - enlist Grayson's help, and he joins Cartwright and Parker in Operation Overstrike. The war to retake the European continent has begun.",
+    "total_rating_count": 21
    },
    "Sekiro: Shadows Die Twice|2019": {
     "aggregated_rating": 90.0909090909091,
@@ -496362,6 +499171,214 @@
     ],
     "slug": "story-of-seasons-a-wonderful-life",
     "total_rating_count": 2
+   },
+   "Suicide Squad: Kill the Justice League|2024": {
+    "aggregated_rating": 63.16666666666666,
+    "aggregated_rating_count": 6,
+    "collections": [
+     {
+      "id": 68,
+      "name": "Batman: Arkham"
+     }
+    ],
+    "cover": {
+     "id": 187194,
+     "image_id": "co40fu"
+    },
+    "first_release_date": 1706832000,
+    "franchises": [
+     528,
+     2341,
+     44,
+     5,
+     644,
+     307,
+     5326,
+     417
+    ],
+    "game_type": 0,
+    "genres": [
+     5,
+     31
+    ],
+    "id": 136627,
+    "name": "Suicide Squad: Kill the Justice League",
+    "platforms": [
+     169,
+     6,
+     167
+    ],
+    "rating": 48.52578791830264,
+    "rating_count": 44,
+    "slug": "suicide-squad-kill-the-justice-league",
+    "summary": "Suicide Squad: Kill the Justice League is an action-adventure shooter developed by Rocksteady Studios. Set in Metropolis, players control Harley Quinn, Deadshot, Captain Boomerang, and King Shark as they battle a brainwashed Justice League under Brainiac's control. The game features third-person combat, open-world exploration, and live-service elements.",
+    "total_rating_count": 50
+   },
+   "Suikoden III|2002": {
+    "aggregated_rating": 85.0,
+    "aggregated_rating_count": 1,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 198836,
+     "image_id": "co49f8"
+    },
+    "first_release_date": 1026345600,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     16
+    ],
+    "id": 1448,
+    "name": "Suikoden III",
+    "platforms": [
+     9,
+     8
+    ],
+    "rating": 80.05821792851991,
+    "rating_count": 25,
+    "slug": "suikoden-iii",
+    "summary": "Fifteen years after the events of Suikoden II, the stories of Hugo (the son of a village chief), Chris (the virtuous Knight of Zexen), and Geddoe (the rebellious unit commander) intertwine as they gather the 108 Stars of Destiny. Suikoden III features three different battle systems and three styles of combat in a 3D world. Customize each of your three character's skills, and then pair them together to unleash devastating combo attacks.",
+    "total_rating_count": 26
+   },
+   "Suikoden IV|2004": {
+    "aggregated_rating": 62.5,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 101666,
+     "image_id": "co26g2"
+    },
+    "first_release_date": 1092873600,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1449,
+    "name": "Suikoden IV",
+    "platforms": [
+     9,
+     8
+    ],
+    "rating": 71.12160143828369,
+    "rating_count": 25,
+    "slug": "suikoden-iv",
+    "summary": "Suikoden IV features the return of the 108 Stars of Destiny, as well as an enhanced interface in a new oceanic environment. You'll follow a young knight while he struggles with Rune, which slowly steals the life of its bearer. The game's strategic battle systems let you attack or cast magic spells with help from other party members. Recruit members of the Stars of Destiny and create a base from the ground up. With a brand-new storyline, characters, and cutscenes, Suikoden IV takes the series to the next level.",
+    "total_rating_count": 27
+   },
+   "Suikoden Tactics|2005": {
+    "aggregated_rating": 63.5,
+    "aggregated_rating_count": 2,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 220192,
+     "image_id": "co4pwg"
+    },
+    "first_release_date": 1127347200,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12,
+     15,
+     24
+    ],
+    "id": 1450,
+    "name": "Suikoden Tactics",
+    "platforms": [
+     8
+    ],
+    "rating": 80.15759198996139,
+    "rating_count": 8,
+    "slug": "suikoden-tactics",
+    "summary": "Breaking from its traditional role-playing roots, Suikoden Tactics incorporates simulation and strategy elements to take players on an adventure never seen before in the franchise. Told through the eyes of Kyril, a young adventurer investigating the sudden appearance of hideous creatures in the island nations, Suikoden Tactics unfolds another perspective to the events of Suikoden IV and the legendary \"Rune Cannons.\" In all, there are more than 25 different battle scenarios, the ability to modify and customize your character as the game progresses, and a unique \"Combination Attack system\" that allows players to combine the powers of numerous characters in combat as they build friendships.",
+    "total_rating_count": 10
+   },
+   "Suikoden Tierkreis|2008": {
+    "aggregated_rating": 76.0,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 110005,
+     "image_id": "co2cvp"
+    },
+    "first_release_date": 1229558400,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1452,
+    "name": "Suikoden Tierkreis",
+    "platforms": [
+     20
+    ],
+    "rating": 77.72257609412938,
+    "rating_count": 18,
+    "slug": "suikoden-tierkreis",
+    "summary": "Suikoden: Tierkreis is the latest iteration of the popular RPG franchise that was introduced more than 12 years ago. Suikoden: Tierkreis follows the story of the 108 Stars of Destiny, a group of magical warriors, as they challenge the almighty One King, who intends to create chaos in the universe. As the player gathers the members of the 108 Stars of Destiny, the forces for good will stand up against evil in a battle that spans the near infinite parallel worlds of the Million World universe.",
+    "total_rating_count": 21
+   },
+   "Suikoden V|2006": {
+    "aggregated_rating": 80.66666666666667,
+    "aggregated_rating_count": 3,
+    "collections": [
+     {
+      "id": 304,
+      "name": "Suikoden"
+     }
+    ],
+    "cover": {
+     "id": 101665,
+     "image_id": "co26g1"
+    },
+    "first_release_date": 1140652800,
+    "franchises": [
+     2792
+    ],
+    "game_type": 0,
+    "genres": [
+     12
+    ],
+    "id": 1456,
+    "name": "Suikoden V",
+    "platforms": [
+     8
+    ],
+    "rating": 80.05467469732643,
+    "rating_count": 30,
+    "slug": "suikoden-v",
+    "summary": "Suikoden V, like its predecessors, features unparalleled in-depth gameplay, a riveting storyline as well as the series' trademark 108 Stars of Destiny.",
+    "total_rating_count": 33
    },
    "The G.G. Shinobi|1991": null,
    "The Walking Dead: Michonne|2016": {
