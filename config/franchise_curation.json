@@ -6476,5 +6476,449 @@
   "drop": [],
   "notes": "User's choice: all FromSoftware Souls-style games count as one series (Demon's Souls, Dark Souls I-III, Bloodborne, Sekiro, Elden Ring). Armored Core stays separate. IGDB splits these across the Dark Souls and Elden Ring franchises and lists Bloodborne and Demon's Souls under none, so they are merged and curated here. Demon's Souls (2020) is IGDB's remake of the 2009 original.",
   "curated_at": "2026-11-17"
+ },
+ "Batman: Arkham": {
+  "franchise": "Batman: Arkham",
+  "source": "https://en.wikipedia.org/wiki/Batman:_Arkham",
+  "replaces": [
+   "Batman: Arkham"
+  ],
+  "main": [
+   {
+    "name": "Batman: Arkham Asylum",
+    "year": 2009
+   },
+   {
+    "name": "Batman: Arkham City",
+    "year": 2011
+   },
+   {
+    "id": 2003
+   },
+   {
+    "id": 5503
+   }
+  ],
+  "spin": [
+   {
+    "name": "Batman: Arkham Origins Blackgate",
+    "year": 2013
+   },
+   {
+    "name": "Batman: Arkham VR",
+    "year": 2016
+   },
+   {
+    "name": "Batman: Arkham Shadow",
+    "year": 2024
+   },
+   {
+    "name": "Suicide Squad: Kill the Justice League",
+    "year": 2024
+   }
+  ],
+  "notes": "Main = Wikipedia's four Rocksteady/WB Montreal console games. Blackgate, Arkham VR, Arkham Shadow (VR) and Suicide Squad are spin-offs. Custom guide: IGDB files these under the Batman license, which is skipped.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Alan Wake & Control": {
+  "franchise": "Alan Wake & Control",
+  "source": "https://en.wikipedia.org/wiki/Remedy_Connected_Universe",
+  "replaces": [
+   "Alan Wake",
+   "Control"
+  ],
+  "main": [
+   {
+    "id": 1062
+   },
+   {
+    "id": 103329
+   },
+   {
+    "id": 185246
+   }
+  ],
+  "spin": [
+   {
+    "name": "Alan Wake's American Nightmare",
+    "year": 2012
+   },
+   {
+    "name": "FBC: Firebreak",
+    "year": 2025
+   }
+  ],
+  "notes": "Remedy Connected Universe: Alan Wake, Control and Alan Wake II share one story (AWE links them). Max Payne has its own guide. Alan Wake Remastered counts as owning Alan Wake.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Max Payne": {
+  "franchise": "Max Payne",
+  "source": "https://en.wikipedia.org/wiki/Max_Payne",
+  "main": [
+   {
+    "id": 18
+   },
+   {
+    "id": 19
+   },
+   {
+    "name": "Max Payne 3",
+    "year": 2012
+   }
+  ],
+  "notes": "Main = the three games. The GBA Max Payne is a port and stays a spin-off.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Red Dead": {
+  "franchise": "Red Dead",
+  "source": "https://en.wikipedia.org/wiki/Red_Dead",
+  "main": [
+   {
+    "name": "Red Dead Revolver",
+    "year": 2004
+   },
+   {
+    "name": "Red Dead Redemption",
+    "year": 2010
+   },
+   {
+    "id": 25076
+   }
+  ],
+  "spin": [
+   {
+    "name": "Red Dead Redemption: Undead Nightmare",
+    "year": 2010
+   }
+  ],
+  "notes": "Main = Wikipedia's three games. Revolver is a separate story; Redemption 2 is a prequel to Redemption.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Mother / EarthBound": {
+  "franchise": "Mother / EarthBound",
+  "source": "https://en.wikipedia.org/wiki/Mother_(video_game_series)",
+  "replaces": [
+   "Earthbound",
+   "EarthBound",
+   "Mother"
+  ],
+  "main": [
+   {
+    "id": 238665,
+    "title": "Mother (EarthBound Beginnings)"
+   },
+   {
+    "id": 2899
+   },
+   {
+    "id": 3683
+   }
+  ],
+  "notes": "Main = Mother (EarthBound Beginnings), EarthBound (Mother 2) and Mother 3.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Etrian Odyssey": {
+  "franchise": "Etrian Odyssey",
+  "source": "https://en.wikipedia.org/wiki/Etrian_Odyssey",
+  "main": [
+   {
+    "id": 14716
+   },
+   {
+    "id": 14717
+   },
+   {
+    "id": 14718
+   },
+   {
+    "id": 6767
+   },
+   {
+    "name": "Etrian Odyssey Untold: The Millennium Girl",
+    "year": 2013,
+    "remake_of": 14716
+   },
+   {
+    "id": 14709,
+    "remake_of": 14717
+   },
+   {
+    "name": "Etrian Odyssey V: Beyond the Myth",
+    "year": 2016
+   }
+  ],
+  "spin": [
+   {
+    "name": "Etrian Odyssey Nexus",
+    "year": 2018
+   }
+  ],
+  "notes": "Main = I-V; the two Untold games are 3DS remakes of I and II. Nexus is a crossover of the series.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Portal": {
+  "franchise": "Portal",
+  "source": "https://en.wikipedia.org/wiki/Portal_(series)",
+  "main": [
+   {
+    "id": 71
+   },
+   {
+    "id": 72
+   }
+  ],
+  "spin": [
+   {
+    "name": "Bridge Constructor Portal",
+    "year": 2017
+   },
+   {
+    "name": "Aperture Desk Job",
+    "year": 2022
+   }
+  ],
+  "notes": "Main = Portal and Portal 2.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Dishonored": {
+  "franchise": "Dishonored",
+  "source": "https://en.wikipedia.org/wiki/Dishonored",
+  "main": [
+   {
+    "name": "Dishonored",
+    "year": 2012
+   },
+   {
+    "id": 11118
+   },
+   {
+    "name": "Dishonored: Death of the Outsider",
+    "year": 2017
+   }
+  ],
+  "notes": "Main = Dishonored, Dishonored 2 and the standalone Death of the Outsider, which ends the story.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Drakengard / NieR": {
+  "franchise": "Drakengard / NieR",
+  "source": "https://en.wikipedia.org/wiki/Drakengard",
+  "replaces": [
+   "Drakengard",
+   "NieR"
+  ],
+  "main": [
+   {
+    "name": "Drakengard",
+    "year": 2003
+   },
+   {
+    "name": "Drakengard 2",
+    "year": 2005
+   },
+   {
+    "id": 7120,
+    "title": "NieR (Gestalt / Replicant)"
+   },
+   {
+    "name": "Drakengard 3",
+    "year": 2013
+   },
+   {
+    "id": 11208
+   },
+   {
+    "name": "NieR Replicant ver.1.22474487139...",
+    "year": 2021,
+    "remake_of": 7120
+   }
+  ],
+  "notes": "One shared world: NieR branches from Drakengard's Ending E. Drakengard and NieR are separate arcs; NieR Replicant ver.1.22 is the 2021 remaster-remake of NieR.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Dragon Age": {
+  "franchise": "Dragon Age",
+  "source": "https://en.wikipedia.org/wiki/Dragon_Age",
+  "main": [
+   {
+    "name": "Dragon Age: Origins",
+    "year": 2009
+   },
+   {
+    "name": "Dragon Age II",
+    "year": 2011
+   },
+   {
+    "name": "Dragon Age: Inquisition",
+    "year": 2014
+   },
+   {
+    "id": 30208
+   }
+  ],
+  "notes": "Main = the four games. Awakening (expansion) and the rest are spin-offs.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Death Stranding": {
+  "franchise": "Death Stranding",
+  "source": "https://en.wikipedia.org/wiki/Death_Stranding",
+  "main": [
+   {
+    "id": 19564
+   },
+   {
+    "id": 228530
+   }
+  ],
+  "notes": "Main = Death Stranding and Death Stranding 2.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "A Plague Tale": {
+  "franchise": "A Plague Tale",
+  "source": "https://en.wikipedia.org/wiki/A_Plague_Tale",
+  "main": [
+   {
+    "id": 27316
+   },
+   {
+    "id": 152242
+   }
+  ],
+  "notes": "Main = Innocence and Requiem.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Middle-earth": {
+  "franchise": "Middle-earth",
+  "source": "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor",
+  "main": [
+   {
+    "id": 3025
+   },
+   {
+    "id": 27421
+   }
+  ],
+  "notes": "Monolith's Shadow of Mordor and Shadow of War. Custom guide: IGDB files them under The Lord of the Rings license, which is skipped.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Left 4 Dead": {
+  "franchise": "Left 4 Dead",
+  "source": "https://en.wikipedia.org/wiki/Left_4_Dead_(series)",
+  "main": [
+   {
+    "id": 122
+   },
+   {
+    "id": 124
+   }
+  ],
+  "notes": "Main = Left 4 Dead 1 and 2.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Suikoden": {
+  "franchise": "Suikoden",
+  "source": "https://en.wikipedia.org/wiki/Suikoden",
+  "main": [
+   {
+    "id": 1447
+   },
+   {
+    "id": 1454
+   },
+   {
+    "name": "Suikoden III",
+    "year": 2002
+   },
+   {
+    "name": "Suikoden IV",
+    "year": 2004
+   },
+   {
+    "name": "Suikoden V",
+    "year": 2006
+   }
+  ],
+  "spin": [
+   {
+    "name": "Suikoden Tierkreis",
+    "year": 2008
+   },
+   {
+    "name": "Suikoden Tactics",
+    "year": 2005
+   }
+  ],
+  "notes": "Main = the five numbered games. Tactics, Tierkreis and the rest are spin-offs.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Breath of Fire": {
+  "franchise": "Breath of Fire",
+  "source": "https://en.wikipedia.org/wiki/Breath_of_Fire",
+  "main": [
+   {
+    "id": 11617
+   },
+   {
+    "id": 6337
+   },
+   {
+    "name": "Breath of Fire III",
+    "year": 1997
+   },
+   {
+    "name": "Breath of Fire IV",
+    "year": 2000
+   },
+   {
+    "name": "Breath of Fire: Dragon Quarter",
+    "year": 2002
+   }
+  ],
+  "notes": "Main = I-IV and Dragon Quarter.",
+  "custom": true,
+  "curated_at": "2026-11-25"
+ },
+ "Resistance": {
+  "franchise": "Resistance",
+  "source": "https://en.wikipedia.org/wiki/Resistance_(series)",
+  "main": [
+   {
+    "id": 1278
+   },
+   {
+    "name": "Resistance 2",
+    "year": 2008
+   },
+   {
+    "name": "Resistance 3",
+    "year": 2011
+   }
+  ],
+  "spin": [
+   {
+    "name": "Resistance: Retribution",
+    "year": 2009
+   },
+   {
+    "id": 19907
+   }
+  ],
+  "notes": "Main = the three Insomniac console games. Retribution (PSP) and Burning Skies (Vita) are spin-offs.",
+  "custom": true,
+  "curated_at": "2026-11-25"
  }
 }

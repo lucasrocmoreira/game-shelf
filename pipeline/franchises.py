@@ -25,6 +25,7 @@ from . import rating
 from .igdb import franchise_ok
 import re
 import time
+import zlib
 
 from .util import CACHE_DIR, CONFIG_DIR, days_since, load_json, log, now_iso, save_json
 
@@ -362,6 +363,7 @@ def build(igdb_client, igdb_games, rows):
 
     now = time.time()
     out = []
+    replaced = {_norm(n) for c in curation.values() if c.get("custom") for n in c.get("replaces") or []}
     for grp in candidates:
         games, seen = [], set()
         for fid in sorted(grp["fids"]):
@@ -373,6 +375,8 @@ def build(igdb_client, igdb_games, rows):
             continue
         if (curation.get(grp["name"]) or {}).get("exclude"):
             continue  # judged not to be a real game series (a license, a genre label)
+        if _norm(grp["name"]) in replaced:
+            continue  # shown as part of a custom guide (Drakengard inside "Drakengard / NieR")
         f = _auto(min(grp["fids"]), grp["name"], games, known, by_id, now, curation.get(grp["name"]), fids=grp["fids"])
         if f:
             out.append(f)
@@ -381,7 +385,7 @@ def build(igdb_client, igdb_games, rows):
     shown_names = {_norm(f["name"]) for f in out}
     for cid in ccands:
         c = cache.get(f"c{cid}")
-        if not c or _norm(cnames[cid]) in shown_names or (curation.get(cnames[cid]) or {}).get("exclude"):
+        if not c or _norm(cnames[cid]) in shown_names | replaced or (curation.get(cnames[cid]) or {}).get("exclude"):
             continue
         mine = cowned[cid]
         if len(mine & covered) >= 0.5 * len(mine):
@@ -391,6 +395,25 @@ def build(igdb_client, igdb_games, rows):
             out.append(f)
             shown_names.add(_norm(cnames[cid]))
             covered |= {k for e in f["games"] for k in e["keys"]}
+    # Custom guides: series IGDB doesn't group well enough (Batman: Arkham inside the Batman license, Red Dead
+    # tagged only as a two-game collection). Built from the curated list alone.
+    for cname_, cur in curation.items():
+        if not cur.get("custom") or _norm(cname_) in shown_names or cur.get("exclude"):
+            continue
+        games = []
+        for it in _curated_items(cur):
+            g = known.get(it.get("id")) if it.get("id") else None
+            if g is None and it.get("name"):
+                g = next((x for x in known.values() if _norm(x.get("name")) == _norm(it["name"])
+                          and (not it.get("year") or not _year(x) or abs(_year(x) - it["year"]) <= 1)), None)
+            if g is not None and g not in games:
+                games.append(g)
+        if not games:
+            continue
+        f = _auto(-(2_000_000 + zlib.crc32(cname_.encode()) % 1_000_000), cname_, games, known, by_id, now, cur, fids=None)
+        if f:
+            out.append(f)
+            shown_names.add(_norm(cname_))
     # Overlapping guides (Mario and Mario Bros.): keep the bigger one.
     mains_of = {f["id"]: {i for e in f["games"] if not e["spin"] for i in e.get("ids", [e["id"]])} for f in out}
     drop = set()
