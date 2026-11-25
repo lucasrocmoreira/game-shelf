@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-28T11:14:14.358Z",
+ "fetched": "2026-11-25T04:20:19.286Z",
  "source": "Wikipedia: Nintendo Classics",
  "games": [
   {
@@ -1749,6 +1749,11 @@
   },
   {
    "title": "Star Fox Adventures",
+   "tag": "GameCube",
+   "console": "Switch 2"
+  },
+  {
+   "title": "Wave Race: Blue Storm",
    "tag": "GameCube",
    "console": "Switch 2"
   },
