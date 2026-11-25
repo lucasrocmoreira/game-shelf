@@ -353,12 +353,12 @@
     "Batman: Arkham": {"story": "saga", "opt": [2003]},
     "Alan Wake & Control": {"story": "saga"},
     "Max Payne": {"story": "saga"},
-    "Red Dead": {"story": "saga"},
+    "Red Dead": {"story": "saga", "opt": [1969]},
     "Mother / EarthBound": {"story": "loose", "opt": [238665]},
     "Etrian Odyssey": {"story": "none"},
     "Portal": {"story": "saga"},
     "Dishonored": {"story": "saga"},
-    "Drakengard / NieR": {"story": "loose"},
+    "Drakengard / NieR": {"story": "arcs", "arcs": {"Drakengard": [11635, 11663, 8576], "NieR": [7120, 11208]}},
     "Dragon Age": {"story": "loose"},
     "Death Stranding": {"story": "saga"},
     "A Plague Tale": {"story": "saga"},
@@ -366,7 +366,8 @@
     "Left 4 Dead": {"story": "none"},
     "Suikoden": {"story": "loose"},
     "Breath of Fire": {"story": "none"},
-    "Resistance": {"story": "saga"}
+    "Resistance": {"story": "saga"},
+    "Dark Souls": {"story": "arcs", "arcs": {"Dark Souls trilogy": [2155, 2368, 11133]}}
   },
   "reviewed": {
     "Assassin's Creed": [113, 127, 128, 537, 1266, 1970, 3195, 3775, 5606, 7570, 8223, 8263, 10661, 14902, 14903, 18865, 20077, 21349, 28540, 103054, 111830, 133004, 215060, 251568, 300976, 337738, 428613],
@@ -399,6 +400,18 @@
     "Xeno": [1227, 1228, 1229, 1346, 2364, 2366, 25021, 26766, 103340, 191411],
     "Marvel's Spider-Man": [19565, 127044, 134581, 168667],
     "The Walking Dead": [1831, 1871, 3097, 7631, 11204, 11670, 11744, 19000, 51524, 105416, 118485, 131053, 137291, 198232, 259748, 262261, 277170, 409384],
-    "F.E.A.R.": [514, 517, 518, 519, 520, 7831, 77261]
+    "F.E.A.R.": [514, 517, 518, 519, 520, 7831, 77261],
+    "Portal": [71, 72, 76770, 191897],
+    "Batman: Arkham": [500, 501, 2003, 5503, 7689, 19563, 136627, 299736],
+    "Alan Wake & Control": [1062, 2602, 103329, 185246, 320144],
+    "Resistance": [1278, 3205, 3206, 19907, 22885],
+    "Red Dead": [434, 1969, 3735, 25076],
+    "Dishonored": [533, 11118, 37030],
+    "Max Payne": [18, 19, 960],
+    "Death Stranding": [19564, 228530],
+    "A Plague Tale": [27316, 152242],
+    "Middle-earth": [3025, 27421],
+    "Dark Souls": [2155, 2368, 5619, 7334, 11133, 76882, 119133, 134606, 325591],
+    "Drakengard / NieR": [7120, 8576, 11208, 11635, 11663, 131999]
   }
 }

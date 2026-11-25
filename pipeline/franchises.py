@@ -243,6 +243,15 @@ def _lookup_extra(igdb_client, cache, curation, known):
     return extra
 
 
+def _find_named(known, it):
+    """The game a curated {name, year} means: same name, a dated main game near that year first (IGDB
+    also lists undated ports under the same name), then the most rated."""
+    hits = [x for x in known.values() if _norm(x.get("name")) == _norm(it["name"])
+            and (not it.get("year") or not _year(x) or abs(_year(x) - it["year"]) <= 1)]
+    return max(hits, key=lambda x: (bool(_year(x)), _type(x) in MAIN_TYPES and not x.get("version_parent"),
+                                    x.get("total_rating_count") or 0), default=None)
+
+
 def _curated_items(cur):
     for e in cur.get("main") or []:
         yield e
@@ -404,8 +413,7 @@ def build(igdb_client, igdb_games, rows):
         for it in _curated_items(cur):
             g = known.get(it.get("id")) if it.get("id") else None
             if g is None and it.get("name"):
-                g = next((x for x in known.values() if _norm(x.get("name")) == _norm(it["name"])
-                          and (not it.get("year") or not _year(x) or abs(_year(x) - it["year"]) <= 1)), None)
+                g = _find_named(known, it)
             if g is not None and g not in games:
                 games.append(g)
         if not games:
@@ -655,8 +663,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
         for it in items:
             g = known.get(it.get("id")) if it.get("id") else None
             if g is None and it.get("name"):
-                g = next((x for x in known.values() if _norm(x.get("name")) == _norm(it["name"])
-                          and (not it.get("year") or not _year(x) or abs(_year(x) - it["year"]) <= 1)), None)
+                g = _find_named(known, it)
             if g is None:
                 continue
             e = by_entry.get(g["id"]) or {
@@ -689,8 +696,7 @@ def _apply_curation(cur, entries, known, by_id, editions, now):
     for it in cur.get("spin") or []:
         g = known.get(it.get("id")) if it.get("id") else None
         if g is None and it.get("name"):  # spin-offs given by name and year
-            g = next((x for x in known.values() if _norm(x.get("name")) == _norm(it["name"])
-                      and (not it.get("year") or not _year(x) or abs(_year(x) - it["year"]) <= 1)), None)
+            g = _find_named(known, it)
         if g and g["id"] not in chosen and g["id"] not in by_entry:
             by_entry[g["id"]] = {"id": g["id"], "title": it.get("title") or g.get("name"), "slug": g.get("slug"),
                                  "year": _year(g), "date": g.get("first_release_date"), "cover": _cover(g),

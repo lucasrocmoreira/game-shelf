@@ -1031,7 +1031,7 @@ function seriesNeeds(best, pool){
         : earlier.filter(e=>{  // a remake counts: you own it, and its score counts for the original
             const vers = [e, ...(e.remakes||[]).filter(r=>!VERSION_DISTINCT.has(r.id))];
             const best = Math.max(...vers.map(x=>x.score??0)), have = vers.some(x=>x.rows.length);
-            return e.ess || best >= MUST_PLAY || (e===main[0] && best >= 75 && have);  // the first game counts only if you have it
+            return !e.opt && (e.ess || best >= MUST_PLAY || (e===main[0] && best >= 75 && have));  // the first game counts only if you have it
           });
   } else if(story === "arcs"){
     const arcs = Object.values(f.arcs||{});  // a remake listed in an arc keeps that place (Anniversary in the Legend trilogy)

@@ -6685,7 +6685,14 @@
   ],
   "notes": "Main = Portal and Portal 2.",
   "custom": true,
-  "curated_at": "2026-11-25"
+  "curated_at": "2026-11-25",
+  "drop": [
+   15646,
+   2047,
+   16628,
+   33308,
+   120607
+  ]
  },
  "Dishonored": {
   "franchise": "Dishonored",
