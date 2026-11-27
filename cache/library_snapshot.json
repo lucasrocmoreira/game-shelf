@@ -11440,6 +11440,15 @@
    "title": "Uncharted™: The Nathan Drake Collection"
   },
   {
+   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+   "last_played": "2026-11-26",
+   "platform": "PS5",
+   "playtime_hours": 38.6,
+   "ps_plus": false,
+   "source_id": "PPSA31327_00",
+   "title": "Yakuza 0 Director's Cut"
+  },
+  {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2517/xK2b8gY5A5oyYlc1pnUUVEm5.png",
    "last_played": "2026-01-17",
    "platform": "PS4",
@@ -11447,15 +11456,6 @@
    "ps_plus": true,
    "source_id": "CUSA19500_00",
    "title": "Mass Effect™ Legendary Edition"
-  },
-  {
-   "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
-   "last_played": "2026-11-26",
-   "platform": "PS5",
-   "playtime_hours": 35.6,
-   "ps_plus": false,
-   "source_id": "PPSA31327_00",
-   "title": "Yakuza 0 Director's Cut"
   },
   {
    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png",
@@ -20697,17 +20697,17 @@
    "title": "Metro Exodus"
   },
   {
-   "also_platform": "PS4",
+   "also_platform": null,
    "concept": "10009198",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2821/51d6eb5a4a96c0a546c0f7e475a6477a6c4a29196c95820b.png",
    "last_played": null,
    "match_platforms": null,
    "origin": null,
-   "platform": "PS5",
+   "platform": "PS4",
    "playtime_hours": 0.0,
    "source_id": "psplus:10009198",
    "store_url": "https://store.playstation.com/en-us/concept/10009198",
-   "streaming": true,
+   "streaming": false,
    "tier": "Game Catalog",
    "title": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
